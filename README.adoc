@@ -1,0 +1,90 @@
+= relaton-data-eu
+
+Bibliographic data of EU legal acts (regulations, directives and decisions) in
+Relaton YAML format, for the `Relaton::Eu` flavor of the
+https://github.com/relaton/relaton[relaton] gem.
+
+== Source
+
+The crawler reads the EU Publications Office CELLAR SPARQL endpoint (no key):
+
+  https://publications.europa.eu/webapi/rdf/sparql
+
+It asks for CELEX sector 3 (legislation), types `R` (regulation), `L`
+(directive) and `D` (decision), 1,000 works a page, one request at a time.
+
+Full crawl (`eu-cellar`):: every year from 1952 to this year, 247 pages for
+  about 213,400 works. Each document has a title in every language of the
+  act (up to 24), so a page is slow, and a run takes about 1.5 hours to more
+  than 4 hours.
+Update run (`eu-cellar-updates`):: only the works CELLAR changed since one
+  day before the last finished run, 1 to about 12 pages, seconds to a few
+  minutes. It cannot see a work that CELLAR deleted, or a change outside the
+  work, so the full crawl still runs monthly.
+
+Both runs write `cellar-since.txt`, the start time of the run. The next update
+run reads it, so the repository commits it. An update run without this file
+fails.
+
+Out of scope: consolidated versions, corrigenda, works with no ELI, and the
+other CELEX sectors.
+
+== Contents
+
+`data/*.yaml`:: one Relaton YAML document for each act, named after the act
+  identifier (`data/eu-regulation-1227-2011.yaml`), with a title in every
+  language of the act (about 6 KB for each document, about 1 GB in all)
+`index-v2.yaml`, `index-v2.zip`:: the pubid (`Pubid::Eu::Identifier`) index
+`cellar-since.txt`:: the start time of the last finished crawl (UTC)
+
+The primary docidentifier is the act identifier (`EU Regulation 1227/2011`).
+The CELEX number and the ELI are secondary docidentifiers. The act identifier
+comes from the ELI, never from the CELEX number.
+
+The machine index (manifest and shards) is published on GitHub Pages at
+https://relaton.github.io/relaton-data-eu/. `Relaton::Eu::Bibliography`
+searches it and reads documents from
+`https://raw.githubusercontent.com/relaton/relaton-data-eu/main/data/`.
+
+== Crawl
+
+[source,sh]
+----
+bundle install
+bundle exec ruby crawler.rb          # update run, or full crawl (see below)
+bundle exec ruby crawler.rb full     # full crawl, with prune
+bundle exec ruby crawler.rb updates  # update run
+bundle exec ruby check_data.rb       # round-trip check of data/*.yaml
+bundle exec rake                     # specs; they never contact CELLAR
+----
+
+With no argument, `crawler.rb` runs the full crawl when `cellar-since.txt` is
+missing or on the first day of the month (UTC). On all other days it runs an
+update.
+
+A full crawl deletes the old `index-v*` files first and runs in prune mode.
+Prune mode deletes the files of acts that the crawl did not write, but only
+when the crawl wrote at least 90% of the existing corpus. (`relaton fetch-data
+eu-cellar` has no prune option.) An update run keeps the index and adds the
+changed acts to it. A page that keeps failing raises before the index and
+`cellar-since.txt` are written, so a failed run keeps the data as it was, and
+the next run reads the same changes again.
+
+`crawler.rb` stages `cellar-since.txt` with `git add`, because the shared
+crawler workflow commits only `data/` and the index files.
+
+The daily `Crawler` workflow runs `crawler.rb` and commits the result. `Deploy`
+then publishes the Pages index. To start a run of one type, dispatch `Crawler`
+with the argument `full` or `updates`.
+
+== Gem source
+
+`Relaton::Eu` is not released yet. The `Gemfile` takes relaton from the branch
+`docs/eu-flavor-design` of relaton/relaton. Change it to the released version
+when relaton releases the flavor.
+
+== Workflows
+
+The files in `.github/workflows/` are managed by
+https://github.com/relaton/support[relaton/support] (Cimas). Do not edit them
+here: change the templates in `support/cimas-config/gh-actions/`.
