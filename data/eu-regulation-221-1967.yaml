@@ -1,0 +1,73 @@
+---
+id: EURegulation2211967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 221/67/CEE de la Commission, du 28 juin 1967, modifiant
+    le règlement n° 41/67/CEE pour tenir compte de l'incidence des prix uniques
+    valables dans le secteur des céréales sur le régime des échanges applicable
+    aux aliments composés à base de produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 221/67/EWG der Kommission vom 28. Juni 1967 zur Änderung
+    der Verordnung Nr. 41/67/EWG, um der Auswirkung der auf dem Getreidesektor geltenden
+    einheitlichen Preise auf die Regelung des Warenverkehrs mit Milch-Mischfuttermitteln
+    Rechnung zu tragen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 221/67/CEE, della Commissione, del 28 giugno 1967, che modifica
+    il regolamento n. 41/67/CEE per tener conto dell'incidenza dei prezzi unici validi
+    nel settore dei cereali sul regime degli scambi applicabile agli alimenti composti
+    a base di prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 221/67/EEG van de Commissie van 28 juni 1967 houdende wijziging
+    van Verordening no. 41/67/EEG ten einde rekening te houden met de invloed van
+    de gemeenschappelijke graanprijzen op de regeling van het handelsverkeer voor
+    mengvoeders op basis van zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0221
+docidentifier:
+- content: EU Regulation 221/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0221
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/221/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

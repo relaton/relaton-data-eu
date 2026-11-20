@@ -1,0 +1,80 @@
+---
+id: EURegulation27061972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2706/72 de la Commission, du 22 décembre 1972, modifiant
+    l'annexe du règlement (CEE) n° 1576/72 en ce qui concerne les montants différentiels
+    pour les graines de colza et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2706/72 der Kommission vom 22. Dezember 1972 zur Änderung
+    des Anhangs der Verordnung (EWG) Nr. 1576/72 der Kommission über die Differenzbeträge
+    für Raps- und Rübsensamen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2706/72 della Commissione, del 22 dicembre 1972, che
+    modifica l'allegato del regolamento (CEE) n. 1576/72 relativo agli importi differenziali
+    per i semi di colza e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2706/72 van de Commissie van 22 december 1972 tot
+    wijziging van de bijlage van Verordening (EEG) nr. 1576/72 betreffende de differentiële
+    bedragen voor kool- en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2706
+docidentifier:
+- content: EU Regulation 2706/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2706
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2706/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-22'
+- type: implemented
+  at: '1972-12-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1576
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

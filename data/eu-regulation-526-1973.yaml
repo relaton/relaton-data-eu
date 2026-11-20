@@ -1,0 +1,102 @@
+---
+id: EURegulation5261973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 526/73 of the Council of 19 February 1973 on the financing
+    of special measures for colza and rape seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 526/73 du Conseil, du 19 février 1973, relatif au
+    financement des mesures spéciales pour les graines de colza et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 526/73 des Rates vom 19. Februar 1973 über die Finanzierung
+    der Sondermaßnahmen für Raps- und Rübsensamen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 526/73 af 19. februar 1973 om finansiering
+    af de særlige foranstaltninger for raps- og rybsfrø
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 526/73 του Συμβουλίου
+    της 19ης Φεβρουαρίου 1973 περί της χρηματοδοτήσεως
+    των ειδικών μέτρων για τους κραμβόσπορους
+    και γογγυλόσπορους
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 526/73 del Consiglio, del 19 febbraio 1973, relativo
+    al finanziamento delle misure speciali per i semi di colza e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 526/73 van de Raad van 19 februari 1973 betreffende
+    de financiering van de bijzondere maatregelen voor kool- en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0526
+docidentifier:
+- content: EU Regulation 526/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0526
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/526/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-02-19'
+- type: implemented
+  at: '1972-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0786
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2824
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

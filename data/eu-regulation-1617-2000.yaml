@@ -1,0 +1,137 @@
+---
+id: EURegulation16172000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1617/2000 of 24 July 2000 amending Regulations
+    (EEC) No 3105/88 and (EEC) No 2721/88 for the purpose of setting the time limits
+    for certain distillation operations in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) nº 1617/2000 de la Commission du 24 juillet 2000 modifiant
+    les règlements (CEE) nº 3105/88 et (CEE) nº 2721/88 afin de fixer les dates
+    limites de certaines distillations dans le secteur vitivinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1617/2000 der Kommission vom 24. Juli 2000 zur Änderung
+    der Verordnung (EWG) Nr. 3105/88 und (EWG) Nr. 2721/88 zwecks Festsetzung der
+    Fristen für bestimmte Destillationen im Weinsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1617/2000 af 24. juli 2000 om ændring
+    af forordning (EØF) nr. 3105/88 og (EØF) nr. 2721/88 med henblik på fastsættelse
+    af fristerne for visse destillationer i vinsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1617/2000 της Επιτροπής,
+    της 24ης Ιουλίου 2000, για την τροποποίηση των
+    κανονισμών (ΕΟΚ) αριθ. 3105/88 και (ΕΟΚ) αριθ. 2721/88
+    προκειμένου να οριστούν οι προθεσμίες ορισμένων
+    αποστάξεων στον αμπελοοινικό τομέα
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1617/2000, annettu 24 päivänä heinäkuuta
+    2000, asetuksen (ETY) N:o 3105/88 ja asetuksen (ETY) N:o 2721/88 muuttamisesta
+    määräaikojen vahvistamiseksi tietyille tislaustoimille viinialalla
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1617/2000 della Commissione, del 24 luglio 2000, che
+    modifica i regolamenti (CEE) n. 3105/88 e (CEE) n. 2721/88 allo scopo di fissare
+    le date limite di alcune distillazioni nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1617/2000 van de Commissie van 24 juli 2000 tot wijziging
+    van de Verordeningen (EEG) nr. 3105/88 en (EEG) nr. 2721/88 om de uiterste data
+    voor bepaalde distillaties in de sector wijn vast te stellen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n° 1617/2000 da Comissão, de 24 de Julho de 2000, que
+    altera os Regulamentos (CEE) n°s 3105/88 e 2721/88, a fim de fixar os prazos
+    de certas destilações no sector vitivinícola
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) nº 1617/2000 de la Comisión, de 24 de julio de 2000,
+    por el que se modifican los Reglamentos (CEE) nos 3105/88 y 2721/88 con el fin
+    de fijar las fechas límite de determinadas destilaciones en el sector vitivinícola
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1617/2000 av den 24 juli 2000 om ändring
+    av förordningarna (EEG) nr 3105/88 och (EEG) nr 2721/88 för att fastställa
+    tidsfrister för viss destillation inom vinsektorn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R1617
+docidentifier:
+- content: EU Regulation 1617/2000
+  type: EU
+  primary: true
+- content: CELEX 32000R1617
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2000/1617/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-07-24'
+- type: implemented
+  at: '2000-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R2721
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R3105
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

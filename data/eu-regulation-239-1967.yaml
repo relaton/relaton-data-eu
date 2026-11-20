@@ -1,0 +1,69 @@
+---
+id: EURegulation2391967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 239/67/CEE de la Commission, du 30 juin 1967, relatif aux
+    modalités d'application concernant la restitution à la production ainsi que
+    l'exonération du prélèvement pour les sucres utilisés dans l'industrie chimique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 239/67/EWG der Kommission vom 30. Juni 1967 über Durchführungsbestimmungen
+    für die Erstattung bei der Erzeugung und die Befreiung von der Abschöpfung für
+    Zucker, der in der chemischen Industrie verwendet wird.
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 239/67/CEE della Commissione, del 30 giugno 1967, relativo
+    alle modalità d'applicazione per la restituzione alla produzione e l'esenzione
+    dal prelievo per gli zuccheri impiegati nell'industria chimica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 239/67/EEG van de Commissie van 30 juni 1967 betreffende
+    de wijze van toepassing van de produktierestitutie en de vrijstelling van de heffing
+    voor de in de chemische industrie gebruikte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0239
+docidentifier:
+- content: EU Regulation 239/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0239
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/239/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

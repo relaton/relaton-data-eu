@@ -1,0 +1,74 @@
+---
+id: EURegulation1651967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 165/67/CEE de la Commission, du 26 juin 1967, concernant
+    la destination des produits dont les États membres ont assuré l'achat dans le
+    cadre des interventions sur le marché dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 165/67/EWG der Kommission vom 26. Juni 1967 über die Verwendung
+    der Erzeugnisse, deren Ankauf die Mitgliedstaaten im Rahmen der Interventionen
+    auf dem Obst- und Gemüsemarkt getätigt haben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 165/67/CEE della Commissione, del 26 giugno 1967, relativo
+    alla destinazione dei prodotti di cui gli Stati membri hanno assicurato l'acquisto
+    nel quadro degli interventi sul mercato nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 165/67/EEG van de Commissie van 26 juni 1967 betreffende
+    de bestemming van de produkten die de Lid-Staten in het kader van interventiemaatregelen
+    op de markt in de sector groenten en fruit hebben aangekocht
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0165
+docidentifier:
+- content: EU Regulation 165/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0165
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/165/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-26'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

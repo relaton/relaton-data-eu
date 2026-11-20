@@ -1,0 +1,94 @@
+---
+id: EURegulation26461975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2646/75 of the Commission of 17 October 1975 amending
+    the Annex to Regulation No 225/67/EEC as regards the coefficients for colza and
+    rape seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2646/75 de la Commission, du 17 octobre 1975, modifiant
+    l' annexe du règlement n° 225/67/CEE en ce qui concerne les coefficients d'
+    équivalence pour les graines de colza et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2646/75 der Kommission vom 17. Oktober 1975 zur Änderung
+    des Anhangs der Verordnung Nr. 225/67/EWG in bezug auf die Ausgleichskoeffizienten
+    für Raps- und Rübsensamen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2646/75 af 17. oktober 1975 om ændring
+    af bilaget til forordning nr. 225/67/EØF for så vidt angår udligningskoefficienterne
+    for raps- og rybsfrø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2646/75 della Commissione, del 17 ottobre 1975, che
+    modifica l' allegato del regolamento n. 225/67/CEE per quanto riguarda i coefficienti
+    di equivalenza per i semi di colza e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2646/75 van de Commissie van 17 oktober 1975 houdende
+    wijziging van de bijlage bij Verordening nr. 225/67/EEG met betrekking tot de
+    gelijkwaardigheidscoëfficiënten voor koolzaad en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2646
+docidentifier:
+- content: EU Regulation 2646/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2646
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2646/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-17'
+- type: implemented
+  at: '1975-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0225
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

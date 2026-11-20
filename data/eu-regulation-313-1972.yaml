@@ -1,0 +1,65 @@
+---
+id: EURegulation3131972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 313/72 de la Commission, du 11 février 1972, fixant
+    les montants supplémentaires pour les oeufs en coquille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 313/72 der Kommission vom 11. Februar 1972 zur Festsetzung
+    von Zusatzbeträgen für Eier in der Schale
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 313/72 della Commissione, dell'11 febbraio 1972, che
+    fissa l'importo supplementare per le uova in guscio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 313/72 van de Commissie van 11 februari 1972 houdende
+    vaststelling van extra bedragen voor eieren in de schaal
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0313
+docidentifier:
+- content: EU Regulation 313/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0313
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/313/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-02-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

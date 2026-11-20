@@ -1,0 +1,74 @@
+---
+id: EURegulation1091966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 109/66/CEE du Conseil, du 28 juillet 1966, concernant les
+    mesures à appliquer en matière de prix pour certains produits laitiers en Allemagne
+    pendant la campagne 1966/1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 109/66/EWG des Rates vom 28. Juli 1966 über Maßnahmen
+    bei den Preisen für gewisse Milcherzeugnisse in Deutschland während des Milchwirtschaftsjahres
+    1966/1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 109/66/CEE del Consiglio, del 28 luglio 1966, relativo alle
+    misure in materia di prezzi da applicare in Germania per taluni prodotti lattiero-
+    caseari durante la campagna 1966/1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 109/66/EEG van de Raad van 28 juli 1966 betreffende de
+    in Duitsland tijdens het melkprijsjaar 1966/1967 met betrekking tot de prijzen
+    van bepaalde zuivelprodukten te treffen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0109
+docidentifier:
+- content: EU Regulation 109/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0109
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/109/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-28'
+- type: implemented
+  at: '1966-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

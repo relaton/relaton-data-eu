@@ -1,0 +1,94 @@
+---
+id: EURegulation5891971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 589/71 of the Commission of 19 March 1971 amending
+    Regulation (EEC) No 2637/70 as regards the period of validity of export licences
+    for milk and milk products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 589/71 de la Commission, du 19 mars 1971, modifiant
+    le règlement (CEE) n° 2637/70 en ce qui concerne la durée de validité des
+    certificats d' exportation dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 589/71 der Kommission vom 19. März 1971 zur Änderung
+    der Verordnung (EWG) Nr. 2637/70 hinsichtlich der für Milch und Milcherzeugnisse
+    vorgesehenen Gültigkeitsdauer der Ausfuhrlizenzen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 589/71 af 19. marts 1971 om ændring
+    af forordning (EØF) nr. 2637/70, for så vidt angår gyldighedsperioden for eksportlicenser
+    for mælk og mejeriprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 589/71 della Commissione, del 19 marzo 1971, che modifica
+    il regolamento (CEE) n. 2637/70 per quanto riguarda la durata di validità dei
+    certificati d' esportazione nel settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 589/71 van de Commissie van 19 maart 1971 houdende
+    wijziging van Verordening (EEG) nr. 2637/70 met betrekking tot de geldigheidsduur
+    van uitvoercertificaten in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0589
+docidentifier:
+- content: EU Regulation 589/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0589
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/589/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-19'
+- type: implemented
+  at: '1971-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

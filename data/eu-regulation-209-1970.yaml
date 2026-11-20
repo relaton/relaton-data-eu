@@ -1,0 +1,77 @@
+---
+id: EURegulation2091970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 209/70 de la Commission, du 4 février 1970, fixant,
+    pour la campagne 1969/1970, le prix d'achat minimum des oranges livrées à l'industrie
+    et le montant de la compensation financière à la transformation de ces oranges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 209/70 der Kommission vom 4. Februar 1970 zur Festsetzung
+    des Mindestankaufspreises für an die Industrie gelieferte Apfelsinen und des
+    finanziellen Ausgleichs bei der Verarbeitung dieser Apfelsinen für das Wirtschaftsjahr
+    1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 209/70 della Commissione, del 4 febbraio 1970, che
+    fissa per la campagna 1969/1970 il prezzo minimo d'acquisto delle arance consegnate
+    all'industria e l'importo della compensazione finanziaria per la trasformazione
+    di tali arance
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 209/70 van de Commissie van 4 februari 1970 houdende
+    vaststelling voor het verkoopseizoen 1969/1970 van de minimumprijs van sinaasappelen
+    bij levering aan de industrie en het bedrag van de financiële vergoeding bij
+    de verwerking hiervan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0209
+docidentifier:
+- content: EU Regulation 209/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0209
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/209/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-04'
+- type: implemented
+  at: '1970-02-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

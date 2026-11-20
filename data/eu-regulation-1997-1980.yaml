@@ -1,0 +1,94 @@
+---
+id: EURegulation19971980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1997/80 of 24 July 1980 amending Regulation
+    (EEC) No 997/80 making the import of certain textile products originating in certain
+    non-member countries subject to Community surveillance
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1997/80 de la Commission, du 24 juillet 1980, modifiant
+    le règlement (CEE) n° 997/80 soumettant à un régime de surveillance communautaire
+    les importations de certains produits textiles originaires de certains pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1997/80 der Kommission vom 24. Juli 1980 zur Änderung
+    der Verordnung (EWG) Nr. 997/80, mit der die Einfuhr bestimmter Textilwaren mit
+    Ursprung in bestimmten Drittländern einer doppelten Kontrolle unterworfen wurde
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1997/80 af 24. juli 1980 om ændring
+    af forordning (EØF) nr. 997/80 om indførelse af fællesskabstilsyn med indførselen
+    af visse tekstilvarer med oprindelse i en række tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1997/80 della Commissione, del 24 luglio 1980, che
+    modifica il regolamento (CEE) n. 997/80 che sottopone a sorveglianza comunitaria
+    l' importazione di taluni prodotti tessili originari di alcuni paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1997/80 van de Commissie van 24 juli 1980 tot wijziging
+    van Verordening (EEG) nr. 997/80 houdende plaatsing onder communautair toezicht
+    van de invoer van bepaalde textielprodukten van oorsprong uit derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1997
+docidentifier:
+- content: EU Regulation 1997/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1997
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1997/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-07-24'
+- type: implemented
+  at: '1980-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R0997
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

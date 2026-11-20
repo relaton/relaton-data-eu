@@ -1,0 +1,76 @@
+---
+id: EURegulation21381970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2138/70 de la Commission, du 23 octobre 1970, relatif
+    à la constatation qu'il peut être donné suite aux demandes déposées en vue
+    de l'obtention des primes à la non-commercialisation du lait et des produits
+    laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2138/70 der Kommission vom 23. Oktober 1970 zur Feststellung,
+    daß den zur Erlangung der Prämien für die Nichtvermarktung von Milch und Milcherzeugnissen
+    eingereichten Anträgen stattgegeben werden kann
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2138/70 della Commissione, del 23 ottobre 1970, che
+    constata la possibilità di dar seguito alle domande presentate per ottenere i
+    premi alla non commercializzazione del latte e dei prodotti lattiero- caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2138/70 van de Commissie van 23 oktober 1970 met
+    betrekking tot de constatering, dat gevolg gegeven kan worden aan de verzoeken
+    die ter verkrijging van premies voor het niet in de handel brengen van melk en
+    zuivelprodukten werden ingediend
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2138
+docidentifier:
+- content: EU Regulation 2138/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2138
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2138/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-23'
+- type: implemented
+  at: '1970-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

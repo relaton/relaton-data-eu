@@ -1,0 +1,98 @@
+---
+id: EURegulation10071973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1007/73 of the Commission of 12 April 1973 amending
+    Regulation (EEC) No 526/72, by suspending application of a system of payment varying
+    according to the quality of the milk used for making drinking milk
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1007/73 de la Commission, du 12 avril 1973, modifiant
+    le règlement (CEE) n° 526/72, en ce qui concerne la suspension de l'application
+    d'un système de paiement différencié selon la qualité du lait utilisé pour
+    la fabrication du lait de consommation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1007/73 der Kommission vom 12. April 1973 zur Änderung
+    der Verordnung (EWG) Nr. 526/72 hinsichtlich der Aussetzung der Anwendung eines
+    Systems der nach Qualität differenzierten Bezahlung der für die Herstellung
+    von Konsummilch verwendeten Milch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1007/73 af 12. april 1973 om ændring
+    af forordning (EØF) nr. 526/72 for så vidt angår suspension af differentieret
+    betaling efter kvalitet for mælk, der anvendes til fremstilling af konsummælk
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1007/73 della Commissione, del 12 aprile 1973, che
+    modifica il regolamento (CEE) n. 526/72, per quanto riguarda la sospensione dell'applicazione
+    di un sistema di pagamento differenziato secondo la qualità del latte utilizzato
+    per la fabbricazione di latte alimentare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1007/73 van de Commissie van 12 april 1973 houdende
+    wijziging van Verordening (EEG) nr. 526/72 met betrekking tot uitstel van de toepassing
+    van een stelsel van naar kwaliteit gedifferentieerde betaling van de voor de bereiding
+    van consumptiemelk gebruikte melk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1007
+docidentifier:
+- content: EU Regulation 1007/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1007
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1007/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-12'
+- type: implemented
+  at: '1973-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0526
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

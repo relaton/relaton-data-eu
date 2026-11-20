@@ -1,0 +1,113 @@
+---
+id: EURegulation9211971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 921/71 of the Commission of 4 May 1971 amending the
+    common quality standards for asparagus
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 921/71 de la Commission, du 4 mai 1971, portant modification
+    des normes communes de qualité pour les asperges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 921/71 der Kommission vom 4. Mai 1971 zur Änderung
+    der gemeinsamen Qualitätsnormen für Spargel
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 921/71 af 4. maj 1971 om ændring af
+    de fælles kvalitetsnormer for asparges
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 921/71 τής Επιτροπής
+    τής 4ης Μαΐου 1971 περί τροποποιήσεως τών κοινών
+    κανόνων ποιότητος γιά τά σπαράγγια
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 921/71 della Commissione, del 4 maggio 1971, che modifica
+    le norme comuni di qualità per gli asparagi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 921/71 van de Commissie van 4 mei 1971 houdende wijziging
+    van de gemeenschappelijke kwaliteitsnormen voor asperges
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 921/71 da Comissão, de 4 de Maio de 1971, que altera
+    normas comuns de qualidade relativas aos espargos
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 921/71 de la Comisión, de 4 de mayo de 1971, por
+    el que se modifican las normas comunes de calidad para los espárragos
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0921
+docidentifier:
+- content: EU Regulation 921/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0921
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/921/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-04'
+- type: implemented
+  at: '1971-05-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0183
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1194
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation18131968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1813/68 de la Commission, du 14 novembre 1968, fixant
+    les prélèvements applicables aux céréales et aux farines, gruaux et semoules
+    de blé ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1813/68 der Kommission vom 14. November 1968 zur Festsetzung
+    der auf Getreide, Mehle, Grob- und Feingrieß von Weizen oder Roggen anwendbaren
+    Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1813/68 della Commissione, del 14 novembre 1968, che
+    fissa i prelievi applicabili ai cereali e alle farine, alle semole e ai semolini
+    di grano o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1813/68 van de Commissie van 14 november 1968 houdende
+    vaststelling van de heffingen die van toepassing zijn op granen en meel, grutten,
+    gries en griesmeel van tarwe of van rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1813
+docidentifier:
+- content: EU Regulation 1813/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1813
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1813/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

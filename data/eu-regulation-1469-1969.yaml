@@ -1,0 +1,75 @@
+---
+id: EURegulation14691969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1469/69 du Conseil, du 23 juillet 1969, relatif aux
+    mesures de sauvegarde prévues à l'accord créant une association entre la CEE
+    et la République tunisienne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1469/69 des Rates vom 23. Juli 1969 über die im Abkommen
+    zur Gründung einer Assoziation zwischen der Europäischen Wirtschaftsgemeinschaft
+    und der Tunesischen Republik vorgesehenen Schutzmaßnahmen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1469/69 del Consiglio, del 23 luglio 1969, relativo
+    alle misure di salvaguardia previste dall'Accordo che crea un'associazione tra
+    la Comunità economica europea e la Repubblica tunisina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1469/69 van de Raad van 23 juli 1969 betreffende
+    de vrijwaringsmaatregelen bedoeld in de Overeenkomst waarbij een Associatie tot
+    stand wordt gebracht tussen de Europese Economische Gemeenschap en de Tunesische
+    Republiek
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1469
+docidentifier:
+- content: EU Regulation 1469/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1469
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1469/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-23'
+- type: implemented
+  at: '1969-08-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

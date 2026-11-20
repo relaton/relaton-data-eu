@@ -1,0 +1,77 @@
+---
+id: EURegulation4601970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 460/70 du Conseil, du 6 mars 1970, portant conclusion
+    d'un accord commercial entre la Communauté économique européenne et la République
+    socialiste fédérative de Yougoslavie et arrêtant des dispositions pour son
+    application
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 460/70 des Rates vom 6. März 1970 über den Abschluß
+    eines Handelsabkommens zwischen der Europäischen Wirtschaftsgemeinschaft und
+    der Sozialistischen Föderativen Republik Jugoslawien sowie zur Festlegung von
+    Durchführungsbestimmungen zu diesem Abkommen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 460/70 del Consiglio, del 6 marzo 1970, recante conclusione
+    di un accordo commerciale tra la Comunità economica europea e la Repubblica socialista
+    federativa di Iugoslavia e che fissa disposizioni per la sua applicazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 460/70 van de Raad van 6 maart 1970 houdende sluiting
+    van een handelsakkoord tussen de Europese Economische Gemeenschap en de Socialistische
+    Federatieve Republiek Joegoslavië en tot vaststelling van de uitvoeringsbepalingen
+    daarvan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0460
+docidentifier:
+- content: EU Regulation 460/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0460
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/460/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-06'
+- type: implemented
+  at: '1970-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

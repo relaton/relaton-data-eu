@@ -1,0 +1,104 @@
+---
+id: EURegulation25931979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2593/79 of 22 November 1979 amending Regulation
+    (EEC) No 352/79 authorizing the coupage of German red wines with imported red
+    wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2593/79 du Conseil, du 22 novembre 1979, modifiant
+    le règlement (CEE) n° 352/79 autorisant le coupage des vins rouges allemands
+    avec des vins rouges importés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2593/79 des Rates vom 22. November 1979 zur Änderung
+    der Verordnung (EWG) Nr. 352/79 zur Genehmigung des Verschnitts deutscher Rotweine
+    mit eingeführten Rotweinen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2593/79 af 22. november 1979 om ændring
+    af forordning (EØF) nr. 352/79 om tilladelse til sammenstikning af tyske rødvine
+    med indførte rødvine
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 2593/79 του Συμβουλίου,
+    της 22ας Νοεμβρίου 1979, περί τροποποιήσεως του
+    Κανονισμού ( ΕΟΚ ) αριθ. 352/79 με τον οποίο επιτρέπεται
+    η αραίωση ερυθρών γερμανικών οίνων με ερυθρούς
+    οίνους εισαγωγής
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2593/79 del Consiglio, del 22 novembre 1979, che modifica
+    il regolamento (CEE) n. 352/79 che autorizza il taglio dei vini rossi tedeschi
+    con vini rossi importati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2593/79 van de Raad van 22 november 1979 tot wijziging
+    van Verordening (EEG) nr. 352/79 houdende machtiging tot het versnijden van Duitse
+    rode wijn met ingevoerde rode wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2593
+docidentifier:
+- content: EU Regulation 2593/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2593
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2593/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-11-22'
+- type: implemented
+  at: '1979-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0352
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

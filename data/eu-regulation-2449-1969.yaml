@@ -1,0 +1,71 @@
+---
+id: EURegulation24491969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2449/69 de la Commission, du 9 décembre 1969, relatif
+    à des adjudications pour l'écoulement de beurre de stock détenu par les organismes
+    d'intervention allemand et français et destiné à la consommation directe dans
+    la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2449/69 der Kommission vom 9. Dezember 1969 über
+    Ausschreibungen zum Absatz von zum direkten Verbrauch in der Gemeinschaft bestimmter
+    Butter aus den Beständen der deutschen und der französischen Interventionsstelle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2449/69 della Commissione, del 9 dicembre 1969, relativo
+    a dei bandi di gara per lo smaltimento di burro d'ammasso in possesso degli organismi
+    d'intervento tedesco e francese e destinato al consumo diretto nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2449/69 van de Commissie van 9 december 1969 betreffende
+    de afzet door middel van verkoop bij inschrijving van in het bezit van het Duitse
+    en het Franse interventiebureau zijnde boter, bestemd voor directe consumptie
+    in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2449
+docidentifier:
+- content: EU Regulation 2449/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2449
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2449/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

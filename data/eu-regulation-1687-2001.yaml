@@ -1,0 +1,138 @@
+---
+id: EURegulation16872001
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1687/2001 of 21 August 2001 amending Regulation
+    (Euratom, ECSC, EC) No 3418/93 laying down detailed rules for the implementation
+    of certain provisions of the Financial Regulation of 21 December 1977
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1687/2001 de la Commission du 21 août 2001 modifiant
+    le règlement (Euratom, CECA, CE) n° 3418/93 portant modalités d'exécution
+    de certaines dispositions du règlement financier du 21 décembre 1977
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1687/2001 der Kommission vom 21. August 2001 zur Änderung
+    der Verordnung (Euratom, EGKS, EG) Nr. 3418/93 mit Durchführungsbestimmungen
+    zu einigen Vorschriften der Haushaltsordnung vom 21. Dezember 1977
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1687/2001 af 21. august 2001 om ændring
+    af forordning (Euratom, EKSF, EF) nr. 3418/93 om gennemførelsesbestemmelser til
+    visse bestemmelser i finansforordningen af 21. december 1977
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1687/2001 της Επιτροπής,
+    της 21ης Αυγούστου 2001, για τροποποίηση του κανονισμού
+    (Ευρατόμ, ΕΚΑΧ ΕΚ) αριθ. 3418/93 περί λεπτομερών
+    κανόνων για την εφαρμογή ορισμένων διατάξεων
+    του Δημοσιονομικού Κανονισμού της 21ης Δεκεμβρίου
+    1977
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1687/2001, annettu 21 päivänä elokuuta 2001,
+    tiettyjen 21 päivänä joulukuuta 1977 annetun varainhoitoasetuksen säännösten
+    soveltamista koskevista yksityiskohtaisista säännöistä annetun asetuksen (Euratom,
+    EHTY, EY) N:o 3418/93 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1687/2001 della Commissione, del 21 agosto 2001, che
+    modifica il regolamento (Euratom, CECA, CE) n. 3418/93 che stabilisce le modalità
+    di esecuzione di alcune disposizioni del regolamento finanziario del 21 dicembre
+    1977
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1687/2001 van de Commissie van 21 augustus 2001 tot
+    wĳziging van Verordening (Euratom, EGKS, EG) nr. 3418/93 houdende uitvoeringsvoorschriften
+    betreffende een aantal bepalingen van het Financieel Reglement van 21 december
+    1977
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 1687/2001 da Comissão, de 21 de Agosto de 2001,
+    que altera o Regulamento (Euratom, CECA, CE) n.° 3418/93 que estabelece normas
+    de execução de algumas disposições do Regulamento Financeiro de 21 de Dezembro
+    de 1977
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1687/2001 de la Comisión, de 21 de agosto de 2001,
+    por el que se modifica el Reglamento (Euratom, CECA, CE) n° 3418/93 sobre normas
+    de desarrollo de disposiciones del Reglamento financiero de 21 de diciembre de
+    1977
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1687/2001 av den 21 augusti 2001 om ändring
+    av förordning (Euratom, EKSG, EG) nr 3418/93 om närmare bestämmelser för genomförandet
+    av vissa bestämmelser i budgetförordningen av den 21 december 1977
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1687
+docidentifier:
+- content: EU Regulation 1687/2001
+  type: EU
+  primary: true
+- content: CELEX 32001R1687
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2001/1687/oj
+  type: ELI
+date:
+- type: issued
+  at: '2001-08-21'
+- type: implemented
+  at: '2001-08-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31993R3418
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

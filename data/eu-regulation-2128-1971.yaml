@@ -1,0 +1,80 @@
+---
+id: EURegulation21281971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2128/71 de la Commission, du 4 octobre 1971, modifiant
+    le règlement (CEE) n° 2637/70, en ce qui concerne notamment la durée de validité
+    du certificat d'exportation pour le lait en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2128/71 der Kommission vom 4. Oktober 1971 zur Änderung
+    der Verordnung (EWG) Nr. 2637/70, insbesondere hinsichtlich der Gültigkeitsdauer
+    der Ausfuhrlizenzen für Milchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2128/71 della Commissione, del 4 ottobre 1971, che
+    modifica il regolamento (CEE) n. 2637/70 per quanto concerne in particolare la
+    durata di validità del titolo di esportazione per il latte in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2128/71 van de Commissie van 4 oktober 1971 houdende
+    wijziging van Verordening (EEG) nr. 2637/70, met name met betrekking tot de geldigheidsduur
+    van het uitvoercertificaat voor melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2128
+docidentifier:
+- content: EU Regulation 2128/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2128
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2128/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-04'
+- type: implemented
+  at: '1971-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

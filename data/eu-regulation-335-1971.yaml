@@ -1,0 +1,94 @@
+---
+id: EURegulation3351971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 335/71 of the Commission of 16 February 1971 amending
+    Regulation (EEC) No 442/70 laying down detailed rules for the application of the
+    system of offsetting storage costs for sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 335/71 de la Commission, du 16 février 1971, modifiant
+    le règlement (CEE) n° 442/70 établissant les modalités d' application du système
+    de compensation des frais de stockage dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 335/71 der Kommission vom 16. Februar 1971 zur Änderung
+    der Verordnung (EWG) Nr. 442/70 über Durchführungsbestimmungen zur Regelung
+    des Ausgleichs der Lagerkosten für Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 335/71 af 16. februar 1971 om ændring
+    i forordning (EØF) nr. 442/70 om gennemførelsesbestemmelser vedrørende udligningsordningen
+    for lageromkostninger for sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 335/71 della Commissione, del 16 febbraio 1971, che
+    modifica il regolamento (CEE) n. 442/70 che stabilisce le modalità di applicazione
+    del sistema di compenso delle spese di magazzinaggio nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 335/71 van de Commissie van 16 februari 1971 tot
+    wijziging van Verordening (EEG) nr. 442/70 houdende vaststelling van de wijze
+    van toepassing van het systeem van compensatie van opslagkosten in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0335
+docidentifier:
+- content: EU Regulation 335/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0335
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/335/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-16'
+- type: implemented
+  at: '1971-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0442
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

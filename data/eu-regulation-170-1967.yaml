@@ -1,0 +1,92 @@
+---
+id: EURegulation1701967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 170/67/EEC of the Council of 27 June 1967 on the common system
+    of trade for ovalbumin and lactalbumin and repealing Regulation No 48/67/EEC
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 170/67/CEE du Conseil, du 27 juin 1967, concernant le régime
+    commun d' échanges pour l' ovoalbumine et la lactoalbumine et abrogeant le règlement
+    n° 48/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 170/67/EWG des Rates vom 27. Juni 1967 über die gemeinsame
+    Handelsregelung für Eieralbumin und Milchalbumin und zur Aufhebung der Verordnung
+    Nr. 48/67/EWG
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 170/67/EØF af 27. juni 1967 om den fælles handelsordning
+    for ægalbumin og mælkealbumin og om ophævelse af forordning nr. 48/67/EØF
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 170/67/CEE del Consiglio, del 27 giugno 1967, che instaura
+    un regime comune degli scambi per l' ovoalbumina e la lattoalbumina e che abroga
+    il regolamento n. 48/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 170/67/EEG van de Raad van 27 juni 1967 betreffende een
+    gemeenschappelijke regeling van het handelsverkeer voor ovoalbumine en lactoalbumine
+    en houdende intrekking van Verordening nr. 48/67/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0170
+docidentifier:
+- content: EU Regulation 170/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0170
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/170/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0048
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

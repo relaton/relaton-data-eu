@@ -1,0 +1,69 @@
+---
+id: EURegulation1871966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 187/66/CEE du Conseil, du 24 novembre 1966, relatif à l'octroi
+    d'une restitution à la production pour les gruaux et semoules de maïs utilisés
+    par l'industrie de la brasserie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 187/66/EWG des Rates vom 24. November 1966 über die Gewährung
+    einer Erstattung bei der Erzeugung für die Grob- und FeingrieDsorten aus Mais,
+    die in der Brauerei-Industrie Verwendung finden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 187/66/CEE del Consiglio, del 24 novembre 1966, relativo
+    alla concessione di una restituzione alla produzione per le semole e i semolini
+    di granturco utilizzati nell'industria della birra
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 187/66/EEG van de Raad van 24 november 1966 betreffende
+    het verlenen van een restitutie bij de produktie voor in het brouwerijbedrijf
+    gebruikte grutten, gries en griesmeel van maïs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0187
+docidentifier:
+- content: EU Regulation 187/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0187
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/187/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

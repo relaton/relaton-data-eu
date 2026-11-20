@@ -1,0 +1,112 @@
+---
+id: EURegulation9121979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 912/79 of 8 May 1979 amending Regulations (EEC)
+    No 2511/69 and (EEC) No 1035/72 in respect of lemons and fixing the financial
+    compensation for these products for June 1979
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 912/79 du Conseil, du 8 mai 1979, modifiant les règlements
+    (CEE) n° 2511/69 et (CEE) n° 1035/72 en ce qui concerne les citrons et fixant
+    la compensation financière pour ces produits pour le mois de juin 1979
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 912/79 des Rates vom 8. Mai 1979 zur Änderung der
+    Verordnungen (EWG) Nr. 2511/69 und (EWG) Nr. 1035/72 hinsichtlich Zitronen und
+    zur Festsetzung des finanziellen Ausgleichs für diese Erzeugnisse im Juni 1979
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 912/79 af 8. maj 1979 om ændring af forordning
+    (EØF) nr. 2511/69 og nr. 1035/72 for så vidt angår citroner og om fastsættelse
+    af udligningstilskud til disse produkter for juni 1979
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 912/79 του Συμβουλίου
+    της 8ης Μαΐου 1979 περί τροποποιήσεως των κανονισμών
+    (ΕΟΚ) αριθ. 2511/69 και (ΕΟΚ) αριθ. 1035/72 όσον αφορά
+    τα λεμόνια, καθώς και περί καθορισμού της χρηματικής
+    αντισταθμίσεως για τα προϊόντα αυτά για τον
+    Ιούνιο 1979
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 912/79 del Consiglio, dell' 8 maggio 1979, che modifica
+    i regolamenti (CEE) n. 2511/69 e (CEE) n. 1035/72 per quanto riguarda i limoni
+    e fissa la compensazione finanziaria per questi prodotti per il mese di giugno
+    1979
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 912/79 van de Raad van 8 mei 1979 tot wijziging van
+    de Verordeningen (EEG) nr. 2511/69 en (EEG) nr. 1035/72 met betrekking tot citroenen
+    en houdende vaststelling van de financiële compensatie voor deze produkten voor
+    de maand juni 1979
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0912
+docidentifier:
+- content: EU Regulation 912/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0912
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/912/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-05-08'
+- type: implemented
+  at: '1979-05-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2511
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1035
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

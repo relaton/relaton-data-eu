@@ -1,0 +1,74 @@
+---
+id: EURegulation10551971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1055/71 du Conseil, du 25 mai 1971, fixant, pour la
+    campagne 1971/1972, les majorations mensuelles des prix des céréales et des
+    farines, gruaux et semoules de froment ou de seigles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1055/71 des Rates vom 25. Mai 1971 zur Festsetzung
+    der monatlichen Zuschläge zu den Preisen für Getreide und Mehl, Grütze und
+    Grieß von Weizen oder Roggen für das Wirtschaftsjahr 1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1055/71 del Consiglio, del 25 maggio 1971, che fissa,
+    per la campagna 1971/1972, le maggiorazioni mensili dei prezzi dei cereali e delle
+    farine, semole e semolini di frumento o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1055/71 van de Raad van 25 mei 1971 houdende vaststelling
+    van de maandelijkse verhogingen van de prijzen voor granen en meel, grutten, gries
+    en griesmeel van tarwe of van rogge voor het verkoopseizoen 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1055
+docidentifier:
+- content: EU Regulation 1055/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1055
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1055/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-25'
+- type: implemented
+  at: '1971-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,142 @@
+---
+id: EURegulation38141992
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3814/92 of 28 December 1992 amending Regulation
+    (EEC) No 1785/81 and introducing application in Spain of the sugar sector prices
+    provided for by that Regulation
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3814/92 du Conseil, du 28 décembre 1992, modifiant
+    le règlement (CEE) n° 1785/81 et portant application en Espagne des prix dans
+    le secteur du sucre prévus par ce règlement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3814/92 des Rates vom 28. Dezember 1992 zur Änderung
+    der Verordnung (EWG) Nr. 1785/81 und zur Anwendung der darin vorgesehenen Preise
+    für den Zuckersektor in Spanien
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3814/92 af 28. december 1992 om ændring
+    af forordning (EØF) nr. 1785/81 og om anvendelse i Spanien af de sukkerpriser,
+    der er fastsat i forordningen
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3814/92 του Συμβουλίου
+    της 28ης Δεκεμβρίου 1992 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 1785/81 και για την εφαρμογή
+    στην Ισπανία των τιμών στον τομέα της ζάχαρης
+    που προβλέπονται σε αυτόν τον κανονισμό
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 3814/92, annettu 28 päivänä joulukuuta 1992,
+    asetuksen (ETY) N:o 1785/81 muuttamisesta ja tässä asetuksessa säädettyjen
+    sokerialan hintojen soveltamisesta Espanjassa
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3814/92 del Consiglio, del 28 dicembre 1992, recante
+    modifica del regolamento (CEE) n. 1785/81 e relativo all' applicazione in Spagna
+    dei prezzi previsti da detto regolamento nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3814/92 van de Raad van 28 december 1992 houdende
+    wijziging van Verordening (EEG) nr. 1785/81 en houdende toepassing van de bij
+    die verordening voor de sector suiker vastgestelde prijzen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n° 3814/92 do Conselho, de 28 de Dezembro de 1992, que
+    altera o Regulamento (CEE) n° 1785/81 e aplica em Espanha os preços no sector
+    do açúcar previstos nesse regulamento
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 3814/92 del Consejo, de 28 de diciembre de 1992, por
+    el que se modifica el Reglamento (CEE) n° 1785/81 y se dispone la aplicación
+    en España de los precios establecidos en ese Reglamento para el sector del azúcar
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 3814/92 av den 28 december 1992 om ändring
+    av förordning (EEG) nr 1785/81 och om tillämpning i Spanien av de priser inom
+    sockersektorn som fastställts i samma förordning
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992R3814
+docidentifier:
+- content: EU Regulation 3814/1992
+  type: EU
+  primary: true
+- content: CELEX 31992R3814
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1992/3814/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-12-28'
+- type: implemented
+  at: '1993-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31991R1716
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R1785
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31992R1749
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

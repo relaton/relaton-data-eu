@@ -1,0 +1,123 @@
+---
+id: EURegulation1101983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 110/83 of 17 January 1983 amending Regulations
+    (EEC) No 1893/79 and (EEC) No 2592/79 introducing registration for crude oil imports
+    in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 110/83 du Conseil du 17 janvier 1983 modifiant les
+    règlements (CEE) no 1893/79 et (CEE) no 2592/79 instaurant un enregistrement
+    dans la Communauté des importations de pétrole brut
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 110/83 des Rates vom 17. Januar 1983 zur Änderung
+    der Verordnungen (EWG) Nr. 1893/79 und (EWG) Nr. 2592/79 zur Schaffung einer Registrierung
+    der Einfuhren von Rohöl in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 110/83 af 17. januar 1983 om ændring af
+    forordning (EØF) nr. 1893/79 og (EØF) nr. 2592/79 om indførelse af en registering
+    i Fællesskabet af indførsler af råolie
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 110/83 του Συμβουλίου
+    της 17ης Ιανουαρίου 1983 περί τροποποιήσεως των
+    κανονισμών (ΕΟΚ) αριθ. 1893/79 και (ΕΟΚ) αριθ. 2592/79
+    περί καθιερώσεως καταγραφής των εισαγωγών
+    αργού πετρελαίου εντός της Κοινότητας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 110/83 del Consiglio del 17 gennaio 1983 che modifica
+    i regolamenti (CEE) n. 1893/79 e (CEE) n. 2592/79 che introducono nella Comunità
+    la registrazione delle importazioni di petrolio greggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 110/83 van de Raad van 17 januari 1983 tot wijziging
+    van de Verordeningen (EEG) nr. 1893/79 en (EEG) nr. 2592/79 houdende instelling
+    van een registratie in de Gemeenschap van de invoer van ruwe aardolie
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 110/83 do Conselho, de 17 de Janeiro de 1983, que
+    altera os Regulamentos (CEE) n.° 1893/79 e (CEE) n.° 2592/79 que introduzem
+    na Comunidade um registo das importações do petróleo bruto
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 110/83 del Consejo, de 17 de enero de 1983, por el
+    que se modifican los Reglamentos (CEE) n° 1893/79 y (CEE) n° 2592/79 que establecen
+    un registro en la Comunidad de las importaciones de petróleo crudo
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0110
+docidentifier:
+- content: EU Regulation 110/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0110
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/110/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-01-17'
+- type: implemented
+  at: '1983-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1893
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2592
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

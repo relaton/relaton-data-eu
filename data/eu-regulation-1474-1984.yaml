@@ -1,0 +1,138 @@
+---
+id: EURegulation14741984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1474/84 of 24 May 1984 amending Regulations
+    (EEC) No 1569/72 and (EEC) No 2027/83 as regards the special measures for colza,
+    rape and sunflower seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1474/84 du Conseil du 24 mai 1984 modifiant les règlements
+    (CEE) no 1569/72 et (CEE) no 2027/83 en ce qui concerne des mesures spéciales
+    pour les graines de colza, de navette et de tournesol
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1474/84 des Rates vom 24. Mai 1984 zur Änderung der
+    Verordnungen (EWG) Nr. 1569/72 und (EWG) Nr. 2027/83 hinsichtlich der Sondermaßnahmen
+    für Raps- und Rübsensamen sowie für Sonnenblumenkerne
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1474/84 af 24. maj 1984 om ændring af forordning
+    (EØF) nr. 1569/72 og (EØF) nr. 2027/83 for så vidt angår de særlige foranstaltninger
+    for raps-, rybs- og solsikkefrø
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1474/84 του Συμβουλίου
+    της 24ης Μαΐου 1984 για τροποποίηση των κανονισμών
+    (ΕΟΚ) αριθ. 1569/72 και (ΕΟΚ) αριθ. 2027/83 όσον αφορά
+    τα ειδικά μέτρα για τους κραμβόσπορους, τους
+    γογγυλόσπορους και τους ηλιανθόσπορους
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 1474/84, annettu 24 päivänä toukokuuta 1984,
+    asetusten (ETY) N:o 1569/72 ja (ETY) N:o 2027/83 muuttamisesta rapsin-, rypsin-
+    ja auringonkukansiemeniä koskevien erityistoimenpiteiden osalta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1474/84 del Consiglio del 24 maggio 1984 recante modifica
+    dei regolamenti (CEE) n. 1569/72 e (CEE) n. 2027/83 per quanto concerne misure
+    speciali per i semi di colza, di ravizzone e di girasole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1474/84 van de Raad van 24 mei 1984 tot wijziging
+    van de Verordeningen (EEG) nr. 1569/72 en (EEG) nr. 2027/83 met betrekking tot
+    bijzondere maatregelen voor kool-, raap- en zonnebloemzaad
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1474/84 do Conselho, de 24 de Maio de 1984, que
+    altera os Regulamentos (CEE) n.° 1569/72 e (CEE) n.° 2027/83 no que diz respeito
+    a medidas especiais para as sementes de colza, nabiça e girassol
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1474/84 del Consejo, de 24 de mayo de 1984, por el
+    que se modifican los Reglamentos (CEE) n° 1569/72 y (CEE) n° 2027/83 en lo que
+    se refiere a las medidas especiales para las semillas de colza, de nabina y de
+    girasol
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 1474/84 av den 24 maj 1984 om ändring av
+    förordningarna (EEG) nr 1569/72 och (EEG) nr 2027/83 vad avser särskilda åtgärder
+    i fråga om raps-, rybs- och solrosfrö
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R1474
+docidentifier:
+- content: EU Regulation 1474/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R1474
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/1474/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-05-24'
+- type: implemented
+  at: '1984-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1569
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R2027
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

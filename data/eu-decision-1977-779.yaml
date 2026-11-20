@@ -1,0 +1,93 @@
+---
+id: EUDecision1977779
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '77/779/EEC: Council Decision of 12 December 1977 amending Decision 75/458/EEC
+    concerning a programme of pilot schemes and studies to combat poverty'
+  type: main
+- language: fr
+  script: Latn
+  content: '77/779/CEE: Décision du Conseil, du 12 décembre 1977, modifiant la décision
+    75/458/CEE concernant le programme de projets-pilotes et d'' études-pilotes pour
+    combattre la pauvreté'
+  type: main
+- language: de
+  script: Latn
+  content: '77/779/EWG: Beschluß des Rates vom 12. Dezember 1977 zur Änderung des
+    Beschlusses 75/458/EWG über das Programm von Modellvorhaben und Modellstudien
+    zur Bekämpfung der Armut'
+  type: main
+- language: da
+  script: Latn
+  content: '77/779/EØF: Rådets Afgørelse af 12. december 1977 om ændring af afgørelse
+    75/458/EØF om program for forsøgsprojekter og vejledende undersøgelser med
+    henblik på bekæmpelse af fattigdom'
+  type: main
+- language: it
+  script: Latn
+  content: '77/779/CEE: Decisione del Consiglio, del 12 dicembre 1977, che modifica
+    la decisione 75/458/CEE relativa al programma di progetti pilota e di studi pilota
+    per la lotta contro la povertà'
+  type: main
+- language: nl
+  script: Latn
+  content: '77/779/EEG: Besluit van de Raad van 12 december 1977 tot wijziging van
+    Besluit 75/458/EEG betreffende het programma voor modelprojecten en modelstudies
+    ter bestrijding van de armoede'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977D0779
+docidentifier:
+- content: EU Decision 1977/779
+  type: EU
+  primary: true
+- content: CELEX 31977D0779
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1977/779/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-12'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975D0458
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

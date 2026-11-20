@@ -1,0 +1,117 @@
+---
+id: EURegulation1961981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 196/81 of 20 January 1981 amending, by virtue
+    of the accession of Greece, Regulations (EEC) No 1408/71 and (EEC) No 574/72 on
+    the application of social security schemes to employed persons and their families
+    moving within the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 196/81 du Conseil, du 20 janvier 1981, modifiant,
+    en raison de l' adhésion de la Grèce, les règlements (CEE) n° 1408/71 et (CEE)
+    n° 574/72 concernant l' application des régimes de sécurité sociale aux travailleurs
+    salariés et à leur famille qui se déplacent à l' intérieur de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 196/81 des Rates vom 20. Januar 1981 zur Änderung
+    aufgrund des Beitritts Griechenlands der Verordnungen (EWG) Nr. 1408/71 und (EWG)
+    Nr. 574/72 betreffend die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer
+    und deren Familien, die innerhalb der Gemeinschaft zu- und abwandern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 196/81 af 20. januar 1981 om ændring af
+    forordning (EØF) nr. 1408/71 og (EØF) nr. 574/72 om anvendelse af de sociale
+    sikringsordninger på arbejdstagere og deres familiemedlemmer, der flytter inden
+    for Fællesskabet som følge af Grækenlands tiltrædelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 196/81 τού Συμβουλίου
+    τής 20ής Ιανουαρίου 1981 περί τροποποιήσεως, λόγω
+    τής προσχωρήσεως τής Ελλάδος, τών κανονισμών
+    (ΕΟΚ) αριθ. 1408/71 καί (ΕΟΚ) αριθ. 574/72 οι οποίοι
+    αφορούν τήν εφαρμογή τών συστημάτων κοινωνικής
+    ασφαλίσεως στούς μισθωτούς καί τίς οικογένειές
+    τους πού διακινούνται μέσα στήν Κοινότητα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 196/81 del Consiglio, del 20 gennaio 1981, che modifica,
+    in seguito all' adesione della Grecia, i regolamenti (CEE) n. 1408/71 e (CEE)
+    n. 574/72 che concernono l' applicazione dei regimi di sicurezza sociale ai lavoratori
+    subordinati ed ai loro familiari che si spostano all' interno della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 196/81 van de Raad van 20 januari 1981 tot wijziging
+    in verband met de toetreding van Griekenland van de Verordeningen (EEG) nr. 1408/71
+    en (EEG) nr. 574/72 betreffende de toepassing van de sociale zekerheidsregelingen
+    op loontrekkenden en hun gezinnen die zich binnen de Gemeenschap verplaatsen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0196
+docidentifier:
+- content: EU Regulation 196/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0196
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/196/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-01-20'
+- type: implemented
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1408
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0574
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

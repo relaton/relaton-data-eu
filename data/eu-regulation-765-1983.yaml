@@ -1,0 +1,143 @@
+---
+id: EURegulation7651983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 765/83 of 30 March 1983 amending Regulations
+    (EEC) No 368/77 and (EEC) No 443/77 on the sale of skimmed-milk powder for use
+    in feed for animals other than young calves
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 765/83 de la Commission du 30 mars 1983 modifiant
+    les règlements (CEE) n° 368/77 et (CEE) n 443/77 relatifs à la vente de lait
+    écrémé en poudre destiné à l'alimentation des animaux autres que les jeunes
+    veaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 765/83 der Kommission vom 30. März 1983 zur Änderung
+    der Verordnungen (EWG) Nr. 368/77 und (EWG) Nr. 443/77 betreffend den Verkauf
+    von Magermilchpulver, das zur Verfütterung an Tiere, außer an junge Kälber,
+    bestimmt ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 765/83 af 30. marts 1983 om ændring
+    af forordning (EØF) nr. 368/77 og (EØF) nr. 443/77 om salg af skummetmælkspulver,
+    der skal anvendes til foder, bortset fra foder til unge kalve
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 765/83 της Επιτροπής
+    της 30ής Μαρτίου 1983 περί τροποποίησης των κανονισμών
+    (ΕΟΚ) αριθ. 368/77 και (ΕΟΚ) αριθ. 443/77 περί της πώλησης
+    αποκορυφωμένου γάλακτος σε σκόνη που προορίζεται
+    για τη διατροφή των ζώων εκτός των νεαρών μόσχων
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (ETY) N:o 765/83, annettu 30 päivänä maaliskuuta 1983,
+    muiden eläinten kuin vasikoiden rehuksi tarkoitetun rasvattoman maitojauheen
+    myynnistä annettujen asetusten (ETY) N:o 368/77 ja (ETY) N:o 443/7 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 765/83 della Commissione del 30 marzo 1983 che modifica
+    i regolamenti (CEE) n. 368/77 e (CEE) n. 443/77 relativi alla vendita di latte
+    scremato in polvere destinato all'alimentazione degli animali diversi dai vitelli
+    giovani
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 765/83 van de Commissie van 30 maart 1983 tot wijziging
+    van de Verordeningen (EEG) nr. 368/77 en (EEG) nr. 443/77 met betrekking tot de
+    verkoop van magere-melkpoeder bestemd voor voeder voor andere dieren dan jonge
+    kalveren
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 765/83 da Comissão, de 30 de Março de 1983, que
+    altera os Regulamentos (CEE) nº 368/77 e (CEE) nº 443/77 relativos à venda
+    de leite em pó desnatado destinado à alimentação dos animais com excepção
+    dos vitelos novos
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 765/83 de la Comisión, de 30 de marzo de 1983, por
+    el que se modifican los Reglamentos (CEE) n° 368/77 y (CEE) n° 443/77 relativos
+    a la venta de leche desnatada en polvo destinada a la alimentación de animales
+    distintos de los terneros jóvenes
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EEG) nr 765/83 av den 30 mars 1983 om ändring
+    av förordningarna (EEG) nr 368/77 och (EEG) nr 443/77 om försäljning av skummjölkspulver
+    avsett att användas i foder för andra djur än unga kalvar
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0765
+docidentifier:
+- content: EU Regulation 765/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0765
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/765/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-03-30'
+- type: implemented
+  at: '1983-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0368
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0443
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

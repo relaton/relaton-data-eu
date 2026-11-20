@@ -1,0 +1,99 @@
+---
+id: EURegulation22231976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2223/76 of 9 September 1976 amending Regulation
+    (EEC) No 2101/76 temporarily and totally suspending the autonomous Common Customs
+    Tariff duties on a number of fresh or chilled vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2223/76 du Conseil, du 9 septembre 1976, modifiant
+    le règlement (CEE) n° 2101/76 portant suspension totale et temporaire des droits
+    autonomes du tarif douanier commun pour un certain nombre de légumes à l'État
+    frais ou réfrigéré
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2223/76 des Rates vom 9. September 1976 zur Änderung
+    der Verordnung (EWG) Nr. 2101/76 zur vollständigen und zeitweiligen Aussetzung
+    von autonomen Zollsätzen des Gemeinsamen Zolltarifs für bestimmte Gemüse, frisch
+    oder gekühlt
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2223/76 af 9. september 1976 om ændring
+    af forordning (EØF) nr. 2101/76 om fuldstænding og midlertidig suspension af
+    de autonome satser i den fælles toldtarif for en række friske eller kølede
+    grønsager
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2223/76 del Consiglio, del 9 settembre 1976, che modifica
+    il regolamento (CEE) n. 2101/76 recante sospensione totale e temporanea dei dazi
+    autonomi della tariffa doganale comune per un certo numero di ortaggi freschi
+    o refrigerati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2223/76 van de Raad van 9 september 1976 tot wijziging
+    van Verordening (EEG) nr. 2101/76 houdende tijdelijke gehele schorsing van de
+    autonome rechten van het gemeenschappelijk douanetarief voor verschillende groenten,
+    vers of gekoeld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2223
+docidentifier:
+- content: EU Regulation 2223/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2223
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2223/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-09-09'
+- type: implemented
+  at: '1976-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2101
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

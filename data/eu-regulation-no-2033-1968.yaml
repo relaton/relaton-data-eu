@@ -1,0 +1,66 @@
+---
+id: EURegulationNo20331968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2033/68 de la Commission, du 13 décembre 1968, fixant
+    les prélèvements à l'importation dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2033/68 der Kommission vom 13. Dezember 1968 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Milch und Milcherzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2033/68 della Commissione, del 13 dicembre 1968, che
+    fissa i prelievi all'importazione applicabili nel settore del latte e dei prodotti
+    lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2033/68 van de Commissie van 13 december 1968 houdende
+    vaststelling van de invoerheffingen in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R2033
+docidentifier:
+- content: EU Regulation No 2033/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R2033
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/2033/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation7781976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 778/76 of 5 April 1976 amending Regulation
+    (EEC) No 685/69 on detailed rules of application for intervention on the market
+    in butter and cream
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 778/76 de la Commission, du 5 avril 1976, modifiant
+    le règlement (CEE) n° 685/69 relatif aux modalités d' application des interventions
+    sur le marché du beurre et de la crème de lait
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 778/76 der Kommission vom 5. April 1976 zur Änderung
+    der Verordnung (EWG) Nr. 685/69 über Durchführungsbestimmungen für die Interventionen
+    auf dem Markt für Butter und Rahm
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 778/76 af 5. april 1976 om ændring
+    af forordning (EØF) nr. 685/69 om gennemførelsesbestemmelser for interventioner
+    på markedet for smør og fløde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 778/76 della Commissione, del 5 aprile 1976, che modifica
+    il regolamento (CEE) n. 685/69 relativo alle modalità di applicazione degli interventi
+    sul mercato del burro e della crema di latte
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 778/76 van de Commissie van 5 april 1976 tot wijziging
+    van Verordening (EEG) nr. 685/69 betreffende de uitvoeringsbepalingen van de interventie
+    op de markt voor boter en room
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0778
+docidentifier:
+- content: EU Regulation 778/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0778
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/778/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-04-05'
+- type: implemented
+  at: '1976-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0685
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

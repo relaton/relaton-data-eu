@@ -1,0 +1,94 @@
+---
+id: EURegulation10761972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1076/72 of the Commission of 25 May 1972 laying down
+    detailed rules for applying export levies on sugar and amending Regulation (EEC)
+    No 2637/70
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1076/72 de la Commission, du 25 mai 1972, établissant
+    des modalités d' application concernant les prélèvements à l' exportation
+    dans le secteur du sucre et modifiant le règlement (CEE)" n° 2637/70
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1076/72 der Kommission vom 25. Mai 1972 über Durchführungsvorschriften
+    betreffend Abschöpfungen bei der Ausfuhr von Zucker und zur Änderung der Verordnung
+    (EWG) Nr. 2637/70
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1076/72 af 25. maj 1972 om gennemførelsesbestemmelser
+    vedrørende afgifter ved udførsel af sukker og om ændring af Kommissionens forordning
+    (EØF) nr. 2637/70
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1076/72 della Commissione, del 25 maggio 1972, che
+    stabilisce modalità di applicazione dei prelievi all' esportazione nel settore
+    dello zucchero e che modifica il regolamento (CEE) n. 2637/70
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1076/72 van de Commissie van 25 mei 1972 tot vaststelling
+    van nadere regelen betreffende de heffingen bij uitvoer in de sector suiker en
+    tot wijziging van Verordening (EEG) nr. 2637/70
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1076
+docidentifier:
+- content: EU Regulation 1076/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1076
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1076/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-05-25'
+- type: implemented
+  at: '1972-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,84 @@
+---
+id: EURegulation751963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 75/63/CEE du Conseil, du 18 juillet 1963, portant fixation
+    du montant des prélèvements envers les pays tiers pour le porc abattu et le
+    porc vivant en ce qui concerne les importations effectuées du 1er août au 30
+    septembre 1963
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 75/63/EWG des Rats vom 18. Juli 1963 über die Festsetzung
+    der Abschöpfungsbeträge gegenüber dritten Ländern für geschlachtete Schweine
+    und für lebende Schweine für die vom 1. August bis zum 30. September 1963 getätigten
+    Einfuhren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 75/63/CEE del Consiglio, del 18 luglio 1963, relativo alla
+    determinazione dell'ammontare dei prelievi nei confronti dei paesi terzi applicabili
+    ai suini macellati ed ai suini vivi per le importazioni effettuate dal 1 agosto
+    al 30 settembre 1963
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 75/63/EEG van de Raad van 18 juli 1963 houdende vaststelling
+    van het bedrag van de heffingen ten opzichte van derde landen voor geslachte varkens
+    en voor levende varkens voor de invoer die plaatsvindt in het tijdvak van 1 augustus
+    tot en met 30 september 1963
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0075
+docidentifier:
+- content: EU Regulation 75/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0075
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/75/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-18'
+- type: implemented
+  at: '1963-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0155
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

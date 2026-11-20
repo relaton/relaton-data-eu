@@ -1,0 +1,105 @@
+---
+id: EURegulation1261977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 126/77 of 18 January 1977 extending the period
+    of validity of Regulations (EEC) No 1509/76 and (EEC) No 1522/76 on imports into
+    the Community of prepared and preserved sardines originating in Tunisia and Morocco
+    respectively
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 126/77 du Conseil, du 18 janvier 1977, prorogeant
+    les règlements (CEE) n° 1509/76 et (CEE) n° 1522/76 relatifs à l'importation
+    dans la Communauté de préparations et conserves de sardines originaires respectivement
+    de Tunisie et du Maroc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 126/77 des Rates vom 18. Januar 1977 zur Verlängerung
+    der Verordnungen (EWG) Nr. 1509/76 und (EWG) Nr. 1522/76 über die Einfuhr von
+    Sardinenzubereitungen oder -konserven mit Ursprung in Tunesien bzw. Marokko in
+    die Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 126/77 af 18. januar 1977 om forlængelse
+    af forordning (EØF) nr. 1509/76 og (EØF) nr. 1522/76 om indførsel i Fællesskabet
+    af tilberedte og konserverede sardiner med oprindelse i henholdsvis Tunesien og
+    Marokko
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 126/77 del Consiglio, del 18 gennaio 1977, che proroga
+    i regolamenti (CEE) n. 1509/76 e (CEE) n. 1522/76 relativi all'importazione nella
+    Comunità di preparazioni e conserve di sardine originarie della Tunisia e del
+    Marocco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 126/77 van de Raad van 18 januari 1977 houdende verlenging
+    van de geldigheidsduur van de Verordeningen (EEG) nr. 1509/76 en (EEG) nr. 1522/76
+    betreffende de invoer in de Gemeenschap van bereidingen en conserven van sardines
+    van oorsprong uit Tunesië respectievelijk Marokko
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0126
+docidentifier:
+- content: EU Regulation 126/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0126
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/126/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-01-18'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1509
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1522
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

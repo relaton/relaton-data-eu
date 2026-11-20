@@ -1,0 +1,91 @@
+---
+id: EURegulation24911977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2491/77 of 11 November 1977 amending Regulation
+    (EEC) No 3423/73 on detailed rules for granting subsidies for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2491/77 de la Commission, du 11 novembre 1977, modifiant
+    le règlement (CEE) n° 3423/73 relatif aux modalités concernant l'aide pour
+    l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2491/77 der Kommission vom 11. November 1977 zur Änderung
+    der Verordnung (EWG) Nr. 3423/73 über die Beihilfemodalitäten für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2491/77 af 11. november 1977 om ændring
+    af forordning (EØF) nr. 3423/73 om de nærmere regler for støtte til olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2491/77 della Commissione, dell'11 novembre 1977,
+    che modifica il regolamento (CEE) n. 3423/73 relativo alle modalità concernenti
+    l'integrazione per l'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2491/77 van de Commissie van 11 november 1977 tot
+    wijziging van Verordening (EEG) nr. 3423/73 houdende nadere regelen betreffende
+    de steunregeling voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2491
+docidentifier:
+- content: EU Regulation 2491/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2491
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2491/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-11-11'
+- type: implemented
+  at: '1977-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3423
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

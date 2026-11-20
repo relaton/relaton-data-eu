@@ -1,0 +1,98 @@
+---
+id: EURegulation12061978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1206/78 of 2 June 1978 amending Regulation
+    (EEC) No 2054/76 on the sale for export to non-member countries of skimmed-milk
+    powder held by intervention agencies and intended for use as feed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1206/78 de la Commission, du 2 juin 1978, modifiant
+    le règlement (CEE) n° 2054/76 relatif à la vente en vue de l' exportation vers
+    les pays tiers de lait écrémé en poudre détenu par les organismes d' intervention
+    et destiné à l' alimentation des animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1206/78 der Kommission vom 2. Juni 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2054/76 über den Verkauf von Magermilchpulver zu Futterzwecken
+    aus Beständen der Interventionsstellen für die Ausfuhr nach Drittländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1206/78 af 2. juni 1978 om ændring
+    af forordning (EØF) nr. 2054/76 om salg med henblik på udførsel til tredjelande
+    af skummetmælkspulver, som interventionsorganerne ligger inde med, og som er
+    bestemt til foder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1206/78 della Commissione, del 2 giugno 1978, che
+    modifica il regolamento (CEE) n. 2054/76 relativo alla vendita, ai fini dell'
+    esportazione verso i paesi terzi, di latte scremato in polvere detenuto dagli
+    organismi d' intervento e destinato all' alimentazione degli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1206/78 van de Commissie van 2 juni 1978 tot wijziging
+    van Verordening (EEG) nr. 2054/76 inzake de verkoop van magere-melkpoeder uit
+    de voorraad van de interventiebureaus met het oog op uitvoer naar derde landen
+    en bestemd voor diervoeding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1206
+docidentifier:
+- content: EU Regulation 1206/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1206
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1206/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-02'
+- type: implemented
+  at: '1978-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2054
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

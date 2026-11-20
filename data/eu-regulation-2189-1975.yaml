@@ -1,0 +1,101 @@
+---
+id: EURegulation21891975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2189/75 of the Commission of 22 August 1975 amending
+    Regulation (EEC) No 1992/75 fixing, for the 1975/76 marketing year, in respect
+    of trade within the Community the components designed to protect the rice and
+    cereals processing industries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2189/75 de la Commission, du 22 août 1975, modifiant
+    le règlement (CEE) n° 1992/75 fixant, en ce qui concerne les échanges intracommunautaires,
+    pour la campagne de commercialisation 1975/1976, les éléments destinés à assurer,
+    dans le secteur des céréales et du riz, la protection de l'industrie de transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2189/75 der Kommission vom 22. August 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1992/75 zur Festsetzung des Bestandteils zum Schutz der
+    Verarbeitungsindustrie auf dem Getreide- und Reissektor im Hinblick auf den innergemeinschaftlichen
+    Handel für das Wirtschaftsjahr 1975/1976
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2189/75 af 22. august 1975 om ændring
+    af forordning (EØF) nr. 1992/75 om fastsættelse for høståret 1975/1976 - for
+    handelen inden for Fællesskabet - af de elementer, der for korn og ris har til
+    formål at sikre beskyttelsen af forarbejdningsindustrien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2189/75 della Commissione, del 22 agosto 1975, che
+    modifica il regolamento (CEE) n. 1992/75 che fissa, per quanto riguarda gli scambi
+    intracomunitari nella campagna di commercializzazione 1975/1976 gli elementi destinati
+    ad assicurare la protezione dell'industria di trasformazione del settore dei cereali
+    e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2189/75 van de Commissie van 22 augustus 1975 tot
+    wijziging van Verordening (EEG) nr. 1992/75 tot vaststelling van de elementen
+    die dienen om in het verkoopseizoen 1975/1976 in het intracommunautaire handelsverkeer
+    in de sector granen en rijst de bescherming van de verwerkende industrie te verzekeren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2189
+docidentifier:
+- content: EU Regulation 2189/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2189
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2189/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-22'
+- type: implemented
+  at: '1975-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1992
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

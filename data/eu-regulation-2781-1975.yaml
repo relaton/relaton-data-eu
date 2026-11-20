@@ -1,0 +1,91 @@
+---
+id: EURegulation27811975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2781/75 of the Council of 29 October 1975 laying down
+    general rules for the system of accession compensatory amounts for poultrymeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2781/75 du Conseil, du 29 octobre 1975, déterminant
+    les règles générales du régime des montants compensatoires adhésion dans
+    le secteur de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2781/75 des Rates vom 29. Oktober 1975 über die Grundregeln
+    für die Beitrittsausgleichsbeträge für Geflügelfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2781/75 af 29. oktober 1975 om fastsættelse
+    af almindelige regler om tiltrædelsesudligningsbeløb for fjerkrækød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2781/75 del Consiglio, del 29 ottobre 1975, che stabilisce
+    le disposizioni generali del regime degli importi compensativi "adesione" nel
+    settore del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2781/75 van de Raad van 29 oktober 1975 tot vaststelling
+    van de algemene bepalingen van het stelsel van compenserende bedragen ,,toetreding'
+    ' in de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2781
+docidentifier:
+- content: EU Regulation 2781/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2781
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2781/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0235
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

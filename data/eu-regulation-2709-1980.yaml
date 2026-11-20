@@ -1,0 +1,104 @@
+---
+id: EURegulation27091980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2709/80 of 23 October 1980 amending for
+    the 14th time Regulation (EEC) No 2044/75 as regards the period of validity of
+    export certificates for certain milk products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2709/80 de la Commission, du 23 octobre 1980, portant
+    quatorzième modification du règlement (CEE) n° 2044/75 en ce qui concerne la
+    durée de validité des certificats d' exportation pour certains produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2709/80 der Kommission vom 23. Oktober 1980 zur 14.
+    Änderung der Verordnung (EWG) Nr. 2044/75 betreffend die Gültigkeitsdauer der
+    Ausfuhrlizenzen für bestimmte Milcherzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2709/80 af 23. oktober 1980 om 14.
+    ændring af forordning (EØF) nr. 2044/75 for så vidt angår gyldighedsperioden
+    for eksportlicenser for visse mejeriprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2709/80 της Επιτροπής
+    της 23ης Οκτωβρίου 1980 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 2044/75, όσον αφορά τη διάρκεια
+    ισχύος των πιστοποιητικών εξαγωγής για ορισμένα
+    γαλακτοκομικά προϊόντα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2709/80 della Commissione, del 23 ottobre 1980, recante
+    quattordicesima modifica del regolamento (CEE) n. 2044/75 per quanto concerne
+    la durata di validità dei titoli di esportazione per taluni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2709/80 van de Commissie van 23 oktober 1980 tot
+    veertiende wijziging van Verordening (EEG) nr. 2044/75 ten aanzien van de geldigheidsduur
+    van de uitvoercertificaten voor sommige zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2709
+docidentifier:
+- content: EU Regulation 2709/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2709
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2709/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-10-23'
+- type: implemented
+  at: '1980-10-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2044
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

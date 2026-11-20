@@ -1,0 +1,108 @@
+---
+id: EURegulationNo20471979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2047/79 of 18 September 1979 amending, with
+    respect to the German mark and the currencies of the Benelux countries, Regulation
+    (EEC) No 878/77 on the exchange rates to be applied in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2047/79 du Conseil, du 18 septembre 1979, modifiant,
+    en ce qui concerne le mark allemand ainsi que les monnaies des pays du Benelux,
+    le règlement (CEE) n° 878/77 relatif aux taux de change à appliquer dans le
+    secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2047/79 des Rates vom 18. September 1979 zur Änderung
+    der Verordnung (EWG) Nr. 878/77 über die in der Landwirtschaft anzuwendenden
+    Umrechnungskurse hinsichtlich der Deutschen Mark und der Währungen der Benelux-Länder
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2047/79 af 18. september 1979 om ændring
+    af forordning (EØF) nr. 878/77 om de vekselkurser, der skal anvendes inden for
+    landbrugssektoren, for så vidt angår den tyske mark og Benelux-landenes valutaer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2047/79 τού Συμβουλίου
+    τής 18ης Σεπτεμβρίου 1979 περί τροποποιήσεως,
+    όσον αφορά τό γερμανικό μάρκο καί τά νομίσματα
+    τών χωρών τής Μπενελούξ, τού κανονισμού (ΕΟΚ)
+    αριθ. 878/77 «περί τών τιμών συναλλάγματος πού
+    θά εφαρμόζονται στόν γεωργικό τομέα»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2047/79 del Consiglio, del 18 settembre 1979, che
+    modifica, per quanto riguarda il marco tedesco e le monete dei paesi del Benelux,
+    il regolamento (CEE) n. 878/77 relativo ai tassi di cambio da applicare nel settore
+    agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2047/79 van de Raad van 18 september 1979 houdende
+    wijziging, ten aanzien van de Duitse mark alsmede de valuta' s van de Beneluxlanden,
+    van Verordening (EEG) nr. 878/77 inzake de in de landbouwsector toe te passen
+    wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2047
+docidentifier:
+- content: EU Regulation No 2047/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2047
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2047/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-09-18'
+- type: implemented
+  at: '1979-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

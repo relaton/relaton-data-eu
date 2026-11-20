@@ -1,0 +1,69 @@
+---
+id: EURegulation1501967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 150/67/CEE de la Commission, du 23 juin 1967, fixant les coefficients
+    d'adaptation à appliquer au prix d'achat prévu pour les tomates par le règlement
+    n 124/67/CEE du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 150/67/EWG der Kommission vom 23. Juni 1967 zur Festsetzung
+    der Anpassungskoeffizienten für den Ankaufspreis für Tomaten nach Verordnung
+    Nr. 124/67/EWG des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 150/67/CEE della Commissione, del 23 giugno 1967, che fissa
+    i coefficienti di adattamento da applicare al prezzo d'acquisto previsto per i
+    pomodori dal regolamento n. 124/67/CEE del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 150/67/EEG van de Commissie van 23 juni 1967 houdende vaststelling
+    van de aanpassingscoëfficiënten die moeten worden toegepast op de bij Verordening
+    no. 124/67/EEG van de Raad voor tomaten vastgestelde aankoopprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0150
+docidentifier:
+- content: EU Regulation 150/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0150
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/150/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,142 @@
+---
+id: EURegulation9201989
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 920/89 of 10 April 1989 laying down quality
+    standards for carrots, citrus fruit and dessert apples and pears and amending
+    Commission Regulation No 58
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 920/89 de la Commission du 10 avril 1989 fixant des
+    normes de qualité pour les carottes, les agrumes et les pommes et poires de table
+    et modifiant le règlement n° 58
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 920/89 der Kommission vom 10. April 1989 zur Festsetzung
+    der Qualitätsnormen für Möhren, Zitrusfrüchte sowie Tafeläpfel und -birnen
+    und zur Änderung der Verordnung Nr. 58
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 920/89 af 10. april 1989 om fastsættelse
+    af kvalitetsnormer for gulerødder, citrusfrugter og spiseæbler og -pærer og
+    om ændring af forordning nr. 58
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 920/89 της Επιτροπής
+    της 10ης Απριλίου 1989 για τον καθορισμό των κανόνων
+    ποιότητας για τα καρότα, τα εσπεριδοειδή και
+    τα επιτραπέζια μήλα και αχλάδια και την τροποποίηση
+    του κανονισμού αριθ. 58
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (ETY) N:o 920/89, annettu 10 päivänä huhtikuuta 1989,
+    porkkanoiden, sitrushedelmien ja syötäviksi tarkoitettujen omenoiden ja päärynöiden
+    laatuvaatimuksista sekä asetuksen N:o 58 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 920/89 della Commissione del 10 aprile 1989 che stabilisce
+    le norme di qualità per le carote, gli agrumi e le mele e pere da tavola e che
+    modifica il regolamento n. 58
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 920/89 van de Commissie van 10 april 1989 tot vaststelling
+    van kwaliteitsnormen voor wortelen, citrusvruchten en tafelappelen en -peren en
+    tot wijziging van Verordening nr. 58
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 920/89 da Comissão de 10 de Abril de 1989 que fixa
+    as normas de qualidade para as cenouras, os citrinos e as maçãs e peras de mesa
+    e que altera o Regulamento nº 58
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) nº 920/89 de la Comisión de 10 de abril de 1989 por
+    el que se establecen normas de calidad para las zanahorias, los cítricos y las
+    manzanas y peras de mesa y por el que se modifica el Reglamento nº 58
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EEG) nr 920/89 av den 10 april 1989 om kvalitetsnormer
+    för morötter, citrusfrukt, äpplen och päron samt om ändring av kommissionens
+    förordning nr 58
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989R0920
+docidentifier:
+- content: EU Regulation 920/1989
+  type: EU
+  primary: true
+- content: CELEX 31989R0920
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1989/920/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-04-10'
+- type: implemented
+  at: '1989-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0379
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1641
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0058
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

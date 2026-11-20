@@ -1,0 +1,94 @@
+---
+id: EURegulation17951971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1795/71 of the Commission of 17 August 1971 amending
+    Regulation (EEC) No 1097/68 as regards storage conditions and the definition of
+    forequarters and hindquarters of adult bovine animals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1795/71 de la Commission, du 17 août 1971, modifiant
+    le règlement (CEE) n° 1097/68 en ce qui concerne les conditions de stockage
+    et les définitions des quartiers avant et arrière de gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1795/71 der Kommission vom 17. August 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1097/68 hinsichtlich der Lagerbedingungen und der Definitionen
+    der Vorder- und Hinterviertel von ausgewachsenen Rindern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1795/71 af 17. august 1971 om ændring
+    af forordning (EØF) nr. 1097/68 med hensyn til lagerbetingelserne og definitionerne
+    af for- og bagfjerding af voksent kvæg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1795/71 della Commissione, del 17 agosto 1971, che
+    modifica il regolamento (CEE) n. 1097/68 per quanto riguarda le condizioni di
+    ammasso e le definizioni dei quarti anteriori e posteriori di bovini adulti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1795/71 van de Commissie van 17 augustus 1971 houdende
+    wijziging van Verordening (EEG) nr. 1097/68 met betrekking tot de voorwaarden
+    voor de opslag en de omschrijvingen van voor- en achtervoeten van volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1795
+docidentifier:
+- content: EU Regulation 1795/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1795
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1795/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-08-17'
+- type: implemented
+  at: '1971-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1097
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

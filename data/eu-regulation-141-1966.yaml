@@ -1,0 +1,74 @@
+---
+id: EURegulation1411966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 141/66/CEE de la Commission, du 30 septembre 1966, portant
+    prorogation de la durée de validité du règlement n 123/66/CEE de la Commission,
+    du 23 août 1966, prévoyant des dispositions en vue d'éviter les détournements
+    de trafic dans les échanges intracommunautaires de viande bovine congelée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 141/66/EWG der Kommission vom 30. September 1966 zur Verlängerung
+    der Gültigkeitsdauer der Verordnung Nr. 123/66/EWG der Kommission vom 23. August
+    1966 über Bestimmungen zur Vermeidung von Verkehrsverlagerungen im innergemeinschaftlichen
+    Handel mit gefrorenem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 141/66/CEE della Commissione, del 30 settembre 1966, che
+    proroga la durata di validità del regolamento n. 123/66/CEE della Commissione,
+    del 23 agosto 1966, che prevede disposizioni per evitare deviazioni di traffico
+    negli scambi intracomunitari di carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 141/66/EEG van de Commissie van 30 september 1966 houdende
+    verlenging van de geldigheidsduur van Verordening no. 123/66/EEG van de Commissie
+    van 23 augustus 1966, waarin bepalingen worden voorzien om te vermijden dat de
+    handelsstromen van het bevroren rundvlees in het intracommunautaire verkeer zich
+    verleggen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0141
+docidentifier:
+- content: EU Regulation 141/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0141
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/141/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,92 @@
+---
+id: EURegulation31131974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3113/74 of the Council of 9 December 1974 amending
+    Regulation (EEC) No 1132/74 on production refunds in the cereals and rice sectors
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3113/74 du Conseil, du 9 décembre 1974, modifiant
+    le règlement (CEE) n° 1132/74 relatif aux restitutions à la production dans
+    les secteurs des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3113/74 des Rates vom 9. Dezember 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1132/74 über die Erstattungen bei der Erzeugung im Getreide-
+    und Reissektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3113/74 af 9. december 1974 om ændring af
+    forordning (EØF) nr. 1132/74 om produktionsrestitutioner inden for korn- og rissektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3113/74 del Consiglio, del 9 dicembre 1974, che modifica
+    il regolamento (CEE) n. 1132/74 relativo alle restituzioni alla produzione nei
+    settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3113/74 van de Raad van 9 december 1974 houdende
+    wijziging van Verordening (EEG) nr. 1132/74 inzake de restituties bij de produktie
+    in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3113
+docidentifier:
+- content: EU Regulation 3113/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3113
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-09'
+- type: implemented
+  at: '1974-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1132
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

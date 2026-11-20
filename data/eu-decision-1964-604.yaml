@@ -1,0 +1,85 @@
+---
+id: EUDecision1964604
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 12 octobre 1964, portant augmentation du
+    volume du contingent tarifaire au bénéfice du Royaume de Belgique et du Grand-Duché
+    de Luxembourg pour les cubes, plaques, feuilles et bandes en liège naturel y
+    compris les cubes ou carrés pour la fabrication de bouchons
+  type: main
+- language: de
+  script: Latn
+  content: '64/604/EWG: Entscheidung der Kommission vom 12. Oktober 1964 zur Erhöhung
+    des dem Königreich Belgien und dem Großherzogtum Luxemburg gewährten Zollkontingents
+    für Würfel, Platten, Blätter und Streifen aus Naturkork, einschließlich Würfel
+    oder Quader zur Herstellung von Stopfen'
+  type: main
+- language: it
+  script: Latn
+  content: '64/604/CEE: Decisione della Commissione, del 12 ottobre 1964, relativa
+    all''aumento del volume del contingente tariffario in favore del Regno del Belgio
+    e del Granducato del Lussemburgo per i cubi, le lastre, i fogli e le strisce di
+    sughero naturale compresi i cosiddetti cubi o quadretti per la fabbricazione dei
+    turaccioli'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/604/EEG: Beschikking van de Commissie van 12 oktober 1964 tot vergroting
+    van het aan het Koninkrijk België en het Groothertogdom Luxemburg toegekende
+    tariefcontingent voor blokken, platen, bladen, vellen en strippen, van natuurkurk,
+    blokjes voor het vervaardigen van kurken (stoppen) daaronder begrepen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0604
+docidentifier:
+- content: EU Decision 1964/604
+  type: EU
+  primary: true
+- content: CELEX 31964D0604
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/604/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-12'
+- type: implemented
+  at: '1964-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0094
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

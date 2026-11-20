@@ -1,0 +1,92 @@
+---
+id: EUDecision1977644
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '77/644/EEC: Commission Decision of 6 October 1977 amending Decision 72/475/EEC
+    authorizing the Federal Republic of Germany to sell butter at a reduced price
+    in the form of concentrated butter'
+  type: main
+- language: fr
+  script: Latn
+  content: '77/644/CEE: Décision de la Commission, du 6 octobre 1977, modifiant la
+    décision 72/475/CEE autorisant la République fédérale d''Allemagne à vendre
+    du beurre à prix réduit sous forme de beurre concentré'
+  type: main
+- language: de
+  script: Latn
+  content: '77/644/EWG: Entscheidung der Kommission vom 6. Oktober 1977 zur Änderung
+    der Entscheidung 72/475/EWG zur Ermächtigung der Bundesrepublik Deutschland zum
+    Verkauf von Butter zu herabgesetzten Preisen in Form von Butterreinfett'
+  type: main
+- language: da
+  script: Latn
+  content: '77/644/EØF: Kommissionens Beslutning af 6. oktober 1977 om ændring af
+    beslutning 72/475/EØF om tilladelse til Forbundsrepublikken Tyskland til at sælge
+    smør til nedsat pris i form af koncentreret smør'
+  type: main
+- language: it
+  script: Latn
+  content: '77/644/CEE: Decisione della Commissione, del 6 ottobre 1977, recante modifica
+    della decisione 72/475/CEE che autorizza la Repubblica federale di Germania a
+    vendere burro a prezzo ridotto sotto forma di burro concentrato'
+  type: main
+- language: nl
+  script: Latn
+  content: '77/644/EEG: Beschikking van de Commissie van 6 oktober 1977 tot wijziging
+    van Beschikking 72/475/EEG houdende machtiging voor de Bondsrepubliek Duitsland
+    tot de verkoop van boter tegen verlaagde prijs in de vorm van boterconcentraat'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977D0644
+docidentifier:
+- content: EU Decision 1977/644
+  type: EU
+  primary: true
+- content: CELEX 31977D0644
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1977/644/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0475
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,81 @@
+---
+id: EURegulation2961969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 296/69 du Conseil, du 18 février 1969, portant prorogation,
+    pour l'année 1968, du délai prévu par l'article 20 paragraphe 1 du règlement
+    n° 17/64/CEE relatif aux conditions du concours du FEOGA
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 296/69 des Rates vom 18. Februar 1969 über eine Verlängerung
+    der in Artikel 20 Absatz 1 der Verordnung Nr. 17/64/EWG über die Bedingungen
+    für die Beteiligung des EAGFL vorgesehenen Frist für das Jahr 1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 296/69 del Consiglio, del 18 febbraio 1969, che proroga,
+    per il 1968, il termine previsto dall'articolo 20, paragrafo 1, del regolamento
+    n. 17/64/CEE relativo alle condizioni di concorso del FEAOG
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 296/69 van de Raad van 18 februari 1969 houdende
+    verlenging, voor het jaar 1968, van de termijn die is vastgesteld in artikel 20,
+    lid 1, van Verordening nr. 17/64/EEG betreffende de voorwaarden voor het verlenen
+    van bijstand door het EOGFL
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0296
+docidentifier:
+- content: EU Regulation 296/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0296
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/296/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-02-18'
+- type: implemented
+  at: '1969-02-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

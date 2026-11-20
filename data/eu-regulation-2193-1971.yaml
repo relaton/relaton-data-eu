@@ -1,0 +1,76 @@
+---
+id: EURegulation21931971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2193/71 de la Commission, du 13 octobre 1971, modifiant
+    la méthode de calcul du poids des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2193/71 der Kommission vom 13. Oktober 1971 zur Änderung
+    der Methode zur Berechnung des Gewichts der Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2193/71 della Commissione, del 13 ottobre 1971, che
+    modifica il metodo di calcolo del peso dei semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2193/71 van de Commissie van 13 oktober 1971 tot
+    wijziging van de methode voor de bepaling van het gewicht van oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2193
+docidentifier:
+- content: EU Regulation 2193/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2193
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2193/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-13'
+- type: implemented
+  at: '1971-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0911
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

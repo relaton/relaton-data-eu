@@ -1,0 +1,86 @@
+---
+id: EUDecision1966698
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/698/CEE de la Commission, du 4 novembre 1966, autorisant la
+    République française, en vertu de l'article 115 alinéa 1 du Traité, à exclure
+    du traitement communautaire la bijouterie de fantaisie, à l'exclusion des médailles
+    obtenues par la frappe, originaire de Hong-Kong et mise en libre pratique dans
+    les autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/698/EWG: Entscheidung der Kommission vom 4. November 1966, mit der
+    die Französische Republik gemäß Artikel 115 Absatz (1) des Vertrages ermächtigt
+    wird, aus Hongkong stammenden und in den übrigen Mitgliedstaaten im freien Verkehr
+    befindlichen Phantasieschmuck, ausgenommen gestanzte Medaillen, von der Gemeinschaftsbehandlung
+    auszuschließen'
+  type: main
+- language: it
+  script: Latn
+  content: '66/698/CEE: Decisione della Commissione, del 4 novembre 1966, che autorizza
+    la Repubblica francese, a norma dell''articolo 115, primo comma, del Trattato,
+    ad escludere dal trattamento comunitario la minuteria di fantasia, ad eccezione
+    delle medaglie ottenute mediante coniazione, originaria di Hong-Kong ed immessa
+    in libera pratica negli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/698/EEG: Beschikking van de Commissie van 4 november 1966 houdende
+    machtiging van de Franse Republiek om op grond van artikel 115, eerste alinea,
+    van het Verdrag fancybijouterieën met uitzondering van geslagen medailles, die
+    van oorsprong zijn uit Hong-Kong en in de andere Lid-Staten in het vrije verkeer
+    zijn gebracht, van de communautaire behandeling uit te sluiten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0698
+docidentifier:
+- content: EU Decision 1966/698
+  type: EU
+  primary: true
+- content: CELEX 31966D0698
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/698/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0288
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

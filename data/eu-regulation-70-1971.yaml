@@ -1,0 +1,80 @@
+---
+id: EURegulation701971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 70/71 de la Commission, du 14 janvier 1971, portant
+    abrogation du règlement (CEE) n° 2526/70 constatant la situation de crise grave
+    du marché des choux-fleurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 70/71 der Kommission vom 14. Januar 1971 zur Aufhebung
+    der Verordnung (EWG) Nr. 2526/70 zur Feststellung einer ernsten Krise auf dem
+    Blumenkohlmarkt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 70/71 della Commissione, del 14 gennaio 1971, che
+    abroga il regolamento (CEE) n. 2526/70 con cui si constata la situazione di crisi
+    grave del mercato dei cavolfiori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 70/71 van de Commissie van 14 januari 1971 tot intrekking
+    van Verordening (EEG) nr. 2526/70 houdende constatering van een ernstige crisis
+    op de markt van bloemkool
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0070
+docidentifier:
+- content: EU Regulation 70/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0070
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/70/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-14'
+- type: implemented
+  at: '1971-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2526
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

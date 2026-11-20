@@ -1,0 +1,95 @@
+---
+id: EURegulation6181972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 618/72 of the Commission of 29 March 1972 on the characteristics
+    of olive oil and of certain products containing olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 618/72 de la Commission, du 29 mars 1972, relatif
+    aux caractéristiques des huiles d' olive ainsi que de certains produits contenant
+    de l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 618/72 der Kommission vom 29. März 1972 über die
+    Merkmale von Olivenöl und bestimmten, Olivenöl enthaltenden Erzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 618/72 af 29. marts 1972 om særlige
+    kendetegn for olivenolier og visse varer, der indeholder olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 618/72 della Commissione, del 29 marzo 1972, relativo
+    alle caratteristiche degli oli d' oliva e di alcuni prodotti contenenti olio d'
+    oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 618/72 van de Commissie van 29 maart 1972 betreffende
+    de kenmerken van olijfolie en van sommige produkten welke olijfolie bevatten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0618
+docidentifier:
+- content: EU Regulation 618/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0618
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/618/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-29'
+- type: implemented
+  at: '1972-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0177
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0001
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

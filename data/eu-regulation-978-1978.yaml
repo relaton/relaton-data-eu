@@ -1,0 +1,93 @@
+---
+id: EURegulation9781978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 978/78 of 10 May 1978 on statistical surveys
+    of areas under vines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 978/78 du Conseil, du 10 mai 1978, concernant les
+    enquêtes statistiques sur les superficies viticoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 978/78 des Rates vom 10. Mai 1978 über statistische
+    Erhebungen der Rebflächen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 978/78 af 10. maj 1978 om statistiske undersøgelser
+    vedrørende vinarealer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 978/78 del Consiglio, del 10 maggio 1978, concernente
+    le indagini statistiche sulle superfici viticole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 978/78 van de Raad van 10 mei 1978 betreffende de
+    statistische enquêtes naar de wijnbouwoppervlakten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0978
+docidentifier:
+- content: EU Regulation 978/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0978
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/978/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-10'
+- type: implemented
+  at: '1978-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0024
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1388
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

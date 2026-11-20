@@ -1,0 +1,74 @@
+---
+id: EURegulation14641970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1464/70 du Conseil, du 20 juillet 1970, fixant, pour
+    le tabac en feuilles, les prix d'objectif et les prix d'intervention ainsi que
+    les qualités de référence applicables à la récolte 1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1464/70 des Rates vom 20. Juli 1970 zur Festsetzung
+    der Zielpreise und Interventionspreise sowie der Bezugsqualitäten für Tabakblätter
+    der Ernte 1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1464/70 del Consiglio, del 20 luglio 1970, che fissa,
+    per il tabacco in foglia, i prezzi d'obiettivo e i prezzi d'intervento, nonché
+    le qualità di riferimento applicabili al raccolto 1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1464/70 van de Raad van 20 juli 1970 houdende vaststelling,
+    voor tabaksbladeren, van de streef- en interventieprijzen, alsmede van de referentiekwaliteiten
+    voor de oogst 1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1464
+docidentifier:
+- content: EU Regulation 1464/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1464
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1464/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-20'
+- type: implemented
+  at: '1970-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EURegulation9731978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 973/78 of 12 May 1978 extending the period
+    of validity of Regulation (EEC) No 503/78 amending Regulation No 785/67/EEC on
+    the buying-in of olive oil by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 973/78 de la Commission, du 12 mai 1978, prorogeant
+    le règlement (CEE) n° 503/78 modifiant le règlement n° 785/67/CEE relatif
+    aux modalités d'achat de l'huile d'olive par les organismes d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 973/78 der Kommission vom 12. Mai 1978 zur Verlängerung
+    der Verordnung (EWG) Nr. 503/78 zur Änderung der Verordnung Nr. 785/67/EWG betreffend
+    den Ankauf von Olivenöl durch die Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 973/78 af 12. maj 1978 om forlængelse
+    af forordning (EØF) nr. 503/78 om ændring af forordning (EØF) nr. 785/67/EØF
+    om de nærmere regler for interventionsorganernes opkøb af olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 973/78 della Commissione, del 12 maggio 1978, che
+    proroga il regolamento (CEE) n. 503/78 che modifica il regolamento n. 785/67/CEE
+    relativo alle modalità d'acquisto dell'olio d'oliva da parte degli organismi
+    d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 973/78 van de Commissie van 12 mei 1978 houdende
+    verlenging van de geldigheidsduur van Verordening (EEG) nr. 503/78 tot wijziging
+    van Verordening nr. 785/67/EEG betreffende de wijze van aankoop van olijfolie
+    door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0973
+docidentifier:
+- content: EU Regulation 973/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0973
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/973/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-12'
+- type: implemented
+  at: '1978-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R0503
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

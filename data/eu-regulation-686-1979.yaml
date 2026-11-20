@@ -1,0 +1,93 @@
+---
+id: EURegulation6861979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 686/79 of 5 April 1979 amending Regulation
+    (EEC) No 2948/78 introducing private storage aid for Pecorino Romano cheese
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 686/79 de la Commission, du 5 avril 1979, modifiant
+    le règlement (CEE) n° 2948/78 instaurant une aide au stockage privé du fromage
+    pecorino romano
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 686/79 der Kommission vom 5. April 1979 zur Änderung
+    der Verordnung (EWG) Nr. 2948/78 zur Einführung einer Beihilfe für die private
+    Lagerhaltung von Käse der Sorte Pecorino romano
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 686/79 af 5. april 1979 om ændring
+    af forordning (EØF) nr. 2948/78 om indførelse af støtte til privat oplagring
+    af Pecorino romano-ost
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 686/79 della Commissione, del 5 aprile 1979, recante
+    modifica del regolamento (CEE) n. 2948/78 che istituisce un aiuto all' ammasso
+    privato di formaggio Pecorino romano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 686/79 van de Commissie van 5 april 1979 houdende
+    wijziging van Verordening (EEG) nr. 2948/78 tot invoering van steun voor de particuliere
+    opslag van Pecorino romano-kaas
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0686
+docidentifier:
+- content: EU Regulation 686/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0686
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/686/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-04-05'
+- type: implemented
+  at: '1979-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2948
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

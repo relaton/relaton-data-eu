@@ -1,0 +1,113 @@
+---
+id: EURegulation21021975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2102/75 of the Commission of 11 August 1975 determining
+    the quantity of potatoes required for the manufacture of 1 metric ton of starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2102/75 de la Commission, du 11 août 1975, déterminant
+    la quantité de pommes de terre nécessaire à la fabrication d' une tonne de
+    fécule
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2102/75 der Kommission vom 11. August 1975 zur Feststellung
+    der zur Herstellung von einer Tonne Kartoffelstärke nötigen Menge Kartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2102/75 af 11. august 1975 om fastsættelse
+    af den mængde kartofler, der er nødvendig til fremstilling af 1 ton kartoffelstivelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2102/75 της Επιτροπής
+    της 11ης Αυγούστου 1975 περί καθορισμού της ποσότητος
+    των απαιτουμένων γεωμήλων για την παρασκευή
+    ενός τόννου αμύλου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2102/75 della Commissione, dell' 11 agosto 1975, che
+    determina la quantità di patate necessaria per la fabbricazione di una tonnellata
+    di fecola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2102/75 van de Commissie van 11 augustus 1975 houdende
+    bepaling van de hoeveelheid aardappelen die nodig is voor de vervaardiging van
+    1 ton zetmeel
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2102/75 do Conselho, de 11 de Agosto de 1975, que
+    estabelece a quantidade de batata necessária ao fabrico de uma tonelada de fécula
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2102/75 de la Comisión, de 11 de agosto de 1975,
+    por el que se determina la cantidad de patatas necesaria para fabricar una tonelada
+    de fécula
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2102
+docidentifier:
+- content: EU Regulation 2102/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2102
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2102/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-11'
+- type: implemented
+  at: '1975-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1980
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

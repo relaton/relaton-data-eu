@@ -1,0 +1,95 @@
+---
+id: EURegulation8351975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 835/75 of the Commission of 26 March 1975 amending
+    Regulation (EEC) No 536/75 as regards the fixing of the buying-in prices for intervention
+    for certain qualities of beef in France
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 835/75 de la Commission, du 26 mars 1975, modifiant
+    le règlement (CEE) n° 536/75 en ce qui concerne la fixation des prix d' achat,
+    valables en France, pour les interventions pour certaines qualités de bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 835/75 der Kommission vom 26. März 1975 zur Änderung
+    der Verordnung (EWG) Nr. 536/75 hinsichtlich der Festsetzung der in Frankreich
+    gültigen Ankaufspreise für bestimmte Rinderqualitäten im Rahmen der Dauerinterventionsregelung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 835/75 af 26. marts 1975 om ændring
+    af forordning (EØF) nr. 536/75 for så vidt angår fastsættelse af de i Frankrig
+    gældende opkøbspriser for løbende interventioner for visse kvaliteter af kvæg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 835/75 della Commissione, del 26 marzo 1975, che modifica
+    il regolamento (CEE) n. 536/75 in quanto concerne la fissazione dei prezzi d'
+    acquisto, validi per la Francia, per gli interventi per alcune qualità di bovini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 835/75 van de Commissie van 26 maart 1975 houdende
+    wijziging van Verordening (EEG) nr. 536/75 tot vaststelling van de aankoopprijzen,
+    geldend voor Frankrijk, voor de permanente interventie van bepaalde kwaliteiten
+    runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0835
+docidentifier:
+- content: EU Regulation 835/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0835
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/835/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-26'
+- type: implemented
+  at: '1975-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0536
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

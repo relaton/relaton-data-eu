@@ -1,0 +1,88 @@
+---
+id: EURegulation2671970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 267/70 de la Commission, du 12 février 1970, modifiant
+    les règlements (CEE) n° 1669/69 et (CEE) n° 2061/69 en ce qui concerne le document
+    accompagnant le sucre à dénaturer ou dénaturé dans les échanges intracommunautaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 267/70 der Kommission vom 12. Februar 1970 zur Änderung
+    der Verordnungen (EWG) Nr. 1669/69 und (EWG) Nr. 2061/69 betreffend das den zu
+    denaturierenden oder denaturierten Zucker im innergemeinschaftlichen Handel begleitende
+    Dokument
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 267/70 della Commissione, del 12 febbraio 1970, che
+    modifica i regolamenti (CEE) n. 1669/69 e (CEE) n. 2061/69 per quanto riguarda
+    il documento di accompagnamento dello zucchero da denaturare o denaturato negli
+    scambi intracomunitari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 267/70 van de Commissie van 12 februari 1970 tot
+    wijziging van de Verordeningen (EEG) nr. 1669/69 en (EEG) nr. 2061/69 voor wat
+    betreft het document dat de in het intracommunautaire handelsverkeer te denatureren
+    of gedenatureerde suiker vergezelt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0267
+docidentifier:
+- content: EU Regulation 267/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0267
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/267/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-12'
+- type: implemented
+  at: '1970-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1669
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2061
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

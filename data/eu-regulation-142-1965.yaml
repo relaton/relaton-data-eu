@@ -1,0 +1,72 @@
+---
+id: EURegulation1421965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 142/65/CEE de la Commission, du 15 octobre 1965, modifiant
+    le règlement n 116/65/CEE en ce qui concerne la durée de validité du montant
+    de la restitution applicable, dans des cas particuliers, à l'exportation de certains
+    produits laitiers vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 142/65/EWG der Kommission vom 15. Oktober 1965 zur Änderung
+    der Verordnung Nr. 116/65/EWG hinsichtlich der Geltungsdauer des Erstattungsbetrags
+    bei Ausfuhren gewisser Milcherzeugnisse nach dritten Ländern in besonderen Fällen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 142/65/CEE della Commissione, del 15 ottobre 1965, che modifica
+    il regolamento n. 116/65/CEE per quanto riguarda la durata di validità della
+    restituzione applicabile, in casi particolari, all'esportazione di determinati
+    prodotti lattiero-caseari verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 142/65/EEG van de Commissie van 15 oktober 1965 houdende
+    wijziging van Verordening no. 116/65/EEG ten aanzien van de geldigheidsduur van
+    het restitutiebedrag bij uitvoer van sommige zuivelprodukten naar derde landen
+    in bijzondere gevallen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0142
+docidentifier:
+- content: EU Regulation 142/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0142
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/142/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-10-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

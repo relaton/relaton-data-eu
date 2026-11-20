@@ -1,0 +1,67 @@
+---
+id: EURegulation1651964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 165/64/CEE de la Commission, du 29 octobre 1964, relatif aux
+    restitutions applicables à l'exportation de certains produits laitiers vers les
+    pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 165/64/EWG der Kommission vom 29. Oktober 1964 über Rückerstattungen
+    bei der Ausfuhr bestimmter Milcherzeugnisse nach dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 165/64/CEE della Commissione, del 29 ottobre 1964, concernente
+    le restituzioni applicabili all'esportazione verso i paesi terzi di alcuni prodotti
+    lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 165/64/EEG van de Commissie van 29 oktober 1964 betreffende
+    de restituties bij de uitvoer van bepaalde zuivelprodukten naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0165
+docidentifier:
+- content: EU Regulation 165/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0165
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/165/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

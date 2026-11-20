@@ -1,0 +1,88 @@
+---
+id: EURegulation5341977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 534/77 of 15 March 1977 repealing the protective
+    measures applicable to the export of fodder products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 534/77 de la Commission, du 15 mars 1977, abrogeant
+    les mesures de sauvegarde applicables à l'exportation de produits fourragers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 534/77 der Kommission vom 15. März 1977 zur Aufhebung
+    der bei der Ausfuhr von Futtermitteln geltenden Schutzmaßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 534/77 af 15. marts 1977 om ophævelse
+    af de for udførsel af foderstoffer gældende beskyttelsesforanstaltninger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 534/77 della Commissione, del 15 marzo 1977, che abroga
+    le misure di salvaguardia applicabili all'esportazione di prodotti foraggeri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 534/77 van de Commissie van 15 maart 1977 tot intrekking
+    van de vrijwaringsmaatregelen bij de uitvoer van voedergewassen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0534
+docidentifier:
+- content: EU Regulation 534/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0534
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/534/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-15'
+- type: implemented
+  at: '1977-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1667
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

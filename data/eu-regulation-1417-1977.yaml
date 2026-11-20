@@ -1,0 +1,94 @@
+---
+id: EURegulation14171977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1417/77 of 28 June 1977 amending Regulation
+    (EEC) No 350/77 laying down certain interim measures for the conservation and
+    management of fishery resources
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1417/77 du Conseil, du 28 juin 1977, modifiant le
+    règlement (CEE) n° 350/77 définissant certaines mesures intérimaires de conservation
+    et de gestion des ressources de pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1417/77 des Rates vom 28. Juni 1977 zur Änderung
+    der Verordnung (EWG) Nr. 350/77 zur Festlegung bestimmter Übergangsmaßnahmen
+    zur Erhaltung und Bewirtschaftung der Fischbestände
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1417/77 af 28. juni 1977 om ændring af forordning
+    (EØF) nr. 350/77 om visse midlertidige foranstaltninger til bevarelse og regulering
+    af fiskeressourcerne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1417/77 del Consiglio, del 28 giugno 1977, che modifica
+    il regolamento (CEE) n. 350/77 che definisce alcune misure interinali di conservazione
+    e di gestione delle risorse ittiche
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1417/77 van de Raad van 28 juni 1977 houdende wijziging
+    van Verordening (EEG) nr. 350/77 tot vaststelling van bepaalde overgangsmaatregelen
+    voor de instandhouding en het beheer van de visbestanden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1417
+docidentifier:
+- content: EU Regulation 1417/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1417
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1417/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-06-28'
+- type: implemented
+  at: '1977-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0350
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

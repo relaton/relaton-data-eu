@@ -1,0 +1,111 @@
+---
+id: EURegulation23841979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2384/79 of 29 October 1979 amending both the
+    Common Customs Tariff in respect of wines and Annex V to Regulation (EEC) No 337/79
+    on the common organization of the market in wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2384/79 du Conseil, du 29 octobre 1979, modifiant
+    le tarif douanier commun en ce qui concerne les vins ainsi que l' annexe V du
+    règlement (CEE) n° 337/79 portant organisation commune du marché viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2384/79 des Rates vom 29. Oktober 1979 zur Änderung
+    des Gemeinsamen Zolltarifs in bezug auf Wein und des Anhangs V der Verordnung
+    (EWG) Nr. 337/79 über die gemeinsame Marktorganisation für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2384/79 af 29. oktober 1979 om ændring af
+    den fælles toldtarif for så vidt angår vin samt af bilag V til forordning (EØF)
+    nr. 337/79 om den fælles markedsordning for vin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2384/79 τού Συμβουλίου
+    τής 29ης Οκτωβρίου 1979 περί τροποποιήσεως τού
+    Κοινού Δασμολογίου ως πρός τούς οίνους καθώς
+    καί τού παραρτήματος τού κανονισμού (ΕΟΚ) αριθ.
+    337/79 περί κοινής οργανώσεως τής αμπελοοινικής
+    αγοράς
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2384/79 del Consiglio, del 29 ottobre 1979, che modifica
+    la tariffa doganale comune per i vini nonché l' allegato V del regolamento (CEE)
+    n. 337/79, relativo all' organizzazione comune del mercato vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2384/79 van de Raad van 29 oktober 1979 houdende
+    wijziging van het gemeenschappelijk douanetarief ten aanzien van wijn alsmede
+    van bijlage V van Verordening (EEG) nr. 337/79 houdende een gemeenschappelijke
+    ordening van de wijnmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2384
+docidentifier:
+- content: EU Regulation 2384/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2384
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2384/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-10-29'
+- type: implemented
+  at: '1979-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2800
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0337
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

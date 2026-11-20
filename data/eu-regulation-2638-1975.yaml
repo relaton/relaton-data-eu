@@ -1,0 +1,94 @@
+---
+id: EURegulation26381975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2638/75 of the Council of 16 October 1975 amending
+    Regulation (EEC) No 475/75 with regard to the rate of exchange to be applied in
+    agriculture for the Irish pound and the pound sterling
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2638/75 du Conseil, du 16 octobre 1975, modifiant
+    le règlement (CEE) n° 475/75 en ce qui concerne les taux de change à appliquer
+    dans le secteur agricole pour la livre irlandaise et la livre anglaise
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2638/75 des Rates vom 16. Oktober 1975 zur Änderung
+    der Verordnung (EWG) Nr. 475/75 hinsichtlich der in der Landwirtschaft für das
+    irische und englische Pfund anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2638/75 af 16. oktober 1975 om ændring af
+    forordning (EØF) nr. 475/75 for så vidt angår de vekselkurser, der skal anvendes
+    inden for landbrugssektoren for det irske pund og det engelske pund
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2638/75 del Consiglio, del 16 ottobre 1975, che modifica
+    il regolamento (CEE) n. 475/75 per quanto riguarda i tassi di cambio da applicare
+    nel settore agricolo per la sterlina irlandese e la sterlina inglese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2638/75 van de Raad van 16 oktober 1975 houdende
+    wijziging van Verordening (EEG) nr. 475/75 voor wat betreft de in de landbouwsector
+    voor het Ierse pond en het Engelse pond toe te passen wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2638
+docidentifier:
+- content: EU Regulation 2638/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2638
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2638/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-16'
+- type: implemented
+  at: '1975-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0475
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

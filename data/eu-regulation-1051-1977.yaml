@@ -1,0 +1,102 @@
+---
+id: EURegulation10511977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1051/77 of 18 May 1977 postponing the date
+    of entry into application of Regulation (EEC) No 800/77 amending, as regards products
+    which are subject to monetary compensatory amounts, Regulation (EEC) No 572/76
+    fixing the monetary compensatory amounts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1051/77 de la Commission, du 18 mai 1977, reportant
+    la date d' entrée en application du règlement (CEE) n° 800/77 modifiant, en
+    ce qui concerne la liste des produits soumis aux montants compensatoires monétaires,
+    le règlement (CEE) n° 572/76 fixant les montants compensatoires monétaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1051/77 der Kommission vom 18. Mai 1977 zur Verschiebung
+    des Datums des Anwendungsbeginns der Verordnung (EWG) Nr. 800/77 zur Änderung
+    der Verordnung (EWG) Nr. 572/76 zur Festsetzung der Währungsausgleichsbeträge
+    bezüglich der Liste der diesen Beträgen unterworfenen Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1051/77 af 18. maj 1977 om udsættelse
+    af datoen for anvendelsen af forordning (EØF) nr. 800/77 om ændring af forordning
+    (EØF) nr. 572/76 om fastsættelse af monetære udligningsbeløb, for så vidt
+    angår listen over de varer, som er omfattet af ordningen vedrørende monetære
+    udligningsbeløb
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1051/77 della Commissione, del 18 maggio 1977, che
+    proroga la data d' applicazione del regolamento (CEE) n. 800/77 che modifica,
+    per quanto riguarda l' elenco dei prodotti soggetti agli importi compensativi
+    monetari, il regolamento (CEE) n. 572/76 recante fissazione di detti importi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1051/77 van de Commissie van 18 mei 1977 tot uitstel
+    van de datum van inwerkingtreding van Verordening (EEG) nr. 800/77 tot wijziging
+    van de in Verordening (EEG) nr. 572/76 tot vaststelling van de monetaire compenserende
+    bedragen opgenomen lijst van de produkten waarvoor de monetaire compenserende
+    bedragen gelden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1051
+docidentifier:
+- content: EU Regulation 1051/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1051
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1051/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-05-18'
+- type: implemented
+  at: '1977-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0800
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EURegulation16141979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1614/79 of 24 July 1979 laying down special
+    measures in respect of soya beans
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1614/79 du Conseil, du 24 juillet 1979, prévoyant
+    des mesures spéciales pour les graines de soja
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1614/79 des Rates vom 24. Juli 1979 über Sondermaßnahmen
+    für Sojabohnen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1614/79 af 24. juli 1979 om fastsættelse
+    af særlige foranstaltninger for sojabønner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1614/79 του Συμβουλίου
+    της 24ης Ιουλίου 1979 περί προβλέψεως ειδικών
+    μέτρων για τους σπόρους σόγιας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1614/79 del Consiglio, del 24 luglio 1979, recante
+    misure speciali per i semi di soia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1614/79 van de Raad van 24 juli 1979 tot vaststelling
+    van bijzondere maatregelen voor sojabonen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1614
+docidentifier:
+- content: EU Regulation 1614/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1614
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1614/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-24'
+- type: implemented
+  at: '1979-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1900
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

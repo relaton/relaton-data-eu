@@ -1,0 +1,83 @@
+---
+id: EURegulation24621970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2462/70 de la Commission, du 4 décembre 1970, relatif
+    à la modification des délais pour la présentation des offres prévus par le
+    règlement (CEE) n 1734/70 concernant une adjudication permanente pour l'exportation
+    de sucre blanc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2462/70 der Kommission vom 4. Dezember 1970 zur Änderung
+    der in der Verordnung (EWG) Nr. 1734/70 über eine Dauerausschreibung für die
+    Ausfuhr von Weißzucker vorgesehenen Fristen für die Einreichung der Angebote
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2462/70 della Commissione, del 4 dicembre 1970, relativo
+    alla modifica dei termini per la presentazione delle offerte previsti dal regolamento
+    (CEE) n. 1734/70 inerente ad una gara permanente per l'esportazione di zucchero
+    bianco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2462/70 van de Commissie van 4 december 1970 tot
+    wijziging van de in Verordening (EEG) nr. 1734/70 betreffende een permanente openbare
+    inschrijving voor de uitvoer van witte suiker vastgestelde termijnen voor de indiening
+    van de aanbiedingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2462
+docidentifier:
+- content: EU Regulation 2462/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2462
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2462/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-04'
+- type: implemented
+  at: '1970-12-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1734
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

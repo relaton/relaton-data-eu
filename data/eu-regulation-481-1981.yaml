@@ -1,0 +1,136 @@
+---
+id: EURegulation4811981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 481/81 of 24 February 1981 amending Regulations
+    (EEC) No 1893/79, (EEC) No 2592/79 and (EEC) No 649/80, introducing registration
+    for crude oil and petroleum product imports in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 481/81 du Conseil, du 24 février 1981, modifiant
+    les règlements (CEE) n° 1893/79, (CEE) n° 2592/79 et (CEE) n° 649/80 instaurant
+    un enregistrement dans la Communauté des importations de pétrole brut et de
+    produits pétroliers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 481/81 des Rates vom 24. Februar 1981 zur Änderung
+    der Verordnungen (EWG) Nr. 1893/79, (EWG) Nr. 2592/79 und (EWG) Nr. 649/80 zur
+    Schaffung einer Registrierung der Einfuhren von Rohöl und Mineralölerzeugnissen
+    in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 481/81 af 24. februar 1981 om ændring af
+    forordning (EØF) nr. 1893/79, (EØF) nr. 2592/79 og (EØF) nr. 649/80 om indførelse
+    af en registrering i Fællesskabet af indførsler af råolie og mineralolieprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 481/81 τού Συμβουλίου
+    τής 24ης Φεβρουαρίου 1981 περί τροποποιήσεως
+    τών κανονισμών (ΕΟΚ) αριθ. 1893/79, (ΕΟΚ) αριθ. 2592/79
+    καί (ΕΟΚ) αριθ. 649/80 περί καθορισμού τών κανόνων
+    σύμφωνα μέ τούς οποίους πραγματοποιείται η
+    καταγραφή στήν Ευρωπαϊκή Οικονομική Κοινότητα
+    τών εισαγωγών προϊόντων πετρελαίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 481/81 del Consiglio, del 24 febbraio 1981, che modifica
+    i regolamenti (CEE) n. 1893/79, (CEE) n. 2592/79 e (CEE) n. 649/80, che introducono
+    nella Comunità la registrazione delle importazioni di petrolio greggio e di prodotti
+    petroliferi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 481/81 van de Raad van 24 februari 1981 tot wijziging
+    van de Verordeningen (EEG) nr. 1893/79, (EEG) nr. 2592/79 en (EEG) nr. 649/80
+    houdende instelling van een registratie in de Gemeenschap van de invoer van ruwe
+    aardolie en aardolieprodukten
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 481/81 do Conselho, de 24 de Fevereiro de 1981,
+    que altera os Regulamentos (CEE) n.° 1893/79, (CEE) n.° 2592/79 e (CEE) n.°
+    649/80 que introduzem na Comunidade um registo das importações de petróleo
+    bruto e de produtos petrolíferos
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 481/81 del Consejo, de 24 de febrero de 1981, por
+    el que se modifican los Reglamentos (CEE) n° 1893/79, (CEE) n° 2592/79 y (CEE)
+    n° 649/80 que establecen un registro en la Comunidad de las importaciones de
+    petróleo crudo y de productos petrolíferos
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0481
+docidentifier:
+- content: EU Regulation 481/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0481
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/481/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-02-24'
+- type: implemented
+  at: '1981-02-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1893
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2592
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R0649
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,95 @@
+---
+id: EURegulationNo20331975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2033/75 of the Commission of 5 August 1975 amending
+    the definition as laid down in Regulation (EEC) No 1090/75 (EXIM) of products
+    falling within CCT subheading 16.02 B III b) 1
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2033/75 de la Commission, du 5 août 1975, modifiant
+    la définition, fixée par le règlement (CEE) n° 1090/75 (EXIM), des produits
+    relevant de la sous-position tarifaire 16.02 B III b) 1 du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2033/75 der Kommission vom 5. August 1975 zur Änderung
+    der Definition der nach Verordnung (EWG) Nr. 1090/75 (EXIM) unter die Waren der
+    Tarifstelle 16.02 B III b) 1 des Gemeinsamen Zolltarifs fallenden Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2033/75 af 5. august 1975 om ændring
+    af den i forordning (EØF) nr. 1090/75 (EXIM) fastsatte definition af varer, der
+    henhører under pos. 16.02 B III b) 1 i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2033/75 della Commissione, del 5 agosto 1975, che
+    modifica la definizione, fissata nel regolamento (CEE) n. 1090/75 (EXIM), dei
+    prodotti della sottovoce 16.02 B III b) 1 della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2033/75 van de Commissie van 5 augustus 1975 tot
+    wijziging van de in Verordening (EEG) nr. 1090/75 (EXIM) gegeven omschrijving
+    van de produkten van tariefonderverdeling 16.02 B III b) 1 van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2033
+docidentifier:
+- content: EU Regulation No 2033/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2033
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2033/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-05'
+- type: implemented
+  at: '1975-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1090
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

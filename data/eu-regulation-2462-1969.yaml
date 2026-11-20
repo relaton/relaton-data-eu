@@ -1,0 +1,84 @@
+---
+id: EURegulation24621969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2462/69 du Conseil, du 8 décembre 1969, portant augmentation
+    du contingent tarifaire communautaire de morues entières, décapitées ou tronçonnées,
+    simplement salées ou en saumure, ou séchées, de la position 03.02 à I b) du
+    tarif douanier commun (année 1969)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2462/69 des Rates vom 8. Dezember 1969 zur Erhöhung
+    des Gemeinschaftszollkontingents für Kabeljau, ganz, ohne Kopf oder zerteilt,
+    nur gesalzen, in Salzlake oder getrocknet, der Tarifnummer 03.02 A I b) des Gemeinsamen
+    Zolltarifs (1969)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2462/69 del Consiglio, dell'8 dicembre 1969, relativo
+    all'aumento del contingente tariffario comunitario di merluzzi interi, decapitati
+    o in pezzi, semplicemente salati o in salamoia, o secchi, della voce 03.02 A I
+    b) della tariffa doganale comune (anno 1969)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2462/69 van de Raad van 8 december 1969 houdende
+    vergroting van het communautaire tariefcontingent van kabeljauw, ook indien ontdaan
+    van kop of in moten gesneden, enkel gezouten, gepekeld of gedroogd, van post 03.02
+    A I b) van het gemeenschappelijk douanetarief (1969)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2462
+docidentifier:
+- content: EU Regulation 2462/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2462
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2462/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-08'
+- type: implemented
+  at: '1969-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0089
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

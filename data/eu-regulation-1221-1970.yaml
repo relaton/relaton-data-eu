@@ -1,0 +1,80 @@
+---
+id: EURegulation12211970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1221/70 du Conseil, du 29 juin 1970, modifiant le
+    règlement n° 876/67/CEE instituant une aide supplémentaire pour les graines
+    de colza et de navette transformées en Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1221/70 des Rates vom 29. Juni 1970 zur Änderung
+    der Verordnung Nr. 876/67/EWG zur Einführung einer zusätzlichen Beihilfe für
+    in Italien verarbeitete Raps- und Rübsensamen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1221/70 del Consiglio, del 29 giugno 1970, relativo
+    alla modifica del regolamento n. 876/67/CEE che istituisce una integrazione supplementare
+    per i semi di colza e di ravizzone trasformati in Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1221/70 van de Raad van 29 juni 1970 houdende wijziging
+    van Verordening nr. 876/67/EEG tot instelling van extra steun voor in Italië
+    verwerkt koolzaad en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1221
+docidentifier:
+- content: EU Regulation 1221/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1221
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1221/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1382
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

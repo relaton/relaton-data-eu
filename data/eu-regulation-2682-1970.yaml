@@ -1,0 +1,78 @@
+---
+id: EURegulation26821970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2682/70 de la Commission, du 29 décembre 1970, portant
+    prorogation de la durée de validité des règlements (CEE) n° 1134/70 et 1275/70
+    en ce qui concerne la commercialisation de vins qui ne correspondent pas aux prescriptions
+    du règlement (CEE) n 816/70
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2682/70 der Kommission vom 29. Dezember 1970 über
+    die Verlängerung der Geltungsdauer der Verordnungen (EWG) Nr. 1134/70 und Nr.
+    1275/70 in bezug auf die Vermarktung von Weinen, die nicht den Bestimmungen der
+    Verordnung (EWG) Nr. 816/70 entsprechen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2682/70 della Commissione, del 29 dicembre 1970, recante
+    nuova modifica dei regolamenti (CEE) n. 1134/70 e n. 1275/70 per quanto riguarda
+    la commercializzazione di vini non conformi alle disposizioni del regolamento
+    (CEE) n. 816/70
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2682/70 van de Commissie van 29 december 1970 houdende
+    verlenging van de geldigheidsduur van de Verordeningen (EEG) nrs. 1134/70 en 1275/70
+    met betrekking tot het in de handel brengen van wijnen die niet beantwoorden aan
+    de bepalingen van Verordening (EEG) nr. 816/70
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2682
+docidentifier:
+- content: EU Regulation 2682/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2682
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2682/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-29'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation10421968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1042/68 du Conseil, du 23 juillet 1968, fixant le
+    prix de base et le prix d'achat pour les pommes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1042/68 des Rates vom 23. Juli 1968 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Äpfel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1042/68 del Consiglio, del 23 luglio 1968, che fissa
+    il prezzo di base e il prezzo d'acquisto per le mele
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1042/68 van de Raad van 23 juli 1968 houdende vaststelling
+    van de basisprijs en de aankoopprijs voor appelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1042
+docidentifier:
+- content: EU Regulation 1042/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1042
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1042/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-23'
+- type: implemented
+  at: '1968-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

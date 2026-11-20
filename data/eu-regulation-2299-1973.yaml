@@ -1,0 +1,94 @@
+---
+id: EURegulation22991973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2299/73 of the Commission of 23 August 1973 amending
+    Regulation (EEC) No 1519/72 as regards the undertakings which may process butter
+    sold thereunder
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2299/73 de la Commission, du 23 août 1973, modifiant
+    le règlement (CEE) n° 1519/72 en ce qui concerne les entreprises pouvant transformer
+    le beurre vendu
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2299/73 der Kommission vom 23. August 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1519/72 hinsichtlich der Betriebe, die die verkaufte
+    Butter verarbeiten können
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2299/73 af 23. august 1973 om ændring
+    af forordning (EØF) nr. 1519/72 for så vidt angår de virksomheder, der kan
+    omdanne det solgte smør
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2299/73 della Commissione, del 23 agosto 1973, che
+    modifica il regolamento (CEE) n. 1519/72 per quanto concerne le imprese che possono
+    trasformare il burro venduto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2299/73 van de Commissie van 23 augustus 1973 houdende
+    wijziging van Verordening (EEG) nr. 1519/72 met betrekking tot de bedrijven die
+    de verkochte boter kunnen verwerken
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2299
+docidentifier:
+- content: EU Regulation 2299/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2299
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2299/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-08-23'
+- type: implemented
+  at: '1973-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1519
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation22651974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2265/74 of the Commission of 30 August 1974 amending
+    Regulation (EEC) No 1637/74 so as to make private storage aid available for certain
+    pigmeat products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2265/74 de la Commission, du 30 août 1974, complétant
+    le règlement (CEE) n° 1637/74 en vue de l' octroi d' aides au stockage privé
+    de certains produits du secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2265/74 der Kommission vom 30. August 1974 zur Ergänzung
+    der Verordnung (EWG) Nr. 1637/74 hinsichtlich der Gewährung von Beihilfen für
+    die private Lagerhaltung von bestimmten Erzeugnissen des Sektors Schweinefleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2265/74 af 30. august 1974 om tillæg
+    til forordning (EØF) nr. 1637/74 med henblik på ydelse af støtte til privat
+    oplagring af visse produkter inden for svinekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2265/74 della Commissione, del 30 agosto 1974, che
+    completa il regolamento (CEE) n. 1637/74 ai fini della concessione di aiuti all'
+    ammasso privato di taluni prodotti del settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2265/74 van de Commissie van 30 augustus 1974 houdende
+    aanvulling van Verordening (EEG) nr. 1637/74 met het oog op de toekenning aan
+    de particuliere opslag van bepaalde produkten uit de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2265
+docidentifier:
+- content: EU Regulation 2265/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2265
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2265/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-08-30'
+- type: implemented
+  at: '1974-09-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1774
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,88 @@
+---
+id: EURegulation3481979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 348/79 of 5 February 1979 on measures designed
+    to adjust wine-growing potential to market requirements
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 348/79 du Conseil, du 5 février 1979, portant des
+    mesures visant à adapter le potentiel viticole aux besoins du marché
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 348/79 des Rates vom 5. Februar 1979 über Maßnahmen
+    zur Anpassung des Weinbaupotentials an die Marktbedürfnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 348/79 af 5. februar 1979 om foranstaltninger
+    med henblik på at tilpasse vinproduktionskapaciteten til markedets behov
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 348/79 del Consiglio, del 5 febbraio 1979, recante
+    misure intese ad adeguare il potenziale viticolo alle esigenze del mercato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 348/79 van de Raad van 5 februari 1979 houdende maatregelen
+    tot aanpassing van het wijnbouwpotentieel aan de behoeften van de markt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0348
+docidentifier:
+- content: EU Regulation 348/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0348
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/348/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-02-05'
+- type: implemented
+  at: '1979-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1162
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

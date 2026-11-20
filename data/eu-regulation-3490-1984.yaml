@@ -1,0 +1,105 @@
+---
+id: EURegulation34901984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3490/84 of 11 December 1984 amending for the
+    sixth time Regulation (EEC) No 355/79 laying down general rules for the description
+    and presentation of wines and grape musts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 3490/84 du Conseil du 11 décembre 1984 portant sixième
+    modification du règlement (CEE) no 355/79 établissant les règles générales
+    pour la désignation et la présentation des vins et des moûts de raisins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3490/84 des Rates vom 11. Dezember 1984 zur sechsten
+    Änderung der Verordnung (EWG) Nr. 355/79 zur Aufstellung allgemeiner Regeln für
+    die Bezeichnung und Aufmachung der Weine und der Traubenmoste
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3490/84 af 11. december 1984 om sjette ændring
+    af forordning (EØF) nr. 355/79 om fastsættelse af almindelige regler for betegnelse
+    og præsentation af vin og druemost
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3490/84 του Συμβουλίου
+    της 11ης Δεκεμβρίου 1984 για την έκτη τροποποίηση
+    του κανονισμού (ΕΟΚ) αριθ. 355/79 περί των γενικών
+    κανόνων για την περιγραφή και την παρουσίαση
+    οίνων και γλευκών σταφυλής
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3490/84 del Consiglio dell' 11 dicembre 1984 recante
+    sesta modifica del regolamento (CEE) n. 355/79 che stabilisce le norme generali
+    per la designazione e la presentazione dei vini e dei mosti di uve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3490/84 van de Raad van 11 december 1984 houdende
+    zesde wijziging van Verordening (EEG) nr. 355/79 houdende vaststelling van de
+    algemene voorschriften voor de omschrijving en de aanbiedingsvorm van wijn en
+    druivemost
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R3490
+docidentifier:
+- content: EU Regulation 3490/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R3490
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/3490/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-12-11'
+- type: implemented
+  at: '1984-12-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0355
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

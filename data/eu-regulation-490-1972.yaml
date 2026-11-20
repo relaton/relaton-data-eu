@@ -1,0 +1,93 @@
+---
+id: EURegulation4901972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 490/72 of the Council of 7 March 1972 amending Regulation
+    (EEC) No 170/71 as regards statutory provisions of producers' organizations in
+    the fishing industry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 490/72 du Conseil, du 7 mars 1972, modifiant le règlement
+    (CEE)" n° 170/71 en ce qui concerne les dispositions statutaires des organisations
+    de producteurs dans le secteur de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 490/72 des Rates vom 7. März 1972 zur Änderung der
+    Verordnung (EWG) Nr. 170/71 hinsichtlich der Satzung der Erzeugerorganisationen
+    der Fischwirtschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 490/72 af 7. marts 1972 om ændring i forordning
+    (EØF) nr. 170/71 med hensyn til vedtægterne for fiskeriets producentorganisationer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 490/72 del Consiglio, del 7 marzo 1972, che modifica
+    il regolamento (CEE) n. 170/71 per quanto concerne le disposizioni statutarie
+    delle organizzazioni di produttori nel settore della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 490/72 van de Raad van 7 maart 1972 houdende wijziging
+    van Verordening (EEG) nr. 170/71 voor wat betreft de statutaire bepalingen van
+    de producentenorganisaties in de visserijsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0490
+docidentifier:
+- content: EU Regulation 490/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0490
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/490/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-07'
+- type: implemented
+  at: '1972-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0170
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

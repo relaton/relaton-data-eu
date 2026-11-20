@@ -1,0 +1,93 @@
+---
+id: EURegulation2961978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 296/78 of 14 February 1978 amending Regulation
+    (EEC) No 2205/77 on preventive distillation for the 1977/78 wine-growing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 296/78 de la Commission, du 14 février 1978, modifiant
+    le règlement (CEE) n° 2205/77 relatif à la distillation préventive pour la
+    campagne 1977/1978
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 296/78 der Kommission vom 14. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2205/77 über die vorbeugende Destillation für das Wirtschaftsjahr
+    1977/78
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 296/78 af 14. februar 1978 om ændring
+    af forordning (EØF) nr. 2205/77 om forebyggende destillering i produktionsåret
+    1977/1978
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 296/78 della Commissione, del 14 febbraio 1978, che
+    modifica il regolamento (CEE) n. 2205/77 relativo alla distillazione preventiva
+    per la campagna 1977/1978
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 296/78 van de Commissie van 14 februari 1978 tot
+    wijziging van Verordening (EEG) nr. 2205/77 van de Commissie betreffende de preventieve
+    distillatie voor het wijnoogstjaar 1977/1978
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0296
+docidentifier:
+- content: EU Regulation 296/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0296
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/296/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-14'
+- type: implemented
+  at: '1978-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2205
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

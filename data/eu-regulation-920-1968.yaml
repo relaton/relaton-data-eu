@@ -1,0 +1,70 @@
+---
+id: EURegulation9201968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 920/68 de la Commission, du 9 juillet 1968, relatif
+    à la détermination des centres d'intervention pour les graines oléagineuses,
+    autres que les centres principaux et des prix d'intervention dérivés qui y sont
+    applicables
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 920/68 der Kommission vom 9. Juli 1968 zur Festlegung
+    der Interventionsorte für Ölsaaten, ausgenommen die Hauptinterventionsorte,
+    und der dort geltenden abgeleiteten Interventionspreise
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 920/68 della Commissione, del 9 luglio 1968, relativo
+    alla determinazione dei centri d'intervento per i semi oleosi, diversi dai centri
+    principali, e dei prezzi d'intervento derivati in essi applicabili
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 920/68 van de Commissie van 9 juli 1968 betreffende
+    het bepalen van de andere dan de voornaamste interventiecentra voor oliehoudende
+    zaden, en van de daar geldende afgeleide interventieprijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0920
+docidentifier:
+- content: EU Regulation 920/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0920
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/920/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

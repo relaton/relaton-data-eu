@@ -1,0 +1,69 @@
+---
+id: EURegulationNo20451969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2045/69 de la Commission, du 17 octobre 1969, modifiant
+    le règlement (CEE) n 1810/69 en ce qui concerne le prix d'achat des viandes provenant
+    des «Ochsen A» dans la région I en Allemagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2045/69 der Kommission vom 17. Oktober 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1810/69 hinsichtlich des Ankaufspreises für von Ochsen
+    A stammendes Fleisch in dem Teilgebiet I Deutschlands
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2045/69 della Commissione, del 17 ottobre 1969, che
+    modifica il regolamento (CEE) n. 1810/69 per quanto riguarda il prezzo d'acquisto
+    delle carni che provengono dagli «Ochsen A» nella regione I di Germania
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2045/69 van de Commissie van 17 oktober 1969 houdende
+    wijziging van Verordening (EEG) nr. 1810/69 betreffende de aankoopprijs van vlees
+    afkomstig van "Ochsen A" in gebied I in Duitsland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2045
+docidentifier:
+- content: EU Regulation No 2045/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2045
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2045/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

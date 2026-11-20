@@ -1,0 +1,74 @@
+---
+id: EURegulation22141972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2214/72 de la Commission, du 18 octobre 1972, fixant
+    définitivement le montant de l'aide pour les graines de colza, de navette et
+    de tournesol, déterminé provisoirement depuis le 29 mars 1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2214/72 der Kommission vom 18. Oktober 1972 zur endgültigen
+    Festsetzung des seit dem 29. März 1972 vorläufig festgesetzten Beihilfebetrags
+    für Raps-, Rübsen- und Sonnenblumensamen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2214/72 della Commissione, del 18 ottobre 1972, che
+    fissa definitivamente l'importo dell'integrazione per i semi di colza, di ravizzone
+    e di girasole stabilito provvisoriamente a partire dal 29 marzo 1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2214/72 van de Commissie van 18 oktober 1972 houdende
+    definitieve vaststelling van het bedrag van de steun voor koolzaad, raapzaad en
+    zonnebloemzaad welke voorlopig vanaf 29 maart 1972 werd vastgesteld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2214
+docidentifier:
+- content: EU Regulation 2214/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2214
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2214/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-18'
+- type: implemented
+  at: '1972-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

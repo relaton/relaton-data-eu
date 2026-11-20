@@ -1,0 +1,94 @@
+---
+id: EURegulation10981974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1098/74 of the Commission of 3 May 1974 amending Regulation
+    (EEC) No 2637/70 as regards the period of validity of import licences for beef
+    and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1098/74 de la Commission, du 3 mai 1974, modifiant
+    le règlement (CEE) n° 2637/70 en ce qui concerne la durée de validité des
+    certificats d' importation dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1098/74 der Kommission vom 3. Mai 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2637/70 hinsichtlich der Gültigkeitsdauer der Einfuhrlizenzen
+    für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1098/74 af 3. maj 1974 om ændring
+    af forordning (EØF) nr. 2637/70 for så vidt angår gyldighedsperioden for importlicenser
+    inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1098/74 della Commissione, del 3 maggio 1974, che
+    modifica il regolamento (CEE) n. 2637/70 per quanto riguarda la durata di validità
+    dei titoli d' importazione nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1098/74 van de Commissie van 3 mei 1974 tot wijziging
+    van Verordening (EEG) nr. 2637/70 met betrekking tot de geldigheidsduur van de
+    invoercertificaten in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1098
+docidentifier:
+- content: EU Regulation 1098/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1098
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1098/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-05-03'
+- type: implemented
+  at: '1974-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

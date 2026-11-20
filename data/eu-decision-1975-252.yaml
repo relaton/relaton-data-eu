@@ -1,0 +1,93 @@
+---
+id: EUDecision1975252
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '75/252/EEC: Commission Decision of 18 March 1975 amending the Commission
+    Decision of 22 December 1972 authorizing the Federal Republic of Germany to sell
+    butter at a reduced price in the form of concentrated butter'
+  type: main
+- language: fr
+  script: Latn
+  content: '75/252/CEE: Décision de la Commission, du 18 mars 1975, modifiant la
+    décision de la Commission, du 22 décembre 1972, autorisant la République fédérale
+    d''Allemagne à vendre du beurre à prix réduit sous forme de beurre concentré'
+  type: main
+- language: de
+  script: Latn
+  content: '75/252/EWG: Entscheidung der Kommission vom 18. März 1975 zur Änderung
+    der Entscheidung der Kommission vom 22. Dezember 1972 zur Ermächtigung der Bundesrepublik
+    Deutschland zum Verkauf von Butter zu herabgesetzten Preisen in Form von Butterreinfett'
+  type: main
+- language: da
+  script: Latn
+  content: '75/252/EØF: Kommissionens Beslutning af 18. marts 1975 om ændring af
+    Kommissionens beslutning af 22.december 1972 om tilladelse til Forbundsrepublikken
+    Tyskland til at sælge smør til nedsat pris i form af koncentreret smør'
+  type: main
+- language: it
+  script: Latn
+  content: '75/252/CEE: Decisione della Commissione, del 18 marzo 1975, che modifica
+    la decisione della Commissione del 22 dicembre 1972 che autorizza la Repubblica
+    federale di Germania a vendere burro a prezzo ridotto sotto forma di burro concentrato'
+  type: main
+- language: nl
+  script: Latn
+  content: '75/252/EEG: Beschikking van de Commissie van 18 maart 1975 tot wijziging
+    van de beschikking van de Commissie van 22 december 1972 houdende machtiging voor
+    de Bondsrepubliek Duitsland tot de verkoop van boter tegen verlaagde prijs in
+    de vorm van boterconcentraat'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975D0252
+docidentifier:
+- content: EU Decision 1975/252
+  type: EU
+  primary: true
+- content: CELEX 31975D0252
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1975/252/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0475
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

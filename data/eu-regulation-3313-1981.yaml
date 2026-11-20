@@ -1,0 +1,125 @@
+---
+id: EURegulation33131981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3313/81 of 17 November 1981 amending Regulations
+    (EEC) No 1544/69, (EEC) No 2780/78 and (EEC) No 3060/78 on the tariff treatment
+    applicable to goods contained in travellers' personal luggage or sent in small
+    consignments to private individuals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3313/81 du Conseil, du 17 novembre 1981, modifiant
+    les règlements (CEE) n° 1544/69, (CEE) n° 2780/78 et (CEE) n° 3060/78 en ce
+    qui concerne le traitement tarifaire applicable aux marchandises contenues dans
+    les bagages personnels des voyageurs ou faisant l' objet de petits envois adressés
+    aux particuliers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3313/81 des Rates vom 17. November 1981 zur Änderung
+    der Verordnungen (EWG) Nr. 1544/69, (EWG) Nr. 2780/78 und (EWG) Nr. 3060/78 hinsichtlich
+    der zolltariflichen Behandlung von Waren, die im persönlichen Gepäck der Reisenden
+    eingeführt oder in Kleinsendungen an Privatpersonen versandt werden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3313/81 af 17. november 1981 om ændring
+    af forordning (EØF) nr. 1544/69, (EØF) nr. 2780/78 og (EØF) nr. 3060/78 for
+    så vidt angår toldbehandlingen af varer, der indføres af rejsende i deres personlige
+    bagage, eller som indføres i småforsendelser til privatpersoner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3313/81 τού Συμβουλίου
+    τής 17ης Νοεμβρίου 1981 περί τροποποιήσεως τών
+    κανονισμών (EOK) αριθ. 1544/69, (EOK) αριθ. 2780/78 καί (EOK)
+    αριθ. 3060/78 περί τής δασμολογικής μεταχειρίσεως
+    η οποία εφαρμόζεται στά εμπορεύματα πού περιέχονται
+    στίς προσωπικές αποσκευές τών ταξιδιωτών ή
+    αποτελούν αντικείμενο μικροδεμάτων πού απευθύνονται
+    σέ ιδιώτες
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3313/81 del Consiglio, del 17 novembre 1981, che modifica
+    i regolamenti (CEE) n. 1544/69, (CEE) n. 2780/78 e (CEE) n. 3060/78 per quanto
+    concerne il trattamento tariffario applicabile alle merci contenute nei bagagli
+    personali dei viaggiatori o oggetto di piccole spedizioni destinate a privati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3313/81 van de Raad van 17 november 1981 tot wijziging
+    van de Verordeningen (EEG) nr. 1544/69, (EEG) nr. 2780/78 en (EEG) nr. 3060/78
+    voor wat betreft de tariefbehandeling van goederen die deel uitmaken van de persoonlijke
+    bagage van reizigers of die in kleine aan particulieren gerichte zendingen zijn
+    vervat
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R3313
+docidentifier:
+- content: EU Regulation 3313/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R3313
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/3313/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-11-17'
+- type: implemented
+  at: '1982-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1544
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2780
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R3060
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,65 @@
+---
+id: EURegulation5261967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 526/67/CEE de la Commission, du 31 août 1967, modifiant le
+    montant supplémentaire pour certains produits du secteur de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 526/67/EWG der Kommission vom 31. August 1967 zur Änderung
+    des Zusatzbetrags für bestimmte Erzeugnisse des Geflügelfleischsektors
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 526/67/CEE della Commissione, del 31 agosto 1967, che modifica
+    l'importo supplementare per taluni prodotti del settore del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 526/67/EEG van de Commissie van 31 augustus 1967 houdende
+    wijziging van het extra bedrag voor bepaalde produkten van de sector pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0526
+docidentifier:
+- content: EU Regulation 526/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0526
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/526/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

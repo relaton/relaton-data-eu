@@ -1,0 +1,80 @@
+---
+id: EURegulation17461968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1746/68 de la Commission, du 31 octobre 1968, modifiant
+    le règlement n° 830/67/CEE relatif aux modalités concernant l'aide pour l'huile
+    d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1746/68 der Kommission vom 31. Oktober 1968 zur Änderung
+    der Verordnung Nr. 830/67/EWG über Einzelheiten betreffend die Beihilfe für
+    Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1746/68 della Commissione, del 31 ottobre 1968, che
+    modifica il regolamento n. 830/67/CEE relativo alle modalità riguardanti l'integrazione
+    per l'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1746/68 van de Commissie van 31 oktober 1968 houdende
+    wijziging van Verordening nr. 830/67/EEG houdende enkele bepalingen betreffende
+    de steun voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1746
+docidentifier:
+- content: EU Regulation 1746/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1746
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1746/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-31'
+- type: implemented
+  at: '1968-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0830
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

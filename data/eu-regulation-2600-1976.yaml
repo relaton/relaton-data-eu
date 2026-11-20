@@ -1,0 +1,105 @@
+---
+id: EURegulation26001976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2600/76 of 26 October 1976 extending the term
+    of validity of Regulations (EEC) No 601/76 and (EEC) No 602/76 laying down special
+    measures in particular for the determination of the offers of olive oil on the
+    world market and the Greek market
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2600/76 du Conseil, du 26 octobre 1976, prorogeant
+    les règlements (CEE) n° 601/76 et n 602/76 établissant des mesures particulières
+    notamment pour la détermination des offres d'huile d'olive sur les marchés mondial
+    et hellénique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2600/76 des Rates vom 26. Oktober 1976 zur Verlängerung
+    der Anwendungsdauer der Verordnungen (EWG) Nrn. 601/76 und 602/76 über Sondermaßnahmen
+    insbesondere zur Festsetzung des Angebots von Olivenöl auf dem Weltmarkt und
+    dem griechischen Markt
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2600/76 af 26. oktober 1976 om forlængelse
+    af forordningerne (EØF) nr. 601/76 og (EØF) nr. 602/76 om fastsættelse af særlige
+    foranstaltninger, især vedrørende bestemmelse af udbudet af olivenolie på verdensmarkedet
+    og på det græske marked
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2600/76 del Consiglio, del 26 ottobre 1976, recante
+    proroga dei regolamenti (CEE) n. 601/76 e (CEE) n. 602/76 che prevedono misure
+    particolari segnatamente per la determinazione delle offerte di olio d'oliva sul
+    mercato mondiale e sul mercato ellenico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2600/76 van de Raad van 26 oktober 1976 tot verlenging
+    van de Verordeningen (EEG) nr. 601/76 en (EEG) nr. 602/76 tot vaststelling van
+    bijzondere maatregelen met name voor het bepalen van aanbiedingen van olijfolie
+    op de wereldmarkt en op de Griekse markt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2600
+docidentifier:
+- content: EU Regulation 2600/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2600
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2600/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-10-26'
+- type: implemented
+  at: '1976-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0601
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0602
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

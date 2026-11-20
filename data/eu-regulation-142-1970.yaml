@@ -1,0 +1,73 @@
+---
+id: EURegulation1421970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 142/70 de la Commission, du 26 janvier 1970, fixant
+    des prix minima à l'exportation vers les pays tiers de tubercules de bégonias
+    et de sinningias
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 142/70 der Kommission vom 26. Januar 1970 zur Festsetzung
+    der Mindestpreise bei der Ausfuhr von Begonien- und Sinningiaknollen nach Drittländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 142/70 della Commissione, del 26 gennaio 1970, che
+    fissa dei prezzi minimi all'esportazione verso i paesi terzi di tuberi di begonie
+    e sinningia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 142/70 van de Commissie van 26 januari 1970 houdende
+    vaststelling van de minimumprijzen bij de uitvoer naar derde landen van knollen
+    van begonia's en sinningia's
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0142
+docidentifier:
+- content: EU Regulation 142/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0142
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/142/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-01-26'
+- type: implemented
+  at: '1970-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

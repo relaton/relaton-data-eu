@@ -1,0 +1,86 @@
+---
+id: EURegulation3031974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 303/74 of the Council of 4 February 1974 on imports
+    of olive oil from Morocco
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 303/74 du Conseil, du 4 février 1974, relatif aux
+    importations des huiles d'olive du Maroc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 303/74 des Rates vom 4. Februar 1974 über die Einfuhr
+    von Olivenöl aus Marokko
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 303/74 af 4. februar 1974 om indførsel af
+    olivenolie fra Marokko
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 303/74 del Consiglio, del 4 febbraio 1974, relativo
+    alle importazioni dal Marocco di oli d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 303/74 van de Raad van 4 februari 1974 betreffende
+    de invoer van olijfolie uit Marokko
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0303
+docidentifier:
+- content: EU Regulation 303/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0303
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/303/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-02-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0463
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

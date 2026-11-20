@@ -1,0 +1,78 @@
+---
+id: EUDecision1969462
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision du Conseil du 15 décembre 1969, prorogeant la décision, du
+    21 décembre 1967, relative aux vins de qualité originaires et en provenance
+    de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: '69/462/EWG: Entscheidung des Rates vom 15. Dezember 1969 zur Verlängerung
+    der Geltungsdauer der Entscheidung vom 21. Dezember 1967 über Qualitätsweine
+    mit Ursprung in und Herkunft aus der Türkei'
+  type: main
+- language: it
+  script: Latn
+  content: '69/462/CEE: Decisione del Consiglio, del 15 dicembre 1969, che proroga
+    la decisione del 21 dicembre 1967 relativa ai vini di qualità originari della
+    Turchia e in provenienza da questo paese'
+  type: main
+- language: nl
+  script: Latn
+  content: '69/462/EEG: Beschikking van de Raad van 15 december 1969 houdende verlenging
+    van de geldigheidsduur van de beschikking van 21 december 1967 betreffende kwaliteitswijnen
+    van oorsprong en van herkomst uit Turkije'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969D0462
+docidentifier:
+- content: EU Decision 1969/462
+  type: EU
+  primary: true
+- content: CELEX 31969D0462
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1969/462/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968D0004
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation4791970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 479/70 de la Commission, du 13 mars 1970, fixant les
+    conditions pour l'attribution des opérations de transformation des oranges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 479/70 der Kommission vom 13. März 1970 über die
+    Bedingungen für die Übertragung der Verarbeitung von Orangen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 479/70 della Commissione, del 13 marzo 1970, che stabilisce
+    le condizioni di attribuzione delle operazioni di trasformazione delle arance
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 479/70 van de Commissie van 13 maart 1970 houdende
+    vaststelling van de voorwaarden voor toewijzing van het verwerken van sinaasappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0479
+docidentifier:
+- content: EU Regulation 479/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0479
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/479/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-13'
+- type: implemented
+  at: '1970-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

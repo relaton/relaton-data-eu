@@ -1,0 +1,69 @@
+---
+id: EURegulation15031970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1503/70 de la Commission, du 28 juillet 1970, déterminant
+    certaines superficies viticoles dont les vins de table peuvent avoir un titre
+    alcoomémétrique naturel total maximum de 17
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1503/70 der Kommission vom 28. Juli 1970 zur Festlegung
+    bestimmter Weinbauflächen zur Erzeugung von Tafelweinen, die einen natürlichen
+    Höchst-Gesamtalkoholgehalt von 17 haben können
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1503/70 della Commissione, del 28 luglio 1970, che
+    determina talune superfici viticole nelle quali sono prodotti vini da pasto che
+    possono avere gradazione alcolometrica naturale totale massima di 17
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1503/70 van de Commissie van 28 juli 1970 houdende
+    bepaling van sommige wijngaardoppervlakten waarvan de tafelwijnen een totaal natuurlijk
+    alcoholgehalte van ten hoogste 17 mogen hebben
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1503
+docidentifier:
+- content: EU Regulation 1503/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1503
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1503/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

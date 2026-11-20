@@ -1,0 +1,68 @@
+---
+id: EURegulation5121972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 512/72 de la Commission, du 13 mars 1972, portant abrogation
+    du règlement (CEE) n 471/72 constatant la situation de crise grave du marché
+    des poires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 512/72 der Kommission vom 13. März 1972 zur Aufhebung
+    der Verordnung (EWG) Nr. 471/72 zur Feststellung einer ernsten Krise auf dem Birnenmarkt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 512/72 della Commissione, del 13 marzo 1972, che abroga
+    il regolamento (CEE) n. 471/72 con cui si constata la situazione di crisi grave
+    del mercato delle pere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 512/72 van de Commissie van 13 maart 1972 tot intrekking
+    van Verordening (EEG) nr. 471/72 houdende constatering van een ernstige crisis
+    op de markt van peren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0512
+docidentifier:
+- content: EU Regulation 512/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0512
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/512/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

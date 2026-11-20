@@ -1,0 +1,101 @@
+---
+id: EURegulation36061983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3606/83 of 19 December 1983 extending the period
+    of application of Regulation (EEC) No 3310/75 on agriculture in the Grand Duchy
+    of Luxembourg
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 3606/83 du Conseil du 19 décembre 1983 prorogeant
+    le règlement (CEE) no 3310/75 relatif à l' agriculture du grand-duché de Luxembourg
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3606/83 des Rates vom 19. Dezember 1983 zur Verlängerung
+    der Geltungsdauer der Verordnung (EWG) Nr. 3310/75 über die Landwirtschaft des
+    Großherzogtums Luxemburg
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3606/83 af 19. december 1983 om forlængelse
+    af gyldighedsperioden for forordning (EØF) nr. 3310/75 om landbrug i storhertugdømmet
+    Luxembourg
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3606/83 του Συμβουλίου
+    της 19ης Δεκεμβρίου 1983 περί παρατάσεως του κανονισμού
+    (ΕΟΚ) αριθ. 3310/75 περί της γεωργίας του Μεγάλου
+    Δουκάτου του Λουξεμβούργου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3606/83 del Consiglio del 19 dicembre 1983 che proroga
+    il regolamento (CEE) n. 3310/75 relativo all' agricoltura del Granducato del Lussemburgo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3606/83 van de Raad van 19 december 1983 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 3310/75 betreffende de landbouw
+    van het Groothertogdom Luxemburg
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R3606
+docidentifier:
+- content: EU Regulation 3606/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R3606
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/3606/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-12-19'
+- type: implemented
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3310
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

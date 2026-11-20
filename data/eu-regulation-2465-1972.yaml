@@ -1,0 +1,90 @@
+---
+id: EURegulation24651972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2465/72 of the Commission of 24 November 1972 amending
+    Regulation (EEC) No 2015/72 authorizing the German intervention agency to limit
+    the invitation to tender for 50,000 tons of rye to specific uses
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2465/72 de la Commission, du 24 novembre 1972, modifiant
+    le règlement (CEE) n° 2015/72 autorisant l'organisme d'intervention allemand
+    à limiter l'adjudication de 50 000 tonnes de seigle à des utilisations déterminées
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG ( EWG ) NR. 2465/72 DER KOMMISSION VOM 24. NOVEMBER 1972 ZUR
+    AENDERUNG DER VERORDNUNG ( EWG ) NR. 2015/72 ZUR ERMAECHTIGUNG DER DEUTSCHEN INTERVENTIONSSTELLE,
+    DIE AUSSCHREIBUNG VON 50 000 TONNEN ROGGEN AUF BESTIMMTE VERWENDUNGSZWECKE ZU
+    BESCHRAENKEN
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO ( CEE ) N. 2465/72 DELLA COMMISSIONE, DEL 24 NOVEMBRE 1972,
+    CHE MODIFICA IL REGOLAMENTO ( CEE ) N. 2015/72 CHE AUTORIZZA L' ORGANISMO DI INTERVENTO
+    TEDESCO A LIMITARE L' AGGIUDICAZIONE DI 50 000 TONNELLATE DI SEGALA A DELLE UTILIZZAZIONI
+    DETERMINATE
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING ( EEG ) NR. 2465/72 VAN DE COMMISSIE VAN 24 NOVEMBER 1972 HOUDENDE
+    WIJZIGING VAN VERORDENING ( EEG ) NR. 2015/72 WAARBIJ HET DUITSE INTERVENTIEBUREAU
+    GEMACHTIGD WORDT DE INSCHRIJVING VOOR 50 000 TON ROGGE TOT BEPAALDE DOELEINDEN
+    TE BEPERKEN
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2465
+docidentifier:
+- content: EU Regulation 2465/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2465
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2465/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-11-13'
+- type: implemented
+  at: '1972-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2015
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

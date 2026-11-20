@@ -1,0 +1,70 @@
+---
+id: EURegulation13401970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1340/70 de la Commission, du 8 juillet 1970, modifiant
+    le règlement (CEE) n 560/70 en ce qui concerne des avis de mise en vente de l'huile
+    d'olive détenue par l'organisme d'intervention italien
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1340/70 der Kommission vom 8. Juli 1970 zur Änderung
+    der Verordnung (EWG) Nr. 560/70 hinsichtlich der Verkaufsausschreibungen für
+    Olivenöl aus Beständen der italienischen Interventionsstelle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1340/70 della Commissione, dell' 8 luglio 1970, che
+    modifica il regolamento (CEE) n. 560/70 per quanto riguarda la pubblicazione degli
+    avvisi di vendita dell'olio d'oliva in possesso dell'organismo d'intervento italiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1340/70 van de Commissie van 8 juli 1970 houdende
+    wijziging van Verordening (EEG) nr. 560/70 voor wat betreft de publikatie van
+    het bericht van verkoop van olijfolie in het bezit van het Italiaanse interventiebureau
+    10
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1340
+docidentifier:
+- content: EU Regulation 1340/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1340
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1340/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

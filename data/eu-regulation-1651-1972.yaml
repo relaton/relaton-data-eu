@@ -1,0 +1,98 @@
+---
+id: EURegulation16511972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1651/72 of the Council of 31 July 1972 amending, as
+    regards private storage aid for table wine, Regulation (EEC) No 816/70 laying
+    down additional provisions for the common organization of the market in wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1651/72 du Conseil, du 31 juillet 1972, modifiant,
+    en ce qui concerne l' aide au stockage privé des vins de table, le règlement
+    (CEE) n° 816/70 portant dispositions complémentaires en matière d' organisation
+    commune du marché viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1651/72 des Rates vom 31. Juli 1972 zur Änderung
+    der Verordnung (EWG) Nr. 816/70 zur Festlegung ergänzender Vorschriften für
+    die gemeinsame Marktorganisation für Wein in bezug auf Beihilfen für die private
+    Lagerhaltung von Tafelwein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1651/72 af 31. juli 1972 om ændring af forordning
+    (EØF) nr. 816/70 om supplerende regler for den fælles markedsordning for vin
+    for så vidt angår støtte til privat oplagring af bordvine
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1651/72 del Consiglio, del 31 luglio 1972, che modifica
+    il regolamento (CEE) n. 816/70 relativo a disposizioni complementari in materia
+    di organizzazione comune del mercato vitivinicolo per quanto riguarda l' aiuto
+    al magazzinaggio privato dei vini da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1651/72 van de Raad van 31 juli 1972 tot wijziging
+    van Verordening (EEG) nr. 816/70 houdende aanvullende bepalingen inzake de gemeenschappelijke
+    ordening van de wijnmarkt, voor wat betreft de steun aan particuliere opslag van
+    tafelwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1651
+docidentifier:
+- content: EU Regulation 1651/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1651
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1651/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-31'
+- type: implemented
+  at: '1972-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

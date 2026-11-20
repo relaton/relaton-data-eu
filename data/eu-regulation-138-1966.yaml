@@ -1,0 +1,71 @@
+---
+id: EURegulation1381966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 138/66/CEE du Conseil, du 22 septembre 1966, portant modification
+    du règlement n 111/64/CEE du Conseil et dérogeant à l'article 14 paragraphe
+    1 du règlement n 13/64/CEE du Conseil en ce qui concerne le lait condensé
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 138/66/EWG des Rates vom 22. September 1966 zur Änderung
+    der Verordnung Nr. 111/64/EWG des Rates und zur Abweichung von Artikel 14 Absatz
+    (1) der Verordnung Nr. 13/64/EWG des Rates bezüglich Kondensmilch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 138/66/CEE del Consiglio, del 22 settembre 1966, che modifica
+    il regolamento n. 111/64/CEE del Consiglio e deroga alle disposizioni dell'articolo
+    14, paragrafo 1 del regolamento n. 13/64/CEE del Consiglio per quanto concerne
+    il latte condensato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 138/66/EEG van de Raad van 22 september 1966 houdende wijziging
+    van Verordening no. 111/64/EEG van de Raad en houdende afwijking van artikel 14,
+    lid 1, van Verordening no. 13/64/EEG van de Raad, voor zover deze betrekking hebben
+    op gecondenseerde melk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0138
+docidentifier:
+- content: EU Regulation 138/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0138
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/138/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

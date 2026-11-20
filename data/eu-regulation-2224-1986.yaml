@@ -1,0 +1,142 @@
+---
+id: EURegulation22241986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2224/86 of 14 July 1986 adapting, on account
+    of the accession of Spain, Regulations (EEC) No 797/85, (EEC) No 355/77 and (EEC)
+    No 1360/78 on agricultural structures
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2224/86 du Conseil du 14 juillet 1986 portant adaptation,
+    en raison de l'adhésion de l'Espagne, des règlements (CEE) n° 797/85, (CEE)
+    n 355/77 et (CEE) n° 1360/78 dans le domaine des structures agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2224/86 des Rates vom 14. Juli 1986 zur Anpassung
+    der Verordnungen (EWG) Nr. 797/85, (EWG) Nr. 355/77 und (EWG) Nr. 1360/78 im Bereich
+    der Agrarstrukturen infolge des Beitritts Spaniens
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2224/86 af 14. juli 1986 om tilpasning, som
+    følge af Spaniens tiltrædelse, af forordning (EØF) nr. 797/85, (EØF) nr. 355/77
+    og (EØF) nr. 1360/78 vedrørende landbrugsstrukturer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2224/86 του Συμβουλίου
+    της 14ης Ιουλίου 1986 για την προσαρμογή, λόγω
+    της προσχώρησης της Ισπανίας, των κανονισμών
+    (ΕΟΚ) αριθ. 797/85, (ΕΟΚ) αριθ. 355/77 και (ΕΟΚ) αριθ.
+    1360/78 στον τομέα των γεωργικών διαρθρώσεων
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 2224/86, annettu 14 päivänä heinäkuuta 1986,
+    maatalouden rakenteita koskevien asetusten (ETY) N:o 797/85, (ETY) N:o 355/77
+    ja (ETY) N:o 1360/78 mukauttamisesta Espanjan liittymisen johdosta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2224/86 del Consiglio del 14 luglio 1986 recante adeguamento
+    dei regolamenti (CEE) nn. 797/85, 355/77, 1360/78 nel settore delle strutture
+    agrarie, a seguito dell'adesione della Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2224/86 van de Raad van 14 juli 1986 houdende aanpassing
+    van de Verordeningen (EEG) nr. 797/85, (EEG) nr. 355/77 en (EEG) nr. 1360/78 op
+    het gebied van de landbouwstructuur in verband met de toetreding van Spanje
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2224/86 do Conselho de 14 de Julho de 1986 que adapta,
+    na sequência da adesão de Espanha, os Regulamentos (CEE) n.° 797/85, (CEE)
+    n.° 355/77 e (CEE) n.° 1360/78 no domínio das estruturas agrícolas
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2224/86 del Consejo de 14 de julio de 1986 por el
+    que se adaptan, en razón de la adhesión de España, los Reglamentos (CEE) n°
+    797/85, n° 355/77 y n° 1360/78 en el sector de las estructuras agrícolas
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 2224/86 av den 14 juli 1986 om anpassning,
+    som följd av Spaniens anslutning, av förordningarna (EEG) nr 797/85, (EEG) nr
+    355/77 och (EEG) nr 1360/78 om jordbrukets struktur
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R2224
+docidentifier:
+- content: EU Regulation 2224/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R2224
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/2224/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-07-14'
+- type: implemented
+  at: '1986-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0355
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1360
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R0797
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,98 @@
+---
+id: EURegulation9531976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 953/76 of 27 April 1976 repealing Regulation
+    (EEC) No 602/75 laying down detailed rules for the sale of skimmed-milk powder
+    in public storage for supply to developing countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 953/76 de la Commission, du 27 avril 1976, abrogeant
+    le règlement (CEE) n° 602/75 portant modalités d'application relatives à la
+    vente de lait écrémé en poudre de stock public en vue de la livraison vers
+    des pays en voie de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 953/76 der Kommission vom 27. April 1976 zur Aufhebung
+    der Verordnung (EWG) Nr. 602/75 über die Durchführungsbestimmungen für den
+    Verkauf von Magermilchpulver aus öffentlicher Lagerhaltung für die Lieferung
+    nach Entwicklungsländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 953/76 af 27. april 1976 om ophævelse
+    af forordning (EØF) nr. 602/75 om de nærmere regler for salg af skummetmælkspulver
+    fra offentlige lagre med henblik på levering til udviklingslande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 953/76 della Commissione, del 27 aprile 1976, che
+    abroga il regolamento (CEE) n. 602/75 recante modalità di applicazione per la
+    vendita di latte scremato in polvere di ammasso pubblico destinato a forniture
+    a paesi in via di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 953/76 van de Commissie van 27 april 1976 tot intrekking
+    van Verordening (EEG) nr. 602/75 houdende uitvoeringsbepalingen met betrekking
+    tot de verkoop van magere-melkpoeder uit openbare opslag met het oog op levering
+    aan ontwikkelingslanden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0953
+docidentifier:
+- content: EU Regulation 953/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0953
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/953/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-04-27'
+- type: implemented
+  at: '1976-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0602
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,104 @@
+---
+id: EURegulation7631985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 763/85 of 12 March 1985 amending Regulation
+    (EEC) No 269/79 establishing a common measure for forestry in certain Mediterranean
+    zones of the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 763/85 du Conseil du 12 mars 1985 modifiant le règlement
+    (CEE) no 269/79 instaurant une action commune forestière dans certaines zones
+    méditerranéennes de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 763/85 des Rates vom 12. März 1985 zur Änderung
+    der Verordnung (EWG) Nr. 269/79 zur Einführung einer gemeinsamen forstwirtschaftlichen
+    Maßnahme in bestimmten Zonen des Mittelmeergebiets der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 763/85 af 12. marts 1985 om ændring af forordning
+    (EØF) nr. 269/79 om indførelse af en fælles foranstaltning inden for skovbruget
+    i visse Middelhavsområder i Fællesskabet
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 763/85 του Συμβουλίου
+    της 12ης Μαρτίου 1985 που τροποποιεί τον κανονισμό
+    (ΕΟΚ) αριθ. 269/79 περί καθιερώσεως κοινής δασικής
+    δράσης σε ορισμένες μεσογειακές περιοχές της
+    Κοινότητας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 763/85 del Consiglio del 12 marzo 1985 recante modifica
+    del regolamento (CEE) n. 269/79 che istituisce un' azione comune forestale in
+    alcune zone mediterranee della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 763/85 van de Raad van 12 maart 1985 tot wijziging
+    van Verordening (EEG) nr. 269/79 tot invoering van een gemeenschappelijke actie
+    voor de bosbouw in bepaalde mediterrane zones van de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0763
+docidentifier:
+- content: EU Regulation 763/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0763
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/763/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-03-12'
+- type: implemented
+  at: '1985-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0269
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation891967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 89/67/CEE du Conseil, du 2 mai 1967, fixant le prix de base
+    et le prix d'achat pour les choux-fleurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 89/67/EWG des Rates vom 2. Mai 1967 zur Festsetzung des
+    Grundpreises und des Ankaufspreises für Blumenkohl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 89/67/CEE del Consiglio, del 2 maggio 1967, che fissa il
+    prezzo di base ed il prezzo d'acquisto per i cavolfiori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 89/67/EEG van de Raad van 2 mei 1967 tot vaststelling van
+    de basisprijs en de aankoopprijs voor bloemkool
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0089
+docidentifier:
+- content: EU Regulation 89/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0089
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/89/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-02'
+- type: implemented
+  at: '1967-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

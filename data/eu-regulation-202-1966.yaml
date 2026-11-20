@@ -1,0 +1,71 @@
+---
+id: EURegulation2021966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 202/66/CEE de la Commission, du 1er décembre 1966, portant,
+    pour le premier trimestre 1967, adaptation et fixation des prix d'écluse et fixation
+    des prélèvements envers les pays tiers dans le secteur des oeufs de volailles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 202/66/EWG der Kommission vom 1. Dezember 1966 zur Anpassung
+    und Festsetzung der Einschleusungspreise und zur Festsetzung der Abschöpfungsbeträge
+    gegenüber dritten Ländern im Bereich der Eier- und Geflügelwirtschaft für
+    das erste Vierteljahr 1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 202/66/CEE della Commissione, del 1 dicembre 1966, che adatta
+    e fissa per il primo trimestre 1967, i prezzi limite e fissa i prelievi nei confronti
+    dei paesi terzi nel settore delle uova e del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 202/66/EEG van de Commissie van 1 december 1966 houdende
+    aanpassing en vaststelling van de sluisprijzen en vaststelling van de heffingen
+    ten opzichte van derde landen in de sector eieren en slachtpluimvee voor het eerste
+    kwartaal 1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0202
+docidentifier:
+- content: EU Regulation 202/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0202
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/202/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

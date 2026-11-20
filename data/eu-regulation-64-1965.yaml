@@ -1,0 +1,77 @@
+---
+id: EURegulation641965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 64/65/CEE du Conseil, du 13 mai 1965, modifiant le règlement
+    n° 46/65/CEE du Conseil en ce qui concerne le prix de seuil applicable dans la
+    République fédérale d'Allemagne pour la campagne laitière 1965/1966, au fromage
+    "Butterkäse" (St-Paulin)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 64/65/EWG des Rates vom 13. Mai 1965 zur Änderung der Verordnung
+    Nr. 46/65/EWG des Rates hinsichtlich des in der Bundesrepublik Deutschland im
+    Milchwirtschaftsjahr 1965/1966 für Butterkäse geltenden Schwellenpreises
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 64/65/CEE del Consiglio, del 13 maggio 1965, relativo alla
+    modifica del regolamento n. 46/65/CEE del Consiglio per quanto concerne il prezzo
+    d'entrata applicabile nella Repubblica federale di Germania al Butterkäse (St.
+    Paulin) per la campagna lattiero-casearia 1965/1966
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 64/65/EEG van de Raad van 13 mei 1965 tot wijziging van
+    Verordening Nr. 46/65/EEG van de Raad ten aanzien van de in de Bondsrepubliek
+    Duitsland voor het melkprijsjaar 1965/1966 voor Butterkäse (St-Paulin) toe te
+    passen drempelprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0064
+docidentifier:
+- content: EU Regulation 64/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0064
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/64/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-05-13'
+- type: implemented
+  at: '1965-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

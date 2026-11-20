@@ -1,0 +1,70 @@
+---
+id: EURegulation22121970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2212/70 de la Commission, du 30 octobre 1970, relatif
+    aux modalités concernant l'aide pour l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2212/70 der Kommission vom 30. Oktober 1970 über
+    Einzelheiten betreffend die Beihilfe für Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2212/70 della Commissione, del 30 ottobre 1970, relativo
+    alle modalità riguardanti l'integrazione per l'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2212/70 van de Commissie van 30 oktober 1970 ter
+    uitvoering van de steunmaatregelen voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2212
+docidentifier:
+- content: EU Regulation 2212/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2212
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2212/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-30'
+- type: implemented
+  at: '1970-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,78 @@
+---
+id: EURegulation22761971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2276/71 du Conseil, du 26 octobre 1971, modifiant
+    le règlement (CEE) n° 1078/71 portant institution d'un régime commun d'exportation
+    et ouverture d'un contingent quantitatif communautaire à l'exportation pour certains
+    déchets et cendres de métaux non ferreux (cuivre, plomb, aluminium)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2276/71 des Rates vom 26. Oktober 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1078/71 zur Einführung einer gemeinsamen Ausfuhrregelung
+    und Eröffnung eines mengenmäßigen Ausfuhrkontingents der Gemeinschaft für
+    bestimmte Bearbeitungsabfälle und Aschen von NE-Metallen (Kupfer, Blei und Aluminium)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2276/71 del Consiglio, del 26 ottobre 1971, che modifica
+    il regolamento (CEE) n. 1078/71 che istituisce un regime comune all'esportazione
+    e apre un contingente quantitativo comunitario all'esportazione per alcuni cascami
+    e ceneri di metalli non ferrosi (rame, piombo ed alluminio)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2276/71 van de Raad van 26 oktober 1971 tot wijziging
+    van Verordening (EEG) nr. 1078/71 betreffende de invoering van een gemeenschappelijke
+    uitvoerregeling en de opening van een communautair kwantitatief uitvoercontingent
+    voor bepaalde afvallen en assen van non-ferrometalen (koper, lood en aluminium)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2276
+docidentifier:
+- content: EU Regulation 2276/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2276
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2276/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-26'
+- type: implemented
+  at: '1971-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,98 @@
+---
+id: EURegulation6061972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 606/72 of the Council of 23 March 1972 amending Regulation
+    (EEC) No 1599/71 as regards the application of additional conditions with which
+    imported wines for direct human consumption have to comply
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 606/72 du Conseil, du 23 mars 1972, modifiant le règlement
+    (CEE)" n° 1599/71 en ce qui concerne la mise en application des conditions supplémentaires
+    auxquelles doivent répondre les vins importés destinés à la consommation humaine
+    directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 606/72 des Rates vom 23. März 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1599/71 in bezug auf den Beginn der Anwendung der zusätzlichen
+    Bedingungen, denen eingeführter, zum unmittelbaren menschlichen Verbrauch bestimmter
+    Wein entsprechen muß
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 606/72 af 23. marts 1972 om ændring af forordning
+    (EØF) nr. 1599/71 for så vidt angår gennemførelsen af de yderligere betingelser,
+    som indført vin, der er bestemt til direkte menneskeligt forbrug, skal opfylde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 606/72 del Consiglio, del 23 marzo 1972, che modifica
+    il regolamento (CEE) n. 1599/71 per quanto riguarda l' entrata in applicazione
+    delle condizioni supplementari cui devono rispondere i vini importati destinati
+    al consumo umano diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 606/72 van de Raad van 23 maart 1972 tot wijziging
+    van Verordening (EEG) nr. 1599/71 wat betreft de toepassing van nadere voorwaarden
+    waaraan ingevoerde wijn die is bestemd voor rechtstreekse menselijke consumptie,
+    moet beantwoorden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0606
+docidentifier:
+- content: EU Regulation 606/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0606
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/606/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-23'
+- type: implemented
+  at: '1972-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1599
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

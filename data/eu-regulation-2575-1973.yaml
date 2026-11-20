@@ -1,0 +1,96 @@
+---
+id: EURegulation25751973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2575/73 of the Commission of 21 September 1973 amending
+    Regulation (EEC) No 1463/73 as regards the monetary compensatory amounts applied
+    by Ireland and the United Kingdom to beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2575/73 de la Commission, du 21 septembre 1973, modifiant
+    le règlement (CEE) n° 1463/73 en ce qui concerne les montants compensatoires
+    monétaires applicables dans le secteur de la viande bovine par l'Irlande et le
+    Royaume-Uni
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2575/73 der Kommission vom 21. September 1973 zur
+    Änderung der Verordnung (EWG) Nr. 1463/73 hinsichtlich der von Irland und dem
+    Vereinigten Königreich auf dem Rindfleischsektor anzuwendenden Währungsausgleichsbeträge
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2575/73 af 21. september 1973 om ændring
+    af forordning (EØF) nr. 1463/73 med hensyn til de monetære udligningsbeløb,
+    som Irland og Det forenede Kongerige anvender for oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2575/73 della Commissione, del 21 settembre 1973,
+    che modifica il regolamento (CEE) n. 1463/73 per quanto riguarda gli importi compensativi
+    monetari applicabili nel settore delle carni bovine in Irlanda e nel Regno Unito
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2575/73 van de Commissie van 21 september 1973 tot
+    wijziging van Verordening (EEG) nr. 1463/73 met betrekking tot de door Ierland
+    en het Verenigd Koninkrijk in de sector rundvlees toe te passen monetaire compenserende
+    bedragen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2575
+docidentifier:
+- content: EU Regulation 2575/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2575
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2575/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-09-21'
+- type: implemented
+  at: '1973-09-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1463
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

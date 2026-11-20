@@ -1,0 +1,84 @@
+---
+id: EUDecision195711
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision n° 11-57 du 1er avril 1957 portant modification de la décision
+    n° 6-56 du 15 février 1956 relative à l'autorisation de la vente en commun
+    de combustibles par les sociétés minières du bassin de la Ruhr groupées au
+    sein du Comptoir de vente du charbon de la Ruhr «Präsident» (société à responsabilité
+    limitée)
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung Nr. 11/57 vom 1. April 1957 über die Änderung der Entscheidung
+    Nr. 6/56 über die Genehmigung des gemeinschaftlichen Verkaufs von Brennstoffen
+    durch die in der "Präsident" Ruhrkohlen-Verkaufsgesellschaft mbH zusammengeschlossenen
+    Bergwerksgesellschaften des Ruhrreviers, vom 15. Februar 1956
+  type: main
+- language: it
+  script: Latn
+  content: Decisione N° 11-57 del 1° aprile 1957 che modifica la decisione N° 6-56
+    del 15 febbraio 1956 relativa all'autorizzazione della vendita in comune di combustibili
+    da parte delle società minerarie del bacino della Ruhr raggruppate in seno all'Ufficio
+    di vendita «Präsident Ruhrkohlen-Verkaufsgesellschaft mit beschränkter Haftung»
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking No. 11-57 van 1 april 1957 met betrekking tot een wijziging
+    van Beschikking No. 6-56 van 15 februari 1956 houdende ontheffing van de verbodsbepaling
+    inzake de gemeenschappelijke verkoop van brandstoffen door de in de "Präsident"
+    Ruhrkohlen- Verkaufsgesellschaft mit beschränkter Haftung verenigde kolenmijnondernemingen
+    van het Ruhrbekken
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31957D0011
+docidentifier:
+- content: EU Decision 1957/11
+  type: EU
+  primary: true
+- content: CELEX 31957D0011
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1957/11/oj
+  type: ELI
+date:
+- type: issued
+  at: '1957-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: High Authority
+    abbreviation:
+      content: ECSC_HA
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31956D0006
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

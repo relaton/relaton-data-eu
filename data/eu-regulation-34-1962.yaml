@@ -1,0 +1,70 @@
+---
+id: EURegulation341962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 34 du Conseil portant fixation du prix d'écluse pour les
+    oeufs de poule en coquille destinés à la consommation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 34 des Rats über die Festsetzung des Einschleusungspreises
+    für zum Verbrauch bestimmte Hühnereier in der Schale
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 34 del Consiglio relativo alla fissazione del prezzo limite
+    delle uova in guscio di gallina destinate al consumo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 34 van de Raad houdende vaststelling van de sluisprijs
+    voor kippeëieren in de schaal die bestemd zijn voor consumptie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0034
+docidentifier:
+- content: EU Regulation 34/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0034
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/34/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-05-29'
+- type: implemented
+  at: '1962-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

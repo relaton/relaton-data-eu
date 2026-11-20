@@ -1,0 +1,102 @@
+---
+id: EURegulation13531971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1353/71 of the Commission of 28 June 1971 amending
+    Regulation (EEC) No 1087/69 on communications from Member States concerning sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1353/71 de la Commission, du 28 juin 1971, modifiant
+    le règlement (CEE) n° 1087/69 relatif aux communications des États membres
+    dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1353/71 der Kommission vom 28. Juni 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1087/69 über die von den Mitgliedstaaten zu machenden
+    Mitteilungen auf dem Zuckersektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1353/71 af 28. juni 1971 om ændring
+    af forordning (EØF) nr. 1087/69 vedrørende meddelelser, der inden for sukkersektoren
+    skal gives af medlemsstaterne
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1353/71 της Επιτροπής
+    της 28ης Ιουνίου 1971 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 1087/69 περί των ανακοινώσεων των κρατών
+    μελών στον τομέα της ζαχάρεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1353/71 della Commissione, del 28 giugno 1971, che
+    modifica il regolamento (CEE) n. 1087/69 relativo alle comunicazioni degli Stati
+    membri nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1353/71 van de Commissie van 28 juni 1971 tot wijziging
+    van Verordening (EEG) nr. 1087/69 betreffende de mededelingen van de Lid-Staten
+    in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1353
+docidentifier:
+- content: EU Regulation 1353/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1353
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1353/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-28'
+- type: implemented
+  at: '1971-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1087
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,67 @@
+---
+id: EURegulation6391972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 639/72 de la Commission, du 29 mars 1972, fixant les
+    restitutions à l'exportation pour le sucre blanc et le sucre brut en l'état
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 639/72 der Kommission vom 29. März 1972 zur Festsetzung
+    der Erstattung bei der Ausfuhr in unverändertem Zustand für WeiDzucker und Rohzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 639/72 della Commissione, del 29 marzo 1972, che fissa
+    le restituzioni all'esportazione per lo zucchero bianco e per lo zucchero greggio
+    allo stato naturale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 639/72 van de Commissie van 29 maart 1972 houdende
+    vaststelling van de restituties bij de uitvoer van witte en ruwe suiker in onveranderde
+    vorm
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0639
+docidentifier:
+- content: EU Regulation 639/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0639
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/639/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

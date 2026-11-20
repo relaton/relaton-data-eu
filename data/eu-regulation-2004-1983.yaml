@@ -1,0 +1,129 @@
+---
+id: EURegulation20041983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2004/83 of 18 July 1983 amending, as regards
+    lemons, Regulations (EEC) No 2511/69 and (EEC) No 1035/72
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2004/83 du Conseil du 18 juillet 1983 modifiant les
+    règlements (CEE) no 2511/69 et (CEE) no 1035/72, en ce qui concerne les citrons
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2004/83 des Rates vom 18. Juli 1983 zur Änderung
+    der Verordnungen (EWG) Nr. 2511/69 und (EWG) Nr. 1035/72 hinsichtlich Zitronen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2004/83 af 18. juli 1983 om ændring af forordning
+    (EØF) nr. 2511/69 og (EØF) nr. 1035/72 for så vidt angår citroner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2004/83 του Συμβουλίου
+    της 18ης Ιουλίου 1983 για την τροποποίηση των
+    κανονισμών (ΕΟΚ) αριθ. 2511/69 και (ΕΟΚ) αριθ. 1035/72
+    όσον αφορά τα λεμόνια
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 2004/83, annettu 18 päivänä heinäkuuta 1983,
+    asetusten (ETY) N:o 2511/69 ja (ETY) N:o 1035/72 muuttamisesta sitruunoiden osalta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2004/83 del Consiglio del 18 luglio 1983 che modifica
+    i regolamenti (CEE) n. 2511/69 e (CEE) n. 1035/72 per quanto riguarda i limoni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2004/83 van de Raad van 18 juli 1983 tot wijziging
+    van de Verordeningen (EEG) nr. 2511/69 en (EEG) nr. 1035/72 met betrekking tot
+    citroenen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 2004/83 do Conselho, de 18 de Julho de 1983, que
+    altera os Regulamentos (CEE) nº 2511/69 e (CEE) nº 1035/72 relativamente aos
+    limões
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2004/83 del Consejo, de 18 de julio de 1983, por el
+    que se modifican los Reglamentos (CEE) n° 2511/69 y (CEE) n° 1035/72 en lo que
+    se refiere a los limones
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 2004/83 av den 18 juli 1983 om ändring av
+    förordningarna (EEG) nr 2511/69 och (EEG) nr 1035/72 beträffande citroner
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R2004
+docidentifier:
+- content: EU Regulation 2004/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R2004
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/2004/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-07-18'
+- type: implemented
+  at: '1983-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2511
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1035
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

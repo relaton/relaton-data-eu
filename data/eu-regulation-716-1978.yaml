@@ -1,0 +1,93 @@
+---
+id: EURegulation7161978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 716/78 of 7 April 1978 introducing Community
+    surveillance of imports of footwear
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 716/78 de la Commission, du 7 avril 1978, portant
+    instauration d'une surveillance communautaire des importations de chaussures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 716/78 der Kommission vom 7. April 1978 zur Einführung
+    einer gemeinschaftlichen Überwachung der Einfuhren von Schuhen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 716/78 af 7. april 1978 om indførelse
+    af fællesskabstilsyn med indførslerne af fodtøj
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 716/78 della Commissione, del 7 aprile 1978, che istituisce
+    un controllo comunitario sulle importazioni di calzature
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 716/78 van de Commissie van 7 april 1978 houdende
+    instelling van een communautair toezicht op de invoer van schoeisel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0716
+docidentifier:
+- content: EU Regulation 716/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0716
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/716/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-04-07'
+- type: implemented
+  at: '1978-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977D0424
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1439
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

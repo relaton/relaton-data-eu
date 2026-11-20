@@ -1,0 +1,84 @@
+---
+id: EUDecision1965231
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 65/231/CEE de la Commission, du 31 mars 1965, portant prorogation
+    et nouvelle modification de sa décision du 6 novembre 1964 autorisant la perception
+    d'une taxe compensatoire sur les importations en République fédérale d'Allemagne
+    de biscuits et gaufres en provenance de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '65/231/EWG: Entscheidung der Kommission vom 31. März 1965 zur Verlängerung
+    und erneuten Änderung ihrer Entscheidung vom 6. November 1964 über die Erhebung
+    einer Ausgleichsabgabe auf Einfuhren von Waffeln und Keksen aus verschiedenen
+    Mitgliedstaaten in die Bundesrepublik Deutschland'
+  type: main
+- language: it
+  script: Latn
+  content: '65/231/CEE: Decisione della Commissione, del 31 marzo 1965, che proroga
+    e modifica nuovamente la sua decisione del 6 novembre 1964, con cui si autorizza
+    la riscossione di una tassa di compensazione sulle importazioni nella Repubblica
+    federale di Germania di biscotti e cialde in provenienza da alcuni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/231/EEG: Beschikking van de Commissie van 31 maart 1965 houdende verlenging
+    en nieuwe wijziging van haar beschikking van 6 november 1964 waarbij machtiging
+    werd verleend tot het leggen van een compenserende heffing op de invoer in de
+    Bondsrepubliek Duitsland van biscuits en wafels uit sommige Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0231
+docidentifier:
+- content: EU Decision 1965/231
+  type: EU
+  primary: true
+- content: CELEX 31965D0231
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/231/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-31'
+- type: implemented
+  at: '1965-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965D0018
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

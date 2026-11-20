@@ -1,0 +1,94 @@
+---
+id: EURegulation27331973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2733/73 of the Commission of 8 October 1973 amending
+    Regulation (EEC) No 1280/71 laying down detailed rules for the buying-in of sugar
+    by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2733/73 de la Commission, du 8 octobre 1973, modifiant
+    le règlement (CEE) n° 1280/71 établissant les modalités d' application en
+    ce qui concerne l' achat de sucre par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2733/73 der Kommission vom 8. Oktober 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1280/71 zur Festsetzung der Durchführungsbestimmungen
+    für den Ankauf von Zucker durch die Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2733/73 af 8. oktober 1973 om ændring
+    af forordning (EØF) nr. 1280/71 om gennemførelsesbestemmelser vedrørende interventionsorganernes
+    opkøb af sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2733/73 della Commissione, dell' 8 ottobre 1973, che
+    modifica il regolamento (CEE) n. 1280/71 che stabilisce le modalità di applicazione
+    inerenti all' acquisto di zucchero da parte degli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2733/73 van de Commissie van 8 oktober 1973 tot wijziging
+    van Verordening (EEG) nr. 1280/71 houdende nadere regelen inzake de aankoop van
+    suiker door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2733
+docidentifier:
+- content: EU Regulation 2733/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2733
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2733/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-08'
+- type: implemented
+  at: '1973-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1280
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

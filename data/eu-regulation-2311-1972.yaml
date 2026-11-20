@@ -1,0 +1,69 @@
+---
+id: EURegulation23111972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2311/72 de la Commission, du 31 octobre 1972, fixant
+    les prélèvements à l'importation de veaux et de gros bovins, ainsi que de viandes
+    bovines autres que les viandes congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2311/72 der Kommission vom 31. Oktober 1972 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Kälbern und ausgewachsenen Rindern sowie
+    von Rindfleisch, ausgenommen gefrorenes Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2311/72 della Commissione, del 31 ottobre 1972, che
+    fissa i prelievi all'importazione di vitelli e di bovini adulti nonché di carni
+    bovine diverse da quelle congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2311/72 van de Commissie van 31 oktober 1972 houdende
+    vaststelling van de heffingen bij de invoer van kalveren en volwassen runderen
+    en van ander dan bevroren vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2311
+docidentifier:
+- content: EU Regulation 2311/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2311
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2311/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

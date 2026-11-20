@@ -1,0 +1,80 @@
+---
+id: EURegulation8681968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 868/68 du Conseil, du 27 juin 1968, modifiant le règlement
+    (CEE) n° 540/68 en ce qui concerne le montant compensatoire fixé pour le blé
+    tendre et le maïs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 868/68 des Rates vom 27. Juni 1968 zur Änderung der
+    Verordnung (EWG) Nr. 540/68 hinsichtlich des Ausgleichsbetrags für Weichweizen
+    und Mais
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 868/68 del Consiglio, del 27 giugno 1968, che modifica
+    il regolamento (CEE) n. 540/68 per quanto riguarda l'importo compensativo fissato
+    per il grano tenero e per il granturco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 868/68 van de Raad van 27 juni 1968 houdende wijziging
+    van Verordening (EEG) nr. 540/68 voor wat betreft het voor zachte tarwe en maïs
+    vastgestelde compenserende bedrag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0868
+docidentifier:
+- content: EU Regulation 868/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0868
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/868/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-27'
+- type: implemented
+  at: '1968-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0540
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

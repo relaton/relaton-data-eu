@@ -1,0 +1,67 @@
+---
+id: EURegulation10921968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1092/68 de la Commission, du 26 juillet 1968, fixant
+    les restitutions applicables à l'importation des aliments composés à base de
+    céréales pour les animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1092/68 der Kommission vom 26. Juli 1968 zur Festsetzung
+    der Erstattungen für die Ausfuhr von Getreidemischfuttermitteln
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1092/68 della Commissione, del 26 luglio 1968, che
+    fissa le restituzioni applicabili all'esportazione degli alimenti composti a base
+    di cereali per gli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1092/68 van de Commissie van 26 juli 1968 tot vaststelling
+    van de restituties voor mengvoeders op basis van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1092
+docidentifier:
+- content: EU Regulation 1092/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1092
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1092/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

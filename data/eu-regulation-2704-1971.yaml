@@ -1,0 +1,69 @@
+---
+id: EURegulation27041971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2704/71 de la Commission, du 20 décembre 1971, fixant
+    les restitutions à la production pour le sucre blanc utilisé dans l'industrie
+    chimique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2704/71 der Kommission vom 20. Dezember 1971 zur Festsetzung
+    der Erstattungen bei der Erzeugung für in der chemischen Industrie verwendeten
+    WeiDzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2704/71 della Commissione, del 20 dicembre 1971, che
+    fissa le restituzioni alla produzione per lo zucchero bianco utilizzato dall'industria
+    chimica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2704/71 van de Commissie van 20 december 1971 houdende
+    vaststelling van de restitutie bij de produktie voor de in de chemische industrie
+    gebruikte witte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2704
+docidentifier:
+- content: EU Regulation 2704/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2704
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2704/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

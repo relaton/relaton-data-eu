@@ -1,0 +1,97 @@
+---
+id: EURegulation24831978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2483/78 of 24 October 1978 amending for
+    the fourth time Regulation (EEC) No 2788/77 fixing the free-at-frontier reference
+    prices applicable to wine imports from 16 December 1977
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2483/78 de la Commission, du 24 octobre 1978, modifiant
+    pour la quatrième fois le règlement (CEE) n° 2788/77 fixant les prix franco
+    frontière de référence applicables lors de l' importation des vins à partir
+    du 16 décembre 1977
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2483/78 der Kommission vom 24. Oktober 1978 zur vierten
+    Änderung der Verordnung (EWG) Nr. 2788/77 zur Festsetzung der ab 16. Dezember
+    1977 bei der Einfuhr von Wein anzuwendenden Referenzpreise frei Grenze
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2483/78 af 24. oktober 1978 om fjerde
+    ændring af forordning (EØF) nr. 2788/77 for så vidt angår fastsættelsen af
+    referenceprisen franko grænse ved indførsel af vin fra den 16. december 1977
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2483/78 della Commissione, del 24 ottobre 1978, recante
+    quarta modifica del regolamento (CEE) n. 2788/77 che fissa i prezzi franco frontiera
+    di riferimento applicabili all' importazione dei vini a decorrere dal 16 dicembre
+    1977
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2483/78 van de Commissie van 24 oktober 1978 houdende
+    vierde wijziging van Verordening (EEG) nr. 2788/77 tot vaststelling van de met
+    ingang van 16 december 1977 bij invoer van wijn toe te passen referentieprijzen
+    franco-grens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2483
+docidentifier:
+- content: EU Regulation 2483/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2483
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2483/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-24'
+- type: implemented
+  at: '1978-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2788
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

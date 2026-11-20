@@ -1,0 +1,104 @@
+---
+id: EURegulation24921979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2492/79 of 12 November 1979 amending for
+    the fourth time Regulation (EEC) No 557/79 laying down detailed rules for the
+    application of the system of consumption aid for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2492/79 de la Commission, du 12 novembre 1979, portant
+    quatrième modification du règlement (CEE) n° 557/79 relatif aux modalités
+    d' application du régime d' aide à la consommation pour l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2492/79 der Kommission vom 12. November 1979 zur vierten
+    Änderung der Verordnung (EWG) Nr. 557/79 über die Durchführungsvorschriften
+    für die Verbrauchsbeihilfe für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2492/79 af 12. november 1979 om fjerde
+    ændring af forordning (EØF) nr. 557/79 om gennemførelsesbestemmelser for ordningen
+    vedrørende støtte til forbruget af olivenolie
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2492/79 τής Επιτροπής
+    τής 12ης Νοεμβρίου 1979 περί τετάρτης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 557/79 «περί τών λεπτομερειών
+    εφαρμογής τού καθεστώτος ενισχύσεως στήν κατανάλωση
+    γιά τό ελαιόλαδο»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2492/79 della Commissione, del 12 novembre 1979, recante
+    quarta modifica del regolamento (CEE) n. 557/79, recante modalità d' applicazione
+    del regime di aiuto al consumo per l' olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2492/79 van de Commissie van 12 november 1979 houdende
+    vierde wijziging van Verordening (EEG) nr. 557/79 houdende uitvoeringsbepalingen
+    van de consumptiesteunregeling voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2492
+docidentifier:
+- content: EU Regulation 2492/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2492
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2492/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-11-12'
+- type: implemented
+  at: '1979-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0557
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

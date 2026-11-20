@@ -1,0 +1,83 @@
+---
+id: EURegulation12271970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1227/70 du Conseil, du 29 juin 1970, modifiant le
+    règlement (CEE) n° 986/68 établissant les règles générales relatives à
+    l'octroi des aides pour le lait écrémé et le lait écrémé en poudre destinés
+    à l'alimentation des animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1227/70 des Rates vom 29. Juni 1970 zur Änderung
+    der Verordnung (EWG) Nr. 986/68 zur Festlegung der Grundregeln für die Gewährung
+    von Beihilfen für Magermilch und Magermilchpulver für Futterzwecke
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1227/70 del Consiglio, del 29 giugno 1970, che modifica
+    il regolamento (CEE) n. 986/68 che stabilisce le norme generali relative alla
+    concessione di aiuti per il latte scremato ed il latte scremato in polvere destinati
+    all'alimentazione degli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1227/70 van de Raad van 29 juni 1970 tot wijziging
+    van Verordening (EEG) nr. 986/68 houdende vaststelling van de algemene voorschriften
+    voor de toekenning van steun voor ondermelk en magere- melkpoeder bestemd voor
+    voederdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1227
+docidentifier:
+- content: EU Regulation 1227/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1227
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1227/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0986
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

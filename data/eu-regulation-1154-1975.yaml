@@ -1,0 +1,95 @@
+---
+id: EURegulation11541975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1154/75 of the Commission of 29 April 1975 amending
+    Regulation (EEC) No 750/75 with regard to the requirements governing the packaging
+    of butteroil supplied as food aid to the countries of the Sahel and Ethiopia
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1154/75 de la Commission, du 29 avril 1975, modifiant
+    le règlement (CEE) n° 750/75 en ce qui concerne les exigences relatives à l'emballage
+    du butteroil livré au titre de l'aide alimentaire aux pays du Sahel et à l'Éthiopie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1154/75 der Kommission vom 29. April 1975 zur Änderung
+    der Verordnung (EWG) Nr. 750/75 hinsichtlich der Vorschriften für die Verpackung
+    von als Nahrungsmittelhilfe an die Sahel-Länder und Äthiopien geliefertem Butteroil
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1154/75 af 29. april 1975 om ændring
+    af forordning (EØF) nr. 750/75 for så vidt angår kravene til emballering af
+    butteroil, som leveres som fødevarehjælp til Sahel-landene og Etiopien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1154/75 della Commissione, del 29 aprile 1975, che
+    modifica il regolamento (CEE) n. 750/75, per quanto concerne le condizioni d'imballaggio
+    del butteroil fornito a titolo di aiuto alimentare ai paesi del Sahel e all'Etiopia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1154/75 van de Commissie van 29 april 1975 houdende
+    wijziging van Verordening (EEG) nr. 750/75 wat betreft de eisen met betrekking
+    tot de verpakking van de butteroil die wordt geleverd in het kader van de voedselhulp
+    aan de Sahellanden en Ethiopië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1154
+docidentifier:
+- content: EU Regulation 1154/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1154
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1154/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-29'
+- type: implemented
+  at: '1975-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0750
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

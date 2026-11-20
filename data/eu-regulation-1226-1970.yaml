@@ -1,0 +1,71 @@
+---
+id: EURegulation12261970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1226/70 du Conseil, du 29 juin 1970, autorisant la
+    Belgique à accorder des aides à la production de lait entier en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1226/70 des Rates vom 29 Juni 1970, mit der Belgien
+    zur Gewährung von Beihilfen für die Herstellung von Vollmilchpulver ermächtigt
+    wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1226/70 del Consiglio, del 29 giugno 1970, che autorizza
+    il Belgio ad accordare aiuti alla produzione di latte intero in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1226/70 van de Raad van 29 juni 1970 waarbij België
+    gemachtigd wordt steun te verlenen aan de produktie van vollemelkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1226
+docidentifier:
+- content: EU Regulation 1226/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1226
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1226/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

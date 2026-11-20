@@ -1,0 +1,94 @@
+---
+id: EURegulation1911975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 191/75 of the Council of 21 January 1975 concerning
+    an additional quantity in respect of the subsidized importation of sugar and amending
+    Regulation (EEC) No 2931/74
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 191/75 du Conseil, du 21 janvier 1975, concernant
+    une quantité supplémentaire pour l' importation de sucre avec subvention et
+    modifiant le règlement (CEE) n° 2931/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 191/75 des Rates vom 21. Januar 1975 betreffend eine
+    zusätzliche Menge für die Zuckereinfuhr mit Subventionen sowie zur Änderung
+    der Verordnung (EWG) Nr. 2931/74
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 191/75 af 21. januar 1975 om en supplerende
+    mængde for indførsel af sukker med tilskud og om ændring af forordning (EØF)
+    nr. 2931/74
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 191/75 del Consiglio, del 21 gennaio 1975, concernente
+    un quantitativo supplementare per l' importazione di zucchero con sovvenzione
+    e che modifica il regolamento (CEE) n. 2931/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 191/75 van de Raad van 21 januari 1975 inzake een
+    aanvullende hoeveelheid voor de gesubsidieerde invoer van suiker en tot wijziging
+    van Verordening (EEG) nr. 2931/74
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0191
+docidentifier:
+- content: EU Regulation 191/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0191
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/191/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-21'
+- type: implemented
+  at: '1975-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2931
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

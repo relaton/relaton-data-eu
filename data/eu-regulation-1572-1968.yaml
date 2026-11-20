@@ -1,0 +1,80 @@
+---
+id: EURegulation15721968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1572/68 de la Commission, du 9 octobre 1968, modifiant
+    le règlement (CEE) n° 1100/68 en ce qui concerne la liste des pays tiers pour
+    lesquels la restitution ne peut être fixée à l'avance
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1572/68 der Kommission vom 9. Oktober 1968 zur Änderung
+    der Verordnung (EWG) Nr. 1100/68 hinsichtlich der Liste der dritten Länder, für
+    die die Erstattung nicht im voraus festgesetzt werden kann
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1572/68 della Commissione, del 9 ottobre 1968, che
+    modifica il regolamento (CEE) n. 1100/68 per quanto concerne la lista dei paesi
+    terzi per i quali la restituzione non può essere fissata in anticipo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1572/68 van de Commissie van 9 oktober 1968 houdende
+    wijziging van Verordening (EEG) nr. 1100/68 voor wat betreft de lijst van derde
+    landen, waarvoor de restitutie niet vooraf kan worden vastgesteld bij uitvoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1572
+docidentifier:
+- content: EU Regulation 1572/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1572
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1572/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-09'
+- type: implemented
+  at: '1968-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1100
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,78 @@
+---
+id: EURegulationNo20441968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2044/68 du Conseil, du 10 décembre 1968, relatif
+    à l'application aux départements français d'outre-mer du règlement (CEE) n°
+    2043/68 portant établissement graduel d'une procédure commune de gestion des
+    contingents quantitatifs à l'importation dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2044/68 des Rates vom 10. Dezember 1968 über die
+    Anwendung der Verordnung (EWG) Nr. 2043/68 über die schrittweise Einführung
+    eines gemeinsamen Verfahrens für die Verwaltung der mengenmäßigen Kontingente
+    bei der Einfuhr in die Gemeinschaft auf die französischen überseeischen Departements
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2044/68 del Consiglio, del 10 dicembre 1968, relativo
+    all'applicazione ai dipartimenti francesi d'oltremare del regolamento (CEE) n.
+    2043/68 relativo alla graduale instaurazione di una procedura comune di gestione
+    dei contingenti quantitativi all'importazione nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2044/68 van de Raad van 10 december 1968 betreffende
+    de toepassing op de Franse overzeese departementen van Verordening (EEG) nr. 2043/68
+    houdende de geleidelijke totstandbrenging van een gemeenschappelijke procedure
+    voor het beheer van de kwantitatieve invoercontingenten in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R2044
+docidentifier:
+- content: EU Regulation No 2044/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R2044
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/2044/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-10'
+- type: implemented
+  at: '1969-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

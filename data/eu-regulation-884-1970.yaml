@@ -1,0 +1,81 @@
+---
+id: EURegulation8841970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 884/70 du Conseil, du 14 mai 1970, modifiant le règlement
+    (CEE) n° 1230/69 relatif à l'application de montants compensatoires lors des
+    échanges de certaines marchandises relevant du règlement (CEE) n° 1059/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 884/70 des Rates vom 14. Mai 1970 zur Änderung der
+    Verordnung (EWG) Nr. 1230/69 über die Anwendung von Ausgleichsbeträgen beim
+    Handel mit bestimmten, unter die Verordnung (EWG) Nr. 1059/69 fallenden Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 884/70 del Consiglio, del 14 maggio 1970, che modifica
+    il regolamento (CEE) n. 1230/69 relativo all'applicazione degli importi di compensazione
+    negli scambi di talune merci di cui al regolamento (CEE) n. 1059/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 884/70 van de Raad van 14 mei 1970 tot wijziging
+    van Verordening (EEG) nr. 1230/69 betreffende de toepassing van compenserende
+    bedragen bij het handelsverkeer in bepaalde onder Verordening (EEG) nr. 1059/69
+    vallende goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0884
+docidentifier:
+- content: EU Regulation 884/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0884
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/884/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-14'
+- type: implemented
+  at: '1970-05-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1230
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation5451971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 545/71 de la Commission, du 15 mars 1971, relatif
+    à l'exception temporaire accordée pour la commercialisation de crevettes du
+    genre "crangon" SP.P. débarquées dans les ports du Royaume de Belgique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 545/71 der Kommission vom 15. März 1971 über die
+    befristete Ausnahme von der Vermarktung von in den Häfen des Königreichs Belgien
+    angelandeten Garnelen der Crangon-Arten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 545/71 della Commissione, del 15 marzo 1971, relativo
+    alla eccezione temporanea accordata alla commercializzazione dei gamberetti del
+    genere « Crangon sp.p. » sbarcati nei porti del Regno del Belgio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 545/71 van de Commissie van 15 maart 1971 houdende
+    tijdelijke afwijking voor het in de handel brengen van garnalen van de Crangonsoorten
+    gelost in de havens van het Koninkrijk België
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0545
+docidentifier:
+- content: EU Regulation 545/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0545
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/545/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-15'
+- type: implemented
+  at: '1971-03-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

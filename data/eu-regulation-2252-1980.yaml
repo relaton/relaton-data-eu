@@ -1,0 +1,104 @@
+---
+id: EURegulation22521980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2252/80 of 28 August 1980 amending Regulation
+    (EEC) No 2600/79 on storage contracts for table wine, grape must and concentrated
+    grape must
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2252/80 de la Commission, du 28 août 1980, modifiant
+    le règlement (CEE) n° 2600/79 relatif aux contrats de stockage pour les vins
+    de table, le moût de raisins et le moût de raisins concentré
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2252/80 der Kommission vom 28. August 1980 zur Änderung
+    der Verordnung (EWG) Nr. 2600/79 für Lagerverträge für Tafelwein, Traubenmost
+    und konzentrierten Traubenmost
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2252/80 af 28. august 1980 om ændring
+    af forordning (EØF) nr. 2600/79 om oplagringskontrakter for bordvine, druemost
+    og koncentreret druemost
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2252/80 τής Επιτροπής
+    τής 28ης Αυγούστου 1980 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 2600/79 «περί συμφωνητικών
+    αποθεματοποιήσεως επιτραπεζίων οίνων, γλευκών
+    σταφυλής καί συμπυκνωμένων γλευκών σταφυλής»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2252/80 della Commissione, del 28 agosto 1980, che
+    modifica il regolamento (CEE) n. 2600/79 relativo ai contratti di magazzinaggio
+    per il vino da tavola, il mosto di uve e il mosto di uve concentrato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2252/80 van de Commissie van 28 augustus 1980 tot
+    wijziging van Verordening (EEG) nr. 2600/79 betreffende de opslagcontracten voor
+    tafelwijn, druivemost en geconcentreerde druivemost
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2252
+docidentifier:
+- content: EU Regulation 2252/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2252
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2252/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-08-28'
+- type: implemented
+  at: '1980-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2600
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

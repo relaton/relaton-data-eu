@@ -1,0 +1,74 @@
+---
+id: EURegulation22761969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2276/69 de la Commission, du 14 novembre 1969, relatif
+    à la diminution des montants compensatoires applicables dans le secteur de la
+    viande bovine à certaines exportations françaises vers les pays
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2276/69 der Kommission vom 14. November 1969 über
+    die Verringerung der Ausgleichsbeträge bei bestimmten französischen Ausfuhren
+    von Rindfleisch nach dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2276/69 della Commissione, del 14 novembre 1969, relativo
+    alla diminuzione degli importi di compensazione applicabili nel settore delle
+    carni bovine ad alcune esportazioni francesi verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2276/69 van de Commissie van 14 november 1969 houdende
+    vermindering van de compenserende bedragen die van toepassing zijn in de sector
+    rundvlees voor bepaalde uitvoer van Frankrijk naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2276
+docidentifier:
+- content: EU Regulation 2276/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2276
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2276/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-14'
+- type: implemented
+  at: '1969-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

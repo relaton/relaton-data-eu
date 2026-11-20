@@ -1,0 +1,67 @@
+---
+id: EURegulation12981972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1298/72 de la Commission, du 22 juin 1972, modifiant
+    les restitutions à l'exportation pour le sucre blanc et le sucre brut en l'état
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1298/72 der Kommission vom 22. Juni 1972 zur Änderung
+    der Erstattung bei der Ausfuhr in unverändertem Zustand für WeiDzucker und Rohzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1298/72 della Commissione, del 22 giugno 1972, che
+    modifica le restituzioni all'esportazione per lo zucchero bianco e lo zucchero
+    greggio allo stato naturale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) Nr. 1298/72 van de Commissie van 22 juni 1972 houdende
+    wijziging van de restituties bij de uitvoer van witte en ruwe suiker in onveranderde
+    vorm
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1298
+docidentifier:
+- content: EU Regulation 1298/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1298
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1298/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

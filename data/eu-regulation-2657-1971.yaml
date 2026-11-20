@@ -1,0 +1,74 @@
+---
+id: EURegulation26571971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2657/71 du Conseil, du 15 décembre 1971, fixant le
+    prix à la production communautaire pour les thons destinés à l'industrie de
+    la conserve pour la campagne de pêche 1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2657/71 des Rates vom 15. Dezember 1971 zur Festsetzung
+    des gemeinschaftlichen Produktionspreises für Thunfische, die für die Konservenindustrie
+    bestimmt sind, für das Fischwirtschaftsjahr 1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2657/71 del Consiglio, del 15 dicembre 1971, che fissa
+    per la campagna di pesca 1972 i prezzi alla produzione comunitaria per i tonni
+    destinati all'industria conserviera
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2657/71 van de Raad van 15 december 1971 tot vaststelling
+    van de communautaire produktieprijs voor tonijn, bestemd voor de conservenindustrie,
+    voor het visseizoen 1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2657
+docidentifier:
+- content: EU Regulation 2657/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2657
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2657/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-15'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EUDecision1966741
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/741/CEE du Conseil du 22 décembre 1966, visant à l'introduction
+    de certaines modifications au Tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: '66/741/EWG: Entscheidung des Rates vom 22. Dezember 1966 zur Änderung
+    des Gemeinsamen Zolltarifs'
+  type: main
+- language: it
+  script: Latn
+  content: '66/741/CEE: Decisione del Consiglio, del 22 dicembre 1966, recante introduzione
+    di talune modifiche nella tariffa doganale comune'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/741/EEG: Beschikking van de Raad van 22 december 1966 tot het aanbrengen
+    van een aantal wijzigingen in het gemeenschappelijk douanetarief'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0741
+docidentifier:
+- content: EU Decision 1966/741
+  type: EU
+  primary: true
+- content: CELEX 31966D0741
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/741/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-22'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

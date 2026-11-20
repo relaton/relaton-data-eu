@@ -1,0 +1,93 @@
+---
+id: EURegulation14601974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1460/74 of the Council of 31 May 1974 amending Regulation
+    (EEC) No 3609/73 on customs treatment to be applied to certain fishery products
+    originating in Norway
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1460/74 du Conseil, du 31 mai 1974, modifiant le règlement
+    (CEE) n° 3609/73 relatif au régime douanier applicable à certains produits
+    de la pêche originaires de la Norvège
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1460/74 des Rates vom 31. Mai 1974 zur Änderung der
+    Verordnung (EWG) Nr. 3609/73 über die Zollregelung für bestimmte Fischereierzeugnisse
+    mit Ursprung in Norwegen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1460/74 af 31. maj 1974 om ændring af forordning
+    (EØF) nr. 3609/73 om en toldordning for visse fiskerivarer med oprindelse i Norge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1460/74 del Consiglio, del 31 maggio 1974, che modifica
+    il regolamento (CEE) n. 3609/73 relativo al regime doganale da applicare a taluni
+    prodotti della pesca originari della Norvegia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1460/74 van de Raad van 31 mei 1974 tot wijziging
+    van Verordening (EEG) nr. 3609/73 betreffende de douaneregeling voor bepaalde
+    visserijprodukten van oorsprong uit Noorwegen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1460
+docidentifier:
+- content: EU Regulation 1460/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1460
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1460/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-05-31'
+- type: implemented
+  at: '1974-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3609
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,73 @@
+---
+id: EURegulation5431968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 543/68 du Conseil, du 1er mai 1968, modifiant le règlement
+    n° 841/67/CEE fixant le prix de base et le prix d'achat pour les oranges douces
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 543/68 des Rates vom 1. Mai 1968 zur Änderung der
+    Verordnung Nr. 841/67/EWG zur Festsetzung des Grundpreises und des Ankaufspreises
+    für Apfelsinen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 543/68 del Consiglio, del 1 maggio 1968, che modifica
+    il regolamento n. 841/67/CEE che fissa il prezzo di base e il prezzo d'acquisto
+    delle arance dolci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 543/68 van de Raad van 1 mei 1968 houdende wijziging
+    van Verordening nr. 841/67/EEG tot vaststelling van de basisprijs en de aankoopprijs
+    voor zoete sinaasappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0543
+docidentifier:
+- content: EU Regulation 543/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0543
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/543/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-01'
+- type: implemented
+  at: '1968-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

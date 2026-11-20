@@ -1,0 +1,74 @@
+---
+id: EUDecision1967722
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 67/722/CEE de la Commission, du 8 novembre 1967, autorisant la
+    République fédérale d'Allemagne à suspendre partiellement la perception du
+    droit de douane sur les tomates
+  type: main
+- language: de
+  script: Latn
+  content: '67/722/EWG: Entscheidung der Kommission vom 8. November 1967, mit der
+    die Bundesrepublik Deutschland ermächtigt wird, die Erhebung des Zollsatzes für
+    Tomaten teilweise auszusetzen'
+  type: main
+- language: it
+  script: Latn
+  content: '67/722/CEE: Decisione della Commissione, dell''8 novembre 1967, che autorizza
+    la Repubblica federale di Germania a sospendere parzialmente la riscossione del
+    dazio doganale sui pomodori'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/722/EEG: Beschikking van de Commissie van 8 november 1967 waarbij de
+    Bondsrepubliek Duitsland wordt gemachtigd de heffing van het recht op tomaten
+    gedeeltelijk te schorsen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0722
+docidentifier:
+- content: EU Decision 1967/722
+  type: EU
+  primary: true
+- content: CELEX 31967D0722
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/722/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-08'
+- type: implemented
+  at: '1968-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

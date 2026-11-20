@@ -1,0 +1,97 @@
+---
+id: EURegulation26411970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2641/70 of the Commission of 28 December 1970 amending
+    for the second time Regulation (EEC) No 1022/70 introducing, for a transitional
+    period, validation certificates for certain wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2641/70 de la Commission, du 28 décembre 1970, portant
+    seconde modification du règlement (CEE) n° 1022/70 établissant, pour une période
+    transitoire, des certificats d'accompagnement pour certains vins
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG ( EWG ) NR. 2641/70 DER KOMMISSION VOM 28. DEZEMBER 1970 ZUR
+    ZWEITEN AENDERUNG DER VERORDNUNG ( EWG ) NR. 1022/70 ZUR EINFUEHRUNG VON BEGLEITZEUGNISSEN
+    FUER BESTIMMTE WEINE WAEHREND EINER UEBERGANGSZEIT
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) άριθ. 2641/70 τής Έπιτροπής
+    τής 28ης Δεκεμβρίου 1970 περί δεύτερης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) άριθ. 1022/70 «περί καθιερώσεως
+    γιά μιά μεταβατική περίοδο συνοδευτικών πιστοποιητικών
+    γιά όρισμένους οϊνους»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2641/70 della Commissione, del 28 dicembre 1970, recante
+    seconda modifica del regolamento (CEE) n. 1022/70 che stabilisce, per un periodo
+    transitorio, certificati di accompagnamento per taluni vini
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING ( EEG ) NR. 2641/70 VAN DE COMMISSIE VAN 28 DECEMBER 1970 HOUDENDE
+    TWEEDE WIJZIGING VAN VERORDENING ( EEG ) NR. 1022/70 WAARBIJ VOOR EEN OVERGANGSPERIODE
+    GELEIDECERTIFICATEN VOOR BEPAALDE WIJNEN WORDEN INGESTELD
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2641
+docidentifier:
+- content: EU Regulation 2641/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2641
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2641/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-28'
+- type: implemented
+  at: '1970-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1022
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

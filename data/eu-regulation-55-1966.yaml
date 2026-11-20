@@ -1,0 +1,69 @@
+---
+id: EURegulation551966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 55/66/CEE du Conseil, du 18 mai 1966, modifiant le règlement
+    n 55/65/CEE du Conseil en ce qui concerne les quantités de fromage du type Cheddar
+    pouvant être écoulées sur le marché des États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 55/66/EWG des Rates vom 18. Mai 1966 zur Änderung der Verordnung
+    Nr. 55/65/EWG des Rates hinsichtlich der Mengen Cheddar-Käse, die auf dem Markt
+    der Mitgliedstaaten abgesetzt werden können
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 55/66/CEE del Consiglio, del 18 maggio 1966, che modifica
+    il regolamento n. 55/65/CEE del Consiglio relativo alle quantità di formaggio
+    del tipo Cheddar che possono essere smerciate sui mercati degli Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 55/66/EEG van de Raad van 18 mei 1966 tot wijziging van
+    Verordening no. 55/65/EEG van de Raad met betrekking tot de hoeveelheden Cheddarkaas
+    die op de markt van de Lid-Staten mogen worden afgezet
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0055
+docidentifier:
+- content: EU Regulation 55/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0055
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/55/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

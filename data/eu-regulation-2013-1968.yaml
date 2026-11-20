@@ -1,0 +1,84 @@
+---
+id: EURegulation20131968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2013/68 du Conseil, du 12 décembre 1968, modifiant
+    le règlement (CEE) n° 800/68 en ce qui concerne la désignation tarifaire des
+    fécules importées des États africains et malgache associés ou des pays et
+    territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2013/68 des Rates vom 12. Dezember 1968 zur Änderung
+    der Verordnung (EWG) Nr. 800/68 in bezug auf die tarifliche Bezeichnung der aus
+    den assoziierten afrikanischen Staaten und Madagaskar oder den überseeischen
+    Ländern und Gebieten eingeführten Stärke
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2013/68 del Consiglio, del 12 dicembre 1968, che modifica
+    il regolamento (CEE) n. 800/68, per quanto riguarda la designazione tariffaria
+    delle fecole importate dagli Stati africani e malgascio associati o dai paesi
+    e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2013/68 van de Raad van 12 december 1968 houdende
+    wijziging van Verordening (EEG) nr. 800/68 ten aanzien van de tariefaanduiding
+    van uit de Geassocieerde Afrikaanse Staten en Madagaskar of de landen en gebieden
+    overzee ingevoerd zetmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R2013
+docidentifier:
+- content: EU Regulation 2013/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R2013
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/2013/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-12'
+- type: implemented
+  at: '1968-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0800
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

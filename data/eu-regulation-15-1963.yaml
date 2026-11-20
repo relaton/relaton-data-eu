@@ -1,0 +1,76 @@
+---
+id: EURegulation151963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 15/63/CEE de la Commission du 26 février 1963 concernant
+    l'adaptation du prix d'écluse pour les oeufs à couver de volaille ainsi que
+    la fixation du montant des prélèvements envers les pays tiers pour les oeufs
+    à couver de volaille et les volailles vivantes d'un poids ne dépassant pas 185
+    grammes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 15/63/EWG der Kommission vom 26. Februar 1963 über die
+    Anpassung des Einschleusungspreises für Bruteier von Hausgeflügel sowie über
+    die Festsetzung der Abschöpfungsbeträge gegenüber dritten Ländern für Bruteier
+    von Hausgeflügel und für lebendes Hausgeflügel mit einem Gewicht von höchstens
+    185 Gramm
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 15/63/CEE della Commissione del 26 febbraio 1963 relativo
+    all'adattamento dei prezzi limite per le uova da cova di volatili da cortile,
+    nonchè alla fissazione dell'ammontare dei prelievi nei confronti dei paesi terzi
+    per uova da cova di volatili e per i volatili da cortile vivi di peso non superiore
+    a 185 grammi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 15/63/EEG van de Commissie van 26 februari 1963 betreffende
+    de aanpassing van de sluisprijs voor broedeieren van pluimvee en de vaststelling
+    van de heffingen ten opzichte van derde landen voor broedeieren van pluimvee en
+    voor levend pluimvee dat niet meer dan 185 gram weegt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0015
+docidentifier:
+- content: EU Regulation 15/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0015
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/15/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

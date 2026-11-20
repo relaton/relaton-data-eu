@@ -1,0 +1,85 @@
+---
+id: EURegulationNo20511969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2051/69 du Conseil, du 17 octobre 1969, portant augmentation
+    du volume et de la réserve du contingent tarifaire communautaire de harengs frais,
+    réfrigérés ou congelés, entiers, décapités ou tronçonnés, de la sous-position
+    03.01 B I a) 2 aa) du tarif douanier commun (période 1969/1970)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2051/69 des Rates vom 17. Oktober 1969 zur Erhöhung
+    des Umfangs und der Reserve des Gemeinschaftszollkontingents für Heringe, frisch,
+    gekühlt oder gefroren, ganz, ohne Kopf oder zerteilt, der Tarifstelle 03.01 B
+    I a) 2 aa) des Gemeinsamen Zolltarifs (Zeitraum 1969/1970)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2051/69 del Consiglio, del 17 ottobre 1969, relativo
+    all'aumento del volume e della riserva del contingente tariffario comunitario
+    di aringhe fresche, refrigerate o congelate, intere, decapitate o in pezzi della
+    sottovoce 03.01 B I a) 2 aa) della tariffa doganale comune (periodo 1969/1970)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2051/69 van de Raad van 17 oktober 1969 tot vergroting
+    van de omvang en van de reserve van het communautaire tariefcontingent voor haring,
+    vers, gekoeld of bevroren, ook indien ontdaan van kop of in moten gesneden, van
+    onderverdeling 03.01 B I a) 2 aa) van het gemeenschappelijk douanetarief (tijdvak
+    1969/1970)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2051
+docidentifier:
+- content: EU Regulation No 2051/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2051
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2051/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-17'
+- type: implemented
+  at: '1969-10-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1179
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

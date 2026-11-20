@@ -1,0 +1,79 @@
+---
+id: EURegulationNo20251970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2025/70 de la Commission, du 8 octobre 1970, modifiant
+    le règlement (CEE) n° 1893/70 relatif à la vente de beurre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2025/70 der Kommission vom 8. Oktober 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1893/70 über den Verkauf von Butter aus staatlicher
+    Lagerhaltung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2025/70 della Commissione, dell'8 ottobre 1970, che
+    modifica il regolamento (CEE) n. 1893/70 relativo alla vendita di burro di ammasso
+    pubblico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2025/70 van de Commissie van 8 oktober 1970 tot wijziging
+    van Verordening (EEG) nr. 1893/70 betreffende de verkoop van boter uit openbare
+    opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2025
+docidentifier:
+- content: EU Regulation No 2025/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2025
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2025/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-08'
+- type: implemented
+  at: '1970-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1893
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

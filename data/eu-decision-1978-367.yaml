@@ -1,0 +1,94 @@
+---
+id: EUDecision1978367
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Decision of 4 April 1978 repealing Decision 77/717/EEC concerning
+    health protection measures in respect of the USSR
+  type: main
+- language: fr
+  script: Latn
+  content: 78/367/CEE Décision de la Commission, du 4 avril 1978, abrogeant la décision
+    77/717/CEE relative à des mesures de protection sanitaire à l'égard de l'Union
+    des Républiques socialistes soviétiques
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung der Kommission vom 4. April 1978 zur Aufhebung der Entscheidung
+    77/717/EWG betreffend viehseuchenrechtliche Maßnahmen gegenüber der UdSSR
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens beslutning af 4. april 1978 om ophævelse af beslutning 77/717/
+    EØF om sundhedsmæssige beskyttelsesforanstaltninger over for USSR
+  type: main
+- language: it
+  script: Latn
+  content: Decisione della Commissione, del 4 aprile 1978, che abroga la decisione
+    77/717/CEE relativa a misure di protezione sanitaria nei riguardi dell'Unione
+    delle repubbliche socialiste sovietiche
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Commissie van 4 april 1978 tot intrekking van Beschikking
+    77/717/EEG betreffende veterinairrechtelijke beschermingsmaatregelen tegenover
+    de USSR
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978D0367
+docidentifier:
+- content: EU Decision 1978/367
+  type: EU
+  primary: true
+- content: CELEX 31978D0367
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1978/367/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977D0017
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977D0717
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

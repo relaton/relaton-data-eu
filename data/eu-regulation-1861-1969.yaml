@@ -1,0 +1,69 @@
+---
+id: EURegulation18611969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1861/69 de la Commission, du 19 septembre 1969, complétant
+    le règlement (CEE) n 1436/69 concernant la mise en vente par adjudication de
+    l'huile d'olive détenue par l'organisme d'intervention italien
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1861/69 der Kommission vom 19. September 1969 zur
+    Ergänzung der Verordnung (EWG) Nr. 1436/69 über den Verkauf im Besitz der italienischen
+    Interventionsstelle befindlichen Olivenöls durch Ausschreibung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1861/69 della Commissione, del 19 settembre 1969,
+    che completa il regolamento (CEE) n. 1436/69 relativo alla messa in vendita a
+    mezzo aggiudicazione dell'olio di oliva detenuto dall'organismo d'intervento italiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1861/69 van de Commissie van 19 september 1969 houdende
+    aanvulling van Verordening (EEG) nr. 1436/69 houdende de verkoop bij inschrijving
+    van olijfolie, die in het bezit is van het Italiaanse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1861
+docidentifier:
+- content: EU Regulation 1861/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1861
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1861/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-09-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

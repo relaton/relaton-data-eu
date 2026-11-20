@@ -1,0 +1,95 @@
+---
+id: EURegulation14761975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1476/75 of the Commission of 9 June 1975 amending Regulation
+    (EEC) No 602/75 as regards the conditions of sale of skimmed-milk powder for supply
+    to developing countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1476/75 de la Commission, du 9 juin 1975, modifiant
+    le règlement (CEE) n° 602/75 en ce qui concerne les conditions de vente pour
+    le lait écrémé en poudre destiné à être livré vers des pays en voie de
+    développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1476/75 der Kommission vom 9. Juni 1975 zur Änderung
+    der Verordnung (EWG) Nr. 602/75 hinsichtlich der Verkaufsbedingungen für Magermilchpulver
+    zur Lieferung nach Entwicklungsländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1476/75 af 9. juni 1975 om ændring
+    af forordning (EØF) nr. 602/75 for så vidt angår salgsbetingelserne for skummetmælkspulver
+    bestemt til levering til udviklingslande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1476/75 della Commissione, del 9 giugno 1975, che
+    modifica il regolamento (CEE) n. 602/75 per quanto riguarda le condizioni di vendita
+    del latte scremato in polvere destinato a forniture a paesi in via di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1476/75 van de Commissie van 9 juni 1975 houdende
+    wijziging van Verordening (EEG) nr. 602/75 met betrekking tot de verkoopvoorwaarden
+    voor magere-melkpoeder bestemd om te worden geleverd aan ontwikkelingslanden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1476
+docidentifier:
+- content: EU Regulation 1476/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1476
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1476/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-06-09'
+- type: implemented
+  at: '1975-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0602
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

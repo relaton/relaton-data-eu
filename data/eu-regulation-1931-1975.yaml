@@ -1,0 +1,82 @@
+---
+id: EURegulation19311975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1931/75 of the Council of 22 July 1975 fixing the minimum
+    price and the special minimum price for tomato concentrates
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1931/75 du Conseil, du 22 juillet 1975, fixant le
+    prix minimal et le prix minimal spécial des concentrés de tomates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1931/75 des Rates vom 22. Juli 1975 zur Festsetzung
+    des Mindestpreises und des besonderen Mindestpreises für Tomatenkonzentrate
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1931/75 af 22. juli 1975 om fastsættelse
+    af minimumsprisen og den særlige minimumspris for tomatkoncentrater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1931/75 del Consiglio, del 22 luglio 1975, che fissa
+    il prezzo minimo e il prezzo minimo speciale dei concentrati di pomodori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1931/75 van de Raad van 22 juli 1975 tot vaststelling
+    van de minimumprijs en de bijzondere minimumprijs voor tomatenpuree
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1931
+docidentifier:
+- content: EU Regulation 1931/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1931
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1931/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-22'
+- type: implemented
+  at: '1975-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,91 @@
+---
+id: EURegulation21001968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2100/68 of the Council of 20 December 1968 amending
+    Regulation No 1009/67/EEC on the common organisation of the market in sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2100/68 du Conseil, du 20 décembre 1968, modifiant
+    le règlement n° 1009/67/CEE portant organisation commune des marchés dans le
+    secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2100/68 des Rates vom 20. Dezember 1968 zur Änderung
+    der Verordnung Nr. 1009/67/EWG über die gemeinsame Marktorganisation für Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2100/68 af 20. december 1968 om ændring
+    af forordning nr. 1009/67/EØF om den fælles markedsordning for sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2100/68 del Consiglio, del 20 dicembre 1968, che modifica
+    il regolamento n. 1009/67/CEE relativo all' organizzazione comune dei mercati
+    nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2100/68 van de Raad van 20 december 1968 tot wijziging
+    van Verordening nr. 1009/67/EEG houdende een gemeenschappelijke ordening der markten
+    in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R2100
+docidentifier:
+- content: EU Regulation 2100/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R2100
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/2100/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-20'
+- type: implemented
+  at: '1968-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1009
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

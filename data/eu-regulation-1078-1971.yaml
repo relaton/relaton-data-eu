@@ -1,0 +1,84 @@
+---
+id: EURegulation10781971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1078/71 du Conseil, du 25 mai 1971, portant institution
+    d'un régime commun d'exportation et ouverture d'un contingent quantitatif communautaire
+    à l'exportation pour certains déchets et cendres de métaux non ferreux (cuivre,
+    plomb et aluminium)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1078/71 des Rates vom 25. Mai 1971 zur Einführung
+    einer gemeinsamen Ausfuhrregelung und Eröffnung eines mengenmäßigen Ausfuhrkontingents
+    der Gemeinschaft für bestimmte Bearbeitungsabfälle und Aschen von NE-Metallen
+    (Kupfer, Blei und Aluminium)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1078/71 del Consiglio, del 25 maggio 1971, che istituisce
+    un regime comune all'esportazione e apre un contingente quantitativo comunitario
+    all'esportazione per alcuni cascami e ceneri di metalli non ferrosi (rame, piombo
+    ed alluminio)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1078/71 van de Raad van 25 mei 1971 betreffende de
+    invoering van een gemeenschappelijke uitvoerregeling en de opening van een communautair
+    kwantitatief uitvoercontingent voor bepaalde afvallen en assen van non-ferrometalen
+    (koper, lood en aluminium)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1078
+docidentifier:
+- content: EU Regulation 1078/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1078
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1078/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-25'
+- type: implemented
+  at: '1971-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2603
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

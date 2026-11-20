@@ -1,0 +1,65 @@
+---
+id: EURegulation7531967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 753/67/CEE de la Commission, du 26 octobre 1967, fixant les
+    prix d'écluse et les prélèvements dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 753/67/EWG der Kommission vom 26. Oktober 1967 über die
+    Festsetzung der Einschleusungspreise und der Abschöpfungen für Schweinefleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 753/67/CEE della Commissione, del 26 ottobre 1967, che stabilisce
+    i prezzi limite ed i prelievi nel settore della carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 753/67/EEG van de Commissie van 26 oktober 1967 houdende
+    vaststelling van de sluisprijzen en van de heffingen in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0753
+docidentifier:
+- content: EU Regulation 753/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0753
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/753/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

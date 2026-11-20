@@ -1,0 +1,84 @@
+---
+id: EURegulation9741972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 974/72 de la Commission, du 12 mai 1972, portant deuxième
+    complément à l'adjudication permanente pour la vente de sucre blanc destiné
+    à l'exportation et détenu par l'organisme d'intervention français visée au
+    règlement (CEE) n° 279/72
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 974/72 der Kommission vom 12. Mai 1972 zur zweiten
+    Ergänzung der in der Verordnung (EWG) Nr. 279/72 genannten Dauerausschreibung
+    zum Verkauf von Weißzucker, der zur Ausfuhr bestimmt ist und sich im Besitz der
+    französischen Interventionsstelle befindet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 974/72 della Commissione, del 12 maggio 1972, relativo
+    al secondo complemento alla gara permanente per la vendita di zucchero bianco
+    destinato all'esportazione e detenuto dall'organismo d'intervento francese di
+    cui al regolamento (CEE) n. 279/72
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 974/72 van de Commissie van 12 mei 1972 houdende
+    een tweede aanvulling van Verordening (EEG) nr. 279/72 betreffende een permanente
+    openbare inschrijving voor de verkoop van witte suiker in het bezit van het Franse
+    interventiebureau en bestemd voor uitvoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0974
+docidentifier:
+- content: EU Regulation 974/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0974
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/974/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-05-12'
+- type: implemented
+  at: '1972-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0279
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

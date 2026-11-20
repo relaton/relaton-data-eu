@@ -1,0 +1,68 @@
+---
+id: EURegulation18021968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1802/68 de la Commission, du 12 novembre 1968, relatif
+    à certaines dispositions concernant les mesures d'intervention dans le secteur
+    de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1802/68 der Kommission vom 12. November 1968 über
+    gewisse Bestimmungen hinsichtlich der Interventionsmaßnahmen auf dem Rindfleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1802/68 della Commissione, del 12 novembre 1968, relativo
+    a talune disposizioni che riguardano le misure d'intervento nel settore delle
+    carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1802/68 van de Commissie van 12 november 1968 betreffende
+    bepaalde voorschriften met betrekking tot de interventiemaatregelen in de sector
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1802
+docidentifier:
+- content: EU Regulation 1802/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1802
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1802/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-11-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

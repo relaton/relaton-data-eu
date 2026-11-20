@@ -1,0 +1,69 @@
+---
+id: EURegulation4051971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 405/71 de la Commission, du 22 février 1971, modifiant
+    les taux des restitutions applicables aux oeufs et aux jaunes d'oeufs exportés
+    sous forme de marchandises ne relevant pas de l'annexe II du traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 405/71 der Kommission vom 22. Februar 1971 zur Änderung
+    der Erstattungssätze bei der Ausfuhr von Eiern und Eigelb in Form von nicht unter
+    Anhang II des Vertrages fallenden Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 405/71 della Commissione, del 22 febbraio 1971, che
+    modifica i tassi delle restituzioni applicabili alle uova e al giallo d'uova esportati
+    sotto forma di merci non comprese nell'allegato II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 405/71 van de Commissie van 22 februari 1971 tot
+    wijziging van de restitutiebedragen voor eieren en eigeel uitgevoerd in de vorm
+    van niet in bijlage II van het Verdrag vermelde goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0405
+docidentifier:
+- content: EU Regulation 405/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0405
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/405/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

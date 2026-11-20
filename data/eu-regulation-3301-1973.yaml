@@ -1,0 +1,96 @@
+---
+id: EURegulation33011973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3301/73 of the Commission of 6 December 1973 amending
+    Regulation (EEC) No 2637/70 on the establishment of a common organization of the
+    market in oils and fats as regards the duration of validity of import licences
+    with advance fixing in the olive oil market
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3301/73 de la Commission, du 6 décembre 1973, modifiant
+    le règlement (CEE) n° 2637/70 pour ce qui concerne la durée de validité des
+    certificats d' importation avec préfixation dans le secteur de l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3301/73 der Kommission vom 6. Dezember 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2637/70 über die Gültigkeitsdauer der Einfuhrlizenzen
+    mit Vorausfestsetzung für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3301/73 af 6. december 1973 om ændring
+    af forordning (EØF) nr. 2637/70, for så vidt angår gyldighedsperioden for importlicenser
+    med forudfastsættelse for olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3301/73 della Commissione, del 6 dicembre 1973, che
+    modifica il regolamento (CEE)n. 2637/70, per quanto concerne la durata di validità
+    dei titoli d' importazione con fissazione anticipata del prelievo per l' olio
+    d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3301/73 van de Commissie van 6 december 1973 tot
+    wijziging van Verordening (EEG) nr. 2637/70 met betrekking tot de geldigheidsduur
+    van de invoercertificaten met voorfixatie in de sector olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3301
+docidentifier:
+- content: EU Regulation 3301/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3301
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3301/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-12-06'
+- type: implemented
+  at: '1973-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

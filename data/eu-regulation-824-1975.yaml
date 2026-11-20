@@ -1,0 +1,93 @@
+---
+id: EURegulation8241975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 824/75 of the Commission of 24 March 1975 laying down
+    transitional measures applicable to sugar imported by the Community under preferential
+    arrangements
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 824/75 de la Commission, du 24 mars 1975, établissant
+    des mesures transitoires applicables aux sucres importés dans la Communauté
+    sous régime préférentiel
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 824/75 der Kommission vom 24. März 1975 zur Einführung
+    einer Übergangsregelung für Zucker, der unter Präferenzbedingungen in die Gemeinschaft
+    eingeführt wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 824/75 af 24. marts 1975 om midlertidig
+    bestemmelser for sukker, der indføres i Fællesskabet på præferentielle betingelser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 824/75 della Commissione, del 24 marzo 1975, che stabilisce
+    misure transitorie applicabili agli zuccheri importati nella Comunità in regime
+    preferenziale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 824/75 van de Commissie van 24 maart 1975 houdende
+    vaststelling van overgangsmaatregelen van toepassing op suiker die in het kader
+    van een preferentiële regeling in de Gemeenschap wordt ingevoerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0824
+docidentifier:
+- content: EU Regulation 824/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0824
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/824/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-24'
+- type: implemented
+  at: '1975-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

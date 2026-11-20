@@ -1,0 +1,77 @@
+---
+id: EURegulation12851969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1285/69 de la Commission, du 3 juillet 1969, relatif
+    aux dispositions pour l'adjudication permanente de lait écrémé en poudre destiné
+    à la transformation en aliments composés pour l'alimentation des porcs ou de
+    la volaille et détenu par les organismes d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1285/69 der Kommission vom 3. Juli 1969 über Bestimmungen
+    zur Dauerausschreibung von Magermilchpulver, das zur Verarbeitung zu Mischfutter
+    für Schweine oder Geflügel bestimmt ist, aus Beständen der Interventionsstellen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1285/69 della Commissione, del 3 luglio 1969, relativo
+    ad alcune disposizioni per l'asta permanente per il latte scremato in polvere
+    destinato alla trasformazione in alimenti composti per i suini o il pollame, proveniente
+    dalle scorte degli organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1285/69 van de Commissie van 3 juli 1969 houdende
+    bepalingen voor de permanente verkoop bij inschrijving van magere-melkpoeder in
+    het bezit van de interventiebureaus, bestemd voor verwerking tot mengvoeder voor
+    varkens of pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1285
+docidentifier:
+- content: EU Regulation 1285/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1285
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1285/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-03'
+- type: implemented
+  at: '1969-07-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

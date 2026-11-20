@@ -1,0 +1,94 @@
+---
+id: EURegulation27351973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2735/73 of the Commission of 8 October 1973 amending
+    Regulation (EEC) No 2196/71 as regards the period of validity of import licences
+    for cereals and certain processed products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2735/73 de la Commission, du 8 octobre 1973, modifiant
+    le règlement (CEE) n° 2196/71 en ce qui concerne la durée de valitité des
+    certificats d' importation pour les céréales et certains produits transformés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2735/73 der Kommission vom 8. Oktober 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2196/71 hinsichtlich der Gültigkeitsdauer der Einfuhrlizenzen
+    für Getreide und bestimmte Verarbeitungserzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2735/73 af 8. oktober 1973 om ændring
+    af forordning (EØF) nr. 2196/71 for så vidt angår gyldighedsperioden for importlicenser
+    for korn og visse forarbejdede varer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2735/73 della Commissione, dell' 8 ottobre 1973, che
+    modifica il regolamento (CEE) n. 2196/71, per quanto concerne la durata di validità
+    dei titoli d' importazione per i cereali e per alcuni prodotti trasformati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2735/73 van de Commissie van 8 oktober 1973 houdende
+    wijziging van Verordening (EEG) nr. 2196/71 ten aanzien van de geldigheidsduur
+    van de invoercertificaten voor granen en bepaalde verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2735
+docidentifier:
+- content: EU Regulation 2735/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2735
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2735/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-08'
+- type: implemented
+  at: '1973-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2196
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

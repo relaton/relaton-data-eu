@@ -1,0 +1,101 @@
+---
+id: EURegulation22421976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2242/76 of 15 September 1976 amending Commission
+    Regulations (EEC) No 1282/72 and (EEC) No 1717/72 as regards the reduction of
+    the selling price for butter from public stock
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2242/76 de la Commission, du 15 septembre 1976, modifiant
+    les règlements (CEE) n°s 1282/72 et 1717/72 de la Commission en ce qui concerne
+    la réduction du prix de vente pour le beurre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2242/76 der Kommission vom 15. September 1976 zur
+    Änderung der Verordnungen (EWG) Nr. 1282/72 und (EWG) Nr. 1717/72 der Kommission
+    hinsichtlich der Senkung des Verkaufspreises für die Butter aus öffentlicher
+    Lagerhaltung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2242/76 af 15. september 1976 om ændring
+    af Kommissionens forordninger (EØF) nr. 1282/72 og (EØF) nr. 1717/72 vedrørende
+    nedsættelse af salgsprisen for smør fra offentlige lagre
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2242/76 della Commissione, del 15 settembre 1976,
+    che modifica i regolamenti (CEE) n. 1282/72 e n. 1717/72 della Commissione per
+    quanto riguarda la riduzione del prezzo di vendita per il burro d' ammasso pubblico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2242/76 van de Commissie van 15 september 1976 tot
+    wijziging van de Verordeningen (EEG) nrs. 1282/72 en 1717/72 van de Commissie
+    met betrekking tot de vermindering van de verkoopprijs voor boter uit openbare
+    opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2242
+docidentifier:
+- content: EU Regulation 2242/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2242
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2242/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-09-15'
+- type: implemented
+  at: '1976-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1282
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1717
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

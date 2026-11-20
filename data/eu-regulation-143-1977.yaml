@@ -1,0 +1,88 @@
+---
+id: EURegulation1431977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 143/77 of 25 January 1977 repealing the
+    protective measures applicable to straw exports
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 143/77 de la Commission, du 25 janvier 1977, abrogeant
+    les mesures de sauvegarde applicables à l' exportation de pailles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 143/77 der Kommission vom 25. Januar 1977 zur Aufhebung
+    der bei der Ausfuhr von Stroh geltenden Schutzmaßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 143/77 af 25. januar 1977 om ophævelse
+    af beskyttelsesforanstaltninger gældende ved udførsel af halm
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 143/77 della Commissione, del 25 gennaio 1977, che
+    abroga le misure di salvaguardia applicabili all' esportazione di paglie
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 143/77 van de Commissie van 25 januari 1977 tot intrekking
+    van de vrijwaringsmaatregelen bij de uitvoer van stro
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0143
+docidentifier:
+- content: EU Regulation 143/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0143
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/143/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-01-25'
+- type: implemented
+  at: '1977-01-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1667
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

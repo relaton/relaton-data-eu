@@ -1,0 +1,94 @@
+---
+id: EURegulation22921971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2292/71 of the Council of 26 October 1971 amending
+    Regulation (EEC) No 1171/71 as regards total or partial exemption from the obligation
+    to distil the by-products of wine-making
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2292/71 du Conseil, du 26 octobre 1971, modifiant
+    le règlement (CEE)" n° 1171/71 en ce qui concerne des exonérations totales
+    ou partielles à l' obligation de distiller les sous-produits de la vinification
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2292/71 des Rates vom 26. Oktober 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1171/71 hinsichtlich der völligen oder teilweisen Befreiung
+    von der Verpflichtung zur Destillation der Nebenerzeugnisse der Weinbereitung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2292/71 af 26. oktober 1971 om ændring af
+    forordning (EØF) nr. 1171/71 om fuldstændig eller delvis fritagelse for forpligtelsen
+    til destillering af biprodukter ved vinfremstilling
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2292/71 del Consiglio, del 26 ottobre 1971, che modifica
+    il regolamento (CEE) n. 1171/71 per quanto riguarda gli esoneri totali o parziali
+    dall' obbligo di distillare i sottoprodotti della vinificazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2292/71 van de Raad van 26 oktober 1971 tot wijziging
+    van Verordening (EEG) nr. 1171/71 voor wat betreft de gehele of gedeeltelijke
+    vrijstelling van de verplichte distillatie van de bijprodukten van de wijnbereiding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2292
+docidentifier:
+- content: EU Regulation 2292/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2292
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2292/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-26'
+- type: implemented
+  at: '1971-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1171
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

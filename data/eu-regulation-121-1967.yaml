@@ -1,0 +1,88 @@
+---
+id: EURegulation1211967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 121/67/EEC of the Council of 13 June 1967 on the common organisation
+    of the market in pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 121/67/CEE, du 13 juin 1967, portant organisation commune
+    des marchés dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 121/67/EWG des Rates vom 13. Juni 1967 über die gemeinsame
+    Marktorganisation für Schweinefleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 121/67/EØF af 13. juni 1967 om den fælles markedsordning
+    for svinekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 121/67/CEE del Consiglio, del 13 giugno 1967, relativo all'
+    organizzazione comune dei mercati nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 121/67/EEG van de Raad van 13 juni 1967 houdende een gemeenschappelijke
+    ordening der markten in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0121
+docidentifier:
+- content: EU Regulation 121/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0121
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/121/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-13'
+- type: implemented
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0020
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

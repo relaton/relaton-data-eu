@@ -1,0 +1,67 @@
+---
+id: EURegulation7781969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 778/69 de la Commission, du 25 avril 1969, fixant les
+    prix d'écluse et les impositions à l'importation pour l'ovoalbumine et la lactoalbumine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 778/69 der Kommission vom 25. April 1969 zur Festsetzung
+    der Einschleusungspreise und der Abgaben bei der Einfuhr für Eieralbumin und
+    Milchalbumin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 778/69 della Commissione, del 25 aprile 1969, che
+    fissa i prezzi limite e le imposte all'importazione per l'ovoalbumina e la lattoalbumina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 778/69 van de Commissie van 25 april 1969 houdende
+    vaststelling van de sluisprijzen en de belastingen bij invoer voor ovoalbumine
+    en lactoalbumine
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0778
+docidentifier:
+- content: EU Regulation 778/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0778
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/778/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

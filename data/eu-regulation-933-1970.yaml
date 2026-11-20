@@ -1,0 +1,85 @@
+---
+id: EURegulation9331970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 933/70 de la Commission, du 22 mai 1970, modifiant
+    les règlements (CEE) n° 1489/69 et 1659/69 relatifs à la vente pour la transformation
+    du beurre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 933/70 der Kommission vom 22. Mai 1970 zur Änderung
+    der Verordnungen (EWG) Nr. 1489/69 und Nr. 1659/69 über den Verkauf von Butter
+    aus öffentlicher Lagerhaltung an die Verarbeitungsindustrie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 933/70 della Commissione, del 22 maggio 1970, che
+    modifica i regolamenti (CEE) n. 1489/69 e n. 1659/69 relativi alla vendita di
+    burro d'ammasso pubblico destinato alla trasformazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 933/70 van de Commissie van 22 mei 1970 houdende
+    wijziging van de Verordeningen (EEG) nr. 1489/69 en nr. 1659/69 betreffende de
+    verkoop voor de verwerking van boter uit openbare opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0933
+docidentifier:
+- content: EU Regulation 933/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0933
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/933/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-22'
+- type: implemented
+  at: '1970-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1489
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1659
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,68 @@
+---
+id: EURegulation10571969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1057/69 de la Commission, du 6 juin 1969, modifiant
+    le régime spécial à appliquer à l'importation de certaines viandes bovines
+    congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1057/69 der Kommission vom 6. Juni 1969 zur Änderung
+    der Sonderregelung bei der Einfuhr bestimmter Sorten von gefrorenem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1057/69 della Commissione, del 6 giugno 1969, che
+    modifica il regime speciale da applicare all'importazione di talune carni bovine
+    congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1057/69 van de Commissie van 6 juni 1969 houdende
+    wijziging van de bijzondere regeling voor de invoer van bepaalde soorten bevroren
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1057
+docidentifier:
+- content: EU Regulation 1057/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1057
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1057/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

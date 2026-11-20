@@ -1,0 +1,71 @@
+---
+id: EURegulation4871970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 487/70 de la Commission, du 16 mars 1970, abrogeant
+    le règlement (CEE) n 235/70 portant application du droit du tarif douanier commun
+    aux importations de certaines variétés d'oranges douces originaires d'Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 487/70 der Kommission vom 16. März 1970 zur Aufhebung
+    der Verordnung (EWG) Nr. 235/70 zur Anwendung des Zollsatzes des Gemeinsamen Zolltarifs
+    auf Einfuhren bestimmter Sorten von SüDorangen mit Ursprung in Spanien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 487/70 della Commissione, del 16 marzo 1970, che abroga
+    il regolamento (CEE) n. 235/70 relativo all'applicazione del dazio della tariffa
+    doganale comune alle importazioni di alcune varietà di arance dolci originarie
+    della Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 487/70 van de Commissie van 16 maart 1970 tot intrekking
+    van Verordening (EEG) nr. 235/70 houdende toepassing van het recht van het gemeenschappelijk
+    douanetarief op de invoer van bepaalde variëteiten zoete sinaasappelen van oorsprong
+    uit Spanje
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0487
+docidentifier:
+- content: EU Regulation 487/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0487
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/487/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation2201971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 220/71 de la Commission, du 29 janvier 1971, fixant
+    des prix minima à l'exportation vers les pays tiers de tubercules de bégonias,
+    dahlias, glaïeuls, sinningias et de bulbes de lilium
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 220/71 der Kommission vom 29. Januar 1971 zur Festsetzung
+    der Mindestpreise bei der Ausfuhr von Begonien-, Dahlien-, Gladiolen- und Sinningiaknollen
+    sowie Lilienzwiebeln nach Drittländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 220/71 della Commissione, del 29 gennaio 1971, che
+    fissa i prezzi minimi all'esportazione verso i paesi terzi di tuberi di begonie,
+    dalie, gladioli, sinningia e di bulbi di lilium
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 220/71 van de Commissie van 29 januari 1971 houdende
+    vaststelling van de minimumprijzen bij de uitvoer naar derde landen van knollen
+    van begonia's, dahlia's, gladiolen en sinningia's alsmede bollen van lelies
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0220
+docidentifier:
+- content: EU Regulation 220/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0220
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/220/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-29'
+- type: implemented
+  at: '1971-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

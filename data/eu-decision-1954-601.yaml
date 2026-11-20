@@ -1,0 +1,85 @@
+---
+id: EUDecision1954601
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'ECSC Council of Ministers: Decision on the opening of the common market
+    for special steels'
+  type: main
+- language: fr
+  script: Latn
+  content: 'CECA Conseil de Ministres: Décision relative à l'' ouverture du marché
+    commun des aciers spéciaux'
+  type: main
+- language: de
+  script: Latn
+  content: 'EGKS, Ministerrat: Beschluß über die Eröffnung des gemeinsamen Marktes
+    für Edelstähle'
+  type: main
+- language: da
+  script: Latn
+  content: 'EKSF Ministertådet: Afgørelse om åbning af det fællesmarked for specialstål'
+  type: main
+- language: it
+  script: Latn
+  content: 'CECA Consiglio dei Ministri: Decisione relativa all'' apertura del mercato
+    comune degli acciai speciali'
+  type: main
+- language: nl
+  script: Latn
+  content: 'EGKS Raad van Ministers: Besluit betreffende de opening van de gemeenschappelijke
+    markt voor speciaal staal'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31954D0601P0427
+docidentifier:
+- content: EU Decision 1954/601
+  type: EU
+  primary: true
+- content: CELEX 31954D0601P0427
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1954/601/oj
+  type: ELI
+date:
+- type: issued
+  at: '1954-06-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31954D0401P0311
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

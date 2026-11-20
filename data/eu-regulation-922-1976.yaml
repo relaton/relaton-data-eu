@@ -1,0 +1,93 @@
+---
+id: EURegulation9221976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 922/76 of 22 April 1976 amending Regulation
+    (EEC) No 438/71 laying down conditions for obtaining export refunds on wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 922/76 de la Commission, du 22 avril 1976, modifiant
+    le règlement (CEE) n° 438/71 portant les conditions pour l'obtention du bénéfice
+    des restitutions à l'exportation dans le secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 922/76 der Kommission vom 22. April 1976 zur Änderung
+    der Verordnung (EWG) Nr. 438/71 über die Voraussetzungen der Gewährung von Ausfuhrerstattungen
+    für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 922/76 af 22. april 1976 om ændring
+    af forordning (EØF) nr. 438/71 om betingelserne for ydelse af eksportrestitutioner
+    inden for vinsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 922/76 della Commissione, del 22 aprile 1976, recante
+    modifica del regolamento (CEE) n. 438/71 che stabilisce le condizioni cui è subordinato
+    il beneficio delle restituzioni all'esportazione nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 922/76 van de Commissie van 22 april 1976 tot wijziging
+    van Verordening (EEG) nr. 438/71 houdende vaststelling van de voorwaarden om in
+    aanmerking te komen voor restituties bij uitvoer in de wijnsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0922
+docidentifier:
+- content: EU Regulation 922/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0922
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/922/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-04-22'
+- type: implemented
+  at: '1976-04-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0438
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

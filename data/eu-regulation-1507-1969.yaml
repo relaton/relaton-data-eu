@@ -1,0 +1,76 @@
+---
+id: EURegulation15071969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1507/69 du Conseil, du 29 juillet 1969, portant nouvelle
+    prolongation de la campagne laitière 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1507/69 des Rates vom 29. Juli 1969 zur erneuten Verlängerung
+    des Milchwirtschaftsjahres 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1507/69 del Consiglio, del 29 luglio 1969, relativo
+    alla nuova proroga della campagna lattiera 1968/1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1507/69 van de Raad van 29 juli 1969 tot verdere
+    verlenging van het melkprijsjaar 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1507
+docidentifier:
+- content: EU Regulation 1507/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1507
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1507/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-29'
+- type: implemented
+  at: '1969-08-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1402
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

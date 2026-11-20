@@ -1,0 +1,74 @@
+---
+id: EURegulation1971968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 197/68 du Conseil, du 20 février 1968, prorogeant
+    l'application de l'article 2 et de l'article 3 sous b) du règlement n° 127/67/CEE
+    jusqu'au 30 juin 1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 197/68 des Rates vom 20. Februar 1968 zur Verlängerung
+    der Geltungsdauer von Artikel 2 und Artikel 3 Buchstabe b) der Verordnung Nr.
+    127/67/EWG bis zum 30. Juni 1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 197/68 del Consiglio, del 20 febbraio 1968, che proroga
+    fino al 30 giugno 1968 l'applicazione dell'articolo 2 e dell'articolo 3, lettera
+    b), del regolamento n. 127/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 197/68 van de Raad van 20 februari 1968 tot verlenging,
+    tot en met 30 juni 1968, van de toepassing van artikel 2 en artikel 3, sub b),
+    van Verordening nr. 127/67/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0197
+docidentifier:
+- content: EU Regulation 197/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0197
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/197/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-02-20'
+- type: implemented
+  at: '1968-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

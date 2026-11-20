@@ -1,0 +1,98 @@
+---
+id: EURegulation19991974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1999/74 of the Council of 29 July 1974 amending Regulation
+    (EEC) No 243/73 laying down general rules for the system of compensatory amounts
+    for rice and fixing these amounts for certain products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1999/74 du Conseil, du 29 juillet 1974, modifiant
+    le règlement (CEE) n° 243/73 du Conseil déterminant les règles générales
+    du régime des montants compensatoires dans le secteur du riz et fixant ceux-ci
+    pour certains produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1999/74 des Rates vom 29. Juli 1974 zur Änderung
+    der Verordnung (EWG) Nr. 243/73 des Rates zur Festlegung der Grundregeln für
+    die Ausgleichsbeträge für Reis und zur Festsetzung dieser Ausgleichsbeträge
+    für einige Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1999/74 af 29. juli 1974 om ændring af forordning
+    (EØF) nr. 243/73 om fastsættelse af almindelige regler om udligningsbeløb i
+    rissektoren og om fastsættelse af disse for visse varer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1999/74 del Consiglio, del 29 luglio 1974, recante
+    modifica del regolamento (CEE) n. 243/73 del Consiglio, che stabilisce le norme
+    generali del regime degli importi compensativi nel settore del riso e fissa detti
+    importi per taluni prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1999/74 van de Raad van 29 juli 1974 tot wijziging
+    van Verordening (EEG) nr. 243/74 houdende vaststelling van de algemene regels
+    van het stelsel van compenserende bedragen in de sector rijst, alsmede vaststelling
+    van deze bedragen voor sommige produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1999
+docidentifier:
+- content: EU Regulation 1999/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1999
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1999/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-29'
+- type: implemented
+  at: '1974-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0243
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

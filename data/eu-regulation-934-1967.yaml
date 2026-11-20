@@ -1,0 +1,66 @@
+---
+id: EURegulation9341967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 934/67/CEE de la Commission, du 30 novembre 1967, portant
+    fixation des primes s'ajoutant aux prélèvements pour le riz et le riz en brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 934/67/EWG der Kommission vom 30. November 1967 zur Festsetzung
+    der Prämien als Zuschlag zu den Abschöpfungen für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 934/67/CEE della Commissione, del 30 novembre 1967, che
+    fissa i supplementi che si aggiungono ai prelievi per il riso e le rotture di
+    riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 934/67/EEG van de Commissie van 30 november 1967 tot vaststelling
+    van de premies waarmede de heffingen voor rijst en breukrijst worden verhoogd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0934
+docidentifier:
+- content: EU Regulation 934/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0934
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/934/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

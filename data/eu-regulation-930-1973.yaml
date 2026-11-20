@@ -1,0 +1,100 @@
+---
+id: EURegulation9301973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 930/73 of the Commission of 3 April 1973 temporarily
+    suspending the application in the new Member States of certain provisions of Regulation
+    (EEC) No 1769/72 on accompanying documents and records for products in the wine
+    sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 930/73 de la Commission, du 3 avril 1973, suspendant,
+    provisoirement, pour les nouveaux États membres l'application de certaines dispositions
+    du règlement (CEE) n° 1769/72 relatif aux documents d'accompagnement et aux
+    registres dans le secteur viti- vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 930/73 der Kommission vom 3. April 1973 mit der die
+    Anwendung bestimmter Vorschriften der Verordnung (EWG) Nr. 1769/72 über die Begleitdokumente
+    und die Ein- und Ausgangsbücher in der Weinwirtschaft für die neuen Mitgliedstaaten
+    vorübergehend ausgesetzt wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 930/73 af 3. april 1973 om midlertidig
+    ophævelse for de nye medlemsstaters vedkommende af anvendelse af visse bestemmelser
+    i forordning (EØF) nr. 1769/72 om ledsagedokumenter og til- og afgangsbøger
+    inden for vinsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 930/73 della Commissione, del 3 aprile 1973, che sospende
+    provvisoriamente per i nuovi Stati membri l'applicazione di alcune disposizioni
+    del regolamento (CEE) n. 1769/72 relativo ai documenti di accompagnamento e ai
+    registri nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 930/73 van de Commissie van 3 april 1973 houdende
+    voorlopige opschorting voor de nieuwe Lid-Staten van de toepassing van sommige
+    bepalingen van Verordening (EEG) nr. 1769/72 tot invoering van geleidedocumenten
+    en met betrekking tot de registers in de wijnsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0930
+docidentifier:
+- content: EU Regulation 930/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0930
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/930/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-03'
+- type: implemented
+  at: '1973-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1769
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,84 @@
+---
+id: EUDecision1968380
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 30 septembre 1968, portant octroi du concours
+    du Fonds social européen au bénéfice de la République fédérale d'Allemagne
+    pour des dépenses relatives à des opérations de rééducation professionnelle
+    effectuées par la "Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung
+    (BAVAV)" et la "Seekasse"
+  type: main
+- language: de
+  script: Latn
+  content: '68/380/EWG: Entscheidung der Kommission vom 30. September 1968 über die
+    Gewährung eines Zuschusses aus dem ESF an die Bundesrepublik Deutschland für
+    von der Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung (BAVAV)
+    und der Seekasse durchgeführte Maßnahmen der Berufsumschulung'
+  type: main
+- language: it
+  script: Latn
+  content: '68/380/CEE: Decisione della Commissione, del 30 settembre 1968, relativa
+    alla concessione di un contributo del FSE a favore della Repubblica federale di
+    Germania per spese concernenti operazioni di rieducazione professionale effettuate
+    dal «Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung (BAVAV)»
+    e dalla «Seekasse»'
+  type: main
+- language: nl
+  script: Latn
+  content: '68/380/EEG: Beschikking van de Commissie van 30 september 1968 houdende
+    toekenning van een bijdrage uit het E.S.F. ten gunste van de Bondsrepubliek Duitsland
+    voor door de "Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung
+    (BAVAV)" en de "Seekasse" gemaakte herscholingskosten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968D0380
+docidentifier:
+- content: EU Decision 1968/380
+  type: EU
+  primary: true
+- content: CELEX 31968D0380
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1968/380/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962D0011
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

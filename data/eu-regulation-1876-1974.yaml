@@ -1,0 +1,88 @@
+---
+id: EURegulation18761974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1876/74 of the Council of 15 July 1974 concerning the
+    addition of alcohol to products in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1876/74 du Conseil, du 15 juillet 1974, concernant
+    l' adjonction d' alcool aux produits relevant du secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1876/74 des Rates vom 15. Juli 1974 über den Zusatz
+    von Alkohol zu Erzeugnissen des Weinsektors
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1876/74 af 15. juli 1974 om tilsætning af
+    alkohol til vinsektorens produkter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1876/74 del Consiglio, del 15 luglio 1974, concernente
+    l' aggiunta di alcole ai prodotti del settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1876/74 van de Raad van 15 juli 1974 betreffende
+    de toevoeging van alcohol aan tot de wijnsector behorende produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1876
+docidentifier:
+- content: EU Regulation 1876/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1876
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1876/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-15'
+- type: implemented
+  at: '1974-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1093
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,82 @@
+---
+id: EURegulation171972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 17/72 de la Commission, du 31 décembre 1971, fixant
+    les montants compensatoires valables à partir du 3 janvier 1972 dans le secteur
+    agricole à la suite de l'élargissement temporaire des marges de fluctuation
+    des monnaies de certains États membres, à l'exclusion des montants valables
+    pour les marchandises relevant du règlement (CEE) n° 1059/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 17/72 der Kommission vom 31. Dezember 1971 zur Festsetzung
+    der ab 3. Januar 1972 geltenden Ausgleichsbeträge in der Landwirtschaft im Anschluß
+    an die vorübergehende Erweiterung der Bandbreiten der Währungen einiger Mitgliedstaaten,
+    ausgenommen die Beträge für die unter die Verordnung (EWG) Nr. 1059/69 fallenden
+    Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 17/72 della Commissione, del 31 dicembre 1971, che
+    fissa gli importi di compensazione valevoli a partire dal 3 gennaio 1972 nel settore
+    agricolo in seguito all'ampliamento temporaneo dei margini di fluttuazione delle
+    monete di alcuni Stati membri, esclusi gli importi valevoli per le merci comprese
+    nel regolamento (CEE) n. 1059/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 17/72 van de Commissie van 31 december 1971 houdende
+    vaststelling van de compenserende bedragen, geldig met ingang van 3 januari 1972
+    in de landbouwsector naar aanleiding van de tijdelijke verruiming van de fluctuatiemarges
+    van de valuta's van sommige Lid-Staten, met uitzondering van de bedragen die gelden
+    voor de produkten vallende onder Verordening (EEG) nr. 1059/69
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0017
+docidentifier:
+- content: EU Regulation 17/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0017
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/17/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-31'
+- type: implemented
+  at: '1972-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EURegulation20041970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2004/70 de la Commission, du 6 octobre 1970, portant
+    abrogation du règlement (CEE) n° 1834/70 constatant la situation de crise grave
+    du marché des pommes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2004/70 der Kommission vom 6. Oktober 1970 zur Aufhebung
+    der Verordnung (EWG) Nr. 1834/70 zur Feststellung einer ernsten Krise auf dem
+    Apfelmarkt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2004/70 della Commissione, del 6 ottobre 1970, che
+    abroga il regolamento (CEE) n. 1834/70 con cui si constata la situazione di crisi
+    grave del mercato delle mele
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2004/70 van de Commissie van 6 oktober 1970 tot intrekking
+    van Verordening (EEG) nr. 1834/70 houdende constatering van een ernstige crisis
+    op de markt van appelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2004
+docidentifier:
+- content: EU Regulation 2004/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2004
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2004/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-06'
+- type: implemented
+  at: '1970-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1834
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

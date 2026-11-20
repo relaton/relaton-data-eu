@@ -1,0 +1,113 @@
+---
+id: EURegulation15521979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1552/79 of 24 July 1979 amending Regulation
+    (EEC) No 1418/76 on the common organization of the market in rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1552/79 du Conseil, du 24 juillet 1979, modifiant
+    le règlement (CEE) n° 1418/76 portant organisation commune du marché du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1552/79 des Rates vom 24. Juli 1979 zur Änderung
+    der Verordnung (EWG) Nr. 1418/76 über die gemeinsame Marktorganisation für Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1552/79 af 24. juli 1979 om ændring af forordning
+    (EØF) nr. 1418/76 om den fælles markedsordning for ris
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1552/79 του Συμβουλίου
+    της 24ης Ιουλίου 1979 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 1418/76 «περί κοινής οργανώσεως αγοράς
+    της ορύζης»
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 1552/79, annettu 24 päivänä heinäkuuta 1979,
+    riisin yhteisestä markkinajärjestelystä annetun asetuksen (ETY) N:o 1418/76
+    muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1552/79 del Consiglio, del 24 luglio 1979, che modifica
+    il regolamento (CEE) n. 1418/76 relativo all' organizzazione comune del mercato
+    del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1552/79 van de Raad van 24 juli 1979 tot wijziging
+    van Verordening (EEG) nr. 1418/76 houdende een gemeenschappelijke ordening van
+    de rijstmarkt
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 1552/79 av den 24 juli 1979 om ändring av
+    förordning (EEG) nr 1418/76 om den gemensamma organisationen av marknaden för
+    ris
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1552
+docidentifier:
+- content: EU Regulation 1552/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1552
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1552/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-24'
+- type: implemented
+  at: '1979-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1418
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

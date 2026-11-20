@@ -1,0 +1,74 @@
+---
+id: EURegulationNo20301972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2030/72 de la Commission, du 25 septembre 1972, fixant
+    les conditions d'une adjudication pour la vente de graines de colza et de navette
+    détenues par l'organisme d'intervention néerlandais
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2030/72 der Kommission vom 25. September 1972 zur
+    Festlegung der Ausschreibungsbedingungen für den Verkauf von im Besitz der niederländischen
+    Interventionsstelle befindlichen Raps- und Rübsensamen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2030/72 della Commissione, del 25 settembre 1972,
+    che fissa le condizioni per la vendita all'asta di semi di colza e di ravizzone
+    detenuti dall'organismo d'intervento olandese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2030/72 van de Commissie van 25 september 1972 tot
+    vaststelling van de voorwaarden voor het houden van een openbare inschrijving
+    voor de afzet van kool- en raapzaad in het bezit van het Nederlandse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2030
+docidentifier:
+- content: EU Regulation No 2030/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2030
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2030/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-25'
+- type: implemented
+  at: '1972-09-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

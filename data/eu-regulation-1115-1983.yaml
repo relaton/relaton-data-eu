@@ -1,0 +1,98 @@
+---
+id: EURegulation11151983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1115/83 of 6 May 1983 amending Regulation
+    (EEC) No 3606/82 as regards amounts expressed in ECU
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1115/83 de la Commission du 6 mai 1983 modifiant le
+    règlement (CEE) no 3606/82 en ce qui concerne les montants exprimés en Écus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1115/83 der Kommission vom 6. Mai 1983 zur Änderung
+    der Verordnung (EWG) Nr. 3606/82 hinsichtlich der in ECU ausgedrückten Beträge
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1115/83 af 6. maj 1983 om ændring
+    af forordning (EØF) nr. 3606/82 for så vidt angår beløb udtrykt i ECU
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1115/83 της Επιτροπής
+    της 6ης Μαΐου 1983 για την τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 3606/82 όσον αφορά τα ποσά που εκφράζονται
+    σε ECU
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1115/83 della Commissione del 6 maggio 1983 recante
+    modifica del regolamento (CEE) n. 3606/82 per quanto concerne gli importi espressi
+    in ECU
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1115/83 van de Commissie van 6 mei 1983 tot wijziging
+    van Verordening (EEG) nr. 3606/82 voor wat de in Ecu uitgedrukte bedragen betreft
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1115
+docidentifier:
+- content: EU Regulation 1115/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1115
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1115/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-05-06'
+- type: implemented
+  at: '1983-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R3606
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

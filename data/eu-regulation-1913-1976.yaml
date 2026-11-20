@@ -1,0 +1,96 @@
+---
+id: EURegulation19131976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1913/76 of 2 August 1976 completing Annex
+    II of Regulation (EEC) No 1785/76 of 22 July 1976 on the offering for sale of
+    olive oil held by the Italian intervention agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1913/76 de la Commission, du 2 août 1976, complétant
+    l'annexe II du règlement (CEE) n° 1785/76, du 22 juillet 1976, relatif à la
+    mise en vente de l'huile d'olive détenue par l'organisme d'intervention italien
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1913/76 der Kommission vom 2. August 1976 zur Ergänzung
+    von Anhang II der Verordnung (EWG) Nr. 1785/76 der Kommission vom 22. Juli 1976
+    über den Absatz von Olivenöl aus Beständen der italienischen Interventionsstelle
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1913/76 af 2. august 1976 om komplettering
+    af bilag II til Kommissionens forordning (EØF) nr. 1785/76 af 22. juli 1976 om
+    afsætning af olivenolie, som det italienske interventionsorgan ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1913/76 della Commissione, del 2 agosto 1976, che
+    completa l'allegato II del regolamento (CEE) n. 1785/76 della Commissione, del
+    22 luglio 1976, relativo all'immissione in commercio dell'olio d'oliva detenuto
+    dall'organismo d'intervento italiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1913/76 van de Commissie van 2 augustus 1976 houdende
+    aanvulling van bijlage II bij Verordening (EEG) nr. 1785/76 van de Commissie van
+    22 juli 1976 inzake de verkoop van olijfolie die in het bezit is van het Italiaanse
+    interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1913
+docidentifier:
+- content: EU Regulation 1913/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1913
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1913/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-08-02'
+- type: implemented
+  at: '1976-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1785
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

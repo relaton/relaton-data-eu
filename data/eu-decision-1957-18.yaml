@@ -1,0 +1,87 @@
+---
+id: EUDecision195718
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision n° 18-57 du 26 juillet 1957 complétant et modififiant la décision
+    n° 7-56 du 15 février 1956 relative à l'autorisation de la vente en commun
+    de combustibles par les sociétés minières du bassin de la Ruhr groupées au
+    sein du Comptoir de vente du charbon de la Ruhr «Mausegatt» (société à responsabilité
+    limitée)
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung Nr. 18/57 vom 26. Juli 1957 über die Ergänzung und Änderung
+    der Entscheidung Nr. 7/56 vom 15. Februar 1956 über die Genehmigung des gemeinschaftlichen
+    Verkaufs von Brennstoffen durch die in der "Mausegatt" Ruhrkohlen-Verkaufsgesellschaft
+    mit beschränkter Haftung zusammengeschlossenen Bergwerksgesellschaften des Ruhrreviers
+  type: main
+- language: it
+  script: Latn
+  content: Decisione N° 18-57 del 26 luglio 1957 che completa e modifica la decisione
+    N° 7-56 del 15 febbraio 1956, relativa all'autorizzazione della vendita in comune
+    di combustibili da parte delle società minerarie del bacino della Ruhr raggruppate
+    in seno all'Ufficio di vendita del carbone della Ruhr «Mausegatt» (società
+    a responsabilità limitata)
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking No. 18-57 van 26 juli 1957 strekkende tot aanvulling en wijziging
+    van Beschikking No. 7-56 van 15 februari 1956 houdende ontheffing van de verbodsbepaling
+    inzake de gemeenschappelijke verkoop van brandstoffen door de in de "Mausegatt"
+    Ruhrkohlen- Verkaufsgesellschaft m.b.H. verenigde kolenmijnondernemingen van het
+    Ruhrbekken
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31957D0018
+docidentifier:
+- content: EU Decision 1957/18
+  type: EU
+  primary: true
+- content: CELEX 31957D0018
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1957/18/oj
+  type: ELI
+date:
+- type: issued
+  at: '1957-07-26'
+- type: implemented
+  at: '1957-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: High Authority
+    abbreviation:
+      content: ECSC_HA
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31956D0007
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

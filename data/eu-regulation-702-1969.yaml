@@ -1,0 +1,69 @@
+---
+id: EURegulation7021969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 702/69 de la Commission, du 17 avril 1969, fixant les
+    restitutions pour les céréales et les farines, gruaux et semoules de froment
+    ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 702/69 der Kommission vom 17. April 1969 zur Festsetzung
+    der für Getreide, Mehle, Grütze und Grieß von Weizen oder Roggen anzuwendenden
+    Erstattungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 702/69 della Commissione, del 17 aprile 1969, che
+    fissa le restituzioni per i cereali e le farine, semole e semolini di frumento
+    o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 702/69 van de Commissie van 17 april 1969 houdende
+    vaststelling van de restituties voor granen en meel, grutten, gries en griesmeel
+    van tarwe en rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0702
+docidentifier:
+- content: EU Regulation 702/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0702
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/702/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

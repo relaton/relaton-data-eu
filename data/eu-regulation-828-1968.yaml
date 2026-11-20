@@ -1,0 +1,80 @@
+---
+id: EURegulation8281968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 828/68 du Conseil, du 28 juin 1968, modifiant à nouveau
+    le règlement (CEE) n° 355/68 en ce qui concerne la prolongation de la campagne
+    laitière 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 828/68 des Rates vom 28. Juni 1968 zur erneuten Änderung
+    der Verordnung (EWG) Nr. 355/68 hinsichtlich der Verlängerung des Milchwirtschaftsjahres
+    1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 828/68 del Consiglio, del 28 giugno 1968, che modifica
+    nuovamente il regolamento (CEE) n. 355/68 per quanto concerne il prolungamento
+    della campagna lattiero-casearia 1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 828/68 van de Raad van 28 juni 1968 waarbij Verordening
+    (EEG) nr. 355/68 inzake de verlenging van het melkprijsjaar 1967/1968, wederom
+    wordt gewijzigd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0828
+docidentifier:
+- content: EU Regulation 828/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0828
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/828/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-28'
+- type: implemented
+  at: '1968-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0355
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,135 @@
+---
+id: EUDecision2001840
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '2001/840/EC: Council Decision of 29 November 2001 amending the Council''s
+    Rules of Procedure'
+  type: main
+- language: fr
+  script: Latn
+  content: '2001/840/CE: Décision du Conseil du 29 novembre 2001 modifiant le règlement
+    intérieur du Conseil'
+  type: main
+- language: de
+  script: Latn
+  content: '2001/840/EG: Beschluss des Rates vom 29. November 2001 zur Änderung der
+    Geschäftsordnung des Rates'
+  type: main
+- language: da
+  script: Latn
+  content: '2001/840/EF: Rådets afgørelse af 29. november 2001 om ændring af Rådets
+    forretningsorden'
+  type: main
+- language: el
+  script: Grek
+  content: '2001/840/ΕΚ: Απόφαση του Συμβουλίου, της 29ης
+    Νοεμβρίου 2001, για την τροποποίηση του εσωτερικού
+    κανονισμού του Συμβουλίου'
+  type: main
+- language: fi
+  script: Latn
+  content: '2001/840/EY: Neuvoston päätös, tehty 29 päivänä marraskuuta 2001,
+    neuvoston työjärjestyksen muuttamisesta'
+  type: main
+- language: it
+  script: Latn
+  content: '2001/840/CE: Decisione del Consiglio, del 29 novembre 2001, che modifica
+    il regolamento interno del Consiglio'
+  type: main
+- language: nl
+  script: Latn
+  content: '2001/840/EG: Besluit van de Raad van 29 november 2001 tot wĳziging van
+    het reglement van orde van de Raad'
+  type: main
+- language: pt
+  script: Latn
+  content: '2001/840/CE: Decisão do Conselho, de 29 de Novembro de 2001, que altera
+    o Regulamento Interno do Conselho'
+  type: main
+- language: es
+  script: Latn
+  content: '2001/840/CE: Decisión del Consejo, de 29 de noviembre de 2001, por la
+    que se modifica el Reglamento interno del Consejo'
+  type: main
+- language: sv
+  script: Latn
+  content: '2001/840/EG: Rådets beslut av den 29 november 2001 om ändring av rådets
+    arbetsordning'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001D0840
+docidentifier:
+- content: EU Decision 2001/840
+  type: EU
+  primary: true
+- content: CELEX 32001D0840
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/2001/840/oj
+  type: ELI
+date:
+- type: issued
+  at: '2001-11-29'
+- type: implemented
+  at: '2001-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31993D0731
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 32000D0023
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 32001D0320
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32000D0396
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

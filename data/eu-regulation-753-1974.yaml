@@ -1,0 +1,95 @@
+---
+id: EURegulation7531974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 753/74 of the Commission of 29 March 1974 extending
+    the period of application of and amending of the protective measures relating
+    to beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 753/74 de la Commission, du 29 mars 1974, portant
+    reconduction sous forme modifiée, des mesures de sauvegarde dans le secteur de
+    la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 753/74 der Kommission vom 29. März 1974 zur Fortführung
+    der Schutzmaßnahmen für Rindfleisch in abgeänderter Form
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 753/74 af 29. marts 1974 om videreførsel
+    i ændret form af beskyttelsesforanstaltninger inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 753/74 della Commissione, del 29 marzo 1974, che proroga
+    in forma modificata le misure di salvaguardia nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 753/74 van de Commissie van 29 maart 1974 houdende
+    verlenging in gewijzigde vorm van de vrijwaringsmaatregelen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0753
+docidentifier:
+- content: EU Regulation 753/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0753
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/753/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-29'
+- type: implemented
+  at: '1974-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0474
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0442
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,134 @@
+---
+id: EURegulation972004
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 97/2004 of 21 January 2004 correcting Regulations
+    (EC) No 2281/2003 and (EC) No 2299/2003 determining the world market price for
+    unginned cotton
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 97/2004 de la Commission du 21 janvier 2004 rectifiant
+    les règlements (CE) n° 2281/2003 et (CE) n° 2299/2003 fixant le prix du marché
+    mondial du coton non égrené
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 97/2004 der Kommission vom 21. Januar 2004 zur Berichtigung
+    der Verordnungen (EG) Nr. 2281/2003 und (EG) Nr. 2299/2003 zur Festsetzung des
+    Weltmarktpreises für nicht entkörnte Baumwolle
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 97/2004 af 21. januar 2004 om berigtigelse
+    af forordning (EF) nr. 2281/2003 og (EF) nr. 2299/2003 om fastsættelse af verdensmarkedsprisen
+    for ikke-egreneret bomuld
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 97/2004 της Επιτροπής,
+    της 21ης Ιανουαρίου 2004, για τη διόρθωση των κανονισμών
+    (ΕΚ) αριθ. 2281/2003 και (ΕΚ) αριθ. 2299/2003 για τον καθορισμό
+    της τιμής της παγκόσμιας αγοράς του μη εκκοκκισμένου
+    βαμβακιού
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 97/2004, annettu 21 päivänä tammikuuta 2004,
+    puuvillan, josta siemeniä ei ole poistettu, maailmanmarkkinahinnan vahvistamisesta
+    annettujen asetusten (EY) N:o 2281/2003 ja (EY) N:o 2299/2003 oikaisemisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 97/2004 della Commissione, del 21 gennaio 2004, che
+    rettifica i regolamenti (CE) n. 2281/2003 e (CE) n. 2299/2003 che fissano il prezzo
+    del mercato mondiale del cotone non sgranato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 97/2004 van de Commissie van 21 januari 2004 houdende
+    rectificatie van de Verordeningen (EG) nr. 2281/2003 en (EG) nr. 2299/2003 tot
+    vaststelling van de wereldmarktprĳs voor niet-geëgreneerde katoen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 97/2004 da Comissão, de 21 de Janeiro de 2004, que
+    rectifica os Regulamentos (CE) n.° 2281/2003 e (CE) n.° 2299/2003 que fixam
+    o preço do mercado mundial do algodão não descaroçado
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 97/2004 de la Comisión, de 21 de enero de 2004, que
+    rectifica los Reglamentos (CE) n° 2281/2003 y (CE) n° 2299/2003 por los que
+    se establece el precio del mercado mundial del algodón sin desmotar
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 97/2004 av den 21 januari 2004 om rättelse
+    av förordningarna (EG) nr 2281/2003 och (EG) nr 2299/2003 om fastställande av
+    världsmarknadspriset på orensad bomull
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0097
+docidentifier:
+- content: EU Regulation 97/2004
+  type: EU
+  primary: true
+- content: CELEX 32004R0097
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2004/97/oj
+  type: ELI
+date:
+- type: issued
+  at: '2004-01-21'
+- type: implemented
+  at: '2003-12-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32003R2281
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32003R2299
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

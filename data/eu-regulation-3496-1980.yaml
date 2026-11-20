@@ -1,0 +1,136 @@
+---
+id: EURegulation34961980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3496/80 of 31 December 1980 amending Regulations
+    (EEC) No 1893/79, (EEC) No 2592/79 and (EEC) No 649/80, introducing registration
+    for crude oil and petroleum product imports in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3496/80 du Conseil, du 31 décembre 1980, modifiant
+    les règlements (CEE) n° 1893/79, (CEE) n° 2592/79 et (CEE) n° 649/80, instaurant
+    un enregistrement dans la Communauté des importations de pétrole brut et de
+    produits pétroliers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3496/80 des Rates vom 31. Dezember 1980 zur Änderung
+    der Verordnungen (EWG) Nr. 1893/79, (EWG) Nr. 2592/79 und (EWG) Nr. 649/80 zur
+    Schaffung einer Registrierung der Einfuhren von Rohöl und Mineralölerzeugnissen
+    in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3496/80 af 31. december 1980 om ændring
+    af forordning (EØF) nr. 1983/79, (EØF) nr. 2592/79 og (EØF) nr. 649/80 om indførelse
+    af en registrering i Fællesskabet af indførsler af råolie og mineralolieprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3496/80 τού Συμβουλίου
+    τής 31ης Δεκεμβρίου 1980 περί τροποποιήσεως τών
+    κανονισμών (ΕΟΚ) αριθ. 1893/79, (ΕΟΚ) αριθ. 2592/79 καί
+    (ΕΟΚ) αριθ. 649/80 «περί καθορισμού τών κανόνων
+    σύμφωνα μέ τούς οποίους πραγματοποιείται η
+    καταγραφή στήν Ευρωπαϊκή Οικονομική Κοινότητα
+    τών εισαγωγών προϊόντων πετρελαίου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3496/80 del Consiglio, del 31 dicembre 1980, che modifica
+    i regolamenti (CEE) n. 1893/79, (CEE) n. 2592/79 e (CEE) n. 649/80, che introducono
+    nella Comunità la registrazione delle importazioni di petrolio greggio e di prodotti
+    petroliferi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3496/80 van de Raad van 31 december 1980 tot wijziging
+    van de Verordening (EEG) nr. 1893/79, (EEG) nr. 2592/79 en (EEG) nr. 649/80 houdende
+    instelling van een registratie in de Gemeenschap van de invoer van ruwe aardolie
+    en aardolieprodukten
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 3496/80 do Conselho, de 31 de Dezembro de 1980,
+    que altera os Regulamentos (CEE) n.° 1893/79, (CEE) n.° 2592/79 e (CEE) n.°
+    649/80, que introduzem na Comunidade um registo das importações de petróleo
+    bruto e de produtos petrolíferos
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 3496/80 del Consejo, de 31 de diciembre de 1980, por
+    el que se modifican los Reglamentos (CEE) n° 1893/79, (CEE) n° 2592/79 y (CEE)
+    n° 649/80, que establecen un registro en la Comunidad de las importaciones de
+    petróleo crudo y de productos petrolíferos
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R3496
+docidentifier:
+- content: EU Regulation 3496/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R3496
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/3496/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-12-31'
+- type: implemented
+  at: '1980-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1893
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2592
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R0649
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

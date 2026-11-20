@@ -1,0 +1,99 @@
+---
+id: EURegulation14261982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1426/82 of 18 May 1982 amending Regulation
+    (EEC) No 1610/79 introducing supplementary aid for castor seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1426/82 du Conseil, du 18 mai 1982, modifiant le règlement
+    (CEE) n° 1610/79 instaurant une aide supplémentaire pour les graines de ricin
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1426/82 des Rates vom 18. Mai 1982 zur Änderung der
+    Verordnung (EWG) Nr. 1610/79 zur Einführung einer zusätzlichen Beihilfe für
+    Rizinussamena
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1426/82 af 18. maj 1982 om ændring af forordning
+    (EØF) nr. 1610/79 om indførelse af en tillægsstøtte til ricinusfrø1
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 1426/82 τού Συμβουλίου
+    τής 18ης Μαΐου 1982 περί τροποποιήσεως τού κανονισμού
+    (EOK) αριθ. 1610/79 περί καθορισμού συμπληρωματικής
+    ενισχύσεως γιά τούς σπόρους κίκεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1426/82 del Consiglio, del 18 maggio 1982, recante
+    modifica del regolamento (CEE) n. 1610/79 che istituisce un aiuto supplementare
+    per i semi di ricino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1426/82 van de Raad van 18 mei 1982 houdende wijziging
+    van Verordening (EEG) nr. 1610/79 tot instelling van extra steun voor ricinuszaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R1426
+docidentifier:
+- content: EU Regulation 1426/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R1426
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/1426/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-05-18'
+- type: implemented
+  at: '1982-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1610
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation251964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 25/64/CEE du Conseil, du 10 mars 1964, portant fixation
+    des limites inférieures et supérieures des prix d'orientation dans le secteur
+    de la viande bovine pour la campagne débutant le 1er avril 1964
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 25/64/EWG des Rats vom 10. März 1964 zur Festlegung der
+    unteren und oberen Grenzen der Orientierungspreise für Rindfleisch für das am
+    1. April 1964 beginnende Wirtschaftsjahr
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 25/64/CEE del Consiglio, del 10 marzo 1964, che fissa i
+    limiti minimi e massimi dei prezzi d'orientamento nel settore delle carni bovine
+    per la campagna di commercializzazione che inizia il 1 aprile 1964
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 25/64/EEG van de Raad van 10 maart 1964 houdende vaststelling
+    van de minimum- en maximumgrenzen van de oriëntatieprijzen in de sector rundvlees
+    voor het verkoopseizoen dat op 1 april 1964 begint
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0025
+docidentifier:
+- content: EU Regulation 25/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0025
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/25/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-03-10'
+- type: implemented
+  at: '1964-03-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

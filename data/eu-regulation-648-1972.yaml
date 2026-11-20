@@ -1,0 +1,84 @@
+---
+id: EURegulation6481972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 648/72 of the Council of 30 March 1972 fixing the threshold
+    prices for certain milk products for the 1972/73 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 648/72 du Conseil, du 30 mars 1972, fixant les prix
+    de seuil pour certains produits laitiers pour la campagne laitière 1972/1973
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 648/72 des Rates vom 30. März 1972 zur Festsetzung
+    der Schwellenpreise für bestimmte Milcherzeugnisse für das Milchwirtschaftsjahr
+    1972/1973
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 648/72 af 30. marts 1972 om fastsættelse
+    af tærskelpriser for visse mejeriprodukter for mejeriåret 1972/73
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 648/72 del Consiglio, del 30 marzo 1972, relativo
+    alla fissazione dei prezzi d' entrata di alcuni prodotti lattiero-caseari per
+    la campagna lattiera 1972/1973
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 648/72 van de Raad van 30 maart 1972 tot vaststelling
+    van de drempelprijzen voor bepaalde zuivelprodukten voor het melkprijsjaar 1972/1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0648
+docidentifier:
+- content: EU Regulation 648/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0648
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/648/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-30'
+- type: implemented
+  at: '1972-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,76 @@
+---
+id: EURegulation15541971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1554/71 du Conseil, du 19 juillet 1971, fixant, pour
+    la campagne 1971/1972, les prix du seuil du riz décortiqué et des brisures et
+    le montant de protection à inclure dans le prix de seuil du riz blanchi
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1554/71 des Rates vom 19. Juli 1971 zur Festsetzung
+    des Schwellenpreises für geschälten Reis und Bruchreis und des in den Schwellenpreis
+    für vollständig geschliffenen Reis einzubeziehenden Schutzbetrags für das Wirtschaftsjahr
+    1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1554/71 del Consiglio, del 19 luglio 1971, che fissa,
+    per la campagna 1971/1972, i prezzi d'entrata del riso semigreggio e delle rotture
+    di riso e l'importo di protezione da includere nel prezzo d'entrata del riso lavorato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1554/71 van de Raad van 19 juli 1971 houdende vaststelling
+    voor het verkoopseizoen 1971/1972 van de drempelprijzen voor gedopte rijst en
+    breukrijst en van het in de drempelprijs voor volwitte rijst op te nemen bedrag
+    voor industriële bescherming
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1554
+docidentifier:
+- content: EU Regulation 1554/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1554
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1554/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-19'
+- type: implemented
+  at: '1971-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

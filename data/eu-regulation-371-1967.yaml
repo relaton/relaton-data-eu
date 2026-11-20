@@ -1,0 +1,88 @@
+---
+id: EURegulation3711967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 371/67/EEC of the Council of 25 July 1967 fixing production
+    refunds on starches and quellmehl
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 371/67/CEE du Conseil, du 25 juillet 1967, fixant les restitutions
+    à la production pour les amidons, la fécule et le quellmehl
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 371/67/EWG des Rates vom 25. Juli 1967 zur Festsetzung der
+    Erstattung bei der Erzeugung von Getreide- und Kartoffelstärke und Quellmehl
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 371/67/EØF af 25. juli 1967 om fastsættelse af
+    produktionsrestitutioner for korn- og kartoffelstivelse og kvældemel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 371/67/CEE del Consiglio, del 25 luglio 1967, che fissa
+    le restituzioni alla produzione per gli amidi, la fecola e il quellmehl
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 371/67/EEG van de Raad van 25 juli 1967 tot vaststelling
+    van de restituties bij de produktie van zetmeel en Quellmehl
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0371
+docidentifier:
+- content: EU Regulation 371/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0371
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/371/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-25'
+- type: implemented
+  at: '1967-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0178
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

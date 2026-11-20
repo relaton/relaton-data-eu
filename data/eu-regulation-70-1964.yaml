@@ -1,0 +1,65 @@
+---
+id: EURegulation701964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 70/64/CEE de la Commission, du 24 juin 1964, fixant un montant
+    supplémentaire pour les oeufs entiers - liquides ou congelés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 70/64/EWG der Kommission vom 24. Juni 1964 zur Festsetzung
+    eines Zusatzbetrags für flüssiges oder gefrorenes Vollei
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 70/64/CEE della Commissione, del 24. giugno 1964, che fissa
+    un importo supplementare per le uova intere, liquide o congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 70/64/EEG van de Commissie van 24 juni 1964 tot vaststelling
+    van een extra-bedrag voor vloeibaar of bevroren heelei
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0070
+docidentifier:
+- content: EU Regulation 70/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0070
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/70/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

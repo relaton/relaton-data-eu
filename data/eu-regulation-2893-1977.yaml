@@ -1,0 +1,115 @@
+---
+id: EURegulation28931977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2893/77 of 20 December 1977 amending Regulation
+    (EEC) No 2396/71 implementing the Council Decision of 1 February 1971 on the reform
+    of the European Social Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2893/77 du Conseil, du 20 décembre 1977, modifiant
+    le règlement (CEE) n° 2396/71 portant application de la décision du Conseil,
+    du 1er février 1971, concernant la réforme du Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2893/77 des Rates vom 20. Dezember 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2396/71 zur Durchführung des Beschlusses des Rates vom
+    1. Februar 1971 über die Reform des Europäischen Sozialfonds
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2893/77 af 20. december 1977 om ændring
+    af forordning (EØF) nr. 2396/71 om gennemførelse af Rådets afgørelse af 1.
+    februar 1971 om reformen af Den europæiske Socialfond
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2893/77 τού Συμβουλίου
+    τής 20ής Δεκεμβρίου 1977 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 2396/71 «περί εφαρμογής
+    τής αποφάσεως τού Συμβουλίου τής 1ης Φεβρουαρίου
+    1971 περί αναμορφώσεως τού Ευρωπαϊκού Κοινωνικού
+    Ταμείου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2893/77 del Consiglio, del 20 dicembre 1977, che modifica
+    il regolamento (CEE) n. 2396/71, recante applicazione della decisione del Consiglio
+    del 1° febbraio 1971 relativa alla riforma del Fondo sociale europeo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2893/77 van de Raad van 20 december 1977 tot wijziging
+    van Verordening (EEG) nr. 2396/71 ter uitvoering van het Besluit van de Raad van
+    1 februari 1971 betreffende de hervorming van het Europees Sociaal Fonds
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2893
+docidentifier:
+- content: EU Regulation 2893/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2893
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2893/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-20'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2397
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2398
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2396
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,68 @@
+---
+id: EURegulation9221969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 922/69 de la Commission, du 19 mai 1969, relatif à
+    une adjudication pour l'écoulement de beurre de stock détenu par l'organisme
+    d'intervention néerlandais et destiné à la transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 922/69 der Kommission vom 19. Mai 1969 über eine
+    Ausschreibung zum Absatz von Butter aus den Beständen der niederländischen Interventionsstelle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 922/69 della Commissione, del 19 maggio 1969, relativo
+    ad un'asta per lo smaltimento di burro d'ammasso in possesso dell'organismo d'intervento
+    olandese e destinato alla trasformazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 922/69 van de Commissie van 19 mei 1969 betreffende
+    de afzet door middel van verkoop bij inschrijving van door het Nederlandse interventiebureau
+    opgeslagen boter bestemd voor verwerking
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0922
+docidentifier:
+- content: EU Regulation 922/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0922
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/922/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

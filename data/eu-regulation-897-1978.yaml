@@ -1,0 +1,88 @@
+---
+id: EURegulation8971978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 897/78 of 28 April 1978 repealing the protective
+    measures applicable to imports of frozen squid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 897/78 de la Commission, du 28 avril 1978, abrogeant
+    les mesures de sauvegarde applicables à l'importation de calmars congelés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 897/78 der Kommission vom 28. April 1978 zur Aufhebung
+    der Schutzmaßnahmen bei der Einfuhr gefrorener Kalmare
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 897/78 af 28. april 1978 om ophævelse
+    af beskyttelsesforanstaltningerne mod indførsel af frosne tiarmede blæksprutter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 897/78 della Commissione, del 28 aprile 1978, che
+    abroga le misure di salvaguardia applicabili all'importazione di calamari congelati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 897/78 van de Commissie van 28 april 1978 tot intrekking
+    van de vrijwaringsmaatregelen ten aanzien van de invoer van bevroren pijlinktvis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0897
+docidentifier:
+- content: EU Regulation 897/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0897
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/897/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-04-28'
+- type: implemented
+  at: '1978-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2619
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

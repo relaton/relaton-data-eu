@@ -1,0 +1,74 @@
+---
+id: EURegulation27171971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2717/71 de la Commission, du 21 décembre 1971, relatif
+    à l'exception temporaire accordée pour la commercialisation de crevettes du
+    genre "crangon" SP. P. débarquées dans les ports du Royaume de Belgique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2717/71 der Kommission vom 21. Dezember 1971 über
+    die befristete Ausnahme von der Vermarktung von in den Häfen des Königreichs
+    Belgien angelandeten Garnelen der Crangon-Arten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2717/71 della Commissione, del 21 dicembre 1971, relativo
+    alla eccezione temporanea accordata per la commercializzazione dei gamberetti
+    del genere « Crangon » sp. p. sbarcati nei porti del Regno del Belgio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2717/71 van de Commissie van 21 december 1971 houdende
+    tijdelijke afwijking van de bepalingen voor het in de handel brengen van garnalen
+    van de Crangonsoorten gelost in havens van het Koninkrijk België
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2717
+docidentifier:
+- content: EU Regulation 2717/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2717
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2717/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-21'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation5281974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 528/74 of the Commission of 5 March 1974 on a fourth
+    amendment to Regulation (EEC) No 1020/70 on recording quotations and fixing average
+    prices for table wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 528/74 de la Commission, du 5 mars 1974, portant quatrième
+    modification du règlement (CEE) n° 1020/70 concernant la constatation des cours
+    et la fixation des prix moyens pour les vins de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 528/74 der Kommission vom 5. März 1974 zur vierten
+    Änderung der Verordnung (EWG) Nr. 1020/70 über die Feststellung der Kurse und
+    die Festsetzung der Durchschnittspreise für Tafelwein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 528/74 af 5. marts 1974 om fjerde ændring
+    af forordning (EØF) nr. 1020/70 om konstatering af priser på og fastsættelse
+    af gennemsnitspriser for bordvin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 528/74 della Commissione, del 5 marzo 1974, recante
+    quarta modifica del regolamento (CEE) n. 1020/70, che constata i corsi e fissa
+    i prezzi medi per i vini da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 528/74 van de Commissie van 5 maart 1974 houdende
+    vierde wijziging van Verordening (EEG) nr. 1020/70 betreffende het constateren
+    van de prijzen en de vaststelling van de gemiddelde prijzen voor tafelwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0528
+docidentifier:
+- content: EU Regulation 528/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0528
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/528/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-05'
+- type: implemented
+  at: '1974-03-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1020
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

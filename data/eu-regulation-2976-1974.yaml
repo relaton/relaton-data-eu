@@ -1,0 +1,98 @@
+---
+id: EURegulation29761974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2976/74 of the Commission of 26 November 1974 amending
+    Regulation (EEC) No 2500/73 on the advance fixing of refunds and the period of
+    validity of export licences for milk and milk products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2976/74 de la Commission, du 26 novembre 1974, modifiant
+    le règlement (CEE) n° 2500/73 relatif à la fixation à l' avance des restitutions
+    et à la durée de validité des certificats d' exportation dans le secteur du
+    lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2976/74 der Kommission vom 26. November 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2500/73 über die Vorausfestsetzung der Erstattungen
+    und die Gültigkeitsdauer der Ausfuhrlizenzen für Milch und Milcherzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2976/74 af 26. november 1974 om ændring
+    af forordning (EØF) nr. 2500/73 om forudfastsættelse af restitutionerne og om
+    fastsættelse af gyldighedsperioden for eksportlicenser for så vidt angår mælk
+    og mejeriprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2976/74 della Commissione, del 26 novembre 1974, che
+    modifica il regolamento (CEE) n. 2500/73 relativo alla fissazione in anticipo
+    delle restituzioni ed alla durata di validità dei titoli di esportazione nel
+    settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2976/74 van de Commissie van 26 november 1974 houdende
+    wijziging van Verordening (EEG) nr. 2500/73 voor het vooraf vaststellen van de
+    restituties en de geldigheidsduur van de uitvoercertificaten in de sector melk
+    en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2976
+docidentifier:
+- content: EU Regulation 2976/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2976
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2976/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-26'
+- type: implemented
+  at: '1974-11-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2500
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

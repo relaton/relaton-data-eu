@@ -1,0 +1,65 @@
+---
+id: EURegulation12721972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1272/72 de la Commission, du 20 juin 1972, fixant les
+    prix moyens à la production dans le secteur du vin
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1272/72 der Kommission vom 20. Juni 1972 zur Festsetzung
+    der durchschnittlichen Erzeugerpreise für Wein
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1272/72 della Commissione, del 20 giugno 1972, che
+    fissa i prezzi medi alla produzione nel settore del vino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1272/72 van de Commissie van 20 juni 1972 houdende
+    vaststelling van de gemiddelde produktieprijzen in de sector wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1272
+docidentifier:
+- content: EU Regulation 1272/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1272
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1272/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

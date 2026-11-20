@@ -1,0 +1,94 @@
+---
+id: EURegulationNo20631974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2063/74 of the Council of 1 August 1974 amending Regulation
+    (EEC) No 2829/72 on the Community quota for the carriage of goods by road between
+    Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2063/74 du Conseil, du 1er août 1974, modifiant le
+    règlement (CEE) n° 2829/72 relatif au contingent communautaire pour les transports
+    de marchandises par route effectués entre États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2063/74 des Rates vom 1. August 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2829/72 über das Gemeinschaftskontingent für den Güterkraftverkehr
+    zwischen den Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2063/74 af 1. august 1974 om ændring af
+    forordning (EØF) nr. 2829/72 om fællesskabskontingentet for godstransport af
+    landevej mellem medlemsstaterne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2063/74 del Consiglio, del 1 agosto 1974, che modifica
+    il regolamento (CEE) n. 2829/72 relativo al contingente comunitario per i trasporti
+    di merci su strada effettuati tra Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2063/74 van de Raad van 1 augustus 1974 tot wijziging
+    van Verordening (EEG) nr. 2829/72 betreffende het communautaire contingent voor
+    het goederenvervoer over de weg tussen de Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2063
+docidentifier:
+- content: EU Regulation No 2063/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2063
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2063/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-08-01'
+- type: implemented
+  at: '1974-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2829
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

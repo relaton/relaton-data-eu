@@ -1,0 +1,80 @@
+---
+id: EURegulation8621968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 862/68 de la Commission, du 28 juin 1968, modifiant
+    le règlement n° 284/67/CEE relatif à certaines modalités d'application des
+    restitutions à l'exportation des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 861/68 der Kommission vom 28. Juni 1968 zur Verlängerung
+    der Verordnung Nr. 224/67/EWG mit Durchführungsbestimmungen über die Beihilfe
+    für Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 861/68 della Commissione, del 28 giugno 1968, che
+    proroga il regolamento n. 224/67/CEE relativo a talune modalità riguardanti l'integrazione
+    per i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 861/68 van de Commissie van 28 juni 1968 houdende
+    verlenging van de geldigheidsduur van Verordening nr. 224/67/EEG houdende enkele
+    bepalingen betreffende de steun van oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0862
+docidentifier:
+- content: EU Regulation 862/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0862
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/862/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-28'
+- type: implemented
+  at: '1968-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0284
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,85 @@
+---
+id: EURegulationNo20731969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2073/69 de la Commission, du 22 octobre 1969, modifiant
+    les règlements (CEE) n° 1285/69 relatifs à des adjudications permanentes de
+    lait écrémé en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2073/69 der Kommission vom 22. Oktober 1969 zur Änderung
+    der Verordnungen (EWG) Nrn. 1285/69 und 1286/69 über Dauerausschreibungen für
+    Magermilchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2073/69 della Commissione, del 22 ottobre 1969, che
+    modifica i regolamenti (CEE) n. 1285/69 e (CEE) n. 1286/69 relativi ad aste permanenti
+    per il latte scremato in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2073/69 van de Commissie van 22 oktober 1969 tot
+    wijziging van de Verordeningen (EEG) nr. 1285/69 en (EEG) nr. 1286/69 betreffende
+    de permanente verkoop bij inschrijving van magere- melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2073
+docidentifier:
+- content: EU Regulation No 2073/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2073
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2073/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-22'
+- type: implemented
+  at: '1969-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1285
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1286
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

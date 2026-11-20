@@ -1,0 +1,83 @@
+---
+id: EURegulation2661970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 266/70 de la Commission, du 12 février 1970, relatif
+    à la diminution du montant compensatoire, applicable dans le secteur du sucre
+    à certaines exportations françaises vers les pays tiers et complétant le règlement
+    (CEE) n° 1669/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 266/70 der Kommission vom 12. Februar 1970 zur Verminderung
+    des im Zuckersektor auf bestimmte französische Ausfuhren nach Drittländern anwendbaren
+    Ausgleichsbetrags und zur Ergänzung der Verordnung (EWG) Nr. 1669/69
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 266/70 della Commissione, del 12 febbraio 1970, che
+    diminuisce l'importo di compensazione applicabile nel settore dello zucchero ad
+    alcune esportazioni francesi verso i paesi terzi ed integra il regolamento (CEE)
+    n. 1669/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 266/70 van de Commissie van 12 februari 1970 betreffende
+    de vermindering van het compenserende bedrag dat in de sector suiker geheven wordt
+    bij bepaalde uitvoertransacties van Frankrijk naar derde landen, en houdende aanvulling
+    van Verordening (EEG) nr. 1669/69
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0266
+docidentifier:
+- content: EU Regulation 266/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0266
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/266/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-12'
+- type: implemented
+  at: '1969-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1669
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

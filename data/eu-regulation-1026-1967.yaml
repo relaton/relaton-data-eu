@@ -1,0 +1,80 @@
+---
+id: EURegulation10261967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 1026/67/CEE du Conseil, du 19 décembre 1967, prorogation
+    du règlement n° 3/63/CEE relatif aux relations commerciales avec les pays à
+    commerce d'état en ce qui concerne certains produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 1026/67/EWG des Rates vom 19. Dezember 1967 zur Verlängerung
+    der Geltungsdauer der Verordnung Nr. 3/63/EWG über die Handelsbeziehungen zu
+    den Staatshandelsländern bei bestimmten landwirtschaftlichen Erzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 1026/67/CEE del Consiglio, del 19 dicembre 1967, che proroga
+    il regolamento n. 3/63/CEE relativo alle relazioni commerciali con i paesi a commercio
+    di Stato per quanto concerne taluni prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 1026/67/EEG van de Raad van 19 december 1967 houdende verlenging
+    van Verordening Nr. 3/63/EEG inzake de handelsbetrekkingen met de landen met staatshandel
+    betreffende sommige landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R1026
+docidentifier:
+- content: EU Regulation 1026/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R1026
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/1026/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-19'
+- type: implemented
+  at: '1967-12-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0003
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

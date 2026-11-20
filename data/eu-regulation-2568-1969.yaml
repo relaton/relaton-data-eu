@@ -1,0 +1,80 @@
+---
+id: EURegulation25681969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2568/69 de la Commission, du 22 décembre 1969, modifiant
+    le règlement (CEE) n° 1803/69 portant dispositions particulières en ce qui
+    concerne la dénaturation du froment tendre de la récolte 1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2568/69 der Kommission vom 22. Dezember 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1803/69 über besondere Vorschriften zur Denaturierung
+    von Weichweizen der Ernte 1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2568/69 della Commissione, del 22 dicembre 1969, che
+    modifica il regolamento (CEE) n. 1803/69 relativo a disposizioni particolari per
+    quanto riguarda la denaturazione del frumento tenero del raccolto 1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2568/69 van de Commissie van 22 december 1969 tot
+    wijziging van Verordening (EEG) nr. 1803/69 houdende bijzondere bepalingen betreffende
+    de denaturering van zachte tarwe voor de oogst 1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2568
+docidentifier:
+- content: EU Regulation 2568/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2568
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2568/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-22'
+- type: implemented
+  at: '1969-09-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1803
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

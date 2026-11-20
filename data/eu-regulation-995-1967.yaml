@@ -1,0 +1,66 @@
+---
+id: EURegulation9951967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 995/67/CEE de la Commission, du 14 décembre 1967, portant
+    fixation des restitutions pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 995/67/EWG der Kommission vom 14. Dezember 1967 zur Festsetzung
+    der Erstattungen bei der Ausfuhr für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 995/67/CEE della Commissione, del 14 dicembre 1967, relativo
+    alla fissazione delle restituzioni all'esportazione per il riso e le rotture di
+    riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 995/67/EEG van de Commissie van 14 december 1967 tot vaststelling
+    van de restituties bij uitvoer voor rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0995
+docidentifier:
+- content: EU Regulation 995/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0995
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/995/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

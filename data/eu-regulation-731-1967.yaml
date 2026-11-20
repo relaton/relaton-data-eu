@@ -1,0 +1,66 @@
+---
+id: EURegulation7311967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 731/67/CEE de la Commission, du 19 octobre 1967, fixant les
+    restitutions à l'exportation pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 731/67/EWG der Kommission vom 19. Oktober 1967 zur Festsetzung
+    der Erstattungen bei der Ausfuhr für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 731/67/CEE della Commissione, del 19 ottobre 1967, relativo
+    alla fissazione delle restituzioni all'esportazione per il riso e le rotture di
+    riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 731/67/EEG van de Commissie van 19 oktober 1967 tot vaststelling
+    van de restituties bij uitvoer voor rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0731
+docidentifier:
+- content: EU Regulation 731/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0731
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/731/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

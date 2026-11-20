@@ -1,0 +1,78 @@
+---
+id: EURegulation1231963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 123/63/CEE du Conseil, du 14 novembre 1963, relatif à la
+    diminution du montant des prélèvements envers les pays tiers applicables au
+    porc et à certaines découpes de porc en ce qui concerne les importations effectuées
+    durant la période du 1er au 31 décembre 1963
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 123/63/EWG des Rats vom 14. November 1963 über die Verringerung
+    der Abschöpfungsbeträge gegenüber dritten Ländern für Schweine und einige
+    Teilstücke von Schweinen für Einfuhren in der Zeit vom 1. bis zum 31. Dezember
+    1963
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 123/63/CEE del Consiglio del 14 novembre 1963 relativo alla
+    diminuzione dell'ammontare dei prelievi nei confronti dei paesi terzi applicabili
+    ai suini e a taluni tagli di carne suina per le importazioni effettuate dal 1
+    dicembre al 31 dicembre 1963
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 123/63/EEG van de Raad van 14 november 1963 betreffende
+    de verlaging van het bedrag van de heffingen ten opzichte van derde landen voor
+    varkens en sommige delen van varkens voor de invoer die plaatsvindt in het tijdvak
+    van 1 december tot en met 31 december 1963
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0123
+docidentifier:
+- content: EU Regulation 123/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0123
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/123/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-11-14'
+- type: implemented
+  at: '1963-11-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

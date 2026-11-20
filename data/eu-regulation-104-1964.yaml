@@ -1,0 +1,70 @@
+---
+id: EURegulation1041964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 104/64/CEE de la Commission, du 4 août 1964, fixant les coefficients
+    d'équivalence entre les qualités de riz et les standards de qualité pour lesquels
+    sont fixés le prix de seuil et le prix d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 104/64/EWG der Kommission vom 4. August 1964 zur Festsetzung
+    von Ausgleichskoeffizienten zwischen den einzelnen Reisqualitäten und den für
+    den Schwellenpreis und Interventionspreis maDgebenden Standardqualitäten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 104/64/CEE della Commissione, del 4 agosto 1964, che fissa
+    i coefficienti d'equivalenza fra le qualità di riso e le qualità tipo per le
+    quali sono fissati il prezzo di entrata ed il prezzo d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 104/64/EEG van de Commissie van 4 augustus 1964 houdende
+    vaststelling van de gelijkwaardigheidscoëfficiënten tussen de rijstkwaliteiten
+    en de standaardkwaliteiten waarvoor de drempelprijs en de interventieprijs zijn
+    bepaald
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0104
+docidentifier:
+- content: EU Regulation 104/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0104
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/104/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

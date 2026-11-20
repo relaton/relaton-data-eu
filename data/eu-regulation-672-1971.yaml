@@ -1,0 +1,78 @@
+---
+id: EURegulation6721971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 672/71 du Conseil, du 30 mars 1971, fixant les prix
+    d'orientation valables pour la campagne de commercialisation 1971/1972, pour les
+    veaux et les gros bovins et le prix d'orientation valable, pour la campagne 1972/1973,
+    pour les gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 672/71 des Rates vom 30. März 1971 zur Festsetzung
+    der Orientierungspreise für Kälber und ausgewachsene Rinder für das Wirtschaftsjahr
+    1971/1972 und des Orientierungspreises für ausgewachsene Rinder für das Wirtschaftsjahr
+    1972/1973
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 672/71 del Consiglio, del 30 marzo 1971, che fissa
+    i prezzi d'orientamento validi, per i vitelli e i bovini adulti, per la campagna
+    di commercializzazione 1971/1972 e il prezzo d'orientamento valido, per i bovini
+    adulti, per la campagna di commercializzazione 1972/1973
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 672/71 van de Raad van 30 maart 1971 houdende vaststelling
+    van de oriëntatieprijzen voor kalveren en volwassen runderen voor het verkoopseizoen
+    1971/1972 en van de oriëntatieprijs voor volwassen runderen voor het verkoopseizoen
+    1972/1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0672
+docidentifier:
+- content: EU Regulation 672/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0672
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/672/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-30'
+- type: implemented
+  at: '1971-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

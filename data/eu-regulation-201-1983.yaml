@@ -1,0 +1,104 @@
+---
+id: EURegulation2011983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 201/83 of 25 January 1983 amending Regulation
+    (EEC) No 1430/82 in respect of the application of restrictions on the importation
+    of hemp seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 201/83 du Conseil du 25 janvier 1983 modifiant le règlement
+    (CEE) no 1430/82 en ce qui concerne la mise en application des mesures restrictives
+    à l' importation des graines de chanvre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 201/83 des Rates vom 25. Januar 1983 zur Änderung
+    der Verordnung (EWG) Nr. 1430/82 hinsichtlich des Inkrafttretens der Einfuhrbeschränkungen
+    für Hanfsaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 201/83 af 25. januar 1983 om ændring af
+    forordning (EØF) nr. 1430/82 for så vidt angår indførelse af importrestriktioner
+    for hampefrø
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 201/83 του Συμβουλίου
+    της 25ης Ιανουαρίου 1983 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 1430/82 όσον αφορά τη θέση
+    σε εφαρμογή των περιοριστικών μέτρων κατά
+    την εισαγωγή των κανναβόσπορων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 201/83 del Consiglio del 25 gennaio 1983 che modifica
+    il regolamento (CEE) n. 1430/82 per quanto riguarda l' applicazione delle misure
+    restrittive all' importazione dei semi di canapa
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 201/83 van de Raad van 25 januari 1983 tot wijziging
+    van Verordening (EEG) nr. 1430/82 voor wat betreft de toepassing van de beperkende
+    maatregelen bij invoer van hennepzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0201
+docidentifier:
+- content: EU Regulation 201/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0201
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/201/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-01-25'
+- type: implemented
+  at: '1983-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R1430
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation1251965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 125/65/CEE de la Commission, du 23 septembre 1965, fixant
+    des coefficients d'équivalence entre l'orge anglaise offerte sur le marché mondial
+    et le standard de qualité pour lequel est fixé le prix de seuil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 125/65/EWG der Kommission vom 23. September 1965 zur Festsetzung
+    der Ausgleichskoeffizienten zwischen auf dem Weltmarkt angebotener englischer
+    Gerste und der für den Schwellenpreis maDgebenden Standardqualität
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 125/65/CEE della Commissione, del 23 settembre 1965, che
+    fissa dei coefficienti di equivalenza tra la qualità di orzo inglese offerta
+    sul mercato mondiale e la qualità tipo per la quale è fissato il prezzo d'entrata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 125/65/EEG van de Commissie van 23 september 1965 houdende
+    vaststelling van gelijkwaardigheidscoëfficiënten voor de aanpassing tussen Engelse
+    gerst, aangeboden op de wereldmarkt, en de standaardkwaliteit waarvoor de drempelprijs
+    is bepaald
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0125
+docidentifier:
+- content: EU Regulation 125/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0125
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/125/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-09-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,89 @@
+---
+id: EURegulation7281969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 728/69 de la Commission, du 21 avril 1969, concernant
+    l'adaptation des règlements n° 52/67/CEE et n° 99/67/CEE en ce qui concerne
+    les demandes de remboursement par le FEOGA, section garantie, pour la période
+    de comptabilisation 1966/1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 728/69 der Kommission vom 21. April 1969 zur Anpassung
+    der Verordnungen Nr. 52/67/EWG und Nr. 99/67/EWG in bezug auf die Anträge auf
+    Rückvergütung durch den EAGFL, Abteilung Garantie, für den Verbuchungszeitraum
+    1966/1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 728/69 della Commissione, del 21 aprile 1969, concernente
+    l'adeguamento dei regolamenti nn. 52/67/CEE e 99/67/CEE per quanto riguarda le
+    domande di rimborso a titolo del FEAOG, sezione garanzia, per il periodo di contabilizzazione
+    1966/1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 728/69 van de Commissie van 21 april 1969 betreffende
+    de aanpassing van de Verordeningen nrs. 52/67/EEG en 99/67/EEG ten aanzien van
+    de verzoeken om vergoeding door het EOGFL, afdeling Garantie, voor de berekeningsperiode
+    1966/1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0728
+docidentifier:
+- content: EU Regulation 728/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0728
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/728/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-21'
+- type: implemented
+  at: '1969-05-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0052
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0099
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

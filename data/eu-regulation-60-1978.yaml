@@ -1,0 +1,98 @@
+---
+id: EURegulation601978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 60/78 of 12 January 1978 amending Regulation
+    (EEC) No 2219/77 making special provision for the application of accession compensatory
+    amounts on certain milk products in trade with the United Kingdom
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 60/78 de la Commission, du 12 janvier 1978, modifiant
+    le règlement (CEE) n° 2219/77 portant une modalité particulière relative à
+    l' application des montants compensatoires "adhésion" à certains produits laitiers
+    dans les échanges avec le Royaume-Uni
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 60/78 der Kommission vom 12. Januar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2219/77 über eine Sondervorschrift für die Anwendung
+    der Beitrittsausgleichsbeträge auf bestimmte Milcherzeugnisse im Warenverkehr
+    mit dem Vereinigten Königreich
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 60/78 af 12. januar 1978 om ændring
+    af forordning (EØF) nr. 2219/77 om en særlig ordning for anvendelse af tiltrædelsesudligningsbeløb
+    for visse mejeriprodukter i samhandelen med Det forenede Kongerige
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 60/78 della Commissione, del 12 gennaio 1978, che
+    modifica il regolamento (CEE) n. 2219/77, recante modalità particolari relative
+    all' applicazione degli importi compensativi "adesione" applicabili negli scambi
+    di taluni prodotti lattiero-caseari con il Regno Unito
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 60/78 van de Commissie van 12 januari 1978 tot wijziging
+    van Verordening (EEG) nr. 2219/77 houdende een bijzondere bepaling met betrekking
+    tot de toepassing van de compenserende bedragen ,,toetreding' ' op bepaalde zuivelprodukten
+    in het handelsverkeer met het Verenigd Koninkrijk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0060
+docidentifier:
+- content: EU Regulation 60/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0060
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/60/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-01-12'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2219
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

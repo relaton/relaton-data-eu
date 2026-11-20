@@ -1,0 +1,92 @@
+---
+id: EURegulation31041973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3104/73 of the Commission of 14 November 1973 amending
+    Regulations (EEC) Nos 2573/73 and 2574/73 on exports of olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3104/73 de la Commission, du 14 novembre 1973, modifiant
+    les règlements (CEE) n° 2573/73 et (CEE) n° 2574/73, relatifs à l'exportation
+    d'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3104/73 der Kommission vom 14. November 1973 zur Änderung
+    der Verordnungen (EWG) Nr. 2573/73 und (EWG) Nr. 2574/73 betreffend die Ausfuhr
+    von Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3104/73 af 14. november 1973 om ændring
+    af forordningerne (EØF) nr. 2573/73 og (EØF) nr. 2574/73 om udførsel af olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3104/73 della Commissione, del 14 novembre 1973, che
+    modifica i regolamenti (CEE) n. 2573/73 e (CEE) n. 2574/73, relativi all'esportazione
+    d'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3104/73 van de Commissie van 14 november 1973 tot
+    wijziging van de Verordeningen (EEG) nr. 2573/73 en (EEG) nr. 2574/73 betreffende
+    de uitvoer van olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3104
+docidentifier:
+- content: EU Regulation 3104/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3104
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3104/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-11-14'
+- type: implemented
+  at: '1973-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2574
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

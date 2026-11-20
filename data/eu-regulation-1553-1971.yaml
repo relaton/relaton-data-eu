@@ -1,0 +1,90 @@
+---
+id: EURegulation15531971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1553/71 of the Council of 19 July 1971 amending Regulation
+    No 359/67/EEC on the common organisation of the market in rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1553/71 du Conseil, du 19 juillet 1971, modifiant
+    le règlement" n° 359/67/CEE portant organisation commune du marché du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1553/71 des Rates vom 19. Juli 1971 zur Änderung
+    der Verordnung Nr. 359/67/EWG über die gemeinsame Marktorganisation für Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1553/71 af 19. juli 1971 om ændring af forordning
+    nr. 359/67/EØF om den fælles markedsordning for ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1553/71 del Consiglio, del 19 luglio 1971, che modifica
+    il regolamento n. 359/67/CEE relativo all' organizzazione comune del mercato del
+    riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1553/71 van de Raad van 19 juli 1971 tot wijziging
+    van Verordening nr. 359/67/EEG houdende een gemeenschappelijke ordening van de
+    rijstmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1553
+docidentifier:
+- content: EU Regulation 1553/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1553
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1553/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-19'
+- type: implemented
+  at: '1971-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0359
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

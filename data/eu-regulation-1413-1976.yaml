@@ -1,0 +1,107 @@
+---
+id: EURegulation14131976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1413/76 of 18 June 1976 amending Regulations
+    (EEC) No 2073/74 and (EEC) No 2320/74 as regards the selling prices for certain
+    beef held by the intervention agencies and deferring the taking over of certain
+    meat put up for sale
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1413/76 de la Commission, du 18 juin 1976, modifiant
+    les règlements (CEE) n°s 2073/74 et 2320/74 en ce qui concerne les prix de vente
+    de certaines viandes bovines détenues par les organismes d' intervention et reportant
+    à une date ultérieure la prise en charge de certaines viandes mises en vente
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1413/76 der Kommission vom 18. Juni 1976 zur Änderung
+    der Verordnungen (EWG) Nrn. 2073/74 und 2320/74 hinsichtlich der Verkaufspreise
+    von bestimmtem Rindfleisch im Besitz der Interventionsstellen und des Übernahmetermins
+    für bestimmtes, zum Verkauf angebotenes Fleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1413/76 af 18. juni 1976 om ændring
+    af forordning (EØF) nr. 2073/74 og nr. 2320/74 for så vidt angår salgspriserne
+    for visse former for oksekød, som interventionsorganerne ligger inde med, og
+    om udskydelse af datoen for overtagelse af visse former for oksekød, som er udbudt
+    til salg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1413/76 della Commissione, del 18 giugno 1976, che
+    modifica i regolamenti (CEE) n. 2073/74 e n. 2320/74, per quanto concerne il prezzo
+    di vendita di determinate carni bovine detenute dagli organismi d' intervento
+    e differisce, a data ulteriore, la presa in consegna di alcune carni messe in
+    vendita
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1413/76 van de Commissie van 18 juni 1976 tot wijziging
+    van de Verordeningen (EEG) nrs. 2073/74 en 2320/74 betreffende de verkoop van
+    rundvlees uit interventievoorraden en tot verschuiving van de overnamedatum voor
+    bepaalde soorten ten verkoop aangeboden vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1413
+docidentifier:
+- content: EU Regulation 1413/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1413
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1413/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-18'
+- type: implemented
+  at: '1976-06-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

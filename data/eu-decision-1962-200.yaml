@@ -1,0 +1,68 @@
+---
+id: EUDecision1962200
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision portant suspension temporaire de certains droits du Tarif douanier
+    commun
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung über eine zeitweilige Aussetzung bestimmter Zollsätze des
+    Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Decisione relativa alla sospensione temporanea di taluni dazi della tariffa
+    doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking houdende tijdelijke schorsing van bepaalde rechten van het
+    gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962D0200P0261
+docidentifier:
+- content: EU Decision 1962/200
+  type: EU
+  primary: true
+- content: CELEX 31962D0200P0261
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1962/200/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

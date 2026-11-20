@@ -1,0 +1,124 @@
+---
+id: EURegulation35481983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3548/83 of 15 December 1983 amending the
+    Annex to Regulations (EEC) No 1559/70, (EEC) No 1560/70, (EEC) No 1561/70, (EEC)
+    No 1562/70 and (EEC) No 55/72
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3548/83 de la Commission du 15 décembre 1983 modifiant
+    l'annexe des règlements (CEE) n° 1559/70, (CEE) n° 1560/70, (CEE) n 1561/70,
+    (CEE) n 1562/70 et (CEE) n° 55/72
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3548/83 der Kommission vom 15. Dezember 1983 zur Änderung
+    des Anhangs der Verordnungen (EWG) Nr. 1559/70, (EWG) Nr. 1560/70, (EWG) Nr. 1561/70,
+    (EWG) Nr. 1562/70 und (EWG) Nr. 55/72
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3548/83 af 15. december 1983 om ændring
+    af bilaget til forordning (EØF) nr. 1559/70, (EØF) nr. 1560/70, (EØF) nr. 1561/70,
+    (EØF) nr. 1562/70 og (EØF) nr. 55/72
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3548/83 της Επιτροπής
+    της 15ης Δεκεμβρίου 1983 περί τροποποίησης του
+    παραρτήματος των κανονισμών (ΕΟΚ) αριθ. 1559/70,
+    (ΕΟΚ) αριθ. 1560/70, (ΕΟΚ) αριθ. 1561/70, (ΕΟΚ) αριθ. 1562/70
+    και (ΕΟΚ) αριθ. 55/72
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3548/83 della Commissione del 15 dicembre 1983 che
+    modifica l'allegato dei regolamenti (CEE) n. 1559/70, (CEE) n. 1560/70, (CEE)
+    n. 1561/70, (CEE) n. 1562/70 e (CEE) n. 55/72
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3548/83 van de Commissie van 15 december 1983 houdende
+    wijziging van de bijlage van de Verordeningen (EEG) nr. 1559/70, (EEG) nr. 1560/70,
+    (EEG) nr. 1561/70, (EEG) nr. 1562/70 en (EEG) nr. 55/72
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R3548
+docidentifier:
+- content: EU Regulation 3548/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R3548
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/3548/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-12-15'
+- type: implemented
+  at: '1984-01-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1559
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1560
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1561
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1562
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0055
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

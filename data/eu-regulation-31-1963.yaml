@@ -1,0 +1,80 @@
+---
+id: EURegulation311963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 31/63 CEE du Conseil du 2 avril 1963 portant dérogation
+    à l'article 17 du règlement n° 19 du Conseil en ce qui concerne la fixation
+    à l'avance du prélèvement pour certains produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 31/63/EWG des Rats vom 2. April 1963 über eine von Artikel
+    17 der Verordnung Nr. 19 des Rats abweichende Regelung betreffend die vorherige
+    Festsetzung der Abschöpfung für bestimmte Erzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 31/63/CEE del Consiglio del 2 aprile 1963 relativo ad una
+    deroga all'articolo 17 del regolamento n. 19 del Consiglio in merito alla fissazione
+    in anticipo del prelievo per taluni prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 31/63/EEG van de Raad van 2 april 1963 houdende afwijking
+    van artikel 17 van Verordening Nr. 19 van de Raad met betrekking tot het van revoren
+    vaststellen van de heffing voor bepaalde produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0031
+docidentifier:
+- content: EU Regulation 31/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0031
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/31/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-04-02'
+- type: implemented
+  at: '1963-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0019
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

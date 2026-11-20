@@ -1,0 +1,83 @@
+---
+id: EURegulation22401970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2240/70 de la Commission, du 4 novembre 1970, modifiant
+    le règlement (CEE) n° 2195/69 en ce qui concerne les circonstances justifiant
+    le non- recouvrement de la prime à la non-commercialisation du lait et des produits
+    laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2240/70 der Kommission vom 4. November 1970 zur Änderung
+    der Verordnung (EWG) Nr. 2195/69 bezüglich der Umstände, die die Nichteintreibung
+    der Prämie für die Nichtvermarktung von Milch und Milcherzeugnissen rechtfertigen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2240/70 della Commissione, del 4 novembre 1970, che
+    modifica il regolamento (CEE) n. 2195/69 per quanto concerne le circostanze che
+    giustificano il non recupero del premio di non commercializzazione del latte e
+    dei prodotti lattiero- caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2240/70 van de Commissie van 4 november 1970 houdende
+    wijziging van Verordening (EEG) nr. 2195/69 met betrekking tot de omstandigheden
+    die het niet-terugvorderen van de premie voor het niet in de handel brengen van
+    melk en zuivelprodukten rechtvaardigen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2240
+docidentifier:
+- content: EU Regulation 2240/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2240
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2240/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-04'
+- type: implemented
+  at: '1970-11-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2195
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

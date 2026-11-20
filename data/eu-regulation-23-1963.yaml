@@ -1,0 +1,74 @@
+---
+id: EURegulation231963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 23/63/CEE du Conseil, du 21 mars 1963, prévoyant en ce
+    qui concerne le prélèvement applicable à certaines catégories d'aliments pour
+    animaux, des mesures dérogatoires au règlement n° 55 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 23/63/EWG des Rats vom 21. März 1963 über von der Verordnung
+    Nr. 55 des Rats abweichende Maßnahmen betreffend die für einige Futtermittelarten
+    geltenden Abschöpfungsbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 23/63/CEE del Consiglio del 21 marzo 1963 relativo a misure
+    di deroga al regolamento n. 55 del Consiglio per quanto riguarda il prelievo applicabile
+    a talune categorie di alimenti per animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 23/63/EEG van de Raad van 21 maart 1963 houdende van Verordening
+    Nr. 55 van de Raad afwijkende maatregelen betreffende de heffingen op bepaalde
+    soorten veevoeders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0023
+docidentifier:
+- content: EU Regulation 23/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0023
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/23/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-03-21'
+- type: implemented
+  at: '1963-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

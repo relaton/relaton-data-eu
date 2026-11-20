@@ -1,0 +1,100 @@
+---
+id: EURegulation2141979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 214/79 of 6 February 1979 amending Regulation
+    (EEC) No 724/75 establishing a European Regional Development Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 214/79 du Conseil, du 6 février 1979, modifiant le
+    règlement (CEE) n° 724/75 portant création d' un Fonds européen de développement
+    régional
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 214/79 des Rates vom 6. Februar 1979 zur Änderung
+    der Verordnung (EWG) Nr. 724/75 über die Errichtung eines Europäischen Fonds
+    für regionale Entwicklung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 214/79 af 6. februar 1979 om ændring af
+    forordning (EØF) nr. 724/75 om oprettelse af en europæisk fond for regionaludvikling
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 214/79 τού Συμβουλίου
+    τής 6ης Φεβρουαρίου 1979 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 724/75 «περί δημιουργίας
+    Ευρωπαϊκού Ταμείου Περιφερειακής Αναπτύξεως»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 214/79 del Consiglio, del 6 febbraio 1979, che modifica
+    il regolamento (CEE) n. 724/75 che istituisce un Fondo europeo di sviluppo regionale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 214/79 van de Raad van 6 februari 1979 tot wijziging
+    van Verordening (EEG) nr. 724/75 houdende oprichting van een Europees Fonds voor
+    Regionale Ontwikkeling
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0214
+docidentifier:
+- content: EU Regulation 214/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0214
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/214/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-02-06'
+- type: implemented
+  at: '1979-02-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0724
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,73 @@
+---
+id: EURegulation7781967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 778/67/CEE du Conseil, du 27 octobre 1967, relatif aux mesures
+    à appliquer en matière de prix en ce qui concerne l'huile d'olive pour la campagne
+    1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 778/67/EWG des Rates vom 27. Oktober 1967 über die Maßnahmen
+    bei den Preisen für Olivenöl für das Wirtschaftsjahr 1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 778/67/CEE del Consiglio, del 27 ottobre 1967, relativo
+    alle misure in materia di prezzi applicabili all'olio d'oliva per la campagna
+    1967-1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 778/67/EEG van de Raad van 27 oktober 1967 betreffende
+    de maatregelen die met betrekking tot de prijzen ten aanzien van olijfolie moeten
+    worden toegepast voor het verkoopseizoen 1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0778
+docidentifier:
+- content: EU Regulation 778/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0778
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/778/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-27'
+- type: implemented
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

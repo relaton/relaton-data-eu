@@ -1,0 +1,73 @@
+---
+id: EURegulation1661966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 166/66/CEE du Conseil, du 27 octobre 1966, relatif aux prélèvements
+    applicables à l'huile d'olive ayant subi un processus de raffinage, ainsi qu'à
+    certains produits contenant de l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 166/66/EWG des Rates vom 27. Oktober 1966 über die Abschöpfungen
+    auf raffiniertes Olivenöl und einige olivenölhaltige Erzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 166/66/CEE del Consiglio, del 27 ottobre 1966, relativo
+    ai prelievi applicabili all'olio d'oliva che ha subito un processo di raffinazione,
+    nonché ad alcuni prodotti contenenti olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 166/66/EEG van de Raad van 27 oktober 1966 betreffende
+    de heffingen op olijfolie welke aan een raffinageproces onderworpen is geweest,
+    alsmede op sommige produkten welke olijfolie bevatten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0166
+docidentifier:
+- content: EU Regulation 166/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0166
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/166/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-27'
+- type: implemented
+  at: '1966-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

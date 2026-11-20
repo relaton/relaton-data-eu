@@ -1,0 +1,69 @@
+---
+id: EURegulation5631967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 563/67/CEE de la Commission, du 13 septembre 1967, fixant
+    les prélèvements applicables aux céréales et aux farines, gruaux et semoules
+    de blé ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 563/67/EWG der Kommission vom 13. September 1967 zur Festsetzung
+    der auf Getreide, Mehle, Grob- und FeingrieD von Weizen oder Roggen anwendbaren
+    Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 563/67/CEE della Commissione, del 13 settembre 1967, che
+    fissa i prelievi applicabili ai cereali e alle farine, alle semole e ai semolini
+    di grano o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 563/67/EEG van de Commissie van 13 september 1967 houdende
+    vaststelling van de heffingen die van toepassing zijn op granen en meel, grutten,
+    gries en griesmeel van tarwe of van rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0563
+docidentifier:
+- content: EU Regulation 563/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0563
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/563/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

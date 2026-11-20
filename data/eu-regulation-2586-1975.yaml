@@ -1,0 +1,114 @@
+---
+id: EURegulation25861975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2586/75 of the Commission of 10 October 1975 amending
+    various Commission Regulations on milk and milk products, as regards the application
+    of monetary compensatory amounts to the sale of butter at reduced prices
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2586/75 de la Commission, du 10 octobre 1975, modifiant
+    divers règlements de la Commission dans le secteur du lait et des produits laitiers,
+    notamment en ce qui concerne l' application des montants compensatoires monétaires
+    au beurre vendu à prix réduit
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2586/75 der Kommission vom 10. Oktober 1975 zur Änderung
+    verschiedener Verordnungen der Kommission auf dem Sektor Milch und Milcherzeugnisse,
+    insbesondere hinsichtlich der Anwendung der Währungsausgleichsbeträge auf Butter,
+    die zu herabgesetzten Preisen verkauft wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2586/75 af 10. oktober 1975 om ændring
+    af forskellige af Kommissionens forordninger vedrørende mælk og mejeriprodukter,
+    navnlig med hensyn til anvendelse af monetære udligningsbeløb for smør, der
+    sælges til nedsat pris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2586/75 della Commissione, del 10 ottobre 1975, che
+    modifica vari regolamenti della Commissione nel settore del latte e dei prodotti
+    lattiero-caseari, in particolare per quanto concerne l' applicazione degli importi
+    compensativi monetari al burro venduto a prezzo ridotto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2586/75 van de Commissie van 10 oktober 1975 houdende
+    wijziging van verschillende verordeningen van de Commissie in de sector melk en
+    zuivelprodukten, met name met betrekking tot de toepassing van monetaire compenserende
+    bedragen voor tegen verlaagde prijs verkochte boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2586
+docidentifier:
+- content: EU Regulation 2586/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2586
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2586/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-10'
+- type: implemented
+  at: '1975-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1282
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1717
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0349
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0232
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

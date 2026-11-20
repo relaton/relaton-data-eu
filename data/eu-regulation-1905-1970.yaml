@@ -1,0 +1,80 @@
+---
+id: EURegulation19051970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 1905/70/CEE de la Commission du 22 septembre 1970 modifiant
+    le règlement (CEE) n° 1679/70 relatif aux vins en provenance du Maroc ou de
+    la Tunisie, importés en France
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1905/70 der Kommission vom 22. September 1970 zur
+    Änderung der Verordnung (EWG) Nr. 1679/70 über nach Frankreich eingeführte
+    Weine mit Herkunft aus Marokko oder Tunesien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1905/70 della Commissione, del 22 settembre 1970,
+    che modifica il regolamento (CEE) n. 1679/70 relativo ai vini importati in Francia
+    in provenienza dal Marocco o dalla Tunisia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1905/70 van de Commissie van 22 september 1970 houdende
+    wijziging van Verordening (EEG) nr. 1679/70 betreffende in Frankrijk ingevoerde
+    wijn uit Marokko of Tunesië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1905
+docidentifier:
+- content: EU Regulation 1905/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1905
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1905/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-09-22'
+- type: implemented
+  at: '1970-09-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1679
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,150 @@
+---
+id: EURegulation9911979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 991/79 of 17 May 1979 setting out a schedule
+    of tables and laying down the definitions relating to basic statistical surveys
+    of areas under vines and repealing Regulations No 143 and No 26/64/EEC
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 991/79 de la Commission, du 17 mai 1979, établissant
+    un programme de tableaux et des définitions se rapportant aux enquêtes statistiques
+    de base sur les superficies viticoles et abrogeant les règlements n° 143 et
+    n° 26/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 991/79 der Kommission vom 17. Mai 1979 zur Festlegung
+    eines Tabellenprogramms und Definitionen in statistischen Grunderhebungen der
+    Rebflächen und zur Aufhebung der Verordnungen Nr. 143 und Nr. 26/64/EWG der Kommission
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 991/79 af 17. maj 1979 om fastlæggelse
+    af et tabelprogram og opstilling af definitioner i forbindelse med statistiske
+    basisundersøgelser vedrørende vinarealerne samt om ophævelse af Kommissionens
+    forordning nr. 143 og nr. 26/64/EØF
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 991/79 της Επιτροπής
+    της 17ης Μαΐου 1979 περί συντάξεως προγράμματος
+    πινάκων και ορισμών αναφερομένων στις βασικές
+    στατιστικές έρευνες επί των αμπελουργικών
+    εκτάσεων, καθώς και περί καταργήσεως των κανονισμών
+    αριθ. 143 και αριθ. 26/64/ΕΟΚ
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (ETY) N:o 991/79, annettu 17 päivänä toukokuuta 1979,
+    viininviljelyalojen tilastollisia perustutkimuksia koskevasta taulukko-ohjelmasta
+    ja määritelmistä sekä asetusten N:o 143 ja N:o 26/64/ETY kumoamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 991/79 della Commissione, del 17 maggio 1979, che
+    stabilisce un programma di tabelle e alcune definizioni relative alle indagini
+    statistiche di base sulle superfici viticole e che abroga i regolamenti n. 143
+    e n. 26/64/CEE della Commissione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 991/79 van de Commissie van 17 mei 1979 tot vaststelling
+    van een tabellenschema en definities voor de statistische basisenquêtes naar
+    de wijnbouwoppervlakten en tot intrekking van de Verordeningen nr. 143 en nr.
+    26/64/EEG van de Commissie
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 991/79 da Comissão, de 17 de Maio de 1979, que estabelece
+    um programa de quadros e de definições referentes aos inquéritos estatísticos
+    de base sobre as superfícies vitícolas e revoga os Regulamentos nº 143 e nº
+    26/64/CEE
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) nº 991/79 de la Comisión, de 17 de mayo de 1979, por
+    el que se establece un programa de cuadros y definiciones relativo a las encuestas
+    estadísticas de base de las superficies vitícolas y por el que se derogan los
+    Reglamentos nº143 y nº26/64/CEE
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EEG) nr 991/79 av den 17 maj 1979 om fastställande
+    av ett tabellschema och definitioner i samband med grundläggande statistiska
+    undersökningar av vinodlingsområden och om upphävande av förordningarna nr
+    143 och nr 26/64/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0991
+docidentifier:
+- content: EU Regulation 991/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0991
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/991/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-05-17'
+- type: implemented
+  at: '1978-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0143
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0026
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0143
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

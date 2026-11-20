@@ -1,0 +1,95 @@
+---
+id: EURegulation28071979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2807/79 of 13 December 1979 amending Regulation
+    (EEC) No 1715/79 laying down, for the wine-growing year 1979/80, detailed rules
+    for the distillation of the by-products of wine-making
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2807/79 de la Commission, du 13 décembre 1979, modifiant
+    le règlement (CEE) n° 1715/79 relatif aux modalités d' application de la distillation
+    des sous-produits de la vinification pour la campagne 1979/1980
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2807/79 der Kommission vom 13. Dezember 1979 zur Änderung
+    der Verordnung (EWG) Nr. 1715/79 über die Durchführungsbestimmungen für die
+    Destillation der Nebenerzeugnisse der Weinbereitung für das Wirtschaftsjahr 1979/80
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2807/79 af 13. december 1979 om ændring
+    af forordning (EØF) nr. 1715/79 om gennemførelsesbestemmelser for destillering
+    af biprodukter fra vinfremstilling for vinproduktionsåret 1979/80
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2807/79 della Commissione, del 13 dicembre 1979, che
+    modifica il regolamento (CEE) n. 1715/79 relativo alle modalità di applicazione
+    della distillazione dei sottoprodotti della vinificazione per la campagna 1979/1980
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2807/79 van de Commissie van 13 december 1979 tot
+    wijziging van Verordening (EEG) nr. 1715/79 betreffende de uitvoeringsbepalingen
+    voor de distillatie van de bijprodukten van de wijnbereiding voor het wijnoogstjaar
+    1979/1980
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2807
+docidentifier:
+- content: EU Regulation 2807/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2807
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2807/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-12-13'
+- type: implemented
+  at: '1979-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1715
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

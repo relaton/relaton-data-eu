@@ -1,0 +1,78 @@
+---
+id: EURegulation221963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 22/63/CEE de la Commission du 13 mars 1963 modifiant, en
+    ce qui concerne le régime spécial accordé au Danemark, le règlement n° 135
+    de la Commission relatif à la fixation d'un montant supplémentaire pour les
+    importations de poules et de poulets abattus, en provenance de pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 22/63/EWG der Kommission vom 13. März 1963 zur Änderung
+    der Verordnung Nr. 135 der Kommission über die Festsetzung eines Zusatzbetrages
+    für Einfuhren von geschlachteten Hühnern aus dritten Ländern, soweit diese
+    die Sonderstellung Dänemarks betrifft
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 22/63/CEE della Commissione del 13 marzo 1963 che modifica
+    per quanto riguarda il regime speciale accordato alla Danimarca, il regolamento
+    n. 135 della Commissione relativo alla determinazione di un importo supplementare
+    all'importazione di galline e di polli macellati in provenienza dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 22/63/EEG van de Commissie van 13 maart 1963 tot wijziging
+    van Verordening Nr. 135 van de Commissie tot vaststelling van een extra-bedrag
+    voor de invoer van geslachte kippen uit derde landen, voorzover die verordening
+    de bijzondere behandeling van Denemarken betreft
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0022
+docidentifier:
+- content: EU Regulation 22/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0022
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/22/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-03-13'
+- type: implemented
+  at: '1963-03-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

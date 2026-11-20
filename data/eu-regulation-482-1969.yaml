@@ -1,0 +1,65 @@
+---
+id: EURegulation4821969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 482/69 de la Commission, du 14 mars 1969, relatif aux
+    demandes d'acompte au titre du F.E.O.G.A., section garantie, période 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 482/69 der Kommission vom 14. März 1969 betreffend
+    Anträge auf Abschlagszahlungen aus dem EAGFL, Abteilung Garantie, Zeitraum 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 482/69 della Commissione, del 14 marzo 1969, relativo
+    alle domande di acconto presentate al FEAOG, sezione garanzia, periodo 1968/1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 482/69 van de Commissie van 14 maart 1969 betreffende
+    de voorschotaanvragen uit het E.O.G.F.L., afdeling Garantie, periode 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0482
+docidentifier:
+- content: EU Regulation 482/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0482
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/482/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

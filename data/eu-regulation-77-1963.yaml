@@ -1,0 +1,70 @@
+---
+id: EURegulation771963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 77/63/CEE de la Commission, du 26 juillet 1963, portant adaptation
+    et fixation des prix d'écluse applicables aux porcs vivants et abattus pour les
+    importations effectuées entre le 1er août 1963 et le 30 septembre 1963
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 77/63/EWG der Kommission vom 26. Juli 1963 über die Anpassung
+    und Festsetzung der Einschleusungspreise für lebende und geschlachtete Schweine
+    für die vom 1. August 1963 bis zum 30. September 1963 getätigten Einfuhren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 77/63/CEE della Commissione del 26 luglio 1963 relativo
+    all'adattamento e alla determinazione dei prezzi limite applicabili ai suini vivi
+    a ai suini macellati per le importazioni effettuate tra il 1 agosto 1963 e il
+    30 settembre 1963.
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 77/63/EEG van de Commissie van 26 juli 1963 houdende aanpassing
+    en vaststelling van de sluisprijzen voor levende en geslachte varkens die met
+    ingang van 1 augustus 1963 tot en met 30 september 1963 worden ingevoerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0077
+docidentifier:
+- content: EU Regulation 77/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0077
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/77/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,91 @@
+---
+id: EURegulation121981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 12/81 of 1 January 1981 fixing the guide prices
+    applicable in Greece for wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 12/81 du Conseil, du 1er janvier 1981, fixant les
+    prix d' orientation dans le secteur du vin applicables en Grèce
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 12/81 des Rates vom 1. Januar 1981 zur Festsetzung
+    der in Griechenland anwendbaren Orientierungspreise für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 12/81 af 1. januar 1981 om fastsættelse
+    af de orienteringspriser for vin, der skal gælde i Grækenland
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 12/81 τού Συμβουλίου
+    τής 1ης Ιανουαρίου 1981 περί καθορισμού τών τιμών
+    προσανατολισμού στόν τομέα τού οίνου οι οποίες
+    εφαρμόζονται στήν Ελλάδα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 12/81 del Consiglio, del 1° gennaio 1981, che fissa
+    i prezzi di orientamento nel settore del vino applicabili in Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 12/81 van de Raad van 1 januari 1981 houdende vaststelling
+    van de oriëntatieprijzen die in Griekenland van toepassing zijn in de wijnsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0012
+docidentifier:
+- content: EU Regulation 12/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0012
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/12/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-01-01'
+- type: implemented
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

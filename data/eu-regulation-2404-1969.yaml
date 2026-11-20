@@ -1,0 +1,81 @@
+---
+id: EURegulation24041969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2404/69 de la Commission, du 2 décembre 1969, relatif
+    à la diminution du montant compensatoire applicable dans le secteur du lait et
+    des produits laitiers à certaines exportations françaises vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2404/69 der Kommission vom 2. Dezember 1969 über
+    die Verringerung des Ausgleichsbetrags bei bestimmten französischen Ausfuhren
+    nach dritten Ländern auf dem Sektor Milch und Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento(CEE) n. 2404/69 della Commissione, del 2 dicembre 1969, relativo
+    alla diminuzione dell'importo di compensazione applicabile nel settore del latte
+    e dei prodotti lattiero-caseari ad alcune esportazioni francesi verso i paesi
+    terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2404/69 van de Commissie van 2 december 1969 betreffende
+    de verlaging van het compenserende bedrag dat geldt voor bepaalde Franse uitvoeren
+    naar derde landen in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2404
+docidentifier:
+- content: EU Regulation 2404/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2404
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2404/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-02'
+- type: implemented
+  at: '1969-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1667
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

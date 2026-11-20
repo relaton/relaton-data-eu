@@ -1,0 +1,104 @@
+---
+id: EURegulation16101975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1610/75 of the Commission of 26 June 1975 amending
+    Regulation (EEC) No 685/69 on detailed rules of application for intervention on
+    the market in butter and cream
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1610/75 de la Commission, du 26 juin 1975, modifiant
+    le règlement (CEE) n° 685/69 relatif aux modalités d' application des interventions
+    sur le marché du beurre et de la crème de lait
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1610/75 der Kommission vom 26. Juni 1975 zur Ergänzung
+    der Verordnung (EWG) Nr. 685/69 über Durchführungsbestimmungen für die Interventionen
+    auf dem Markt für Butter und Rahm
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1610/75 af 26. juni 1975 om ændring
+    af forordning (EØF) nr. 685/69 om gennemførelsesbestemmelser for interventioner
+    på markedet for smør og fløde
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1610/75 της Επιτροπής
+    της 26ης Ιουνίου 1975 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 685/69 περί των λεπτομερειών εφαρμογής
+    των παρεμβάσεων στην αγορά του βουτύρου και
+    της κρέμας γάλακτος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1610/75 della Commissione, del 26 giugno 1975, che
+    modifica il regolamento (CEE) n. 685/69 relativo alle modalità di applicazione
+    degli interventi sul mercato del burro e della crema di latte
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1610/75 van de Commissie van 26 juni 1975 houdende
+    wijziging van Verordening (EEG) nr. 685/69 betreffende de uitvoeringsbepalingen
+    van de interventiemaatregelen op de markt voor boter en room
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1610
+docidentifier:
+- content: EU Regulation 1610/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1610
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1610/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-06-26'
+- type: implemented
+  at: '1975-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0685
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

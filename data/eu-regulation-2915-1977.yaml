@@ -1,0 +1,96 @@
+---
+id: EURegulation29151977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2915/77 of 23 December 1977 amending Regulation
+    (EEC) No 2788/77 fixing the free-at-frontier reference prices applicable to wine
+    imports from 16 December 1977
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2915/77 de la Commission, du 23 décembre 1977, modifiant
+    le règlement (CEE) n° 2788/77 fixant les prix franco frontière de référence
+    applicables lors de l' importation des vins à partir du 16 décembre 1977
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2915/77 der Kommission vom 23. Dezember 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2788/77 zur Festsetzung der ab 16. Dezember 1977 bei
+    der Einfuhr von Wein anzuwendenden Referenzpreise frei Grenze
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2915/77 af 23. december 1977 om ændring
+    af forordning (EØF) nr. 2788/77 om fastsættelse af referencepriser franko grænse
+    ved indførsel af vin fra den 16. december 1977
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2915/77 della Commissione, del 23 dicembre 1977, recante
+    modifica del regolamento (CEE) n. 2788/77 che fissa i prezzi franco frontiera
+    di riferimento applicabili all' importazione dei vini a decorrere dal 16 dicembre
+    1977
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2915/77 van de Commissie van 23 december 1977 houdende
+    wijziging van Verordening (EEG) nr. 2788/77 tot vaststelling van de met ingang
+    van 16 december 1977 bij invoer van wijn toe te passen referentieprijzen franco
+    grens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2915
+docidentifier:
+- content: EU Regulation 2915/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2915
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2915/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-23'
+- type: implemented
+  at: '1977-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2788
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

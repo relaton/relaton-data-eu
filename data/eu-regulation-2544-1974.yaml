@@ -1,0 +1,110 @@
+---
+id: EURegulation25441974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2544/74 of the Commission of 4 October 1974 amending
+    Commission Regulations (EEC) No 2036/74, (EEC) No 2073/74 and (EEC) No 2320/74
+    as regards the selling prices for certain beef and veal held by the Irish intervention
+    agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2544/74 de la Commission, du 4 octobre 1974, modifiant
+    les règlements (CEE) n°s 2036/74, 2073/34 et 2320/74 de la Commission en ce
+    qui concerne les prix de vente de certaines viandes bovines détenues par l' organisme
+    d' intervention irlandais
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2544/74 der Kommission vom 4. Oktober 1974 zur Änderung
+    der Verordnungen (EWG) Nr. 2036/74, Nr. 2073/74 und Nr. 2320/74 der Kommission
+    hinsichtlich der Preise für den Verkauf von bestimmtem Rindfleisch aus Beständen
+    der irischen Interventionsstelle
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2544/74 af 4. oktober 1974 om ændring
+    af Kommissionens forordning (EØF) nr. 2036/74, nr. 2073/74 og nr. 2320/74 for
+    så vidt angår salgspriserne for visse former for oksekød, som det irske interventionsorgan
+    ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2544/74 della Commissione, del 4 ottobre 1974, che
+    modifica i regolamenti (CEE) n. 2036/74, 2073/74 e 2320/74 della Commissione,
+    per quanto concerne i prezzi di vendita di alcuni tipi di carni bovine detenute
+    dall' organismo d' intervento irlandese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2544/74 van de Commissie van 4 oktober 1974 tot wijziging
+    van de Verordeningen (EEG) nrs. 2036/74, 2073/74 en 2320/74 van de Commissie met
+    betrekking tot de verkoopprijs van door het lerse interventiebureau opgeslagen
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2544
+docidentifier:
+- content: EU Regulation 2544/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2544
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2544/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-04'
+- type: implemented
+  at: '1974-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2036
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

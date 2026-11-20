@@ -1,0 +1,65 @@
+---
+id: EURegulation1111963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 111/63/CEE de la Commission, du 1er octobre 1963, modifiant
+    le règlement n 87 de la Commission en ce qui concerne la caution
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 111/63/EWG der Kommission vom 1. Oktober 1963 zur Änderung
+    der Verordnung Nr. 87 der Kommission in bezug auf die Kaution
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 111/63/CEE della Commissione del 1 ottobre 1963 che modifica
+    il regolamento n. 87 della Commissione per quanto riguarda il deposito cauzionale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 111/63/EEG van de Commissie van 1 oktober 1963 houdende
+    wijziging van Verordening no. 87 van de Commissie ten aanzien van de waarborg
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0111
+docidentifier:
+- content: EU Regulation 111/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0111
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/111/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-10-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

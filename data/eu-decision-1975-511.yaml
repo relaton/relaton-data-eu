@@ -1,0 +1,99 @@
+---
+id: EUDecision1975511
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Decision of 25 August 1975 amending Decisions No 73/124/Euratom
+    and No 73/177/Euratom adopting research and training programmes for the European
+    Atomic Energy Community
+  type: main
+- language: fr
+  script: Latn
+  content: '75/511/Euratom: Décision du Conseil du 25 août 1975, modifiant les décisions
+    71/124/Euratom et 73/177/Euratom arrêtant des programmes de recherche et d''enseignement
+    de Communauté européenne de l''énergie atomique'
+  type: main
+- language: de
+  script: Latn
+  content: Beschluß des Rates vom 25. August 1975 zur Änderung der Beschlüsse 73/124/Euratom
+    und 73/177/Euratom zur Festlegung von Forschungs- und Ausbildungsprogrammen der
+    Europäischen Atomgemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Afgørelse af 25. august 1975 om ændring af afgørelse 73/124/Euratom
+    og 73/177/Euratom om fastlæggelse af forsknings- og undervisningsprogrammer for
+    Det europæiske Atomenergifællesskab
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio, del 25 agosto 1975, che modifica le decisioni
+    73/124/Euratom e 73/177/Euratom relative all'adozione di programmi di ricerche
+    e d'insegnamento per la Comunità europea dell'energia atomica
+  type: main
+- language: nl
+  script: Latn
+  content: Besluit van de Raad van 25 augustus 1975 tot wijziging van de Besluiten
+    nr. 73/124/ Euratom en nr. 73/177/Euratom tot vaststelling van programma's voor
+    onderzoek en onderwijs van de Europese Gemeenschap voor Atoomenergie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975D0511
+docidentifier:
+- content: EU Decision 1975/511
+  type: EU
+  primary: true
+- content: CELEX 31975D0511
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1975/511/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-25'
+- type: implemented
+  at: '1975-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973D0124
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973D0177
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

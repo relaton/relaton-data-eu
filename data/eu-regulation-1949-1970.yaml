@@ -1,0 +1,74 @@
+---
+id: EURegulation19491970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1949/70 du Conseil, du 29 septembre 1970, portant
+    suspension partielle du droit autonome du tarif douanier commun sur les pamplemousses
+    et pomelos de la sous-position 08.02 D
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1949/70 des Rates vom 29. September 1970 über die
+    teilweise Aussetzung des autonomen Zollsatzes des Gemeinsamen Zolltarifs für
+    Pampelmusen und Grapefruits der Tarifstelle 08.02 D
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1949/70 del Consiglio, del 29 settembre 1970, relativo
+    alla sospensione parziale del dazio autonomo della tariffa doganale comune sui
+    pompelmi e i pomeli della sottovoce 08.02 D
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1949/70 van de Raad van 29 september 1970 houdende
+    gedeeltelijke schorsing van het autonome recht van het gemeenschappelijk douanetarief
+    voor pompelmoezen en pomelo's van onderverdeling 08.02 D
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1949
+docidentifier:
+- content: EU Regulation 1949/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1949
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1949/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-09-29'
+- type: implemented
+  at: '1970-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

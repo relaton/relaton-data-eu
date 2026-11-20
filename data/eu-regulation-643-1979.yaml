@@ -1,0 +1,99 @@
+---
+id: EURegulation6431979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 643/79 of 29 March 1979 amending, as regards
+    the French franc, the Italian lira, the pound sterling and the Irish pound, Regulation
+    (EEC) No 875/77 on the exchange rates to be applied in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 643/79 du Conseil, du 29 mars 1979, modifiant, en
+    ce qui concerne le franc français, la lire italienne, la livre anglaise et la
+    livre irlandaise, le règlement (CEE) n° 878/77 relatif aux taux de change à
+    appliquer dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 643/79 des Rates vom 29. März 1979 zur Änderung
+    der Verordnung (EWG) Nr. 878/77 über die in der Landwirtschaft anzuwendenden
+    Umrechnungskurse hinsichtlich des französischen Franken, der italienischen Lira,
+    des englischen Pfundes und des irischen Pfundes
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 643/79 af 29. marts 1979 om ændring af forordning
+    (EØF) nr. 878/77 om vekselkurser, der skal anvendes inden for landbrugssektoren,
+    for så vidt angår den franske franc, den italienske lire, det engelske pund
+    og det irske pund
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 643/79 del Consiglio, del 29 marzo 1979, che modifica,
+    per quanto concerne il franco francese, la lira italiana, la sterlina inglese
+    e la sterlina irlandese, il regolamento (CEE) n. 878/77 relativo ai tassi di cambio
+    da applicare nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 643/79 van de Raad van 29 maart 1979 houdende wijziging,
+    ten aanzien van de Franse frank, de Italiaanse lire, het Engelse pond en het lerse
+    pond, van Verordening (EEG) nr. 878/77 inzake de in de landbouwsector toe te passen
+    wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0643
+docidentifier:
+- content: EU Regulation 643/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0643
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/643/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-29'
+- type: implemented
+  at: '1979-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

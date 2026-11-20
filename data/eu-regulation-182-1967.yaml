@@ -1,0 +1,69 @@
+---
+id: EURegulation1821967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 182/67/CEE de la Commission, du 27 juin 1967, portant modification
+    de l'annexe I du règlement n 158/64/CEE en ce qui concerne les impositions intérieures
+    perçues sur certains produits laitiers à l'importation aux Pays-Bas
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 182/67/EWG der Kommission vom 27. Juni 1967 zur Änderung
+    des Anhangs I der Verordnung Nr. 158/64/EWG hinsichtlich der bei der Einfuhr bestimmter
+    Milcherzeugnisse nach den Niederlanden erhobenen inländischen Abgaben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 182/67/CEE della Commissione, del 27 giugno 1967, che modifica
+    l'allegato I del regolamento n. 158/64/CEE relativo al calcolo delle imposizioni
+    interne riscosse all'importazione in Olanda su alcuni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening No. 182/67/EEG van de Commissie van 27 juni 1967 houdende wijziging
+    van bijlage I van Verordening no. 158/64/EEG betreffende de bij de invoer van
+    bepaalde zuivelprodukten in Nederland geheven binnenlandse belastingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0182
+docidentifier:
+- content: EU Regulation 182/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0182
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/182/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

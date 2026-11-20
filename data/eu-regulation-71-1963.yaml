@@ -1,0 +1,66 @@
+---
+id: EURegulation711963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 71/63/CEE de la Commission, du 9 juillet 1963, limitant le
+    montant de la restitution applicable lors de la réexportation de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 71/63/EWG der Kommission vom 9. Juli 1963 zur Begrenzung
+    der Höhe der Erstattung bei der Wiederausfuhr von Getreide
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 71/63/CEE della Commissione del 9 luglio 1963, relativo
+    alla limitazione dell'ammontare della restituzione applicabile alla riesportazione
+    di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 71/63/EEG van de Commissie van 9 juli 1963 houdende beperking
+    van het bedrag der restitutie bij wederuitvoer van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0071
+docidentifier:
+- content: EU Regulation 71/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0071
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/71/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

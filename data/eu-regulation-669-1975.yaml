@@ -1,0 +1,82 @@
+---
+id: EURegulation6691975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 669/75 of the Council of 4 March 1975 fixing the target
+    price for husked rice for the 1975/76 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 669/75 du Conseil, du 4 mars 1975, fixant, pour la
+    campagne 1975/1976, le prix indicatif du riz décortiqué
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 669/75 des Rates vom 4. März 1975 zur Festsetzung
+    des Richtpreises für geschälten Reis für das Wirtschaftsjahr 1975/1976
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 669/75 af 4. marts 1975 om fastsættelse
+    af indikativprisen for afskallet ris for høståret 1975/1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 669/75 del Consiglio, del 4 marzo 1975, che fissa
+    il prezzo indicativo del riso semigreggio per la campagna 1975/1976
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 669/75 van de Raad van 4 maart 1975 tot vaststelling
+    van de richtprijs voor gedopte rijst voor het verkoopseizoen 1975/1976
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0669
+docidentifier:
+- content: EU Regulation 669/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0669
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/669/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-04'
+- type: implemented
+  at: '1975-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

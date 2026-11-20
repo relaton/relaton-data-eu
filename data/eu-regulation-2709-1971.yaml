@@ -1,0 +1,65 @@
+---
+id: EURegulation27091971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2709/71 de la Commission, du 20 décembre 1971, modifiant
+    le prélèvement pour les olives importées du Maroc et de Tunisie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2709/71 der Kommission vom 20. Dezember 1971 zur Änderung
+    der Abschöpfungen für aus Marokko und Tunesien eingeführte Oliven
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2709/71 della Commissione, del 20 dicembre 1971, che
+    modifica il prelievo per le olive importate dal Marocco e dalla Tunisia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2709/71 van de Commissie van 20 december 1971 houdende
+    wijziging van de heffingen voor uit Marokko en Tunesië ingevoerde olijven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2709
+docidentifier:
+- content: EU Regulation 2709/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2709
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2709/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

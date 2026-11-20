@@ -1,0 +1,65 @@
+---
+id: EURegulation1091964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 109/64/CEE de la Commission, du 24 juillet 1964, relatif aux
+    modalités d'application de l'article 9 du règlement n 14/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 109/64/EWG der Kommission vom 24. Juli 1964 zur Durchführung
+    des Artikels 9 der Verordnung Nr. 14/64/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 109/64/CEE della Commissione, del 24 luglio 1964, relativo
+    alle modalità di applicazione dell'articolo 9 del regolamento n. 14/64/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 109/64/EEG van de Commissie van 24 juli 1964 betreffende
+    de wijze van toepassing van artikel 9 van Verordening no. 14/64/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0109
+docidentifier:
+- content: EU Regulation 109/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0109
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/109/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-08-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

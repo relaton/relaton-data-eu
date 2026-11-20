@@ -1,0 +1,94 @@
+---
+id: EURegulation28871977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2887/77 of 23 December 1977 amending Regulation
+    (EEC) No 609/77 applying quality class 'III' to certain fruit for the 1977/78
+    marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2887/77 de la Commission, du 23 décembre 1977, modifiant
+    le règlement (CEE) n° 609/77 portant application des catégories de qualité
+    III à certains fruits de la campagne 1977/1978
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2887/77 der Kommission vom 23. Dezember 1977 zur Änderung
+    der Verordnung (EWG) Nr. 609/77 zur Anwendung der Güteklasse "III" auf bestimmtes
+    Obst im Wirtschaftsjahr 1977/78
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2887/77 af 23. december 1977 om ændring
+    af forordning (EØF) nr. 609/77 om anvendelse af kvalitetsklasse III for visse
+    frugtsorter i høståret 1977/1978
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2887/77 della Commissione, del 23 dicembre 1977, recante
+    modifica del regolamento (CEE) n. 609/77 che applica le categorie di qualità
+    «III» a taluni prodotti frutticoli della campagna 1977/1978
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2887/77 van de Commissie van 23 december 1977 tot
+    wijziging van Verordening (EEG) nr. 609/77 houdende toepassing van de kwaliteitsklassen
+    "III" voor bepaalde soorten fruit voor het verkoopseizoen 1977/1978
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2887
+docidentifier:
+- content: EU Regulation 2887/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2887
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2887/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-23'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0609
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

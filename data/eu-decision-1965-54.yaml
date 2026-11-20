@@ -1,0 +1,84 @@
+---
+id: EUDecision196554
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 65/54/CEE de la Commission, du 21 décembre 1964, portant modification
+    de sa décision du 6 novembre 1964, autorisant la perception de taxes compensatoires
+    sur les importations en République française de sucreries sans cacao, ne contenant
+    pas de liqueur alcoolique, en provenance des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '65/54/EWG: Entscheidung der Kommission vom 21. Dezember 1964 zur Änderung
+    ihrer Entscheidung vom 6. November 1964 über die Erhebung von Ausgleichsabgaben
+    auf Einfuhren von Zuckerwaren ohne Kakaogehall, nicht alkoholhaltig, aus verschiedenen
+    Mitgliedstaaten in die Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '65/54/CEE: Decisione della Commissione, del 21 dicembre 1964, che modifica
+    la decisione del 6 novembre 1964, che autorizza la riscossione di tasse di compensazione
+    sulle importazioni nella Repubblica francese di prodotti a base di zuccheri senza
+    cacao, non contenenti sostanze alcoliche, in provenienza da alcuni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/54/EEG: Beschikking van de Commissie van 21 december 1964 tot wijziging
+    van haar beschikking van 6 november 1964, houdende machtiging tot het leggen van
+    een compenserende heffing op de invoer in de Franse Republiek van suikerwerk zonder
+    cacao, geen likeur bevattend, uit bepaalde Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0054
+docidentifier:
+- content: EU Decision 1965/54
+  type: EU
+  primary: true
+- content: CELEX 31965D0054
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/54/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-21'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0691
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

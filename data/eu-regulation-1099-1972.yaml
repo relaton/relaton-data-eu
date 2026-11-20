@@ -1,0 +1,65 @@
+---
+id: EURegulation10991972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1099/72 du Conseil, du 30 mai 1972, fixant le prix de
+    base et le prix d'achat des pommes pour le mois de juin 1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1099/72 des Rates vom 30. Mai 1972 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Äpfel für den Monat Juni 1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1099/72 del Consiglio, del 30 maggio 1972, che fissa
+    il prezzo di base e il prezzo d'acquisto per le mele per il mese di giugno 1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1099/72 van de Raad van 30 mei 1972 houdende vaststelling
+    van de basisprijs en de aankoopprijs voor appelen voor de maand juni 1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1099
+docidentifier:
+- content: EU Regulation 1099/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1099
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1099/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

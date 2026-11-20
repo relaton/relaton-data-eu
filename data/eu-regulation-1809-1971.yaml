@@ -1,0 +1,65 @@
+---
+id: EURegulation18091971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1809/71 de la Commission, du 19 août 1971, fixant les
+    prélèvements applicables au riz et aux brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1809/71 der Kommission vom 19. August 1971 zur Festsetzung
+    der bei Reis und Bruchreis anzuwendenden Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1809/71 della Commissione, del 19 agosto 1971, che
+    fissa i prelievi applicabili al riso e alle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1809/71 van de Commissie van 19 augustus 1971 tot
+    vaststelling van de heffingen die van toepassing zijn op rijst en op breukrijst.
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1809
+docidentifier:
+- content: EU Regulation 1809/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1809
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1809/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

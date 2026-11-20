@@ -1,0 +1,77 @@
+---
+id: EURegulation371962
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* Regulation No 37 of the Council on the criteria for fixing the threshold prices for certain categories of flour, groats and meal */"
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 37 du Conseil relatif aux critères de fixation des prix
+    de seuil pour certaines catégories de farines, gruaux et semoules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 37 des Rats über die Kriterien für die Festsetzung der
+    Schwellenpreise für bestimmte Arten von Mehl, Grobgrieß und Feingrieß
+  type: main
+- language: da
+  script: Latn
+  content: "/* Rådets forordning nr. 37 om kriterierne for fastsættelse af tærskelpriser for visse former for mel og grove og fine gryn */"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 37 del Consiglio relativo ai criteri di fissazione dei prezzi
+    di entrata per alcuni tipi di farine, semole e semolini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 37 van de Raad betreffende de criteria voor de vaststelling
+    van de drempelprijzen voor bepaalde soorten van meel, grutten, gries en griesmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0037
+docidentifier:
+- content: EU Regulation 37/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0037
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/37/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-06-20'
+- type: implemented
+  at: '1962-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EURegulation21031973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2103/73 of the Council of 1 August 1973 amending Regulation
+    (EEC) No 1984/73 defining special conditions for the sale of common wheat held
+    by the Italian intervention agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2103/73 du Conseil, du 1er août 1973, modifiant le
+    règlement (CEE) n° 1984/73 définissant les conditions particulières de mise
+    en vente de blé tendre détenu par l'organisme d'intervention italien
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2103/73 des Rates vom 1. August 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1984/73 zur Festlegung der Sonderbedingungen für die
+    Abgabe von Weichweizen, der sich im Besitz der italienischen Interventionsstelle
+    befindet
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2103/73 af 1. august 1973 om ændring af
+    forordning (EØF) nr. 1984/73 om fastsættelse af de særlige betingelser for
+    salg af blød hvede, som det italienske interventionsorgan ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2103/73 del Consiglio, del 1 agosto 1973, recante
+    modifica del regolamento (CEE) n. 1984/73 che definisce le condizioni particolari
+    per la vendita di frumento tenero detenuto dall'organismo d'intervento italiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2103/73 van de Raad van 1 augustus 1973 tot wijziging
+    van Verordening (EEG) nr. 1984/73 tot vaststelling van de bijzondere voorwaarden
+    voor de verkoop van zachte tarwe die zich in het bezit van het Italiaanse interventiebureau
+    bevindt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2103
+docidentifier:
+- content: EU Regulation 2103/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2103
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2103/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-08-01'
+- type: implemented
+  at: '1973-08-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1984
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

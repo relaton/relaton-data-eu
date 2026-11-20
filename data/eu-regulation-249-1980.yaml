@@ -1,0 +1,109 @@
+---
+id: EURegulation2491980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 249/80 of 29 January 1980 amending Regulation
+    (EEC) No 1883/78 laying down general rules for the financing of interventions
+    by the European Agricultural Guidance and Guarantee Fund (EAGGF), Guarantee Section
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 249/80 du Conseil, du 29 janvier 1980, modifiant le
+    règlement (CEE) n° 1883/78 relatif aux règles générales sur le financement
+    des interventions par le Fonds européen d' orientation et de garantie agricole
+    (FOEGA), section "garantie"
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 249/80 des Rates vom 29. Januar 1980 zur Änderung
+    der Verordnung (EWG) Nr. 1883/78 über die allgemeinen Regeln für die Finanzierung
+    der Interventionen durch den Europäischen Ausrichtungs- und Garantiefonds für
+    die Landwirtschaft, Abteilung Garantie
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 249/80 af 29. januar 1980 om ændring af
+    forordning (EØF) nr. 1883/78 om almindelige regler for finansiering af interventioner
+    gennem Den europæiske udviklings- og garantifond for Landbruget, garantisektionen
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 249/80 του Συμβουλίου
+    της 29ης Ιανουαρίου 1980 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 1883/78 «περί των γενικών
+    κανόνων χρηματοδοτήσεως των παρεμβάσεων από
+    το Ευρωπαϊκό Γεωργικό Ταμείο Προσανατολισμού
+    και Εγγυήσεων, τμήμα «Εγγυήσεων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 249/80 del Consiglio, del 29 gennaio 1980, che modifica
+    il regolamento (CEE) n. 1883/78 relativo alle norme generali per il finanziamento
+    degli interventi da parte del Fondo europeo agricolo di orientamento e di garanzia
+    (FEAOG), sezione garanzia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 249/80 van de Raad van 29 januari 1980 tot wijziging
+    van Verordening (EEG) nr. 1883/78 betreffende de algemene regels voor de financiering
+    van de interventies door het Europees Oriëntatie- en Garantiefonds voor de Landbouw,
+    afdeling Garantie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0249
+docidentifier:
+- content: EU Regulation 249/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0249
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/249/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-01-29'
+- type: implemented
+  at: '1980-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1883
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

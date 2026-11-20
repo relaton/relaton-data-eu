@@ -1,0 +1,73 @@
+---
+id: EURegulation161967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 16/67/CEE de la Commission, du 27 janvier 1967, fixant le
+    montant maximum des restitutions applicables, à partir du 30 janvier 1967, aux
+    exportations vers les pays tiers de viande bovine congelée n'ayant pas fait l'objet
+    de mesures d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 16/67/EWG der Kommission vom 27. Januar 1967 zur Festsetzung
+    des Höchstbetrags der ab 30. Januar 1967 anwendbaren Erstattungen für Ausfuhren
+    von gefrorenem Rindfleisch, das nicht Gegenstand von InterventionsmaDnahmen war,
+    nach dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 16/67/CEE della Commissione, del 27 gennaio 1967, che fissa
+    l'importo massimo delle restituzioni applicabili, a partire dal 30 gennaio 1967,
+    all'esportazione verso i paesi terzi di carni bovine congelate che non sono state
+    oggetto di misure d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 16/67/EEG van de Commissie van 27 januari 1967 houdende
+    vaststelling van het maximumbedrag van de restituties, die vanaf 30 januari 1967
+    van toepassing zijn op de uitvoer naar derde landen van bevroren rundvlees waarvoor
+    geen interventie heeft plaatsgevonden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0016
+docidentifier:
+- content: EU Regulation 16/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0016
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/16/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

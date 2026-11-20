@@ -1,0 +1,102 @@
+---
+id: EURegulation30401978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3040/78 of 18 December 1978 amending Regulation
+    (EEC) No 2327/78 laying down certain measures for the conservation and management
+    of fishery resources applicable to vessels flying the flag of Spain for the period
+    1 October to 31 December 1978
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3040/78 du Conseil, du 18 décembre 1978, modifiant
+    le règlement (CEE) n° 2327/78 fixant certaines mesures de conservation et de
+    gestion des ressources de pêche applicables aux navires battant pavillon de l'
+    Espagne pour la période allant du 1er octobre au 31 décembre 1978
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3040/78 des Rates vom 18. Dezember 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2327/78 zur Festlegung bestimmter Maßnahmen für die
+    Zeit vom 1. Oktober bis zum 31. Dezember 1978 zur Erhaltung und Bewirtschaftung
+    der Fischbestände gegenüber Schiffen, die die Flagge Spaniens führen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3040/78 af 18. december 1978 om ændring
+    af forordning (EØF) nr. 2327/78 om fastsættelse af en række foranstaltninger
+    til bevarelse og forvaltning af fiskeressourcerne, som skal finde anvendelse på
+    fartøjer, der sejler under spansk flag, i perioden 1. oktober til 31. december
+    1978
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3040/78 del Consiglio, del 18 dicembre 1978, che modifica
+    il regolamento (CEE) n. 2327/78, che stabilisce talune misure per la conservazione
+    e la gestione delle risorse ittiche da applicare alle navi battenti bandiera della
+    Spagna per il periodo dal 1° ottobre al 31 dicembre 1978
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3040/78 van de Raad van 18 december 1978 houdende
+    wijziging van Verordening (EEG) nr. 2327/78 tot vaststelling van bepaalde maatregelen
+    voor de instandhouding en het beheer van de visbestanden, die in het tijdvak van
+    1 oktober tot en met 31 december 1978 van toepassing zijn op vaartuigen die de
+    vlag van Spanje voeren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R3040
+docidentifier:
+- content: EU Regulation 3040/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R3040
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/3040/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-12-18'
+- type: implemented
+  at: '1978-12-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2327
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,71 @@
+---
+id: EURegulation1021964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 102/64/CEE de la Commission, du 28 juillet 1964, relatif aux
+    certificats d'importation et d'exportation pour les céréales, les produits transformés
+    à base de céréales, le riz, les brisures et les produits transformés à base
+    de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 102/64/EWG der Kommission vom 28. Juli 1964 über die Einfuhr-
+    und Ausfuhrlizenzen für Getreide und Getreideerzeugnisse, Reis, Bruchreis und
+    Verarbeitungserzeugnisse aus Reis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 102/64/CEE della Commissione, del 28 luglio 1964, relativo
+    ai titoli d'importazione e d'esportazione per i cereali, i prodotti trasformati
+    a base di cereali, il riso, le rotture di riso ed i prodotti trasformati a base
+    di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 102/64/EEG van de Commissie van 28 juli 1964 met betrekking
+    tot de invoer- en uitvoercertificaten voor granen, op basis van granen verwerkte
+    produkten, rijst, breukrijst en op basis van rijst verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0102
+docidentifier:
+- content: EU Regulation 102/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0102
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/102/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

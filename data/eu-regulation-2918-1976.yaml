@@ -1,0 +1,98 @@
+---
+id: EURegulation29181976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2918/76 of 29 November 1976 amending Regulation
+    (EEC) No 947/70 laying down general rules for fixing the reference price and levying
+    the countervailing charge for wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2918/76 du Conseil, du 29 novembre 1976, modifiant
+    le règlement (CEE) n° 947/70 établissant les règles générales pour la fixation
+    du prix de référence et la perception de la taxe compensatoire dans le secteur
+    du vin
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2918/76 des Rates vom 29. November 1976 zur Änderung
+    der Verordnung (EWG) Nr. 947/70 zur Festlegung der Grundregeln für die Festsetzung
+    des Referenzpreises und die Erhebung der Ausgleichsabgabe für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2918/76 af 29. november 1976 om ændring
+    af forordning (EØF) nr. 947/70 om fastlæggelse af de almindelige regler for
+    fastsættelsen af referenceprisen og opkrævningen af udligningsafgiften inden
+    for vinsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2918/76 del Consiglio, del 29 novembre 1976, che modifica
+    il regolamento (CEE) n. 947/70, relativo alle norme generali per la fissazione
+    del prezzo di riferimento e la riscossione della tassa di compensazione nel settore
+    vinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2918/76 van de Raad van 29 november 1976 tot wijziging
+    van Verordening (EEG) nr. 947/70 houdende algemene regels voor de vaststelling
+    van hun referentieprijs en de toepassing van de compenserende heffing in de sector
+    wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2918
+docidentifier:
+- content: EU Regulation 2918/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2918
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2918/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-29'
+- type: implemented
+  at: '1976-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0947
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

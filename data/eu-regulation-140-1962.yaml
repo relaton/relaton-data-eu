@@ -1,0 +1,78 @@
+---
+id: EURegulation1401962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 140 du Conseil reportant la date de la mise en application
+    du régime des prélèvements pour certains produits du secteur de la viande de
+    porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 140 des Rats zur Verlegung des Zeitpunkts für den Beginn
+    der Anwendung der Abschöpfungsregelung für einige Schweinefleischerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 140 del Consiglio che rinvia la data dell'applicazione del
+    regime dei prelievi per taluni prodotti del settore della carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 140 van de Raad houdende verschuiving van de datum waarop
+    het stelsel van heffingen voor bepaalde produkten van de sector varkensvlees van
+    toepassing wordt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0140
+docidentifier:
+- content: EU Regulation 140/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0140
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/140/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-11-14'
+- type: implemented
+  at: '1962-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0057
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

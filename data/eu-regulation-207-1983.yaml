@@ -1,0 +1,101 @@
+---
+id: EURegulation2071983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 207/83 of 27 January 1983 amending Regulation
+    (EEC) No 2991/82 with regard to the maximum period for the packaging of butter
+    for direct consumption in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 207/83 de la Commission du 27 janvier 1983 modifiant
+    le règlement (CEE) no 2991/82 en ce qui concerne le délai maximal pour le conditionnement
+    du beurre destiné à la consommation directe dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 207/83 der Kommission vom 27. Januar 1983 zur Änderung
+    der Verordnung (EWG) Nr. 2991/82 hinsichtlich der Höchstfrist für die Verpackung
+    von zum unmittelbaren Verbrauch in der Gemeinschaft bestimmter Butter
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 207/83 af 27. januar 1983 om ændring
+    af forordning (EØF) nr. 2991/82 for så vidt angår maksimumsfristen for emballering
+    af smør til direkte konsum i Fællesskabet
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 207/83 της Επιτροπής
+    της 27ης Ιανουαρίου 1983 που τροποποιεί τον κανονισμό
+    (ΕΟΚ) αριθ. 2991/82 όσον αφορά τη μέγιστη προθεσμία
+    για τη συσκευασία του βουτύρου που προορίζεται
+    για άμεση κατανάλωση στην Κοινότητα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 207/83 della Commissione del 27 gennaio 1983 che modifica
+    il regolamento (CEE) n. 2991/82 per quanto riguarda il termine massimo per il
+    condizionamento del burro destinato al consumo diretto nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 207/83 van de Commissie van 27 januari 1983 tot wijziging
+    van Verordening (EEG) nr. 2991/82 ten aanzien van de uiterste termijn voor de
+    verpakking van boter bestemd voor rechtstreekse consumptie in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0207
+docidentifier:
+- content: EU Regulation 207/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0207
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/207/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-01-27'
+- type: implemented
+  at: '1982-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R2991
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

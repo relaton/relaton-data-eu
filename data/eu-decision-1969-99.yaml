@@ -1,0 +1,80 @@
+---
+id: EUDecision196999
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 11 mars 1969, relative à la mise à jour
+    de la liste des organismes de droit public, prévue à l'article 18 du règlement
+    n° 9 du Conseil concernant le Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: '69/99/EWG: Entscheidung der Kommission vom 11. März 1969 zur Ergänzung
+    des in Artikel 18 der Verordnung Nr. 9 des Rates über den Europäischen Sozialfonds
+    vorgesehenen Verzeichnisses der Körperschaften des öffentlichen Rechts'
+  type: main
+- language: it
+  script: Latn
+  content: '69/99/CEE: Decisione della Commissione, dell''11 marzo 1969, relativa
+    all''aggiornamento dell''elenco degli enti di diritto pubblico previsto all''articolo
+    18 del regolamento n. 9 del Consiglio, concernente il fondo sociale europeo'
+  type: main
+- language: nl
+  script: Latn
+  content: '69/99/EEG: Beschikking van de Commissie van 11 maart 1969 houdende aanvulling
+    van de lijst van publiekrechtelijke lichamen, bedoeld bij artikel 18 van Verordening
+    nr. 9 van de Raad betreffende het Europees Sociaal Fonds'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969D0099
+docidentifier:
+- content: EU Decision 1969/99
+  type: EU
+  primary: true
+- content: CELEX 31969D0099
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1969/99/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-11'
+- type: implemented
+  at: '1969-04-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31961D1203P0144
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

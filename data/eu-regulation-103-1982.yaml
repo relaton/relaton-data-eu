@@ -1,0 +1,113 @@
+---
+id: EURegulation1031982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 103/82 of 19 January 1982 amending Regulations
+    (EEC) No 2110/81, (EEC) No 2843/81 and (EEC) No 2964/81 in relation to certain
+    wine distillation operations
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 103/82 de la Commission, du 19 janvier 1982, modifiant
+    les règlements (CEE) n° 2110/81, (CEE) n° 2843/81 et (CEE) n° 2964/81 relatifs
+    à certaines opérations de distillation de vins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 103/82 der Kommission vom 19. Januar 1982 zur Änderung
+    der Verordnungen (EWG) Nr. 2110/81, (EWG) Nr. 2843/81 und (EWG) Nr. 2964/81 hinsichtlich
+    bestimmter Destillationsmaßnahmen für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 103/82 af 19. januar 1982 om ændring
+    af forordning (EØF) nr. 2110/81, (EØF) nr. 2843/81 og (EØF) nr. 2964/81 vedrørende
+    visse destillationsforanstaltninger i vinsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 103/82 τής Επιτροπής τής
+    19ης Ιανουαρίου 1982 περί τροποποιήσεως τών κανονισμών
+    (EOK) αριθ. 2110/81, (EOK) αριθ. 2843/81 καί (EOK) αριθ. 2964/81
+    περί ορισμένων εργασιών αποστάξεως τών οίνων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 103/82 della Commissione, del 19 gennaio 1982, che
+    modifica i regolamenti (CEE) n. 2110/81, (CEE) n. 2843/81 e (CEE) n. 2964/81,
+    relativi a talune operazioni di distillazione dei vini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 103/82 van de Commissie van 19 januari 1982 tot wijziging
+    van de Verordeningen (EEG) nr. 2110/81, (EEG) nr. 2843/81 en (EEG) nr. 2964/81,
+    welke betrekking hebben op een aantal maatregelen voor de distillatie van wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R0103
+docidentifier:
+- content: EU Regulation 103/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R0103
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/103/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-01-19'
+- type: implemented
+  at: '1981-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R2110
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R2843
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R2964
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

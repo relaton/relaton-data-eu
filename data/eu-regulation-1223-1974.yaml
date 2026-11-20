@@ -1,0 +1,129 @@
+---
+id: EURegulation12231974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1223/74 of the Commission of 15 May 1974 derogating
+    from Regulation (EEC) No 2637/70 as regards the period of validity of export licences
+    for cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1223/74 de la Commission, du 15 mai 1974, portant
+    dérogation au règlement (CEE) n° 2637/70 en ce qui concerne la durée de validité
+    des certificats d' exportation dans le secteur des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1223/74 der Kommission vom 15. Mai 1974 über eine
+    Abweichung von der Verordnung (EWG) Nr. 2637/70 hinsichtlich der Gültigkeitsdauer
+    der Ausfuhrlizenzen für Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1223/74 af 15. maj 1974 om afvigelse
+    fra forordning (EØF) nr. 2637/70 for så vidt angår gyldighedsperioden for eksportlicenser
+    for korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1223/74 della Commissione, del 15 maggio 1974, recante
+    deroga al regolamento (CEE) n. 2637/70 per quanto concerne la durata di validità
+    dei titoli d' esportazione nei settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1223/74 van de Commissie van 15 mei 1974 houdende
+    afwijking van Verordening (EEG) nr. 2637/70 inzake de geldigheidsduur van de uitvoercertificaten
+    in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1223
+docidentifier:
+- content: EU Regulation 1223/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1223
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1223/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-05-15'
+- type: implemented
+  at: '1974-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0133
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0603
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0604
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0813
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0848
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0888
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0994
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

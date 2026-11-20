@@ -1,0 +1,65 @@
+---
+id: EURegulation10011971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1001/71 de la Commission, du 14 mai 1971, fixant les
+    prélèvements dans le secteur de l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1001/71 der Kommission vom 14. Mai 1971 zur Festsetzung
+    der Abschöpfungen für Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1001/71 della Commissione, del 14 maggio 1971, che
+    fissa i prelievi nel settore dell'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1001/71 van de Commissie van 14 mei 1971 houdende
+    vaststelling van de heffingen in de sector olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1001
+docidentifier:
+- content: EU Regulation 1001/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1001
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1001/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,138 @@
+---
+id: EURegulation17571978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1757/78 of 26 July 1978 amending Regulations
+    (EEC) No 1523/71 and (EEC) No 771/74 regarding flax and hemp
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1757/78 de la Commission, du 26 juillet 1978, modifiant
+    les règlements (CEE) n° 1523/71 et (CEE) n° 771/74 concernant le secteur du
+    lin et du chanvre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1757/78 der Kommission vom 26. Juli 1978 zur Änderung
+    der Verordnungen (EWG) Nr. 1523/71 und (EWG) Nr. 771/74 betreffend den Flachs-
+    und Hanfsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1757/78 af 26. juli 1978 om ændring
+    af forordning (EØF) nr. 1523/71 og (EØF) nr. 771/74 om hør- og hampsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1757/78 της Επιτροπής
+    της 26ης Ιουλίου 1978 περί τροποποιήσεως των κανονισμών
+    (ΕΟΚ) αριθ. 1523/71 και (ΕΟΚ) αριθ. 771/74 «περί του
+    τομέως του λίνου και της καννάβεως»
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (ETY) N:o 1757/78, annettu 26 päivänä heinäkuuta 1978,
+    pellava- ja hamppualaa koskevien asetusten (ETY) N:o 1523/71 ja (ETY) N:o 771/74
+    muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1757/78 della Commissione, del 26 luglio 1978, che
+    modifica i regolamenti (CEE) n. 1523/71 e (CEE) n. 771/74 relativi al settore
+    del lino e della canapa
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1757/78 van de Commissie van 26 juli 1978 tot wijziging
+    van Verordening (EEG) nr. 1523/71 en van Verordening (EEG) nr. 771/74 betreffende
+    de sector vlas en hennep
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 1757/78 da Comissão, de 26 de Julho de 1978, que
+    altera os Regulamentos (CEE) nº 1523/71 e (CEE) nº 771/74 relativos ao sector
+    do linho e do cânhamo
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1757/78 de la Comisión, de 26 de julio de 1978, por
+    el que se modifican los Reglamentos (CEE) n° 1523/71 y (CEE) n° 771/74 referentes
+    al sector del lino y del cáñamo
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EEG) nr 1757/78 av den 26 juli 1978 om ändring
+    av förordningarna (EEG) nr 1523/71 och (EEG) nr 771/74 avseende lin och hampa
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1757
+docidentifier:
+- content: EU Regulation 1757/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1757
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1757/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-07-26'
+- type: implemented
+  at: '1978-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1523
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1523
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0771
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

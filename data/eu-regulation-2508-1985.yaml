@@ -1,0 +1,104 @@
+---
+id: EURegulation25081985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2508/85 of 4 September 1985 revoking Regulation
+    (EEC) No 2350/85 concerning the stopping of fishing for haddock by vessels flying
+    the flag of the Netherlands
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2508/85 de la Commission du 4 septembre 1985 abrogeant
+    le règlement (CEE) no 2350/85 concernant l' arrêt de la pêche de l' églefin
+    par les navires battant pavillon des Pays-Bas
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2508/85 der Kommission vom 4. September 1985 zur Widerrufung
+    der Verordnung (EWG) Nr. 2350/85 über die Einstellung des Schellfischfangs durch
+    Schiffe unter niederländischer Flagge
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2508/85 af 4. september 1985 om ophævelse
+    af forordning (EØF) nr. 2350/85 om indstilling af fiskeri efter kuller fra fartøjer,
+    som fører nederlandsk flag
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2508/85 της Επιτροπής
+    της 4ης Σεπτεμβρίου 1985 περί καταργήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 2350/85 περί παύσεως της
+    αλιείας του καλλαρία από σκάφη με σημαία των
+    Κάτω Χωρών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2508/85 della Commissione del 4 settembre 1985 che
+    revoca il regolamento (CEE) n. 2350/85 relativo alla sospensione della pesca dell'
+    eglefino da parte delle navi battenti bandiera dei Paesi Bassi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2508/85 van de Commissie van 4 september 1985 tot
+    intrekking van Verordening (EEG) nr. 2350/85 betreffende het beëindigen van de
+    visserij op schelvis door vissersvaartuigen die de vlag voeren van Nederland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R2508
+docidentifier:
+- content: EU Regulation 2508/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R2508
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/2508/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-09-04'
+- type: implemented
+  at: '1985-08-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R2350
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

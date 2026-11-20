@@ -1,0 +1,109 @@
+---
+id: EURegulation4481981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 448/81 of 20 February 1981 amending Regulations
+    (EEC) No 334/81 and (EEC) No 335/81 of 9 February 1981 on some actions as food
+    aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 448/81 de la Commission, du 20 février 1981, modifiant
+    les règlements (CEE) n° 334/81 et (CEE) n° 335/81 de la Commission, du 9 février
+    1981, relatifs à certaines actions d' aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) 448/81 der Kommission vom 20. Februar 1981 zur Änderung
+    der Verordnungen (EWG) Nr. 334/81 und (EWG) Nr. 335/81 der Kommission vom 9. Februar
+    1981 über bestimmte Nahrungsmittelhilfen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 448/81 af 20. februar 1981 om ændring
+    af forordning (EØF) nr. 334/81 og (EØF) nr. 335/81 af 9. februar 1981 vedrørende
+    visse fødevarehjælpeaktioner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 448/81 τής Επιτροπής
+    τής 20ής Φεβρουαρίου 1981 περί τροποποιήσεως
+    τών κανονισμών (ΕΟΚ) αριθ. 334/81 καί (EOK) αριθ. 335/81
+    τής Επιτροπής τής 9ης Φεβρουαρίου 1981 σχετικών
+    μέ ορισμένες ενέργειες επισιτιστικής βοηθείας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 448/81 della Commissione, del 20 febbraio 1981, che
+    modifica i regolamenti (CEE) n. 334/81 e (CEE) n. 335/81 della Commissione, del
+    9 febbraio 1981, relativi ad alcune azioni di aiuto alimentare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 448/81 van de Commissie van 20 februari 1981 tot
+    wijziging van de Verordeningen (EEG) nr. 334/81 en (EEG) nr. 335/81 van de Commissie
+    van 9 februari 1981 betreffende bepaalde voedselhulpacties
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0448
+docidentifier:
+- content: EU Regulation 448/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0448
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/448/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-02-20'
+- type: implemented
+  at: '1981-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R0334
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R0335
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

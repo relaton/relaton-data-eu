@@ -1,0 +1,88 @@
+---
+id: EUDecision1967337
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 67/337/CEE de la Commission, du 22 mai 1967, portant abrogation
+    de sa décision du 6 juillet 1966, autorisant la République française, aux termes
+    de l'article 115 alinéa 1 du Traité, à surseoir à la délivrance des licences
+    d'importation pour l'oxytétracycline chlorhydrate, originaire de Pologne et mis
+    en libre pratique dans d'autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '67/337/EWG: Entscheidung der Kommission vom 22. Mai 1967 zur Aufhebung
+    ihrer Entscheidung vom 6. Juli 1966, mit der die Französische Republik ermächtigt
+    wird, die Erteilung von Einfuhrgenehmigungen für "Oxytetracyclinchlorhydrat"
+    der Tarifnummer ex 29.44 D des Gemeinsamen Zolltarifs mit Ursprung in Polen, das
+    sich in den anderen Mitgliedstaaten im freien Verkehr befindet, auszusetzen'
+  type: main
+- language: it
+  script: Latn
+  content: '67/337/CEE: Decisione della Commissione, del 22 maggio 1967, con cui abroga
+    la propria decisione del 6 luglio 1966, che autorizzava la Repubblica francese,
+    ai sensi dell''articolo 115, comma 1, del Trattato, a sospendere il rilascio di
+    licenze di importazione per l''«ossitetraciclina cloridrato» della voce ex 29.44
+    D della tariffa doganale comune, originaria della Polonia e messa in libera pratica
+    in altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/337/EEG: Beschikking van de Commissie van 22 mei 1967 houdende intrekking
+    van haar beschikking van 6 juli 1966, waarbij de Franse Republiek op grond van
+    artikel 115, eerste alinea, van het Verdrag is gemachtigd de afgifte op te schorten
+    van invoervergunningen voor "oxytetracycline-chloorhydraat" (post ex 29.44 D van
+    het gemeenschappelijk douanetarief), van oorsprong uit Polen en in de andere Lid-Staten
+    in het vrije verkeer gebracht'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0337
+docidentifier:
+- content: EU Decision 1967/337
+  type: EU
+  primary: true
+- content: CELEX 31967D0337
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/337/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0458
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

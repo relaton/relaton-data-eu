@@ -1,0 +1,77 @@
+---
+id: EURegulation1121962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 112 de la Commission modifiant le règlement n 75 de la Commission
+    portant fixation du montant des prélèvements intracommunautaires pour la volaille
+    abattue de basse-cour et le règlement n 79 de la Commission portant fixation
+    du montant des prélèvements intracommunautaires pour les volailles vivantes
+    de basse-cour d'un poids n'excédant pas 185 grammes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 112 der Kommission zur Änderung der Verordnung Nr. 75 der
+    Kommission über die Festsetzung der innergemeinschaftlichen Abschöpfungsbeiträge
+    für geschlachtetes Hausgeflügel und der Verordnung Nr. 79 der Kommission über
+    die Festsetzung der innergemeinschaftlichen Abschöpfungsbeträge für lebendes
+    Hausgeflügel mit einem Gewicht von höchstens 185 Gramm
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 112 della Commissione che modifica il regolamento n. 75
+    della Commissione relativo alla determinazione del prelievo intracomunitario applicable
+    ai volatili da cortile macellati e il regolamento n. 79 della Commissione relativo
+    alla determinazione del prelievo intracomunitario applicabile ai volatili vivi
+    da cortile di peso non superiore a 185 grammi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 112 van de Commissie tot wijziging van Verordening no.
+    75 van de Commissie tot vaststelling van de bedragen der intracommunautaire heffingen
+    voor geslacht pluimvee en van Verordening no. 79 van de Commissie tot vaststelling
+    van de bedragen der intracommunautaire heffingen voor levend pluimvee dat niet
+    meer dan 185 gram weegt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0112
+docidentifier:
+- content: EU Regulation 112/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0112
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/112/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

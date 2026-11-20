@@ -1,0 +1,67 @@
+---
+id: EURegulation651967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 65/67/CEE de la Commission, du 22 mars 1967, fixant les montants
+    des impositions à l'importation et les prix d'écluse pour certaines albumines
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 65/67/EWG der Kommission vom 22. März 1967 zur Festsetzung
+    der Beträge der Abgaben bei der Einfuhr und der Einschleusungspreise für bestimmte
+    Albumine
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 65/67/CEE della Commissione, del 22 marzo 1967, che fissa
+    gli importi delle imposte all'importazione ed i prezzi limite per alcune albumine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 65/67/EEG van de Commissie van 22 maart 1967 tot vaststelling
+    van de bedragen der belastingen bij invoer en van de sluisprijzen voor bepaalde
+    eiwitten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0065
+docidentifier:
+- content: EU Regulation 65/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0065
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/65/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

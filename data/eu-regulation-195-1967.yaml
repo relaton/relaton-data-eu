@@ -1,0 +1,81 @@
+---
+id: EURegulation1951967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 195/67/CEE du Conseil, du 27 juin 1967, modifiant le règlement
+    n° 13/64/CEE en ce qui concerne les restitutions à accorder aux produits laitiers
+    contenus dans des produits transformés exportés vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 195/67/EWG des Rates vom 27. Juni 1967 zur Änderung der
+    Verordnung Nr. 13/64/EWG bezüglich der Erstattungen für Milcherzeugnisse, die
+    in nach dritten Ländern ausgeführten Verarbeitungserzeugnissen enthalten sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 195/67/CEE del Consiglio, del 27 giugno 1967, che modifica
+    il regolamento n. 13/64/CEE per quanto concerne le restituzioni da accordare ai
+    prodotti lattiero-caseari contenuti in prodotti trasformati esportati verso i
+    paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 195/67/EEG van de Raad van 27 juni 1967 houdende wijziging
+    van Verordening Nr. 13/64/EEG voor wat betreft de restituties voor zuivelprodukten,
+    verwerkt in naar derde landen uitgevoerde produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0195
+docidentifier:
+- content: EU Regulation 195/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0195
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/195/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0013
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

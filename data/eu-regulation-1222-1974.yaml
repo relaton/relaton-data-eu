@@ -1,0 +1,94 @@
+---
+id: EURegulation12221974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1222/74 of the Commission of 15 May 1974 amending the
+    Annex to Regulation No 225/67/EEC on coefficients of equivalence for colza and
+    rape seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1222/74 de la Commission, du 15 mai 1974, modifiant
+    l' annexe du règlement n° 225/67/CEE en ce qui concerne les coefficients d'
+    équivalence pour les graines de colza et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1222/74 der Kommission vom 15. Mai 1974 zur Änderung
+    des Anhangs der Verordnung Nr. 225/67/EWG bezüglich der Ausgleichskoeffizienten
+    für Raps- und Rübsensamen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissioens Forordning (EØF) nr. 1222/74 af 15. maj 1974 om ændring
+    af bilaget til forordning nr. 225/67/EØF med hensyn til udligningskoefficienterne
+    for raps og rybsfrø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1222/74 della Commissione, del 15 maggio 1974, che
+    modifica l' allegato del regolamento n. 225/67/CEE per quanto concerne i coefficienti
+    di equivalenza per i semi di colza e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1222/74 van de Commissie van 15 mei 1974 houdende
+    wijziging van de bijlage bij Verordening nr. 225/67/EEG met betrekking tot de
+    gelijkwaardigheidscoëfficiënten voor koolzaad en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1222
+docidentifier:
+- content: EU Regulation 1222/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1222
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1222/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-05-15'
+- type: implemented
+  at: '1974-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0225
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

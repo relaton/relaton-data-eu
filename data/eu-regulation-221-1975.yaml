@@ -1,0 +1,77 @@
+---
+id: EURegulation2211975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 221/75 of the Commission of 30 January 1975 fixing
+    the import levies on rice and broken rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 221/75 de la Commission, du 30 janvier 1975, fixant
+    les prélèvements à l'importation applicables au riz et aux brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 221/75 der Kommission vom 30. Januar 1975 zur Festsetzung
+    der bei Reis und Bruchreis anzuwendenden Abschöpfungen bei der Einfuhr
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 221/75 af 30. januar 1975 om fastsættelse
+    af importafgifter for ris og brudris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 221/75 della Commissione, del 30 gennaio 1975, che
+    fissa i prelievi all'importazione applicabili al riso e alle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 221/75 van de Commissie van 30 januari 1975 tot vaststelling
+    van de heffingen bij invoer die van toepassing zijn op rijst en op breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0221
+docidentifier:
+- content: EU Regulation 221/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0221
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/221/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

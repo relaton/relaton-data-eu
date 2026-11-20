@@ -1,0 +1,115 @@
+---
+id: EURegulation2741984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 274/84 of 31 January 1984 amending Regulations
+    (EEC) No 1311/80 and (EEC) No 1400/81 on the supply of skimmed-milk powder to
+    certain developing countries and specialized bodies under food-aid programmes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 274/84 du Conseil du 31 janvier 1984 modifiant les
+    règlements (CEE) no 1311/80 et (CEE) no 1400/81 relatifs à la fourniture de
+    lait écrémé en poudre, dans le cadre des programmes d' aide alimentaire, à
+    certains pays en voie de développement et à certains organismes spécialisés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 274/84 des Rates vom 31. Januar 1984 zur Änderung
+    der Verordnungen (EWG) Nr. 1311/80 und (EWG) Nr. 1400/81 über die Lieferung von
+    Magermilchpulver an bestimmte Entwicklungsländer und Spezialorganisationen im
+    Rahmen der Nahrungsmittelhilfeprogramme
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 274/84 af 31. januar 1984 om ændring af
+    forordning (EØF) nr. 1311/80 og (EØF) nr. 1400/81 om levering af skummetmælkspulver
+    til en række udviklingslande og specialiserede organisationer inden for fødevarehjælpeprogrammerne
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 274/84 του Συμβουλίου
+    της 31ης Ιανουαρίου 1984 για την τροποποίηση των
+    κανονισμών (ΕΟΚ) αριθ. 1311/80 και (ΕΟΚ) αριθ. 1400/81
+    για την προμήθεια αποκορυφωμένου γάλακτος
+    σε σκόνη στα πλαίσια των προγραμμάτων επισιτιστικής
+    βοήθειας σε ορισμένες αναπτυσσόμενες χώρες
+    και ορισμένους ειδικευμένους οργανισμούς
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 274/84 del Consiglio del 31 gennaio 1984 che modifica
+    i regolamenti (CEE) n. 1311/80 e (CEE) n. 1400/81 relativi alla fornitura di latte
+    scremato in polvere, nel quadro dei programmi di aiuto alimentare, a taluni paesi
+    in via di sviluppo ed organismi specializzati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 274/84 van de Raad van 31 januari 1984 tot wijziging
+    van de Verordeningen (EEG) nr. 1311/80 en (EEG) nr. 1400/81 betreffende de levering
+    van magere-melkpoeder aan bepaalde ontwikkelingslanden en bepaalde gespecialiseerde
+    instellingen in het kader van de voedselhulpprogramma' s
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R0274
+docidentifier:
+- content: EU Regulation 274/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R0274
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/274/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-01-31'
+- type: implemented
+  at: '1984-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1311
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R1400
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

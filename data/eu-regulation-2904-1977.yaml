@@ -1,0 +1,142 @@
+---
+id: EURegulation29041977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2904/77 of 23 December 1977 amending Regulations
+    (EEC) No 1282/72, (EEC) No 1717/72 and (EEC) No 232/75 on sales of butter at reduced
+    prices
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2904/77 de la Commission, du 23 décembre 1977, modifiant
+    les règlements (CEE) n° 1282/72, (CEE) n° 1717/72 et (CEE) n° 232/75 concernant
+    des ventes de beurre à prix réduit
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2904/77 der Kommission vom 23. Dezember 1977 zur Änderung
+    der Verordnungen (EWG) Nr. 1282/72, (EWG) Nr. 1717/72 und (EWG) Nr. 232/75 über
+    den Verkauf von Butter zu herabgesetzten Preisen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2904/77 af 23. december 1977 om ændring
+    af forordning (EØF) nr. 1282/72, (EØF) nr. 1717/72 og (EØF) nr. 232/75 om salg
+    af smør til nedsat pris
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2904/77 της Επιτροπής
+    της 23ης Δεκεμβρίου 1977 περί τροποποιήσεως των
+    κανονισμών (ΕΟΚ) αριθ. 1282/72, (ΕΟΚ) αριθ. 1717/72 και
+    (ΕΟΚ) αριθ. 232/75 περί πωλήσεων βουτύρου σε μειωμένη
+    τιμή
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (ETY) N:o 2904/77 annettu 23 päivänä joulukuuta 1977
+    alennettuun hintaan myytävää voita koskevien asetusten (ETY) N:o 1282/72, (ETY)
+    N:o 1717/72 ja (ETY) N:o 232/75 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2904/77 della Commissione, del 23 dicembre 1977, che
+    modifica i regolamenti (CEE) n. 1282/72, (CEE) n. 1717/72 e (CEE) n. 232/75 relativi
+    a vendite di burro a prezzo ridotto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2904/77 van de Commissie van 23 december 1977 houdende
+    wijziging van de Verordeningen (EEG) nr. 1282/72, (EEG) nr. 1717/72 en (EEG) nr.
+    232/75 met betrekking tot de verkoop van boter tegen verlaagde prijs
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 2904/77 da Comissão, de 23 de Dezembro de 1977,
+    que altera os Regulamentos (CEE) nº 1282/72, (CEE) nº 1717/72 e (CEE) nº 232/75
+    no que diz respeito às vendas a preço reduzido
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) nº 2904/77 de la Comisión, de 23 de diciembre de 1977,
+    por el que se modifican los Reglamentos (CEE) nº 1282/72, (CEE) nº 1717/72 y
+    (CEE) nº 232/75 referentes a las ventas de mantequilla a precio reducido
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EEG) nr 2904/77 av den 23 december 1977 om ändring
+    av förordningarna (EEG) nr 1282/72, (EEG) nr 1717/72 och (EEG) nr 232/75 om försäljning
+    av smör till sänkt pris
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2904
+docidentifier:
+- content: EU Regulation 2904/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2904
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2904/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-23'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1282
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1717
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0232
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

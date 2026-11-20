@@ -1,0 +1,81 @@
+---
+id: EUDecision1966348
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/348/CEE de la Commission, du 18 mai 1966, portant prorogation
+    de la durée de validité et augmentation du volume du contingent tarifaire octroyé
+    à la République fédérale d'Allemagne pour les fils de soie non conditionnés
+    pour la vente au détail
+  type: main
+- language: de
+  script: Latn
+  content: '66/348/EWG: Entscheidung der Kommission vom 18. Mai 1966 betreffend die
+    Verlängerung der Geltungsdauer und die Erhöhung der Kontingentsmenge des der
+    Bundesrepublik Deutschland gewährten Zollkontingents für Seidengarne, nicht
+    in Aufmachungen für den Einzelverkauf'
+  type: main
+- language: it
+  script: Latn
+  content: '66/348/CEE: Decisione della Commissione, del 18 maggio 1966, che proroga
+    la validità e aumenta il volume del contingente tariffario concesso alla Repubblica
+    federale di Germania per i filati di seta non preparati per la vendita al minuto'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/348/EEG: Beschikking van de Commissie van 18 mei 1966 houdende verlenging
+    van de periode van geldigheid en vergroting van het aan de Bondsrepubliek Duitsland
+    toegekende tariefcontingent voor garens van zijde, niet gereed voor de verkoop
+    in het klein'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0348
+docidentifier:
+- content: EU Decision 1966/348
+  type: EU
+  primary: true
+- content: CELEX 31966D0348
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/348/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-05-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0095
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

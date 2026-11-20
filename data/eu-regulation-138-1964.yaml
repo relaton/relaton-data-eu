@@ -1,0 +1,74 @@
+---
+id: EURegulation1381964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 138/64/CEE de la Commission du 14 octobre 1964 relatif aux
+    dispositions transitoires applicables aux produits laitiers introduits, avant
+    la date de mise en application du régime des échanges institué par le règlement
+    n 13/64/CEE, dans les entrepôts douaniers de la république fédérale d'Allemagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 138/64/EWG der Kommission vom 14. Oktober 1964 betreffend
+    Übergangsbestimmungen für Milcherzeugnisse, die vor dem Zeitpunkt der Anwendung
+    der durch die Verordnung Nr. 13/64/EWG eingeführten Regelung des Handelsverkehrs
+    in der Bundesrepublik Deutschland in ein Zollgutlager verbracht worden sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 138/64/CEE della Commissione, del 14 ottobre 1964, relativo
+    alle disposizioni transitorie applicabili ai prodotti lattiero-caseari introdotti,
+    prima della data d'applicazione del regime degli scambi istituito dal regolamento
+    n. 13/64/CEE, nei depositi doganali della Repubblica federale di Germania
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 138/64/EEG van de Commissie van 14 oktober 1964 houdende
+    de overgangsbepalingen die van toepassing zijn op sommige produkten van de zuivelsector
+    welke vóór het van toepassing worden van de bij Verordening no. 13/64/EEG ingevoerde
+    regeling voor het handelsverkeer in de Bondsrepubliek Duitsland in entrepot zijn
+    opgeslagen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0138
+docidentifier:
+- content: EU Regulation 138/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0138
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/138/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,105 @@
+---
+id: EURegulation2311973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 231/73 of the Council of 31 January 1973 amending Regulations
+    Nos 134/67/EEC and 137/67/EEC on sluice-gate prices and the system of 'pilot products
+    and derived products' for pigmeat, with especial reference to the nomenclature
+    of goods
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 231/73 du Conseil, du 31 janvier 1973, modifiant les
+    règlements n° 134/67/CEE et n 137/67/CEE relatifs aux prix d'écluse et au système
+    dit des "produits pilotes et dérivés" dans le secteur de la viande de porc,
+    notamment en ce qui concerne la nomenclature des produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 231/73 des Rates vom 31. Januar 1973 zur Änderung
+    der Verordnungen Nrn. 134/67/EWG und 137/67/EWG über die Einschleusungspreise
+    und über das sogenannte "System von Leit- und Folgeerzeugnissen" auf dem Schweinefleischsektor,
+    insbesondere die Nomenklatur der Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 231/73 af 31. januar 1973 om ændring af
+    forordningerne 134/67/EØF og 137/67/EØF om slusepriser og om det såkaldte »system
+    for lede- og følgeprodukter« inden for svinekødssektoren, særlig hvad angår
+    nomenklaturen for produkterne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 231/73 del Consiglio, del 31 gennaio 1973, che modifica
+    i regolamenti nn. 134/67/CEE e 137/67/CEE relativi ai prezzi limite ed al sistema
+    detto «prodotti pilota e prodotti derivati» nel settore delle carni suine, soprattutto
+    per quanto concerne la nomenclatura dei prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 231/73 van de Raad van 31 januari 1973 houdende wijziging
+    van de Verordeningen nr. 134/67/EEG en nr. 137/67/EEG betreffende de sluisprijs
+    en het zogenaamde stelsel van "hoofdprodukten en afgeleide produkten" in de sector
+    varkensvlees, inzonderheid wat betreft de nomenclatuur van de produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0231
+docidentifier:
+- content: EU Regulation 231/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0231
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/231/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-31'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0134
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0137
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

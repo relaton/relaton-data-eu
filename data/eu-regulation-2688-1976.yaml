@@ -1,0 +1,93 @@
+---
+id: EURegulation26881976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2688/76 of 4 November 1976 amending Regulation
+    (EEC) No 1931/76 in respect of certain distillation operations in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2688/76 du Conseil, du 4 novembre 1976, modifiant
+    le règlement (CEE) n° 1931/76 en ce qui concerne certaines opérations de distillation
+    dans le secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2688/76 des Rates vom 4. November 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1931/76 hinsichtlich bestimmter Destillationsmaßnahmen
+    auf dem Weinsektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2688/76 af 4. november 1976 om ændring af
+    forordning (EØF) nr. 1931/76 for så vidt angår visse destilleringsoperationer
+    i vinsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2688/76 del Consiglio, del 4 novembre 1976, che modifica
+    il regolamento (CEE) n. 1931/76 per quanto concerne talune operazioni di distillazione
+    nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2688/76 van de Raad van 4 november 1976 tot wijziging
+    van Verordening (EEG) nr. 1931/76 voor wat betreft bepaalde distillatiemaatregelen
+    in de wijnsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2688
+docidentifier:
+- content: EU Regulation 2688/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2688
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2688/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-04'
+- type: implemented
+  at: '1976-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1931
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

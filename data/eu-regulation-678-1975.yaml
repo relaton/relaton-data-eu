@@ -1,0 +1,98 @@
+---
+id: EURegulation6781975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 678/75 of the Council of 4 March 1975 amending Regulation
+    (EEC) No 816/70 as regards the definition of alcohol-muted fresh grape must and
+    amending Chapter 22 of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 678/75 du Conseil du 4 mars 1975, modifiant le règlement
+    (CEE) n° 816/70 en ce qui concerne notamment la définition du moût de raisin
+    frais muté à l' alcool ainsi que le chapitre 22 du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 678/75 des Rates vom 4. März 1975 zur Änderung der
+    Verordnung (EWG) Nr. 816/70 insbesondere hinsichtlich der Definition von mit Alkohol
+    stummgemachtem Most aus frischen Weintrauben und zur Änderung des Kapitels 22
+    des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 678/75 af 4. marts 1975 om ændring af forordning
+    (EØF) nr. 816/70 særlig for så vidt angår definitionen af frisk druemost,
+    hvis gæring er standset ved tilsætning af alkohol, og om ændring af kapitel
+    22 i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 678/75 del Consiglio, del 4 marzo 1975, che modifica
+    il regolamento (CEE) n. 816/70 per quanto riguarda la definizione del mosto di
+    uve fresche mutizzato con alcole, nonché il capitolo 22 della tariffa doganale
+    comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 678/75 van de Raad van 4 maart 1975 tot wijziging
+    van Verordening (EEG) nr. 816/70 met betrekking tot met name de definitie van
+    druivemost, waarvan de gisting door toevoegen van alcohol is gestuit en tot wijziging
+    van hoofdstuk 22 van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0678
+docidentifier:
+- content: EU Regulation 678/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0678
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/678/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-04'
+- type: implemented
+  at: '1975-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

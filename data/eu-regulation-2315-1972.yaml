@@ -1,0 +1,99 @@
+---
+id: EURegulation23151972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2315/72 of the Commission of 31 October 1972 amending
+    Regulation (EEC) No 1770/72 on detailed rules of application relating to the additional
+    conditions with which imported wines for direct human consumption have to comply
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2315/72 de la Commission, du 31 octobre 1972, modifiant
+    le règlement (CEE) n° 1770/72 portant modalités d' application relatives aux
+    conditions supplémentaires auxquelles doivent répondre les vins importés des
+    pays tiers destinés à la consommation humaine directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2315/72 der Kommission vom 31. Oktober 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1770/72 über Durchführungsbestimmungen zu den zusätzlichen
+    Bedingungen, denen aus Drittländern eingeführter Wein für den unmittelbaren
+    menschlichen Verbrauch entsprechen muß
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2315/72 af 31. oktober 1972 om ændring
+    af forordning (EØF) nr. 1770/72 om gennemførelsesbestemmelser til de yderligere
+    betingelser, som skal opfyldes af vin, der fra tredjelande er indført til direkte
+    menneskeligt forbrug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2315/72 della Commissione, del 31 ottobre 1972, che
+    modifica il regolamento (CEE) n. 1770/72 recante modalità di applicazione relative
+    alle condizioni supplementari cui devono rispondere i vini importati dai paesi
+    terzi destinati al consumo umano diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2315/72 van de Commissie van 31 oktober 1972 tot
+    wijziging van Verordening (EEG) nr. 1770/72 betreffende de nadere voorwaarden
+    waaraan uit derde landen ingevoerde wijn voor rechtstreekse menselijke consumptie
+    moet voldoen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2315
+docidentifier:
+- content: EU Regulation 2315/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2315
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2315/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-31'
+- type: implemented
+  at: '1972-11-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1770
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

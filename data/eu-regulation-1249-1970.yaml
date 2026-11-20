@@ -1,0 +1,102 @@
+---
+id: EURegulation12491970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1249/70 of the Commission of 29 June 1970 amending
+    Regulation (EEC) No 1087/69 on communications from Member States concerning sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1249/70 de la Commission, du 29 juin 1970, modifiant
+    le règlement (CEE) n° 1087/69 relatif aux communications des États membres
+    dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1249/70 der Kommission vom 29. Juni 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1087/69 über die von den Mitgliedstaaten zu machenden
+    Mitteilungen auf dem Zuckersektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1249/70 af 29. juni 1970 om ændring
+    af forordning (EØF) nr. 1087/69 om de meddelelser, der inden for sukkersektoren
+    skal gives af medlemsstaterne
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1249/70 της Επιτροπής
+    της 29ης Ιουνίου 1970 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 1087/69 περί των ανακοινώσεων των κρατών
+    μελών στον τομέα της ζάχαρης
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1249/70 della Commissione, del 29 giugno 1970, che
+    modifica il regolamento (CEE) n. 1087/69 relativo alle comunicazioni degli Stati
+    membri nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1249/70 van de Commissie van 29 juni 1970 tot wijziging
+    van Verordening (EEG) nr. 1087/69 betreffende de mededelingen van de Lid-Staten
+    in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1249
+docidentifier:
+- content: EU Regulation 1249/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1249
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1249/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1087
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

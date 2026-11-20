@@ -1,0 +1,73 @@
+---
+id: EURegulation3501967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 350/67/CEE de la Commission du 26 juillet 1967 délimitant
+    des zones de destination pour l'application des restitutions à l'exportation
+    dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 350/67/EWG der Kommission vom 26. Juli 1967 zur Begrenzung
+    der Bestimmungszonen für die Anwendung der Ausfuhrerstattungen für Getreide
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 350/67/CEE della Commissione, del 26 luglio 1967, che delimita
+    alcune zone di destinazione per l'applicazione delle restituzioni all'esportazione
+    nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: verordening Nr. 350/67/EEG van de Commissie van 26 juli 1967 ter afbakening
+    van de zones van bestemming voor de toepassing van de restituties bij uitvoer
+    in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0350
+docidentifier:
+- content: EU Regulation 350/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0350
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/350/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-26'
+- type: implemented
+  at: '1967-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

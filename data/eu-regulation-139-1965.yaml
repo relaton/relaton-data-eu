@@ -1,0 +1,69 @@
+---
+id: EURegulation1391965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 139/65/CEE de la Commission, du 11 octobre 1965, modifiant
+    le montant supplémentaire pour les oeufs entiers liquides ou congelés et pour
+    les jaunes d'oeufs liquides ou congelés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 139/65/EWG der Kommission vom 11. Oktober 1965 zur Änderung
+    der Zusatzbeträge für flüssiges oder gefrorenes Vollei und für flüssiges
+    oder gefrorenes Eigelb
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 139/65/CEE della Commissione, dell'11 ottobre 1965, che
+    modifica l'importo supplementare per le uova sgusciate fresche o conservate e
+    per il giallo d'uova fresco o conservato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 139/65/EEG van de Commissie van 11 oktober 1965 houdende
+    wijziging der extra-bedragen voor vloeibaar of bevroren heelei en voor vloeibaar
+    of bevroren eigeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0139
+docidentifier:
+- content: EU Regulation 139/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0139
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/139/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,101 @@
+---
+id: EURegulation8981973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 898/73 of the Commission of 30 March 1973 extending
+    Regulation (EEC) Nos 2474/72 and 349/73 on the sale at reduced prices of intervention
+    butter for direct consumption
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 898/73 de la Commission, du 30 mars 1973, prorogeant
+    les règlements (CEE) n° 2474/72 et 349/73 relatifs à l'écoulement à prix
+    réduit de beurre d'intervention destiné à la consommation directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 898/73 der Kommission vom 30. März 1973 zur Verlängerung
+    der Anwendbarkeit der Verordnungen (EWG) Nrn. 2474/72 und 349/73 über den Absatz
+    von Butter zu herabgesetzten Preisen aus den Beständen der Interventionsstellen
+    für den direkten Verbrauch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 898/73 af 30. marts 1973 om forlængelse
+    af gyldigheden af forordning (EØF) nr. 2474/73 og nr. 349/73 om afsætning til
+    nedsat pris af interventionssmør, bestemt til umiddelbart forbrug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 898/73 della Commissione, del 30 marzo 1973, che proroga
+    i regolamenti (CEE) n. 2474/72 e n. 349/73 relativi allo smaltimento a prezzo
+    ridotto di burro di ammasso comunitario destinato al consumo diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 898/73 van de Commissie van 30 maart 1973 houdende
+    verlenging van de toepassingsduur van de Verordeningen (EEG) nrs. 2474/72 en 349/73
+    betreffende de afzet tegen verlaagde prijs van interventieboter bestemd voor onmiddellijk
+    verbruik
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0898
+docidentifier:
+- content: EU Regulation 898/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0898
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/898/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-30'
+- type: implemented
+  at: '1973-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2474
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0349
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

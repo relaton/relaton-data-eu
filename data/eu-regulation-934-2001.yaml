@@ -1,0 +1,117 @@
+---
+id: EURegulation9342001
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 934/2001 of 11 May 2001 suspending the buying-in
+    of butter in certain Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 934/2001 de la Commission du 11 mai 2001 suspendant
+    les achats de beurre dans certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 934/2001 der Kommission vom 11. Mai 2001 zur Aussetzung
+    des Ankaufs von Butter in bestimmten Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 934/2001 af 11. maj 2001 om suspension
+    af opkøb af smør i visse medlemsstater
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 934/2001 της Επιτροπής,
+    της 11ης Μαΐου 2001, για αναστολή των αγορών βουτύρου
+    σε ορισμένα κράτη μέλη
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 934/2001, annettu 11 päivänä toukokuuta 2001,
+    voin ostojen keskeyttämisestä tietyissä jäsenvaltioissa
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 934/2001 della Commissione, dell'11 maggio 2001, che
+    sospende gli acquisti di burro in taluni Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 934/2001 van de Commissie van 11 mei 2001 tot schorsing
+    van de boteraankopen in sommige lidstaten
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 934/2001 da Comissão, de 11 de Maio de 2001, que
+    suspende as compras de manteiga em determinados Estados-Membros
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 934/2001 de la Comisión, de 11 de mayo de 2001, por
+    el que se suspenden las compras de mantequilla en algunos Estados miembros
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 934/2001 av den 11 maj 2001 om tillfälligt
+    upphörande med uppköp av smör i vissa medlemsstater
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R0934
+docidentifier:
+- content: EU Regulation 934/2001
+  type: EU
+  primary: true
+- content: CELEX 32001R0934
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2001/934/oj
+  type: ELI
+date:
+- type: issued
+  at: '2001-05-11'
+- type: implemented
+  at: '2001-05-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 32001R0827
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

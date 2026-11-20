@@ -1,0 +1,81 @@
+---
+id: EURegulation13031975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1303/75 of the Commission of 23 May 1975 fixing the
+    import levies on cereals and on wheat or rye flour groats and meal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1303/75 de la Commission, du 23 mai 1975, fixant les
+    prélèvements à l'importation applicables aux céréales, aux farines et aux
+    gruaux et semoules de froment ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1303/75 der Kommission vom 23. Mai 1975 zur Festsetzung
+    der auf Getreide, Mehle, Grobgrieß und Feingrieß von Weizen oder Roggen anwendbaren
+    Abschöpfungen bei der Einfuhr
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1303/75 af 23. maj 1975 om fastsættelse
+    af importafgifter for korn, mel, grove gryn og fine gryn af hvede eller rug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1303/75 della Commissione, del 23 maggio 1975, che
+    fissa i prelievi all'importazione applicabili ai cereali e alle farine, alle semole
+    e ai semolini di frumento o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1303/75 van de Commissie van 23 mei 1975 houdende
+    vaststelling van de heffingen bij invoer die van toepassing zijn op granen en
+    meel, gries en griesmeel van tarwe of van rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1303
+docidentifier:
+- content: EU Regulation 1303/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1303
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1303/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

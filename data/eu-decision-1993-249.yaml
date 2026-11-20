@@ -1,0 +1,109 @@
+---
+id: EUDecision1993249
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '93/249/EEC: Commission Decision of 14 April 1993 repealing Decision 93/78/EEC
+    (Only the Spanish text is authentic)'
+  type: main
+- language: fr
+  script: Latn
+  content: '93/249/CEE: Décision de la Commission du 14 avril 1993 abrogeant la décision
+    93/78/CEE (Le texte en langue espagnole est le seul faisant foi.)'
+  type: main
+- language: de
+  script: Latn
+  content: '93/249/EWG: ENTSCHEIDUNG DER KOMMISSION vom 14. April 1993 zur Aufhebung
+    der Entscheidung 93/78/EWG (Nur der spanische Text ist verbindlich)'
+  type: main
+- language: da
+  script: Latn
+  content: '93/249/EØF: KOMMISSIONENS BESLUTNING af 14. april 1993 om ophævelse
+    af beslutning 93/78/EØF (Kun den spanske udgave er autentisk)'
+  type: main
+- language: el
+  script: Grek
+  content: '93/249/ΕΟΚ: ΑΠΟΦΑΣΗ ΤΗΣ ΕΠΙΤΡΟΠΗΣ της 14ης
+    Απριλίου 1993 περί καταργήσεως της απόφασης
+    93/78/ΕΟΚ (Το κείμενο στην ισπανική γλώσσα είναι
+    το μόνο αυθεντικό)'
+  type: main
+- language: it
+  script: Latn
+  content: '93/249/CEE: DECISIONE DELLA COMMISSIONE del 14 aprile 1993 che abroga
+    la decisione 93/78/CEE (Il testo in lingua spagnola è il solo facente fede)'
+  type: main
+- language: nl
+  script: Latn
+  content: '93/249/EEG: BESCHIKKING VAN DE COMMISSIE van 14 april 1993 tot intrekking
+    van Beschikking 93/78/EEG (Slechts de tekst in de Spaanse taal is authentiek)'
+  type: main
+- language: pt
+  script: Latn
+  content: '93/249/CEE: DECISÃO DA COMISSÃO de 14 de Abril de 1993 que revoga a
+    Decisão 93/78/CEE (Apenas faz fé o texto em língua espanhola)'
+  type: main
+- language: es
+  script: Latn
+  content: '93/249/CEE: DECISIÓN DE LA COMISIÓN de 14 de abril de 1993 por la que
+    se deroga la Decisión 93/78/CEE (El texto en lengua española es el único auténtico)'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31993D0249
+docidentifier:
+- content: EU Decision 1993/249
+  type: EU
+  primary: true
+- content: CELEX 31993D0249
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1993/249/oj
+  type: ELI
+date:
+- type: issued
+  at: '1993-04-14'
+- type: implemented
+  at: '1993-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31993D0078
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

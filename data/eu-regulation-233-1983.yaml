@@ -1,0 +1,104 @@
+---
+id: EURegulation2331983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 233/83 of 28 January 1983 amending Regulation
+    (EEC) No 1054/78 following the fixing of a new exchange rate to be applied in
+    agriculture for the Greek drachma
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 233/83 de la Commission du 28 janvier 1983 modifiant
+    le règlement (CEE) no 1054/78 suite à la fixation d' un nouveau taux de change
+    à appliquer dans le secteur agricole pour la drachme grecque
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 233/83 der Kommission vom 28. Januar 1983 zur Änderung
+    der Verordnung (EWG) Nr. 1054/78 im Anschluß an die Festsetzung eines neuen in
+    der Landwirtschaft anzuwendenden Umrechnungskurses für die griechische Drachme
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 233/83 af 28. januar 1983 om ændring
+    af forordning (EØF) nr. 1054/78 som følge af fastsættelsen af en ny vekselkurs,
+    der skal anvendes inden for landbrugssektoren, for den græske drachme
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 233/83 της Επιτροπής
+    της 28ης Ιανουαρίου 1983 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 1054/78 μετά τον καθορισμό
+    νέας τιμής συναλλάγματος που πρέπει να εφαρμοσθεί
+    στο γεωργικό τομέα για την ελληνική δραχμή
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 233/83 della Commissione del 28 gennaio 1983 che modifica
+    il regolamento (CEE) n. 1054/78 a seguito della fissazione di un nuovo tasso di
+    cambio da applicare nel settore agricolo per la dracma greca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 233/83 van de Commissie van 28 januari 1983 tot wijziging
+    van Verordening (EEG) nr. 1054/78 naar aanleiding van de vaststelling van een
+    nieuwe in de landbouwsector toe te passen wisselkoers voor de Griekse drachme
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0233
+docidentifier:
+- content: EU Regulation 233/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0233
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/233/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-01-28'
+- type: implemented
+  at: '1983-01-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1054
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

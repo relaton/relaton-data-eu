@@ -1,0 +1,70 @@
+---
+id: EURegulation351962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 35 du Conseil portant fixation du prix d'écluse applicable
+    aux poulets d'engraissement abattus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 35 des Rats über die Festsetzung des Einschleusungspreises
+    für geschlachtete Jungmasthühner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 35 del Consiglio relativo alla fissazione del prezzo limite
+    applicabile ai polli da ingrasso macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 35 van de Raad houdende vaststelling van de sluisprijs
+    voor geslachte mestkuikens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0035
+docidentifier:
+- content: EU Regulation 35/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0035
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/35/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-05-29'
+- type: implemented
+  at: '1962-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

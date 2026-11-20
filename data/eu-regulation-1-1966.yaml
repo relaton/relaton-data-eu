@@ -1,0 +1,79 @@
+---
+id: EURegulation11966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 1/66/Euratom, 14/66/CEE des Conseils du 28 décembre 1965
+    portant modification de l'article 95 du statut des fonctionnaires de la CEE et
+    de la CEEA
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 1/66/Euratom, 14/66/EWG der Räte vom 28. Dezember 1965
+    zur Änderung des Artikels 95 des Statuts der Beamten der EWG und der EAG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 1/66/Euratom, 14/66/CEE, dei Consigli, del 28 dicembre 1965,
+    relativo alla modifica dell'articolo 95 dello statuto dei funzionari della CEE
+    e della CEEA
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 1/66/Euratom, 14/66/EEG van de Raden van 28 december 1965
+    tot wijziging van artikel 95 van het Statuut van de ambtenaren van de EEG en de
+    EGA
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0001
+docidentifier:
+- content: EU Regulation 1/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0001
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/1/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-12-28'
+- type: implemented
+  at: '1966-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0011(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

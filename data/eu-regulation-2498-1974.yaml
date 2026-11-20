@@ -1,0 +1,94 @@
+---
+id: EURegulation24981974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2498/74 of the Council of 2 October 1974 fixing representative
+    conversion rates to be applied in agriculture for the currencies of the new Member
+    States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2498/74 du Conseil, du 2 octobre 1974, portant fixation
+    du taux représentatif de conversion à appliquer dans le secteur agricole pour
+    les monnaies des nouveaux États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2498/74 des Rates vom 2. Oktober 1974 zur Festsetzung
+    des in der Landwirtschaft anzuwendenden repräsentativen Umrechnungskurses für
+    die Währungen der neuen Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2498/74 af 2. oktober 1974 om fastsættelse
+    af en repræsentativ omregningskurs, der skal anvendes inden for landbrugssektoren
+    på de nye medlemsstaters valutaer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2498/74 del Consiglio, del 2 ottobre 1974, che fissa
+    i tassi di cambio rappresentativi da applicare nel settore agricolo per le monete
+    dei nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2498/74 van de Raad van 2 oktober 1974 tot vaststelling
+    van de in de landbouwsector toe te passen representatieve omrekeningskoers voor
+    de munteenheden van de nieuwe Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2498
+docidentifier:
+- content: EU Regulation 2498/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2498
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2498/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-02'
+- type: implemented
+  at: '1974-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0222
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

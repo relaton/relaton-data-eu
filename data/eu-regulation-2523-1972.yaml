@@ -1,0 +1,102 @@
+---
+id: EURegulation25231972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2523/72 of the Commission of 30 November 1972 amending
+    the period of validity of export licences and the closing date for the submission
+    of tenders specified in Regulation (EEC) No 1897/72 on a standing invitation to
+    tender to determine the export refund for white sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2523/72 de la Commission, du 30 novembre 1972, modifiant
+    la durée de validité des certificats d' exportation et les délais de présentation
+    des offres prévus par le règlement (CEE) n° 1897/72 concernant une adjudication
+    permanente pour la détermination de la restitution à l' exportation pour le
+    sucre blanc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2523/72 der Kommission vom 30. November 1972 zur Änderung
+    der in der Verordnung (EWG) Nr. 1897/72 über eine Dauerausschreibung zur Bestimmung
+    der Ausfuhrerstattungen für Weißzucker vorgesehenen Gültigkeitsdauer der Ausfuhrlizenzen
+    und Einreichungsfristen für die Angebote
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2523/72 af 30. november 1972 om ændring
+    af gyldighedsperioden for eksportlicenser og fristen for angivelse af bud, fastsat
+    i forordning (EØF) nr. 1897/72 om en løbende licitation til fastsættelse af
+    eksportrestitutionen for hvidt sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2523/72 della Commissione, del 30 novembre 1972, che
+    modifica la durata di validità dei titoli d' esportazione e i termini di presentazione
+    delle offerte previsti dal regolamento (CEE) n. 1897/72 relativo ad una gara permanente
+    per la determinazione della restituzione all' esportazione per lo zucchero bianco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2523/72 van de Commissie van 30 november 1972 tot
+    wijziging van de geldigheidsduur der uitvoercertificaten en van de termijnen voor
+    het indienen voor de aanbiedingen als bedoeld in Verordening (EEG) nr. 1897/72
+    betreffende een permanente openbare inschrijving voor de bepaling van de restitutie
+    bij uitvoer van witte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2523
+docidentifier:
+- content: EU Regulation 2523/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2523
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2523/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-11-30'
+- type: implemented
+  at: '1972-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1897
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation7641969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 764/69 du Conseil, du 22 avril 1969, fixant les prix
+    dans le secteur des céréales pour la campagne 1969/1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 764/69 des Rates vom 22. April 1969 zur Festsetzung
+    der Preise für Getreide für das Wirtschaftsjahr 1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 764/69 del Consiglio, del 22 aprile 1969, che fissa
+    i prezzi applicabili nel settore dei cereali per la campagna 1969/1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 764/69 van de Raad van 22 april 1969 tot vaststelling
+    van de prijzen in de sector granen voor het verkoopseizoen 1969/1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0764
+docidentifier:
+- content: EU Regulation 764/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0764
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/764/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-22'
+- type: implemented
+  at: '1969-05-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

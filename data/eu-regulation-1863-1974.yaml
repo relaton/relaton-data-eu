@@ -1,0 +1,96 @@
+---
+id: EURegulation18631974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (Euratom) No 1863/74 of the Council of 15 July 1974 amending
+    the conditions governing remuneration and social security for establishment staff
+    of the Joint Research Centre employed in Belgium
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom) n° 1863/74 du Conseil, du 15 juillet 1974, modifiant
+    les conditions applicables en matière de rémunération et de sécurité sociale
+    aux agents d'établissement du Centre commun de recherche affectés en Belgique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom) Nr. 1863/74 des Rates vom 15. Juli 1974 zur Änderung
+    der Regelung der Bezüge und der sozialen Sicherheit der Anlagenbediensteten der
+    Gemeinsamen Forschungsstelle, die in Belgien dienstlich verwendet werden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (Euratom) nr. 1863/74 af 15. juli 1974 om ændring af
+    reglerne om vederlag og social sikring for ansatte ved anlæg under Det fælles
+    Forskningscenter, med tjenestested i Belgien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom) n. 1863/74 del Consiglio, del 15 luglio 1974, che
+    modifica le condizioni applicabili in materia di retribuzioni e di sicurezza sociale
+    agli agenti di stabilimento del Centro comune di ricerca che prestano servizio
+    in Belgio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom) nr. 1863/74 van de Raad van 15 juli 1974 tot wijziging
+    van de regeling inzake de bezoldiging en de sociale zekerheid van de functionarissen,
+    verbonden aan een inrichting van het Gemeenschappelijk Centrum voor Onderzoek
+    en tewerkgesteld in België
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1863
+docidentifier:
+- content: EU Regulation 1863/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1863
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1863/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-15'
+- type: implemented
+  at: '1973-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0010
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

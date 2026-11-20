@@ -1,0 +1,74 @@
+---
+id: EUDecision196462
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission n° 64/62/CEE, du 17 décembre 1963, portant
+    octroi au Royaume de Belgique et au Grand-Duché de Luxembourg d'un contingent
+    tarifaire pour le sel, destiné à la transformation chimique
+  type: main
+- language: de
+  script: Latn
+  content: '64/62/EWG: Entscheidung der Kommission vom 17. Dezember 1963 über die
+    Gewährung eines Zollkontingents an das Königreich Belgien und das Großherzogtum
+    Luxemburg für Salz zur chemischen Umwandlung'
+  type: main
+- language: it
+  script: Latn
+  content: '64/62/CEE: Decisione della Commissione del 17 dicembre 1963 relativa alla
+    concessione di un contingente tariffario al Regno del Belgio e al Granducato del
+    Lussemburgo per il sale destinato alla trasformazione chimica'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/62/EEG: Beschikking van de Commissie van 17 december 1963 houdende
+    toekenning van een tariefcontingent aan het Koninkrijk België en het Groothertogdom
+    Luxemburg voor zout, bestemd om chemisch te worden verwerkt'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0062
+docidentifier:
+- content: EU Decision 1964/62
+  type: EU
+  primary: true
+- content: CELEX 31964D0062
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/62/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-17'
+- type: implemented
+  at: '1964-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

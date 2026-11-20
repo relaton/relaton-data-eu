@@ -1,0 +1,94 @@
+---
+id: EURegulation20101976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2010/76 of 13 August 1976 amending Regulation
+    (EEC) No 1609/76 specifying the intervention centres for cereals for the 1976/77
+    marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2010/76 de la Commission, du 13 août 1976, modifiant
+    le règlement (CEE) n° 1609/76 déterminant pour la campagne 1976/1977 les centres
+    d'intervention des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2010/76 der Kommission vom 13. August 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1609/76 zur Festlegung der Interventionsorte für Getreide
+    für das Wirtschaftsjahr 1976/1977
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2010/76 af 13. august 1976 om ændring
+    af forordning (EØF) nr. 1609/76 om fastsættelse for høståret 1976/1977 af
+    interventionscenterne for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2010/76 della Commissione, del 13 agosto 1976, recante
+    modifica del regolamento (CEE) n. 1609/76 che fissa per la campagna 1976/1977
+    i centri d'intervento per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2010/76 van de Commissie van 13 augustus 1976 houdende
+    wijziging van Verordening (EEG) nr. 1609/76 tot vaststelling van de interventiecentra
+    voor granen in het verkoopseizoen 1976/1977
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2010
+docidentifier:
+- content: EU Regulation 2010/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2010
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2010/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-08-13'
+- type: implemented
+  at: '1976-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1609
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

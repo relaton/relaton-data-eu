@@ -1,0 +1,113 @@
+---
+id: EURegulation8001985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 800/85 of 26 March 1985 amending for the second
+    time Regulation (EEC) No 1/85 fixing, for certain fish stocks and groups of fish
+    stocks, provisional total allowable catches for 1985 and certain conditions under
+    which they may be fished
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 800/85 du Conseil du 26 mars 1985 portant deuxième
+    modification du règlement (CEE) no 1/85 fixant, pour certains stocks ou groupes
+    de stocks de poissons, les totaux admissibles provisoires des captures pour 1985
+    et certaines conditions dans lesquelles ils peuvent êtres pêchés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 800/85 des Rates vom 26. März 1985 zur zweiten Änderung
+    der Verordnung (EWG) Nr. 1/85 zur Festlegung der vorläufig zulässigen Gesamtfangmengen
+    und bestimmter Fangbedingungen hinsichtlich der zulässigen Gesamtfangmengen für
+    bestimmte Fischbestände oder Bestandsgruppen für 1985
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 800/85 af 26. marts 1985 om anden ændring
+    af forordning (EØF) nr. 1/85 om fastsættelse for 1985 af de foreløbige samlede
+    tilladte fangstmængder for visse fiskebestande og grupper af fiskebestande i
+    Fællesskabets fiskerizone samt af visse betingelser for fiskeri af disse fangstmængder
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 800/85 του Συμβουλίου
+    της 26ης Μαρτίου 1985 για δεύτερη τροποποίηση
+    του κανονισμού (ΕΟΚ) αριθ. 1/85 που καθορίζει,
+    για ορισμένα αποθέματα ή ομάδες αποθεμάτων
+    ιχθύων, τα προσωρινά συνολικά επιτρεπόμενα
+    αλιεύματα για το 1985 και ορισμένους όρους υπό
+    τους οποίους μπορούν να αλιεύονται
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 800/85 del Consiglio del 26 marzo 1985 recante seconda
+    modifica del regolamento (CEE) n. 1/85 che fissa, per alcune popolazioni o gruppi
+    di popolazioni ittiche, il totale provvisorio delle catture ammesse per il 1985
+    ed alcune condizioni cui è soggetta la pesca del totale delle catture ammesse
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 800/85 van de Raad van 26 maart 1985 houdende tweede
+    wijziging van Verordening (EEG) nr. 1/85 inzake de vaststelling van de voor 1985
+    geldende voorlopige totaal toegestane vangsten voor bepaalde visbestanden of groepen
+    visbestanden en bepaalde bij de visserij in het kader van de totaal toegestane
+    vangsten in acht te nemen voorschriften
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0800
+docidentifier:
+- content: EU Regulation 800/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0800
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/800/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-03-26'
+- type: implemented
+  at: '1985-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R0001
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

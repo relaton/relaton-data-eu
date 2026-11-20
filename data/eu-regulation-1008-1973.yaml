@@ -1,0 +1,99 @@
+---
+id: EURegulation10081973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1008/73 of the Commission of 12 April 1973 amending
+    Regulations (EEC) Nos 1259/72 and 1519/72 as regards the date of entry of butter
+    into stock
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1008/73 de la Commission, du 12 avril 1973, modifiant
+    les règlements (CEE) n°s 1259/72 et 1519/72 en ce qui concerne la date d' entrée
+    en stock du beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1008/73 der Kommission vom 12. April 1973 zur Änderung
+    der Verordnungen (EWG) Nrn. 1259/72 und 1519/72 hinsichtlich des Einlagerungsdatums
+    der Butter
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1008/73 af 12. april 1973 om ændring
+    af forordning (EØF) nr. 1259/72 og 1519/72 for så vidt angår oplagringsdatoen
+    for smør
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1008/73 della Commissione, del 12 aprile 1973, che
+    modifica i regolamenti (CEE) n. 1259/72 e n. 1519/72 per quanto riguarda la data
+    di entrata in ammasso del burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1008/73 van de Commissie van 12 april 1973 houdende
+    wijziging van de Verordeningen (EEG) nrs. 1259/72 en 1519/72 met betrekking tot
+    de opslagdatum van de boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1008
+docidentifier:
+- content: EU Regulation 1008/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1008
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1008/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-12'
+- type: implemented
+  at: '1973-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1259
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1519
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

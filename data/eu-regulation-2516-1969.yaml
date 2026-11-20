@@ -1,0 +1,80 @@
+---
+id: EURegulation25161969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2516/69 du Conseil, du 9 décembre 1969, modifiant
+    le règlement n° 158/66/CEE concernant l'application des normes de qualité aux
+    fruits et légumes commercialisés à l'intérieur de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2516/69 des Rates vom 9. Dezember 1969 zur Änderung
+    der Verordnung Nr. 158/66/EWG über die Anwendung der Qualitätsnormen für Obst
+    und Gemüse, das innerhalb der Gemeinschaft in den Verkehr gebracht wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2516/69 del Consiglio, del 9 dicembre 1969, che modifica
+    il regolamento n. 158/66/CEE relativo all'applicazione delle norme comuni di qualità
+    agli ortofrutticoli commercializzati all'interno della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2516/69 van de Raad van 9 december 1969 tot wijziging
+    van Verordening nr. 158/66/EEG betreffende de toepassing van de kwaliteitsnormen
+    op groenten en fruit die binnen de Gemeenschap in de handel worden gebracht
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2516
+docidentifier:
+- content: EU Regulation 2516/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2516
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2516/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-09'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0158
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

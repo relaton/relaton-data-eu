@@ -1,0 +1,78 @@
+---
+id: EURegulationNo20461968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2046/68 du Conseil, du 10 décembre 1968, relatif
+    à l'application aux départements français d'outre-mer du règlement (CEE) n°
+    2045/68 instaurant une procédure spéciale pour l'importation de certains produits
+    de certains pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2046/68 des Rates vom 10. Dezember 1968 über die
+    Anwendung der Verordnung (EWG) Nr. 2045/68 zur Einführung eines Sonderverfahrens
+    bei der Einfuhr bestimmter Waren aus bestimmten Drittländern auf die französischen
+    überseeischen Departements
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2046/68 del Consiglio, del 10 dicembre 1968, relativo
+    all'applicazione ai dipartimenti francesi d'oltremare del regolamento (CEE) n.
+    2045/68 che istituisce una procedura speciale per l'importazione di determinati
+    prodotti da taluni paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2046/68 van de Raad van 10 december 1968 betreffende
+    de toepassing op de Franse overzeese departementen van Verordening (EEG) nr. 2045/68
+    houdende de instelling van een bijzondere procedure voor de invoer van bepaalde
+    produkten uit bepaalde derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R2046
+docidentifier:
+- content: EU Regulation No 2046/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R2046
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/2046/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-10'
+- type: implemented
+  at: '1969-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

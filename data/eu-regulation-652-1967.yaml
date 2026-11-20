@@ -1,0 +1,65 @@
+---
+id: EURegulation6521967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 652/67/CEE de la Commission, du 29 septembre 1967, modifiant
+    le montant supplémentaire pour certains oeufs en coquille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 652/67/EWG der Kommission vom 29. September 1967 zur Änderung
+    des Zusatzbetrags für bestimmte Eier in der Schale
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 652/67/CEE della Commissione, del 29 settembre 1967, che
+    modifica l'importo supplementare per taluni prodotti del settore delle uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 652/67/EEG van de Commissie van 29 september 1967 houdende
+    wijziging van het extra bedrag voor bepaalde produkten in de sector eieren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0652
+docidentifier:
+- content: EU Regulation 652/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0652
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/652/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

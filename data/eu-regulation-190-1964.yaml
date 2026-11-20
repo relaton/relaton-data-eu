@@ -1,0 +1,73 @@
+---
+id: EURegulation1901964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 190/64/CEE du Conseil, du 14 décembre 1964, relatif à la
+    détermination de la quantité de céréales fourragères nécessaire pour la
+    production d'un kilogramme d'oeufs à couver de volaille de basse-cour et prorogeant
+    la validité des règlements ns 45, 46 et 116
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 190/64/EWG des Rates vom 14. Dezember 1964 über die Festsetzung
+    der zur Erzeugung von einem Kilogramm Bruteier von Hausgeflügel erforderlichen
+    Futtergetreidemenge und zur Verlängerung der Geltungsdauer der Verordnungen Nr.
+    45, 46 und 116
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 190/64/CEE del Consiglio, del 14 dicembre 1964, relativo
+    alla determinazione della quantità di cereali da foraggio necessaria per la produzione
+    di un chilogrammo di uova da cova di volatili da cortile, ed alla proroga della
+    validità dei regolamenti nn. 45, 46 e 116
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 190/64/EEG van de Raad van 14 december 1964 tot vaststelling
+    van de hoeveelheid voedergranen, vereist voor de produktie van een kilogram broedeieren
+    van pluimvee, en tot verlenging van de geldigheidsduur van de Verordeningen nos.
+    45, 46 en 116
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0190
+docidentifier:
+- content: EU Regulation 190/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0190
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/190/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

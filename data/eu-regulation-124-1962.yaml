@@ -1,0 +1,83 @@
+---
+id: EURegulation1241962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 124 du Conseil portant fixation du montant des prélèvements
+    envers les pays tiers pour le porc abattu et pour le porc vivant
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 124 des Rats über die Festsetzung der Abschöpfungsbeträge
+    gegenüber dritten Ländern für geschlachtete Schweine und für lebende Schweine
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 124 del Consiglio relativo alla fissazione dell'ammontare
+    dei prelievi nei confronti dei paesi terzi applicabili ai suini vivi e ai suini
+    macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 124 van de Raad houdende vaststelling van het bedrag van
+    de heffingen ten opzichte van de derde landen voor geslachte varkens en voor levende
+    varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0124
+docidentifier:
+- content: EU Regulation 124/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0124
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/124/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-09-25'
+- type: implemented
+  at: '1962-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0051
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0053
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

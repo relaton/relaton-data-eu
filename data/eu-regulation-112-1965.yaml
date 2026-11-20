@@ -1,0 +1,69 @@
+---
+id: EURegulation1121965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 112/65/CEE de la Commission, du 8 juillet 1965, modifiant
+    et prorogeant le règlement n 101/64/CEE relatif aux restitutions à l'exportation
+    de riz et de brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 112/65/EWG der Kommission vom 8. Juli 1965 zur Änderung
+    und Verlängerung der Geltungsdauer der Verordnung Nr. 101/64/ EWG über Erstattungen
+    bei der Ausfuhr von Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 112/65/CEE della Commissione, dell'8 luglio 1965, che modifica
+    e proroga il regolamento n. 101/64/CEE relativo alle restituzioni all'esportazione
+    di riso e di rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 112/65/EEG van de Commissie van 8 juli 1965 houdende wijziging
+    en verlenging van de geldigheidsduur van Verordening no. 101/ 64/EEG met betrekking
+    tot de restitutie bij uitvoer van rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0112
+docidentifier:
+- content: EU Regulation 112/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0112
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/112/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

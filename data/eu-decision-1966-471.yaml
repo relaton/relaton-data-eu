@@ -1,0 +1,82 @@
+---
+id: EUDecision1966471
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/471/CEE de la Commission, du 29 juillet 1966, portant nouvelle
+    modification de sa décision du 19 avril 1966 autorisant la perception de taxes
+    compensatoires sur les importations en République italienne, de biscottes et
+    biscuits en provenance de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/471/EWG: Entscheidung der Kommission vom 29. Juli 1966 zur erneuten
+    Änderung ihrer Entscheidung vom 19. April 1966 über die Erhebung von Ausgleichsabgaben
+    auf Einfuhren von Zwieback und Keksen aus verschiedenen Mitgliedstaaten in die
+    Italienische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '66/471/CEE: Decisione della Commissione del 29 luglio 1966 che modifica
+    nuovamente la decisione del 19 aprile 1966 che autorizza la riscossione di tasse
+    di compensazione sulle importazioni, nella Repubblica italiana, di fette biscottate
+    e di biscotti in provenienza da alcuni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/471/EEG: Beschikking van de Commissie van 29 juli 1966 tot nieuwe wijziging
+    van haar beschikking van 19 april 1966 houdende machtiging tot het leggen van
+    compenserende heffingen op de invoer in de Italiaanse Republiek van beschuit en
+    biscuits uit bepaalde Lid- Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0471
+docidentifier:
+- content: EU Decision 1966/471
+  type: EU
+  primary: true
+- content: CELEX 31966D0471
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/471/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0276
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

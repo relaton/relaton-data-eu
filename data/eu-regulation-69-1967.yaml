@@ -1,0 +1,69 @@
+---
+id: EURegulation691967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 69/67/CEE de la Commission, du 29 mars 1967, fixant le coefficient
+    d'équivalence entre la qualité de riz R.B. 265 et les standards de qualité
+    pour lesquels sont fixés le prix de seuil et le prix d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 69/67/EWG der Kommission vom 29. März 1967 zur Festsetzung
+    eines Ausgleichskoeffizienten zwischen der Reisqualität R.B. 265 und den für
+    den Schwellenpreis und den Interventionspreis maDgebenden Standardqualitäten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 69/67/CEE della Commissione, del 29 marzo 1967, che fissa
+    i coefficienti di equivalenza tra la qualità di riso R.B. 265 e le qualità tipo
+    per le quali sono fissati il prezzo di entrata e il prezzo d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 69/67/EEG van de Commissie van 29 maart 1967 houdende vaststelling
+    van de gelijkwaardigheidscoëfficiënten tussen de rijstkwaliteit R.B. 265 en
+    de standaardkwaliteit waarvoor de drempelprijs en de interventieprijs zijn bepaald
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0069
+docidentifier:
+- content: EU Regulation 69/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0069
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/69/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

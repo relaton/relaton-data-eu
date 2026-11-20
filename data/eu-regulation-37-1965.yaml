@@ -1,0 +1,68 @@
+---
+id: EURegulation371965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 37/65/CEE de la Commission, du 23 mars 1965, fixant les critères
+    en vue de la détermination des prix C.A.F. pour les céréales, farines, gruaux
+    et semoules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 37/65/EWG der Kommission vom 23. März 1965 über die Kriterien
+    für die Bestimmung der cif-Preise für Getreide, Mehl, Grob- und FeingrieD
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 37/65/CEE della Commissione, del 23 marzo 1965, relativo
+    ai criteri per la determinazione dei prezzi cif per i cereali, le farine, le semole
+    ed i semolini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 37/65/EEG van de Commissie van 23 maart 1965 tot vaststelling
+    van de criteria voor de bepaling van de c.i.f.-prijzen voor granen, meel, grutten,
+    gries en griesmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0037
+docidentifier:
+- content: EU Regulation 37/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0037
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/37/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

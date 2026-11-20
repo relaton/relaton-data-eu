@@ -1,0 +1,102 @@
+---
+id: EURegulation2341974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 234/74 of the Commission of 29 January 1974 revoking
+    Regulation (EEC) No 101/72 on Community transit documents issued for goods which
+    on exportation to third countries are eligible for a refund under the common agricultural
+    policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 234/74 de la Commission, du 29 janvier 1974, abrogeant
+    le règlement (CEE) n° 101/72 relatif aux documents du transit communautaire
+    établis pour des marchandises susceptibles de bénéficier d'une restitution
+    à l'exportation vers les pays tiers octroyée dans le cadre de la politique agricole
+    commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 234/74 der Kommission vom 29. Januar 1974 zur Aufhebung
+    der Verordnung (EWG) Nr. 101/72 über gemeinschaftliche Versandpapiere für Waren,
+    für die eine Erstattung bei der Ausfuhr in dritte Länder im Rahmen der gemeinsamen
+    Agrarpolitik gewährt werden kann
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 234/74 af 29. januar 1974 om ophævelse
+    af Kommissionens forordning (EØF) nr. 101/72 om fællesskabsforsendelsesdokumenter
+    for varer, for hvilke der kan ydes restitution ved indførsel til tredjelande
+    inden for rammerne af den fælles landbrugspolitik
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 234/74 della Commissione, del 29 gennaio 1974, che
+    abroga il regolamento (CEE) n. 101/72 relativo ai documenti di transito comunitario
+    riguardanti merci suscettibili di beneficiare di una restituzione all'esportazione
+    verso i paesi terzi concessa nell'ambito della politica agricola comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 234/74 van de Commissie van 29 januari 1974 tot intrekking
+    van Verordening (EEG) nr. 101/72 betreffende de documenten voor communautair douanevervoer,
+    opgemaakt voor goederen die in aanmerking kunnen komen voor een in het kader van
+    het gemeenschappelijk landbouwbeleid verleende restitutie bij uitvoer naar derde
+    landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0234
+docidentifier:
+- content: EU Regulation 234/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0234
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/234/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-01-29'
+- type: implemented
+  at: '1974-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0101
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

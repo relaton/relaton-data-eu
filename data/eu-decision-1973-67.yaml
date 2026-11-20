@@ -1,0 +1,98 @@
+---
+id: EUDecision197367
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Decision of 22 March 1973 amending the Decision of 12 December
+    1972 adopting a research and training programme for the European Atomic Energy
+    Community for the financial year 1972, consisting of a joint programme and supplementary
+    programmes
+  type: main
+- language: fr
+  script: Latn
+  content: Décision du Conseil 73/67/Euratom, du 22 mars 1973, modifiant la décision
+    du 12 décembre 1972 arrêtant un programme de recherches et d'enseignement de
+    Communauté européenne de l'énergie atomique pour l'exercice 1972, composé
+    d'un programme commun et de programmes complémentaires
+  type: main
+- language: de
+  script: Latn
+  content: Beschluß des Rates vom 22. März 1973 zur Änderung des Beschlusses vom
+    12. Dezember 1972 zur Festlegung eines aus einem gemeinsamen Programm und aus
+    Ergänzungsprogrammen bestehenden Forschungs- und Ausbildungsprogramms der Europäischen
+    Atomgemeinschaft für das Haushaltsjahr 1972
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Afgørelse af 22. marts 1973, om ændring af afgørelse af 12.
+    december 1972 om vedtagelse af et forsknings- og undervisningsprogram for Det
+    europæiske økonomiske Atomenergifællesskab for regnskabsåret 1972, om fattende
+    et fælles program og supplerende programmer
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio, del 22 marzo 1973, che modifica la decisione del
+    12 dicembre 1972, che stabilisce un programma di ricerche e d'insegnamento della
+    Comunità europea dell'energia atomica per l'esercizio 1972, composto di un programma
+    comune e di programmi complementari
+  type: main
+- language: nl
+  script: Latn
+  content: Besluit van de Raad van 22 maart 1973 houdende wijziging van het besluit
+    van 12 december 1972 tot vaststelling van een programma voor onderzoek en onderwijs
+    van de Europese Gemeenschap voor Atoomenergie voor het begrotingsjaar 1972, bestaande
+    uit een gemeenschappelijk programma en aanvullende programma's
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973D0067
+docidentifier:
+- content: EU Decision 1973/67
+  type: EU
+  primary: true
+- content: CELEX 31973D0067
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1973/67/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0494
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

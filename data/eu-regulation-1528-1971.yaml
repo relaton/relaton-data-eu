@@ -1,0 +1,105 @@
+---
+id: EURegulation15281971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1528/71 of the Council of 12 July 1971 amending Regulations
+    No 120/67/EEC and No 359/67/EEC on the common organisation of the markets in cereals
+    and in rice respectively
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1528/71 du Conseil, du 12 juillet 1971, modifiant
+    les règlements" n° 120/67/CEE et n° 359/67/CEE portant organisation commune
+    des marchés respectivement dans les secteurs des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1528/71 des Rates vom 12. Juli 1971 zur Änderung
+    der Verordnungen Nr. 120/67/EWG und Nr. 359/67/EWG über die gemeinsame Marktorganisation
+    für Getreide bzw. Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1528/71 af 12. juli 1971 om ændring af forordningerne
+    nr. 120/67/EØF og nr. 359/67/EØF om de fælles markedsordninger for korn og
+    ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1528/71 del Consiglio, del 12 luglio 1971, che modifica
+    i regolamenti n. 120/67/CEE e n. 359/67/CEE relativi all' organizzazione comune
+    dei mercati rispettivamente nel settore dei cereali e in quello del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1528/71 van de Raad van 12 juli 1971 tot wijziging
+    van Verordening nr. 120/67/EEG en van Verordening nr. 359/67/EEG houdende een
+    gemeenschappelijke ordening der markten respectievelijk in de sector granen en
+    in de sector rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1528
+docidentifier:
+- content: EU Regulation 1528/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1528
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1528/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-12'
+- type: implemented
+  at: '1971-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0359
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0001
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

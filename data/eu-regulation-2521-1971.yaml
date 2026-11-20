@@ -1,0 +1,94 @@
+---
+id: EURegulation25211971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2521/71 of the Commission of 24 November 1971 amending
+    Regulation (EEC) No 1643/71 introducing a system of minimum prices for imports
+    of tomato concentrates from Greece
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2521/71 de la Commission, du 24 novembre 1971, modifiant
+    le règlement (CEE) n° 1643/71 instaurant un système de prix minima applicables
+    à l' importation de concentrés de tomates en provenance de la Grèce
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2521/71 der Kommission vom 24. November 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1643/71 zur Einführung einer Mindestpreisregelung für
+    die Einfuhr von Tomaten konzentraten mit Herkunft aus Griechenland
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2521/71 af 24. november 1971 om ændring
+    af forordning (EØF) nr. 1643/71 om oprettelse af en mindsteprisordning for indførsel
+    af tomatkoncentrat fra Grækenland
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2521/71 della Commissione, del 24 novembre 1971, recante
+    modifica al regolamento (CEE) n. 1643/71 che instaura un sistema di prezzi minimi
+    applicabili all' importazione di concentrati di pomodoro provenienti dalla Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2521/71 van de Commissie van 24 november 1971 houdende
+    wijziging van Verordening (EEG) nr. 1643/71 tot invoering van een stelsel van
+    minimumprijzen voor de invoer van tomatenpasta uit Griekenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2521
+docidentifier:
+- content: EU Regulation 2521/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2521
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2521/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-24'
+- type: implemented
+  at: '1971-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1643
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,82 @@
+---
+id: EURegulation8421967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 842/67/CEE de la Commission, du 16 novembre 1967, modifiant
+    le libellé du règlement n° 469/67/CEE au sujet des offres concernant un produit
+    en sacs, retenues pour la détermination des prix CAF du riz et des brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 842/67/EWG der Kommission vom 14. November 1967 zur Änderung
+    der Fassung der Verordnung Nr. 469/67/EWG in bezug auf die Angebote für ein Erzeugnis
+    in Säcken zur Bestimmung der cif-Preise für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 842/67/CEE della Commissione, del 14 novembre 1967, che
+    modifica la redazione del regolamento n. 469/67/CEE per quanto riguarda le offerte
+    di un prodotto in sacchi, prese in considerazione per la determinazione dei prezzi
+    cif del riso e delle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 842/67/EEG van de Commissie van 14 november 1967 houdende
+    wijziging van de tekst van Verordening Nr. 469/67/EEG met betrekking tot aanbiedingen
+    van een produkt in zakken die dienen voor de bepaling van de c.i.f.-prijzen voor
+    rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0842
+docidentifier:
+- content: EU Regulation 842/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0842
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/842/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-14'
+- type: implemented
+  at: '1967-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0469
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

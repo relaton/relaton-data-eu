@@ -1,0 +1,100 @@
+---
+id: EURegulation28411976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2841/76 of 23 November 1976 amending Regulation
+    (EEC) No 1466/76 extending the arrangements laid down in Regulation (EEC) No 3328/75
+    for imports of beef and veal originating in certain African, Caribbean and Pacific
+    States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2841/76 du Conseil, du 23 novembre 1976, modifiant
+    le règlement (CEE) n° 1466/76 prorogeant le régime d'importation de viande
+    bovine originaire de certains États d'Afrique, des Caraïbes et du Pacifique
+    prévu par le règlement (CEE) n° 3328/75
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2841/76 des Rates vom 23. November 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1466/76 zur Verlängerung der in der Verordnung (EWG)
+    Nr. 3328/75 vorgesehenen Einfuhrregelung für Rindfleisch mit Ursprung in bestimmten
+    Staaten in Afrika, im karibischen Raum und im Pazifischen Ozean
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2841/76 af 23. november 1976 om ændring
+    af forordning (EØF) nr. 1466/76 om forlængelse af importordningen for oksekød
+    med oprindelse i visse stater i Afrika, Vestindien og Stillehavet, som fastsat
+    ved forordning (EØF) nr. 3328/75
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2841/76 del Consiglio, del 23 novembre 1976, che modifica
+    il regolamento (CEE) n. 1466/76 che proroga il regime d'importazione previsto
+    dal regolamento (CEE) n. 3328/75 per carni bovine originarie di taluni Stati africani,
+    dei Caraibi e del Pacifico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2841/76 van de Raad van 23 november 1976 tot wijziging
+    van Verordening (EEG) nr. 1466/76 houdende verlenging van de bij Verordening (EEG)
+    nr. 3328/75 vastgestelde invoerregeling voor rundvlees van oorsprong uit bepaalde
+    Staten in Afrika, het Caribische gebied en de Stille Oceaan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2841
+docidentifier:
+- content: EU Regulation 2841/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2841
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2841/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-23'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1466
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

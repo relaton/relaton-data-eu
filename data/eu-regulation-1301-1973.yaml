@@ -1,0 +1,96 @@
+---
+id: EURegulation13011973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (ECSC, EEC, Euratom) No 1301/73 of the Council of 14 May 1973
+    adjusting the weightings applied to the remuneration and pensions of the Officials
+    and Other Servants of the European Communities
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CECA, CEE, Euratom) n° 1301/73 du Conseil, du 14 mai 1973,
+    portant adaptation des coefficients correcteurs dont sont affectées les rémunérations
+    et pensions des fonctionnaires et autres agents des Communautés européennes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EGKS, EWG, Euratom) Nr. 1301/73 des Rates vom 14. Mai 1973
+    zur Anpassung der Berichtigungskoeffizienten, die auf die Dienst- und Versorgungsbezüge
+    der Beamten und sonstigen Bediensteten der Europäischen Gemeinschaften anwendbar
+    sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EKSF, EØF, Euratom) nr. 1301/73 af 14. maj 1973 om
+    tilpasning af justeringskoefficienterne for vederlag og pensioner til tjenestemænd
+    og øvrige ansatte i De europæiske Fællesskaber
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CECA, CEE, Euratom) n. 1301/73 del Consiglio, del 14 maggio
+    1973, relativo all'adeguamento dei coefficienti correttori applicabili alle retribuzioni
+    e alle pensioni dei funzionari e degli altri agenti delle Comunità europee
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EGKS, EEG, Euratom) nr. 1301/73 van de Raad van 14 mei 1973
+    tot wijziging van de aanpassingscoëfficiënten welke van toepassing zijn op de
+    bezoldigingen en de pensioenen van de ambtenaren en van de andere personeelsleden
+    van de Europese Gemeenschappen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1301
+docidentifier:
+- content: EU Regulation 1301/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1301
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1301/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-05-14'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2647
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

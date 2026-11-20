@@ -1,0 +1,94 @@
+---
+id: EURegulation371978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 37/78 of 9 January 1978 amending Regulation
+    (EEC) No 2552/77 regarding the time limit for submitting crop declarations for
+    seed flax for the 1977/78 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 37/78 de la Commission, du 9 janvier 1978, modifiant
+    le règlement (CEE) n° 2552/77 en ce qui concerne la date limite de dépôt des
+    déclarations de récolte pour le lin oléagineux pour la campagne 1977/1978
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 37/78 der Kommission vom 9. Januar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2552/77 hinsichtlich des Abgabetermins für die Ernteerklärungen
+    für Öllein im Wirtschaftsjahr 1977/78
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 37/78 af 9. januar 1978 om ændring
+    af forordning (EØF) nr. 2552/77 for så vidt angår fristen for indgivelse af
+    høsterklæring for oliehør for høståret 1977/1978
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 37/78 della Commissione, del 9 gennaio 1978, che modifica
+    il regolamento (CEE) n. 2552/77 per quanto concerne la data limite per il deposito
+    delle dichiarazioni di raccolta per il lino oleaginoso per la campagna 1977/1978
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 37/78 van de Commissie van 9 januari 1978 houdende
+    wijziging van Verordening (EEG) nr. 2552/77 inzake de uiterste datum voor het
+    indienen van de oogstaangiften voor olievlas voor het verkoopseizoen 1977/1978
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0037
+docidentifier:
+- content: EU Regulation 37/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0037
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/37/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-01-09'
+- type: implemented
+  at: '1978-01-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2552
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

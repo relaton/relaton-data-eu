@@ -1,0 +1,74 @@
+---
+id: EURegulation10201972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1020/72 du Conseil, du 18 mai 1972, fixant une indemnité
+    compensatrice pour le froment tendre, le seigle de qualité panifiable et le maïs
+    en stock à la fin de la campagne 1971/1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1020/72 des Rates vom 18. Mai 1972 zur Festsetzung
+    einer Übergangsvergütung für die am Ende des Wirtschaftsjahres 1971/1972 vorhandenen
+    Bestände an Weichweizen, zur Brotherstellung geeignetem Roggen und Mais
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1020/72 del Consiglio, del 18 maggio 1972, che fissa
+    un'indennità di compensazione per il frumento tenero, per la segala da panificazione
+    e per il granturco in giacenza alla fine della campagna 1971/1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1020/72 van de Raad van 18 mei 1972 tot vaststelling
+    van een compenserende vergoeding voor zachte tarwe, voor broodrogge en voor maïs,
+    in voorraad aan het einde van het verkoopseizoen 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1020
+docidentifier:
+- content: EU Regulation 1020/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1020
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1020/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-05-18'
+- type: implemented
+  at: '1972-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

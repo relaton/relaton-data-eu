@@ -1,0 +1,84 @@
+---
+id: EUDecision1966469
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/469/CEE de la Commission, du 29 juillet 1966, portant nouvelle
+    modification de sa décision du 6 novembre 1964 autorisant la perception de taxes
+    compensatoires sur les importations, en République française, de sucreries sans
+    cacao ne contenant pas de liqueur alcoolique, en provenance des autres États
+    membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/469/EWG: Entscheidung der Kommission vom 29. Juli 1966 zur erneuten
+    Änderung ihrer Entscheidung vom 6. November 1964 über die Erhebung von Ausgleichsabgaben
+    auf Einfuhren von Zuckerwaren ohne Kakaogehalt, nicht alkoholhaltig, aus verschiedenen
+    Mitgliedstaaten in die Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '66/469/CEE: Decisione della Commissione del 29 luglio 1966 che modifica
+    nuovamente la decisione del 6 novembre 1964 che autorizza la riscossione di tasse
+    di compensazione sulle importazioni, nella Repubblica francese, di prodotti a
+    base di zuccheri senza cacao, non contenenti sostanze alcoliche, in provenienza
+    dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/469/EEG: Beschikking van de Commissie van 29 juli 1966 tot nieuwe wijziging
+    van haar beschikking van 6 november 1964, houdende machtiging tot het leggen van
+    compenserende heffingen op de invoer in de Franse Republiek van suikerwerk zonder
+    cacao, geen likeur bevattende, uit de overige Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0469
+docidentifier:
+- content: EU Decision 1966/469
+  type: EU
+  primary: true
+- content: CELEX 31966D0469
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/469/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0691
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

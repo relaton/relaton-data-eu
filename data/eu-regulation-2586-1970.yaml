@@ -1,0 +1,75 @@
+---
+id: EURegulation25861970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2586/70 du Conseil, du 17 décembre 1970, portant
+    ouverture, répartition et mode de gestion d'un contingent tarifaire communautaire
+    pour la soie grège (non moulinée), de la position 50.02 du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2586/70 des Rates vom 17. Dezember 1970 über die
+    Eröffnung, Aufteilung und Verwaltung des Gemeinschaftszollkontingents für Grège,
+    weder gedreht noch gezwirnt, der Tarifnummer 50.02 des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2586/70 del Consiglio, del 17 dicembre 1970, relativo
+    all'apertura, alla ripartizione ed alle modalità di gestione di un contingente
+    tariffario comunitario per la seta greggia (non torta), della voce 50.02 della
+    tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2586/70 van de Raad van 17 december 1970 betreffende
+    de opening, de verdeling en de wijze van beheer voor ruwe zijde (haspelzijde of
+    grège), niet gemoulineerd, van post 50.02 van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2586
+docidentifier:
+- content: EU Regulation 2586/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2586
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2586/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-17'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

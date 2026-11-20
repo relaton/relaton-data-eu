@@ -1,0 +1,104 @@
+---
+id: EURegulation3101978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 310/78 of 14 February 1978 amending Regulation
+    (EEC) No 878/77 as regards the exchange rates to be applied for tomato concentrates
+    and isoglucose
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 310/78 du Conseil, du 14 février 1978, modifiant
+    le règlement (CEE) n° 878/77 en ce qui concerne les taux de change applicables
+    pour les concentrés de tomates et l' isoglucose
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 310/78 des Rates vom 14. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 878/77 hinsichtlich der Umrechnungskurse für Tomatenkonzentrat
+    und Isoglukose
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 310/78 af 14. februar 1978 om ændring af
+    forordning (EØF) nr. 878/77 for så vidt angår de vekselkurser, der skal anvendes
+    for tomatkoncentrationer og isoglucose
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 310/78 του Συμβουλίου
+    της 14ης Φεβρουαρίου 1978 περί τροποποιήσεως
+    του κανονισμού (ΕΟΚ) αριθ. 878/77 «περί των τιμών
+    συναλλάγματος που πρέπει να εφαρμόζονται για
+    τους τοματοπολτούς και την ισογλυκόζη»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 310/78 del Consiglio, del 14 febbraio 1978, che modifica
+    il regolamento (CEE) n. 878/77 per quanto concerne i tassi di cambio da applicare
+    per i concentrati di pomodori e l' isoglucosio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 310/78 van de Raad van 14 februari 1978 tot wijziging
+    van Verordening (EEG) nr. 878/77 ten aanzien van de voor tomatenpasta en isoglucose
+    toe te passen wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0310
+docidentifier:
+- content: EU Regulation 310/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0310
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/310/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-14'
+- type: implemented
+  at: '1978-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

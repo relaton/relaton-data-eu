@@ -1,0 +1,74 @@
+---
+id: EUDecision1962403
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision du Conseil portant fixation des contingents à ouvrir par la
+    République fédérale d'Allemagne, par la République française et par la République
+    italienne pour l'importation de vins
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung des Rates zur Festsetzung der von der Bundesrepublik Deutschland,
+    der Französischen Republik und der Italienischen Republik zu eröffnenden Einfuhrkontingente
+    für Wein
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio relativa alla fissazione dei contingenti che la
+    Repubblica federale di Germania, la Repubblica Francese e la Repubblica Italiana
+    devono aprire per l'importazione dei vini
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Raad houdende vaststelling van de contingenten, beschikbaar
+    te stellen door de Bondsrepubliek Duitsland, de Franse Republiek en de Italiaanse
+    Republiek voor de invoer van wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962D0403P1002
+docidentifier:
+- content: EU Decision 1962/403
+  type: EU
+  primary: true
+- content: CELEX 31962D0403P1002
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1962/403/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-04-04'
+- type: implemented
+  at: '1962-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

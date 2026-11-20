@@ -1,0 +1,136 @@
+---
+id: EURegulation19841974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1984/74 of the Commission of 25 July 1974 amending
+    (i) Regulation (EEC) No 2500/73 on the advance fixing of refunds and the period
+    of validity of export licences for milk and milk products and (ii), as regards
+    communications with regard to such products, Regulation (EEC) No 210/69
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1984/74 de la Commission, du 25 juillet 1974, modifiant
+    le règlement (CEE) n° 2500/73 relatif à la fixation à l' avance des restitutions
+    et à la durée de validité des certificats d' exportation dans le secteur du
+    lait et des produits laitiers, ainsi que le règlement (CEE) n° 210/69 en ce
+    qui concerne les communications en la matière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1984/74 der Kommission vom 25. Juli 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2500/73 über die Vorausfestsetzung der Erstattungen
+    und die Gültigkeitsdauer der Ausfuhrlizenzen für Milch und Milcherzeugnisse
+    sowie der Verordnung (EWG) Nr. 210/69 hinsichtlich der diesbezüglichen Mitteilungen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1984/74 af 25. juli 1974 om ændring
+    af forordning (EØF) nr. 2500/73 om forudfastsættelse af restitutionerne og om
+    fastsættelse af gyldighedsperioden for eksportlicenser for mælk og mejeriprodukter
+    samt af forordning (EØF) nr. 210/69 for så vidt angår meddelelser herom
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1984/74 της Επιτροπής
+    της 25ης Ιουλίου 1974 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 2500/73 περί του προκαθορισμού των επιστροφών
+    και της διαρκείας ισχύος των πιστοποιητικών
+    εξαγωγής στον τομέα του γάλακτος και των γαλακτοκομικών
+    προϊόντων, καθώς και του κανονισμού (ΕΟΚ) αριθ.
+    210/69 όσον αφορά τις ανακοινώσεις επί του θέματος
+  type: main
+- language: fi
+  script: Latn
+  content: KOMISSION ASETUS (ETY) N:o 1984/74, annettu 25 päivänä heinäkuuta 1974,
+    maito- ja maitotuotealan tukien ennalta vahvistamisesta ja vientitodistusten voimassaoloajasta
+    annetun asetuksen (ETY) N:o 2500/73 muuttamisesta, sekä alan tiedonantoja koskevan
+    asetuksen (ETY) N:o 210/69 muuttamisesta,
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1984/74 della Commissione, del 25 luglio 1974, che
+    modifica il regolamento (CEE) n. 2500/73, relativo alla fissazione in anticipo
+    delle restituzioni ed alla durata di validità dei titoli di esportazione nel
+    settore del latte e dei prodotti lattiero-caseari, nonché il regolamento (CEE)
+    n. 210/69 per quanto riguarda le comunicazioni in materia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1984/74 van de Commissie van 25 juli 1974 houdende
+    wijziging van Verordening (EEG) nr. 2500/73 voor het vooraf vaststellen van de
+    restituties en de geldigheidsduur van de uitvoercertificaten in de sector melk
+    en zuivelprodukten, alsmede van Verordening (EEG) nr. 210/69 betreffende de mededeling
+    van gegevens
+  type: main
+- language: sv
+  script: Latn
+  content: KOMMISSIONENS FÖRORDNING (EEG) nr 1984/74 av den 25 juli 1974 om ändring
+    av förordning (EEG) nr 2500/73 om förutfastställelse av exportbidrag och om
+    giltighetstiden för exportlicenser för mjölk och mjölkprodukter samt av förordning
+    (EEG) nr 210/69 vad avser meddelanden om sådana produkter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1984
+docidentifier:
+- content: EU Regulation 1984/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1984
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1984/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-25'
+- type: implemented
+  at: '1974-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0210
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2500
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

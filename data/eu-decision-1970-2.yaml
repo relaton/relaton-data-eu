@@ -1,0 +1,84 @@
+---
+id: EUDecision19702
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 11 décembre 1969, modifiant la décision
+    de la Commission, du 31 octobre 1969, relative aux modalités d'application de
+    la décision de la Commission, du 30 octobre 1969, autorisant la République d'Allemagne
+    à prendre des mesures de sauvegarde dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: '70/2/EWG: Entscheidung der Kommission vom 11. Dezember 1969 zur Änderung
+    der Entscheidung der Kommission vom 31. Oktober 1969 mit Durchführungsbestimmungen
+    zur Entscheidung der Kommission vom 30. Oktober 1969 betreffend die Ermächtigung
+    der Bundesrepublik Deutschland zur Ergreifung von Schutzmaßnahmen für die deutsche
+    Landwirtschaft'
+  type: main
+- language: it
+  script: Latn
+  content: '70/2/CEE: Decisione della Commissione, dell''11 dicembre 1969, che modifica
+    la decisione della Commissione del 31 ottobre 1969 relativa alle modalità di
+    applicazione della decisione della Commissione del 30 ottobre 1969, che autorizza
+    la Repubblica federale di Germania ad adottare misure di salvaguardia nel settore
+    agricolo'
+  type: main
+- language: nl
+  script: Latn
+  content: '70/2/EEG: Beschikking van de Commissie van 11 december 1969 houdende wijziging
+    van de beschikking van de Commissie van 31 oktober 1969 betreffende de toepassingsmodaliteiten
+    van de beschikking van de Commissie van 30 oktober 1969 waarbij de Bondsrepubliek
+    Duitsland wordt gemachtigd vrijwaringsmaatregelen voor de landbouw te treffen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970D0002
+docidentifier:
+- content: EU Decision 1970/2
+  type: EU
+  primary: true
+- content: CELEX 31970D0002
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1970/2/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969D0377
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

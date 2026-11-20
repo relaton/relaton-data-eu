@@ -1,0 +1,104 @@
+---
+id: EURegulation27441972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2744/72 of the Council of 19 December 1972 amending
+    Council Regulation (EEC) No 1496/68 of 27 September 1968 on the definition of
+    the customs territory of the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2744/72 du Conseil, du 19 décembre 1972, portant
+    modification du règlement (CEE) n° 1496/68 du Conseil, du 27 septembre 1968,
+    relatif à la définition du territoire douanier de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2744/72 des Rates vom 19. Dezember 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1496/68 des Rates vom 27. September 1968 über die Bestimmung
+    des Zollgebiets der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2744/72 af 19. december 1972 om ændring
+    af rådsforordning (EØF) nr. 1496/68 af 27. september 1968 om fastsættelse af
+    Fællesskabets toldområde
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 2744/72 του Συμβουλίου,
+    της 19ης Δεκεμβρίου 1972, περί τροποποίησης του
+    κανονισμού ( ΕΟΚ ) αριθ. 1496/68 του Συμβουλίου,
+    της 27ης Σεπτεμβρίου 1968, περί του καθορισμού
+    του τελωνειακού εδάφους της Κοινότητας.
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2744/72 del Consiglio, del 19 dicembre 1972, che modifica
+    il regolamento (CEE) n. 1496/68 del Consiglio, del 27 settembre 1968, relativo
+    alla definizione del territorio doganale della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2744/72 van de Raad van 19 december 1972 houdende
+    wijziging van Verordening (EEG) nr. 1496/68 van de Raad van 27 september 1968
+    inzake de definitie van het douanegebied van de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2744
+docidentifier:
+- content: EU Regulation 2744/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2744
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2744/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1496
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,68 @@
+---
+id: EURegulation9411967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 941/67/CEE de la Commission, du 30 novembre 1967, relatif
+    à la préfixation du prélèvement et de la restitution pour les aliments composés
+    à base de céréales pour les animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 941/67/EWG der Kommission vom 30. November 1967 über die
+    vorherige Festsetzung der Abschöpfung und der Erstattung für Getreide-Mischfuttermittel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 941/67/CEE della Commissione, del 30 novembre 1967, relativo
+    alla fissazione in anticipo del prelievo e della restituzione per gli alimenti
+    composti a base di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 941/67/EEG van de Commissie van 30 november 1967 betreffende
+    het van tevoren vaststellen van de heffing en van de restitutie voor mengvoeders
+    op basis van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0941
+docidentifier:
+- content: EU Regulation 941/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0941
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/941/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

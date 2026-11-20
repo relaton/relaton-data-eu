@@ -1,0 +1,65 @@
+---
+id: EURegulation751962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 75 de la Commission portant fixation du montant des prélèvements
+    intracommunautaires pour les volailles abattues.
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 75 der Kommission über die Festsetzung der innergemeinschaftlichen
+    Abschöpfungsbeträge für geschlachtetes Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 75 della Commissione relativo alla fissazione dell'ammontare
+    del prelievo intracomunitario per volatili da cortile macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 75 van de Commissie houdende vaststelling van het bedrag
+    der intracommunautaire heffingen op geslacht pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0075
+docidentifier:
+- content: EU Regulation 75/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0075
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/75/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

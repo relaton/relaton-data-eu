@@ -1,0 +1,74 @@
+---
+id: EURegulation19891968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1989/68 du Conseil, du 9 décembre 1968, relatif à
+    l'exécution de l'article 7 paragraphe 1 du règlement n° 25 relatif au financement
+    de la politique agricole commune pour la période de comptabilisation 1964/1965
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1989/68 des Rates vom 9. Dezember 1968 betreffend
+    die Durchführung von Artikel 7 Absatz 1 der Verordnung Nr. 25 über die Finanzierung
+    der gemeinsamen Agrarpolitik für den Verbuchungszeitraum 1964/1965
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1989/68 del Consiglio, del 9 dicembre 1968, riguardante
+    l'esecuzione dell'articolo 7, paragrafo 1, del regolamento n. 25 relativo al finanziamento
+    della politica agricola comune per il periodo di contabilizzazione 1964/1965
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1989/68 van de Raad van 9 december 1968 betreffende
+    de tenuitvoerlegging van artikel 7, lid 1, van Verordening nr. 25 inzake de financiering
+    van het gemeenschappelijk landbouwbeleid, voor de berekenings- periode 1964/1965
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1989
+docidentifier:
+- content: EU Regulation 1989/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1989
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1989/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-09'
+- type: implemented
+  at: '1968-12-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

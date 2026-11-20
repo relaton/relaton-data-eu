@@ -1,0 +1,93 @@
+---
+id: EURegulation7371969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 737/69 of the Commission of 21 April 1969 supplementing
+    Regulation No 633/67/EEC on the advance fixing of the export refund on cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 737/69 de la Commission, du 21 avril 1969, complétant
+    le règlement n° 633/67/CEE relatif à la préfixation de la restitution à l'
+    exportation des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 737/69 der Kommission vom 21. April 1969 zur Ergänzung
+    der Verordnung Nr. 633/67/EWG über die Vorausfestsetzung der Erstattung bei der
+    Ausfuhr von Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 737/69 af 21. april 1969 om tillæg
+    til forordning nr. 633/67/EØF om forudfastsættelse af eksportrestitution for
+    korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 737/69 della Commissione, del 21 aprile 1969, che
+    completa il regolamento n. 633/67/CEE relativo alla determinazione in anticipo
+    della restituzione all' esportazione di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 737/69 van de Commissie van 21 april 1969 ter aanvulling
+    van Verordening nr. 633/67/EEG betreffende het tevoren vaststellen van de restitutie
+    bij uitvoer van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0737
+docidentifier:
+- content: EU Regulation 737/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0737
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/737/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-21'
+- type: implemented
+  at: '1969-04-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0633
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

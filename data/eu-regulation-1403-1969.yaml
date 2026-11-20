@@ -1,0 +1,93 @@
+---
+id: EURegulation14031969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1403/69 of the Commission of 18 July 1969 laying down
+    detailed rules for the application of the provisions concerning denaturing of
+    common wheat and rye of bread-making quality
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1403/69 de la Commission, du 18 juillet 1969, portant
+    modalités d' application des dispositions relatives à la dénaturation du froment
+    tendre et du seigle panifiable
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1403/69 der Kommission vom 18. Juli 1969 zur Durchführung
+    der Vorschriften über die Denaturierung von Weichweizen und zur Brotherstellung
+    geeignetem Roggen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning nr. 1403/69/EØF af 18. juli 1969 om gennemførelse
+    af bestemmelserne om denaturering af blød hvede samt rug egnet til brødproduktion
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1403/69 della Commissione, del 18 luglio 1969, relativo
+    alle modalità di applicazione delle disposizioni concernenti la denaturazione
+    del frumento tenero e della segala da panificazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1403/69 van de Commissie van 18 juli 1969 houdende
+    vaststelling van de wijze van toepassing van de bepalingen betreffende de denaturering
+    van zachte tarwe en rogge voor broodbereiding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1403
+docidentifier:
+- content: EU Regulation 1403/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1403
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1403/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-18'
+- type: implemented
+  at: '1969-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0956
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

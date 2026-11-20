@@ -1,0 +1,70 @@
+---
+id: EURegulation16951971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1695/71 de la Commission, du 2 août 1971, constatant
+    la situation de crise grave du marché des poires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1695/71 der Kommission vom 2. August 1971 zur Feststellung
+    einer ernsten Krise auf dem Birnenmarkt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1695/71 della Commissione, del 2 agosto 1971, con
+    cui si constata la situazione di crisi grave del mercato delle pere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1695/71 van 2 augustus 1971 houdende constatering
+    van een ernstige crisis op de markt van peren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1695
+docidentifier:
+- content: EU Regulation 1695/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1695
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1695/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-08-02'
+- type: implemented
+  at: '1971-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,72 @@
+---
+id: EURegulation9781967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 978/67/CEE de la Commission, du 11 décembre 1967, modifiant
+    le règlement n 63/64/CEE relatif à la détermination des prix servant au calcul
+    du prélèvement envers les pays tiers dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 978/67/EWG der Kommission vom 11. Dezember 1967 zur Abänderung
+    der Verordnung Nr. 63/64/EWG über die Festsetzung der bei der Berechnung der
+    Abschöpfungsbeträge gegenüber dritten Ländern auf dem Rindfleischsektor zugrunde
+    zu legenden Preise
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 978/67/CEE della Commissione, dell'11 dicembre 1967, che
+    modifica il regolamento n. 63/64/CEE relativo alla determinazione dei prezzi che
+    servono per il calcolo del prelievo nei confronti dei paesi terzi nel settore
+    delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 978/67/EEG van de Commissie van 11 december 1967 houdende
+    wijziging van Verordening no. 63/64/EEG betreffende de vaststelling van de prijzen
+    op basis waarvan de heffingen ten opzichte van derde landen in de sector rundvlees
+    worden berekend
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0978
+docidentifier:
+- content: EU Regulation 978/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0978
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/978/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

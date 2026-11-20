@@ -1,0 +1,103 @@
+---
+id: EURegulation28491971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2849/71 of the Commission of 28 December 1971 supplementing
+    Regulations (EEC) Nos 1373/70, 2637/70 and 432/71 as regards advance fixing certificates
+    for the levy on beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2849/71 de la Commission, du 28 décembre 1971, complétant
+    le règlement (CEE) n° 1373/70, le règlement (CEE) n° 2637/70 et le règlement
+    (CEE)" n° 432/71 en ce qui concerne les certificats de fixation à l' avance
+    du prélèvement dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2849/71 der Kommission vom 28. Dezember 1971 zur Ergänzung
+    der Verordnung (EWG) Nr. 1373/70, der Verordnung (EWG) Nr. 2637/70 und der Verordnung
+    (EWG) Nr. 432/71 hinsichtlich der Vorausfestsetzungsbescheinigungen für die Abschöpfung
+    auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2849/71 af 28. december 1971 om supplering
+    af forordning (EØF) nr. 1373/70, forordning (EØF) nr. 2637/70 og forordning
+    (EØF) nr. 432/71 med hensyn til forudfastsættelsesattester for importafgiften
+    for oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2849/71 della Commissione, del 28 dicembre 1971, che
+    completa i regolamenti (CEE) n. 1373/70, n. 2637/70 e n. 432/71, per quanto riguarda
+    i certificati di fissazione anticipata del prelievo nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2849/71 van de Commissie van 28 december 1971 houdende
+    aanvulling van Verordening (EEG) nr. 1373/70, van Verordening (EEG) nr. 2637/70
+    en van Verordening (EEG) nr. 432/71 met betrekking tot de certificaten van vaststelling
+    vooraf van de heffing in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2849
+docidentifier:
+- content: EU Regulation 2849/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2849
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2849/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-28'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0432
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

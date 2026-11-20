@@ -1,0 +1,93 @@
+---
+id: EUDirective197877
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Directive 78/77/EEC of 23 December 1977 amending Directive 72/108/EEC
+    fixing standard rates of yield for certain inward processing arrangements
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 78/77/CEE de la Commission, du 23 décembre 1977, modifiant la
+    directive 72/108/CEE relative à la fixation de taux forfaitaires de rendement
+    pour certaines opérations de perfectionnement actif
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 78/77/EWG der Kommission vom 23. Dezember 1977 zur Änderung
+    der Richtlinie 72/108/EWG zur Festsetzung von pauschalen Ausbeutesätzen für
+    bestimmte Vorgänge des aktiven Veredelungsverkehrs
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens direktiv 78/77/EØF af 23. december 1977 om ændring af direktiv
+    72/108/EØF om fastsættelse af skønsmæssige udbyttesatser for visse processer
+    vedrørende aktiv forædling
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 78/77/CEE della Commissione, del 23 dicembre 1977, che modifica
+    la direttiva 72/108/CEE relativa alla fissazione di coefficienti forfettari di
+    rendimento per talune operazioni di perfezionamento attivo
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 78/77/EEG van de Commissie van 23 december 1977 tot wijziging
+    van Richtlijn 72/108/EEG betreffende de vaststelling van forfaitaire opbrengstpercentages
+    voor bepaalde handelingen in het kader van het actieve veredelingsverkeer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978L0077
+docidentifier:
+- content: EU Directive 1978/77
+  type: EU
+  primary: true
+- content: CELEX 31978L0077
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1978/77/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-23'
+- type: implemented
+  at: '1977-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972L0108
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

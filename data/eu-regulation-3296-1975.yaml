@@ -1,0 +1,94 @@
+---
+id: EURegulation32961975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3296/75 of the Commission of 18 December 1975 deferring
+    the final date for the granting of export refunds for raw tobacco from the 1972
+    and 1973 crops
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3296/75 de la Commission, du 18 décembre 1975, prorogeant
+    la date limite d'octroi des restitutions à l'exportation pour le tabac brut des
+    récoltes 1972 et 1973
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3296/75 der Kommission vom 18. Dezember 1975 zur Verschiebung
+    des Endtermins für die Gewährung der Erstattungen bei der Ausfuhr von Rohtabak
+    der Ernten 1972 und 1973
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3296/75 af 18. december 1975 om forlængelse
+    af fristen for ydelser af eksportrestitutioner for råtobak fra høsten 1972 og
+    1973
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3296/75 della Commissione, del 18 dicembre 1975, che
+    proroga la data limite di concessione delle restituzioni all'esportazione per
+    il tabacco greggio dei raccolti 1972 e 1973
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3296/75 van de Commissie van 18 december 1975 houdende
+    verlenging van de termijn voor toekenning van de restituties bij uitvoer van ruwe
+    tabak van de oogsten 1972 en 1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3296
+docidentifier:
+- content: EU Regulation 3296/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3296
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3296/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-12-18'
+- type: implemented
+  at: '1975-12-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3249
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

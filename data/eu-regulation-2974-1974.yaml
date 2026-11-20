@@ -1,0 +1,95 @@
+---
+id: EURegulation29741974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2974/74 of the Commission of 26 November 1974 amending
+    Regulation (EEC) No 721/74 as regards the description of cuts of beef from animals
+    defined under the Belgian national rules
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2974/74 de la Commission, du 26 novembre 1974, modifiant
+    le règlement (CEE) n° 721/74 en ce qui concerne la description des produits
+    du secteur de la viande bovine conformément aux dispositions nationales belges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2974/74 der Kommission vom 26. November 1974 zur Änderung
+    der Verordnung (EWG) Nr. 721/74 hinsichtlich der Beschreibung von Erzeugnissen
+    des Rindfleischsektors nach den belgischen Bestimmungen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2974/74 af 26. november 1974 om ændring
+    af forordning (EØF) nr. 721/74 for så vidt angår beskrivelsen af de produkter,
+    der hidrører fra dyr, der er defineret i overensstemmelse med nationale belgiske
+    bestemmelser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2974/74 della Commissione, del 26 novembre 1974, che
+    modifica il regolamento (CEE) n. 721/74 per quanto riguarda la descrizione dei
+    prodotti del settore bovino a norma delle disposizioni nazionali belghe
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2974/74 van de Commissie van 26 november 1974 tot
+    wijziging van Verordening (EEG) nr. 721/74 inzake de omschrijving van produkten
+    van de sector rundvlees volgens de desbetreffende Belgische voorschriften
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2974
+docidentifier:
+- content: EU Regulation 2974/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2974
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2974/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-26'
+- type: implemented
+  at: '1974-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0721
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

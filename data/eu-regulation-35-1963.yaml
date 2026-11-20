@@ -1,0 +1,85 @@
+---
+id: EURegulation351963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 35/63/CEE du Conseil du 2 avril 1963 complétant l'article
+    40 du règlement n° 3 et l'article 68 du règlement n° 4 (allocations familiales
+    pour les jeunes travailleurs détachés)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 35/63/EWG des Rats vom 2. April 1963 zur Ergänzung des
+    Artikels 40 der Verordnung Nr. 3 und des Artikels 68 der Verordnung Nr. 4 (Familienbeihilfen
+    für entsandte Arbeitnehmer)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 35/63/CEE del Consiglio del 2 aprile 1963 che integra l'articolo
+    40 del regolamento n. 3 e l'articolo 68 del regolamento n. 4 (assegni familiari
+    del lavoratore in distacco)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 35/63/EEG van de Raad van 2 april 1963 tot aanvulling van
+    artikel 40 van Verordening Nr. 3 en van artikel 68 van Verordening Nr. 4 (kinderbijslagen
+    voor gedetacheerde werknemers)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0035
+docidentifier:
+- content: EU Regulation 35/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0035
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/35/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-04-02'
+- type: implemented
+  at: '1963-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

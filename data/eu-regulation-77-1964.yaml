@@ -1,0 +1,81 @@
+---
+id: EURegulation771964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 77/64/CEE du Conseil, du 26 juin 1964, prorogeant les régimes
+    prévus par les règlements n° 156 et n° 10/63/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 77/64/EWG des Rates vom 26. Juni 1964 zur Verlängerung
+    der in den Verordnungen Nr. 156 und 10/63/EWG getroffenen Regelungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 77/64/CEE del Consiglio, del 26 giugno 1964, relativo alla
+    proroga dei regimi previsti nei regolamenti n. 156 e n. 10/63/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 77/64/EEG van de Raad van 26 juni 1964 tot verlenging van
+    de regelingen neergelegd in de Verordeningen Nrs. 156 en 10/63/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0077
+docidentifier:
+- content: EU Regulation 77/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0077
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/77/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-26'
+- type: implemented
+  at: '1964-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0156
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0010
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,86 @@
+---
+id: EUDecision1965220
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 65/220/CEE de la Commission, du 31 mars 1965, portant prorogation
+    et nouvelle modification de sa décision du 6 novembre 1964 autorisant la perception
+    de taxes compensatoires sur les importations, en République française, de sucreries
+    sans cacao, ne contenant pas de liqueur alcoolique, en provenance des autres États
+    membres
+  type: main
+- language: de
+  script: Latn
+  content: '65/220/EWG: Entscheidung der Kommission vom 31. März 1965 zur Verlängerung
+    und erneuten Änderung ihrer Entscheidung vom 6. November 1964 über die Erhebung
+    von Ausgleichsabgaben auf Einfuhren von Zuckerwaren ohne Kakaogehalt, nicht alkoholhaltig,
+    aus den anderen Mitgliedstaaten in die Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '65/220/CEE: Decisione della Commissione, del 31 marzo 1965, che proroga
+    e modifica nuovamente la propria decisione del 6 marzo 1964, che autorizza la
+    riscossione di tasse di compensazione sulle importazioni nella Repubblica francese
+    di prodotti a base di zuccheri senza cacao, non contenenti sostanze alcoliche
+    in provenienza da alcuni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/220/EEG: Beschikking van de Commissie van 31 maart 1965 tot verlenging
+    en nieuwe wijziging van haar beschikking van 6 november 1964 houdende machtiging
+    tot het leggen van compenserende heffingen op de invoer in de Franse Republiek
+    van suikerwerk zonder cacao, geen likeur bevattende, uit de overige Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0220
+docidentifier:
+- content: EU Decision 1965/220
+  type: EU
+  primary: true
+- content: CELEX 31965D0220
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/220/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-31'
+- type: implemented
+  at: '1965-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0691
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

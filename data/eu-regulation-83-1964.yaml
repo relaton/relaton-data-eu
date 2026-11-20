@@ -1,0 +1,68 @@
+---
+id: EURegulation831964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 83/64/CEE de la Commission, du 6 juillet 1964, prévoyant
+    des dispositions en vue d'éviter les détournements de trafic dans les échanges
+    de riz et de brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 83/64/EWG der Kommission vom 6. Juli 1964 zur Vermeidung
+    von Verkehrsverlagerungen im Handel mit Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 83/64/CEE della Commissione, del 6 luglio 1964, che stabilisce
+    disposizioni destinate ad evitare le deviazioni di traffico negli scambi di riso
+    e di rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 83/64/EEG van de Commissie van 6 juli 1964 houdende vaststelling
+    van bepalingen ter vermijding van verleggingen van het handelsverkeer in rijst
+    en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0083
+docidentifier:
+- content: EU Regulation 83/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/83/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

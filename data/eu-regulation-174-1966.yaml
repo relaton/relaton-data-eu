@@ -1,0 +1,70 @@
+---
+id: EURegulation1741966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 174/66/CEE de la Commission, du 7 novembre 1966, relatif
+    aux certificats d'importation et d'exportation dans le secteur de l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 174/66/EWG der Kommission vom 7. November 1966 über die
+    Einfuhr- und Ausfuhrlizenzen im Olivenölsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 174/66/CEE della Commissione, del 7 novembre 1966, relativo
+    ai titoli d'importazione e d'esportazione nel settore dell'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 174/66/EEG van de Commissie van 7 november 1966 betreffende
+    de invoer- en uitvoercertificaten in de sector olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0174
+docidentifier:
+- content: EU Regulation 174/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0174
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/174/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-07'
+- type: implemented
+  at: '1966-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

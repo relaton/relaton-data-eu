@@ -1,0 +1,74 @@
+---
+id: EURegulation18411971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1841/71 du Conseil, du 26 juillet 1971, portant suspension
+    totale ou partielle des droits du tarif douanier commun pour certains produits
+    agricoles originaires de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1841/71 des Rates vom 26. Juli 1971 über die vollständige
+    oder teilweise Aussetzung der Zollsätze des Gemeinsamen Zolltarifs für bestimmte
+    landwirtschaftliche Erzeugnisse mit Ursprung in der Türkei
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1841/71 del Consiglio, del 26 luglio 1971, recante
+    sospensione totale o parziale dei dazi della tariffa doganale comune per alcuni
+    prodotti agricoli originari della Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1841/71 van de Raad van 26 juli 1971 houdende gehele
+    of gedeeltelijke schorsing van de rechten van het gemeenschappelijk douanetarief
+    voor bepaalde landbouwprodukten van oorsprong uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1841
+docidentifier:
+- content: EU Regulation 1841/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1841
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1841/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

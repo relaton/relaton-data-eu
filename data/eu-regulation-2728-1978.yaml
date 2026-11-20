@@ -1,0 +1,94 @@
+---
+id: EURegulation27281978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2728/78 of 23 November 1978 temporarily
+    derogating from Regulation (EEC) No 2213/76 on the sale of skimmed-milk powder
+    from public storage
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2728/78 de la Commission, du 23 novembre 1978, portant
+    dérogation temporaire au règlement (CEE) n° 2213/76 relatif à la vente de
+    lait écrémé en poudre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2728/78 der Kommission vom 23. November 1978 zur vorübergehenden
+    Abweichung von der Verordnung (EWG) Nr. 2213/76 über den Verkauf von Magermilchpulver
+    aus staatlicher Lagerhaltung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2728/78 af 23. november 1978 om en
+    midlertidig undtagelse fra forordning (EØF) nr. 2213/76 om salg af skummetmælkspulver
+    fra offentlige lagre
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2728/78 della Commissione, del 23 novembre 1978, recante
+    deroga temporanea al regolamento (CEE) n. 2213/76, relativo alla vendita di latte
+    scremato in polvere di ammasso pubblico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2728/78 van de Commissie van 23 november 1978 houdende
+    tijdelijke afwijking van Verordening (EEG) nr. 2213/76 met betrekking tot de verkoop
+    van magere-melkpoeder uit openbare opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2728
+docidentifier:
+- content: EU Regulation 2728/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2728
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2728/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-11-23'
+- type: implemented
+  at: '1978-11-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2213
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

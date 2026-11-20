@@ -1,0 +1,73 @@
+---
+id: EURegulation6161971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 616/71 de la Commission, du 24 mars 1971, concernant
+    le délai de transformation du beurre vendu au titre du règlement (CEE) n° 1390/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 616/71 der Kommission vom 24. März 1971 über den
+    Verarbeitungszeitraum von Butter, die gemäß Verordnung (EWG) Nr. 1390/69 verkauft
+    wurde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 616/71 della Commissione, del 24 marzo 1971, relativo
+    al termine per la trasformazione del burro venduto ai sensi del regolamento (CEE)
+    n. 1390/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 616/71 van de Commissie van 24 maart 1971 betreffende
+    de verwerkingsperiode van boter, die is verkocht krachtens Verordening (EEG) nr.
+    1390/69
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0616
+docidentifier:
+- content: EU Regulation 616/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0616
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/616/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-24'
+- type: implemented
+  at: '1971-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

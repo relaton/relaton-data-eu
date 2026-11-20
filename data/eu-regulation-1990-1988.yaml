@@ -1,0 +1,129 @@
+---
+id: EURegulation19901988
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (ECSC, EEC, Euratom) No 1990/88 of 30 June 1988 amending
+    Regulation (EEC, Euratom, ECSC) No 2891/77 implementing the Decision of 21 April
+    1970 on the replacement of financial contributions from Member States by the Communities'
+    own resources
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CECA, CEE, Euratom) n° 1990/88 du Conseil du 30 juin 1988
+    modifiant le règlement (CEE, Euratom, CECA) n° 2891/77 portant application de
+    la décision du 21 avril 1970 relative au remplacement des contributions financières
+    des États membres par des ressources propres aux Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EGKS, EWG, Euratom) Nr. 1990/88 des Rates vom 30. Juni 1988
+    zur Änderung der Verordnung (EWG, Euratom, EGKS) Nr. 2891/77 zur Durchführung
+    des Beschlusses vom 21. April 1970 über die Ersetzung der Finanzbeiträge der
+    Mitgliedstaaten durch eigene Mittel der Gemeinschaften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EKSF, EØF, Euratom) nr. 1990/88 af 30. juni 1988 om
+    ændring af forordning (EKSF, EØF, Euratom) nr. 2891/77 om gennemførelse af
+    afgørelsen af 21. april 1970 angående udskiftning af medlemsstaternes finansielle
+    bidrag med Fællesskabernes egne indtægter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚΑΧ, ΕΟΚ, Ευρατόμ) αριθ. 1990/88
+    του Συμβουλίου της 30ής Ιουνίου 1988 για την τροποποίηση
+    του κανονισμού (ΕΟΚ, Ευρατόμ, ΕΚΑΧ) αριθ. 2891/77
+    περί της εφαρμογής της αποφάσεως της 21ης Απριλίου
+    1970 περί της αντικαταστάσεως των χρηματικών
+    συνεισφορών των κρατών μελών από ίδιους πόρους
+    των Κοινοτήτων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CECA, CEE, Euratom) n. 1990/88 del Consiglio del 30 giugno
+    1988 che modifica il regolamento (CEE, Euratom, CECA) n. 2891/77 recante applicazione
+    della decisione del 21 aprile 1970 relativa alla sostituzione dei contributi finanziari
+    degli Stati membri con risorse proprie delle Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EGKS, EEG, Euratom) nr. 1990/88 van de Raad van 30 juni 1988
+    tot wijziging van Verordening (EEG, Euratom, EGKS) nr. 2891/77 houdende toepassing
+    van het besluit van 21 april 1970 betreffende de vervanging van de financiële
+    bijdragen van de Lid-Staten door eigen middelen van de Gemeenschappen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CECA, CEE, Euratom) n.° 1990/88 do Conselho de 30 de Junho
+    de 1988 que altera o Regulamento (CEE, Euratom, CECA) n.° 2891/77 que dá aplicação
+    à decisão de 21 de Abril de 1970 relativa à substituição das contribuições
+    financeiras dos Estados-membros por recursos próprios das Comunidades
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CECA, CEE, Euratom) n° 1990/88 del Consejo de 30 de junio
+    de 1988 que modifica el Reglamento (CEE, Euratom, CECA) n° 2891/77 por el que
+    se aplica la Decisión de 21 de abril de 1970 relativa a la sustitución de las
+    contribuciones financieras de los Estados miembros por recursos propios de las
+    Comunidades
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31988R1990
+docidentifier:
+- content: EU Regulation 1990/1988
+  type: EU
+  primary: true
+- content: CELEX 31988R1990
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1988/1990/oj
+  type: ELI
+date:
+- type: issued
+  at: '1988-06-30'
+- type: implemented
+  at: '1988-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2891
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

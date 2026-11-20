@@ -1,0 +1,92 @@
+---
+id: EURegulation17901974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1790/74 of the Commission of 9 July 1974 linking the
+    importation of beef and veal to the sale of meat held by the intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1790/74 de la Commission, du 9 juillet 1974, portant
+    jumelage de l'importation de produits du secteur de la viande bovine avec la vente
+    de viandes détenues par les organismes d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1790/74 der Kommission vom 9. Juli 1974 zur Koppelung
+    der Einfuhr von Erzeugnissen des Rindfleischsektors mit dem Verkauf von Fleisch
+    im Besitz der Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1790/74 af 9. juli 1974 om kobling
+    af indførsel af varer henhørende under oksekødsektoren med salg af kød, som
+    interventionsorganerne ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1790/74 della Commissione, del 9 luglio 1974, recante
+    abbinamento tra l'importazione di prodotti del settore delle carni bovine e la
+    vendita di carni detenute dagli organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1790/74 van de Commissie van 9 juli 1974 houdende
+    koppeling van de invoer van rundvlees aan de verkoop van vlees uit interventievoorraden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1790
+docidentifier:
+- content: EU Regulation 1790/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1790
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1790/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-09'
+- type: implemented
+  at: '1974-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1084
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

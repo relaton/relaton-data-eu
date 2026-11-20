@@ -1,0 +1,91 @@
+---
+id: EURegulation27551975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2755/75 of the Council of 29 October 1975 on the importation
+    into the Community of certain agricultural products originating in Turkey
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2755/75 du Conseil, du 29 octobre 1975, relatif à
+    l'importation, dans la Communauté, de certains produits agricoles originaires
+    de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2755/75 des Rates vom 29. Oktober 1975 über die Einfuhr
+    bestimmter landwirtschaftlicher Erzeugnisse mit Ursprung in der Türkei in die
+    Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2755/75 af 29. oktober 1975 om indførsel
+    til Fællesskabet af visse landbrugsvarer med oprindelse i Tyrkiet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2755/75 del Consiglio, del 29 ottobre 1975, relativo
+    all'importazione, nella Comunità, di alcuni prodotti agricoli originari della
+    Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2755/75 van de Raad van 29 oktober 1975 betreffende
+    de invoer in de Gemeenschap van bepaalde landbouwprodukten van oorsprong uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2755
+docidentifier:
+- content: EU Regulation 2755/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2755
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2755/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3375
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

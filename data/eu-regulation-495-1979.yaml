@@ -1,0 +1,100 @@
+---
+id: EURegulation4951979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 495/79 of 14 March 1979 on the application
+    of monetary compensatory amounts in respect of certain cereal-based compound feedingstuffs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 495/79 de la Commission, du 14 mars 1979, relatif
+    à l' application des montants compensatoires monétaires pour certains aliments
+    composés à base de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 495/79 der Kommission vom 14. März 1979 über die
+    Anwendung von Währungsausgleichsbeträgen für bestimmte Getreidemischfuttermittel
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 495/79 af 14. marts 1979 om anvendelse
+    af monetære udligningsbeløb for visse kornfoderblandinger
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 495/79 τής Επιτροπής
+    τής 14ης Μαρτίου 1979 περί εφαρμογής τών νομισματικών
+    εξισωτικών ποσών γιά ορισμένα σύνθετα τρόφιμα
+    μέ βάση τά σιτηρά
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 495/79 della Commissione, del 14 marzo 1979, relativo
+    all' applicazione degli importi compensativi monetari per taluni alimenti composti
+    a base di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 495/79 van de Commissie van 14 maart 1979 betreffende
+    de toepassing van de monetaire compenserende bedragen voor sommige mengvoeders
+    op basis van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0495
+docidentifier:
+- content: EU Regulation 495/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0495
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/495/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-14'
+- type: implemented
+  at: '1979-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1497
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

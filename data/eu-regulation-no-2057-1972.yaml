@@ -1,0 +1,81 @@
+---
+id: EURegulationNo20571972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2057/72 du Conseil, du 26 septembre 1972, portant
+    ouverture, répartition et mode de gestion de contingents tarifaires communautaires
+    de fils de coton, non conditionnés pour la vente au détail, et d'autres tissus
+    de coton, des positions 55.05 et 55.09 du tarif douanier commun, en provenance
+    de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2057/72 des Rates vom 26. September 1972 über die
+    Eröffnung, Aufteilung und Verwaltung der Gemeinschaftszollkontingente für Baumwollgarne,
+    nicht in Aufmachungen für den Einzelverkauf, der Tarifnummer 55.05, und andere
+    Gewebe aus Baumwolle der Tarifnummer 55.09 des Gemeinsamen Zolltarifs, mit Herkunft
+    aus der Türkei
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2057/72 del Consiglio, del 26 settembre 1972, relativo
+    all'apertura, alla ripartizione e alle modalità di gestione dei contingenti tariffari
+    comunitari di filati di cotone, non preparati per la vendita al minuto, e di altri
+    tessuti di cotone, delle voci 55.05 e 55.09 della tariffa doganale comune, in
+    provenienza dalla Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2057/72 van de Raad van 26 september 1972 betreffende
+    de opening, de verdeling en de wijze van beheer van communautaire tariefcontingenten
+    voor garens van katoen, niet gereed voor de verkoop in het klein, van de posten
+    55.05 en 55.09 van het gemeenschappelijk douanetarief, van herkomst uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2057
+docidentifier:
+- content: EU Regulation No 2057/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2057
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2057/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-26'
+- type: implemented
+  at: '1972-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

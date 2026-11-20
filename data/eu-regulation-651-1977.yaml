@@ -1,0 +1,95 @@
+---
+id: EURegulation6511977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 651/77 of 29 March 1977 amending Regulation
+    (EEC) No 557/76 as regards the exchange rate to be applied in agriculture for
+    the French franc, the Irish pound and the Italian lira
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 651/77 du Conseil, du 29 mars 1977, modifiant le règlement
+    (CEE) n° 557/76 en ce qui concerne le taux de change à appliquer pour le franc
+    français, la livre irlandaise et la lire italienne dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 651/77 des Rates vom 29. März 1977 zur Änderung
+    der Verordnung (EWG) Nr. 557/76 hinsichtlich des in der Landwirtschaft anzuwendenden
+    Umrechnungskurses für den französischen Franken, das irische Pfund und die italienische
+    Lira
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 651/77 af 29. marts 1977 om ændring af forordning
+    (EØF) nr. 557/76 for så vidt angår den vekselkurs, der skal anvendes i landbrugssektoren
+    for den franske franc, det irske pund og den italienske lire
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 651/77 del Consiglio, del 29 marzo 1977, che modifica
+    il regolamento (CEE) n. 557/76 , per quanto concerne il tasso di cambio da applicare
+    nel settore agricolo per il franco francese, la sterlina irlandese e la lira italiana
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 651/77 van de Raad van 29 maart 1977 tot wijziging
+    van Verordening (EEG) nr. 557/76 voor wat betreft de voor de Franse frank, het
+    Ierse pond en de Italiaanse lire in de landbouwsector toe te passen wisselkoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0651
+docidentifier:
+- content: EU Regulation 651/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0651
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/651/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-29'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0557
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

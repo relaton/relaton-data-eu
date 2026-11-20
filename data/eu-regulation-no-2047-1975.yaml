@@ -1,0 +1,92 @@
+---
+id: EURegulationNo20471975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2047/75 of the Commission of 25 July 1975 on special
+    detailed rules for the application of the system of import licences in respect
+    of products of the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2047/75 de la Commission, du 25 juillet 1975, portant
+    modalités particulières d' application du régime des certificats d' importation
+    dans le secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2047/75 der Kommission vom 25. Juli 1975 über besondere
+    Durchführungsvorschriften für Einfuhrlizenzen für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2047/75 af 25. juli 1975 om de særlige
+    gennemførelsesbestemmelser for ordningen med importlicenser for vin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2047/75 della Commissione, del 25 luglio 1975, che
+    stabilisce le modalità particolari di applicazione del regime dei titoli d' importazione
+    nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2047/75 van de Commissie van 25 juli 1975 houdende
+    bijzondere uitvoeringsbepalingen inzake het stelsel van invoercertificaten in
+    de sector wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2047
+docidentifier:
+- content: EU Regulation No 2047/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2047
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2047/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-25'
+- type: implemented
+  at: '1975-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

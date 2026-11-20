@@ -1,0 +1,103 @@
+---
+id: EURegulation6521979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 652/79 of 29 March 1979 on the impact of the
+    European monetary system on the common agricultural policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 652/79 du Conseil, du 29 mars 1979, relatif aux conséquences
+    du système monétaire européen dans le cadre de la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 652/79 des Rates vom 29. März 1979 über die Auswirkungen
+    des Europäischen Währungssystems im Rahmen der gemeinsamen Agrarpolitik
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 652/79 af 29. marts 1979 om det europæiske
+    valutasystems konsekvenser for den fælles landbrugspolitik
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 652/79 τού Συμβουλίου
+    τής 29ης Μαρτίου 1979 περί τών επιπτώσεων τού
+    Ευρωπαϊκού Νομισματικού Συστήματος στό πλαίσιο
+    τής κοινής γεωργικής πολιτικής
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 652/79 del Consiglio, del 29 marzo 1979, relativo
+    alle conseguenze del sistema monetario europeo nel quadro della politica agricola
+    comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 652/79 van de Raad van 29 maart 1979 inzake de consequenties
+    van het Europees Monetair Stelsel voor het gemeenschappelijk landbouwbeleid
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0652
+docidentifier:
+- content: EU Regulation 652/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0652
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/652/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-29'
+- type: implemented
+  at: '1979-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0974
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

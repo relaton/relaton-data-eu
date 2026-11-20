@@ -1,0 +1,74 @@
+---
+id: EURegulation2041964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 204/64/CEE du Conseil, du 22 septembre 1964, portant application
+    des dispositions de l'article 7 du règlement n° 63 du Conseil fixant le régime
+    pécuniaire des membres de la Commission
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 203/64/EWG des Rates vom 22. September 1964 zur Änderung
+    der Verordnung Nr. 63 des Rates über die Regelung der Amtsbezüge für die Mitglieder
+    der Kommission
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 203/64/CEE del Consiglio, del 22 settembre 1964, che modifica
+    il regolamento n. 63 del Consiglio relativo alla fissazione del trattamento economico
+    dei membri della Commissione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 203/64/EEG van de Raad van 22 september 1964 houdende wijziging
+    van Verordening Nr. 63 van de Raad tot vaststelling van de geldelijke regeling
+    voor de leden van de Commissie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0204
+docidentifier:
+- content: EU Regulation 204/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0204
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/204/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-09-22'
+- type: implemented
+  at: '1965-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

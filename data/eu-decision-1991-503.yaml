@@ -1,0 +1,123 @@
+---
+id: EUDecision1991503
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '91/503/EEC: Commission Decision of 19 September 1991 suspending the buying-in
+    of butter in certain Member States (Only the German, Danish, English, French and
+    Dutch texts are authentic)'
+  type: main
+- language: fr
+  script: Latn
+  content: '91/503/CEE: Décision de la Commission du 19 septembre 1991 relative à
+    la suspension des achats de beurre dans certains États membres (Les textes en
+    langues danoise, allemande, anglaise, française et néerlandaise sont les seuls
+    faisant foi.)'
+  type: main
+- language: de
+  script: Latn
+  content: 'ENTSCHEIDUNG DER KOMMISSION vom 19. September 1991 zur Aussetzung des
+    Ankaufs von Butter in mehreren Mitgliedstaaten (Nur der dänische, deutsche, englische,
+    französische und der niederländische Text sind verbindlich) (91/503/EWG) #'
+  type: main
+- language: da
+  script: Latn
+  content: 'KOMMISSIONENS BESLUTNING af 19. september 1991 om suspension af opkøb
+    af smør i visse medlemsstater (Kun de engelske, danske, franske, nederlandske
+    og tyske udgaver er autentiske) (91/503/EØF) #'
+  type: main
+- language: el
+  script: Grek
+  content: '91/503/ΕΟΚ: Απόφαση της Επιτροπής της 19ης
+    Σεπτεμβρίου 1991 για την αναστολή των αγορών
+    βουτύρου σε ορισμένα κράτη μέλη'
+  type: main
+- language: it
+  script: Latn
+  content: 'DECISIONE DELLA COMMISSIONE del 19 settembre 1991 che sospende gli acquisti
+    di burro in taluni Stati membri (I testi in lingua danese, tedesca, francese,
+    inglese e olandese sono i soli facenti fede) (91/503/CEE) #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'BESCHIKKING VAN DE COMMISSIE van 19 september 1991 tot schorsing van de
+    boteraankopen in sommige Lid-Staten (Slechts de teksten in de Deense, de Duitse,
+    de Engelse, de Franse en de Nederlandse taal zijn authentiek) (91/503/EEG) #'
+  type: main
+- language: pt
+  script: Latn
+  content: Decisão da Comissão de 19 de Setembro de 1991 relativa à suspensão
+    das compras de manteiga em determinados Estados-membros (Apenas fazem fé os textos
+    nas línguas dinamarquesa, alemã, inglesa, francesa e neerlandesa) (91/503/CEE)
+  type: main
+- language: es
+  script: Latn
+  content: 'DECISIÓN DE LA COMISIÓN de 19 de septiembre de 1991 relativa a la suspensión
+    de las compras de mantequilla en determinados Estados miembros (Los textos en
+    lenguas danesa, alemana, inglesa, francesa y neerlandesa son los únicos auténticos)
+    (91/503/CEE) #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991D0503
+docidentifier:
+- content: EU Decision 1991/503
+  type: EU
+  primary: true
+- content: CELEX 31991D0503
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1991/503/oj
+  type: ELI
+date:
+- type: issued
+  at: '1991-09-19'
+- type: implemented
+  at: '1991-09-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31991D0485
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31987R0777
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

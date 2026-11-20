@@ -1,0 +1,101 @@
+---
+id: EURegulation19561981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1956/81 of 13 July 1981 amending Regulation
+    (EEC) No 2742/75 on production refunds in the cereals and rice sectors
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1956/81 du Conseil, du 13 juillet 1981, modifiant
+    le règlement (CEE) n° 2742/75 relatif aux restitutions à la production dans
+    le secteur des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1956/81 des Rates vom 13. Juli 1981 zur Änderung
+    der Verordnung (EWG) Nr. 2742/75 über die Erstattungen bei der Erzeugung für
+    Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1956/81 af 13. juli 1981 om ændring af forordning
+    (EØF) nr. 2742/75 om produktionsrestitutioner i korn- og rissektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1956/81 τού Συμβουλίου
+    τής 13ης Ιουλίου 1981 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 2742/75 «περί τών επιστροφών στήν παραγωγή
+    στόν τομέα τών σιτηρών καί τής όρυζας»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1956/81 del Consiglio, del 13 luglio 1981, che modifica
+    il regolamento (CEE) n. 2742/75 relativo alle restituzioni alla produzione nei
+    settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1956/81 van de Raad van 13 juli 1981 tot wijziging
+    van Verordening (EEG) nr. 2742/75 inzake de restituties bij de produktie in de
+    sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R1956
+docidentifier:
+- content: EU Regulation 1956/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R1956
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/1956/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-07-13'
+- type: implemented
+  at: '1981-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2742
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

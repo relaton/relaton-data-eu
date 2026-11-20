@@ -1,0 +1,107 @@
+---
+id: EUDecision197980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '79/80/EEC: Commission Decision of 22 December 1978 amending Decisions
+    73/30/EEC, 77/331/EEC and 78/118/EEC concerning special health guarantees in respect
+    of bovine leucosis (Only the German, Danish, Dutch and English texts are authentic)'
+  type: main
+- language: fr
+  script: Latn
+  content: '79/80/CEE: Décision de la Commission, du 22 décembre 1978, modifiant
+    les décisions 73/30/CEE, 77/331/CEE et 78/118/CEE relatives à des garanties
+    sanitaires particulières concernant la leucose bovine (Les textes en langues
+    allemande, danoise, néerlandaise et anglaise sont les seuls faisant foi)'
+  type: main
+- language: de
+  script: Latn
+  content: '79/80/EWG: Entscheidung der Kommission vom 22. Dezember 1978 zur Änderung
+    der Entscheidungen 73/30/EWG, 77/331/EWG und 78/118/EWG über besondere gesundheitliche
+    Garantien betreffend die Rinderleukose (Nur der deutsche, dänische, niederländische
+    und englische Text sind verbindlich)'
+  type: main
+- language: da
+  script: Latn
+  content: '79/80/EØF: Kommissionens beslutning af 22. december 1978 om ændring
+    af beslutning 73/30/EØF, 77/331/EØF og 78/118/EØF om særlige sundhedsmæssige
+    garantier i forbindelse med kvægleukose (Kun den tyske, danske, nederlandske
+    og engelske udgave er autentiske)'
+  type: main
+- language: it
+  script: Latn
+  content: '79/80/CEE: Decisione della Commissione, del 22 dicembre 1978, che modifica
+    le decisioni 73/30/CEE, 77/331/CEE e 78/118/CEE relative a garanzie sanitarie
+    speciali in materia di leucosi bovina (I testi in lingua tedesca, danese, olandese
+    e inglese sono i soli facenti fede)'
+  type: main
+- language: nl
+  script: Latn
+  content: '79/80/EEG: Beschikking van de Commissie van 22 december 1978 tot wijziging
+    van de Beschikking 73/30/EEG, 77/331/EEG en 78/118/EEG inzake bijzondere gezondheidsgaranties
+    ten aanzien van runderleukose (Slechts de teksten in de Duitse, Deense, Nederlandse
+    en de Engelse taal zijn authentiek)'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979D0080
+docidentifier:
+- content: EU Decision 1979/80
+  type: EU
+  primary: true
+- content: CELEX 31979D0080
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1979/80/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-12-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973D0030
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977D0331
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978D0118
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

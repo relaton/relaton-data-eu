@@ -1,0 +1,71 @@
+---
+id: EURegulation1391966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 139/66/CEE de la Commission, du 29 septembre 1966, adaptant
+    et fixant les prix d'écluse applicables aux porcs, à la viande de porc et aux
+    produits à base de viande de porc pour les importations effectuées durant le
+    quatrième trimestre 1966
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 139/66/EWG der Kommission vom 29. September 1966 zur Anpassung
+    und Festsetzung der Einschleusungspreise für Schweine, Schweinefleisch und Schweinefleisch
+    enthaltende Erzeugnisse für Einfuhren im vierten Vierteljahr 1966
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 139/66/CEE della Commissione, del 29 settembre 1966, che
+    adatta e fissa i prezzi limite applicabili ai suini, alle carni suine e ai prodotti
+    a base di carni suine per le importazioni effettuate nel quarto trimestre 1966
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 139/66/EEG van de Commissie van 29 september 1966 houdende
+    aanpassing en vaststelling van de sluisprijzen voor varkens, varkensvlees en produkten
+    op basis van varkensvlees, met betrekking tot de invoer welke plaatsvindt in het
+    vierde kwartaal 1966
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0139
+docidentifier:
+- content: EU Regulation 139/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0139
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/139/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,73 @@
+---
+id: EURegulation6261972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 626/72 de la Commission, du 28 mars 1972, relatif
+    à la fourniture de lait écrémé en poudre destiné à l'Inde à titre d'aide
+    communautaire au programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 626/72 der Kommission vom 28. März 1972 über die
+    Lieferung von Magermilchpulver nach Indien als Gemeinschaftshilfe zugunsten des
+    Welternährungsprogramms
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 626/72 della Commissione, del 28 marzo 1972, relativo
+    alla fornitura di latte scremato in polvere destinato all'India a titolo d'aiuto
+    comunitario al PAM
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 626/72 van de Commissie van 28 maart 1972 betreffende
+    de levering van magere-melkpoeder aan India als gemeenschapshulp aan het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0626
+docidentifier:
+- content: EU Regulation 626/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0626
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/626/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-28'
+- type: implemented
+  at: '1972-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

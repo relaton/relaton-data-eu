@@ -1,0 +1,69 @@
+---
+id: EURegulation1401964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 140/64/CEE de la Commission, du 19 octobre 1964, portant modification
+    du règlement n 63/64/CEE en ce qui concerne le calcul du prix à l'importation
+    pour les veaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 140/64/EWG der Kommission vom 19. Oktober 1964 zur Änderung
+    der Verordnung Nr. 63/64/EWG betreffend die Berechnung des Einfuhrpreises für
+    Kälber
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 140/64/CEE della Commissione, del 19 ottobre 1964, che modifica
+    il regolamento n. 63/64/CEE per quanto riguarda il calcolo del prezzo all'importazione
+    per i vitelli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 140/64/EEG van de Commissie van 19 oktober 1964 houdende
+    wijziging van de Verordening no. 63/64/EEG voor wat betreft de berekening van
+    de invoerprijs voor kalveren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0140
+docidentifier:
+- content: EU Regulation 140/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0140
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/140/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

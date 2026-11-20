@@ -1,0 +1,71 @@
+---
+id: EURegulation3241969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 324/69 du Conseil, du 21 février 1969, autorisant
+    l'Italie à appliquer des mesures particulières à intervention sur le marché
+    des oranges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 324/69 des Rates vom 21. Februar 1969, mit der Italien
+    ermächtigt wird, besondere Interventionsmaßnahmen auf dem Orangenmarkt anzuwenden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 324/69 del Consiglio, del 21 febbraio 1969, che autorizza
+    l'Italia ad applicare misure particolari d'intervento sul mercato delle arance
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 324/69 van de Raad van 21 februari 1969 waarbij Italië
+    wordt gemachtigd bijzondere interventiemaatregelen te treffen op de sinaasappelmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0324
+docidentifier:
+- content: EU Regulation 324/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0324
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/324/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-02-21'
+- type: implemented
+  at: '1969-02-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

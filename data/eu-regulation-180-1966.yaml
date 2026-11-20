@@ -1,0 +1,69 @@
+---
+id: EURegulation1801966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlements n 180/66/CEE du Conseil, du 15 novembre 1966, portant fixation
+    des prix de seuil communs du riz dans les États membres non producteurs pour
+    la période du 1er décembre 1966 au 31 août 1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 180/66/EWG des Rates vom 15. November 1966 zur Festsetzung
+    der gemeinsamen Schwellenpreise für Reis in den Mitgliedstaaten ohne eigene Erzeugung
+    für die Zeit vom 1. Dezember 1966 bis 31. August 1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 180/66/CEE del Consiglio, del 15 novembre 1966, che fissa
+    i prezzi d'entrata comuni del riso negli Stati membri non produttori per il periodo
+    dal 1 dicembre 1966 al 31 agosto 1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 180/66/EEG van de Raad van 15 november 1966 houdende vaststelling
+    van de gemeenschappelijke drempelprijzen voor rijst in de niet-producerende Lid-Staten
+    voor het tijdvak van 1 december 1966 tot en met 31 augustus 1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0180
+docidentifier:
+- content: EU Regulation 180/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0180
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/180/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

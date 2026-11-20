@@ -1,0 +1,94 @@
+---
+id: EURegulation11681976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1168/76 of 17 May 1976 amending Regulation
+    (EEC) No 2133/74 laying down general rules for the description and presentation
+    of wines and grape musts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1168/76 du Conseil, du 17 mai 1976, modifiant le règlement
+    (CEE) n° 2133/74 établissant les règles générales pour la désignation et
+    la présentation des vins et des moûts de raisins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1168/76 des Rates vom 17. Mai 1976 zur Änderung der
+    Verordnung (EWG) Nr. 2133/74 zur Aufstellung allgemeiner Regeln für die Bezeichnung
+    und Aufmachung der Weine und der Traubenmoste
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1168/76 af 17. maj 1976 om ændring af forordning
+    (EØF) nr. 2133/74 om fastsættelse af almindelige regler for betegnelse og præsentation
+    af vin og druemost
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1168/76 del Consiglio, del 17 maggio 1976, recante
+    modifica del regolamento (CEE) n. 2133/74, che stabilisce le norme generali per
+    la designazione e la presentazione dei vini e dei mosti di uve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1168/76 van de Raad van 17 mei 1976 tot wijziging
+    van Verordening (EEG) nr. 2133/74 houdende vaststelling van de algemene voorschriften
+    voor de omschrijving en de aanbiedingsvorm van wijn en druivemost
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1168
+docidentifier:
+- content: EU Regulation 1168/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1168
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1168/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-05-17'
+- type: implemented
+  at: '1976-05-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2133
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

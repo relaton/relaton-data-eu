@@ -1,0 +1,65 @@
+---
+id: EURegulation4251972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 425/72 de la Commission, du 29 février 1972, fixant
+    le montant de l'aide dans le secteur des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 425/72 der Kommission vom 29. Februar 1972 zur Festsetzung
+    des Betrages der Beihilfe für Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 425/72 della Commissione, del 29 febbraio 1972, che
+    fissa l'importo dell'integrazione nel settore dei semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 425/72 van de Commissie van 29 februari 1972 houdende
+    vaststelling van het bedrag van de steun in de sector oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0425
+docidentifier:
+- content: EU Regulation 425/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0425
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/425/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

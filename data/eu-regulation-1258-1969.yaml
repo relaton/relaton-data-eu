@@ -1,0 +1,71 @@
+---
+id: EURegulation12581969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1258/69 du Conseil, du 30 juin 1969, portant suspension
+    temporaire du droit autonome du tarif douanier commun sur le thé
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1258/69 des Rates vom 30. Juni 1969 über die zeitweilige
+    Aussetzung des autonomen Zollsatzes des Gemeinsamen Zolltarifs für Tee
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1258/69 del Consiglio, del 30 giugno 1969, relativo
+    alla sospensione temporanea del dazio autonomo della tariffa doganale comune sul
+    tè
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1258/69 van de Raad van 30 juni 1969 tot tijdelijke
+    schorsing van het autonome recht van het gemeenschappelijk douanetarief op thee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1258
+docidentifier:
+- content: EU Regulation 1258/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1258
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1258/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-30'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

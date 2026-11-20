@@ -1,0 +1,78 @@
+---
+id: EURegulation2181971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 218/71 de la Commission, du 1er février 1971, portant
+    application du droit du tarif douanier commun aux importations de mandarines,
+    satsumas, clémentines, tangerines et autres hybrides similaires d'agrumes originaires
+    de Tunisie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 218/71 der Kommission vom 1. Februar 1971 zur Anwendung
+    des Gemeinsamen Zolltarifs auf Einfuhren von Mandarinen, Satsumas, Clementinen,
+    Tangerinen und sonstigen ähnlichen Hybriden von Zitrusfrüchten mit Ursprung
+    in Tunesien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 218/71 della Commissione, del 1 febbraio 1971, relativo
+    all'applicazione del dazio della tariffa doganale comune alle importazioni di
+    mandarini, satsuma, clementine, tangerini e altri ibridi similari di agrumi originari
+    della Tunisia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 218/71 van de Commissie van 1 februari 1971 houdende
+    toepassing van het recht van het gemeenschappelijk douanetarief op de invoer van
+    mandarijnen, satsuma's, clementines, tangerines en andere dergelijke kruisingen
+    van citrusvruchten van oorsprong uit Tunesië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0218
+docidentifier:
+- content: EU Regulation 218/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0218
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/218/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-01'
+- type: implemented
+  at: '1971-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

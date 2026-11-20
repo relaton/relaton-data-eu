@@ -1,0 +1,104 @@
+---
+id: EURegulation23001973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2300/73 of the Commission of 23 August 1973 on detailed
+    rules for applying the differential amounts for colza and rape seed and repealing
+    Regulation (EEC) No 1464/73
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2300/73 de la Commission, du 23 août 1973, portant
+    modalités d' application des montants différentiels pour les graines de colza
+    et de navette et abrogeant le règlement (CEE) n° 1464/73
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2300/73 der Kommission vom 23. August 1973 über Durchführungsbestimmungen
+    betreffend Differenzbeträge für Raps- und Rübsensamen unter Aufhebung der Verordnung
+    (EWG) Nr. 1464/73
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2300/73 af 23. august 1973 om gennemførelsesbestemmelser
+    for differencebeløbene for raps- og rybsfrø under ophævelse af forordning (EØF)
+    nr. 1464/73
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2300/73 της Επιτροπής
+    της 23ης Αυγούστου 1973 περί των διαδικασιών εφαρμογής
+    των διαφορικών ποσών για τους κραμβόσπορους
+    και γογγυλόσπορους και καταργήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 1464/73
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2300/73 della Commissione, del 23 agosto 1973, che
+    stabilisce le modalità di applicazione degli importi differenziali per i semi
+    di colza e di ravizzone ed abroga il regolamento (CEE) n. 1464/73
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2300/73 van de Commissie van 23 augustus 1973 houdende
+    uitvoeringsbepalingen inzake de differentiële bedragen voor kool- en raapzaad
+    alsmede intrekking van Verordening (EEG) nr. 1464/73
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2300
+docidentifier:
+- content: EU Regulation 2300/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2300
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2300/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-08-23'
+- type: implemented
+  at: '1973-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1464
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

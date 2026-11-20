@@ -1,0 +1,108 @@
+---
+id: EUDirective19801102
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 80/1102/EEC of 11 November 1980 amending Directive 64/432/EEC
+    with regard to enzootic bovine leukosis
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 80/1102/CEE du Conseil, du 11 novembre 1980, modifiant la directive
+    64/432/CEE en ce qui concerne la leucose bovine enzootique
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 80/1102/EWG des Rates vom 11. November 1980 zur Änderung der
+    Richtlinie 64/432/EWG hinsichtlich der enzootischen Leukose der Rinder
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 80/1102/EØF af 11. november 1980 om ændring af direktiv
+    64/432/EØF for så vidt angår enzootisk kvægleukose
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 80/1102/ΕΟΚ του Συμβουλίου της 11ης Νοεμβρίου
+    1980 περί τροποποιήσεως της οδηγίας 64/432/ΕΟΚ σχετικά
+    με την ενζωοτική λεύκωση των βοοειδών
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 80/1102/CEE del Consiglio, dell'11 novembre 1980, che modifica
+    la direttiva 64/432/CEE per quanto concerne la leucosi bovina enzootica
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 80/1102/EEG van de Raad van 11 november 1980 tot wijziging van
+    Richtlijn 64/432/EEG met betrekking tot endemische runderleukose
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 80/1102/CEE do Conselho, de 11 de Novembro de 1980, que altera
+    a Directiva 64/432/CEE no que diz respeito à leucose bovina enzoótica
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 80/1102/CEE del Consejo, de 11 de noviembre de 1980, que modifica
+    a la Directiva 64/432/CEE en lo referente a la leucosis enzoótica bovina
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980L1102
+docidentifier:
+- content: EU Directive 1980/1102
+  type: EU
+  primary: true
+- content: CELEX 31980L1102
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1980/1102/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-11-11'
+- type: implemented
+  at: '1980-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964L0432
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

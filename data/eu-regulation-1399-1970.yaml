@@ -1,0 +1,102 @@
+---
+id: EURegulation13991970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (Euratom) No 1399/70 of the Council of 13 July 1970 amending
+    the conditions governing remuneration and social security for establishment staff
+    of the Joint Nuclear Research Centre employed in Belgium
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom) n° 1399/70 du Conseil, du 13 juillet 1970, modifiant
+    les conditions applicables en matière de rémunération et de sécurité sociale
+    aux agents d' établissement du Centre commun de recherches nucléaires affectés
+    en Belgique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom) Nr. 1399/70 des Rates vom 13. Juli 1970 zur Änderung
+    der Regelung der Bezüge und der sozialen Sicherheit der Atomanlagenbediensteten
+    der Gemeinsamen Kernforschungsstelle, die in Belgien dienstlich verwendet werden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EURATOM) nr. 1399/70 af 13. juli 1970 om ændring af
+    reglerne om vederlag og social sikring for ansatte ved anlæg under Det fælles
+    Atomforskningscenter, der gør tjeneste i Belgien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom) n. 1399/70 del Consiglio, del 13 luglio 1970, che
+    modifica le condizioni applicabili in materia di retribuzione e di sicurezza sociale
+    agli agenti degli stabilimenti del Centro comune di ricerche nucleari che prestano
+    servizio in Belgio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom) nr. 1399/70 van de Raad van 13 juli 1970 tot wijziging
+    van de regeling inzake de bezoldiging en de sociale zekerheid van de functionarissen,
+    verbonden aan een inrichting van het Gemeenschappelijk Centrum voor Onderzoek
+    op het gebied van de Kernenergie, en tewerkgesteld in België
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1399
+docidentifier:
+- content: EU Regulation 1399/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1399
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1399/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-13'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0010(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0010(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

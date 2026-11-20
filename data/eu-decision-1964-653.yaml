@@ -1,0 +1,74 @@
+---
+id: EUDecision1964653
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/653/CEE de la Commission, du 4 novembre 1964, autorisant la
+    République fédérale d'Allemagne à suspendre partiellement la perception du
+    droit sur les tomates
+  type: main
+- language: de
+  script: Latn
+  content: '64/653/EWG: Entscheidung der Kommission vom 4. November 1964, mit der
+    die Bundesrepublik Deutschland ermächtigt wird, die Erhebung des Zollsatzes für
+    Tomaten teilweise auszusetzen'
+  type: main
+- language: it
+  script: Latn
+  content: '64/653/CEE: Decisione della Commissione, del 4 novembre 1964, che autorizza
+    la Repubblica federale di Germania a sospendere parzialmente la riscossione del
+    dazio sui pomodori'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/653/EEG: Beschikking van de Commissie van 4 november 1964 waarbij de
+    Bondsrepubliek Duitsland wordt gemachtigd de heffing van het recht op tomaten
+    gedeeltelijk te schorsen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0653
+docidentifier:
+- content: EU Decision 1964/653
+  type: EU
+  primary: true
+- content: CELEX 31964D0653
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/653/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-04'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

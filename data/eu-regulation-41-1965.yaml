@@ -1,0 +1,69 @@
+---
+id: EURegulation411965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 41/65/CEE de la Commission, du 26 mars 1965, concernant les
+    restitutions à l'exportation de certains produits laitiers vers les pays tiers
+    et portant abrogation du règlement n 165/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 41/65/EWG der Kommission vom 26. März 1965 über Erstattungen
+    bei der Ausfuhr bestimmter Milcherzeugnisse nach dritten Ländern und zur Aufhebung
+    der Verordnung Nr. 165/64/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 41/65/CEE della Commissione, del 26 marzo 1965, relativo
+    alle restituzioni applicabili all'esportazione verso i paesi terzi di alcuni prodotti
+    lattiero-caseari e all'abrogazione del regolamento n. 165/64/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 41/65/EEG van de Commissie van 26 maart 1965 betreffende
+    de restituties bij de uitvoer van bepaalde zuivelprodukten naar derde landen en
+    houdende intrekking van Verordening no. 165/64/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0041
+docidentifier:
+- content: EU Regulation 41/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0041
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/41/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

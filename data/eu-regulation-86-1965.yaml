@@ -1,0 +1,74 @@
+---
+id: EURegulation861965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 86/65/CEE du Conseil, du 22 juin 1965, portant suspension
+    partielle du droit du tarif douanier commun applicable à l'importation de viande
+    bovine congelée destinée, sous contrôle douanier, à la transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 86/65/EWG des Rates vom 22. Juni 1965 über die teilweise
+    Aussetzung des Satzes des Gemeinsamen Zolltarifs für Einfuhren von gefrorenem,
+    zur Verarbeitung unter Zollaufsicht bestimmtem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 86/65/CEE del Consiglio, del 22 giugno 1965, relativo alla
+    parziale sospensione del dazio della tariffa doganale comune applicabile all'importazione
+    di carni bovine congelate, destinate alla trasformazione sotto controllo doganale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 86/65/EEG van de Raad van 22 juni 1965 houdende gedeeltelijke
+    schorsing van het recht van het gemeenschappelijk douanetarief van toepassing
+    op de invoer van bevroren rundvlees, bestemd voor verwerking onder douanetoezicht
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0086
+docidentifier:
+- content: EU Regulation 86/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0086
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/86/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-22'
+- type: implemented
+  at: '1965-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

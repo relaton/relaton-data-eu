@@ -1,0 +1,102 @@
+---
+id: EURegulation30461979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3046/79 of 21 December 1979 amending Regulation
+    (EEC) No 2819/79 as regards certain textile products originating in Portugal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3046/79 de la Commission, du 21 décembre 1979, modifiant
+    le règlement (CEE) n° 2819/79 en ce qui concerne certains produits textiles
+    originaires du Portugal
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3046/79 der Kommission vom 21. Dezember 1979 zur Änderung
+    der Verordnung (EWG) Nr. 2819/79 hinsichtlich bestimmter Textilwaren mit Ursprung
+    in Portugal
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3046/79 af 21. december 1979 om ændring
+    af forordning (EØF) nr. 2819/79 for så vidt angår visse tekstilvarer med oprindelse
+    i Portugal
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3046/79 τής Επιτροπής
+    τής 21ης Δεκεμβρίου 1979 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 2819/79 όσον αφορά ορισμένα
+    κλωστοϋφαντουργικά προϊόντα καταγωγής Πορτογαλίας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3046/79 della Commissione, del 21 dicembre 1979, che
+    modifica il regolamento (CEE) n. 2819/79 per quanto concerne taluni prodotti tessili
+    originari del Portogallo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3046/79 van de Commissie van 21 december 1979 tot
+    wijziging van Verordening (EEG) nr. 2819/79 voor wat betreft bepaalde textielprodukten
+    van oorsprong uit Portugal
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R3046
+docidentifier:
+- content: EU Regulation 3046/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R3046
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/3046/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-12-21'
+- type: implemented
+  at: '1980-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2819
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

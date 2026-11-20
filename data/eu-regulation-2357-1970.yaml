@@ -1,0 +1,70 @@
+---
+id: EURegulation23571970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2357/70 du Conseil, du 23 novembre 1970, fixant le
+    prix de base et le prix d'achat pour les mandarines
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2357/70 des Rates vom 23. November 1970 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Mandarinen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2357/70 del Consiglio, del 23 novembre 1970, che fissa
+    il prezzo di base ed il prezzo d'acquisto per i mandarini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2357/70 van de Raad van 23 november 1970 tot vaststelling
+    van de basisprijs en de aankoopprijs voor mandarijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2357
+docidentifier:
+- content: EU Regulation 2357/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2357
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2357/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-23'
+- type: implemented
+  at: '1970-11-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

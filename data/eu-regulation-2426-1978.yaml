@@ -1,0 +1,103 @@
+---
+id: EURegulation24261978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2426/78 of 18 October 1978 amending Regulation
+    (EEC) No 1054/78 as regards the exchange rates to be applied in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2426/78 de la Commission, du 18 octobre 1978, modifiant
+    le règlement (CEE) n° 1054/78 en ce qui concerne le taux de change à appliquer
+    dans le secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2426/78 der Kommission vom 18. Oktober 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1054/78 hinsichtlich des im Weinsektor anzuwendenden
+    Umrechnungskurses
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2426/78 af 18. oktober 1978 om ændring
+    af forordning (EØF) nr. 1054/78 for så vidt angår den vekselkurs, der skal
+    anvendes inden for vinsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2426/78 τής Επιτροπής
+    τής 18ης Οκτωβρίου 1978 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1054/78 όσον αφορά τήν τιμή
+    συναλλάγματος πού πρέπει νά εφαρμόζεται στόν
+    αμπελοοινικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2426/78 della Commissione, del 18 ottobre 1978, che
+    modifica il regolamento (CEE) n. 1054/78 per quanto riguarda il tasso di cambio
+    da applicare nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2426/78 van de Commissie van 18 oktober 1978 houdende
+    wijziging van Verordening (EEG) nr. 1054/78 met betrekking tot de in de wijnsector
+    toe te passen wisselkoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2426
+docidentifier:
+- content: EU Regulation 2426/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2426
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2426/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-18'
+- type: implemented
+  at: '1978-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1054
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

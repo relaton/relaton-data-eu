@@ -1,0 +1,65 @@
+---
+id: EURegulation8951971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 895/71 de la Commission, du 30 avril 1971, fixant les
+    prélèvements applicables au riz et aux brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 895/71 der Kommission vom 30. April 1971 zur Festsetzung
+    der bei Reis und Bruchreis anzuwendenden Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 895/71 della Commissione, del 30 aprile 1971, che
+    fissa i prelievi applicabili al riso e alle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 895/71 van de Commissie van 30 april 1971 tot vaststelling
+    van de heffingen die van toepassing zijn op rijst en op breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0895
+docidentifier:
+- content: EU Regulation 895/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0895
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/895/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

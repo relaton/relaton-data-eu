@@ -1,0 +1,74 @@
+---
+id: EURegulation25971970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2597/70 de la Commission, du 21 décembre 1970, fixant,
+    pour la campagne 1971/1972, les prix minima à l'exportation vers les pays tiers
+    de certains bulbes, oignons et tubercules à fleurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2597/70 der Kommission vom 21. Dezember 1970 zur Festsetzung
+    der Mindestpreise bei der Ausfuhr von bestimmten Blumenbulben, -zwiebeln und -
+    knollen nach Drittländern für den Vermarktungszeitraum 1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2597/70 della Commissione, del 21 dicembre 1970, che
+    fissa per la campagna di commercializzazione 1971/1972 i prezzi minimi all'esportazione
+    verso i paesi terzi di alcuni bulbi, tuberi e rizomi da fiore
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2597/70 van de Commissie van 21 december 1970 houdende
+    vaststelling voor het handelsseizoen 1971/1972 van de minimumprijzen bij de uitvoer
+    naar derde landen van bepaalde bloembollen en bloemknollen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2597
+docidentifier:
+- content: EU Regulation 2597/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2597
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2597/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-21'
+- type: implemented
+  at: '1970-12-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EUDecision1964699
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/699/CEE de la Commission, du 12 novembre 1964, portant octroi
+    au Royaume de Belgique et au Grand-Duché de Luxembourg d'un contingent tarifaire
+    pour le sel destiné à la transformation chimique
+  type: main
+- language: de
+  script: Latn
+  content: '64/699/EWG: Entscheidung der Kommission vom 12. November 1964 über die
+    Gewährung eines Zollkontingents für Salz zur chemischen Umwandlung an das Königreich
+    Belgien und das Großherzogtum Luxemburg'
+  type: main
+- language: it
+  script: Latn
+  content: '64/699/CEE: Decisione della Commissione del 12 novembre 1964 relativa
+    alla concessione di un contingente tariffario al Regno del Belgio e al Granducato
+    del Lussemburgo per il sale destinato alla trasformazione chimica'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/699/EEG: Beschikking van de Commissie van 12 november 1964 houdende
+    toekenning van een tariefcontingent aan het Koninkrijk België en het Groothertogdom
+    Luxemburg voor zout, bestemd om chemisch te worden verwerkt'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0699
+docidentifier:
+- content: EU Decision 1964/699
+  type: EU
+  primary: true
+- content: CELEX 31964D0699
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/699/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-12'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

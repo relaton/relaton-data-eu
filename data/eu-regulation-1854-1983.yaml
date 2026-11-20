@@ -1,0 +1,104 @@
+---
+id: EURegulation18541983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1854/83 of 7 July 1983 amending Regulation
+    (EEC) No 2102/75 determining the quantity of potatoes required for the manufacture
+    of one tonne of starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1854/83 de la Commission du 7 juillet 1983 modifiant
+    le règlement (CEE) no 2102/75 déterminant la quantité de pommes de terre nécessaire
+    à la fabrication d' une tonne de fécule
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1854/83 der Kommission vom 7. Juli 1983 zur Änderung
+    der Verordnung (EWG) Nr. 2102/75 zur Festlegung der zur Herstellung einer Tonne
+    Kartoffelstärke benötigten Menge Kartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1854/83 af 7. juli 1983 om ændring
+    af forordning (EØF) nr. 2102/75 om fastsættelse af den mængde kartofler, der
+    er nødvendig til fremstilling af en ton kartoffelstivelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1854/83 της Επιτροπής
+    της 7ης Ιουλίου 1983 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 2102/75 περί καθορισμού της ποσότητας
+    πατατών που είναι αναγκαία για την παραγωγή
+    ενός τόνου αμύλου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1854/83 della Commissione del 7 luglio 1983 che modifica
+    il regolamento (CEE) n. 2102/75 che determina la quantità di patate necessaria
+    per la fabbricazione di una tonnellata di fecola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1854/83 van de Commissie van 7 juli 1983 tot wijziging
+    van Verordening (EEG) nr. 2102/75 houdende bepaling van de hoeveelheid aardappelen
+    die nodig is voor de vervaardiging van 1 ton zetmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1854
+docidentifier:
+- content: EU Regulation 1854/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1854
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1854/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-07-07'
+- type: implemented
+  at: '1983-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2102
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

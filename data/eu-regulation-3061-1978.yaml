@@ -1,0 +1,105 @@
+---
+id: EURegulation30611978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3061/78 of 19 December 1978 amending Regulation
+    (EEC) No 1544/69 on the tariff treatment applicable to goods contained in travellers'
+    personal luggage
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3061/78 du Conseil, du 19 décembre 1978, modifiant
+    le règlement (CEE) n° 1544/69 relatif au traitement tarifaire applicable aux
+    marchandises contenues dans les bagages personnels des voyageurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3061/78 des Rates vom 19. Dezember 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1544/69 über die zolltarifliche Behandlung von Waren,
+    die im persönlichen Gepäck der Reisenden eingeführt werden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3061/78 af 19. december 1978 om ændring
+    af forordning (EØF) nr. 1544/69 om toldbehandling af varer, der indføres af
+    rejsende i deres personlige bagage
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3061/78 τού Συμβουλίου
+    τής 19ης Δεκεμβρίου 1978 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1544/69 «περί τής δασμολογικής
+    μεταχειρίσεως πού εφαρμόζεται σέ εμπορεύματα
+    πού περιέχονται στίς προσωπικές αποσκευές
+    τών ταξιδιωτών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3061/78 del Consiglio, del 19 dicembre 1978, che modifica
+    il regolamento (CEE) n. 1544/69 relativo al trattamento tariffario applicabile
+    alle merci contenute nei bagagli personali dei viaggiatori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3061/78 van de Raad van 19 december 1978 tot wijziging
+    van Verordening (EEG) nr. 1544/69 betreffende de invoerrechten die van toepassing
+    zijn op goederen die deel uitmaken van de persoonlijke bagage van reizigers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R3061
+docidentifier:
+- content: EU Regulation 3061/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R3061
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/3061/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-12-19'
+- type: implemented
+  at: '1979-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1544
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

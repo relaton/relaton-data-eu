@@ -1,0 +1,125 @@
+---
+id: EURegulation8221987
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 822/87 of 16 March 1987 on the common organization
+    of the market in wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 822/87 du Conseil du 16 mars 1987 portant organisation
+    commune du marché viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 822/87 des Rates vom 16. März 1987 über die gemeinsame
+    Marktorganisation für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 822/87 af 16. marts 1987 om den fælles markedsordning
+    for vin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 822/87 του Συμβουλίου
+    της 16ης Μαρτίου 1987 για την κοινή οργάνωση της
+    αμπελοοινικής αγοράς
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 822/87, annettu 16 päivänä maaliskuuta 1987,
+    viinikaupan yhteisestä järjestämisestä
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 822/87 del Consiglio del 16 marzo 1987 relativo all'organizzazione
+    comune del mercato vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 822/87 van de Raad van 16 maart 1987 houdende een
+    gemeenschappelijke ordening van de wijnmarkt
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 822/87 do Conselho de 16 de Março de 1987 que estabelece
+    a organização comum do mercado vitivinícola
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) nº 822/87 del Consejo de 16 de marzo de 1987 por el que
+    se establece la organización común del mercado vitivinícola
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 822/87 av den 16 mars 1987 om den gemensamma
+    organisationen av marknaden för vin
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31987R0822
+docidentifier:
+- content: EU Regulation 822/1987
+  type: EU
+  primary: true
+- content: CELEX 31987R0822
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1987/822/oj
+  type: ELI
+date:
+- type: issued
+  at: '1987-03-16'
+- type: implemented
+  at: '1987-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0337
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0340
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

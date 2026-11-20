@@ -1,0 +1,131 @@
+---
+id: EURegulation16052001
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1605/2001 of 3 August 2001 amending Regulation
+    (EC) No 1420/2001 limiting the term of validity of export licences for certain
+    products processed from cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1605/2001 de la Commission du 3 août 2001 modifiant
+    le règlement (CE) n° 1420/2001 limitant la durée de validité des certificats
+    d'exportation pour certains produits transformés à base de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1605/2001 der Kommission vom 3. August 2001 zur Änderung
+    der Verordnung (EG) Nr. 1420/2001 zur Kürzung der Gültigkeitsdauer der für
+    Getreideverarbeitungserzeugnisse zu erteilenden Ausfuhrlizenzen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1605/2001 af 3. august 2001 om ændring
+    af forordning (EF) nr. 1420/2001 om begrænsning af gyldighedsperioden for eksportlicenser
+    for visse produkter forarbejdet på basis af korn
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1605/2001 της Επιτροπής,
+    της 3ης Αυγούστου 2001, περί τροποποίησης του
+    κανονισμού (ΕΚ) αριθ. 1420/2001 για τον περιορισμό
+    της διάρκειας ισχύος των πιστοποιητικών εξαγωγής
+    για ορισμένα μεταποιημένα προϊόντα με βάση
+    τα σιτηρά
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1605/2001, annettu 3 päivänä elokuuta 2001,
+    tiettyjen viljajalosteiden vientitodistusten voimassaoloajan rajoittamisesta annetun
+    asetuksen (EY) N:o 1420/2001 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1605/2001 della Commissione, del 3 agosto 2001, che
+    modifica il regolamento (CE) n. 1420/2001 che limita la durata di validità dei
+    titoli di esportazione per taluni prodotti trasformati a base di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1605/2001 van de Commissie van 3 augustus 2001 houdende
+    wĳziging van Verordening (EG) nr. 1346/1999 tot beperking van de geldigheidsduur
+    van de uitvoercertificaten voor bepaalde op basis van granen verwerkte producten
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 1605/2001 da Comissão, de 3 de Agosto de 2001, que
+    altera o Regulamento (CE) n.° 1420/2001 que limita o prazo de validade dos certificados
+    de exportação respeitantes a certos produtos transformados à base de cereais
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1605/2001 de la Comisión, de 3 de agosto de 2001,
+    que modifica el Reglamento (CE) n° 1420/2001 por el que se limita el período
+    de validez de los certificados de exportación relativos a ciertos productos transformados
+    a base de cereales
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1605/2001 av den 3 augusti 2001 om ändring
+    av förordning (EG) nr 1420/2001 om begränsning av giltighetstiden för exportlicenser
+    för vissa bearbetade produkter av spannmål
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1605
+docidentifier:
+- content: EU Regulation 1605/2001
+  type: EU
+  primary: true
+- content: CELEX 32001R1605
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2001/1605/oj
+  type: ELI
+date:
+- type: issued
+  at: '2001-08-03'
+- type: implemented
+  at: '2001-08-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32001R1420
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

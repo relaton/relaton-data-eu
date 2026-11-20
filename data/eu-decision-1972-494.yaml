@@ -1,0 +1,83 @@
+---
+id: EUDecision1972494
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: '72/494/Euratom: Décision du Conseil du 12 décembre 1972, portant modification
+    de la décision du Conseil du 25 avril 1972, arrêtant un programme de recherches
+    et d''enseignement de la Communauté européenne de l''énergie atomique pour
+    l''exercice 1972, composé d''un programme commun et de programmes complémentaires'
+  type: main
+- language: de
+  script: Latn
+  content: '72/494/Euratom: Beschluß des Rates vom 12. Dezember 1972 zur Änderung
+    des Ratsbeschlusses vom 25. April 1972 zur Festlegung eines aus einem gemeinsamen
+    Programm und aus Ergänzungsprogrammen bestehenden Forschungs- und Ausbildungsprogramms
+    der Europäischen Atomgemeinschaft für das Haushaltsjahr 1972'
+  type: main
+- language: it
+  script: Latn
+  content: '72/494/Euratom: Decisione del Consiglio, del 12 dicembre 1972, che modifica
+    la decisione del Consiglio del 25 aprile 1972, che stabilisce un programma di
+    ricerche e d''insegnamento della Comunità europea dell''energia atomica per l''esercizio
+    1972, composto di un programma comune e di programmi complementari'
+  type: main
+- language: nl
+  script: Latn
+  content: '72/494/Euratom: Besluit van de Raad van 12 december 1972 houdende wijziging
+    van het besluit van de Raad van 25 april 1972 tot vaststelling van een programma
+    voor onderzoek en onderwijs van de Europese Gemeenschap voor Atoomenergie voor
+    het begrotingsjaar 1972, bestaande uit een gemeenschappelijk programma en aanvullende
+    programma''s'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972D0494
+docidentifier:
+- content: EU Decision 1972/494
+  type: EU
+  primary: true
+- content: CELEX 31972D0494
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1972/494/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0181
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

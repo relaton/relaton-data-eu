@@ -1,0 +1,94 @@
+---
+id: EURegulation5171977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 517/77 of 14 March 1977 fixing the minimum
+    price and the special minimum price for tomato concentrates for the 1976/77 marketing
+    year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 517/77 du Conseil, du 14 mars 1977, fixant le prix
+    minimal et le prix minimal spécial des concentrés de tomates pour la campagne
+    de commercialisation 1976/1977
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 517/77 des Rates vom 14. März 1977 zur Festsetzung
+    des Mindestpreises und des besonderen Mindestpreises für Tomatenkonzentrate für
+    das Wirtschaftsjahr 1976/1977
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 517/77 af 14. marts 1977 om fastsættelse
+    af minimumsprisen og den særlige minimumspris for tomatkoncentrater for produktionsåret
+    1976/1977
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 517/77 del Consiglio, del 14 marzo 1977, che fissa
+    il prezzo minimo e il prezzo minimo speciale dei concentrati di pomodori per la
+    campagna di commercializzazione 1976/1977
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 517/77 van de Raad van 14 maart 1977 tot vaststelling
+    voor het verkoopseizoen 1976/1977 van de minimumprijs en de bijzondere minimumprijs
+    voor tomatenpasta
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0517
+docidentifier:
+- content: EU Regulation 517/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0517
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/517/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-14'
+- type: implemented
+  at: '1976-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1197
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

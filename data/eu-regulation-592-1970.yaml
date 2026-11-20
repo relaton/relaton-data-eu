@@ -1,0 +1,65 @@
+---
+id: EURegulation5921970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 592/70 de la Commission, du 25 mars 1970, fixant les
+    prélèvements applicables à l'importation des aliments composés pour les animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 592/70 der Kommission vom 25. März 1970 zur Festsetzung
+    der bei der Einfuhr von Mischfuttermitteln anwendbaren Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 592/70 della Commissione, del 25 marzo 1970, che fissa
+    i prelievi applicabili all'importazione degli alimenti composti per gli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 592/70 van de Commissie van 25 maart 1970 houdende
+    vaststelling van de heffingen bij invoer van mengvoeders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0592
+docidentifier:
+- content: EU Regulation 592/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0592
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/592/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

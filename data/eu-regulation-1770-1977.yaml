@@ -1,0 +1,94 @@
+---
+id: EURegulation17701977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1770/77 of 29 July 1977 amending Regulation
+    (EEC) No 2102/75 determining the quantity of potatoes required for the manufacture
+    of one tonne of starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1770/77 de la Commission, du 29 juillet 1977, portant
+    modification du règlement (CEE) n° 2102/75 déterminant la quantité de pommes
+    de terre nécessaire à la fabrication d' une tonne de fécule
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1770/77 der Kommission vom 29. Juli 1977 zur Änderung
+    der Anlage der Verordnung (EWG) Nr. 2102/75 zur Feststellung der zur Herstellung
+    von einer Tonne Kartoffelstärke nötigen Menge Kartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1770/77 af 29. juli 1977 om ændring
+    af forordning (EØF) nr. 2102/75 om fastsættelse af den mængde kartofler, der
+    er nødvendig til fremstilling af 1 ton kartoffelstivelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1770/77 della Commissione, del 29 luglio 1977, recante
+    modifica del regolamento (CEE) n. 2102/75 che determina la quantità di patate
+    necessaria per la fabbricazione di una tonnellata di fecola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1770/77 van de Commissie van 29 juli 1977 tot wijziging
+    van Verordening (EEG) nr. 2102/75 houdende bepaling van de hoeveelheid aardappelen
+    die nodig is voor de vervaardiging van 1 ton zetmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1770
+docidentifier:
+- content: EU Regulation 1770/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1770
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1770/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-07-29'
+- type: implemented
+  at: '1977-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2102
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

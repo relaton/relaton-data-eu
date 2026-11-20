@@ -1,0 +1,70 @@
+---
+id: EURegulation1441968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 144/68 de la Commission, du 5 février 1968, relatif
+    aux demandes d'acomptes au titre du FEOGA, section garantie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 144/68 der Kommission vom 5. Februar 1968 über die
+    Anträge auf Abschlagszahlungen aus dem EAGFL, Abteilung Garantie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 144/68 della Commissione, del 5 febbraio 1968, relativo
+    alle domande di acconto presentate al FEAOG, sezione garanzia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 144/68 van de Commissie van 5 februari 1968 met betrekking
+    tot de voorschotaanvragen uit het EOGFL, afdeling Garantie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0144
+docidentifier:
+- content: EU Regulation 144/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0144
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/144/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-02-05'
+- type: implemented
+  at: '1968-02-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

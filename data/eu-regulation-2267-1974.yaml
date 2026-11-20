@@ -1,0 +1,92 @@
+---
+id: EURegulation22671974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2267/74 of the Commission of 30 August 1974 amending
+    Commission Regulation (EEC) No 1981/74 concerning the export levy on starches
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2267/74 de la Commission, du 30 août 1974, modifiant
+    le règlement (CEE) n° 1981/74 de la Commission relatif au prélèvement à l'
+    exportation pour les produits amylacés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2267/74 der Kommission vom 30. August 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1981/74 über die Abschöpfung bei der Ausfuhr stärkehaltiger
+    Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2267/74 af 30. august 1974 om ændring
+    af Kommissionens forordning (EØF) nr. 1981/74 om en eksportafgift for stivelsesprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2267/74 della Commissione, del 30 agosto 1974, che
+    modifica il regolamento (CEE) n. 1981/74 della Commissione relativo al prelievo
+    all' esportazione per i prodotti amidacei
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2267/74 van de Commissie van 30 augustus 1974 tot
+    wijziging van Verordening (EEG) nr. 1981/74 van de Commissie met betrekking tot
+    de uitvoerheffing voor zetmeelhoudende produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2267
+docidentifier:
+- content: EU Regulation 2267/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2267
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2267/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-08-30'
+- type: implemented
+  at: '1974-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1981
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

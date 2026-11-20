@@ -1,0 +1,134 @@
+---
+id: EURegulation10141983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1014/83 of 28 April 1983 amending Regulation
+    (EEC) No 262/79 on the sale of butter at reduced prices for use in the manufacture
+    of pastry products, ice-cream and other foodstuffs, and repealing Regulation (EEC)
+    No 1468/79
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1014/83 de la Commission du 28 avril 1983 modifiant
+    le règlement (CEE) no 262/79 relatif à la vente à prix réduit de beurre destiné
+    à la fabrication de produits de pâtisserie, de glaces alimentaires et autres
+    produits alimentaires et abrogeant le règlement (CEE) no 1468/79
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1014/83 der Kommission vom 28. April 1983 zur Änderung
+    der Verordnung (EWG) Nr. 262/79 über den Verkauf von Butter zu herabgesetzten
+    Preisen für die Herstellung von Backwaren, Speiseeis und anderen Lebensmitteln
+    und zur Aufhebung der Verordnung (EWG) Nr. 1468/79
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1014/83 af 28. april 1983 om ændring
+    af forordning (EØF) nr. 262/79 om salg til nedsat pris af smør beregnet til
+    fremstilling af konditorvarer, konsumis og andre levnedsmiddelprodukter og om
+    ophævelse af forordning (EØF) nr. 1468/79
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1014/83 της Επιτροπής
+    της 28ης Απριλίου 1983 για τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 262/79 περί της πωλήσεως, σε μειωμένη
+    τιμή, βουτύρου που προορίζεται για την παρασκευή
+    προϊόντων ζαχαροπλαστικής, παγωτών και άλλων
+    τροφίμων, και για την κατάργηση του κανονισμού
+    (ΕΟΚ) αριθ. 1468/79
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1014/83 della Commissione del 28 aprile 1983 che modifica
+    il regolamento (CEE) n. 262/79, relativo alla vendita a prezzo ridotto di burro
+    destinato alla fabbricazione di prodotti della pasticceria, di gelati e di altri
+    prodotti alimentari e che abroga il regolamento (CEE) n. 1468/79
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1014/83 van de Commissie van 28 april 1983 tot wijziging
+    van Verordening (EEG) nr. 262/79 betreffende de verkoop tegen verlaagde prijs
+    van boter bestemd voor de vervaardiging van banketbakkerswerk, consumptie-ijs
+    en andere voedingsmiddelen en tot intrekking van Verordening (EEG) nr. 1468/79
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1014/83 da Comissão, de 28 de Abril de 1983, que
+    altera o Regulamento (CEE) n.° 262/79 relativo à venda a preço reduzido de
+    manteiga destinada ao fabrico de produtos de pastelaria, de gelados alimentares
+    e outros produtos alimentares e revogando o Regulamento (CEE) n.° 1468/79
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1014/83 de la Comisión, de 28 de abril de 1983, por
+    el que se modifica el Reglamento (CEE) n° 262/79 relativo a la venta a precio
+    reducido de mantequilla destinada a la fabricación de productos de pastelería,
+    helados y otros productos alimenticios y por el que se deroga el Reglamento (CEE)
+    n° 1468/79
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1014
+docidentifier:
+- content: EU Regulation 1014/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1014
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1014/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-04-28'
+- type: implemented
+  at: '1983-05-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1468
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0262
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

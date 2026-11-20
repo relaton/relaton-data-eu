@@ -1,0 +1,88 @@
+---
+id: EURegulation5621976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 562/76 of 15 March 1976 on the granting of
+    a consumer subsidy for butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 562/76 du Conseil, du 15 mars 1976, relatif à l'octroi
+    d'une aide à la consommation de beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 562/76 des Rates vom 15. März 1976 über die Gewährung
+    einer Verbraucherbeihilfe für Butter
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 562/76 af 15. marts 1976 om støtte til forbruget
+    af smør
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 562/76 del Consiglio, del 15 marzo 1976, relativo
+    alla concessione di un aiuto in favore del consumo di burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 562/76 van de Raad van 15 maart 1976 met betrekking
+    tot de toekenning van steun voor het boterverbruik
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0562
+docidentifier:
+- content: EU Regulation 562/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0562
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/562/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-15'
+- type: implemented
+  at: '1976-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1191
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

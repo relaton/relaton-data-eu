@@ -1,0 +1,65 @@
+---
+id: EURegulation2321967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 232/67/CEE de la Commission, du 30 juin 1967, portant fixation
+    de la restitution à l'exportation dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 232/67/EWG der Kommission vom 30. Juni 1967 zur Festsetzung
+    der Erstattung bei der Ausfuhr auf dem Schweinefleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 232/67/CEE della Commissione, del 30 giugno 1967, che determina
+    la restituzione all'esportazione nel settore della carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 232/67/EEG van de Commissie van 30 juni 1967 houdende vaststelling
+    van de restitutie bij export in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0232
+docidentifier:
+- content: EU Regulation 232/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0232
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/232/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

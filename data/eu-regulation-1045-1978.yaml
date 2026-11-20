@@ -1,0 +1,92 @@
+---
+id: EURegulation10451978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1045/78 of 19 May 1978 fixing the buying-in
+    prices for beef applicable from 22 May 1978
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1045/78 de la Commission, du 19 mai 1978, fixant les
+    prix d' achat à l' intervention dans le secteur de la viande bovine valables
+    à partir du 22 mai 1978
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1045/78 der Kommission vom 19. Mai 1978 zur Festsetzung
+    der ab 22. Mai 1978 geltenden Ankaufspreise für Interventionen auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1045/78 af 19. maj 1978 om fastsættelse
+    af opkøbspriserne ved intervention inden for oksekødsektoren, gældende fra
+    den 22. maj 1978
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1045/78 della Commissione, del 19 maggio 1978, che
+    fissa i prezzi d' acquisto applicabili all' intervento nel settore delle carni
+    bovine a decorrere dal 22 maggio 1978
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1045/78 van de Commissie van 19 mei 1978 tot vaststelling
+    van de bij interventie in de sector rundvlees met ingang van 22 mei 1978 geldende
+    aankoopprijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1045
+docidentifier:
+- content: EU Regulation 1045/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1045
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1045/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-19'
+- type: implemented
+  at: '1978-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0930
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

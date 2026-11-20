@@ -1,0 +1,94 @@
+---
+id: EURegulation16661977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1666/77 of 20 July 1977 amending Regulation
+    (EEC) No 2757/75 as regards the accession compensatory amounts for cereals and
+    the corresponding coefficients
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1666/77 du Conseil, du 20 juillet 1977, modifiant
+    le règlement (CEE) n° 2757/75 en ce qui concerne les montants compensatoires
+    "adhésion" et les coefficients y afférents dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1666/77 des Rates vom 20. Juli 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2757/75 hinsichtlich der Beitrittsausgleichsbeträge
+    und deren Koeffizienten für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1666/77 af 20. juli 1977 om ændring af forordning
+    (EØF) nr. 2757/75, for så vidt angår tiltrædelsesudligningsbeløb og de dertil
+    knyttede koefficienter for kornsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1666/77 del Consiglio, del 20 luglio 1977, che modifica
+    il regolamento (CEE) n. 2757/75 per quanto riguarda gli importi compensativi «adesione»
+    ed i relativi coefficienti nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1666/77 van de Raad van 20 juli 1977 houdende wijziging
+    van Verordening (EEG) nr. 2757/75 voor wat betreft de compenserende bedragen "toetreding"
+    en de hierop van toepassing zijnde coëfficiënten in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1666
+docidentifier:
+- content: EU Regulation 1666/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1666
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1666/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-07-20'
+- type: implemented
+  at: '1977-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2757
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

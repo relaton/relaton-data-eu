@@ -1,0 +1,84 @@
+---
+id: EURegulation21211971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2121/71 de la Commission, du 1er octobre 1971, modifiant
+    le règlement (CEE) n° 1872/71 fixant les montants compensatoires dans le secteur
+    agricole à la suite de l'élargissement temporaire des marges de fluctuations
+    des monnaies de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2121/71 der Kommission vom 1. Oktober 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1872/71 zur Festsetzung der Ausgleichsbeträge in der
+    Landwirtschaft im Anschluß an die vorübergehende Erweiterung der Bandbreiten
+    der Währungen einiger Mitgliedstaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2121/71 della Commissione, del 1 ottobre 1971, relativo
+    alla modifica del regolamento (CEE) n. 1872/71 che fissa gli importi di compensazione
+    nel settore agricolo in seguito all'ampliamento temporaneo dei margini di fluttuazione
+    delle monete di alcuni Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2121/71 van de Commissie van 1 oktober 1971 tot wijziging
+    van Verordening (EEG) nr. 1872/71 houdende vaststelling van de compenserende bedragen
+    in de landbouwsector naar aanleiding van de tijdelijke verruiming van de fluctuatiemarges
+    van de valuta's van sommige Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2121
+docidentifier:
+- content: EU Regulation 2121/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2121
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2121/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-01'
+- type: implemented
+  at: '1971-08-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1872
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

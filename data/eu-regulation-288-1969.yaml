@@ -1,0 +1,100 @@
+---
+id: EURegulation2881969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 288/69 of 14 February 1969 modifying the
+    Annex of Regulation (EEC) No 1098/68 on detailed rules for the application of
+    export refunds on milk and milk products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 288/69 de la Commission, du 14 février 1969, modifiant
+    l'annexe du règlement (CEE) n° 1098/68 établissant les modalités d'application
+    des restitutions à l'exportation dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG ( EWG ) NR. 288/69 DER KOMMISSION VOM 14. FEBRUAR 1969 ZUR AENDERUNG
+    DES ANHANGS ZU VERORDNUNG ( EWG ) NR. 1098/68 UEBER DIE DURCHFUEHRUNGSVORSCHRIFTEN
+    FUER DIE AUSFUHRERSTATTUNGEN BEI MILCH UND MILCHERZEUGNISSEN
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 288/69 της Επιτροπής
+    της 14ης Φεβρουαρίου 1969, περί τροποποίησης του
+    παραρτήματος του κανονισμού ( ΕΟΚ ) 1098/68 με το
+    οποίο καθορίζεται ο τρόπος εφαρμογής των επιστροφών
+    κατά την εξαγωγή στον τομέα του γάλακτος και
+    των γαλακτοκομικών προϊόντων
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO ( CEE ) N. 288/69 DELLA COMMISSIONE, DEL 14 FEBBRAIO 1969,
+    RECANTE MODIFICA DELL' ALLEGATO DEL REGOLAMENTO ( CEE ) N. 1098/68 CHE STABILISCE
+    LE MODALITA D' APPLICAZIONE DELLE RESTITUZIONI ALL' ESPORTAZIONE NEL SETTORE DEL
+    LATTE E DEL PRODOTTI LATTIERO-CASEARI
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING ( EEG ) NR. 288/69 VAN DE COMMISSIE VAN 14 FEBRUARI 1969 HOUDENDE
+    WIJZIGING VAN DE BIJLAGE VAN VERORDENING ( EEG ) NR. 1098/68 TOT VASTSTELLING
+    VAN DE UITVOERINGSBEPALINGEN INZAKE DE RESTITUTIES BIJ UITVOER IN DE SECTOR MELK
+    EN ZUIVELPRODUKTEN
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0288
+docidentifier:
+- content: EU Regulation 288/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0288
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/288/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-02-14'
+- type: implemented
+  at: '1969-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1098
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

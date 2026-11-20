@@ -1,0 +1,95 @@
+---
+id: EURegulation31151975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3115/75 of the Commission of 28 November 1975 amending
+    for the sixth time Regulation (EEC) No 1090/75 on the issue by way of protective
+    measures of import licences for certain beef and veal products (EXIM)
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3115/75 de la Commission, du 28 novembre 1975, portant
+    sixième modification du règlement (CEE) n° 1090/75 en ce qui concerne le régime
+    Exim établi au titre des mesures de sauvegarde dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3115/75 der Kommission vom 28. November 1975 zur sechsten
+    Änderung der Verordnung (EWG) Nr. 1090/75 hinsichtlich der im Rahmen von Schutzmaßnahmen
+    für den Rindfleischsektor eingeführten ,,EXIM' ' -Regelung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3115/75 af 28. november 1975 om sjette
+    ændring af forordning (EØF) nr. 1090/75 vedrørende den EXIM-ordning, der er
+    indført som beskyttelsesforanstaltning inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3115/75 della Commissione, del 28 novembre 1975, recante
+    sesta modifica del regolamento (CEE) n.1090/75 per quanto concerne il regime EXIM
+    istituito in applicazione delle misure di salvaguardia nel settore delle carni
+    bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3115/75 van de Commissie van 28 november 1975 houdende
+    zesde wijziging van de bij Verordening (EEG) nr. 1090/75 in het kader van de vrijwaringsmaatregelen
+    in de sector rundvlees ingestelde EXIM-regeling
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3115
+docidentifier:
+- content: EU Regulation 3115/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3115
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3115/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-11-28'
+- type: implemented
+  at: '1975-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1090
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

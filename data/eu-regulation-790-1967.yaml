@@ -1,0 +1,77 @@
+---
+id: EURegulation7901967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 790/67/CEE du Conseil, du 31 octobre 1967, relatif au régime
+    applicable aux produits transformés à base de fruits et légumes avec addition
+    de sucre, originaires des EAMA ou PTOM
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 790/67/EWG des Rates vom 31. Oktober 1967 über die Regelung
+    für Verarbeitungserzeugnisse aus Obst und Gemüse mit Zusatz von Zucker, die
+    Ursprungserzeugnisse der assoziierten afrikanischen Staaten und Madagaskars oder
+    der überseeischen Länder und Gebiete sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 790/67/CEE del Consiglio, del 31 ottobre 1967, relativo
+    al regime applicabile ai prodotti trasformati a base di ortofrutticoli, con aggiunta
+    di zucchero, originari degli Stati africani e malgascio associati o dei paesi
+    e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 790/67/EEG van de Raad van 31 oktober 1967 betreffende
+    de regeling voor op basis van groenten en fruit, met toegevoegde suiker, verwerkte
+    produkten van oorsprong uit de geassocieerde Afrikaanse staten en Madagaskar of
+    de landen en gebieden overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0790
+docidentifier:
+- content: EU Regulation 790/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0790
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/790/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-31'
+- type: implemented
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

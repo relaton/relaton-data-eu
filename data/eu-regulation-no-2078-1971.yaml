@@ -1,0 +1,99 @@
+---
+id: EURegulationNo20781971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2078/71 of the Council of 27 September 1971 amending
+    Regulation (EEC) No 1852/69 laying down general rules for the supply of skimmed-milk
+    powder to the World Food Programme and the International Committee of the Red
+    Cross
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2078/71 du Conseil, du 27 septembre 1971, modifiant
+    le règlement (CEE) n° 1852/69 établissant les règles générales relatives
+    à la fourniture de lait écrémé en poudre du programme alimentaire mondial
+    et au Comité international de la Croix-Rouge
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2078/71 des Rates vom 27. September 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1852/69 zur Aufstellung der Grundregeln für die Lieferung
+    von Magermilchpulver an das Welternährungsprogramm und an das Internationale
+    Komitee vom Roten Kreuz
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2078/71 af 27. september 1971 om ændring
+    af forordning (EØF) nr. 1852/69 om de almindelige regler for levering af skummetmælkspulver
+    til Verdensfødevareprogrammet og til Den internationale Røde Kors Komité
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2078/71 del Consiglio, del 27 settembre 1971, che
+    modifica il regolamento (CEE) n. 1852/69 che stabilisce le norme generali relative
+    alla fornitura di latte scremato in polvere al Programma alimentare mondiale e
+    al Comitato internazionale della Croce Rossa
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2078/71 van de Raad van 27 september 1971 tot wijziging
+    van Verordening (EEG) nr. 1852/69 houdende vaststelling van algemene regels betreffende
+    de levering van magere-melkpoeder ten behoeve van het Wereldvoedselprogramma en
+    het Internationale Comité van het Rode Kruis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2078
+docidentifier:
+- content: EU Regulation No 2078/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2078
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2078/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-09-27'
+- type: implemented
+  at: '1971-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1852
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

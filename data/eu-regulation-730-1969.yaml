@@ -1,0 +1,94 @@
+---
+id: EURegulation7301969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 730/69 of the Council of 22 April 1969 implementing
+    the system provided for in Regulation (EEC) No 1619/68 on marketing standards
+    for eggs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 730/69 du Conseil, du 22 avril 1969, relatif à la
+    mise en application du régime prévu par le règlement (CEE) n° 1619/68 concernant
+    certaines normes de commercialisation applicables aux oeufs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 730/69 des Rates vom 22. April 1969 über den Beginn
+    der Anwendung der in der Verordnung (EWG) Nr. 1619/68 über Vermarktungsnormen
+    für Eier vorgesehenen Regelung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 730/69 af 22. april 1969 om begyndelsestidspunktet
+    for anvendelse af de i forordning (EØF) nr. 1619/68 om handelsnormer for æg
+    fastsatte regler
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 730/69 del Consiglio, del 22 aprile 1969, concernente
+    l' applicazione del regime previsto dal regolamento (CEE) n. 1619/68 relativo
+    a talune norme di commercializzazione applicabili alle uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 730/69 van de Raad van 22 april 1969 inzake het begin
+    van de toepassing van de in Verordening (EEG) nr. 1619/68 betreffende bepaalde
+    handelsnormen voor eieren, voorgeschreven regeling
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0730
+docidentifier:
+- content: EU Regulation 730/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0730
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/730/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-22'
+- type: implemented
+  at: '1969-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1619
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation3631967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 363/67/CEE du Conseil, du 25 juillet 1967, fixant les prix
+    du riz et des brisures pour la campagne 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 363/67/EWG des Rates vom 25. Juli 1967 zur Festsetzung der
+    Preise für Reis und Bruchreis für das Wirtschaftsjahr 1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 363/67/CEE del Consiglio, del 25 luglio 1967, che fissa
+    i prezzi del riso e delle rotture di riso per la campagna 1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 363/67/EEG van de Raad van 25 juli 1967 houdende vaststelling
+    van de prijzen voor rijst en breukrijst voor het verkoopseizoen 1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0363
+docidentifier:
+- content: EU Regulation 363/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0363
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/363/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-25'
+- type: implemented
+  at: '1967-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

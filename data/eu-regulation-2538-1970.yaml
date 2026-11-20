@@ -1,0 +1,79 @@
+---
+id: EURegulation25381970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2538/70 du Conseil, du 17 décembre 1970, portant
+    suspension partielle du droit autonome du tarif douanier commun sur les maquereaux
+    frais, réfrigérés ou congelés, entiers, décapités ou tronçonnés, destinés
+    à l'industrie de transformation, de la sous-position EX 03.01 B I a) 2 cc)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2538/70 des Rates vom 17. Dezember 1970 über die
+    teilweise Aussetzung des autonomen Zollsatzes des Gemeinsamen Zolltarifs für
+    Makrelen, frisch, gekühlt oder gefroren, ganz, ohne Kopf oder zerteilt, für
+    die Verarbeitungsindustrie, der Tarifstelle ex 03.01 B I a) 2 cc)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2538/70 del Consiglio, del 17 dicembre 1970, che sospende
+    parzialmente il dazio autonomo della tariffa doganale comune sugli sgombri freschi,
+    refrigerati o congelati, interi, decapitati o in pezzi, destinati all'industria
+    di trasformazione, della sottovoce ex 03.01 B I a) 2 cc)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2538/70 van de Raad van 17 december 1970 houdende
+    gedeeltelijke schorsing van het autonome recht van het gemeenschappelijk douanetarief
+    op makreel, vers, gekoeld of bevroren, ook indien ontdaan van kop of in moten
+    gesneden, bestemd voor de verwerkende industrie, van onderverdeling ex 03.01 B
+    I a) 2 cc)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2538
+docidentifier:
+- content: EU Regulation 2538/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2538
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2538/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-17'
+- type: implemented
+  at: '1970-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

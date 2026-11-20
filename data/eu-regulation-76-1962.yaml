@@ -1,0 +1,65 @@
+---
+id: EURegulation761962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 76 de la Commission portant fixation du montant des prélèvements
+    envers les pays tiers pour les volailles abattues
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 76 der Kommission über die Festsetzung der Abschöpfungsbeträge
+    gegenüber drillen Ländern für geschlachtetes Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 76 della Commissione relativo alla fissazione dell'ammontare
+    del prelievo nei confronti dei paesi terzi per i volatili da cortile macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 76 van de Commissie houdende vaststelling van het bedrag
+    der heffingen ten opzichte van derde landen voor geslacht pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0076
+docidentifier:
+- content: EU Regulation 76/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0076
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/76/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

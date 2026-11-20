@@ -1,0 +1,65 @@
+---
+id: EURegulation1641962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 164 de la Commission reportant la date à laquelle devraient
+    être exportées les farines de froment sous régime transitoire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 164 der Kommission über die Verlängerung bestimmter Übergangsbestimmungen
+    für Weizenmehlausfuhren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 164 della Commissione che proroga la data alla quale dovevano
+    essere esportate le farine di fromento sottoposte a regime transitorio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 164 van de Commissie die de datum waarop de uitvoer van
+    tarwemeel volgens de overgangsbepalingen moest plaatsvinden verschuift
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0164
+docidentifier:
+- content: EU Regulation 164/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0164
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/164/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

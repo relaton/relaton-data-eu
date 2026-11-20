@@ -1,0 +1,80 @@
+---
+id: EURegulation20111970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2011/70 de la Commission, du 7 octobre 1970, modifiant
+    le règlement (CEE) n° 1417/69 relatif à la vente à l'armée et aux unités
+    assimilées de beurre à prix réduit
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2011/70 der Kommission vom 7. Oktober 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1417/69 über den Verkauf von Butter zu herabgesetzten
+    Preisen an die Streitkräfte und ihnen gleichgestellte Einheiten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2011/70 della Commissione, del 7 ottobre 1970, che
+    modifica il regolamento (CEE) n. 1417/69 relativo alla vendita di burro a prezzo
+    ridotto all'esercito ed ai corpi assimilati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2011/70 van de Commissie van 7 oktober 1970 tot wijziging
+    van Verordening (EEG) nr. 1417/69 betreffende de verkoop van boter tegen verlaagde
+    prijs aan het leger en de daarmee gelijkgestelde eenheden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2011
+docidentifier:
+- content: EU Regulation 2011/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2011
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2011/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-07'
+- type: implemented
+  at: '1970-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1417
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

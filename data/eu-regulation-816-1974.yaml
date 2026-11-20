@@ -1,0 +1,98 @@
+---
+id: EURegulation8161974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 816/74 of the Commission of 5 April 1974 amending Regulations
+    (EEC) No 71/73 and (EEC) No 1259/72 on the sale of butter from public stocks
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 816/74 de la Commission, du 5 avril 1974, modifiant
+    les règlements (CEE) n° 71/73 et (CEE) n° 1259/72 relatifs à la vente de beurre
+    de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 816/74 der Kommission vom 5. April 1974 zur Änderung
+    der Verordnungen (EWG) Nr. 71/73 und (EWG) Nr. 1259/72 über den Verkauf von Butter
+    aus staatlicher Lagerhaltung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 816/74 af 5. april 1974 om ændring
+    af forordningerne (EØF) nr. 71/73 og (EØF) nr. 1259/72 om salg af smør fra
+    offentlige lagre
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 816/74 della Commissione, del 5 aprile 1974, che modifica
+    i regolamenti (CEE) n. 71/73 e (CEE) n. 1259/72, relativi alla vendita di burro
+    di ammasso pubblico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 816/74 van de Commissie van 5 april 1974 houdende
+    wijziging van de Verordeningen (EEG) nr. 71/73 en (EEG) nr. 1259/72 met betrekking
+    tot de verkoop van boter uit openbare opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0816
+docidentifier:
+- content: EU Regulation 816/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0816
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/816/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-05'
+- type: implemented
+  at: '1974-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1259
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0071
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

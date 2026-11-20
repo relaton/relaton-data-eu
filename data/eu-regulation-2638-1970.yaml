@@ -1,0 +1,101 @@
+---
+id: EURegulation26381970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2638/70 of the Commission of 23 December 1970 amending
+    Regulation (EEC) No 1373/70 on common detailed rules for the application of the
+    system of import and export licences and advance fixing certificates for agricultural
+    products subject to a single price system
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2638/70 de la Commission, du 23 décembre 1970, modifiant
+    le règlement (CEE) n° 1373/70, portant modalités communes d' application du
+    régime des certificats d' importation, d' exportation et de préfixation pour
+    les produits agricoles soumis à un régime de prix unique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2638/70 der Kommission vom 23. Dezember 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1373/70 über gemeinsame Durchführungsvorschriften für
+    Einfuhr- und Ausfuhrlizenzen sowie Vorausfestsetzungsbescheinigungen für landwirtschaftliche
+    Erzeugnisse, die einem System gemeinsamer Preise unterliegen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2638/70 af 23. december 1970 om ændring
+    af forordning (EØF) nr. 1373/70 om fælles gennemførelsesbestemmelser for ordningen
+    med import- og eksportlicenser og forudfastsættelsesattester for landbrugsprodukter,
+    der er underkastet ordningen med enhedspriser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2638/70 della Commissione, del 23 dicembre 1970, che
+    modifica il regolamento (CEE) n. 1373/70, che stabilisce modalità comuni di applicazione
+    per il regime dei titoli di importazione e di esportazione e dei certificati di
+    fissazione anticipata relativi a prodotti agricoli soggetti ad un regime di prezzo
+    unico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2638/70 van de Commissie van 23 december 1970 tot
+    wijziging van Verordening (EEG) nr. 1373/70 houdende gemeenschappelijke uitvoeringsbepalingen
+    inzake het stelsel van invoer-, uitvoer- en voorfixatiecertificaten voor landbouwprodukten
+    waarvoor een stelsel van gemeenschappelijke prijzen geldt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2638
+docidentifier:
+- content: EU Regulation 2638/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2638
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2638/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-23'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1373
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

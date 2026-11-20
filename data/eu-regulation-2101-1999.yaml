@@ -1,0 +1,135 @@
+---
+id: EURegulation21011999
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 2101/1999 of 1 October 1999 amending Regulation
+    (EEC) No 3536/91 setting the latest time of entry into storage for skimmed-milk
+    powder sold under Regulation (EEC) No 3398/91
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 2101/1999 de la Commission, du 1er octobre 1999, modifiant
+    le règlement (CEE) n° 3536/91 déterminant la date limite d'entrée en stock
+    du lait écrémé en poudre vendu au titre du règlement (CEE) n° 3398/91
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 2101/1999 der Kommission vom 1. Oktober 1999 zur Änderung
+    der Verordnung (EWG) Nr. 3536/91 zur Bestimmung des letzten Termins für die Einlagerung
+    des gemäß der Verordnung (EWG) Nr. 3398/91 verkauften Magermilchpulvers
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 2101/1999 af 1. oktober 1999 om ændring
+    af forordning (EØF) nr. 3536/91 om fastsættelse af fristen for indlagring af
+    skummetmælkspulver, der sælges i henhold til forordning (EØF) nr. 3398/91
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 2101/1999 της Επιτροπής,
+    της 1ης Οκτωβρίου 1999, για τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 3536/91 για τον καθορισμό της ημερομηνίας
+    εισόδου σε απόθεμα του αποκορυφωμένου γάλακτος
+    σε σκόνη που πωλείται βάσει του κανονισμού
+    (ΕΟΚ) αριθ. 3398/91
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 2101/1999, annettu 1 päivänä lokakuuta 1999,
+    asetuksen (ETY) N:o 3398/91 nojalla myydyn rasvattoman maitojauheen varastoon
+    viemisen viimeisestä päivämäärästä annetun asetuksen (ETY) N:o 3536/91
+    muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 2101/1999 della Commissione, del 1° ottobre 1999,
+    che modifica il regolamento (CEE) n. 3536/91 che stabilisce la data entro la quale
+    deve essere entrato all'ammasso il latte scremato in polvere venduto a norma del
+    regolamento (CEE) n. 3398/91
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 2101/1999 van de Commissie van 1 oktober 1999 tot
+    wijziging van Verordening (EEG) nr. 3536/91 tot vaststelling van de uiterste datum
+    voor de inslag van mageremelkpoeder dat op grond van Verordening (EEG) nr. 3398/91
+    wordt verkocht
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n° 2101/1999 da Comissão, de 1 de Outubro de 1999, que
+    altera o Regulamento (CEE) n° 3536/91, que determina a data-limite de entrada
+    em existência do leite em pó desnatado vendido a título do Regulamento (CEE)
+    n° 3398/91
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 2101/1999 de la Comisión, de 1 de octubre de 1999,
+    por el que se modifica el Reglamento (CEE) n° 3536/91 por el que se determina
+    la fecha límite de entrada en los almacenes de la leche desnatada en polvo vendida
+    con arreglo a lo dispuesto en el Reglamento (CEE) n° 3398/91
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 2101/1999 av den 1 oktober 1999 om ändring
+    av förordning (EEG) nr 3536/91 om fastställande av sista lagringsdag för skummjölkspulver
+    som försäljs i enlighet med förordning (EEG) nr 3398/91
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999R2101
+docidentifier:
+- content: EU Regulation 2101/1999
+  type: EU
+  primary: true
+- content: CELEX 31999R2101
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1999/2101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1999-10-01'
+- type: implemented
+  at: '1999-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31991R3536
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

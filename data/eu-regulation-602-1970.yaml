@@ -1,0 +1,80 @@
+---
+id: EURegulation6021970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 602/70 de la Commission, du 31 mars 1970, diminuant
+    le montant prévu à l'article 4 du règlement (CEE) n° 1661/69 dont est diminuée
+    l'aide pour les graines oléagineuses triturées en France
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 602/70 der Kommission vom 31. März 1970 zur Verminderung
+    des in Artikel 4 der Verordnung (EWG) Nr. 1661/69 vorgesehenen Betrages, um den
+    in Frankreich die Beihilfe für verarbeitete Ölsaaten verringert wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 602/70 della Commissione, del 31 marzo 1970, che diminuisce
+    l'importo detratto ai sensi dell'articolo 4 del regolamento (CEE) n. 1661/69 dall'integrazione
+    per i semi oleosi triturati in Francia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 602/70 van de Commissie van 31 maart 1970 houdende
+    vermindering van het bedrag bedoeld in artikel 4 van Verordening (EEG) nr. 1661/69
+    waarmede de steun voor in Frankrijk verwerkte oliehoudende zaden wordt verminderd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0602
+docidentifier:
+- content: EU Regulation 602/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0602
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/602/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-31'
+- type: implemented
+  at: '1969-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1661
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,110 @@
+---
+id: EURegulation2301977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 230/77 of 2 February 1977 repealing Article
+    9 of Regulations (EEC) No 3201/76, (EEC) No 3202/76 and (EEC) No 3203/76 as regards
+    the definition of the concept of originating products in connection with the generalized
+    scheme of tariff preferences
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 230/77 de la Commission, du 2 février 1977, abrogeant
+    l' article 9 des règlements (CEE) n° 3201/76, n° 3202/76 et n° 3203/76 en
+    ce qui concerne la définition des produits originaires pour l' application des
+    préférences tarifaires généralisées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 230/77 der Kommission vom 2. Februar 1977 zur Aufhebung
+    von Artikel 9 der Verordnungen (EWG) Nr. 3201/76, (EWG) Nr. 3202/76 und (EWG)
+    Nr. 3203/76 über die Begriffsbestimmung von Ursprungswaren bei der Anwendung
+    der allgemeinen Zollpräferenzen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 230/77 af 2. februar 1977 om ophævelse
+    af artikel 9 i forordningerne (EØF) nr. 3201/76, (EØF) nr. 3202/76 og (EØF)
+    nr. 3203/76 for så vidt angår definitionen af begrebet varer med oprindelsesstatus
+    til brug ved anvendelsen af generelle toldpræferencer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 230/77 della Commissione, del 2 febbraio 1977, che
+    abroga l' articolo 9 dei regolamenti (CEE) n. 3201/76, (CEE) n. 3202/76 e (CEE)
+    n. 3203/76 della Commissione, per quanto concerne la definizione dei prodotti
+    originari ai fini dell' applicazione delle preferenze tariffarie generalizzate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 230/77 van de Commissie van 2 februari 1977 waarbij
+    artikel 9 van de Verordeningen (EEG) nr. 3201/76, (EEG) nr. 3202/76 en (EEG) nr.
+    3203/76 worden gewijzigd ten aanzien van de definitie van ,,produkten van oorsprong'
+    ' voor de toepassing van de algemene tariefpreferenties
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0230
+docidentifier:
+- content: EU Regulation 230/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0230
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/230/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-02'
+- type: implemented
+  at: '1977-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R3201
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R3202
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R3203
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

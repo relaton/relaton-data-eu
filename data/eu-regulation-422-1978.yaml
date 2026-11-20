@@ -1,0 +1,94 @@
+---
+id: EURegulation4221978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 422/78 of 28 February 1978 amending Regulation
+    (EEC) No 2796/77 as regards the period of application of reference prices for
+    liqueur wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 422/78 de la Commission, du 28 février 1978, modifiant
+    le règlement (CEE) n° 2796/77 en ce qui concerne la période d'application des
+    prix de référence pour les vins de liqueur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 422/78 der Kommission vom 28. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2796/77 hinsichtlich des Anwendungszeitraums der Referenzpreise
+    für Likörwein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 422/78 af 28. februar 1978 om ændring
+    af forordning (EØF) nr. 2796/77 for så vidt angår anvendelsesperioden for referencepriser
+    for hedvin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 422/78 della Commissione, del 28 febbraio 1978, che
+    modifica il regolamento (CEE) n. 2796/77 per quanto riguarda il periodo d'applicazione
+    dei prezzi di riferimento per i vini liquorosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 422/78 van de Commissie van 28 februari 1978 tot
+    wijziging van Verordening (EEG) nr. 2796/77 met betrekking tot de periode van
+    toepassing van de referentieprijzen voor likeurwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0422
+docidentifier:
+- content: EU Regulation 422/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0422
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/422/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-28'
+- type: implemented
+  at: '1978-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2796
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

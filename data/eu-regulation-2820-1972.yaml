@@ -1,0 +1,78 @@
+---
+id: EURegulation28201972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2820/72 de la Commission, du 22 décembre 1972, déterminant
+    les montants des éléments mobiles et les droits additionnels applicables, pendant
+    le premier trimestre de l'année 1973, à l'importation dans la Communauté des
+    marchandises relevant du règlement (CEE) n° 1059/69 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2820/72 der Kommission vom 22. Dezember 1972 zur Festsetzung
+    der Höhe der im ersten Vierteljahr 1973 bei der Einfuhr der unter die Verordnung
+    (EWG) Nr. 1059/69 des Rates fallenden Waren in die Gemeinschaft anwendbaren beweglichen
+    Teilbeträge und Zusatzzölle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2820/72 della Commissione, del 22 dicembre 1972, che
+    determina gli importi degli elementi mobili e i dazi addizionali applicabili durante
+    il primo trimestre 1973 all'importazione nella Comunità delle merci cui si applica
+    il regolamento (CEE) n. 1059/69 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2820/72 van de Commissie van 22 december 1972 tot
+    vaststelling van de bedragen der gedurende het eerste kwartaal van 1973 bij invoer
+    in de Gemeenschap van onder Verordening (EEG) nr. 1059/69 van de Raad vallende
+    goederen toe te passen variabele elementen en aanvullende invoerrechten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2820
+docidentifier:
+- content: EU Regulation 2820/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2820
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2820/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-22'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,107 @@
+---
+id: EURegulation3011985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 301/85 of 5 February 1985 derogating from
+    the quality standards for sweet peppers for the 1985 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 301/85 de la Commission du 5 février 1985 dérogeant
+    aux normes de qualité pour les poivrons ou piments doux pour la campagne 1985
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 301/85 der Kommission vom 5. Februar 1985 zur Abweichung
+    von den Qualitätsnormen für Gemüsepaprika bzw. Paprika ohne brennenden Geschmack
+    für das Wirtschaftsjahr 1985
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 301/85 af 5. februar 1985 om undtagelse
+    fra kvalitetsnormerne for sød peber for produktionsåret 1985
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 301/85 της Επιτροπής
+    της 5ης Φεβρουαρίου 1985 για την παρέκκλιση από
+    τους κανόνες ποιότητας για τις πιπεριές και
+    τις γλυκές πιπεριές για την περίοδο εμπορίας
+    1985
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 301/85 della Commissione del 5 febbraio 1985 che deroga
+    alle norme di qualità per i pimenti o peperoni dolci per la campagna 1985
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 301/85 van de Commissie van 5 februari 1985 houdende
+    afwijking van de kwaliteitsnormen voor paprika' s (niet scherp smakende pepers)
+    voor het verkoopseizoen 1985
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 301/85 de la Comisión, de 5 de febrero de 1985, por
+    el que se derogan las normas de calidad para los pimientos y los pimientos morrones
+    para la campaña 1985
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0301
+docidentifier:
+- content: EU Regulation 301/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0301
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/301/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-02-05'
+- type: implemented
+  at: '1985-02-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2397
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

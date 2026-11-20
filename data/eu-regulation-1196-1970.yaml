@@ -1,0 +1,74 @@
+---
+id: EURegulation11961970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1196/70 du Conseil, du 15 juin 1970, portant conclusion
+    d'un accord entre la Communauté économique européenne et l'Autriche sur le
+    bétail de fabrication
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1196/70 des Rates vom 15. Juni 1970 über den Abschluß
+    eines Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und Österreich
+    über Vieh zur Verarbeitung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1196/70 del Consiglio, del 15 giugno 1970, relativo
+    alla conclusione di un accordo tra la Comunità economica europea e l'Austria
+    sul bestiame destinato alla trasformazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1196/70 van de Raad van 15 juni 1970 houdende sluiting
+    van een Overeenkomst tussen de EEG en Oostenrijk inzake voor de verwerkende industrie
+    bestemd vee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1196
+docidentifier:
+- content: EU Regulation 1196/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1196
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1196/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-15'
+- type: implemented
+  at: '1970-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

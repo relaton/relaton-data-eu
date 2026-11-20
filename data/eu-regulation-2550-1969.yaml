@@ -1,0 +1,80 @@
+---
+id: EURegulation25501969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2550/69 de la Commission, du 19 décembre 1969, modifiant
+    le règlement (CEE) n° 2195/69 en ce qui concerne certains délais prévus pour
+    l'octroi de la prime à l'abattage de vaches
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2550/69 der Kommission vom 19. Dezember 1969 zur Änderung
+    der Verordnung (EWG) Nr. 2195/69 hinsichtlich gewisser Fristen für die Gewährung
+    der Prämie für die Schlachtung von Kühen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2550/69 della Commissione, del 19 dicembre 1969, che
+    modifica il regolamento (CEE) n. 2195/69 per quanto concerne taluni termini previsti
+    per la concessione di premi di macellazione delle vacche
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2550/69 van de Commissie van 19 december 1969 houdende
+    wijziging van Verordening (EEG) nr. 2195/69 met betrekking tot bepaalde termijnen
+    die zijn voorzien voor het toekennen van de premie voor het slachten van koeien
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2550
+docidentifier:
+- content: EU Regulation 2550/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2550
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2550/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-19'
+- type: implemented
+  at: '1969-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2195
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

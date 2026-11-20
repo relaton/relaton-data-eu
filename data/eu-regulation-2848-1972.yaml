@@ -1,0 +1,74 @@
+---
+id: EURegulation28481972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2848/72 de la Commission, du 29 décembre 1972, relatif
+    à la fourniture de lait écrémé en poudre destiné à certains pays tiers à
+    titre d'aide communautaire au Comité international de la Croix-Rouge
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2848/72 der Kommission vom 29. Dezember 1972 über
+    die Lieferung von Magermilchpulver nach bestimmten Drittländern als Gemeinschaftshilfe
+    zugunsten des Internationalen Komitees vom Roten Kreuz
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2848/72 della Commissione, del 29 dicembre 1972, relativo
+    alla fornitura di latte scremato in polvere destinato a taluni paesi terzi a titolo
+    d'aiuto comunitario al CICR
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2848/72 van de Commissie van 29 december 1972 betreffende
+    de levering van magere- melkpoeder aan bepaalde derde landen als gemeenschapshulp
+    aan het Internationaal Comité van het Rode Kruis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2848
+docidentifier:
+- content: EU Regulation 2848/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2848
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2848/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-29'
+- type: implemented
+  at: '1973-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

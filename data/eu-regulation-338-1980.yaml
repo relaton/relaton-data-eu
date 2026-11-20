@@ -1,0 +1,104 @@
+---
+id: EURegulation3381980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 338/80 of 13 February 1980 amending for
+    the fifth time Regulation (EEC) No 557/79 laying down detailed rules for the application
+    of the system of comsumption aid for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 338/80 de la Commission, du 13 février 1980, portant
+    cinquième modification du règlement (CEE) n° 557/79 relatif aux modalités
+    d' application du régime d' aide à la consommation pour l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 338/80 der Kommission vom 13. Februar 1980 zur fünften
+    Änderung der Verordnung (EWG) Nr. 557/79 über die Durchführungsvorschriften
+    für die Verbrauchsbeihilfe für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 338/80 af 13. februar 1980 om femte
+    ændring af forordning (EØF) nr. 557/79 om gennemførelsesbestemmelser for ordningen
+    vedrørende støtte til forbruget af olivenolie
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 338/80 τής Επιτροπής
+    τής 13ης Φεβρουαρίου 1980 περί τής πέμπτης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 557/79 «περί τών λεπτομερειών
+    εφαρμογής τού καθεστώτος ενισχύσεως στήν κατανάλωση
+    γιά τό ελαιόλαδο»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 338/80 della Commissione, del 13 febbraio 1980, recante
+    quinta modifica del regolamento (CEE) n. 557/79 recante modalità d' applicazione
+    del regime di aiuto al consumo per l' olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 338/80 van de Commissie van 13 februari 1980 tot
+    vijfde wijziging van Verordening (EEG) nr. 557/79 houdende uitvoeringsbepalingen
+    van de consumptiesteunregeling voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0338
+docidentifier:
+- content: EU Regulation 338/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0338
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/338/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-02-13'
+- type: implemented
+  at: '1980-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0557
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

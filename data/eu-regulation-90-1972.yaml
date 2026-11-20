@@ -1,0 +1,74 @@
+---
+id: EURegulation901972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 90/72 de la Commission, du 13 janvier 1972, portant
+    répartition des contingents quantitatifs communautaires à l'exportation pour
+    certains déchets et cendres de métaux non ferreux (cuivre, plomb, aluminium)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 90/72 der Kommission vom 13. Januar 1972 betreffend
+    die Aufteilung von mengenmäßigen Ausfuhrkontingenten der Gemeinschaft für bestimmte
+    Bearbeitungsabfälle und Aschen von NE-Metallen (Kupfer, Blei und Aluminium)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 90/72 della Commissione, del 13 gennaio 1972, che
+    ripartisce i contingenti quantitativi comunitari all'esportazione per alcuni cascami
+    e ceneri di metalli non ferrosi (rame, piombo, alluminio)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 90/72 van de Commissie van 13 januari 1972 betreffende
+    de verdeling van kwantitatieve communautaire uitvoercontingenten voor bepaalde
+    afvallen en assen van non-ferrometalen (koper, lood, aluminium)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0090
+docidentifier:
+- content: EU Regulation 90/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0090
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/90/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-01-13'
+- type: implemented
+  at: '1972-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

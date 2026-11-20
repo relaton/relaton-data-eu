@@ -1,0 +1,92 @@
+---
+id: EURegulation3061976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 306/76 of 12 February 1976 redefining the
+    destination zones for export refunds or levies on cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 306/76 de la Commission, du 12 février 1976, portant
+    nouvelle délimitation des zones de destination pour les restitutions ou les prélèvements
+    à l'exportation dans les secteurs de céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 306/76 der Kommission vom 12. Februar 1976 über eine
+    Begrenzung der Bestimmungszonen für die Erstattungen oder Abschöpfungen bei
+    der Ausfuhr für Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 306/76 af 12. februar 1976 om ny afgrænsning
+    af destinationszonerne for eksportrestitutioner eller -afgifter for korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 306/76 della Commissione, del 12 febbraio 1976, recante
+    nuova delimitazione delle zone di destinazione per le restituzioni o i prelievi
+    all'esportazione nei settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 306/76 van de Commissie van 12 februari 1976 houdende
+    een nieuwe afbakening van de zones van bestemming voor de restituties of de heffingen
+    bij uitvoer in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0306
+docidentifier:
+- content: EU Regulation 306/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0306
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/306/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-12'
+- type: implemented
+  at: '1976-02-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0941
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,104 @@
+---
+id: EURegulation32641982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3264/82 of 3 December 1982 amending Regulation
+    (EEC) No 3117/82 on the supply of common wheat to the World Food Programme as
+    food aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3264/82 de la Commission, du 3 décembre 1982, modifiant
+    le règlement (CEE) n° 3117/82 relatif à la livraison de froment tendre au Programme
+    alimentaire mondial au titre de l' aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3264/82 der Kommission vom 3. Dezember 1982 zur Änderung
+    der Verordnung (EWG) Nr. 3117/82 über die Lieferung von Weichweizen an das Welternährungsprogramm
+    im Rahmen der Nahrungsmittelhilfe
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3264/82 af 3. december 1982 om ændring
+    af forordning (EØF) nr. 3117/82 om levering af blød hvede til Verdensfødevareprogrammet
+    som fødevarehjælp
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3264/82 τής Επιτροπής
+    τής 3ης Δεκεμβρίου 1982 περί τροποποιήσεως τού
+    κανονισμού (EOK) αριθ. 3117/82 περί τής παραδόσεως
+    μαλακού σίτου στό Παγκόσμιο Επισιτιστικό Πρόγραμμα
+    (ΠΕΠ/PAM) βάσει τής επισιτιστικής βοήθειας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3264/82 della Commissione, del 3 dicembre 1982, recante
+    modifica del regolamento (CEE) n. 3117/82 relativo alla fornitura di frumento
+    tenero al Programma alimentare mondiale a titolo di aiuto alimentarea
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3264/82 van de Commissie van 3 december 1982 tot
+    wijziging van Verordening (EEG) nr. 3117/82 inzake de levering van zachte tarwe
+    aan het Wereldvoedselprogramma als voedselhulp
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R3264
+docidentifier:
+- content: EU Regulation 3264/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R3264
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/3264/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-12-03'
+- type: implemented
+  at: '1982-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R3117
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

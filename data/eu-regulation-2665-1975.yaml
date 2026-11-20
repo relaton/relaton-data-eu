@@ -1,0 +1,94 @@
+---
+id: EURegulation26651975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2665/75 of the Commission of 20 October 1975 altering
+    the frequency of partial invitations to tender for the export of sugar under Regulation
+    (EEC) No 2101/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2665/75 de la Commission, du 20 octobre 1975, modifiant
+    la fréquence des adjudications partielles effectuées en vertu du règlement
+    (CEE) n° 2101/75 pour l' exportation de sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2665/75 der Kommission vom 20. Oktober 1975 zur Änderung
+    des zeitlichen Abstands der gemäß der Verordnung (EWG) Nr. 2101/75 durchgeführten
+    Teilausschreibungen für die Ausfuhr von Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2665/75 af 20. oktober 1975 om ændring
+    af den rytme, hvormed der afholdes del-licitationer i medfør af forordning (EØF)
+    nr. 2101/75 med henblik på eksport af sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2665/75 della Commissione del 20 ottobre 1975, che
+    modifica la frequenza delle gare parziali effettuate ai sensi del regolamento
+    (CEE) n. 2101/75 per l' esportazione di zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2665/75 van de Commissie van 20 oktober 1975 tot
+    wijziging van de frequentie van de krachtens Verordening (EEG) nr. 2101/75 gehouden
+    deelinschrijvingen voor de uitvoer van suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2665
+docidentifier:
+- content: EU Regulation 2665/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2665
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2665/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-20'
+- type: implemented
+  at: '1975-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2101
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

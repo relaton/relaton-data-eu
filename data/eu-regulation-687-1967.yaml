@@ -1,0 +1,78 @@
+---
+id: EURegulation6871967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 687/67/CEE de la Commission du 9 octobre 1967 complétant
+    les règlements n° 282/67/CEE et 284/67/CEE relatifs aux graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 687/67/EWG der Kommission vom 9. Oktober 1967 zur Ergänzung
+    der Verordnungen Nr. 282/67/EWG und Nr. 284/67/EWG über Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 687/67/CEE della Commissione, del 9 ottobre 1967, che completa
+    i regolamenti n. 282/67/CEE e n. 284/67/CEE per quanto concerne i semi di colza
+    e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 687/67/EEG van de Commissie van 9 oktober 1967 houdende
+    aanvulling van de Verordeningen Nrs. 282/67/EEG en 284/67/EEG betreffende oliehoudende
+    zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0687
+docidentifier:
+- content: EU Regulation 687/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0687
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/687/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-09'
+- type: implemented
+  at: '1967-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0397
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

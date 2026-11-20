@@ -1,0 +1,69 @@
+---
+id: EURegulation10811968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1081/68 de la Commission, du 26 juillet 1968, relatif
+    à la qualité du blé dur pouvant être pris en charge par l'organisme d'intervention
+    en Italie pour la campagne 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1081/68 der Kommission vom 26. Juli 1968 über die
+    Qualität von Hartweizen, der von der Interventionsstelle in Italien im Wirtschaftsjahr
+    1968/1969 übernommen werden kann
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1081/68 della Commissione, del 26 luglio 1968, relativo
+    alla qualità di grano duro che, in Italia, può esser presa in consegna dall'organismo
+    d'intervento per la campagna 1968/1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1081/68 van de Commissie van 26 juli 1968 betreffende
+    de kwaliteit van harde tarwe die door het interventiebureau in Italië gedurende
+    het verkoopseizoen 1968/1969 kan worden aangenomen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1081
+docidentifier:
+- content: EU Regulation 1081/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1081
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1081/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation27381973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2738/73 of the Council of 8 October 1973 amending Regulation
+    (EEC) No 859/72 on the treatment to be accorded to certain fruit and vegetables
+    originating in Associated African States and Madagascar or in the Overseas Countries
+    and Territories
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2738/73 du Conseil, du 8 octobre 1973, modifiant le
+    règlement (CEE) n° 859/72 relatif au régime applicable à certains fruits et
+    légumes originaires des États africains et malgache associés ou des pays et
+    territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2738/73 des Rates vom 8. Oktober 1973 zur Änderung
+    der Verordnung (EWG) Nr. 859/72 über die Regelung für bestimmte Obst- und Gemüsesorten
+    mit Ursprung in den assoziierten afrikanischen Staaten und Madagaskar oder den
+    überseeischen Ländern und Gebieten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2738/73 af 8. oktober 1973 om ændring af
+    Rådets forordning (EØF) nr. 859/72 om ordningen for visse frugter og grønsager
+    med oprindelse i de associerede afrikanske stater og Madagaskar eller de oversøiske
+    lande og territorier
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2738/73 del Consiglio, dell'8 ottobre 1973, che modifica
+    il regolamento (CEE) n. 859/72 relativo al regime applicabile a taluni ortofrutticoli
+    originari degli Stati africani e malgascio associati o dei paesi e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2738/73 van de Raad van 8 oktober 1973 houdende wijziging
+    van Verordening (EEG) nr. 859/72 betreffende de regeling voor bepaalde soorten
+    groenten en fruit van oorsprong uit de geassocieerde Afrikaanse Staten en Madagaskar
+    of de landen en gebieden overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2738
+docidentifier:
+- content: EU Regulation 2738/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2738
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2738/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-08'
+- type: implemented
+  at: '1973-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0859
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

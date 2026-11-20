@@ -1,0 +1,128 @@
+---
+id: EURegulation301965
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 30/65/EEC, 4/65/Euratom of the Councils of 16 March 1965
+    amending the Staff Regulations of Officials and the Conditions of Employment of
+    Other Servants of the European Economic Community and the European Atomic Energy
+    Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 30/65/CEE, 4/65/Euratom des Conseils, du 16 mars 1965, portant
+    modification du statut des fonctionnaires et du régime applicable aux autres
+    agents de la C.E.E. et de la C.E.E.A.
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 30/65/EWG, 4/65/Euratom der Räte vom 16. März 1965 zur
+    Änderung des Statuts der Beamten und der Beschäftigungsbedingungen für die
+    sonstigen Bediensteten der Europäischen Wirtschaftsgemeinschaft und der Europäischen
+    Atomgemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 30/65/EØF, 4/65/EURATOM af 16. marts 1965 om ændring
+    af vedtægten for tjenestemænd og ansættelsesvilkårene for de øvrige ansatte
+    i Det europæiske Fællesskab og Det europæiske Atomenergifællesskab
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός αριθ. 30/65/ΕΟΚ, 4/65/Ευρατόμ των
+    Συμβουλίων της 16ης Μαρτίου 1965 περί τροποποίησης
+    του κανονισμού υπηρεσιακής κατάστασης των
+    υπαλλήλων και λοιπού προσωπικού της ΕΟΚ και
+    της ΕΚΑΕ
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 30/65/CEE, 4/65/Euratom dei Consigli, del 16 marzo 1965,
+    che modifica lo statuto dei funzionari e il regime applicabile agli altri agenti
+    della Comunità Economica Europea e della Comunità Europea dell' Energia Atomica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 30/65/EEG, 4/65/Euratom van de Raden van 16 maart 1965
+    houdende wijziging van het Statuut van de ambtenaren en van de regeling welke
+    van toepassing is op de andere personeelsleden van de Europese Economische Gemeenschap
+    en de Europese Gemeenschap voor Atoomenergie
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento n.° 30/65/CEE, 4/65/Euratom dos Conselhos, de 16 de Março
+    de 1965, que altera o Estatuto dos Funcionários e o Regime aplicável aos outros
+    agentes da Comunidade Económica Europeia e da Comunidade Europeia da Energia
+    Atómica
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento n° 30/65/CEE, 4/65/Euratom de los Consejos, de 16 de marzo
+    de 1965, relativo a la modificación del Estatuto de los funcionarios y del régimen
+    aplicable a los otros agentes de la Comunidad Económica Europea y de la Comunidad
+    Europea de la Energía Atómica
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0030
+docidentifier:
+- content: EU Regulation 30/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0030
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/30/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-16'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0031(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0031(02)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

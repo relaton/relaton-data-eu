@@ -1,0 +1,74 @@
+---
+id: EURegulation1501966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 150/66/CEE de la Commission, du 20 octobre 1966, portant
+    fixation des modalités suivant lesquelles le projet de plan de sondage doit être
+    élaboré par chaque État membre et transmis à la Commission
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 150/66/EWG der Kommission vom 20. Oktober 1966 über die
+    näheren Bestimmungen, nach denen die Mitgliedstaaten den Entwurf ihres Stichprobenplans
+    zu erstellen und der Kommission zu übermitteln haben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 150/66/CEE della Commissione, del 20 ottobre 1966, che stabilisce
+    le modalità in base alle quali il progetto di piano di sondaggio deve essere
+    elaborato dagli Stati membri e trasmesso alla Commissione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 150/66/EEG van de Commissie van 20 oktober 1966 tot vaststelling
+    van de wijze waarop het ontwerp-steekproefplan door de Lid-Staten moet worden
+    opgesteld en doorgegeven aan de Commissie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0150
+docidentifier:
+- content: EU Regulation 150/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0150
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/150/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-20'
+- type: implemented
+  at: '1966-10-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

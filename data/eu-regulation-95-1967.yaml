@@ -1,0 +1,76 @@
+---
+id: EURegulation951967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 95/67/CEE de la Commission, du 10 mai 1967, fixant la liste
+    des marchés représentatifs à la production pour les choux-fleurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 95/67/EWG der Kommission vom 10. Mai 1967 zur Festsetzung
+    der Liste der repräsentativen Erzeugermärkte für Blumenkohl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 95/67/CEE della Commissione, del 10 maggio 1967, che fissa
+    l'elenco dei mercati rappresentativi alla produzione per i cavolfiori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 95/67/EEG van de Commissie van 10 mei 1967 houdende vaststelling
+    van de lijst van representatieve produktiemarkten voor bloemkool
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0095
+docidentifier:
+- content: EU Regulation 95/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0095
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/95/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-10'
+- type: implemented
+  at: '1967-05-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0015
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

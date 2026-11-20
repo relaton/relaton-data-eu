@@ -1,0 +1,90 @@
+---
+id: EURegulation13481972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1348/72 of the Council of 27 June 1972 amending Regulation
+    (EEC) No 1619/68 on marketing standards for eggs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1348/72 du Conseil, du 27.juin 1972, modifiant le
+    règlement (CEE)" n° 1619/68 concernant certaines normes de commercialisation
+    applicables aux oeufs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1348/72 des Rates vom 27. Juni 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1619/68 über Vermarktungsnormen für Eier
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1348/72 af 27. juni 1972 om ændring af forordning
+    (EØF) nr. 1619/68 om handelsnormer for æg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1348/72 del Consiglio, del 27 giugno 1972, che modifica
+    il regolamento (CEE) n. 1619/68 relativo a talune norme di commercializzazione
+    applicabili alle uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1348/72 van de Raad van 27 juni 1972 houdende wijziging
+    van Verordening (EEG) nr. 1619/68 betreffende bepaalde handelsnormen voor eieren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1348
+docidentifier:
+- content: EU Regulation 1348/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1348
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1348/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-27'
+- type: implemented
+  at: '1972-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1619
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

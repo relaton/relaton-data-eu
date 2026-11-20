@@ -1,0 +1,73 @@
+---
+id: EURegulation391962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 39 du Conseil portant fixation du prix d'écluse pour les
+    oeufs en coquille, de cane, de dinde, d'oie et de pintade, destinés à la consommation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 39 des Rats über die Festsetzung des Einschleusungspreises
+    für Enteneier, Puteneier, Gänseeier und Perlhühnereier in der Schale, die zum
+    Verbrauch bestimmt sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 39 del Consiglio relativo alla fissazione del prezzo limite
+    delle uova in guscio di anatra, di tacchina, d'oca, e di faraona, destinate al
+    consumo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 39 van de Raad houdende vaststelling van de sluisprijs
+    voor eieren in de schaal die bestemd zijn voor consumptie, van eenden, kalkoenen,
+    ganzen en van parelhoenders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0039
+docidentifier:
+- content: EU Regulation 39/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0039
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/39/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-06-20'
+- type: implemented
+  at: '1962-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

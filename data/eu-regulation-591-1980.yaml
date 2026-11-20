@@ -1,0 +1,100 @@
+---
+id: EURegulation5911980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 591/80 of 11 March 1980 amending for the
+    12th time Regulation (EEC) No 2005/70 on the classification of vine varieties
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 591/80 de la Commission, du 11 mars 1980, portant
+    douzième modification du règlement (CEE) n° 2005/70 relatif au classement des
+    variétés de vigne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 591/80 der Kommission vom 11. März 1980 zur zwölften
+    Änderung der Verordnung (EWG) Nr. 2005/70 über die Klassifizierung der Rebsorten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 591/80 af 11. marts 1980 om tolvte
+    ændring af forordning (EØF) nr. 2005/70 om klassificering af vinstoksorter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 591/80 τής Επιτροπής
+    τής 11ης Μαρτίου 1980 περί δωδεκάτης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 2005/70 «περί κατατάξεως
+    τών ποικιλιών αμπέλου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 591/80 della Commissione, dell' 11 marzo 1980, recante
+    dodicesima modifica del regolamento (CEE) n. 2005/70 relativo alla classificazione
+    delle varietà di viti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 591/80 van de Commissie van 11 maart 1980 houdende
+    twaalfde wijziging van Verordening (EEG) nr. 2005/70 betreffende de indeling van
+    de wijnstokrassen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0591
+docidentifier:
+- content: EU Regulation 591/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0591
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/591/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-03-11'
+- type: implemented
+  at: '1980-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2005
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,112 @@
+---
+id: EURegulation13161975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1316/75 of the Commission of 23 May 1975 repealing
+    Regulations (EEC) No 1143/75, (EEC) No 3163/74 and (EEC) No 3165/74 on the amount
+    of the special export levy and the export charge on certain syrups and processed
+    products containing sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1316/75 de la Commission, du 23 mai 1975, portant
+    abrogation des règlements (CEE) n° 1143/75, (CEE) n° 3163/74 et (CEE) n 3165/74
+    concernant le montant du prélèvement spécial et de la taxe à l'exportation
+    applicables respectivement à certains sirops et produits transformés contenant
+    du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1316/75 der Kommission vom 23. Mai 1975 zur Aufhebung
+    der Verordnungen (EWG) Nr. 1143/75, (EWG) Nr. 3163/74 und (EWG) Nr. 3165/74 über
+    den Betrag der besonderen Ausfuhrabschöpfung und der Ausfuhrabgabe, die für
+    bestimmte Sirupe beziehungsweise für zuckerhaltige Verarbeitungserzeugnisse gelten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1316/75 af 23. maj 1975 om ophævelse
+    af forordningerne (EØF) nr. 1143/75, (EØF) nr. 3163/74 og (EØF) nr. 3165/74
+    vedrørende eksportafgiften og den særlige eksportafgift henholdsvis på visse
+    forarbejdede varer indeholdende sukker og på visse sirupper og andre sukkeropløsninger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1316/75 della Commissione, del 23 maggio 1975, che
+    abroga i regolamenti (CEE) n. 1143/75, (CEE) n. 3163/74 e (CEE) n. 3165/74 concernenti
+    l'importo del prelievo speciale e della tassa all'esportazione applicabile rispettivamente
+    a taluni sciroppi e prodotti trasformati contenenti zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1316/75 van de Commissie van 23 mei 1975 houdende
+    intrekking van de Verordeningen (EEG) nr. 1143/75, (EEG) nr. 3163/74 en (EEG)
+    nr. 3165/74 over het bedrag van de speciale heffing en de belasting bij uitvoer
+    die van toepassing zijn respectievelijk op bepaalde stropen en verwerkte produkten
+    die suiker bevatten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1316
+docidentifier:
+- content: EU Regulation 1316/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1316
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1316/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-23'
+- type: implemented
+  at: '1975-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3163
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3165
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1143
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

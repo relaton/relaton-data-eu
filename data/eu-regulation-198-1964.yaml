@@ -1,0 +1,72 @@
+---
+id: EURegulation1981964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 198/64/CEE de la Commission, du 22 décembre 1964, modifiant
+    les annexes du règlement n 157/64/CEE relatif aux ajustements et corrections
+    à effectuer lors de la détermination des prix franco frontière dans le secteur
+    du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 198/64/EWG der Kommission vom 22. Dezember 1964 zur Änderung
+    der Anhänge der Verordnung Nr. 157/64/EWG über die Angleichungen und Korrekturen,
+    die bei der Festsetzung der Frei-Grenze-Preise für Milch und Milcherzeugnisse
+    vorzunehmen sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 198/64/CEE della Commissione, del 22 dicembre 1964, recante
+    modifica agli allegati del regolamento n. 157/64/CEE relativo agli adattamenti
+    e correzioni da effettuare all'atto della determinazione dei prezzi franco frontiera
+    nel settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 198/64/EEG van de Commissie van 22 december 1964 houdende
+    wijziging van de bijlagen van Verordening no. 157/64/EEG betreffende de aanpassingen
+    van de prijzen franco-grens in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0198
+docidentifier:
+- content: EU Regulation 198/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0198
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/198/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation5331967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 533/67/CEE de la Commission, du 4 septembre 1967, complétant
+    le règlement n 428/67/CEE de la Commission en ce qui concerne certaines mesures
+    relatives aux certificats dans le secteur du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 533/67/EWG der Kommission vom 4. September 1967 zur Ergänzung
+    der Verordnung Nr. 428/67/EWG der Kommission bezüglich bestimmter MaDnahmen bei
+    den Lizenzen im Reissektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 533/67/CEE della Commissione, del 4 settembre 1967, che
+    completa il regolamento n. 428/67/CEE della Commissione per quanto concerne alcune
+    misure relative ai titoli nel settore del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 533/67/EEG van de Commissie van 4 september 1967 tot aanvulling
+    van Verordening no. 428/67/EEG van de Commissie inzake sommige maatregelen betreffende
+    de certificaten in de rijstsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0533
+docidentifier:
+- content: EU Regulation 533/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0533
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/533/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

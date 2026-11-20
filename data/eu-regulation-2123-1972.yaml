@@ -1,0 +1,78 @@
+---
+id: EURegulation21231972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2123/72 du Conseil, du 2 octobre 1972, portant ouverture,
+    répartition et mode de gestion d'un contingent tarifaire communautaire de vins
+    de Jumilla, Priorato, Rioja, Valdepenas de la sous-position EX 22.05 du tarif
+    douanier commun, originaires d'Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2123/72 des Rates vom 2. Oktober 1972 über die Eröffnung,
+    Aufteilung und Verwaltung eines Gemeinschaftszollkontingents für Jumilla-, Priorato-,
+    Rioja- und Valdepenas-Weine, der Tarifstelle ex 22.05 des Gemeinsamen Zolltarifs,
+    mit Ursprung in Spanien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2123/72 del Consiglio, del 2 ottobre 1972, relativo
+    all'apertura, alla ripartizione e alle modalità di gestione di un contingente
+    tariffario comunitario per i vini di Jumilla, Priorato, Rioja, Valdepenas, della
+    sottovoce ex 22.05 della tariffa doganale comune, originari della Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2123/72 van de Raad van 2 oktober 1972 betreffende
+    de opening, de verdeling en de wijze van beheer van een communautair tariefcontingent
+    voor jumilla-, priorato-, rioja- en valdepenaswijn, van onderverdeling ex 22.05
+    van het gemeenschappelijk douanetarief, van oorsprong uit Spanje
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2123
+docidentifier:
+- content: EU Regulation 2123/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2123
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2123/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-02'
+- type: implemented
+  at: '1972-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

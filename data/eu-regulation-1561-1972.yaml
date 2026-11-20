@@ -1,0 +1,80 @@
+---
+id: EURegulation15611972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1561/72 de la Commission, du 20 juillet 1972, portant
+    réouverture de l'adjudication permanente en matière d'exportation de sucre blanc
+    visée au règlement (CEE) n° 685/72
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1561/72 der Kommission vom 20. Juli 1972 zur Wiedereröffnung
+    der in der Verordnung (EWG) Nr. 685/72 vorgesehenen Dauerausschreibung für die
+    Ausfuhr von Weißzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1561/72 della Commissione, del 20 luglio 1972, relativo
+    alla riapertura della gara permanente in materia di esportazione di zucchero bianco
+    di cui al regolamento (CEE) n. 685/72
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1561/72 van de Commissie van 20 juli 1972 tot heropening
+    van de in de Verordening (EEG) nr. 685/72 bedoelde permanente openbare inschrijving
+    voor de uitvoer van witte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1561
+docidentifier:
+- content: EU Regulation 1561/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1561
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1561/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-20'
+- type: implemented
+  at: '1972-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0685
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

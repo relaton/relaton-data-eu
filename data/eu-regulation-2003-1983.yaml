@@ -1,0 +1,104 @@
+---
+id: EURegulation20031983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2003/83 of 18 July 1983 amending Regulation
+    (EEC) No 1760/78 on a common measure to improve public amenities in certain rural
+    areas
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2003/83 du Conseil du 18 juillet 1983 modifiant le
+    règlement (CEE) no 1760/78 relatif à l' action commune pour l' amélioration
+    de l' infrastructure dans certaines zones rurales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2003/83 des Rates vom 18. Juli 1983 zur Änderung
+    der Verordnung (EWG) Nr. 1760/78 über eine gemeinsame Maßnahme zur Verbesserung
+    der Infrastruktur in bestimmten ländlichen Gebieten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2003/83 af 18. juli 1983 om ændring af forordning
+    (EØF) nr. 1760/78 om en fælles foranstaltning til forbedring af infrastrukturerne
+    i visse landdistrikter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2003/83 του Συμβουλίου
+    της 18ης Ιουλίου 1983 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 1760/78 περί κοινής ενεργείας
+    για τη βελτίωση της υποδομής σε ορισμένες αγροτικές
+    περιοχές
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2003/83 del Consiglio del 18 luglio 1983 recante modifica
+    del regolamento (CEE) n. 1760/78 relativo ad un' azione comune per il miglioramento
+    delle infrastrutture in talune zone rurali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2003/83 van de Raad van 18 juli 1983 houdende wijziging
+    van Verordening (EEG) nr. 1760/78 betreffende een gemeenschappelijke actie tot
+    verbetering van de infrastructuur in bepaalde plattelandsgebieden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R2003
+docidentifier:
+- content: EU Regulation 2003/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R2003
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/2003/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-07-18'
+- type: implemented
+  at: '1983-07-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1760
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

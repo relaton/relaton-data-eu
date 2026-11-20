@@ -1,0 +1,103 @@
+---
+id: EURegulation21251982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2125/82 of 29 July 1982 amending Regulation
+    (EEC) No 1603/79 laying down rules for payment of a premium to producers of potato
+    starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2125/82 de la Commission, du 29 juillet 1982, modifiant
+    le règlement (CEE) n° 1603/79 fixant les modalités de paiement d' une prime
+    aux producteurs de fécule de pommes de terre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2125/82 der Kommission vom 29. Juli 1982 zur Änderung
+    der Verordnung (EWG) Nr. 1603/79 zur Festsetzung von Regeln für die Zahlung einer
+    Prämie an Erzeuger von Kartoffelstärkef
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2125/82 af 29. juli 1982 om ændring
+    af forordning (EØF) nr. 1603/79 om fastsættelse af regler for betaling af en
+    præmie til producenter af kartoffelstivelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 2125/82 τής Επιτροπής
+    τής 29ης Ιουλίου 1982 περί τροποποιήσεως τού κανονισμού
+    (EOK) αριθ. 1603/79 περί καθορισμού τού τρόπου καταβολής
+    πριμοδοτήσεως στούς παραγωγούς αμύλου πατάτας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2125/82 della Commissione, del 29 luglio 1982, che
+    modifica il regolamento (CEE) n. 1603/79 che stabilisce le modalità di versamento
+    di un premio ai fabbricanti di fecola patate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2125/82 van de Commissie van 29 juli 1982 houdende
+    wijziging van Verordening (EEG) nr. 1603/79 tot vaststelling van uitvoeringsbepalingen
+    voor de betaling van een premie aan de producenten van aardappelzetmeelt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R2125
+docidentifier:
+- content: EU Regulation 2125/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R2125
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/2125/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-07-29'
+- type: implemented
+  at: '1982-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1603
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

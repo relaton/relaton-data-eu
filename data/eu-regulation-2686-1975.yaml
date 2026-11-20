@@ -1,0 +1,94 @@
+---
+id: EURegulation26861975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2686/75 of the Commission of 22 October 1975 amending
+    Regulation No 91/66/EEC as regards the number of returning holdings per division
+    for the 1976 accounting year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2686/75 de la Commission, du 22 octobre 1975, modifiant
+    le règlement n° 91/66/CEE, du 29 juin 1966, en ce qui concerne le nombre d'
+    exploitations comptables par circonscription pour l' exercice comptable 1976
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2686/75 der Kommission vom 22. Oktober 1975 zur Änderung
+    der Verordnung Nr. 91/66/EWG vom 29. Juni 1966 hinsichtlich der Zahl der Buchführungsbetriebe
+    je Gebiet für das Rechnungsjahr 1976
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2686/75 af 22. oktober 1975 om ændring
+    af forordning nr. 91/66/EØF for så vidt angår antallet af regnskabsførende
+    bedrifter pr. område for regnskabsåret 1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2686/75 della Commissione, del 22 ottobre 1975, che
+    modifica il regolamento n. 91/66/CEE del 29 giugno 1966, relativamente al numero
+    di aziende contabili per circoscrizione per l' esercizio contabile 1976
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2686/75 van de Commissie van 22 oktober 1975 tot
+    wijziging van Verordening nr. 91/66/EEG van 29 juni 1966 met betrekking tot het
+    aantal bedrijven met boekhouding per streek voor het boekjaar ,,1976' '
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2686
+docidentifier:
+- content: EU Regulation 2686/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2686
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2686/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-22'
+- type: implemented
+  at: '1976-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0091
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,135 @@
+---
+id: EURegulation14201986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1420/86 of 6 May 1986 amending Regulations
+    (EEC) No 3542/85, No 3543/85 and No 3544/85 on the opening, allocation and administration
+    of Community tariff quotas for certain fish and fillets of fish
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1420/86 du Conseil du 6 mai 1986 modifiant les règlements
+    (CEE) n° 3542/85, (CEE) n° 3543/85 et (CEE) n° 3544/85, portant ouverture,
+    répartition et mode de gestion de contingents tarifaires communautaires pour
+    certains poissons et filets de poissons
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1420/86 des Rates vom 6. Mai 1986 zur Änderung der
+    Verordnungen (EWG) Nr. 3542/85, (EWG) Nr. 3543/85 und (EWG) Nr. 3544/85 zur Eröffnung,
+    Aufteilung und Verwaltung von Gemeinschaftszollkontingenten für bestimmte Fische
+    und Fischfilets
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1420/86 af 6. maj 1986 om ændring af forordning
+    (EØF) nr. 3542/85, (EØF) nr. 3543/85 og (EØF) nr. 3544/85 om åbning, fordeling
+    og forvaltning af fællesskabstoldkontingenter for visse fisk og filet af fisk
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1420/86 του Συμβουλίου
+    της 6ης Μαΐου 1986 για την τροποποίηση των κανονισμών
+    (ΕΟΚ) αριθ. 3542/85, (ΕΟΚ) αριθ. 3543/85 και (ΕΟΚ) αριθ.
+    3544/85 σχετικά με το άνοιγμα, κατανομή και τρόπο
+    διαχείρισης κοινοτικών δασμολογικών ποσοστώσεων
+    για ορισμένα ψάρια και φιλέτα ψαριών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1420/86 del Consiglio del 6 maggio 1986 che modifica
+    i regolamenti (CEE) n. 3542/85, (CEE) n. 3543/85 e (CEE) n. 3544/85 relativi all'
+    apertura, ripartizione e modalità di gestione di contingenti tariffari comunitari,
+    per taluni pesci e filetti di pesci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1420/86 van de Raad van 6 mei 1986 tot wijziging
+    van de Verordeningen (EEG) nr. 3542/85, (EEG) nr. 3543/85 en (EEG) nr. 3544/85
+    betreffende de opening, de verdeling en de wijze van beheer van communautaire
+    tariefcontingenten voor bepaalde soorten vis en visfilets
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1420/86 do Conselho de 6 de Maio de 1986 que altera
+    os Regulamentos (CEE) n.° 3542/85, (CEE) n.° 3543/85 e (CEE) n.° 3544/85, relativos
+    à abertura, repartição e modo de gestão de contingentes pautais comunitários
+    para certos peixes e filetes de peixes
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1420/86 del Consejo de 6 de mayo de 1986 por el que
+    se modifican los Reglamentos (CEE) n°s 3542/85, 3543/85 y 3544/85 relativos a
+    la apertura, reparto y modo de gestión de contingentes arancelarios comunitarios
+    para determinados pescados y filetes de pescado
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R1420
+docidentifier:
+- content: EU Regulation 1420/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R1420
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/1420/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-05-06'
+- type: implemented
+  at: '1986-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R3542
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R3543
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R3544
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

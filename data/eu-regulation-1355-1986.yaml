@@ -1,0 +1,141 @@
+---
+id: EURegulation13551986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1355/86 of 24 March 1986 amending Regulations
+    (EEC) No 2358/71, (EEC) No 2727/75 and (EEC) No 950/68 in respect of seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1355/86 du Conseil du 24 mars 1986 modifiant les règlements
+    (CEE) n° 2358/71, (CEE) n° 2727/75 et (CEE) n° 950/68 en ce qui concerne les
+    semences
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1355/86 des Rates vom 24. März 1986 zur Änderung
+    der Verordnungen (EWG) Nr. 2358/71, (EWG) Nr. 2727/75 und (EWG) Nr. 950/68 hinsichtlich
+    Saatgut
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1355/86 af 24. marts 1986 om ændring af
+    forordning (EØF) nr. 2358/71, (EØF) nr. 2727/75 og (EØF) nr. 950/68 for så
+    vidt angår frø
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1355/86 του Συμβουλίου
+    της 24ης Μαρτίου 1986 για την τροποποίηση των
+    κανονισμών (ΕΟΚ) αριθ. 2358/71, (ΕΟΚ) αριθ. 2727/75 και
+    (ΕΟΚ) αριθ. 950/68 όσον αφορά τους σπόρους προς
+    σπορά
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 1355/86, annettu 24 päivänä maaliskuuta 1986,
+    asetusten (ETY) N:o 2358/71, (ETY) N:o 2727/75 ja (ETY) N:o 950/68 muuttamisesta
+    siementen osalta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1355/86 del Consiglio del 24 marzo 1986 che modifica
+    i regolamenti (CEE) n. 2358/71, (CEE) n. 2727/75 e (CEE) n. 950/68 per quanto
+    riguarda le sementi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1355/86 van de Raad van 24 maart 1986 tot wijziging
+    van de Verordeningen (EEG) nr. 2358/71, (EEG) nr. 2727/75 en (EEG) nr. 950/68
+    voor wat zaaizaad betreft
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1355/86 do Conselho de 24 de Março de 1986 que
+    altera os regulamentos (CEE) n.° 2358/71, (CEE) n.° 2727/75 e (CEE) n.° 950/68
+    no que diz respeito às sementes
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1355/86 del Consejo de 24 de marzo de 1986 por el
+    que se modifican los Reglamentos (CEE) n° 2358/71, n° 2727/75 y n° 950/68 por
+    lo que respecta a las semillas
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 1355/86 av den 24 mars 1986 om ändring av
+    förordningarna (EEG) nr 2358/71, (EEG) nr 2727/75 och (EEG) nr 950/68 vad gäller
+    utsäde
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R1355
+docidentifier:
+- content: EU Regulation 1355/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R1355
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/1355/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-03-24'
+- type: implemented
+  at: '1986-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0950
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2358
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2727
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

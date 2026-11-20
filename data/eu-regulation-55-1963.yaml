@@ -1,0 +1,76 @@
+---
+id: EURegulation551963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 55/63/CEE du Conseil du 21 juin 1963 portant modification
+    du prix d'écluse pour les poules et poulets abattus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 55/63/EWG des Rats vom 21. Juni 1963 zur Änderung des Einschleusungspreises
+    für geschlachtete Hühner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 55/63/CEE del Consiglio del 21 giugno 1963 che modifica
+    il prezzo limite per i volatili da cortile macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 55/63/EEG van de Raad van 21 juni 1963 houdende wijziging
+    van de sluisprijs voor geslachte kippen en kuikens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0055
+docidentifier:
+- content: EU Regulation 55/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0055
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/55/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-06-21'
+- type: implemented
+  at: '1963-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0035
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

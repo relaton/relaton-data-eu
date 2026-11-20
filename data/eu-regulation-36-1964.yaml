@@ -1,0 +1,73 @@
+---
+id: EURegulation361964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 36/64/CEE du Conseil, du 25 mars 1964, portant fixation, pour
+    la période débutant le 1er juillet 1964, des limites des prix indicatifs des
+    États membres producteurs pour le riz et du prix de seuil des États membres
+    non producteurs pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 36/64/EWG des Rats vom 25. März 1964 über die Festsetzung
+    der Grenzen der Richtpreise der Erzeugermitgliedstaaten für Reis sowie über
+    die Festsetzung des Schwellenpreises der Mitgliedstaaten ohne eigene Erzeugung
+    für Reis und Bruchreis für den am 1. Juli 1964 beginnenden Zeitraum
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 36/64/CEE del Consiglio, del 25 marzo 1964, che fissa, per
+    il periodo che inizia il 1 luglio 1964, i limiti dei prezzi indicativi degli Stati
+    membri produttori relativamente al riso e il prezzo d'entrata degli Stati membri
+    non produttori relativamente al riso e alle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 36/64/EEG van de Raad van 25 maart 1964 houdende vaststelling
+    van de grenzen der richtprijzen voor rijst in de producerende Lid-Staten en van
+    de drempelprijs voor rijst en breukrijst in de nietproducerende Lid-Staten ten
+    aanzien van de op 1 juli 1964 aanvangende periode
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0036
+docidentifier:
+- content: EU Regulation 36/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0036
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/36/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

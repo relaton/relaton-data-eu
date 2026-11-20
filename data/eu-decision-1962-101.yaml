@@ -1,0 +1,70 @@
+---
+id: EUDecision1962101
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision du Conseil en date du 14 janvier 1962, concernant le passage
+    à la deuxième étape de la période de transition
+  type: main
+- language: de
+  script: Latn
+  content: Beschluß des Rats vom 14. Januar 1962 betreffend den Übergang zur zweiten
+    Stufe der Übergangszeit
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio in data 14 gennaio 1962 relativa al passaggio alla
+    seconda tappa del periodo transitorio
+  type: main
+- language: nl
+  script: Latn
+  content: Besluit van de Raad van 14 januari 1962 betreffende de overgang naar de
+    tweede etappe van de overgangsperiode
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962D0101P0164
+docidentifier:
+- content: EU Decision 1962/101
+  type: EU
+  primary: true
+- content: CELEX 31962D0101P0164
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1962/101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-01-14'
+- type: implemented
+  at: '1962-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

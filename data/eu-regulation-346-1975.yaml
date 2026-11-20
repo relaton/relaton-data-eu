@@ -1,0 +1,91 @@
+---
+id: EURegulation3461975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 346/75 of the Council of 10 February 1975 concerning
+    the importation into the Community of certain fishery products originating in
+    Tunisia
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 346/75 du Conseil, du 10 février 1975, relatif à
+    l'importation dans la Communauté de certains produits de la pêche originaires
+    de Tunisie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 346/75 des Rates vom 10. Februar 1975 über die Einfuhr
+    bestimmter Fischereierzeugnisse mit Ursprung in Tunesien in die Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 346/75 af 10. februar 1975 om indførsel
+    i Fællesskabet af visse fiskerivarer med oprindelse i Tunesien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 346/75 del Consiglio, del 10 febbraio 1975, relativo
+    all'importazione nella Comunità di determinati prodotti della pesca originari
+    della Tunisia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 346/75 van de Raad van 10 februari 1975 betreffende
+    de invoer in de Gemeenschap van bepaalde visserijprodukten van oorsprong uit Tunesië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0346
+docidentifier:
+- content: EU Regulation 346/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0346
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/346/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-02-10'
+- type: implemented
+  at: '1975-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0307
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

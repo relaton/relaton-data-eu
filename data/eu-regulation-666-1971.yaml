@@ -1,0 +1,81 @@
+---
+id: EURegulation6661971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 666/71 de la Commission, du 30 mars 1971, modifiant
+    le règlement (CEE) n° 1084/68 en ce qui concerne le taux de suspension du prélèvement
+    applicable à l'importation des viandes bovines destinées à la transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 666/71 der Kommission vom 30. März 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1084/68 betreffend den Aussetzungssatz, der auf die Einfuhren
+    von zur Verarbeitung bestimmtem gefrorenem Rindfleisch anzuwenden ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 666/71 della Commissione, del 30 marzo 1971, che modifica
+    il regolamento (CEE) n. 1084/68 per quanto riguarda il tasso di sospensione del
+    prelievo applicabile all'importazione delle carni bovine congelate atte alla trasformazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 666/71 van de Commissie van 30 maart 1971 houdende
+    wijziging van Verordening (EEG) nr. 1084/68 betreffende het percentage waarmee
+    de heffing bij de invoer van bevroren, voor de verwerking bestemd, rundvlees wordt
+    geschorst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0666
+docidentifier:
+- content: EU Regulation 666/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0666
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/666/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-30'
+- type: implemented
+  at: '1971-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1084
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

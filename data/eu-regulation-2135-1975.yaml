@@ -1,0 +1,93 @@
+---
+id: EURegulation21351975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2135/75 of the Commission of 14 August 1975 amending
+    Regulation No 282/67/EEC on detailed rules for intervention for oil seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2135/75 de la Commission, du 14 août 1975, modifiant
+    le règlement n° 282/67/CEE relatif aux modalités d' intervention pour les graines
+    oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2135/75 der Kommission vom 14. August 1975 zur Änderung
+    der Verordnung Nr. 282/67/EWG über Durchführungsbestimmungen betreffend die
+    Intervention bei Ölsaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2135/75 af 14. august 1975 om ændring
+    af forordning nr. 282/67/EØF om de nærmere regler for intervention ved olieholdige
+    frø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2135/75 della Commissione, del 14 agosto 1975, che
+    modifica il regolamento n. 282/67/CEE relativo alle modalità di intervento per
+    i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2135/75 van de Commissie van 14 augustus 1975 tot
+    wijziging van Verordening nr. 282/67/EEG betreffende de interventieregeling voor
+    oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2135
+docidentifier:
+- content: EU Regulation 2135/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2135
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2135/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-14'
+- type: implemented
+  at: '1976-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0282
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

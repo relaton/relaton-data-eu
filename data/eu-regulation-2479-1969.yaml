@@ -1,0 +1,75 @@
+---
+id: EURegulation24791969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2479/69 de la Commission, du 11 décembre 1969, fixant
+    le coefficient d'adaptation à appliquer au cours des oranges douces de catégorie
+    II en vue du calcul du prix d'entrée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2479/69 der Kommission vom 11. Dezember 1969 über
+    die Festsetzung eines Berichtigungskoeffizienten, der bei der Berechnung des Einfuhrpreises
+    auf die Notierungen von Süßorangen der Güteklasse II anzuwenden ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2479/69 della Commissione, dell'11 dicembre 1969,
+    che fissa un coefficiente di adattamento da applicare ai corsi delle arance dolci
+    di categoria II, per il calcolo del prezzo d'entrata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2479/69 van de Commissie van 11 december 1969 houdende
+    vaststelling van een aanpassingscoëfficiënt die op de prijzen van zoete sinaasappelen
+    van kwaliteitsklasse II moet worden toegepast met het oog op de berekening van
+    de invoerprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2479
+docidentifier:
+- content: EU Regulation 2479/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2479
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2479/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-11'
+- type: implemented
+  at: '1969-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

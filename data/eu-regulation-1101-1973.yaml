@@ -1,0 +1,114 @@
+---
+id: EURegulation11011973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1101/73 of the Commission of 26 April 1973 on a standing
+    invitation to tender for the sale for export of white sugar held by the French
+    intervention agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1101/73 de la Commission, du 26 avril 1973, concernant
+    une adjudication permanente pour la vente de sucre blanc détenu par l'organisme
+    d'intervention français et destiné à l'exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1101/73 der Kommission vom 26. April 1973 über eine
+    Dauerausschreibung zum Verkauf von Weißzucker, der zur Ausfuhr bestimmt ist und
+    sich im Besitz der französischen Interventionsstelle befindet
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1101/73 af 26. april 1973 om en løbende
+    licitation med henblik på salg af hvidt sukker bestemt til udførsel, som det
+    franske interventionsorgan ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1101/73 della Commissione, del 26 aprile 1973, relativo
+    ad una gara permanente per la vendita di zucchero bianco detenuto dall'organismo
+    d'intervento francese e destinato all'esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1101/73 van de Commissie van 26 april 1973 betreffende
+    een permanente openbare inschrijving voor de verkoop van witte suiker die in het
+    bezit is van het Franse interventiebureau en bestemd is voor uitvoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1101
+docidentifier:
+- content: EU Regulation 1101/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1101
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-26'
+- type: implemented
+  at: '1973-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0822
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1652
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0393
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0564
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0279
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

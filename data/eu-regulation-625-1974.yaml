@@ -1,0 +1,94 @@
+---
+id: EURegulation6251974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 625/74 of the Commission of 20 March 1974 on applications
+    to the Guarantee Section of the EAGGF for reimbursement in respect of the 1968/69
+    to 1970 accounting periods
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 625/74 de la Commission, du 20 mars 1974, relatif
+    aux demandes de remboursement au titre du FEOGA, section garantie, pour les périodes
+    de comptabilisation 1968/1969 à 1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 625/74 der Kommission vom 20. März 1974 über die
+    Anträge auf Rückvergütung für den EAGFL, Abteilung Garantie, für die Verbuchungszeiträume
+    1968/1969 bis 1970
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 625/74 af 20. marts 1974 om ansøgninger
+    om godtgørelse fra EUGFL - garantisektionen - for regnskabsperioderne 1968/1969
+    - 1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 625/74 della Commissione, del 20 marzo 1974, relativo
+    alle domande di rimborso a carico del FEAOG, sezione garanzia, per i periodi di
+    contabilizzazione dal 1968/1969 al 1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 625/74 van de Commissie van 20 maart 1974 betreffende
+    de verzoeken om vergoeding door het E.O.G.F.L., afdeling Garantie, voor de berekeningsperiodes
+    1968/1969 tot en met 1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0625
+docidentifier:
+- content: EU Regulation 625/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0625
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/625/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-20'
+- type: implemented
+  at: '1974-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0773
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

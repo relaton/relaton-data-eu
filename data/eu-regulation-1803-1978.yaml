@@ -1,0 +1,99 @@
+---
+id: EURegulation18031978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1803/78 of 28 July 1978 amending Regulation
+    (EEC) No 1629/77 laying down detailed rules of application for special intervention
+    measures to support the development of the market in common wheat of bread-making
+    quality
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1803/78 de la Commission, du 28 juillet 1978, modifiant
+    le règlement (CEE) n° 1629/77 portant modalités d' application des mesures
+    spéciales d' intervention destinées à soutenir le développement du marché
+    du froment tendre panifiable
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1803/78 der Kommission vom 28. Juli 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1629/77 über Durchführungsbestimmungen zu besonderen
+    Interventionsmaßnahmen zur Stützung der Marktentwicklung bei zur Brotherstellung
+    geeignetem Weichweizen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1803/78 af 28. juli 1978 om ændring
+    af forordning (EØF) nr. 1629/77 om gennemførelsesbestemmelser for særlige interventionsforanstaltninger
+    til opretholdelse af udviklingen på markedet for bageegnet blød hvede
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1803/78 della Commissione, del 28 luglio 1978, che
+    modifica il regolamento (CEE) n. 1629/77 recante modalità d' applicazione delle
+    misure particolari d' intervento intese a sostenere il mercato del frumento tenero
+    panificabile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1803/78 van de Commissie van 28 juli 1978 tot wijziging
+    van Verordening (EEG) nr. 1629/77 houdende uitvoeringsbepalingen met betrekking
+    tot de bijzondere interventiemaatregelen ter ondersteuning van de marktontwikkeling
+    voor zachte tarwe van bakkwaliteit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1803
+docidentifier:
+- content: EU Regulation 1803/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1803
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1803/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-07-28'
+- type: implemented
+  at: '1978-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1629
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

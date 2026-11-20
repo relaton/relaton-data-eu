@@ -1,0 +1,85 @@
+---
+id: EURegulation1731967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 173/67/CEE du Conseil, du 27 juin 1967, portant modification
+    de la désignation de certains produits du secteur de la viande de porc figurant
+    aux règlements n° 134/67/CEE et 137/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 173/67/EWG des Rates vom 27. Juni 1967 zur Änderung einiger
+    Warenbezeichnungen für bestimmte Erzeugnisse des Schweinefleischsektors in den
+    Verordnungen Nr. 134/67/EWG und Nr. 137/67/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 173/67/CEE del Consiglio, del 27 giugno 1967, che modifica
+    la denominazione di taluni prodotti del settore delle carni suine di cui ai regolamenti
+    n. 134/67/CEE e n. 137/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 173/67/EEG van de Raad van 27 juni 1967 tot wijziging van
+    de omschrijving van bepaalde produkten van de sector varkensvlees, welke voorkomen
+    in de Verordeningen Nrs. 134/67/EEG en 137/67/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0173
+docidentifier:
+- content: EU Regulation 173/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0173
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/173/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0134
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0137
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

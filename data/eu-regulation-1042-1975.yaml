@@ -1,0 +1,94 @@
+---
+id: EURegulation10421975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1042/75 of the Commission of 22 April 1975 concerning
+    the minimum free-at-factory price per 100 kg of potatoes and amending the Annex
+    to Regulation (EEC) No 1980/74
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1042/75 de la Commission, du 22 avril 1975, relatif
+    au prix minimal pour 100 kilogrammes de pommes de terre livrées franco usine
+    et modifiant l' annexe du règlement (CEE) n° 1980/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1042/75 der Kommission vom 22. April 1975 über den
+    vom Stärkehersteller zu zahlenden Mindestpreis frei Fabrik für 100 kg Kartoffeln
+    und zur Änderung des Anhangs der Verordnung (EWG) Nr. 1980/74
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1042/75 af 22. april 1975 om minimumsprisen
+    frit fabrik pr. 100 kg kartofler og om ændring af bilaget til forordning (EØF)
+    nr. 1980/74
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1042/75 della Commissione, del 22 aprile 1975, relativo
+    al prezzo minimo franco fabbrica da pagare per 100 kg di patate e recante modifica
+    dell' allegato del regolamento (CEE) n. 1980/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1042/75 van de Commissie van 22 april 1975 betreffende
+    de minimumprijs franco-fabriek per 100 kg aardappelen en houdende wijziging van
+    de bijlage bij Verordening (EEG) nr. 1980/74
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1042
+docidentifier:
+- content: EU Regulation 1042/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1042
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1042/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-22'
+- type: implemented
+  at: '1975-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1980
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

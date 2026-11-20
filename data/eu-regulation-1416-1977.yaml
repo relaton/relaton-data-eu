@@ -1,0 +1,100 @@
+---
+id: EURegulation14161977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1416/77 of 28 June 1977 extending, as regards
+    Spain, Regulation (EEC) No 373/77 laying down certain interim measures for the
+    conservation and management of fishery resources applicable to vessels flying
+    the flag of certain non-member countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1416/77 du Conseil, du 28 juin 1977, prorogeant, en
+    ce qui concerne l'Espagne, le règlement (CEE) n° 373/77 fixant certaines mesures
+    intérimaires de conservation et de gestion des ressources de pêche applicables
+    aux navires battant pavillon de certains pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1416/77 des Rates vom 28. Juni 1977 zur Verlängerung
+    - in bezug auf Spanien - der Geltungsdauer der Verordnung (EWG) Nr. 373/77 zur
+    Festlegung von Übergangsmaßnahmen zur Erhaltung und Bewirtschaftung der Fischereiressourcen
+    gegenüber Schiffen, die die Flagge bestimmter Drittländer führen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1416/77 af 28. juni 1977 om forlængelse
+    for så vidt angår Spanien af forordning (EØF) nr. 373/77 om midlertidige foranstaltninger
+    til bevarelse og regulering af fiskeressourcerne, som skal finde anvendelse på
+    fartøjer, der fører visse tredjelandes flag
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1416/77 del Consiglio, del 28 giugno 1977, che proroga,
+    per quanto riguarda la Spagna, il regolamento (CEE) n. 373/77, che fissa talune
+    misure interinali di conservazione e di gestione delle risorse ittiche, applicabili
+    alle navi battenti bandiera di taluni paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1416/77 van de Raad van 28 juni 1977 houdende verlenging,
+    voor wat Spanje betreft, van Verordening (EEG) nr. 373/77 tot vaststelling van
+    bepaalde overgangsmaatregelen voor de instandhouding en het beheer van de visbestanden,
+    die van toepassing zijn op vaartuigen die de vlag van sommige derde landen voeren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1416
+docidentifier:
+- content: EU Regulation 1416/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1416
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1416/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-06-28'
+- type: implemented
+  at: '1977-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0373
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

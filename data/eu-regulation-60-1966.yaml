@@ -1,0 +1,67 @@
+---
+id: EURegulation601966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 60/66/CEE de la Commission, du 7 juin 1966, relatif aux restitutions
+    applicables aux exportations de produits transformés à base de céréales et
+    de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 60/66/EWG der Kommission vom 7. Juni 1966 über die Erstattungen
+    bei der Ausfuhr von Verarbeitungserzeugnissen aus Getreide und aus Reis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 60/66/CEE della Commissione, del 7 giugno 1966, relativo
+    alle restituzioni applicabili alle esportazioni di prodotti trasformati a base
+    di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 60/66/EEG van de Commissie van 7 juni 1966 betreffende
+    de restituties voor de uitvoer van de op basis van granen en rijst verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0060
+docidentifier:
+- content: EU Regulation 60/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0060
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/60/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

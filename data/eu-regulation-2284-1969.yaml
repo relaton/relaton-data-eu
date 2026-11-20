@@ -1,0 +1,87 @@
+---
+id: EURegulation22841969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2284/69 de la Commission, du 17 novembre 1969, modifiant
+    le règlement (CEE) n° 2186/69 relatif à une adjudication permanente de lait
+    écrémé en poudre vendu par les organismes d'intervention, belge, allemand,
+    français et néerlandais et exportés dans les pays tiers sous forme de produits
+    transformés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2284/69 der Kommission vom 17. November 1969 zur Änderung
+    der Verordnung (EWG) Nr. 2186/69 über eine Dauerausschreibung von Magermilchpulver,
+    das aus Beständen der belgischen, der deutschen, der französischen und der niederländischen
+    Interventionsstelle verkauft und in Form von Verarbeitungserzeugnissen in dritte
+    Länder ausgeführt wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2284/69 della Commissione, del 17 novembre 1969, che
+    modifica il regolamento (CEE) n. 2186/69 relativo ad un'asta permanente per latte
+    scremato in polvere venduto dagli organismi d'intervento belga, tedesco, francese
+    e olandese ed esportato verso i paesi terzi sotto forma di prodotti trasformati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2284/69 van de Commissie van 17 november 1969 houdende
+    wijziging van Verordening (EEG) nr. 2186/69 betreffende een permanente verkoop
+    bij inschrijving van magere-melkpoeder uit de voorraden van het Belgische, het
+    Duitse, het Franse en het Nederlandse interventiebureau, bestemd voor uitvoer
+    naar derde landen in de vorm van verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2284
+docidentifier:
+- content: EU Regulation 2284/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2284
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2284/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-17'
+- type: implemented
+  at: '1969-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2186
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,95 @@
+---
+id: EURegulation22641974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2264/74 of the Commission of 30 August 1974 amending
+    Regulation (EEC) No 289/71 as regards the detailed rules for granting private
+    storage aid for certain types of preserved pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2264/74 de la Commission, du 30 août 1974, modifiant
+    le règlement (CEE) n° 289/71 en ce qui concerne les modalités d'application
+    de l'octroi d'aides au stockage privé pour certaines conserves de viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2264/74 der Kommission vom 30. August 1974 zur Änderung
+    der Verordnung (EWG) Nr. 289/71 hinsichtlich der Durchführungsbestimmungen für
+    die Gewährung von Beihilfen für die private Lagerhaltung von bestimmten Schweinefleischkonserven
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2264/74 af 30. august 1974 om ændring
+    af forordning (EØF) nr. 289/71 for så vidt angår gennemførelsesbestemmelserne
+    vedrørende ydelse af støtte til privat oplagring af visse former for svinekødkonserves
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2264/74 della Commissione, del 30 agosto 1974, che
+    modifica il regolamento (CEE) n. 289/71 per quanto riguarda le modalità d'applicazione
+    della concessione di aiuti all'ammasso privato per talune conserve di carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2264/74 van de Commissie van 30 augustus 1974 houdende
+    wijziging van Verordening (EEG) nr. 289/71 ten aanzien van de uitvoeringsbepalingen
+    betreffende de toekenning van steun aan de particuliere opslag voor bepaalde conserven
+    van varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2264
+docidentifier:
+- content: EU Regulation 2264/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2264
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2264/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-08-30'
+- type: implemented
+  at: '1974-09-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0289
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

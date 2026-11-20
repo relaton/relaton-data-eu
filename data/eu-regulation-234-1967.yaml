@@ -1,0 +1,67 @@
+---
+id: EURegulation2341967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 234/67/CEE de la Commission, du 30 juin 1967, concernant les
+    mesures transitoires pour le sucre non admis à la libre circulation au 1er juillet
+    1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 234/67/EWG der Kommission vom 30. Juni 1967 betreffend Übergangsbestimmungen
+    für am 1. Juli 1967 nicht im freien Verkehr befindlichen Zucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 234/67/CEE della Commissione, del 30 giugno 1967, relativo
+    alle misure transitorie per lo zucchero non ammesso alla libera circolazione al
+    1 luglio 1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 234/67/EEG van de Commissie van 30 juni 1967 houdende overgangsmaatregelen
+    voor suiker welke op 1 juli 1967 niet voor het vrije verkeer is toegelaten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0234
+docidentifier:
+- content: EU Regulation 234/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0234
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/234/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

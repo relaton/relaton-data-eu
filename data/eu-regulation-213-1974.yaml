@@ -1,0 +1,94 @@
+---
+id: EURegulation2131974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 213/74 of the Commission of 25 January 1974 amending
+    Regulation (EEC) No 2096/73 as regards the buying-in prices for permanent intervention
+    in respect of certain qualities of beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 213/74 de la Commission, du 25 janvier 1974, modifiant
+    le règlement (CEE) n° 2096/73 en ce qui concerne la fixation des prix d'achat
+    pour les interventions permanentes pour certaines qualités de bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 213/74 der Kommission vom 25. Januar 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2096/73 hinsichtlich der Festsetzung des Ankaufspreises
+    für die ständigen Interventionen bei bestimmten Rinderqualitäten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 213/74 af 25. januar 1974 om ændring
+    af forordning (EØF) nr. 2096/73 om fastsættelse af opkøbspriserne for de løbende
+    interventioner inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 213/74 della Commissione, del 25 gennaio 1974, che
+    modifica il regolamento (CEE) n. 2096/73 relativamente alla fissazione dei prezzi
+    d'acquisto per gli interventi permanenti per alcune qualità di bovini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 213/74 van de Commissie van 25 januari 1974 tot wijziging
+    van Verordening (EEG) nr. 2096/73 ten aanzien van de vaststelling van de aankoopprijzen
+    voor de permanente interventie voor bepaalde kwaliteiten van runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0213
+docidentifier:
+- content: EU Regulation 213/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0213
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/213/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-01-25'
+- type: implemented
+  at: '1974-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2096
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

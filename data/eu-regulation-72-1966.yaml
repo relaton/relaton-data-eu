@@ -1,0 +1,75 @@
+---
+id: EURegulation721966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 72/66/CEE de la Commission, du 28 juin 1966, portant prorogation
+    du règlement n 40/66/CEE de la Commission, du 6 avril 1966, fixant le montant
+    maximum des restitutions applicables aux exportations vers les pays tiers de viande
+    bovine congelée n'ayant pas fait l'objet de mesures d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 72/66/EWG der Kommission vom 28. Juni 1966 betreffend die
+    Verlängerung der Verordnung Nr. 40/66/EWG der Kommission vom 6. April 1966 über
+    die Festsetzung der Höchstbeträge der Erstattung für Ausfuhren von gefrorenem
+    Rindfleisch, das nicht Gegenstand von InterventionsmaDnahmen war, nach dritten
+    Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 72/66/CEE della Commissione, del 28 giugno 1966, che proroga
+    il regolamento n. 40/66/CEE della Commissione, del 6 aprile 1966, che fissa l'importo
+    massimo delle restituzioni applicabili alle esportazioni verso i paesi terzi di
+    carni bovine congelate che non sono state oggetto di misure d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 72/66/EEG van de Commissie van 28 juni 1966 met betrekking
+    tot verlenging van Verordening no. 40/66/EEG van de Commissie van 6 april 1966
+    houdende vaststelling van het maximumbedrag van de restitutie, van toepassing
+    op de uitvoer naar derde landen van bevroren rundvlees, dat niet van interventiemaatregelen
+    afkomstig is
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0072
+docidentifier:
+- content: EU Regulation 72/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0072
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/72/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

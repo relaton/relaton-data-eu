@@ -1,0 +1,80 @@
+---
+id: EURegulation24361969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2436/69 du Conseil, du 6 décembre 1969, portant ouverture,
+    répartition et mode de gestion du contingent tarifaire communautaire de raisins
+    secs, de la sous-position 08.04 B du tarif douanier commun, présentés en emballages
+    immédiats d'un contenu net inférieur ou égal à 15 kilogrammes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2436/69 des Rates vom 6. Dezember 1969 über die Eröffnung,
+    Aufteilung und Verwaltung des Gemeinschaftszollkontingents für getrocknete Weintrauben
+    der Tarifstelle 08.04 B des Gemeinsamen Zolltarifs, in Umschließungen mit einem
+    Gewicht des Inhalts von 15 kg oder weniger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2436/69 del Consiglio, del 6 dicembre 1969, relativo
+    all'apertura, alla ripartizione e al modo di gestione del contingente tariffario
+    comunitario per le uve secche, della sottovoce 08.04 B della tariffa doganale
+    comune, presentate in imballaggi immediati di un contenuto netto inferiore o uguale
+    a 15 chilogrammi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2436/69 van de Raad van 6 december 1969 houdende
+    opening, verdeling en wijze van beheer van het communautaire tariefcontingent
+    voor rozijnen en krenten, van de onderverdeling 08.04 B van het gemeenschappelijk
+    douanetarief, in verpakkingen met een netto-inhoud per onmiddellijke verpakking
+    van 15 kilogram of minder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2436
+docidentifier:
+- content: EU Regulation 2436/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2436
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2436/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-06'
+- type: implemented
+  at: '1969-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,72 @@
+---
+id: EURegulation6451968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 645/68 du Conseil, du 29 mai 1968, établissant des
+    règles transitoires relatives à la perception des prélèvements dans le secteur
+    de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 645/68 des Rates vom 29. Mai 1968 über die Aufstellung
+    von Übergangsregelungen hinsichtlich der Erhebung der Abschöpfungen bei Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 645/68 del Consiglio, del 29 maggio 1968, che stabilisce
+    norme transitorie relative alla riscossione dei prelievi nel settore delle carni
+    bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 645/68 van de Raad van 29 mei 1968 houdende overgangsvoorschriften
+    betreffende het innen van de heffingen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0645
+docidentifier:
+- content: EU Regulation 645/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0645
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/645/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-29'
+- type: implemented
+  at: '1968-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

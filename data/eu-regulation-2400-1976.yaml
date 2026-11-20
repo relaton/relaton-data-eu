@@ -1,0 +1,100 @@
+---
+id: EURegulation24001976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2400/76 of 1 October 1976 amending for the
+    seventh time Regulation (EEC) No 2005/70 on the classification of vine varieties
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2400/76 de la Commission, du 1er octobre 1976, portant
+    septième modification du règlement (CEE) n° 2005/70 relatif au classement des
+    variétés de vigne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2400/76 der Kommission vom 1. Oktober 1976 zur siebten
+    Änderung der Verordnung (EWG) Nr. 2005/70 über die Klassifizierung der Rebsorten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2400/76 af 1. oktober 1976 om syvende
+    ændring af forordning (EØF) nr. 2005/70 om klassificering af vinstoksorterne
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2400/76 τής Επιτροπής
+    τής 1ης Οκτωβρίου 1976 περί εβδόμης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 2005/70 «περί τής κατατάξεως
+    τών ποικιλιών αμπέλου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2400/76 della Commissione, del 1° ottobre 1976, recante
+    settima modifica del regolamento (CEE) n. 2005/70, relativo alla classificazione
+    delle varietà di viti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2400/76 van de Commissie van 1 oktober 1976 houdende
+    zevende wijziging van Verordening (EEG) nr. 2005/70 betreffende de indeling van
+    de wijnstokrassen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2400
+docidentifier:
+- content: EU Regulation 2400/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2400
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2400/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-10-01'
+- type: implemented
+  at: '1976-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2005
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

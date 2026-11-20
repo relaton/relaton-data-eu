@@ -1,0 +1,137 @@
+---
+id: EURegulation11981986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1198/86 of 22 April 1986 amending, as a result
+    of the accession of Spain, Regulations (EEC) No 1520/85, (EEC) No 1521/85 and
+    (EEC) No 1522/85 in respect of Community tariff quotas for certain wines originating
+    in Spain
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1198/86 du Conseil du 22 avril 1986 modifiant, suite
+    à l' adhésion de l' Espagne, les règlements (CEE) n° 1520/85, (CEE) n° 1521/85
+    et (CEE) n° 1522/85 relatifs aux contingents tarifaires communautaires de certains
+    vins originaires d' Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1198/86 des Rates vom 22. April 1986 zur durch den
+    Beitritt Spaniens bedingten Änderung der Verordnungen (EWG) Nr. 1520/85, (EWG)
+    Nr. 1521/85 und (EWG) Nr. 1522/85 über Gemeinschaftszollkontingente für bestimmte
+    Weine mit Ursprung in Spanien
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1198/86 af 22. april 1986 om ændring, som
+    følge af Spaniens tiltrædelse, af forordning (EØF) nr. 1520/85, (EØF) nr.
+    1521/85 og (EØF) nr. 1522/85 vedrørende fællesskabstoldkontingenterne for visse
+    vine med oprindelse i Spanien
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1198/86 του Συμβουλίου
+    της 22ας Απριλίου 1986 για την τροποποίηση, λόγω
+    της προσχώρησης της Ισπανίας, των κανονισμών
+    (ΕΟΚ) αριθ. 1520/85, (ΕΟΚ) αριθ. 1521/85 και (ΕΟΚ) αριθ.
+    1522/85 σχετικά με τις κοινοτικές δασμολογικές
+    ποσοστώσεις ορισμένων οίνων καταγωγής Ισπανίας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1198/86 del Consiglio del 22 aprile 1986 che modifica,
+    in seguito all' adesione della Spagna, i regolamenti (CEE) n. 1520/85, (CEE) n.
+    1521/85 e (CEE) n. 1522/85 relativi ai contingenti tariffari comunitari per alcuni
+    vini originari della Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1198/86 van de Raad van 22 april 1986 tot wijziging,
+    naar aanleiding van de toetreding van Spanje, van de Verordeningen (EEG) nr. 1520/85,
+    (EEG) nr. 1521/85 en (EEG) nr. 1522/85 inzake de communautaire tariefcontingenten
+    voor bepaalde wijnen van oorsprong uit Spanje
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1198/86 do Conselho de 22 de Abril de 1986 que altera,
+    na sequência da adesão de Espanha, os Regulamentos (CEE) n.° 1520/85, (CEE)
+    n.° 1521/85 e (CEE) n.° 1522/85 relativos aos contingentes pautais comunitários
+    para certos vinhos originários de Espanha
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1198/86 del Consejo de 22 abril de 1986 por el que
+    se modifican, como consecuencia de la adhesión de España, los Reglamentos (CEE)
+    n°s 1520/85, 1521/85 y 1522/85 relativos a los contingentes arancelarios comunitarios
+    de determinados vinos originarios de España
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R1198
+docidentifier:
+- content: EU Regulation 1198/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R1198
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/1198/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-04-22'
+- type: implemented
+  at: '1986-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R1520
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R1521
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R1522
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

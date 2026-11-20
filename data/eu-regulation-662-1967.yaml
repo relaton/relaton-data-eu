@@ -1,0 +1,81 @@
+---
+id: EURegulation6621967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 662/67/CEE du Conseil, du 26 septembre 1967, prorogeant
+    le règlement n° 281/67/CEE fixant les montants maxima de la restitution à la
+    production pour les sucres utilisés dans l'industrie chimique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 662/67/EWG des Rates vom 26. September 1967 zur Verlängerung
+    der Verordnung Nr. 281/67/EWG über die Festsetzung der Höchstbeträge der Erstattung
+    bei der Erzeugung für Zucker, der in der chemischen Industrie verwendet wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 662/67/CEE del Consiglio, del 26 settembre 1967, che proroga
+    il regolamento n. 281/67/CEE che fissa gli importi massimi della restituzione
+    alla produzione per gli zuccheri utilizzati nell'industria chimica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 662/67/EEG van de Raad van 26 september 1967 tot verlenging
+    van de geldigheidsduur van Verordening Nr. 281/67/EEG tot vaststelling van de
+    maximumbedragen van de restitutie bij de produktie voor in de chemische industrie
+    gebruikte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0662
+docidentifier:
+- content: EU Regulation 662/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0662
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/662/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-26'
+- type: implemented
+  at: '1967-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0281
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

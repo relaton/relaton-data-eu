@@ -1,0 +1,87 @@
+---
+id: EURegulation571967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 57/67/CEE du Conseil, du 21 mars 1967, prorogeant le régime
+    spécial relatif au calcul du prélèvement de certains laits en poudre, des fromages
+    fondus et des laits spéciaux dits "pour nourrissons", prévu par les règlements
+    n° 113/66/CEE et n 226/66/CEE, et modifiant l'article 1er du règlement n° 113/66/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 57/67/EWG des Rates vom 21. März 1967 zur Verlängerung
+    der in den Verordnungen Nr. 113/66/EWG und Nr. 226/66/EWG vorgesehenen Sonderregelung
+    für die Berechnung des Abschöpfungsbetrags für bestimmte Milchpulversorten,
+    Schmelzkäse und Schmelzkäsezubereitungen und Milch zur Ernährung von Säuglingen
+    sowie zur Änderung von Artikel 1 der Verordnung Nr. 113/66/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 57/67/CEE del Consiglio, del 21 marzo 1967, che proroga
+    il regime speciale relativo al calcolo del prelievo per alcuni tipi di latte in
+    polvere, per i formaggi fusi e per alcuni tipi speciali di latte detti «per l'alimentazione
+    dei lattanti», previsto dal regolamento n. 113/66/CEE e dal regolamento n. 226/66/CEE,
+    e che modifica l'articolo 1 del regolamento n. 113/66/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 57/67/EEG van de Raad van 21 maart 1967 houdende verlenging
+    van de speciale regeling betreffende de berekening van de heffing op bepaalde
+    soorten melk in poedervorm, op smeltkaas en bijzondere melk voor zuigelingen,
+    bedoeld in Verordening Nr. 113/66/EEG en Verordening Nr. 226/66/EEG en wijziging
+    van artikel 1 van Verordening Nr. 113/66/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0057
+docidentifier:
+- content: EU Regulation 57/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0057
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/57/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-21'
+- type: implemented
+  at: '1967-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0226
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation12521971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1252/71 of the Council of 14 June 1971 amending the
+    intervention system provided for in Regulation No 121/67/EEC on the common organisation
+    of the market in pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1252/71 du Conseil, du 14 juin 1971, modifiant le
+    système d'intervention prévu par le règlement n° 121/67/CEE portant organisation
+    commune des marchés dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1252/71 des Rates vom 14. Juni 1971 zur Änderung
+    der in der Verordnung Nr. 121/67/EWG über die gemeinsame Marktorganisation für
+    Schweinefleisch vorgesehenen Interventionsregelung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1252/71 af 14. juni 1971 om ændring af den
+    interventionsordning, der omhandles i forordning nr. 121/67/EØF om den fælles
+    markedsordning for svinekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1252/71 del Consiglio, del 14 giugno 1971, che modifica
+    il sistema d' intervento previsto dal regolamento n. 121/67/CEE relativo all'
+    organizzazione comune dei mercati nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1252/71 van de Raad van 14 juni 1971 tot wijziging
+    van de interventieregeling vastgesteld bij Verordening nr. 121/67/EEG houdende
+    een gemeenschappelijke ordening der markten in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1252
+docidentifier:
+- content: EU Regulation 1252/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1252
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1252/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-14'
+- type: implemented
+  at: '1971-06-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0121
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

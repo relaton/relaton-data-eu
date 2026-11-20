@@ -1,0 +1,74 @@
+---
+id: EUDecision1961715
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision du Conseil relative à la modification du droit du Tarif douanier
+    commun applicable aux cuirs et peaux chamoises (position 41.06)
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung des Rats über die Änderung des Zollsatzes des Gemeinsamen
+    Zolltarifs für Sämischleder (Tarifnr. 41.06)
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio relativa alla modifica del dazio della tariffa
+    doganale comune applicabile ai cuoi e pelli, scamosciati (voce 41.06)
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Raad houdende wijziging van het recht van het gemeenschappelijke
+    douanetarief voor zeemleder (post 41.06)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31961D0715P1040
+docidentifier:
+- content: EU Decision 1961/715
+  type: EU
+  primary: true
+- content: CELEX 31961D0715P1040
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1961/715/oj
+  type: ELI
+date:
+- type: issued
+  at: '1961-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31960D0201P1537
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

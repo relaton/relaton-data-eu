@@ -1,0 +1,94 @@
+---
+id: EURegulation6841979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 684/79 of 5 April 1979 amending Regulation
+    (EEC) No 950/68 on the Common Customs Tariff as regards the nomenclature of hybrid
+    maize intended for sowing
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 684/79 de la Commission, du 5 avril 1979, modifiant
+    le règlement (CEE) n° 950/68 relatif au tarif douanier commun en ce qui concerne
+    la nomenclature du maïs hybride destiné à l' ensemencement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 684/79 der Kommission vom 5. April 1979 zur Änderung
+    der Verordnung (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif bezüglich des
+    Zolltarifschemas für Hybridmais zur Aussaat
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 684/79 af 5. april 1979 om ændring
+    af forordning (EØF) nr. 950/68 om den fælles toldtarif, for så vidt angår
+    nomenklaturen for hybridmajs til udsæd
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 684/79 della Commissione, del 5 aprile 1979, che modifica
+    il regolamento (CEE) n. 950/68 relativo alla tariffa doganale comune per quanto
+    concerne la nomenclatura del granturco ibrido destinato alla semina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 684/79 van de Commissie van 5 april 1979 tot wijziging
+    van Verordening (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief,
+    ten aanzien van de nomenclatuur voor maïshybriden voor zaaidoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0684
+docidentifier:
+- content: EU Regulation 684/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0684
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/684/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-04-05'
+- type: implemented
+  at: '1979-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2800
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

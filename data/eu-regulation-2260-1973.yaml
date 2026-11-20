@@ -1,0 +1,98 @@
+---
+id: EURegulation22601973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2260/73 of the Commission of 17 August 1973 laying
+    down the bases for calculating the levy on certain kinds of frozen beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2260/73 de la Commission, du 17 août 1973, relatif
+    à la détermination des éléments de calcul du prélèvement pour certaines
+    viandes bovines congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2260/73 der Kommission vom 17. August 1973 über die
+    Bestimmung der Grundlagen zur Berechnung der Abschöpfungen für bestimmte Angebotsformen
+    von gefrorenem Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2260/73 af 17. august 1973 om bestemmelse
+    af beregningselementer for importafgiften på visse tilbudsformer for frosset
+    oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2260/73 della Commissione, del 17 agosto 1973, relativo
+    alla determinazione degli elementi di calcolo del prelievo per talune carni bovine
+    congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2260/73 van de Commissie van 17 augustus 1973 betreffende
+    de vaststelling van de elementen voor de berekening van de heffing voor bepaalde
+    soorten bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2260
+docidentifier:
+- content: EU Regulation 2260/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2260
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2260/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-08-17'
+- type: implemented
+  at: '1973-09-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1072
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0001
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

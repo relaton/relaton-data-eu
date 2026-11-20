@@ -1,0 +1,92 @@
+---
+id: EURegulation8851973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 885/73 of the Council of 31 March 1973 on the non-application
+    of the first subparagraph of Article 4a (2) of Regulation (EEC) No 974/71 to sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 885/73 du Conseil, du 31 mars 1973, relatif à la
+    non-application de l'article 4 bis paragraphe 2 premier alinéa du règlement
+    (CEE) n° 974/71 dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 885/73 des Rates vom 31. März 1973 über die Nichtanwendung
+    des Artikels 4a Absatz 2 Unterabsatz 1 der Verordnung (EWG) Nr. 974/71 im Zuckersektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 885/73 af 31. marts 1973 om ikke-anvendelse
+    af artikel 4a, stk. 2, første afsnit i forordning (EØF) nr. 974/71 for så vidt
+    angår sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 885/73 del Consiglio, del 31 marzo 1973 relativo alla
+    non-applicazione dell'articolo 4 bis, paragrafo 2, primo comma del regolamento
+    (CEE) n. 974/71 nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 885/73 van de Raad van 31 maart 1973 betreffende
+    het niet-toepassen van artikel 4 bis, lid 2, eerste alinea, van Verordening (EEG)
+    nr. 974/71 in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0885
+docidentifier:
+- content: EU Regulation 885/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0885
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/885/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-31'
+- type: implemented
+  at: '1973-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0974
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

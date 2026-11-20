@@ -1,0 +1,66 @@
+---
+id: EURegulation2421971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 242/71 de la Commission, du 3 février 1971, modifiant
+    le prélèvement applicable à certains fromages importés de Bulgarie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 242/71 der Kommission vom 3. Februar 1971 zur Änderung
+    der Abschöpfung für bestimmte aus Bulgarien eingeführte Käsesorten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 242/71 della Commissione, del 3 febbraio 1971, che
+    modifica il prelievo all'importazione per taluni formaggi importati dalla Bulgaria
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 242/71 van de Commissie van 3 februari 1971 tot wijziging
+    van de heffing die wordt toegepast bij de invoer van bepaalde kaassoorten uit
+    Bulgarije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0242
+docidentifier:
+- content: EU Regulation 242/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0242
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/242/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

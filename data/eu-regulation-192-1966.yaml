@@ -1,0 +1,95 @@
+---
+id: EURegulation1921966
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation No 192/66/EEC of 30 November 1966 modifying Regulations
+    172/66/EEC and 173/66/EEC concerning the setting of the C.I.F. price and the free-
+    at-frontier price for olive oils which have not been refined
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 192/66/CEE de la Commission, du 30 novembre 1966, portant
+    modification des règlements n° 172/66/CEE et n° 173/66/CEE, en ce qui concerne
+    la détermination du prix CAF et du prix franco frontière pour les huiles d'olive
+    n'ayant pas subi un processus de raffinage
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG NR. 192/66/EWG DER KOMMISSION VOM 30. NOVEMBER 1966 ZUR AENDERUNG
+    DER VERORDNUNGEN NR. 172/66/EWG UND NR. 173/66/EWG BETREFFEND DIE ERMITTLUNG DES
+    CIF-PREISES UND DES FREI-GRENZE-PREISES FUER NICHT RAFFINIERTE OLIVENOELE
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 192/66/CEE della Commissione, del 30 novembre 1966, che
+    modifica i regolamenti nn. 172/66/CEE e 173/66/CEE, per quanto riguarda la determinazione
+    del prezo cif e del prezzo franco frontiera per gli oli d' oliva che non hanno
+    subito un processo di raffinazione
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING NO. 192/66/EEG VAN DE COMMISSIE VAN 30 NOVEMBER 1966 MET BETREKKING
+    TOT WIJZIGING VAN DE VERORDENINGEN NO. 172/66/EEG EN NO. 173/66/EEG BETREFFENDE
+    DE VASTSTELLING VAN DE C.I.F.-PRIJS EN DE PRIJS FRANCO-GRENS VOOR OLIJFOLIE WELKE
+    NIET AAN EEN RAFFINAGEPROCES ONDERWORPEN IS GEWEEST
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0192
+docidentifier:
+- content: EU Regulation 192/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0192
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/192/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-30'
+- type: implemented
+  at: '1966-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0172
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0173
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

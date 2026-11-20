@@ -1,0 +1,71 @@
+---
+id: EURegulation1971969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 197/69 de la Commission, du 31 janvier 1969, modifiant
+    le règlement (CEE) n 1262/68 en ce qui concerne la restitution à accorder au
+    beurre livré à certaines forces étrangères stationnées en Europe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 197/69 der Kommission vom 31. Januar 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1262/68 hinsichtlich der Erstattung, die für an bestimmte
+    in Europa stationierte ausländische Streitkräfte gelieferte Butter gewährt
+    wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 197/69 della Commissione, del 31 gennaio 1969, relativo
+    alla modifica del regolamento (CEE) n. 1262/68 per quanto si riferisce alla restituzione
+    da concedere in favore del burro consegnato ad alcune forze armate straniere di
+    stanza in Europa
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 197/69 van de Commissie van 31 januari 1969 houdende
+    wijziging van Verordening (EEG) nr. 1262/68 voor wat betreft de te verlenen restitutie
+    voor aan bepaalde in Europa gelegerde vreemde strijdkrachten geleverde boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0197
+docidentifier:
+- content: EU Regulation 197/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0197
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/197/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

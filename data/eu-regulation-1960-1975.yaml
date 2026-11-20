@@ -1,0 +1,94 @@
+---
+id: EURegulation19601975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1960/75 of the Council of 28 July 1975 amending Regulation
+    (EEC) No 155/75 on the sale of skimmed-milk powder from public stocks for supply
+    to developing countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1960/75 du Conseil, du 28 juillet 1975, modifiant
+    le règlement (CEE) n° 155/75 relatif à la vente de lait écrémé en poudre
+    de stock public en vue de la livraison vers des pays en voie de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1960/75 des Rates vom 28. Juli 1975 zur Änderung
+    der Verordnung (EWG) Nr. 155/75 über den Verkauf von Magermilchpulver aus öffentlicher
+    Lagerhaltung für die Lieferung nach Entwicklungsländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1960/75 af 28. juli 1975 om ændring af forordning
+    (EØF) nr. 155/75 om salg af skummetmælkspulver fra offentlige lagre med henblik
+    på levering til udviklingslande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1960/75 del Consiglio, del 28 luglio 1975, che modifica
+    il regolamento (CEE) n. 155/75 relativo alla vendita di latte scremato in polvere
+    d'ammasso pubblico da fornire a paesi in via di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1960/75 van de Raad van 28 juli 1975 houdende wijziging
+    van Verordening (EEG) nr. 155/75 met betrekking tot de verkoop van mageremelkpoeder
+    uit de openbare opslag met het oog op levering aan ontwikkelingslanden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1960
+docidentifier:
+- content: EU Regulation 1960/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1960
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1960/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-28'
+- type: implemented
+  at: '1975-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0155
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

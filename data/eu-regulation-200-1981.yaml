@@ -1,0 +1,85 @@
+---
+id: EURegulation2001981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 200/81 of 26 January 1981 fixing the export
+    refunds on pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 200/81 de la Commission, du 26 janvier 1981, fixant
+    les restitutions à l'exportation dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 200/81 der Kommission vom 26. Januar 1981 zur Festsetzung
+    der Erstattungen bei der Ausfuhr auf dem Schweinefleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 200/81 af 26. januar 1981 om fastsættelse
+    af eksportrestitutioner inden for svinekødsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 200/81 της Επιτροπής
+    της 26ης Ιανουαρίου 1981 περί καθορισμού των επιστροφών
+    κατά την εξαγωγή στον τομέα του χοιρείου κρέατος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 200/81 della Commissione, del 26 gennaio 1981, che
+    fissa le restituzioni all'esportazione nel settore della carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 200/81 van de Commissie van 26 januari 1981 tot vaststelling
+    van de restituties bij uitvoer in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0200
+docidentifier:
+- content: EU Regulation 200/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0200
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/200/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

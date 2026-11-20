@@ -1,0 +1,94 @@
+---
+id: EURegulation34111973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3411/73 of the Commission of 18 December 1973 altering
+    the amount of aid provided for in Regulation (EEC) No 1437/70 on storage contracts
+    for table wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3411/73 de la Commission, du 18 décembre 1973, modifiant
+    le montant de l' aide prévu par le règlement (CEE) n° 1437/70 relatif aux contrats
+    de stockage pour le vin de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3411/73 der Kommission vom 18. Dezember 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1437/70 über die Lagerverträge für Tafelwein hinsichtlich
+    des Beihilfebetrags
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionnes Forordning (EØF) nr. 3411/73 af 18. december 1973 om ændring
+    af støttebeløb, der er fastsat i forordning (EØF) nr. 1437/70 om lagerkontrakter
+    for bordvin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3411/73 della Commissione, del 18 dicembre 1973, che
+    modifica, per quanto riguarda l' importo dell' aiuto, il regolamento (CEE) n.
+    1437/70 relativo ai contratti di magazzinaggio per il vino da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3411/73 van de Commissie van 18 december 1973 tot
+    wijziging van het bij Verordening (EEG) nr. 1437/70 betreffende opslagcontracten
+    voor tafelwijn vastgestelde steunbedrag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3411
+docidentifier:
+- content: EU Regulation 3411/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3411
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3411/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-12-18'
+- type: implemented
+  at: '1973-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1437
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

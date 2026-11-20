@@ -1,0 +1,93 @@
+---
+id: EUDecision1966264
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/264/CEE de la Commission, du 5 avril 1966, relative au recours
+    de la République fédérale d'Allemagne à l'article 115 alinéa 1 du Traité,
+    pour exclure du traitement communautaire le café, non torréfié, non décaféiné,
+    de la position 09.01 A I A du Tarif douanier commun originaire des pays autres
+    que les EAMA et que les PTOM associés à la CEE, et mis en libre pratique dans
+    les pays du Benelux
+  type: main
+- language: de
+  script: Latn
+  content: '66/264/EWG: Entscheidung der Kommission vom 5. April 1966 über den Antrag
+    der Bundesrepublik Deutschland gemäß Artikel 115 Absatz (1) des Vertrages, nicht
+    entkoffeinierten, nicht gerösteten Kaffee der Tarifnummer 09.01 A I a des Gemeinsamen
+    Zolltarifs aus anderen Ländern als den assoziierten afrikanischen Staaten und
+    Madagaskar und den mit der Gemeinschaft assoziierten überseeischen Ländern und
+    Hoheitsgebieten, der in den Benelux-Ländern in den freien Verkehr gebracht worden
+    ist, von der Gemeinschaftsbehandlung auszuschließen'
+  type: main
+- language: it
+  script: Latn
+  content: '66/264/CEE: Decisione della Commissione, del 5 aprile 1966, relativa al
+    ricorso della Repubblica federale di Germania all''articolo 115, primo comma,
+    del Trattato, per escludere dal trattamento comunitario il caffè, non torrefatto,
+    non decaffeinizzato, di cui alla voce 09.01 A I a della tariffa doganale comune,
+    originario di paesi che non siano gli Stati africani e malgascio e i paesi e territori
+    d''oltremare associati alla CEE e immesso in libera pratica nei paesi del Benelux'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/264/EEG: Beschikking van de Commissie van 5 april 1966, betreffende
+    het verzoek van de Bondsrepubliek Duitsland om op grond van artikel 115, eerste
+    alinea, van het Verdrag koffie, ongebrand, waaruit geen cafeïne is verwijderd,
+    van post 09.01 A I a van het gemeenschappelijk douanetarief, die van oorsprong
+    is uit andere landen dan de geassocieerde Afrikaanse staten en Madagaskar en de
+    met de Europese Economische Gemeenschap geassocieerde landen en gebieden overzee
+    en die in de Benelux-landen in het vrije verkeer is gebracht, van de communautaire
+    behandeling uit te sluiten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0264
+docidentifier:
+- content: EU Decision 1966/264
+  type: EU
+  primary: true
+- content: CELEX 31966D0264
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/264/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0085
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

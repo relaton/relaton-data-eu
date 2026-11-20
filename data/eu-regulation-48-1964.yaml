@@ -1,0 +1,73 @@
+---
+id: EURegulation481964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 48/64/CEE du Conseil, du 30 avril 1964, portant fixation
+    du montant des fruits de transport et de passage en frontière pour certains produits
+    laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 48/64/EWG des Rats vom 30. April 1964 zur Festsetzung des
+    Betrages der Transport- und Grenzüberschreitungskosten für gewisse Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 48/64/CEE del Consiglio, del 30 aprile 1964, relativo alla
+    fissazione dell'ammontare delle spese di trasporto e di transito alla frontiera
+    per alcuni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 48/64/EEG van de Raad van 30 april 1964 tot vaststelling
+    van het bedrag van de vervoerkosten en van de kosten van grensoverschrijding voor
+    sommige zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0048
+docidentifier:
+- content: EU Regulation 48/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0048
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/48/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-04-30'
+- type: implemented
+  at: '1964-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,122 @@
+---
+id: EURegulation29501983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2950/83 of 17 October 1983 on the implementation
+    of Decision 83/516/EEC on the tasks of the European Social Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2950/83 du Conseil du 17 octobre 1983 portant application
+    à la décision 83/516/CEE concernant les missions du Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2950/83 des Rates vom 17. Oktober 1983 zur Anwendung
+    des Beschlusses 83/516/EWG über die Aufgaben des Europäischen Sozialfonds
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2950/83 af 17. oktober 1983 om gennemførelse
+    af afgørelse 83/516/EØF om Den europæiske Socialfonds opgaver
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2950/83 του Συμβουλίου
+    της 17ης Οκτωβρίου 1983 για την εφαρμογή της απόφασης
+    83/516/ΕΟΚ για την αποστολή του Ευρωπαϊκού Κοινωνικού
+    Ταμείου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2950/83 del Consiglio del 17 ottobre 1983 concernente
+    l' applicazione della decisione 83/516/CEE del Consiglio relativa ai compiti del
+    Fondo sociale europeo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2950/83 van de Raad van 17 oktober 1983 houdende
+    toepassing van Besluit 83/516/EEG betreffende de taken van het Europees Sociaal
+    Fonds
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2950/83 do Conselho, de 17 de Outubro de 1983, que
+    aplica a Decisão 83/516/CEE relativa às funções do Fundo Social Europeu
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2950/83 del Consejo, de 17 de octubre de 1983, sobre
+    aplicación de la Decisión 83/516/CEE, referente a las funciones del Fondo Social
+    Europeo
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R2950
+docidentifier:
+- content: EU Regulation 2950/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R2950
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/2950/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-10-17'
+- type: implemented
+  at: '1983-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2396
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0858
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2895
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

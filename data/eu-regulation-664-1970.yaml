@@ -1,0 +1,84 @@
+---
+id: EURegulation6641970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 664/70 de la Commission du 10 avril 1970, prolongeant
+    l'application du règlement (CEE) n° 1286/69 relatif à l'adjudication permanente
+    de lait écrémé en poudre destiné à la transformation en aliments composés
+    pour les porcs ou la volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 664/70 der Kommission vom 10. April 1970 zur Verlängerung
+    der Anwendung der Verordnung (EWG) Nr. 1286/69 über die Dauerausschreibung von
+    Magermilchpulver, das zur Verarbeitung zu Mischfutter für Schweine oder Geflügel
+    bestimmt ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 664/70 della Commissione, del 10 aprile 1970, che
+    proroga l'applicazione del regolamento (CEE) n. 1286/69 relativo all'asta permanente
+    per latte scremato in polvere destinato alla trasformazione in alimenti composti
+    per suini o pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 664/70 van de Commissie van 10 april 1970 tot verlenging
+    van de toepassing van Verordening (EEG) nr. 1286/69 betreffende de permanente
+    verkoop bij inschrijving van magere-melkpoeder bestemd voor verwerking tot mengvoeder
+    voor varkens of pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0664
+docidentifier:
+- content: EU Regulation 664/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0664
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/664/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-10'
+- type: implemented
+  at: '1970-04-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1286
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

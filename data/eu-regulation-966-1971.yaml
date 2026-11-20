@@ -1,0 +1,94 @@
+---
+id: EURegulation9661971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 966/71 of the Council of 10 May 1971 extending the
+    time limit laid down in Article 4 (3) of Regulation No 130/66/EEC on the financing
+    of the common agricultural policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 966/71 du Conseil, du 10 mai 1971, portant prolongation
+    du délai prévu à l' article 4 paragraphe 3 du règlement" n° 130/66/CEE relatif
+    au financement de la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 966/71 des Rates vom 10. Mai 1971 zur Verlängerung
+    der in Artikel 4 Absatz 3 der Verordnung Nr. 130/66/EWG über die Finanzierung
+    der gemeinsamen Agrarpolitik gesetzten Frist
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 966/71 af 10. maj 1971 om forlængelse af
+    den i artikel 4, stk. 3, i forordning nr. 130/66/EØF om finansieringen af den
+    fælles landbrugspolitik fastsatte frist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 966/71 del Consiglio, del 10 maggio 1971, che proroga
+    il termine previsto dall' articolo 4, paragrafo 3, del regolamento n. 130/66/CEE
+    relativo al finanziamento della politica agricola comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 966/71 van de Raad van 10 mei 1971 houdende verlenging
+    van de in artikel 4, lid 3, van Verordening nr. 130/66/EEG betreffende de financiering
+    van het gemeenschappelijk landbouwbeleid bedoelde termijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0966
+docidentifier:
+- content: EU Regulation 966/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0966
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/966/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-10'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0130
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

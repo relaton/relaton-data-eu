@@ -1,0 +1,106 @@
+---
+id: EURegulation3971983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 397/83 of 17 February 1983 amending Regulation
+    (EEC) No 3744/81 in respect of the list of the projects to benefit from Community
+    support and of the Annex thereto
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 397/83 de la Commission du 17 février 1983 modifiant
+    le règlement (CEE) no 3744/81 du Conseil en ce qui concerne la liste des projets
+    qui bénéficieront de l' aide communautaire et l' annexe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 397/83 der Kommission vom 17. Februar 1983 zur Änderung
+    der Verordnung (EWG) Nr. 3744/81 des Rates hinsichtlich der Liste der Vorhaben,
+    für die eine Gemeinschaftsbeihilfe gewährt wird, und hinsichtlich des Anhangs
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 397/83 af 17. februar 1983 om ændring
+    af Rådets forordning (EØF) nr. 3744/81 for så vidt angår listen over projekter,
+    hvortil der ydes fællesskabsstøtte, samt bilaget
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 397/83 της Επιτροπής
+    της 17ης Φεβρουαρίου 1983 για την τροποποίηση
+    του κανονισμού (ΕΟΚ) αριθ. 3744/81 του Συμβουλίου
+    όσον αφορά τον πίνακα των προγραμμάτων που
+    θα λάβουν κοινοτική ενίσχυση και το σχετικό
+    παράρτημα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 397/83 della Commissione del 17 febbraio 1983 recante
+    modifica del regolamento (CEE) n. 3744/81 del Consiglio per quanto concerne l'
+    elenco dei progetti che beneficiano di sostegno finanziario comunitario e l' allegato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 397/83 van de Commissie van 17 februari 1983 ter
+    herziening van Verordening (EEG) nr. 3744/81 van de Raad voor wat betreft de lijst
+    van de projecten die in aanmerking komen voor steun van de Gemeenschap, en de
+    bijlage
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0397
+docidentifier:
+- content: EU Regulation 397/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0397
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/397/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-02-17'
+- type: implemented
+  at: '1983-02-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R3744
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,104 @@
+---
+id: EURegulation3541978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 354/78 of 20 February 1978 amending Council
+    Regulation (EEC) No 787/69 on the financing of intervention expenditure in respect
+    of the internal market in cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 354/78 du Conseil, du 20 février 1978, modifiant
+    le règlement (CEE) n° 787/69 relatif au financement des dépenses d' intervention
+    sur le marché intérieur dans le secteur des céréales et dans celui du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 354/78 des Rates vom 20. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 787/69 über die Finanzierung von Interventionsausgaben
+    auf dem Binnenmarkt für Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 354/78 af 20. februar 1978 om ændring af
+    forordning (EØF) nr. 787/69 om finansiering af interventionsudgifterne på det
+    interne marked for korn og ris
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 354/78 του Συμβουλίου
+    της 20ής Φεβρουαρίου 1978 περί τροποποιήσεως
+    του κανονισμού (ΕΟΚ) αριθ. 787/69 «περί χρηματοδοτήσεως
+    των δαπανών παρεμβάσεως στην εσωτερική αγορά
+    στον τομέα των σιτηρών και της ορύζης»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 354/78 del Consiglio, del 20 febbraio 1978, che modifica
+    il regolamento (CEE) n. 787/69 relativo al finanziamento delle spese d' intervento
+    sul mercato interno nei settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 354/78 van de Raad van 20 februari 1978 tot wijziging
+    van Verordening (EEG) nr. 787/69 betreffende de financiering van de interventie-uitgaven
+    op de interne markt in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0354
+docidentifier:
+- content: EU Regulation 354/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0354
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/354/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-20'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0787
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

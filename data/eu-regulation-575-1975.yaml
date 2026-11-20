@@ -1,0 +1,94 @@
+---
+id: EURegulation5751975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 575/75 of the Council of 4 March 1975 amending Regulation
+    (EEC) No 3185/74 introducing an export charge on certain goods covered by Regulation
+    (EEC) No 1059/69
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 575/75 du Conseil, du 4 mars 1975, modifiant le règlement
+    (CEE) n° 3185/74 instaurant une taxe à l'exportation de certaines marchandises
+    relevant du règlement (CEE) n° 1059/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 575/75 des Rates vom 4. März 1975 zur Änderung der
+    Verordnung (EWG) Nr. 3185/74 zur Einführung einer Ausfuhrabgabe für bestimmte
+    Waren, die unter die Verordnung (EWG) Nr. 1059/69 fallen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 575/75 af 4. marts 1975 om ændring af forordning
+    (EØF) nr. 3185/74 om fastsættelse af en eksportafgift for visse varer henhørende
+    under forordning (EØF) nr. 1059/69
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 575/75 del Consiglio, del 4 marzo 1975, che modifica
+    il regolamento (CEE) n. 3185/74 che istituisce una tassa all'esportazione per
+    talune merci comprese nel regolamento (CEE) n. 1059/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 575/75 van de Raad van 4 maart 1975 tot wijziging
+    van Verordening (EEG) nr. 3185/74 houdende vaststelling van een heffing bij uitvoer
+    van bepaalde goederen, vallende onder Verordening (EEG) nr. 1059/69
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0575
+docidentifier:
+- content: EU Regulation 575/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0575
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/575/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-04'
+- type: implemented
+  at: '1974-12-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3185
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

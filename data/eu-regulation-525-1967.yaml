@@ -1,0 +1,68 @@
+---
+id: EURegulation5251967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 525/67/CEE de la Commission, du 1er septembre 1967, modifiant
+    le règlement n 237/67/CEE relatif à la prise en charge de céréales par les
+    organismes d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 525/67/EWG der Kommission vom 1. September 1967 zur Änderung
+    der Verordnung Nr. 237/67/EWG über die Übernahme von Getreide durch die Interventionsstellen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 525/67/CEE della Commissione, del 1 settembre 1967, che
+    modifica il regolamento n. 237/67/CEE relativo alla presa in consegna di cereali
+    da parte degli organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 525/67/EEG van de Commissie van 1 september 1967 houdende
+    wijziging van Verordening no. 237/67/EEG betreffende de overname van granen door
+    de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0525
+docidentifier:
+- content: EU Regulation 525/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0525
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/525/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

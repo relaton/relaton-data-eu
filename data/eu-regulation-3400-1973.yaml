@@ -1,0 +1,94 @@
+---
+id: EURegulation34001973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3400/73 of the Council of 11 December 1973 amending
+    Council Regulation (EEC) No 166/71 laying down common market standards for shrimps
+    of the genus 'Crangon' sp.p.
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3400/73 du Conseil, du 11 décembre 1973, modifiant
+    le règlement (CEE) n° 166/71 portant fixation de normes communes de commercialisation
+    pour les crevettes grises du genre "crangon" SP. P.
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3400/73 des Rates vom 11. Dezember 1973 zur Änderung
+    der Verordnung (EWG) Nr. 166/71 zur Festlegung gemeinsamer Vermarktungsnormen
+    für Garnelen der Gattung Crangon
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3400/73 af 11. december 1973 om ændring
+    af forordning (EØF) nr. 166/71 om fastsættelse af fælles markedsnormer for
+    hesterejer af sorteren Crangon
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3400/73 del Consiglio, dell'11 dicembre 1973, che
+    modifica il regolamento (CEE) n. 166/71 che stabilisce norme comuni di commercializzazione
+    per i gamberetti grigi del genere «Crangon» sp.p.
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3400/73 van de Raad van 11 december 1973 tot wijziging
+    van Verordening (EEG) nr. 166/71 houdende vaststelling van gemeenschappelijke
+    handelsnormen voor garnalen van de Crangonsoorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3400
+docidentifier:
+- content: EU Regulation 3400/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3400
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3400/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-12-11'
+- type: implemented
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0166
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

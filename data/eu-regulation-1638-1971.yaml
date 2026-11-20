@@ -1,0 +1,94 @@
+---
+id: EURegulation16381971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1638/71 of the Commission of 28 July 1971 amending
+    Regulation (EEC) No 2683/70 as regards the advance fixing of the export refund
+    on full-cream milk powder
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1638/71 de la Commission, du 28 juillet 1971, modifiant
+    le règlement (CEE) n° 2683/70 en ce qui concerne la fixation à l' avance de
+    la restitution à l' exportation du lait entier en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1638/71 der Kommission vom 28. Juli 1971 zur Änderung
+    der Verordnung (EWG) Nr. 2683/70 hinsichtlich der Vorausfestsetzung der Erstattung
+    bei der Ausfuhr von Vollmilchpulver
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1638/71 af 28. juli 1971 om ændring
+    af forordning (EØF) nr. 2683/70 for så vidt angår forudfastsættelse af eksportrestitutionen
+    for sødmælkspulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1638/71 della Commissione, del 28 luglio 1971, che
+    modifica il regolamento (CEE) n. 2683/70 per quanto concerne la fissazione in
+    anticipo della restituzione all' esportazione di latte intero in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1638/71 van de Commissie van 28 juli 1971 houdende
+    wijziging van Verordening (EEG) nr. 2683/70 met betrekking tot het vooraf vaststellen
+    van de restitutie bij uitvoer van volle-melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1638
+docidentifier:
+- content: EU Regulation 1638/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1638
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1638/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-28'
+- type: implemented
+  at: '1971-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2683
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

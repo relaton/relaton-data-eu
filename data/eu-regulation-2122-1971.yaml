@@ -1,0 +1,77 @@
+---
+id: EURegulation21221971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2122/71 de la Commission, du 1er octobre 1971, fixant
+    les montants compensatoires valables à partir du 4 octobre 1971 dans le secteur
+    agricole à la suite de l'élargissement temporaire des marges de fluctuation
+    des monnaies de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2122/71 der Kommission vom 1. Oktober 1971 zur Festsetzung
+    der ab 4. Oktober 1971 geltenden Ausgleichsbeträge in der Landwirtschaft im Anschluß
+    an die vorübergehende Erweiterung der Bandbreiten der Währungen einiger Mitgliedstaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2122/71 della Commissione, del 1 ottobre 1971, che
+    fissa gli importi di compensazione validi a partire dal 4 ottobre 1971 nel settore
+    agricolo in seguito all'ampliamento temporaneo dei margini di fluttuazione delle
+    monete di alcuni Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2122/71 van de Commissie van 1 oktober 1971 houdende
+    vaststelling van de compenserende bedragen, geldig met ingang van 4 oktober 1971
+    in de landbouwsector naar aanleiding van de tijdelijke verruiming van de fluctuatiemarges
+    van de valuta's van sommige Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2122
+docidentifier:
+- content: EU Regulation 2122/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2122
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2122/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-01'
+- type: implemented
+  at: '1971-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

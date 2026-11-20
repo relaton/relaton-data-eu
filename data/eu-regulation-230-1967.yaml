@@ -1,0 +1,72 @@
+---
+id: EURegulation2301967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 230/67/CEE de la Commission, du 29 juin 1967, relatif aux
+    restitutions applicables aux exportations de produits transformés à base de
+    céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 230/67/EWG der Kommission vom 29. Juni 1967 zur Regelung
+    der Erstattungen bei der Ausfuhr von Verarbeitungserzeugnissen aus Getreide
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 230/67/CEE della Commissione, del 29 giugno 1967, relativo
+    alle restituzioni applicabili alle esportazioni di prodotti trasformati a base
+    di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 230/67/EEG van de Commissie van 29 juni 1967 betreffende
+    de restituties voor de uitvoer van de op basis van graan verwerkte produkten.
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0230
+docidentifier:
+- content: EU Regulation 230/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0230
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/230/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-29'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

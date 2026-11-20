@@ -1,0 +1,82 @@
+---
+id: EUDecision1965572
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 65/572/CEE du Conseil du 29 décembre 1965, prorogeant le délai
+    visé à l'article 3 de la décision du Conseil du 9 octobre 1961 relative à
+    l'uniformisation de la durée des accords commerciaux avec les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: '65/572/EWG: Entscheidung des Rates vom 29. Dezember 1965 zur Verlängerung
+    der in Artikel 3 der Ratsentscheidung vom 9. Oktober 1961 zur Vereinheitlichung
+    der Laufzeit von Handelsabkommen mit dritten Ländern festgesetzten Frist'
+  type: main
+- language: it
+  script: Latn
+  content: '65/572/CEE: Decisione del Consiglio, del 29 dicembre 1965, recante proroga
+    del termine di cui all''articolo 3 della decisione del Consiglio, in data 9 ottobre
+    1961, relativa all''unificazione della durata degli accordi commerciali con i
+    paesi terzi'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/572/EEG: Beschikking van de Raad van 29 december 1965 tot verlenging
+    van de in artikel 3 van de beschikking van de Raad van 9 oktober 1961 inzake de
+    eenmaking van de geldigheidsduur van handelsakkoorden met derde landen gestelde
+    termijn'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0572
+docidentifier:
+- content: EU Decision 1965/572
+  type: EU
+  primary: true
+- content: CELEX 31965D0572
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/572/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-12-29'
+- type: implemented
+  at: '1965-12-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31961D1104(02)
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

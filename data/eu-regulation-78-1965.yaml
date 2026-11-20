@@ -1,0 +1,74 @@
+---
+id: EURegulation781965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 78/65/CEE du Conseil, du 15 juin 1965, relatif au régime
+    applicable à certains produits transformés originaires des États africains
+    et malgache associés et des pays et territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 78/65/EWG des Rates vom 15. Juni 1965 über die Regelung
+    für bestimmte Verarbeitungserzeugnisse aus den assoziierten afrikanischen Staaten
+    und Madagaskar sowie aus den überseeischen Ländern und Hoheitsgebieten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 78/65/CEE del Consiglio, del 15 giugno 1965, relativo al
+    regime applicabile a taluni prodotti trasformati originari degli Stati africani
+    e malgascio associati e dei paesi e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 78/65/EEG van de Raad van 15 juni 1965 betreffende de regeling
+    voor sommige verwerkte produkten van oorsprong uit de geassocieerde Afrikaanse
+    staten en Madagaskar en de landen en gebieden overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0078
+docidentifier:
+- content: EU Regulation 78/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0078
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/78/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-15'
+- type: implemented
+  at: '1965-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

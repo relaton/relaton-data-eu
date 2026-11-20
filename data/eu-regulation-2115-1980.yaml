@@ -1,0 +1,94 @@
+---
+id: EURegulation21151980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2115/80 of 30 July 1980 repealing Regulation
+    (EEC) No 1626/78 on the difference in value between long grain rice and round
+    grain rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2115/80 de la Commission, du 30 juillet 1980, abrogeant
+    le règlement (CEE) n° 1626/78 concernant la différence de valeur entre le riz
+    à grains longs et le riz à grains ronds
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2115/80 der Kommission vom 30. Juli 1980 zur Aufhebung
+    der Verordnung (EWG) Nr. 1626/78 betreffend den Wertunterschied zwischen Langkornreis
+    und Rundkornreis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2115/80 af 30. juli 1980 om ophævelse
+    af forordning (EØF) nr. 1626/78 vedrørende værdiforskellen mellem langkornet
+    ris og rundkornet ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2115/80 della Commissione, del 30 luglio, che abroga
+    il regolamento (CEE) n. 1626/78, concernente la differenza di valore del riso
+    a grani lunghi e del riso a grani tondi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2115/80 van de Commissie van 30 juli 1980 tot intrekking
+    van Verordening (EEG) nr. 1626/78 inzake het waardeverschil tussen langkorrelige
+    en rondkorrelige rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2115
+docidentifier:
+- content: EU Regulation 2115/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2115
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2115/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-07-30'
+- type: implemented
+  at: '1980-08-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1626
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

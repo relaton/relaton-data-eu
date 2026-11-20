@@ -1,0 +1,126 @@
+---
+id: EURegulation4502000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 450/2000 of 28 February 2000 amending Regulation
+    (EC) No 2698/1999 fixing the export refunds on beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 450/2000 de la Commission, du 28 février 2000, modifiant
+    le règlement (CE) n° 2698/1999 fixant les restitutions à l'exportation dans
+    le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 450/2000 der Kommission vom 28. Februar 2000 zur Änderung
+    der Verordnung (EG) Nr. 2698/1999 zur Festsetzung der Ausfuhrerstattungen im Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 450/2000 af 28. februar 2000 om ændring
+    af forordning (EF) nr. 2698/1999 om fastsættelse af eksportrestitutionerne inden
+    for oksekødssektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 450/2000 της Επιτροπής,
+    της 28ης Φεβρουαρίου 2000, περί τροποποιήσεως
+    του κανονισμού (ΕΚ) αριθ. 2698/1999 για τον καθορισμό
+    των επιστροφών κατά την εξαγωγή στον τομέα
+    του βοείου κρέατος
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 450/2000, annettu 28 päivänä helmikuuta 2000,
+    naudanliha-alan vientitukien vahvistamisesta annetun asetuksen (EY) N:o 2698/1999
+    muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 450/2000 della Commissione, del 28 febbraio 2000, recante
+    modifica del regolamento (CE) n. 2698/1999 che fissa le restituzioni all'esportazione
+    nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 450/2000 van de Commissie van 28 februari 2000 houdende
+    wijziging van Verordening (EG) nr. 2698/1999 tot vaststelling van de uitvoerrestituties
+    in de sector rundvlees
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 450/2000 da Comissão, de 28 de Fevereiro de 2000,
+    que altera o Regulamento (CE) n.° 2698/1999 que fixa as restituições à exportação
+    no sector da carne de bovino
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 450/2000 de la Comisión, de 28 de febrero de 2000,
+    que modifica el Reglamento (CE) n° 2698/1999 por el que se fijan las restituciones
+    por exportación en el sector de la carne de vacuno
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 450/2000 av den 28 februari 2000 om ändring
+    av förordning (EG) nr 2698/1999 om fastställande av exportbidrag för nötkött
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R0450
+docidentifier:
+- content: EU Regulation 450/2000
+  type: EU
+  primary: true
+- content: CELEX 32000R0450
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2000/450/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-02-28'
+- type: implemented
+  at: '2000-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31999R2698
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

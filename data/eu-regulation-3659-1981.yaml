@@ -1,0 +1,104 @@
+---
+id: EURegulation36591981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3659/81 of 15 December 1981 extending Regulation
+    (EEC) No 1145/81 laying down general rules for the application of the minimum
+    price for table wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3659/81 du Conseil, du 15 décembre 1981, prorogeant
+    le règlement (CEE) n° 1145/81 fixant les règles générales d' application
+    du prix minimal pour le vin de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3659/81 des Rates vom 15. Dezember 1981 zur Verlängerung
+    der Geltungsdauer der Verordnung (EWG) Nr. 1145/81 zur Festsetzung der allgemeinen
+    Durchführungsbestimmungen für den Niedrigstpreis bei Tafelwein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3659/81 af 15. december 1981 om forlængelse
+    af gyldighedsperioden for forordning (EØF) nr. 1145/81 om fastsættelse af generelle
+    regler for anvendelse af en mindstepris på bordvin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3659/81 τού Συμβουλίου
+    τής 15ης Δεκεμβρίου 1981 περί παρατάσεως τού κανονισμού
+    (EOK) αριθ. 1145/81 περί θεσπίσεως τών γενικών κανόνων
+    εφαρμογής τής ελάχιστης τιμής γιά τόν επιτραπέζιο
+    οίνο
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3659/81 del Consiglio, del 15 dicembre 1981, che proroga
+    il regolamento (CEE) n. 1145/81 che stabilisce le norme generali d' applicazione
+    del prezzo minimo per il vino da tavola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3659/81 van de Raad van 15 december 1981 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 1145/81 tot vaststelling van
+    de algemene voorschriften inzake toepassing van de minimumprijs voor tafelwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R3659
+docidentifier:
+- content: EU Regulation 3659/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R3659
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/3659/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-12-15'
+- type: implemented
+  at: '1981-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R1145
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

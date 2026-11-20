@@ -1,0 +1,74 @@
+---
+id: EURegulation4441968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 444/68 du Conseil, du 9 avril 1968, fixant, pour la
+    campagne 1968/1969, les majorations mensuelles des prix des céréales et des
+    farines, gruaux et semoules de blé ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 444/68 des Rates vom 9. April 1968 zur Festsetzung
+    der monatlichen Zuschläge der Preise für Getreide und Mehl, Grobgrieß und Feingrieß
+    von Weizen oder Roggen für das Wirtschaftsjahr 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 444/68 del Consiglio, del 9 aprile 1968, che fissa,
+    per la campagna 1968/1969, le maggiorazioni mensili dei prezzi dei cereali e delle
+    farine, semole e semolini di grano o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 444/68 van de Raad van 9 april 1968 houdende vaststelling
+    van de maandelijkse verhogingen van de prijzen voor granen en meel, grutten, gries
+    en griesmeel van tarwe of van rogge voor het verkoopseizoen 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0444
+docidentifier:
+- content: EU Regulation 444/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0444
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/444/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-09'
+- type: implemented
+  at: '1968-05-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

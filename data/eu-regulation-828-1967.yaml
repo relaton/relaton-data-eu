@@ -1,0 +1,66 @@
+---
+id: EURegulation8281967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 828/67/CEE de la Commission, du 9 novembre 1967, fixant les
+    restitutions à l'exportation pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 828/67/EWG der Kommission vom 9. November 1967 zur Festsetzung
+    der Erstattungen bei der Ausfuhr für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 828/67/CEE della Commissione, del 9 novembre 1967, relativo
+    alla fissazione delle restituzioni all'esportazione per il riso e le rotture di
+    riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 828/67/EEG van de Commissie van 9 november 1967 tot vaststelling
+    van de restituties bij uitvoer voor rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0828
+docidentifier:
+- content: EU Regulation 828/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0828
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/828/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

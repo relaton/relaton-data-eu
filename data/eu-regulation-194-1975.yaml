@@ -1,0 +1,94 @@
+---
+id: EURegulation1941975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 194/75 of the Council of 22 January 1975 amending Regulation
+    (EEC) No 1191/73 laying down general rules for the granting of a consumer subsidy
+    for butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 194/75 du Conseil, du 22 janvier 1975, modifiant le
+    règlement (CEE) n° 1191/73 portant fixation des règles générales pour l'octroi
+    d'une aide à la consommation de beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 194/75 des Rates vom 22. Januar 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1191/73 zur Festlegung der Grundregeln für die Gewährung
+    einer Verbraucherbeihilfe für Butter
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 194/75 af 22. januar 1975 om ændring af
+    forordning (EØF) nr. 1191/73 om fastlæggelse af almindelige regler for ydelse
+    af støtte til forbruget af smør
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 194/75 del Consiglio, del 22 gennaio 1975, recante
+    modifica del regolamento (CEE) n. 1191/73, che stabilisce le norme generali per
+    la concessione di un aiuto in favore del consumo di burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 194/75 van de Raad van 22 januari 1975 tot wijziging
+    van Verordening (EEG) nr. 1191/73 houdende vaststelling van de algemene voorschriften
+    voor de toekenning van steun ter bevordering van het boterverbruik
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0194
+docidentifier:
+- content: EU Regulation 194/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0194
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/194/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-22'
+- type: implemented
+  at: '1975-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1191
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

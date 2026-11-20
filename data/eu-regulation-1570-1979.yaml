@@ -1,0 +1,94 @@
+---
+id: EURegulation15701979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1570/79 of 25 July 1979 amending Regulation
+    (EEC) No 647/79 applying quality class III to certain fruit for the 1979/80 marketing
+    year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1570/79 de la Commission, du 25 juillet 1979, modifiant
+    le règlement (CEE) n° 647/79 portant application des catégories de qualité
+    III à certains fruits de la campagne 1979/1980
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1570/79 der Kommission vom 25. Juli 1979 zur Änderung
+    der Verordnung (EWG) Nr. 647/79 zur Anwendung der Güteklasse III auf bestimmtes
+    Obst im Wirtschaftsjahr 1979/80
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1570/79 af 25. juli 1979 om ændring
+    af forordning (EØF) nr. 647/79 om anvendelse af kvalitetsklasse III for visse
+    frugtsorter i høståret 1979/80
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1570/79 della Commissione, del 25 luglio 1979, recante
+    modifica del regolamento (CEE) n. 647/79 che applica le categorie di qualità
+    III a taluni prodotti frutticoli della campagna 1979/1980
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1570/79 van de Commissie van 25 juli 1979 tot wijziging
+    van Verordening (EEG) nr. 647/79 houdende toepassing van de kwaliteitsklassen
+    ,,III' ' voor bepaalde soorten fruit voor het verkoopseizoen 1979/1980
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1570
+docidentifier:
+- content: EU Regulation 1570/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1570
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1570/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-25'
+- type: implemented
+  at: '1979-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0647
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

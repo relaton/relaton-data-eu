@@ -1,0 +1,137 @@
+---
+id: EURegulation30781989
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3078/89 of 12 October 1989 amending Regulations
+    No 80/63/EEC, (EEC) No 2638/69 and (EEC) No 496/70 as regards communication of
+    the authorities responsible for quality inspection in the fruit and vegetables
+    sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3078/89 de la Commission du 12 octobre 1989 modifiant
+    les règlements n° 80/63/CEE, (CEE) n° 496/70 et (CEE) n 2638/69 en ce qui concerne
+    la communication des organismes chargés des contrôles de la qualité des fruits
+    et légumes
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 3078/89 DER KOMMISSION vom 12. Oktober 1989 zur Änderung
+    der Verordnungen Nr. 80/63/EWG, (EWG) Nr. 496/70 und (EWG) Nr. 2638/69 hinsichtlich
+    der Mitteilung der mit der Qualitätskontrolle beauftragten Stellen im Sektor
+    Obst und Gemüse #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3078/89 af 12. oktober 1989 om ændring
+    af forordning nr. 80/63/EØF, (EØF) nr. 496/70 og (EØF) nr. 2638/69 for så
+    vidt angår meddelelse af de organer, der er udpeget til at foretage kvalitetskontrol
+    med frugt og grønsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3078/89 της Επιτροπής
+    της 12ης Οκτωβρίου 1989 περί τροποποιήσεως των
+    κανονισμών αριθ. 80/63/ΕΟΚ, αριθ. 2638/69 και (ΕΟΚ)
+    αριθ. 496/70 όσον αφορά την ανακοίνωση των επιφορτισμένων
+    με τον ποιοτικό έλεγχο οργανισμών στον τομέα
+    των οπωροκηπευτικών
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 3078/89 DELLA COMMISSIONE del 12 ottobre 1989 che
+    modifica i regolamenti n. 80/63/CEE, (CEE) n. 496/70 e (CEE) n. 2638/69 per quanto
+    riguarda la comunicazione relativa agli incaricati dei controlli di qualità degli
+    ortofrutticoli #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 3078/89 VAN DE COMMISSIE van 12 oktober 1989 tot
+    wijziging van de Verordeningen nr. 80/63/EEG, (EEG) nr. 496/70 en (EEG) nr. 2638/69
+    ten aanzien van de mededeling van de instanties voor kwaliteitscontrole in de
+    sector groenten en fruit #'
+  type: main
+- language: pt
+  script: Latn
+  content: REGULAMENTO (CEE) N* 3078/89 DA COMISSAO de 12 de Outubro de 1989 que altera
+    os Regulamentos n* 80/63/CEE, (CEE) n* 496/70 e (CEE) n* 2638/69, no que diz respeito
+    à comunicaçao dos organismos encarregados dos controlos da qualidade no sector
+    das frutas e produtos horticolas
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 3078/89 DE LA COMISIÓN de 12 de octubre de 1989 por
+    el que se modifican los Reglamentos no 80/63/CEE y (CEE) nos 496/70 y 2638/69
+    en lo referente a la comunicación de los organismos encargados de los controles
+    de la calidad de las frutas y hortalizas #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989R3078
+docidentifier:
+- content: EU Regulation 3078/1989
+  type: EU
+  primary: true
+- content: CELEX 31989R3078
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1989/3078/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-10-12'
+- type: implemented
+  at: '1989-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0080
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2638
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0496
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

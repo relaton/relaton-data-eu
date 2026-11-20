@@ -1,0 +1,65 @@
+---
+id: EURegulation2401967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 240/67/CEE de la Commission, du 30 juin 1967, concernant les
+    méthodes de détermination des caractéristiques de qualité du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 240/67/EWG der Kommission vom 30. Juni 1967 über die Methoden
+    zur Bestimmung der Qualitätsmerkmale bei Zucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 240/67/CEE della Commissione, del 30 giugno 1967, relativo
+    ai metodi di determinazione delle caratteristiche di qualità dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 240/67/EEG van de Commissie van 30 juni 1967 betreffende
+    de methoden van bepaling van kwaliteitseigenschappen bijsuiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0240
+docidentifier:
+- content: EU Regulation 240/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0240
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/240/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

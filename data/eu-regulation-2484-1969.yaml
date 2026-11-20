@@ -1,0 +1,74 @@
+---
+id: EURegulation24841969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2484/69 du Conseil, du 8 décembre 1969, portant suspension
+    temporaire des droits autonomes du tarif douanier commun sur un certain nombre
+    de produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2484/69 des Rates vom 8. Dezember 1969 über die zeitweilige
+    Aussetzung von autonomen Zollsätzen des Gemeinsamen Zolltarifs für bestimmte
+    Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2484/69 del Consiglio, dell'8 dicembre 1969, recante
+    sospensione temporanea dei dazi autonomi della tariffa doganale comune su un certo
+    numero di prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2484/69 van de Raad van 8 december 1969 houdende
+    tijdelijke schorsing van de autonome rechten van het gemeenschappelijk douanetarief
+    op een aantal produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2484
+docidentifier:
+- content: EU Regulation 2484/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2484
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2484/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-08'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

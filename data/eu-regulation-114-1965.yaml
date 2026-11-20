@@ -1,0 +1,69 @@
+---
+id: EURegulation1141965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 114/65/CEE de la Commission, du 8 juillet 1965, fixant les
+    montants forfaitaires pour le riz décortiqué et les brisures pour la campagne
+    1965/1966
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 114/65/EWG der Kommission vom 8. Juli 1965 zur Festsetzung
+    der Pauschbeträge für geschälten Reis und Bruchreis für das Wirtschaftsjahr
+    1965
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 114/65/CEE della Commissione, dell'8 luglio 1965, che fissa
+    gli ammontari forfettari per il riso semigreggio e le rotture di riso per la campagna
+    1965/1966
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 114/65/EEG van de Commissie van 8 juli 1965 houdende vaststelling
+    van de forfaitaire bedragen voor gedopte rijst en breukrijst voor het verkoopseizoen
+    1965/1966
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0114
+docidentifier:
+- content: EU Regulation 114/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0114
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/114/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

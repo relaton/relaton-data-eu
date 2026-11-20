@@ -1,0 +1,96 @@
+---
+id: EURegulation3731973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 373/73 of the Commission of 31 January 1973 correcting
+    Regulation No 2335/72 as regards the distinguishing number allocated in Ireland
+    to establishments producing eggs for hatching and chicks of domestic poultry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 373/73 de la Commission, du 31 janvier 1973, corrigeant
+    le règlement (CEE) n° 2335/72 en ce qui concerne le numéro distinctif attribué
+    en Irlande aux établissements de production d' oeufs à couver et de poussins
+    de volailles de basse-cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 373/73 der Kommission vom 31. Januar 1973 zur Berichtigung
+    der Verordnung (EWG) Nr. 2335/72 über die in Irland den Erzeugerbetrieben für
+    Bruteier und Küken von Hausgeflügel erteilten Kennummer
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 373/73 af 31. januar 1973 om berigtigelse
+    af forordning (EØF) nr. 2335/72 for så vidt angår det kendenummer, der i Irland
+    tildeles de virksomheder, der producerer rugeæg og kyllinger af fjerkræ
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 373/73 della Commissione, del 31 gennaio 1973, che
+    corregge il regolamento (CEE) n. 2335/72, per quanto riguarda il numero distintivo
+    attribuito in Irlanda agli stabilimenti di produzione di uova da cova e di pulcini
+    di volatili da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 373/73 van de Commissie van 31 januari 1973 houdende
+    rectificatie van Verordening nr. 2335/72 met betrekking tot het in Ierland aan
+    bedrijven die broedeieren en kuikens van pluimvee produceren toegekende registratienummer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0373
+docidentifier:
+- content: EU Regulation 373/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0373
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/373/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-31'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2335
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

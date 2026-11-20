@@ -1,0 +1,68 @@
+---
+id: EURegulation1791964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 179/64/CEE de la Commission du 12 novembre 1964, déterminant
+    les frais techniques de dénaturation du blé et du seigle pour la campagne 1964/1965
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 179/64/EWG der Kommission vom 12. November 1964 zur Bestimmung
+    der technischen Kosten der Denaturierung von Weizen und Roggen für das Wirtschaftsjahr
+    1964/65
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 179/64/CEE della Commissione, del 12 novembre 1964, che
+    determina le spese tecniche di denaturazione del grano e della segala per la campagna
+    1964/65
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 179/64/EEG van de Commissie van 12 november 1964 tot vaststelling
+    van de technische kosten van denaturering van tarwe en rogge voor het oogstjaar
+    1964/65
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0179
+docidentifier:
+- content: EU Regulation 179/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0179
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/179/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

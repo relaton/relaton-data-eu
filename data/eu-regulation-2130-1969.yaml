@@ -1,0 +1,74 @@
+---
+id: EURegulation21301969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2130/69 de la Commission, du 28 octobre 1969, modifiant
+    le règlement n° 469/67/CEE en ce qui concerne la détermination des prix CAF
+    du riz et des brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2130/69 der Kommission vom 28. Oktober 1969 zur Änderung
+    der Verordnung Nr. 469/67/EWG in bezug auf die Bestimmung der cif-Preise für
+    Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2130/69 della Commissione, del 28 ottobre 1969, che
+    modifica il regolamento n. 469/67/CEE per quanto riguarda la determinazione dei
+    prezzi cif del riso e delle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2130/69 van de Commissie van 28 oktober 1969 houdende
+    wijziging van Verordening nr. 469/67/EEG ten aanzien van de vaststelling van de
+    c.i.f.-prijzen voor rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2130
+docidentifier:
+- content: EU Regulation 2130/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2130
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2130/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-28'
+- type: implemented
+  at: '1969-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

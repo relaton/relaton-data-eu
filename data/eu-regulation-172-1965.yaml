@@ -1,0 +1,65 @@
+---
+id: EURegulation1721965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 172/65/CEE du Conseil, du 13 décembre 1965, relatif aux prélèvements
+    applicables au maïs hybride destiné à l'ensemencement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 172/65/EWG des Rates vom 13. Dezember 1965 über die Abschöpfungen
+    für Hybridmais zur Aussaat
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 172/65/CEE del Consiglio, del 13 dicembre 1965, relativo
+    ai prelievi applicabili al granturco ibrido destinato alla semina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 172/65/EEG van de Raad van 13 december 1965 betreffende
+    de heffingen die van toepassing zijn op maïshybriden voor zaaidoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0172
+docidentifier:
+- content: EU Regulation 172/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0172
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/172/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-12-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

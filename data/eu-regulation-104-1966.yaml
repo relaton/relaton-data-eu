@@ -1,0 +1,71 @@
+---
+id: EURegulation1041966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 104/66/CEE du Conseil, du 23 juillet 1966, portant suspension
+    temporaire de la perception des prélèvements applicables à l'importation de
+    certaines viandes bovines congelées destinées, sous contrôle douanier, à la
+    transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 104/66/EWG des Rates vom 23. Juli 1966 über die zeitlich
+    begrenzte Aussetzung der Abschöpfungen auf die Einfuhren von zur Verarbeitung
+    unter Zollaufsicht bestimmtem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 104/66/CEE del Consiglio, del 23 luglio 1966, relativo alla
+    sospensione temporanea della riscossione dei prelievi applicabili all'importazione
+    di determinate carni bovine congelate destinate alla trasformazione sotto controllo
+    doganale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 104/66/EEG van de Raad van 23 juli 1966 houdende tijdelijke
+    schorsing van de heffingen welke van toepassing zijn op de invoer van bepaalde
+    soorten bevroren rundvlees, bestemd voor verwerking onder douanetoezicht
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0104
+docidentifier:
+- content: EU Regulation 104/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0104
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/104/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

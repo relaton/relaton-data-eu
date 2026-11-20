@@ -1,0 +1,81 @@
+---
+id: EURegulation1171965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 117/65/CEE de la Commission, du 16 juillet 1965, fixant,
+    en application de l'article 3 du règlement n 38/64/CEE du Conseil relatif à
+    la libre circulation des travailleurs à l'intérieur de la Communauté, la liste
+    des communes des zones frontalières, établies de part et d'autre de la frontière
+    commune à certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 117/65/EWG der Kommission vom 16. Juli 1965 zu Artikel 3
+    der Verordnung Nr. 38/64/EWG des Rates über die Freizügigkeit der Arbeitnehmer
+    in der Gemeinschaft zur Aufstellung der Liste der Gemeinden innerhalb der Grenzzonen,
+    die beiderseits gemeinsamer Grenzen von Mitgliedstaaten festgelegt wurden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 117/65/CEE della Commissione, del 16 luglio 1965, che stabilisce,
+    a norma dell'articolo 3 del regolamento n. 38/64/CEE del Consiglio, relativo alla
+    libera circolazione dei lavoratori all'interno della Comunità, l'elenco dei Comuni
+    delle zone frontaliere costituite da una parte e dall'altra della frontiera comune
+    ad alcuni Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 117/65/EEG van de Commissie van 16 juli 1965 houdende vaststelling
+    van de lijst van gemeenten in de grenszones die aan weerszijden van de gemeenschappelijke
+    grens tussen een aantal Lid-Staten zijn vastgesteld op grond van artikel 3 van
+    Verordening Nr. 38/64/EEG van de Raad met betrekking tot het vrije verkeer van
+    werknemers binnen de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0117
+docidentifier:
+- content: EU Regulation 117/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0117
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/117/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-07-16'
+- type: implemented
+  at: '1965-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

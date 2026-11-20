@@ -1,0 +1,85 @@
+---
+id: EURegulation631965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 63/65/CEE du Conseil, du 13 mai 1965, portant dérogation
+    à l'article 17 du règlement n° 19 du Conseil et application de l'article 11
+    paragraphe 3 du règlement n° 16/64/CEE en ce qui concerne la fixation à l'avance
+    du prélèvement pour certains produits dans les secteurs des céréales et du
+    riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 63/65/EWG des Rates vom 13. Mai 1965 über eine von Artikel
+    17 der Verordnung Nr. 19 abweichende Regelung und die Anwendung des Artikels 11
+    Absatz (3) der Verordnung Nr. 16/64/EWG betreffend die vorherige Festsetzung der
+    Abschöpfung für bestimmte Getreide- und Reiserzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 63/65/CEE del Consiglio, del 13 maggio 1965, relativo ad
+    una deroga all'articolo 17 del regolamento n. 19 del Consiglio e all'applicazione
+    dell'articolo 11, paragrafo 3, del regolamento n. 16/64/CEE, in merito alla fissazione
+    in anticipo del prelievo per taluni prodotti nei settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 63/65/EEG van de Raad van 13 mei 1965 houdende afwijking
+    van artikel 17 van Verordening Nr. 19 van de Raad en toepassing van artikel 11,
+    lid 3, van Verordening Nr. 16/64/EEG van de Raad met betrekking tot het vooraf
+    vaststellen van de heffing voor bepaalde produkten in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0063
+docidentifier:
+- content: EU Regulation 63/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0063
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/63/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-05-13'
+- type: implemented
+  at: '1965-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0031
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EURegulation27531975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2753/75 of the Council of 29 October 1975 on imports
+    of durum wheat from Morocco
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2753/75 du Conseil, du 29 octobre 1975, relatif aux
+    importations de froment dur du Maroc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2753/75 des Rates vom 29. Oktober 1975 betreffend
+    die Einfuhr von Hartweizen aus Marokko
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2753/75 af 29. oktober 1975 om indførsel
+    af hård hvede fra Marokko
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2753/75 τού Συμβουλίου
+    τής 29ης Οκτωβρίου 1975 περί τών εισαγωγών σκληρού
+    σίτου από τό Μαρόκο
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2753/75 del Consiglio, del 29 ottobre 1975, relativo
+    alle importazioni di frumento duro dal Marocco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2753/75 van de Raad van 29 oktober 1975 betreffende
+    de invoer van durum tarwe uit Marokko
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2753
+docidentifier:
+- content: EU Regulation 2753/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2753
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2753/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1464
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

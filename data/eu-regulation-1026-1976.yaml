@@ -1,0 +1,94 @@
+---
+id: EURegulation10261976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1026/76 of 30 April 1976 amending Regulation
+    (EEC) No 571/76 following the fixing of a new exchange rate to be applied in Italy
+    in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1026/76 de la Commission, du 30 avril 1976, modifiant
+    le règlement (CEE) n° 571/76 suite à la fixation d' un nouveau taux de change
+    à appliquer pour l' Italie dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1026/76 der Kommission vom 30. April 1976 zur Änderung
+    der Verordnung (EWG) Nr. 571/76 im Anschluß an die Festsetzung eines neuen Umrechnungskurses
+    für die Landwirtschaft in Italien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1026/76 af 30. april 1976 om ændring
+    af forordning (EØF) nr. 571/76 som følge af fastsættelse af en ny vekselkurs,
+    der skal anvendes inden for landbrugssektoren for Italiens vedkommende
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1026/76 della Commissione, del 30 aprile 1976, che
+    modifica il regolamento (CEE) n. 571/76 in seguito alla fissazione di un nuovo
+    tasso di cambio da applicare nel settore agricolo per l' Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1026/76 van de Commissie van 30 april 1976 tot wijziging
+    van Verordening (EEG) nr. 571/76 naar aanleiding van de vaststelling van een nieuwe
+    voor Italië in de landbouwsector toe te passen wisselkoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1026
+docidentifier:
+- content: EU Regulation 1026/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1026
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1026/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-04-30'
+- type: implemented
+  at: '1976-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0571
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

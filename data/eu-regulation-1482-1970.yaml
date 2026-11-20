@@ -1,0 +1,76 @@
+---
+id: EURegulation14821970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1482/70 de la Commission, du 24 juillet 1970, relatif
+    à des mesures d'application concernant les importations de riz et brisures originaires
+    des États africains et malgache associés ou des pays et territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1482/70 der Kommission vom 24. Juli 1970 über Durchführungsmaßnahmen
+    für die Einfuhren von Reis und Bruchreis mit Ursprung in den assoziierten afrikanischen
+    Staaten und Madagaskar oder den überseeischen Ländern und Gebieten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1482/70 della Commissione, del 24 luglio 1970, relativo
+    a misure d'applicazione per quanto concerne le importazioni di riso e di rotture
+    di riso originari degli Stati africani e malgascio associati o dei paesi e territori
+    d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1482/70 van de Commissie van 24 juli 1970 houdende
+    uitvoeringsbepalingen voor de invoer van rijst en breukrijst van oorsprong uit
+    de geassocieerde Afrikaanse staten en Madagaskar of uit de landen en gebieden
+    overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1482
+docidentifier:
+- content: EU Regulation 1482/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1482
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1482/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-24'
+- type: implemented
+  at: '1970-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

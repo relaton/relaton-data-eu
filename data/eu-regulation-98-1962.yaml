@@ -1,0 +1,68 @@
+---
+id: EURegulation981962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 98 de la Commission déterminant les critères de modification
+    de l'élément mobile du prélèvement perçu sur certains produits transformés
+    à base de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 98 der Kommission über die Kriterien für die Änderung
+    des beweglichen Teilbetrags der Abschöpfung auf bestimmte Getreideverarbeitungserzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 98 della Commissione che stabilisce i criteri per la modificazione
+    dell'elemento mobile del prelievo riscosso su determinati prodotti trasformati
+    a base di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 98 van de Commissie ter bepaling van de criteria voor een
+    wijziging van het variabele element van de heffing op sommige op basis van granen
+    verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0098
+docidentifier:
+- content: EU Regulation 98/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0098
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/98/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

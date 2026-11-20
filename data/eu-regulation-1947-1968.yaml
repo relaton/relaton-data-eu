@@ -1,0 +1,93 @@
+---
+id: EURegulation19471968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1947/68 of the Commission of 2 December 1968 amending
+    Regulation No 118/66/EEC on the form of return for the farm accountancy data network
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1947/68 de la Commission, du 2 décembre 1968, modifiant
+    le règlement n° 118/66/CEE relatif à la fiche d' exploitation du réseau d'
+    information comptable agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1947/68 der Kommission vom 2. Dezember 1968 zur Änderung
+    der Verordnung Nr. 118/66/EWG betreffend den Betriebsbogen des Informationsnetzes
+    landwirtschaftlicher Buchführungen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning nr. 1947/68/EØF af 2. december 1968 om ændring
+    af forordning nr. 118/66/EØF om bedriftsskema fra informationsnettet for landøkonomisk
+    bogføring
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1947/68 della Commissione, del 2 dicembre 1968, che
+    modifica il regolamento n. 118/66/CEE relativo alla scheda aziendale della rete
+    d' informazione contabile agricola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1947/68 van de Commissie van 2 december 1968 tot
+    wijziging van Verordening nr. 118/66/EEG met betrekking tot het bedrijfsformulier
+    van het informatienet inzake landbouwbedrijfsboekhoudingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1947
+docidentifier:
+- content: EU Regulation 1947/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1947
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1947/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-02'
+- type: implemented
+  at: '1968-12-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0118
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

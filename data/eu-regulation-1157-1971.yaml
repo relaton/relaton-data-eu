@@ -1,0 +1,70 @@
+---
+id: EURegulation11571971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1157/71 de la Commission, du 2 juin 1971, fixant les
+    prix de référence pour les citrons
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1157/71 der Kommission vom 2. Juni 1971 zur Festsetzung
+    der Referenzpreise für Zitronen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1157/71 della Commissione, del 2 giugno 1971, che
+    fissa i prezzi di riferimento per i limoni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1157/71 van de Commissie van 2 juni 1971 houdende
+    vaststelling van de referentieprijzen voor citroenen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1157
+docidentifier:
+- content: EU Regulation 1157/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1157
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1157/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-02'
+- type: implemented
+  at: '1971-06-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

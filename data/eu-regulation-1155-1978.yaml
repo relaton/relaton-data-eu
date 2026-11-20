@@ -1,0 +1,93 @@
+---
+id: EURegulation11551978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1155/78 of 30 May 1978 amending for the fifth
+    time Regulation (EEC) No 1163/76 on the granting of a conversion premium in the
+    wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1155/78 du Conseil, du 30 mai 1978, portant cinquième
+    modification du règlement (CEE) n° 1163/76 relatif à l' octroi d' une prime
+    de reconversion dans le domaine de la viticulture
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1155/78 des Rates vom 30. Mai 1978 zur fünften Änderung
+    der Verordnung (EWG) Nr. 1163/76 über die Gewährung einer Umstellungsprämie
+    im Weinbau
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1155/78 af 30. maj 1978 om femte ændring
+    af forordning (EØF) nr. 1163/76 om ydelse af omstillingspræmie til vindyrkere
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1155/78 del Consiglio, del 30 maggio 1978, che modifica
+    per la quinta volta il regolamento (CEE) n. 1163/76 relativo alla concessione
+    di un premio di riconversione nel settore della viticoltura
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1155/78 van de Raad van 30 mei 1978 houdende vijfde
+    wijziging van Verordening (EEG) nr. 1163/76 inzake de toekenning van een omschakelingspremie
+    in de wijnbouwsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1155
+docidentifier:
+- content: EU Regulation 1155/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1155
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1155/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-30'
+- type: implemented
+  at: '1978-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1163
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

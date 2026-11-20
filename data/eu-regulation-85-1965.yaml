@@ -1,0 +1,97 @@
+---
+id: EURegulation851965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 85/65/CEE du Conseil, du 22 juin 1965, modifiant le règlement
+    n° 55/65/CEE relatif à l'écoulement sur les marchés des États membres de
+    fromages des types emmental, gruyère et sbrinz ou du type cheddar ayant fait
+    l'objet de mesures nationales d'intervention et le règlement n° 56/65/CEE relatif
+    à la restitution applicable dans les échanges intracommunautaires de fromages
+    des types emmental, gruyère et sbrinz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 85/65/EWG des Rates vom 22. Juni 1965 zur Änderung der
+    Verordnung Nr. 55/65/EWG über den Absatz von Emmentaler, Greyerzer und Sbrinz-
+    oder Cheddar-Käse, für den einzelstaatliche Interventionsmaßnahmen getroffen
+    wurden, auf dem Markt der Mitgliedstaaten und zur Änderung der Verordnung Nr.
+    56/65/EWG über die Erstattung für Emmentaler, Greyerzer und Sbrinz-Käse im
+    innergemeinschaftlichen Handel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 85/65/CEE del Consiglio, del 22 giugno 1965, concernente
+    la modifica del regolamento n. 55/65/CEE relativo allo smercio sui mercati degli
+    Stati membri dei formaggi dei tipi Emmental, Gruyère e Sbrinz o del tipo Cheddar,
+    che sono stati oggetto di misure nazionali di intervento, e del regolamento n.
+    56/65/CEE, relativo alla restituzione applicabile agli scambi intracomunitari
+    di formaggi dei tipi Emmental, Gruyère e Sbrinz
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 85/65/EEG van de Raad van 22 juni 1965 tot wijziging van
+    Verordening Nr. 55/65/EEG betreffende het afzetten op de markt van de Lid-Staten
+    van Emmentaler-, Gruyère- en Sbrinz- of Cheddarkaas waarop nationale interventiemaatregelen
+    zijn toegepast, en van Verordening Nr. 56/65/EEG betreffende de restitutie die
+    in het intracommunautaire handelsverkeer in Emmentaler-, Gruyère- en Sbrinzkaas
+    van toepassing is
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0085
+docidentifier:
+- content: EU Regulation 85/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0085
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/85/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-22'
+- type: implemented
+  at: '1965-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0055
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0056
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

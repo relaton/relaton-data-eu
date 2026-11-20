@@ -1,0 +1,74 @@
+---
+id: EURegulation831965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 83/65/CEE du Conseil, du 12 avril 1965, remplaçant le texte
+    de l'article 2 paragraphe 3 du règlement n° 141/64/CEE du Conseil relatif au
+    régime des produits transformés à base de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 83/65/EWG des Rates vom 12. April 1965 zur Neufassung des
+    Artikels 2 Absatz (3) der Verordnung Nr. 141/64/EWG des Rates über die Regelung
+    für Getreide- und Reisverarbeitungserzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 83/65/CEE del Consiglio, del 12 aprile 1965, che sostituisce
+    il testo dell'articolo 2, paragrafo 3, del regolamento n. 141/64/CEE del Consiglio
+    relativo al regime dei prodotti trasformati a base di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 83/65/EEG van de Raad van 12 april 1965 houdende vervanging
+    van de tekst van artikel 2, lid 3, van Verordening Nr. 141/64/EEG van de Raad
+    betreffende de regeling voor de op basis van granen en rijst verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0083
+docidentifier:
+- content: EU Regulation 83/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/83/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-04-12'
+- type: implemented
+  at: '1965-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,93 @@
+---
+id: EURegulation1521971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 152/71 of the Council of 26 January 1971 amending Regulation
+    (EEC) No 750/68 laying down general rules for offsetting storage costs for sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 152/71 du Conseil, du 26 janvier 1971, modifiant le
+    règlement (CEE)" n° 750/68 établissant les règles générales de compensation
+    des frais de stockage dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 152/71 des Rates vom 26. Januar 1971 zur Änderung
+    der Verordnung (EWG) Nr. 750/68 zur Aufstellung allgemeiner Regeln für den Ausgleich
+    der Lagerkosten für Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 152/71 af 26. januar 1971 om ændring af
+    forordning (EØF) nr. 750/68 om fastsættelse af almindelige regler for udligning
+    af lageromkostninger for så vidt angår sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 152/71 del Consiglio, del 26 gennaio 1971, che modifica
+    il regolamento (CEE) n. 750/68 che stabilisce le disposizioni generali di compensazione
+    delle spese di magazzinaggio nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 152/71 van de Raad van 26 januari 1971 tot wijziging
+    van Verordening (EEG) nr. 750/68 houdende de algemene voorschriften inzake verevening
+    van de opslagkosten in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0152
+docidentifier:
+- content: EU Regulation 152/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0152
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/152/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-26'
+- type: implemented
+  at: '1971-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0750
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

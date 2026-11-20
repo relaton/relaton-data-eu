@@ -1,0 +1,73 @@
+---
+id: EURegulation1601966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 160/66/CEE du Conseil, du 27 octobre 1966, portant instauration
+    d'un régime d'échanges pour certaines marchandises résultant de la transformation
+    de produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 160/66/EWG des Rates vom 27. Oktober 1966 über die Einführung
+    einer Handelsregelung für bestimmte landwirtschaftliche Verarbeitungserzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 160/66/CEE del Consiglio, del 27 ottobre 1966, relativo
+    all'instaurazione di un regime di scambi per talune merci risultanti dalla trasformazione
+    di prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 160/66/EEG van de Raad van 27 oktober 1966 tot invoering
+    van een handelsregeling voor bepaalde goederen, verkregen door verwerking van
+    landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0160
+docidentifier:
+- content: EU Regulation 160/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0160
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/160/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-27'
+- type: implemented
+  at: '1966-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

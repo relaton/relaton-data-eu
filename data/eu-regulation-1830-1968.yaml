@@ -1,0 +1,65 @@
+---
+id: EURegulation18301968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1830/68 de la Commission, du 15 novembre 1968, portant
+    fixation du montant de l'aide dans le secteur des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1830/68 der Kommission vom 15. November 1968 zur Festsetzung
+    des Betrages der Beihilfe für Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1830/68 della Commissione, del 15 novembre 1968, che
+    fissa l'importo dell'integrazione nel settore dei semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1830/68 van de Commissie van 15 november 1968 houdende
+    vaststelling van het bedrag van de steun in de sector oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1830
+docidentifier:
+- content: EU Regulation 1830/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1830
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1830/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

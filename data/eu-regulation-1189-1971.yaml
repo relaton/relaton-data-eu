@@ -1,0 +1,101 @@
+---
+id: EURegulation11891971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1189/71 of the Commission of 7 June 1971 amending Regulation
+    (EEC) No 757/71 on special rules of application for granting aid for exports of
+    skimmed milk powder for use as feed and skimmed milk processed into compound feeding-stuffs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1189/71 de la Commission, du 7 juin 1971, modifiant
+    le règlement (CEE) n° 757/71 relatif à des modalités d' application particulières
+    concernant l' octroi d' aides pour le lait écrémé en poudre destiné à l'
+    alimentation des animaux et le lait écréme transformé en aliments composés
+    lors de l' exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1189/71 der Kommission vom 7. Juni 1971 zur Änderung
+    der Verordnung (EWG) Nr. 757/71 über besondere Durchführungsbestimmungen hinsichtlich
+    der Beihilfengewährung für Magermilchpulver für Futterzwecke und zu Mischfutter
+    verarbeitete Magermilch bei der Ausfuhr
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1189/71 af 7. juni 1971 om ændring
+    af forordning (EØF) nr. 757/71 om særlige, ved udførsel anvendelige, gennemførelsesbestemmelser
+    om ydelse af støtte til skummetmælkspulver til foderbrug og skummetmælk, der
+    forarbejdes til foderblandinger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1189/71 della Commissione, del 7 giugno 1971, che
+    modifica il regolamento (CEE) n. 757/71 relativo a modalità d' applicazione particolari
+    concernenti la concessione d' aiuti per il latte scremato in polvere destinato
+    all' alimentazione degli animali e per il latte scremato trasformato in alimenti
+    composti, al momento dell' esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1189/71 van de Commissie van 7 juni 1971 houdende
+    wijziging van Verordening (EEG) nr. 757/71 betreffende bijzondere uitvoeringsbepalingen
+    met betrekking tot de steunverlening bij uitvoer van magere-melkpoeder bestemd
+    voor voederdoeleinden en tot mengvoeder verwerkte ondermelk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1189
+docidentifier:
+- content: EU Regulation 1189/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1189
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1189/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-07'
+- type: implemented
+  at: '1971-06-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0757
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

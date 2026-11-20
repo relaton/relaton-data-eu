@@ -1,0 +1,91 @@
+---
+id: EURegulation3861979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 386/79 of 26 February 1979 amending Regulation
+    (EEC) No 68/79 fixing countervailing charges on seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 386/79 de la Commission, du 26 février 1979, modifiant
+    le règlement (CEE) n° 68/79 fixant les taxes compensatoires dans le secteur
+    des semences
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 386/79 der Kommission vom 26. Februar 1979 zur Änderung
+    der Verordnung (EWG) Nr. 68/79 zur Festsetzung der Ausgleichsabgaben für Saatgut
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 386/79 af 26. februar 1979 om ændring
+    af forordning (EØF) nr. 68/79 om fastsættelse af udligningsafgifterne for frø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 386/79 della Commissione, del 26 febbraio 1979, che
+    modifica il regolamento (CEE) n. 68/79 che fissa le tasse di compensazione nel
+    settore delle sementi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 386/79 van de Commissie van 26 februari 1979 houdende
+    wijziging van Verordening (EEG) nr. 68/79 tot vaststelling van de compenserende
+    heffingen in de sector zaaizaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0386
+docidentifier:
+- content: EU Regulation 386/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0386
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/386/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-02-26'
+- type: implemented
+  at: '1979-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0068
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

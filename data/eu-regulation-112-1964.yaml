@@ -1,0 +1,70 @@
+---
+id: EURegulation1121964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 112/64/CEE du Conseil, du 30 juillet 1964, portant fixation
+    des prix de référence pour les produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 112/64/EWG des Rates vom 30. Juli 1964 zur Festsetzung der
+    Referenzpreise für Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 112/64/CEE del Consiglio, del 30 luglio 1964, relativo alla
+    fissazione dei prezzi di riferimento per i prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 112/64/EEG van de Raad van 30 juli 1964 houdende vaststelling
+    van de referentieprijzen voor zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0112
+docidentifier:
+- content: EU Regulation 112/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0112
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/112/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-30'
+- type: implemented
+  at: '1964-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

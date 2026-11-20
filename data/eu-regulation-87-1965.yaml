@@ -1,0 +1,98 @@
+---
+id: EURegulation871965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 87/65/CEE du Conseil, du 29 juin 1965, portant prorogation
+    de la validité du règlement n° 76/64/CEE du Conseil, relatif à la fixation
+    du montant des prélèvements pour les produits du secteur de la viande de volaille
+    dont les droits de douane ont fait l' objet d' une consolidation dans le cadre
+    du G.A.T.T.
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 87/65/EWG des Rates, vom 29. Juni 1965, über die Verlängerung
+    der Geltungsdauer der Verordnung Nr. 76/64/EWG des Rates über die Festsetzung
+    der Abschöpfungsbeträge für Erzeugnisse der Geflügelwirtschaft, deren Zollsätze
+    im GATT konsolidiert sind
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός αριθ. 87/65/ΕΟΚ του Συμβουλίου
+    της 29ης Ιουνίου 1965 περί παρατάσεως της ισχύος
+    του κανονισμού αριθ. 76/64/ΕΟΚ του Συμβουλίου
+    περί καθορισμού του ποσού των εισφορών για
+    τα προϊόντα του τομέως του κρέατος πουλερικών,
+    οι δασμοί των οποίων έχουν αποτελέσει αντικείμενο
+    παγιοποιήσεως στο πλαίσιο της GATT (Γενική Συμφωνία
+    Δασμών και Εμπορίου)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 87/65/CEE del Consiglio, del 29 giugno 1965, che proroga
+    la validità del regolamento n. 76/64/CEE del Consiglio relativo alla fissazione
+    dell' ammontare dei prelievi per i prodotti del settore del pollame i cui dazi
+    doganali sono stati consolidati in seno al G.A.T.T.
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 87/65/EEG van de Raad, van 29 juni 1965, tot verlenging
+    van de geldigheidsduur van Verordening nr. 76/64/EEG van de Raad inzake de vaststelling
+    van de heffingen voor de produkten van de sector slachtpluimvee waarvoor de douanerechten
+    zijn geconsolideerd in het kader van de G.A.T.T.
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0087
+docidentifier:
+- content: EU Regulation 87/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0087
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/87/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-29'
+- type: implemented
+  at: '1965-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0076
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation6571971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 657/71 du Conseil, du 30 mars 1971, portant suspension
+    temporaire du droit autonome pour certaines anguilles relevant de la sous-position
+    EX 03.01 A II a) du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 657/71 des Rates vom 30. März 1971 über die zeitweilige
+    Aussetzung des autonomen Zollsatzes für bestimmte Aale der Tarifstelle ex 03.01
+    A II a) des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 657/71 del Consiglio, del 30 marzo 1971, relativo
+    alla sospensione temporanea del dazio autonomo per talune anguille della sottovoce
+    ex 03.01 A II a) della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 657/71 van de Raad van 30 maart 1971 houdende tijdelijke
+    schorsing van het autonome recht voor bepaalde soorten paling of aal van onderverdeling
+    ex 03.01 A II a) van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0657
+docidentifier:
+- content: EU Regulation 657/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0657
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/657/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-30'
+- type: implemented
+  at: '1971-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

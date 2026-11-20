@@ -1,0 +1,65 @@
+---
+id: EURegulation1831968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 183/68 de la Commission, du 15 février 1968, portant
+    fixation des restitutions pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 183/68 der Kommission vom 15. Februar 1968 zur Festsetzung
+    der Erstattungen bei der Ausfuhr für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 183/68 della Commissione, del 15 febbraio 1968, che
+    fissa le restituzioni all'esportazione per il riso e le rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 183/68 van de Commissie van 15 februari 1968 tot
+    vaststelling van de restituties bij uitvoer voor rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0183
+docidentifier:
+- content: EU Regulation 183/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0183
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/183/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation221965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 22/65/CEE de la Commission, du 10 mars 1965, maintenant, à
+    titre transitoire, l'abattement sur le prélèvement applicable aux importations
+    de riz décortiqué, visé aux règlements n 105/64/CEE et n 172/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 22/65/EWG der Kommission vom 10. März 1965 zur vorübergehenden
+    Aufrechterhaltung des Abschlags auf die Abschöpfung, die auf die in den Verordnungen
+    Nr. 105/64/EWG und 172/64/EWG genannten Einfuhren von geschältem Reis erhoben
+    wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 22/65/CEE della Commissione, del 10 marzo 1965, che mantiene,
+    a titolo transitorio, la riduzione del prelievo all'importazione di riso semigreggio,
+    di cui ai regolamenti nn. 105/64/CEE e 172/64/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 22/65/EEG van de Commissie van 10 maart 1965 houdende de
+    handhaving van een voorlopige aftrek van de heffing van toepassing op de invoer
+    van gedopte rijst, genoemd in de Verordeningen nos. 105/64/ EEG en 172/64/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0022
+docidentifier:
+- content: EU Regulation 22/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0022
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/22/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

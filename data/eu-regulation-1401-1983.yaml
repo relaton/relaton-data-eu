@@ -1,0 +1,104 @@
+---
+id: EURegulation14011983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1401/83 of 1 June 1983 amending for the
+    sixth time Regulation (EEC) No 2192/82 laying down detailed rules for the application
+    of the special measures for peas and field beans
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1401/83 de la Commission du 1er juin 1983 portant sixième
+    modification du règlement (CEE) no 2192/82 portant modalités d' application
+    des mesures spéciales pour les pois, fèves et féveroles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1401/83 der Kommission vom 1. Juni 1983 zur sechsten
+    Änderung der Verordnung (EWG) Nr. 2192/82 mit Durchführungsbestimmungen für
+    die besonderen Maßnahmen für Erbsen, Puffbohnen und Ackerbohnen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1401/83 af 1. juni 1983 om sjette ændring
+    af forordning (EØF) nr. 2192/82 om gennemførelsesbestemmelser vedrørende særforanstaltninger
+    for ærter, bønner og hestebønner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1401/83 της Επιτροπής
+    της 1ης Ιουνίου 1983 περί έκτης τροποποιήσεως
+    του κανονισμού (ΕΟΚ) αριθ. 2192/82 περί των λεπτομερειών
+    εφαρμογής των ειδικών μέτρων για τα πίσα, τα
+    κουκιά και τα φούλια
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1401/83 della Commissione del 1o giugno 1983 che modifica
+    per la sesta volta il regolamento (CEE) n. 2192/82, recante modalità di applicazione
+    delle misure speciali per i piselli, le fave e le favette
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1401/83 van de Commissie van 1 juni 1983 tot zesde
+    wijziging van Verordening (EEG) nr. 2192/82 houdende bepalingen ter uitvoering
+    van de bijzondere maatregelen voor erwten, tuin- en veldbonen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1401
+docidentifier:
+- content: EU Regulation 1401/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1401
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1401/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-06-01'
+- type: implemented
+  at: '1983-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R2192
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

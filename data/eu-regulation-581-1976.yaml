@@ -1,0 +1,94 @@
+---
+id: EURegulation5811976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 581/76 of 15 March 1976 amending Regulation
+    (EEC) No 1896/73 on detailed rules for the application of intervention measures
+    on the market in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 581/76 de la Commission, du 15 mars 1976, modifiant
+    le règlement (CEE) n° 1896/73 relatif aux modalités d' application des mesures
+    d' intervention dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 581/76 der Kommission vom 15. März 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1896/73 über die Durchführungsbestimmungen bei Interventionsmaßnahmen
+    auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 581/76 af 15. marts 1976 om ændring
+    af forordning (EØF) nr. 1896/73 om de nærmere regler for anvendelsen af interventionsforanstaltninger
+    inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 581/76 della Commissione, del 15 marzo 1976, che modifica
+    il regolamento (CEE) n. 1896/73 relativo alle modalità di applicazione delle
+    misure d' intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 581/76 van de Commissie van 15 maart 1976 tot wijziging
+    van Verordening (EEG) nr. 1896/73 betreffende de wijze van toepassing van de interventiemaatregelen
+    in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0581
+docidentifier:
+- content: EU Regulation 581/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0581
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/581/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-15'
+- type: implemented
+  at: '1976-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

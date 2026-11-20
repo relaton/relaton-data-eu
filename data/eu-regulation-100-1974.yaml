@@ -1,0 +1,100 @@
+---
+id: EURegulation1001974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 100/74 of the Commission of 15 January 1974 fixing
+    for the 1973/74 sugar marketing year the maximum amount of the contribution to
+    storage costs which sugar manufacturers may require of beet and cane producers
+    when sugar is carried forward
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 100/74 de la Commission, du 15 janvier 1974, fixant,
+    pour la campagne sucrière 1973/1974, le montant maximum pour la participation
+    aux frais de stockage que les fabricants de sucre peuvent, en cas de report, exiger
+    des producteurs de betteraves et de cannes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 100/74 der Kommission vom 15. Januar 1974 zur Festsetzung
+    des Höchstbetrags, den die Zuckerhersteller im Zuckerwirtschaftsjahr 1973/1974
+    bei Übertragungen von den Zuckerrüben- und Zuckerrohrerzeugern als Beteiligung
+    an den Lagerkosten fordern können
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 100/74 af 15. januar 1974 om fastsættelse
+    for sukkerproduktionsåret 1973/1974 af den maksimale andel i oplagringsomkostningerne,
+    som sukkerfabrikanterne i tilfælde af overførsler kan afkræve producenterne
+    af sukkerroer og sukkerrør
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 100/74 della Commissione, del 15 gennaio 1974, che
+    fissa, per la campagna saccarifera 1973/1974, l'importo massimo di partecipazione
+    alle spese di magazzinaggio che i fabbricanti di zucchero, in caso di riporto,
+    possono esigere dai produttori di barbabietole e di canna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 100/74 van de Commissie van 15 januari 1974 tot vaststelling
+    voor het verkoopseizoen voor suiker 1973/1974 van het maximumbedrag van het aandeel
+    in de opslagkosten dat de suikerfabrikanten in geval van overbrenging kunnen eisen
+    van de suikerbieten- en suikerrietproducenten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0100
+docidentifier:
+- content: EU Regulation 100/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0100
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/100/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-01-15'
+- type: implemented
+  at: '1974-02-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0414
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

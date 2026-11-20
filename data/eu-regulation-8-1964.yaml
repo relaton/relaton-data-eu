@@ -1,0 +1,75 @@
+---
+id: EURegulation81964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 201/64/CEE, 8/64/Euratom des Conseils du 10 décembre 1964,
+    portant application des dispositions de l article 7 du règlement des Conseils
+    fixant le régime pécuniaire des membres de la Cour de Justice
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 201/64/EWG, 8/64/Euratom der Räte vom 10. Dezember 1964
+    zur Durchführung des Artikels 7 der Verordnung der Räte über die Regelung der
+    Amtsbezüge für die Mitglieder des Gerichtshofes
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 201/64/CEE, 8/64/Euratom dei Consigli, del 10 dicembre 1964,
+    concernente l'applicazione delle disposizioni dell'articolo 7 del regolamento
+    dei Consigli relativo alla fissazione del trattamento economico dei membri della
+    Corte di Giustizia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 201/64/EEG, 8/64/Euratom der Raden van 10 december 1964
+    ter toepassing van artikel 7 van de verordening der Raden tot vaststelling van
+    de geldelijke regeling voor de leden van het Hof van Justitie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0008
+docidentifier:
+- content: EU Regulation 8/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0008
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/8/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-10'
+- type: implemented
+  at: '1965-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

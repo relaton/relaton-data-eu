@@ -1,0 +1,90 @@
+---
+id: EURegulation4761973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 476/73 of the Commission of 8 February 1973 amending
+    Regulation (EEC) No 71/73 on the sale of butter from public stocks
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 476/73 de la Commission, du 8 février 1973, modifiant
+    le règlement (CEE) n° 71/73 relatif à la vente de beurre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 476/73 der Kommission vom 8. Februar 1973 zur Änderung
+    der Verordnung (EWG) Nr. 71/73 über den Verkauf von Butter aus staatlicher Lagerhaltung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 476/73 af 8. februar 1973 om ændring
+    af forordning (EØF) nr. 71/73 om salg af smør fra offentlige lagre
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 476/73 della Commissione, dell' 8 febbraio 1973, che
+    modifica il regolamento (CEE) n. 71/73 relativo alla vendita di burro di ammasso
+    pubblico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 476/73 van de Commissie van 8 februari 1973 houdende
+    wijziging van Verordening (EEG) nr. 71/73 met betrekking tot de verkoop van boter
+    uit openbare opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0476
+docidentifier:
+- content: EU Regulation 476/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0476
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/476/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-02-08'
+- type: implemented
+  at: '1973-02-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0071
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

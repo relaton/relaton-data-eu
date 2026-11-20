@@ -1,0 +1,74 @@
+---
+id: EURegulation7891967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 789/67/CEE du Conseil, du 31 octobre 1967, portant instauration
+    d'un régime des échanges pour les produits transformés à base de fruits et
+    légumes, avec addition de sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 789/67/EWG des Rates vom 31. Oktober 1967 über die Einführung
+    einer Handelsregelung für Verarbeitungserzeugnisse aus Obst und Gemüse mit Zusatz
+    von Zucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 789/67/CEE del Consiglio, del 31 ottobre 1967, relativo
+    all'instaurazione di un regime di scambi per i prodotti trasformati a base di
+    ortofrutticoli con aggiunta di zuccheri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 789/67/EEG van de Raad van 31 oktober 1967 houdende invoering
+    van een regeling voor het handelsverkeer in op basis van groenten en fruit verwerkte
+    produkten met toegevoegde suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0789
+docidentifier:
+- content: EU Regulation 789/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0789
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/789/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-31'
+- type: implemented
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

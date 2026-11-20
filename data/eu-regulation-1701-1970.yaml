@@ -1,0 +1,70 @@
+---
+id: EURegulation17011970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1701/70 de la Commission, du 25 août 1970, modifiant
+    les règlements (CEE) ns 1134/70 et 1275/70 en ce qui concerne la commercialisation
+    de vins qui ne correspondent pas aux prescriptions du règlement (CEE) n 816/70
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1701/70 der Kommission vom 25. August 1970 zur Änderung
+    der Verordnungen (EWG) Nrn. 1134/70 und 1275/70 über die Vermarktung von Weinen,
+    die den Vorschriften der Verordnung (EWG) Nr. 816/70 nicht entsprechen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1701/70 della Commissione, del 25 agosto 1970, che
+    modifica i regolamenti (CEE) n. 1134/70 e n. 1275/70 per quanto riguarda la commercializzazione
+    di vini non conformi alle disposizioni del regolamento (CEE) n. 816/70
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1701/70 van de Commissie van 25 augustus 1970 houdende
+    wijziging van de Verordeningen (EEG) nrs. 1134/70 en 1275/70 met betrekking tot
+    het in de handel brengen van wijnen die niet beantwoorden aan de bepalingen van
+    Verordening (EEG) nr. 816/70
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1701
+docidentifier:
+- content: EU Regulation 1701/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1701
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1701/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-08-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

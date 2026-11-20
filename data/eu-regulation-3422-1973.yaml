@@ -1,0 +1,96 @@
+---
+id: EURegulation34221973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3422/73 of the Commission of 18 December 1973 completing
+    Regulation (EEC) No 1821/73 on the method of calculation of the premium for the
+    conversion of dairy herds to meat production
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3422/73 de la Commission, du 18 décembre 1973, complétant
+    le règlement (CEE) n° 1821/73 en ce qui concerne le mode de calcul de la prime
+    de reconversion vers la production de viande de troupeaux bovins à orientation
+    laitière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3422/73 der Kommission vom 18. Dezember 1973 zur Ergänzung
+    der Verordnung (EWG) Nr. 1821/73 hinsichtlich der Berechnung der Prämie für
+    die Umstellung von Milchkuhbeständen auf Bestände zur Fleischerzeugung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3422/73 af 18. december 1973 om tillæg
+    til forordning (EØF) nr. 1821/73 angående beregningsmetoden af præmier for
+    omlægning af besætninger af malkekvæg til kødproduktion
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3422/73 della Commissione, del 18 dicembre 1973, che
+    completa il regolamento (CEE) n. 1821/73 per quanto riguarda le modalità di calcolo
+    del premio per la riconversione di mandrie ad orientamento lattiero verso la produzione
+    di carne
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3422/73 van de Commissie van 18 december 1973 tot
+    aanvulling van Verordening (EEG) nr. 1821/73 met betrekking tot de methode van
+    berekening van de premie voor de omschakeling van de melkveestapel op de rundvleesproduktie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3422
+docidentifier:
+- content: EU Regulation 3422/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3422
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3422/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-12-18'
+- type: implemented
+  at: '1973-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1821
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

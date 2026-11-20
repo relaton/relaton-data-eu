@@ -1,0 +1,91 @@
+---
+id: EURegulation1551971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 155/71 of the Council of 26 January 1971 on the production
+    refund on olive oil used in the manufacture of certain preserved foods
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 155/71 du Conseil, du 26 janvier 1971, relatif à
+    la restitution à la producion pour les huiles d' olive utilisées pour la fabrication
+    de certaines conserves
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 155/71 des Rates vom 26. Januar 1971 über die Erstattung
+    bei der Erzeugung für Olivenöl zur Herstellung von bestimmten Konserven
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 155/71 af 26. januar 1971 om produktionsrestitutionen
+    for de olivenolier, der benyttes til fremstilling af visse konservesprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 155/71 del Consiglio, del 26 gennaio 1971, relativo
+    alla restituzione alla produzione per gli oli d' oliva impiegati nella fabbricazione
+    di alcune conserve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 155/71 van de Raad van 26 januari 1971 betreffende
+    de restitutie bij de produktie voor olijfolie die wordt gebruikt voor de vervaardiging
+    van bepaalde conserven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0155
+docidentifier:
+- content: EU Regulation 155/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0155
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/155/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-26'
+- type: implemented
+  at: '1971-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0169
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

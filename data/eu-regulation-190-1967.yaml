@@ -1,0 +1,108 @@
+---
+id: EURegulation1901967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 190/67/EEC of the Council of 27 June 1967 amending the common
+    quality standards for tomatoes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 190/67/CEE du Conseil, du 27 juin 1967, portant modification
+    des normes communes de qualité pour les tomates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 190/67/EWG des Rates vom 27. Juni 1967 betreffend Änderungen
+    der gemeinsamen Qualitätsnormen für Tomaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 190/67/EØF af 27. juni 1967 om ændring af de fælles
+    kvalitetsnormer for tomater
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός αριθ. 190/67/ΕΟΚ του Συμβουλίου
+    της 27ης Ιουνίου 1967 περί τροποποιήσεως των κοινών
+    κανόνων ποιότητος για τις τομάτες
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus N:o 190/67/ETY, annettu 27 päivänä kesäkuuta 1967,
+    tomaatteja koskevien yhteisten laatuvaatimusten muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 190/67/CEE del Consiglio, del 27 giugno 1967, che modifica
+    le norme comuni di qualità per i pomodori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 190/67/EEG van de Raad van 27 juni 1967 houdende wijziging
+    van de gemeenschappelijke kwaliteitsnormen voor tomaten
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning nr 190/67/EEG av den 27 juni 1967 om ändring av de
+    gemensamma kvalitetsnormerna för tomater
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0190
+docidentifier:
+- content: EU Regulation 190/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0190
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/190/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0023
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

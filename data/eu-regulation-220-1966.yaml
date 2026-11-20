@@ -1,0 +1,90 @@
+---
+id: EURegulation2201966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 220/66/CEE du Conseil, du 22 décembre 1966, prorogeant
+    le règlement n° 110/66/CEE autorisant la République italienne à suspendre
+    totalement les droits de douane et les prélèvements applicables aux importations,
+    en provenance des pays tiers, d'animaux vivants de l'espèce bovine, des espèces
+    domestiques, autres, d'un poids unitaire n'excédant pas 300 kilogrammes, de la
+    position EX 01.02 à II
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 220/66/EWG des Rates vom 22. Dezember 1966 zur Verlängerung
+    der Verordnung Nr. 110/66/EWG zur Ermächtigung der Italienischen Republik, ihre
+    Zollsätze und Abschöpfungen auf Einfuhren aus dritten Ländern von Rindern,
+    lebend, Hausrindern, anderen, mit einem Stückgewicht von höchstens 300 kg, der
+    Tarifnummer ex 01.02 A II, vollständig auszusetzen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 220/66/CEE del Consiglio, del 22 dicembre 1966, recante
+    proroga al regolamento n. 110/66/CEE che autorizza la Repubblica italiana a sospendere
+    totalmente i dazi doganali e i prelievi applicabili alle importazioni in provenienza
+    dai paesi terzi di animali vivi della specie bovina, delle specie domestiche,
+    altri, di peso unitario non superiore a 300 chilogrammi, della voce ex 01.02 A
+    II
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 220/66/EEG van de Raad van 22 december 1966 houdende verlenging
+    van Verordening Nr. 110/66/EEG waarbij de Italiaanse Republiek wordt gemachtigd
+    de douanerechten en heffingen op de invoer uit derde landen van levende runderen,
+    huisdieren, andere, die per stuk niet meer wegen dan 300 kilogram, van post ex
+    01.02 A II, algeheel te schorsen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0220
+docidentifier:
+- content: EU Regulation 220/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0220
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/220/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-22'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0110
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

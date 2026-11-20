@@ -1,0 +1,93 @@
+---
+id: EURegulation2171977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 217/77 of 1 February 1977 amending Regulation
+    (EEC) No 2938/76 adjusting the amount of the levies applicable to olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 217/77 de la Commission, du 1er février 1977, modifiant
+    le règlement (CEE) n° 2938/76 portant ajustement du montant des prélèvements
+    applicables dans le secteur de l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 217/77 der Kommission vom 1. Februar 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2938/76 zur Anpassung der bei Olivenöl anzuwendenden
+    Abschöpfung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 217/77 af 1. februar 1977 om ændring
+    af forordning (EØF) nr. 2938/76 om justering af størrelsen af de importafgifter,
+    der anvendes inden for olivenoliesektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 217/77 della Commissione, del 1 febbraio 1977, recante
+    modifica del regolamento (CEE) n. 2938/76, che adegua l'importo dei prelievi applicabili
+    nel settore dell'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 217/77 van de Commissie van 1 februari 1977 tot wijziging
+    van Verordening (EEG) nr. 2938/76 houdende aanpassing van de in de sector olijfolie
+    toe te passen heffingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0217
+docidentifier:
+- content: EU Regulation 217/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0217
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/217/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-01'
+- type: implemented
+  at: '1977-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2938
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

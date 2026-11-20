@@ -1,0 +1,105 @@
+---
+id: EURegulation1931975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 193/75 of the Commission of 17 January 1975 laying
+    down common detailed rules for the application of the system of import and export
+    licences and advance fixing certificates for agricultural products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 193/75 de la Commission, du 17 janvier 1975, portant
+    modalités communes d' application du régime de certificats d' importation, d'
+    exportation et de préfixation pour les produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 193/75 der Kommission vom 17. Januar 1975 über gemeinsame
+    Durchführungsvorschriften für Einfuhr- und Ausfuhrlizenzen sowie Vorausfestsetzungsbescheinigungen
+    für landwirtschaftliche Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 193/75 af 17. januar 1975 om fælles
+    gennemførelsesbestemmelser for import- og eksportlicenser samt forudfastsættelsesattester
+    for landbrugsvarer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 193/75 της Επιτροπής
+    της 17ης Ιανουαρίου 1975 περί κοινών λεπτομερειών
+    εφαρμογής του καθεστώτος πιστοποιητικών εισαγωγής,
+    εξαγωγής και προκαθορισμού για τα γεωργικά
+    προϊόντα, εξαγωγής και προκαθορισμού για τα
+    γεωργικά προϊόντα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 193/75 della Commissione, del 17 gennaio 1975, che
+    stabilisce le modalità comuni d' applicazione del regime dei titoli d' importazione,
+    di esportazione e di fissazione anticipata relativi ai prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 193/75 van de Commissie van 17 januari 1975 houdende
+    gemeenschappelijke uitvoeringsbepalingen inzake het stelsel van invoer-, uitvoer-
+    en voorfixatiecertificaten voor landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0193
+docidentifier:
+- content: EU Regulation 193/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0193
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/193/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-17'
+- type: implemented
+  at: '1975-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1373
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

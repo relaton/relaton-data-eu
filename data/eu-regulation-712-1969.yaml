@@ -1,0 +1,84 @@
+---
+id: EURegulation7121969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 712/69 de la Commission du 17 avril 1969, modifiant
+    le règlement n° 469/67/CEE en ce qui concerne les modalités de détermination
+    de prix CAF du riz et des brisures ainsi que les montants correcteurs relatifs
+    aux qualités de brisures "glutinous"
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 712/69 der Kommission vom 17. April 1969 zur Änderung
+    der Verordnung Nr. 469/67/EWG hinsichtlich der Art und Weise der Bestimmung der
+    cif- Preise für Reis und Bruchreis und der Berichtigungsbeträge für Bruchreis
+    der "Glutinous"- Qualitäten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 712/69 della Commissione, del 17 aprile 1969, che
+    modifica i regolamento n. 469/67/CEE per quanta riguarda le modalità per la determinazione
+    dei prezzi cif per il riso e le rotture di riso, nonché gli importi correttori
+    relativi alle qualità di rotture «Glutinous»
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 712/69 van de Commissie van 17 april 1969 houdende
+    wijziging van Verordening nr. 469/67/EEG met betrekking tot de wijze waarop de
+    c.i.f.- prijzen voor rijst en breukrijst worden bepaald en met betrekking tot
+    de correctiebedragen voor de kwaliteiten breukrijst "Glutinous"
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0712
+docidentifier:
+- content: EU Regulation 712/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0712
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/712/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-17'
+- type: implemented
+  at: '1969-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0469
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

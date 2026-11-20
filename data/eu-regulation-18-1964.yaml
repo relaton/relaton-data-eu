@@ -1,0 +1,71 @@
+---
+id: EURegulation181964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 18/64/CEE du Conseil, du 5 février 1964, relatif au financement
+    des dépenses d'intervention sur le marché intérieur dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 18/64/EWG des Rats vom 5. Februar 1964 über die Finanzierung
+    der Ausgaben für Interventionen auf dem Binnenmarkt für Getreide
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 18/64/CEE del Consiglio, del 5 febbraio 1964, relativo al
+    finanziamento delle spese d'intervento sul mercato interno nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 18/64/EEG van de Raad van 5 februari 1964 betreffende de
+    financiering van de uitgaven voor interventies op de interne markt in de sector
+    granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0018
+docidentifier:
+- content: EU Regulation 18/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0018
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/18/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-02-05'
+- type: implemented
+  at: '1964-03-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

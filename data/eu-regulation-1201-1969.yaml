@@ -1,0 +1,74 @@
+---
+id: EURegulation12011969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1201/69 du Conseil, du 26 juin 1969, fixant les prix
+    d'intervention pour le sucre de betterave brut pour la période allant du 1er
+    juillet 1969 au 31 décembre 1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1201/69 des Rates vom 26. Juni 1969 zur Festsetzung
+    der Interventionspreise für Rübenrohzucker für die Zeit vom 1. Juli 1969 bis
+    zum 31. Dezember 1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1201/69 del Consiglio, del 26 giugno 1969, che fissa
+    il prezzo d'intervento dello zucchero greggio di barbabietola per il periodo 1
+    luglio - 31 dicembre 1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1201/69 van de Raad van 26 juni 1969 houdende vaststelling
+    van de interventieprijzen voor ruwe bietsuiker voor het tijdvak 1 juli 1969 tot
+    en met 31 december 1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1201
+docidentifier:
+- content: EU Regulation 1201/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1201
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1201/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-26'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

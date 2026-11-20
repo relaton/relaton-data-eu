@@ -1,0 +1,80 @@
+---
+id: EURegulation2221966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 15/66/Euratom, 222/66/CEE des Conseils, du 22 décembre
+    1966, portant modification des coefficients correcteurs dont sont affectées les
+    rémunérations et les pensions des fonctionnaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 15/66/Euratom, 222/66/EWG der Räte vom 22. Dezember 1966
+    zur Änderung der Berichtigungskoeffizienten für die Dienst- und Versorgungsbezüge
+    der Beamten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 15/66/Euratom, 222/66/CEE dei Consigli, del 22 dicembre
+    1966, che modifica i coefficienti correttori applicabili alle retribuzioni e alle
+    pensioni dei funzionari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 15/66/Euratom, 222/66/EEG van de Raden van 22 december
+    1966 tot wijziging van de aanpassingscoëfficiënten die op de bezoldiging en
+    de pensioenen van de ambtenaren worden toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0222
+docidentifier:
+- content: EU Regulation 222/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0222
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/222/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-22'
+- type: implemented
+  at: '1966-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0052
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

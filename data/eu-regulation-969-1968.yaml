@@ -1,0 +1,91 @@
+---
+id: EURegulation9691968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 969/68 of the Council of 15 July 1968 amending Regulation
+    No 120/67/EEC on the common organisation of the market in cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 969/68 du Conseil, du 15 juillet 1968, modifiant le
+    règlement n° 120/67/CEE, portant organisation commune des marchés dans le secteur
+    des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 969/68 des Rates vom 15. Juli 1968 zur Änderung der
+    Verordnung Nr. 120/67/EWG über die gemeinsame Marktorganisation für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 969/68 af 15. juli 1968 om ændring af forordning
+    nr. 120/67/EØF om den fælles markedsordning for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 969/68 del Consiglio, del 15 luglio 1968, che modifica
+    il regolamento n. 120/67/CEE, relativo all' organizzazione comune dei mercati
+    nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 969/68 van de Raad van 15 juli 1968 tot wijziging
+    van Verordening nr. 120/67/EEG houdende een gemeenschappelijke ordening der markten
+    in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0969
+docidentifier:
+- content: EU Regulation 969/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0969
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/969/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-15'
+- type: implemented
+  at: '1968-07-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,65 @@
+---
+id: EURegulation5721968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 572/68 de la Commission, du 8 mai 1968, fixant les prélèvements
+    applicables au riz et aux brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 572/68 der Kommission vom 8. Mai 1968 zur Festsetzung
+    der Abschöpfungen für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 572/68 della Commissione, dell' 8 maggio 1968, che
+    fissa i prelievi applicabili al riso e alle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 572/68 van de Commissie van 8 mei 1968 houdende vaststelling
+    van de heffingen van toepassing op rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0572
+docidentifier:
+- content: EU Regulation 572/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0572
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/572/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

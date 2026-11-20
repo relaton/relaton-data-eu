@@ -1,0 +1,92 @@
+---
+id: EURegulation27001973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2700/73 of the Council of 4 October 1973 amending Regulation
+    (EEC) No 2721/72 on the supply of skimmed-milk powder as food aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2700/73 du Conseil, du 4 octobre 1973, modifiant le
+    règlement (CEE) n° 2721/72 relatif à la fourniture de lait écrémé en poudre
+    à titre d' aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2700/73 des Rates vom 4. Oktober 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2721/72 über die Lieferung von Magermilchpulver im Rahmen
+    der Nahrungsmittelhilfe
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2700/73 af 4. oktober 1973 om ændring af
+    forordning (EØF) nr. 2721/72 om levering af skummetmælkspulver som fødevarehjælp
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2700/73 del Consiglio, del 4 ottobre 1973, che modifica
+    il regolamento (CEE) n. 2721/72 relativo alla fornitura di latte scremato in polvere
+    a titolo di aiuto alimentare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2700/73 van de Raad van 4 oktober 1973 houdende wijziging
+    van Verordening (EEG) nr. 2721/72 betreffende de levering van magere-melkpoeder
+    als voedselhulp
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2700
+docidentifier:
+- content: EU Regulation 2700/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2700
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2700/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-04'
+- type: implemented
+  at: '1973-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2721
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation21941971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2194/71 of the Commission of 13 October 1971 amending
+    Regulation (EEC) No 210/69 as regards the communication of applications for export
+    licences for milk powder
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2194/71 de la Commission, du 13 octobre 1971, modifiant
+    le règlement (CEE) n° 210/69 en ce qui concerne la communication des demandes
+    de certificats d' exportation pour le lait en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2194/71 der Kommission vom 13. Oktober 1971 zur Änderung
+    der Verordnung (EWG) Nr. 210/69 hinsichtlich der Mitteilung der beantragten Ausfuhrlizenzen
+    für Milchpulver
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2194/71 af 13. oktober 1971 om ændring
+    af forordning (EØF) nr. 210/69 med hensyn til meddelelser om ansøgte eksportlicenser
+    for mælkepulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2194/71 della Commissione, del 13 ottobre 1971, che
+    modifica il regolamento (CEE) n. 210/69 per quanto riguarda la comunicazione delle
+    domande di titoli di esportazione per il latte in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2194/71 van de Commissie van 13 oktober 1971 tot
+    wijziging van Verordening (EEG) nr. 210/69 met betrekking tot de mededeling van
+    de aangevraagde uitvoercertificaten voor melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2194
+docidentifier:
+- content: EU Regulation 2194/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2194
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2194/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-13'
+- type: implemented
+  at: '1971-10-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0210
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

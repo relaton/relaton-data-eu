@@ -1,0 +1,74 @@
+---
+id: EURegulation7751970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 775/70 du Conseil, du 28 avril 1970, portant prorogation
+    de la suspension totale du droit du tarif douanier commun applicable aux pommes
+    de terre, autres, de la sous-position 07.01 A III
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 775/70 des Rates vom 28. April 1970 zur Verlängerung
+    der Geltungsdauer der vollständigen Aussetzung des Satzes des Gemeinsamen Zolltarifs
+    für Kartoffeln, andere, der Tarifstelle 07.01 A III
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 775/70 del Consiglio, del 28 aprile 1970, relativo
+    alla proroga della sospensione totale dei dazi della tariffa doganale comune applicabili
+    alle patate, altre, della sottovoce 07.01 A III
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 775/70 van de Raad van 28 april 1970 houdende verlenging
+    van de volledige schorsing van het recht van het gemeenschappelijk douanetarief
+    op aardappelen, andere, van onderverdeling 07.01 A III
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0775
+docidentifier:
+- content: EU Regulation 775/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0775
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/775/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-28'
+- type: implemented
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

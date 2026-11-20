@@ -1,0 +1,84 @@
+---
+id: EUDecision196512
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 65/12/CEE de la Commission, du 21 décembre 1964, autorisant
+    la perception d'une taxe compensatoire sur les importations, en République fédérale
+    d'Allemagne, de caramels mous, de caramels durs, de dragées, ainsi que de pâte
+    à fondant en provenance des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '65/12/EWG: Entscheidung der Kommission vom 21. Dezember 1964 über die
+    Änderung ihrer Entscheidung vom 6. November 1964 über die Erhebung einer Ausgleichsabgaben
+    auf Einfuhren von Hartkaramellen, Weichkaramellen und Dragées in die Bundesrepublik
+    Deutschland aus einigen Mitgliedstaaten'
+  type: main
+- language: it
+  script: Latn
+  content: '65/12/CEE: Decisione della Commissione, del 21 dicembre 1964, che autorizza
+    la riscossione di una lassa di compensazione sulle importazioni nella Repubblica
+    federale di Germania di caramelle tenere, di caramelle dure e di confetti, di
+    pasta per fondente, in provenienza dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/12/EEG: Beschikking van de Commissie van 21 december 1964 houdende
+    machtiging tot het leggen van een compenserende heffing op de invoer in de Bondsrepubliek
+    Duitsland van zachte karamels, harde karamels, dragees en fondant uit bepaalde
+    Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0012
+docidentifier:
+- content: EU Decision 1965/12
+  type: EU
+  primary: true
+- content: CELEX 31965D0012
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/12/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-21'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0690
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation20051975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2005/75 of the Commission of 31 July 1975 amending
+    Regulation (EEC) No 1223/74 as regards the period of validity of export licences
+    for certain categories of cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2005/75 de la Commission, du 31 juillet 1975, modifiant
+    le règlement (CEE) n° 1223/75 en ce qui concerne la durée de validité des
+    certificats d' exportation pour certaines catégories de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2005/75 der Kommission vom 31. Juli 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1223/74 hinsichtlich der Gültigkeitsdauer der Ausfuhrlizenzen
+    für bestimmte Getreidearten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2005/75 af 31. juli 1975 om ændring
+    af forordning (EØF) nr. 1223/74 for så vidt angår gyldighedsperioden for eksportlicenser
+    for visse former for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2005/75 della Commissione, del 31 luglio 1975, che
+    modifica il regolamento (CEE) n. 1223/74 per quanto concerne la durata di validità
+    dei titoli di esportazione per determinate categorie di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2005/75 van de Commissie van 31 juli 1975 tot wijziging
+    van Verordening (EEG) nr. 1223/74 ten aanzien van de geldigheidsduur van de uitvoercertificaten
+    voor sommige soorten granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2005
+docidentifier:
+- content: EU Regulation 2005/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2005
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2005/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-31'
+- type: implemented
+  at: '1975-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1223
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

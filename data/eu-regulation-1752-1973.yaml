@@ -1,0 +1,94 @@
+---
+id: EURegulation17521973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1752/73 of the Commission of 29 June 1973 amending
+    Regulation (EEC) No 1108/68 as regards the packaging of skimmed-milk powder offered
+    to intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1752/73 de la Commission, du 29 juin 1973, modifiant
+    le règlement (CEE) n° 1108/68 en ce qui concerne l' emballage du lait écrémé
+    en poudre offert à l' organisme d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1752/73 der Kommission vom 29. Juni 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1108/68 hinsichtlich der Verpackung des den Interventionsstellen
+    angebotenen Magermilchpulvers
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1752/73 af 29. juni 1973 om ændring
+    af forordning (EF) nr. 1108/68 for så vidt angår emballeringen af skummetmælkspulver,
+    der tilbydes interventionsorganet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1752/73 della Commissione, del 29 giugno 1973, che
+    modifica il regolamento (CEE) n. 1108/68 per quanto riguarda l' imballaggio del
+    latte scremato in polvere offerto dall' organismo d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1752/73 van de Commissie van 29 juni 1973 houdende
+    wijziging van Verordening (EEG) nr. 1108/68 met betrekking tot de verpakking van
+    het ter interventie aangeboden magere-melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1752
+docidentifier:
+- content: EU Regulation 1752/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1752
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1752/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-06-29'
+- type: implemented
+  at: '1973-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1108
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

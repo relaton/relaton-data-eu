@@ -1,0 +1,78 @@
+---
+id: EURegulation4131970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 413/70 du Conseil, du 3 mars 1970, fixant les prix
+    d'intervention pour le sucre de betterave brut pour la campagne 1969/1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 413/70 des Rates vom 3. März 1970 zur Festsetzung
+    der Interventionspreise für Rübenrohzucker im Zuckerwirtschaftsjahr 1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 413/70 del Consiglio, del 3 marzo 1970, che fissa
+    i prezzi d'intervento per lo zucchero greggio di barbabietola per la campagna
+    saccarifera 1969/1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 413/70 van de Raad van 3 maart 1970 houdende vaststelling
+    van de interventieprijzen voor ruwe bietsuiker voor het verkoopseizoen voor suiker
+    1969/1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0413
+docidentifier:
+- content: EU Regulation 413/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0413
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/413/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-03'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1201
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

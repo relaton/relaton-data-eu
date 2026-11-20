@@ -1,0 +1,95 @@
+---
+id: EURegulation1151976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 115/76 of 19 January 1976 fixing the guide
+    prices for the fishery products listed in Annex I (A) and (C) to Regulation (EEC)
+    No 100/76 for the 1976 fishing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 115/76 du Conseil, du 19 janvier 1976, fixant les
+    prix d'orientation des produits de la pêche énumérés à l'annexe I sous A
+    et C du règlement (CEE) n° 100/76 pour la campagne de pêche 1976
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 115/76 des Rates vom 19. Januar 1976 zur Festsetzung
+    der Orientierungspreise für die in Anhang I Abschnitte A und C der Verordnung
+    (EWG) Nr. 100/76 aufgeführten Fischereierzeugnisse für das Fischwirtschaftsjahr
+    1976
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 115/76 af 19. januar 1976 om fastsættelse
+    af orienteringspriserne for de i bilag I, afsnit A og C, til forordning (EØF)
+    nr. 100/76 anførte fiskerivarer for fangstsæsonen 1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 115/76 del Consiglio, del 19 gennaio 1976, che fissa,
+    per la campagna di pesca 1976, i prezzi d'orientamento dei prodotti della pesca
+    di cui all'allegato I, lettere A e C, del regolamento (CEE) n. 100/76
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 115/76 van de Raad van 19 januari 1976 tot vaststelling
+    van de oriëntatieprijzen voor de in bijlage I, sub A en C, van Verordening (EEG)
+    nr. 100/76 genoemde visserijprodukten voor het visseizoen 1976
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0115
+docidentifier:
+- content: EU Regulation 115/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0115
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/115/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-01-19'
+- type: implemented
+  at: '1976-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3305
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

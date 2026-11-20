@@ -1,0 +1,97 @@
+---
+id: EURegulation16011968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1601/68 of the Council of 15 October 1968 correcting
+    the wording in the Dutch text of Regulation No 120/67/EEC with regard to the nomenclature
+    of certain cereals and amending Article 23 of that Regulation
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1601/68 du Conseil, du 15 octobre 1968, rectifiant
+    le texte, en langue néerlandaise, du règlement n° 120/67/CEE, en ce qui concerne
+    l' appellation de certaines céréales et modifiant l' article 23 dudit règlement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1601/68 des Rates vom 15. Oktober 1968 zur Berichtigung
+    des niederländischen Wortlauts der Verordnung Nr. 120/67/EWG hinsichtlich der
+    Bezeichnung bestimmter Getreidearten und zur Änderung des Artikels 23 dieser
+    Verordnung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1601/68 af 15. oktober 1968 om berigtigelse
+    af den nederlandske ordlyd af forordning nr. 120/67/EØF for så vidt angår betegnelsen
+    på visse kornsorter og om ændring af artikel 23 i denne forordning
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1601/68 del Consiglio, del 15 ottobre 1968, che rettifica
+    il testo in lingua olandese del regolamento n. 120/67/CEE per quanto concerne
+    la denominazione di alcuni cereali e che modifica l' articolo 23 dello stesso
+    regolamento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1601/68 van de Raad van 15 oktober 1968 tot verbetering
+    van de tekst in de Nederlandse taal van Verordening nr. 120/67/EEG voor wat betreft
+    de benaming van bepaalde graansoorten en tot wijziging van artikel 23 van die
+    verordening
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1601
+docidentifier:
+- content: EU Regulation 1601/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1601
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1601/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-15'
+- type: implemented
+  at: '1968-10-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

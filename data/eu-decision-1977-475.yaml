@@ -1,0 +1,110 @@
+---
+id: EUDecision1977475
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '77/475/EEC: Council Decision of 25 July 1977 amending Decision 75/459/EEC
+    on action by the European Social Fund for persons affected by employment difficulties
+    and Decision 76/206/EEC on intervention by the European Social Fund in favour
+    of persons occupied in the textile and clothing industries'
+  type: main
+- language: fr
+  script: Latn
+  content: '77/475/CEE: Décision du Conseil, du 25 juillet 1977, modifiant la décision
+    75/459/CEE relative à l'' intervention du Fonds social européen en faveur de
+    personnes touchées par les difficultés d'' emploi et la décision 76/206/CEE
+    relative à l'' intervention du Fonds social européen en faveur de personnes
+    occupées dans les secteurs du textile et de l'' habillement'
+  type: main
+- language: de
+  script: Latn
+  content: '77/475/EWG: Beschluß des Rates vom 25. Juli 1977 zur Änderung 75/459/EWG
+    über Maßnahmen des Europäischen Sozialfonds zugunsten von Personen, die von
+    der schwierigen Arbeitsmarktlage betroffen sind, und des Beschlusses 76/206/EWG
+    über Maßnahmen des Europäischen Sozialfonds zugunsten von auf dem Textil- und
+    Bekleidungssektor beschäftigten Personen'
+  type: main
+- language: da
+  script: Latn
+  content: '77/475/EØF: Rådets Afgørelse af 25. juli 1977 om ændring af afgørelse
+    75/459/EØF om intervention fra Den europæiske Socialfond til fordel for personer,
+    der er ramt af beskæftigelsesvanskelighederne og af afgørelse 76/206/EØF om
+    intervention fra Den europæiske Socialfond til fordel for personer, der er beskæftiget
+    inden for tekstil og beklædningssektorerne'
+  type: main
+- language: it
+  script: Latn
+  content: '77/475/CEE: Decisione del Consiglio, del 25 luglio 1977, che modifica
+    la decisione 75/459/CEE relativa all'' intervento del Fondo sociale europeo a
+    favore di persone colpite dalle difficoltà dell'' occupazione, nonché la decisione
+    76/206/CEE relativa all'' intervento del Fondo sociale europeo a favore di persone
+    occupate nel settore tessile e in quello dell'' abbigliamento'
+  type: main
+- language: nl
+  script: Latn
+  content: '77/475/EEG: Besluit van de Raad van 25 juli 1977 tot wijziging van Besluit
+    75/459/EEG inzake de bijstand van het Europees Sociaal Fonds ten behoeve van personen
+    die door moeilijkheden op de arbeidsmarkt zijn getroffen en van Besluit 76/206/EEG
+    betreffende de bijstand van het Europees Sociaal Fonds ten behoeve van personen
+    die werkzaam zijn in de textiel- en de kledingsector'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977D0475
+docidentifier:
+- content: EU Decision 1977/475
+  type: EU
+  primary: true
+- content: CELEX 31977D0475
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1977/475/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-07-25'
+- type: implemented
+  at: '1977-08-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975D0459
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0206
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

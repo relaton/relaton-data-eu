@@ -1,0 +1,96 @@
+---
+id: EURegulation611980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 61/80 of 11 January 1980 amending Regulation
+    (EEC) No 2712/79 as regards the exclusion of certain producers from the application
+    of the provisional anti-dumping duty on certain acrylic fibres
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 61/80 de la Commission, du 11 janvier 1980, portant
+    modification du règlement (CEE) n° 2712/79 en ce qui concerne l' exclusion de
+    certains producteurs de l' application du droit anti-"dumping" provisoire sur
+    certaines fibres acryliques
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 61/80 der Kommission vom 11. Januar 1980 zur Änderung
+    der Verordnung (EWG) Nr. 2712/79 hinsichtlich des Ausschlusses bestimmter Hersteller
+    von der Erhebung des vorläufigen Antidumpingzolls auf bestimmte Polyacryl-Spinnfasern
+    und Polyacryl-Spinnfäden
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 61/80 af 11. januar 1980 om ændring
+    af forordning (EØF) nr. 2712/79, således at visse producenter undtages fra den
+    midlertidige anti-dumpingtold for visse acrylfibre
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 61/80 della Commissione, dell' 11 gennaio 1980, che
+    modifica il regolamento (CEE) n. 2712/79 per quanto riguarda l' esonero di alcuni
+    produttori dal dazio provvisorio antidumping su talune fibre acriliche
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 61/80 van de Commissie van 11 januari 1980 tot wijziging
+    van Verordening (EEG) nr. 2712/79 voor wat betreft de uitsluiting van enkele producenten
+    van de toepassing van het voorlopig anti-dumpingrecht op bepaalde acrylvezels
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0061
+docidentifier:
+- content: EU Regulation 61/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0061
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/61/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-01-11'
+- type: implemented
+  at: '1980-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2712
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

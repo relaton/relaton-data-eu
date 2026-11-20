@@ -1,0 +1,73 @@
+---
+id: EURegulation1261965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 126/65/CEE du Conseil, du 22 septembre 1965, modifiant les
+    règlements ns 45, 46, 116, 129/63/CEE et 59/64/CEE du Conseil en ce qui concerne
+    les oeufs à couver de volailles de basse-cour et les volailles vivantes d'un
+    poids n'excédant pas 185 grammes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 126/65/EWG des Rates vom 22. September 1965 zur Änderung
+    der Verordnungen 45, 46, 116, 129/63/EWG und 59/64/EWG des Rates, soweit diese
+    Bruteier von Hausgeflügel und lebendes Hausgeflügel mit einem Gewicht von höchstens
+    185 Gramm betreffen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 126/65/CEE del Consiglio, del 22 settembre 1965, relativo
+    alla modifica dei regolamenti nn. 45, 46, 116, 129/63/CEE e 59/64/CEE del Consiglio
+    per quanto riguarda le uova da cova di pollame e i volatili da cortile vivi di
+    peso non superiore a 185 grammi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 126/65/EEG van de Raad van 22 september 1965 tot wijziging
+    van de Verordeningen nos. 45, 46, 116, 129/63/EEG en 59/64/EEG van de Raad, voor
+    zover deze betrekking hebben op broedeieren van pluimvee en levend pluimvee dat
+    niet meer weegt dan 185 gram
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0126
+docidentifier:
+- content: EU Regulation 126/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0126
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/126/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-09-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

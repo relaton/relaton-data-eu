@@ -1,0 +1,104 @@
+---
+id: EURegulation31711975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3171/75 of the Council of 3 December 1975 amending
+    Regulation No 17/64/EEC on the conditions for granting aid from the European Agricultural
+    Guidance and Guarantee Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3171/75 du Conseil, du 3 décembre 1975, modifiant
+    le règlement n° 17/64/CEE relatif aux conditions du concours du Fonds européen
+    d' orientation et de garantie agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3171/75 des Rates vom 3. Dezember 1975 zur Änderung
+    der Verordnung Nr. 17/64/EWG über die Bedingungen für die Beteiligung des Europäischen
+    Ausrichtungs- und Garantiefonds für die Landwirtschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3171/75 af 3. december 1975 om ændring af
+    forordning nr. 17/64/EØF om betingelserne for støtte fra Den europæiske udviklings-
+    og garantifond for Landbruget
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3171/75 τού Συμβουλίου
+    τής 3ης Δεκεμβρίου 1975 περί τροποποιήσεως τού
+    κανονισμού 17/64/ΕΟΚ «περί τών όρων συνδρομής
+    τού Ευρωπαϊκού Γεωργικού Ταμείου Προσανατολισμού
+    καί Εγγυήσεων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3171/75 del Consiglio, del 3 dicembre 1975, che modifica
+    il regolamento n. 17/64/CEE relativo alle condizioni di concorso del Fondo europeo
+    agricolo di orientamento e di garanzia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3171/75 van de Raad van 3 december 1975 tot wijziging
+    van Verordening nr. 17/64/EEG betreffende de voorwaarden voor het verlenen van
+    bijstand door het Europees Oriëntatie- en Garantiefonds voor de Landbouw
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3171
+docidentifier:
+- content: EU Regulation 3171/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3171
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3171/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-12-03'
+- type: implemented
+  at: '1975-12-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

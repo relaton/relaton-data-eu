@@ -1,0 +1,96 @@
+---
+id: EURegulation15841974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1584/74 of the Commission of 21 June 1974 altering
+    the minimum selling prices fixed in Regulation (EEC) No 1282/72 on the sale of
+    butter at a reduced price to the army and similar forces
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1584/74 de la Commission, du 21 juin 1974, modifiant
+    le prix minimal de vente prévu au règlement (CEE) n° 1282/72 relatif à la
+    vente à l' armée et aux unités assimilées de beurre à prix réduit
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1584/74 der Kommission vom 21. Juni 1974 zur Änderung
+    des Mindestverkaufspreises gemäß der Verordnung (EWG) Nr. 1282/72 über den
+    Verkauf von Butter zu herabgesetzten Preisen an die Streitkräfte und ihnen gleichgestellte
+    Einheiten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1584/74 af 21. juni 1974 om ændring
+    af mindstesalgs-prisen i henhold til forordning (EØF) nr. 1282/72 om salg til
+    nedsat pris af smør til hæren og dermed ligestillede enheder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1584/74 della Commissione, del 21 giugno 1974, che
+    modifica il prezzo minimo di vendita previsto dal regolamento (CEE) n. 1282/72
+    relativo alla vendita all' esercito ed ai corpi assimilati di burro a prezzo ridotto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1584/74 van de Commissie van 21 juni 1974 houdende
+    wijziging van de in Verordening (EEG) nr. 1282/72 met betrekking tot de verkoop
+    van boter tegen verlaagde prijs aan het leger en de daarmee gelijkgestelde eenheden
+    voorgeschreven minimumverkoopprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1584
+docidentifier:
+- content: EU Regulation 1584/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1584
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1584/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-21'
+- type: implemented
+  at: '1974-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1282
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

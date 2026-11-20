@@ -1,0 +1,80 @@
+---
+id: EURegulation27321972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2732/72 du Conseil, du 19 décembre 1972, portant
+    ouverture, répartition et mode de gestion des contingents tarifaires communautaires
+    de tissus de soie ou de bourre de soie (schappe) et de tissus de coton, tissés
+    sur métiers à main, des positions EX 50.09 et EX 55.09 du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2732/72 des Rates vom 19. Dezember 1972 über die
+    Eröffnung, Aufteilung und Verwaltung der Gemeinschaftszollkontingente für auf
+    Handwebstühlen hergestellte Gewebe aus Seide oder Schappeseide und aus Baumwolle
+    der Tarifnummern ex 50.09 und ex 55.09 des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2732/72 del Consiglio, del 19 dicembre 1972, relativo
+    all'apertura, alla ripartizione ed alle modalità di gestione dei contingenti
+    tariffari comunitari per tessuti di seta o di borra di seta (schappe) e di cotone,
+    lavorati su telai a mano, delle voci nn. 50.09 e ex 55.09 della tariffa doganale
+    comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2732/72 van de Raad van 19 december 1972 betreffende
+    de opening, de verdeling en de wijze van beheer van de communautaire tariefcontingenten
+    voor weefsels van zijde of van vlokzijde en weefsels van katoen, vervaardigd op
+    handweefgetouwen, van de posten ex 50.09 en ex 55.09 van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2732
+docidentifier:
+- content: EU Regulation 2732/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2732
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2732/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

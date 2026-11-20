@@ -1,0 +1,94 @@
+---
+id: EURegulation33741975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3374/75 of the Commission of 23 December 1975 amending,
+    in respect of herring and hake, Regulation (EEC) No 1109/71 on detailed rules
+    for determining entry prices
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3374/75 de la Commission, du 23 décembre 1975, modifiant
+    le règlement (CEE) n° 1109/71 relatif aux modalités d' établissement des prix
+    d' entrée en ce qui concerne les harengs et les merlus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3374/75 der Kommission vom 23. Dezember 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1109/71 zur Ermittlung des Einfuhrpreises für Hering
+    und Seehecht
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3374/75 af 23. december 1975 om ændring
+    af forordning (EØF) nr. 1109/71 om fastsættelse af importpriser for så vidt
+    angår sild og kulmule
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3374/75 della Commissione, del 23 dicembre 1975, che
+    modifica per le aringhe e i naselli il regolamento (CEE) n. 1109/71 relativo alle
+    modalità di determinazione del prezzo d' entrata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3374/75 van de Commissie van 23 december 1975 tot
+    wijziging van Verordening (EEG) nr. 1109/71 betreffende nadere regelen voor de
+    vaststelling van de invoerprijs, met betrekking tot haring en heek
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3374
+docidentifier:
+- content: EU Regulation 3374/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3374
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3374/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-12-23'
+- type: implemented
+  at: '1976-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1109
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

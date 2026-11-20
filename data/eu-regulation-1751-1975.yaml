@@ -1,0 +1,94 @@
+---
+id: EURegulation17511975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1751/75 of the Commission of 8 July 1975 amending Annex
+    III to Regulation (EEC) No 1896/73 in respect of the requirements which must be
+    satisfied by beef bought in by the intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1751/75 de la Commission, du 8 juillet 1975, modifiant
+    l' annexe III du règlement (CEE) n° 1896/73 concernant les exigences auxquelles
+    doivent satisfaire les viandes achetées par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1751/75 der Kommission vom 8. Juli 1975 zur Änderung
+    von Anhang III der Verordnung (EWG) Nr. 1896/73 hinsichtlich der Anforderungen,
+    denen das von den Interventionsstellen aufgekaufte Rindfleisch genügen muß
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1751/75 af 8. juli 1975 om ændring
+    af bilag III til forordning (EØF) nr. 1896/73 for så vidt angår de krav, som
+    oksekød, der opkøbes af interventionsorganerne, bør opfylde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1751/75 della Commissione, dell' 8 luglio 1975, che
+    modifica l' allegato III del regolamento (CEE) n. 1896/73, concernente i requisiti
+    ai quali devono rispondere le carni bovine acquistate dagli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1751/75 van de Commissie van 8 juli 1975 houdende
+    wijziging van bijlage III van Verordening (EEG) nr. 1896/73 met betrekking tot
+    de eisen waaraan het door de interventiebureaus aangekochte rundvlees moet voldoen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1751
+docidentifier:
+- content: EU Regulation 1751/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1751
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1751/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-08'
+- type: implemented
+  at: '1975-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EUDecision1975518
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Decision of 25 August 1975 amending Decision No 73/180/EEC adopting
+    a European Economic Community research programme for the protection of the environment
+    (indirect project)
+  type: main
+- language: fr
+  script: Latn
+  content: '75/518/CEE: Décision du Conseil du 25 août 1975, modifiant la décision
+    73/180/CEE arrêtant un programme de recherche pour la Communauté économique
+    européenne dans le domaine de la protection de l''environnement (action indirecte)'
+  type: main
+- language: de
+  script: Latn
+  content: Beschluß des Rates vom 25. August 1975 zur Änderung des Beschlusses 73/180/EWG
+    zur Festlegung eines Forschungsprogramms der Europäischen Wirtschaftsgemeinschaft
+    auf dem Gebiet des Umweltschutzes (indirekte Aktion)
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Afgørelse af 25. august 1975 om ændring af afgørelse 73/180/EØF
+    om fastlæggelse af et forskningsprogram for Det europæiske økonomiske Fællesskab
+    vedrørende miljøbeskyttelse (indirekte aktion)
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio, del 25 agosto 1975, che modifica la decisione
+    73/180/CEE che adotta un programma di ricerca per la Comunità economica europea
+    nel campo della protezione dell'ambiente (azione indiretta)
+  type: main
+- language: nl
+  script: Latn
+  content: Besluit van de Raad van 25 augustus 1975 tot wijziging van Besluit nr.
+    73/180/EEG tot herziening van het onderzoekprogramma voor de Europese Economische
+    Gemeenschap op het gebied van de milieubescherming (indirecte actie)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975D0518
+docidentifier:
+- content: EU Decision 1975/518
+  type: EU
+  primary: true
+- content: CELEX 31975D0518
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1975/518/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-25'
+- type: implemented
+  at: '1974-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973D0180
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

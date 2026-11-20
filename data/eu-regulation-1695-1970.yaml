@@ -1,0 +1,74 @@
+---
+id: EURegulation16951970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1695/70 de la Commission, du 20 août 1970, portant
+    dérogation au règlement n° 473/67/CEE en ce qui concerne la durée de validité
+    des certificats d'importations pour certaines céréales fourragères
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1695/70 der Kommission vom 20. August 1970 über eine
+    Abweichung von der Verordnung Nr. 473/67/EWG hinsichtlich der Geltungsdauer der
+    Einfuhrlizenzen für einige Futtergetreidearten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1695/70 della Commissione, del 20 agosto 1970, in
+    deroga al regolamento n. 473/67/CEE per quanto riguarda la durata di validità
+    dei titoli d'importazione per alcuni cereali da foraggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1695/70 van de Commissie van 20 augustus 1970 houdende
+    afwijking van Verordening nr. 473/67/EEG voor wat betreft de geldigheidsduur van
+    de invoercertificaten voor bepaalde voedergranen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1695
+docidentifier:
+- content: EU Regulation 1695/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1695
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1695/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-08-20'
+- type: implemented
+  at: '1970-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

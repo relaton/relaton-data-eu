@@ -1,0 +1,111 @@
+---
+id: EURegulation25611974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2561/74 of the Commission of 8 October 1974 repealing
+    Community surveillance of imports of urea from Yugoslavia
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2561/74 de la Commission, du 8 octobre 1974, portant
+    abrogation de la surveillance communautaire des importations d'urée en provenance
+    de Yougoslavie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2561/74 der Kommission vom 8. Oktober 1974 zur Aufhebung
+    der gemeinschaftlichen Überwachung der Einfuhren von Harnstoff aus Jugoslawien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2561/74 af 8. oktober 1974 om ophævelse
+    af fællesskabstilsynet med importen af urinstof fra Jugoslavien
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2561/74 της Επιτροπής
+    της 8ης Οκτωβρίου 1974 περί καταργήσεως της κοινοτικής
+    εποπτείας των εισαγωγών ουρίας προελεύσεως
+    Γιουγκοσλαβίας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2561/74 della Commissione, dell'8 ottobre 1974, che
+    sopprime la vigilanza comunitaria sulle importazioni di urea in provenienza dalla
+    Iugoslavia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2561/74 van de Commissie van 8 oktober 1974 tot afschaffing
+    van het communautair toezicht op de invoer van ureum van herkomst uit Joegoslavië
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) nº 2561/74 de la Comisión, de 8 de octubre de 1974,
+    por el que se deroga la vigilancia comunitaria de las importaciones de urea procedentes
+    de Yugoslavia
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2561
+docidentifier:
+- content: EU Regulation 2561/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2561
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2561/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-08'
+- type: implemented
+  at: '1974-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1755
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1439
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

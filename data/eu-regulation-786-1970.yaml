@@ -1,0 +1,80 @@
+---
+id: EURegulation7861970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 786/70 de la Commission, du 29 avril 1970, modifiant
+    le règlement (CEE) n° 1669/69 relatif à certaines mesures à prendre dans le
+    secteur du sucre à la suite de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 786/70 der Kommission vom 29. April 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1669/69 betreffend Maßnahmen auf dem Zuckersektor infolge
+    der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 786/70 della Commissione, del 29 aprile 1970, che
+    modifica il regolamento (CEE) n. 1669/69 relativo a talune misure da adottare
+    nel settore dello zucchero a seguito della svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 786/70 van de Commissie van 29 april 1970 tot wijziging
+    van Verordening (EEG) nr. 1669/69 betreffende ingevolge de devaluatie van de Franse
+    frank in de sector suiker te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0786
+docidentifier:
+- content: EU Regulation 786/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0786
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/786/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-29'
+- type: implemented
+  at: '1970-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1669
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EUDirective1975296
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Second Council Directive 75/296/EEC of 28 April 1975 amending Directive
+    No 70/524/EEC concerning additives in feedingstuffs
+  type: main
+- language: fr
+  script: Latn
+  content: Deuxième directive 75/296/CEE du Conseil, du 28 avril 1975, modifiant
+    la directive 70/524/CEE concernant les additifs dans l'alimentation des animaux
+  type: main
+- language: de
+  script: Latn
+  content: Zweite Richtlinie 75/296/EWG des Rates vom 28. April 1975 zur Änderung
+    der Richtlinie 70/524/EWG über Zusatzstoffe in der Tierernährung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets andet direktiv 75/296/EØF af 28. april 1975 om ændring af direktiv
+    70/524/EØF om tilsætningsstoffer til foderstoffer
+  type: main
+- language: el
+  script: Grek
+  content: Δευτέρα οδηγία 75/296/ΕΟΚ του Συμβουλίου της
+    28ης Απριλίου 1975 περί τροποποιήσεως της οδηγίας
+    70/524/ΕΟΚ «περί προσθέτων στις ζωοτροφές»
+  type: main
+- language: it
+  script: Latn
+  content: Seconda direttiva 75/296/CEE del Consiglio, del 28 aprile 1975, che modifica
+    la direttiva 70/524/CEE relativa agli additivi nell'alimentazione degli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Tweede Richtlijn 75/296/EEG van de Raad van 28 april 1975 tot wijziging
+    van Richtlijn nr. 70/524/EEG betreffende toevoegingsmiddelen in de diervoeding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975L0296
+docidentifier:
+- content: EU Directive 1975/296
+  type: EU
+  primary: true
+- content: CELEX 31975L0296
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1975/296/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-28'
+- type: implemented
+  at: '1975-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970L0524
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

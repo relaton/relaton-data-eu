@@ -1,0 +1,113 @@
+---
+id: EURegulation16901983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1690/83 of 23 June 1983 amending Regulation
+    (EEC) No 368/77 and (EEC) No 443/77 on the sale of skimmed-milk powder from public
+    stocks for use in feed for animals other than young calves
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1690/83 de la Commission du 23 juin 1983 modifiant
+    les règlements (CEE) no 368/77 et (CEE) no 443/77 relatifs à la vente de lait
+    écrémé en poudre de stock public destiné à l' alimentation des animaux autres
+    que les jeunes veaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1690/83 der Kommission vom 23. Juni 1983 zur Änderung
+    der Verordnungen (EWG) Nr. 368/77 und (EWG) Nr. 443/77 über den Verkauf von Magermilchpulver
+    aus öffentlicher Lagerhaltung für Tiere außer jungen Kälbern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1690/83 af 23. juni 1983 om ændring
+    af forordning (EØF) nr. 368/77 og (EØF) nr. 443/77 om salg fra offentlige lagre
+    af skummetmælkspulver til foder, bortset fra foder til unge kalve
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1690/83 της Επιτροπής
+    της 23ης Ιουνίου 1983 περί τροποποιήσεως των κανονισμών
+    (ΕΟΚ) αριθ. 368/77 και (ΕΟΚ) αριθ. 443/77 όσον αφορά
+    την πώληση αποκορυφωμένου γάλακτος σε σκόνη,
+    δημοσίας αποθεματοποιήσεως, που προορίζεται
+    για τη διατροφή ζώων εκτός των νεαρών μόσχων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1690/83 della Commissione del 23 giugno 1983 che modifica
+    i regolamenti (CEE) n. 368/77 e (CEE) n. 443/77, relativi alla vendita di latte
+    scremato in polvere d' ammasso pubblico destinato all' alimentazione degli animali
+    diversi dai vitelli giovani
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1690/83 van de Commissie van 23 juni 1983 tot wijziging
+    van de Verordeningen (EEG) nr. 368/77 en (EEG) nr. 443/77 met betrekking tot de
+    verkoop van magere-melkpoeder uit openbare opslag bestemd voor vervoedering aan
+    andere dieren dan jonge kalveren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1690
+docidentifier:
+- content: EU Regulation 1690/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1690
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1690/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-06-23'
+- type: implemented
+  at: '1983-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0368
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0443
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

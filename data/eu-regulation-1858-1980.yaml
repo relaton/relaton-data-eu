@@ -1,0 +1,94 @@
+---
+id: EURegulation18581980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1858/80 of 15 July 1980 amending for the
+    second time Regulation (EEC) No 3134/78 laying down detailed rules for the application
+    of the system of production aid for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1858/80 de la Commission, du 15 juillet 1980, portant
+    deuxième modification du règlement (CEE) n° 3134/78 portant modalités d' application
+    du régime d' aide à la production d' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG)Nr. 1858/80 der Kommission vom 15. Juli 1980 zur zweiten
+    Änderung der Verordnung (EWG) Nr. 3134/78 über die Anwendungsbestimmungen der
+    Erzeugungsbeihilferegelung für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1858/80 af 15. juli 1980 om anden ændring
+    af forordning (EØF) nr. 3134/78 om gen1950nemførelsesbestemmelser vedrørende
+    produktionsstøtteordningen for oli1954venolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1858/80 della Commissione, del 15 luglio 1980, recante
+    seconda modifica del regolamento (CEE) n. 3134/78 recante modalità d' applicazione
+    del regime di aiuto alla produzione di olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1858/80 van de Commissie van 15 juli 1980 houdende
+    tweede wijziging van Verordening (EEG) nr. 3134/78 houdende uitvoeringsbepalingen
+    van de regeling inzake de produktiesteun voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1858
+docidentifier:
+- content: EU Regulation 1858/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1858
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1858/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-07-15'
+- type: implemented
+  at: '1980-07-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R3134
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

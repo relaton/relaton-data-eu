@@ -1,0 +1,74 @@
+---
+id: EUDecision1967246
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 67/246/CEE de la Commission, du 7 avril 1967, portant fixation
+    des prix franco frontière pour les échanges intracommunautaires dans les secteur
+    du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: '67/246/EWG: Entscheidung der Kommission vom 7. April 1967 über die Festsetzung
+    der Preise frei Grenze für Milch und Milcherzeugnisse im innergemeinschaftlichen
+    Handel'
+  type: main
+- language: it
+  script: Latn
+  content: '67/246/CEE: Decisione della Commissione, del 7 aprile 1967, che fissa
+    i prezzi franco frontiera per gli scambi intracomunitari nel settore del latte
+    e dei prodotti lattiero-caseari'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/246/EEG: Beschikking van de Commissie van 7 april 1967 houdende vaststelling
+    van de prijzen franco-grens voor het intracommunautaire handelsverkeer in de sector
+    melk en zuivelprodukten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0246
+docidentifier:
+- content: EU Decision 1967/246
+  type: EU
+  primary: true
+- content: CELEX 31967D0246
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/246/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-04-07'
+- type: implemented
+  at: '1967-04-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

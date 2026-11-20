@@ -1,0 +1,94 @@
+---
+id: EURegulation2561978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 256/78 of 7 February 1978 amending Regulation
+    (EEC) No 114/77 concerning import arrangements for certain textile products originating
+    in Singapore
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 256/78 du Conseil, du 7 février 1978, modifiant le
+    règlement (CEE) n° 114/77 relatif au régime d' importation de certains produits
+    textiles originaires de Singapour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 256/78 des Rates vom 7. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 114/77 über die Einfuhrregelung für bestimmte Textilerzeugnisse
+    mit Ursprung in Singapur
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 256/78 af 7. februar 1978 om ændring af
+    forordning (EØF) nr. 114/77 om importordningen for visse tekstilvarer med oprindelse
+    i Singapore
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 256/78 del Consiglio, del 7 febbraio 1978, che modifica
+    il regolamento (CEE) n. 114/77, relativo al regime di importazione di taluni prodotti
+    tessili originari di Singapore
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 256/78 van de Raad van 7 februari 1978 tot wijziging
+    van Verordening (EEG) nr. 114/77 betreffende de invoerregeling voor bepaalde textielprodukten
+    van oorsprong uit Singapore
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0256
+docidentifier:
+- content: EU Regulation 256/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0256
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/256/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-07'
+- type: implemented
+  at: '1978-02-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0114
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

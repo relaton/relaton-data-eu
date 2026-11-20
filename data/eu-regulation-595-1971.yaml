@@ -1,0 +1,102 @@
+---
+id: EURegulation5951971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 595/71 of the Commission of 22 March 1971 amending
+    Regulations (EEC) No 1617/69, (EEC) No 2313/69 and (EEC) No 2315/69 in respect
+    of Community transit declaration forms and documents
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 595/71 de la Commission, du 22 mars 1971, modifiant
+    les règlements (CEE) n° 1617/69, (CEE) n° 2313/69 et (CEE) n° 2315/69, en
+    ce qui concerne les formulaires des déclarations et documents de transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 595/71 der Kommission vom 22. März 1971 zur Änderung
+    der Verordnungen (EWG) Nr. 1617/69, (EWG) Nr. 2313/69 und (EWG) Nr. 2315/69 hinsichtlich
+    der Vordrucke für die Anmeldungen und die Versandscheine des gemeinschaftlichen
+    Versandverfahrens
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 595/71 af 22. marts 1971 om ændring
+    af forordningerne (EØF) nr. 1617/69, (EØF) nr. 2313/69 og (EØF) nr. 2315/69
+    for så vidt angår blanketter til angivelser og dokumenter vedrørende ordningen
+    for fællesskabsforsendelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 595/71 della Commissione, del 22 marzo 1971, che modifica
+    i regolamenti (CEE) n. 1617/69, (CEE) n. 2313/69 e (CEE) n. 2315/69, per quanto
+    riguarda i modelli delle dichiarazioni e documenti di transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 595/71 van de Commissie van 22 maart 1971 houdende
+    wijziging, voor wat betreft de formulieren van de aangiften en documenten voor
+    communautair douanevervoer, van de Verordeningen (EEG) nr. 1617/69, (EEG) nr.
+    2313/69 en (EEG) nr. 2315/69
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0595
+docidentifier:
+- content: EU Regulation 595/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0595
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/595/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-22'
+- type: implemented
+  at: '1971-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2313
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2315
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

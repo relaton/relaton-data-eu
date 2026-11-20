@@ -1,0 +1,102 @@
+---
+id: EURegulation26901972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (ECSC, EEC, Euratom) No 2690/72 of the Council of 19 December
+    1972 amending Regulation No 422/67/EEC, No 5/67/Euratom determining the emoluments
+    of the President and Members of the Commission and of the President, Judges, Advocates-General
+    and Registrar of the Court of Justice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom, CECA, CEE) n° 2690/72 du Conseil, du 19 décembre
+    1972, modifiant le règlement n° 422/67/CEE, n° 5/67/Euratom, portant fixation
+    du régime pécuniaire du président et des membres de la Commission, du président,
+    des juges, des avocats généraux et du greffier de la Cour de justice
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom, EGKS, EWG) Nr. 2690/72 des Rates vom 19. Dezember
+    1972 zur Änderung der Verordnung Nr. 422/67/EWG, Nr. 5/67/Euratom über die Regelung
+    der Amtsbezüge für den Präsidenten und die Mitglieder der Kommission sowie
+    für den Präsidenten, die Richter, die Generalanwälte und den Kanzler des Gerichtshofes
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EURATOM, EKSF, EØF) nr. 2690/72 af 19. december 1972
+    om ændring af forordning nr. 422/67/EØF, nr. 5/67/Euratom, som fastlægger reglerne
+    om vederlag til formanden og medlemmerne af Kommissionen, samt til præsidenten,
+    dommerne, generaladvokaterne og justitssekretæren ved Domstolen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom, CECA, CEE) n. 2690/72 del Consiglio, del 19 dicembre
+    1972, che modifica il regolamento n. 422/67/CEE, n. 5/67/Euratom, relativo alla
+    fissazione del trattamento economico del presidente e dei membri della Commissione,
+    del presidente, dei giudici, degli avvocati generali e del cancelliere della Corte
+    di giustizia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom, EGKS, EEG) nr. 2690/72 van de Raad van 19 december
+    1972 tot wijziging van Verordening nr. 422/67/EEG, nr. 5/67/Euratom tot vaststelling
+    van de geldelijke regeling voor de Voorzitter en de leden van de Commissie, de
+    President, de rechters en de griffier van, alsmede de advocaten-generaal bij het
+    Hof van Justitie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2690
+docidentifier:
+- content: EU Regulation 2690/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2690
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2690/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+- type: implemented
+  at: '1972-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0422
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

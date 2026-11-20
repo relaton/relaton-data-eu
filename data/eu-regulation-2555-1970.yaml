@@ -1,0 +1,136 @@
+---
+id: EURegulation25551970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2555/70 of the Council of 15 December 1970 repealing
+    Regulation No 168/67/EEC and amending Regulation (EEC) No 19/69 and Regulation
+    No 171/67/EEC
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2555/70 du Conseil, du 15 décembre 1970, abrogeant
+    le règlement" n° 168/67/CEE et modifiant les règlements (CEE) n° 19/69 et
+    n° 171/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2555/70 des Rates vom 15. Dezember 1970 zur Aufhebung
+    der Verordnung Nr. 168/67/EWG und zur Änderung der Verordnungen (EWG) Nr. 19/69
+    und Nr. 171/67/EWG
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2555/70 af 15. december 1970 om ophævelse
+    af forordning nr. 168/67/EØF og om ændring af forordningerne (EØF) nr. 19/69
+    og nr. 171/67/EØF
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2555/70 του Συμβουλίου
+    της 15ης Δεκεμβρίου 1970 περί καταργήσεως του
+    κανονισμού αριθ. 168/67/ΕΟΚ και τροποποιήσεως
+    των κανονισμών αριθ. 19/69/ΕΟΚ και αριθ. 171/67/ΕΟΚ
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2555/70 del Consiglio, del 15 dicembre 1970, che abroga
+    il regolamento n. 168/67/CEE e modifica i regolamenti (CEE) n. 19/69 e n. 171/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2555/70 van de Raad van 15 december 1970 tot intrekking
+    van Verordening nr. 168/67/EEG en tot wijziging van Verordening (EEG) nr. 19/69
+    en Verordening nr. 171/67/EEG
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2555/70 do Conselho, de 15 de Dezembro de 1970,
+    que revoga o Regulamento n.° 168/67/CEE e altera os Regulamentos (CEE) n.° 19/69
+    e n.° 171/67/CEE
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2555/70 del Consejo, de 15 de diciembre de 1970, por
+    el que se deroga el Reglamento n° 168/67/CEE y se modifican los Reglamentos (CEE)
+    n° 19/69 y n° 171/67/CEE
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2555
+docidentifier:
+- content: EU Regulation 2555/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2555
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2555/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0168
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0171
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0019
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0171
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0019
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

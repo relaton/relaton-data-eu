@@ -1,0 +1,80 @@
+---
+id: EURegulation24351971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2435/71 de la Commission, du 11 novembre 1971, prorogeant
+    le règlement (CEE) n° 1022/70 établissant une période transitoire des certificats
+    d'accompagnement pour certains vins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2435/71 der Kommission vom 11. November 1971 zur Verlängerung
+    der Geltungsdauer der Verordnung (EWG) Nr. 1022/70 zur Einführung von Begleitzeugnissen
+    für bestimmte Weine während einer Übergangszeit
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2435/71 della Commissione, dell'11 novembre 1971,
+    recante proroga del regolamento (CEE) n. 1022/70 che stabilisce per un periodo
+    transitorio certificati di accompagnamento per taluni vini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2435/71 van de Commissie van 11 november 1971 tot
+    verlenging van de geldigheidsduur van Verordening (EEG) nr. 1022/70 waarbij voor
+    een overgangsperiode geleidecertificaten voor bepaalde wijnen worden ingesteld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2435
+docidentifier:
+- content: EU Regulation 2435/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2435
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2435/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-11'
+- type: implemented
+  at: '1971-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1022
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

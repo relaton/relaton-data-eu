@@ -1,0 +1,80 @@
+---
+id: EUDecision1964162
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission 64/162/CEE, du 6 mars 1964, autorisant la République
+    fédérale d'Allemagne à percevoir un montant compensatoire sur l'importation
+    de certaines catégories d'aliments pour animaux, contenant du lait
+  type: main
+- language: de
+  script: Latn
+  content: '64/162/EWG: Entscheidung der Kommission vom 6. März 1964, durch die die
+    Bundesrepublik Deutschland ermächtigt wird, bei der Einfuhr einiger Futtermittelarten,
+    die Milch enthalten, einen Ausgleichsbetrag zu erheben'
+  type: main
+- language: it
+  script: Latn
+  content: '64/162/CEE: Decisione della Commissione del 6 marzo 1964, con la quale
+    si autorizza la Repubblica federale di Germania a riscuotere un ammontare compensativo
+    all''importazione di alcune categorie di alimenti per animali, contenenti latte'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/162/EEG: Beschikking van de Commissie van 6 maart 1964 waarbij de Bondsrepubliek
+    Duitsland wordt gemachtigd een compenserend bedrag te heffen van de invoer van
+    sommige soorten melk bevattende veevoeders'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0162
+docidentifier:
+- content: EU Decision 1964/162
+  type: EU
+  primary: true
+- content: CELEX 31964D0162
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/162/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-03-06'
+- type: implemented
+  at: '1964-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0024
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

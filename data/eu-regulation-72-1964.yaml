@@ -1,0 +1,69 @@
+---
+id: EURegulation721964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 72/64/CEE de la Commission, du 18 juin 1964, portant fixation
+    des montants forfaitaires pour certaines catégories de céréales, farines, gruaux
+    et semoules pour la campagne de commercialisation 1964/1965
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 72/64/EWG der Kommission vom 18. Juni 1964 über die Festsetzung
+    der Pauschbeträge für Getreide, Mehl, Grob- und FeingrieD für das Wirtschaftsjahr
+    1964/65
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 72/64/CEE della Commissione, del 18 giugno 1964, relativo
+    alla fissazione degli ammontari forfettari per alcune categorie di cereali, farine,
+    semole e semolini per la campagna di commercializzazione 1964/1965
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 72/64/EEG van de Commissie van 18 juni 1964 houdende vaststelling
+    van de forfaitaire bedragen voor granen, meel, grutten, gries en griesmeel voor
+    het verkoopseizoen 1964/1965
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0072
+docidentifier:
+- content: EU Regulation 72/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0072
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/72/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

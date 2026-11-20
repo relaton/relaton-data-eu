@@ -1,0 +1,71 @@
+---
+id: EURegulation181965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 18/65/CEE de la Commission, du 26 février 1965, modifiant
+    le règlement n 97/63/CEE portant fixation de modalités d'application relatives
+    à la délivrance de documents d'importation pour certains produits à base de
+    viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 18/65/EWG der Kommission vom 26. Februar 1965 zur Änderung
+    der Verordnung Nr. 97/63/EWG über den ErlaD von Durchführungsbestimmungen für
+    die Erteilung von Einfuhrdokumenten für einige Schweinefleischerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 18/65/CEE della Commissione, del 26 febbraio 1965, che modifica
+    il regolamento n. 97/63/CEE della Commissione relativo all'emanazione di disposizioni
+    di applicazione per il rilascio di titoli d'importazione per alcuni prodotti a
+    base di carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 18/65/EEG van de Commissie van 26 februari 1965 houdende
+    wijziging van Verordening no. 97/63/EEG houdende uitvoeringsbepalingen met betrekking
+    tot het afgeven van invoerdocumenten voor enige produkten van varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0018
+docidentifier:
+- content: EU Regulation 18/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0018
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/18/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

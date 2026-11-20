@@ -1,0 +1,102 @@
+---
+id: EURegulation31271976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3127/76 of 16 December 1976 amending Regulation
+    (EEC) No 3559/73 laying down detailed rules for granting financial compensation
+    and idemnities, fixing the withdrawal price and determining the buying-in price
+    for certain fishery products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3127/76 de la Commission, du 16 décembre 1976, modifiant
+    le règlement (CEE) n° 3559/73 établissant les dispositions d' application relatives
+    à l' octroi de la compensation financière et de l' indemnité ainsi qu' à la
+    fixation des prix de retrait et à la détermination des prix d' achat pour certains
+    produits de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3127/76 der Kommission vom 16. Dezember 1976 zur Änderung
+    der Verordnung (EWG) Nr. 3559/73 mit Durchführungsbestimmungen über die Gewährung
+    des finanziellen Ausgleichs und der Entschädigung sowie über die Festsetzung
+    der Rücknahmepreise und die Feststellung der Ankaufspreise für bestimmte Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3127/76 af 16. december 1976 om ændring
+    af forordning (EØF) nr. 3559/73 om gennemførelsesbestemmelser for ydelse af
+    den finansielle udligning og godtgørelse samt om fastsættelse af tilbagetagelsespriser
+    og beregning af købspriser for visse fiskerivarer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3127/76 della Commissione, del 16 dicembre 1976, che
+    modifica il regolamento (CEE) n. 3559/73, relativo a disposizioni d' applicazione
+    concernenti concessione della compensazione finanziaria e dell' indennità nonché
+    la fissazione dei prezzi di ritiro e la constatazione dei prezzi di acquisto per
+    determinati prodotti della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3127/76 van de Commissie van 16 december 1976 tot
+    wijziging van Verordening (EEG) nr. 3559/73 houdende uitvoeringsbepalingen betreffende
+    de toekenning van de financiële vergoedingen, de bepaling van de ophoudprijzen
+    en de vaststelling van de aankoopprijzen voor bepaalde visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R3127
+docidentifier:
+- content: EU Regulation 3127/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R3127
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/3127/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-16'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3559
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

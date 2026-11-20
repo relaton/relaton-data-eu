@@ -1,0 +1,68 @@
+---
+id: EURegulation391967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 39/67/CEE de la Commission, du 28 février 1967, relatif à
+    la fixation à l'avance du prélèvement et de la restitution pour certains produits
+    dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 39/67/EWG der Kommission vom 28. Februar 1967 über die
+    vorherige Festsetzung der Abschöpfung und die Erstattung für bestimmte Getreideerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 39/67/CEE della Commissione, del 28 febbraio 1967, relativo
+    alla fissazione in anticipo del prelievo e della restituzione per taluni prodotti
+    nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 39/67/EEG van de Commissie van 28 februari 1967 betreffende
+    het vooraf vaststellen van de heffing en de restitutie voor bepaalde produkten
+    in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0039
+docidentifier:
+- content: EU Regulation 39/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0039
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/39/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

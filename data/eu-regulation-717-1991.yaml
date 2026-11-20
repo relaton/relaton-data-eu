@@ -1,0 +1,118 @@
+---
+id: EURegulation7171991
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 717/91 of 21 March 1991 concerning the Single
+    Administrative Document
+  type: main
+- language: fr
+  script: Latn
+  content: 'RÈGLEMENT (CEE) No 717/91 DU CONSEIL du 21 mars 1991 relatif au document
+    administratif unique #'
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 717/91 DES RATES vom 21. März 1991 über das Einheitspapier
+    #'
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 717/91 af 21. marts 1991 om det administrative
+    enhedsdokument
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 717/91 του Συμβουλίου
+    της 21ης Μαρτίου 1991 σχετικά με το ενιαίο διοικητικό
+    έγγραφο
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO (CEE) N. 717/91 DEL CONSIGLIO del 21 marzo 1991 relativo al
+    documento amministrativo unico
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 717/91 VAN DE RAAD van 21 maart 1991 betreffende
+    het enig document #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) Nº 717/91 DO CONSELHO de 21 de Março de 1991 relativo
+    ao documento administrativo único #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) Nº 717/91 DEL CONSEJO de 21 de marzo de 1991 relativo
+    al documento administrativo único #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991R0717
+docidentifier:
+- content: EU Regulation 717/1991
+  type: EU
+  primary: true
+- content: CELEX 31991R0717
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1991/717/oj
+  type: ELI
+date:
+- type: issued
+  at: '1991-03-21'
+- type: implemented
+  at: '1991-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R0678
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R0679
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R1900
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

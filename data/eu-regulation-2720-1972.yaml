@@ -1,0 +1,89 @@
+---
+id: EURegulation27201972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2720/72 of the Council of 19 December 1972 amending
+    Article 52 of Regulation (EEC) No 542/69 on Community transit
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2720/72 du Conseil, du 19 décembre 1972, modifiant
+    l' article 52 du règlement (CEE) n° 542/69 relatif au transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2720/72 des Rates vom 19. Dezember 1972 zur Änderung
+    des Artikels 52 der Verordnung (EWG) Nr. 542/69 über das gemeinschaftliche Versandverfahren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2720/72 af 19. december 1972 om ændring
+    af artikel 52 i forordning (EØF) nr. 542/69 om ordning for fællesskabsforsendelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2720/72 del Consiglio, del 19 dicembre 1972, che modifica
+    l' articolo 52 del regolamento (CEE) n. 542/69 relativo al transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2720/72 van de Raad van 19 december 1972 houdende
+    wijziging van artikel 52 van Verordening (EEG) nr. 542/69 betreffende communautair
+    douanevervoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2720
+docidentifier:
+- content: EU Regulation 2720/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2720
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2720/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0542
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation26401972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2640/72 de la Commission, du 14 décembre 1972, fixant
+    la liste des variétés tardives de lolium perenne L.
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2640/72 der Kommission vom 14. Dezember 1972 zur Festsetzung
+    der Liste der späten Sorten von Lolium perenne L
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2640/72 della Commissione, del 14 dicembre 1972, che
+    stabilisce l'elenco delle varietà tardive di «Lolium perenne L.»
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2640/72 van de Commissie van 14 december 1972 houdende
+    vaststelling van de lijst van late rassen van Lolium perenne L
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2640
+docidentifier:
+- content: EU Regulation 2640/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2640
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2640/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-14'
+- type: implemented
+  at: '1972-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

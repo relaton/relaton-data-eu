@@ -1,0 +1,66 @@
+---
+id: EURegulation23961969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2396/69 de la Commission, du 1er décembre 1969, relatif
+    au régime spécial à appliquer à l'importation de certaines viandes bovines
+    congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2396/69 der Kommission vom 1. Dezember 1969 über
+    die Sonderregelung bei der Einfuhr bestimmter Sorten von gefrorenem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2396/69 della Commissione, del 1 dicembre 1969, relativo
+    al regime speciale applicabile all'importazione di alcune carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2396/69 van de Commissie van 1 december 1969 betreffende
+    de bijzondere regeling voor de invoer van bepaalde soorten bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2396
+docidentifier:
+- content: EU Regulation 2396/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2396
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2396/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

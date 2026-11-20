@@ -1,0 +1,88 @@
+---
+id: EUDecision1964254
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission 64/254/CEE, du 2 avril 1964, portant modification
+    de sa décision du 5 novembre 1963, autorisant la perception de taxes compensatoires
+    sur les importations, dans la République française, de chocolat en masse ou
+    en granulés, de confiseries et préparations comportant du cacao ou du chocolat,
+    sans liqueur alcoolique, en provenance des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '64/254/EWG: Entscheidung der Kommission vom 2. April 1964 zur Änderung
+    ihrer Entscheidung vom 5. November 1963 über die Erhebung von Ausgleichsabgaben
+    bei der Einfuhr von Schokolade, Schokoladewaren und kakaohaltigen Zuckerwaren,
+    nicht alkoholhaltig, sowie von kakaohaltigen oder schokoladehaltigen Zubereitungen
+    aus den anderen Mitgliedstaaten in die Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '64/254/CEE: Decisione della Commissione, del 2 aprile 1964, recante modifica
+    della decisione del 5 novembre 1963 che autorizza la riscossione di tasse di compensazione
+    sulle importazioni nella Repubblica francese di cioccolata in massa o in granuli,
+    di dolciumi e di preparazioni contenenti cacao o cioccolata, senza alcolici, in
+    provenienza dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/254/EEG: Beschikking van de Commissie van 2 april 1964 tot wijziging
+    van haar beschikking van 5 november 1963 houdende machtiging tot het leggen van
+    compenserende heffingen op de invoer in de Franse Republiek van chocolade in blokken
+    of in korrels en van suikerwerk en voedingsmiddelen met cacao of met chocolade
+    zonder likeur, uit de andere Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0254
+docidentifier:
+- content: EU Decision 1964/254
+  type: EU
+  primary: true
+- content: CELEX 31964D0254
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/254/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-04-02'
+- type: implemented
+  at: '1964-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963D0631
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

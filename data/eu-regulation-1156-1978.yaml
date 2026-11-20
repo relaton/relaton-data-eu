@@ -1,0 +1,92 @@
+---
+id: EURegulation11561978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation EEC) No 1156/78 of 30 May 1978 amending Regulation (EEC)
+    No 508/78 extending the system of aid for the production of dehydrated fodder
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1156/78 du Conseil, du 30 mai 1978, modifiant le règlement
+    (CEE) n° 508/78 prorogeant le régime d'aide à la production des fourrages déshydratés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1156/78 des Rates vom 30. Mai 1978 zur Änderung der
+    Verordnung (EWG) Nr. 508/78 zur Verlängerung der Beihilferegelung für künstlich
+    getrocknetes Futter
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1156/78 af 30. maj 1978 om ændring af forordning
+    (EØF) nr. 508/78 om forlængelse af ordningen vedrørende støtte til produktion
+    af kunsttørret foder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1156/78 del Consiglio, del 30 maggio 1978, che modifica
+    il regolamento (CEE) n. 508/78 che proroga il regime di aiuto alla produzione
+    dei foraggi disidratati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1156/78 van de Raad van 30 mei 1978 tot wijziging
+    van Verordening (EEG) nr. 508/78 tot verlenging van de geldigheidsduur van de
+    steun voor de produktie van kunstmatig gedroogde voedergewassen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1156
+docidentifier:
+- content: EU Regulation 1156/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1156
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1156/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-30'
+- type: implemented
+  at: '1978-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R0508
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

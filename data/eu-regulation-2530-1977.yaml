@@ -1,0 +1,94 @@
+---
+id: EURegulation25301977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2530/77 of 17 November 1977 amending Regulation
+    (EEC) No 375/69 on the declaration of particulars relating to the value of goods
+    for customs purposes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2530/77 de la Commission, du 17 novembre 1977, modifiant
+    le règlement (CEE) n° 375/69 concernant la déclaration des éléments relatifs
+    à la valeur en douane des marchandises
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2530/77 der Kommission vom 17. November 1977 zur Änderung
+    der Verordnung (EWG) Nr. 375/69 über die Anmeldung der Angaben über den Zollwert
+    der Waren
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2530/77 af 17. november 1977 om ændring
+    af forordning (EØF) nr. 375/69 om angivelse af oplysninger vedrørende varers
+    toldværdi
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2530/77 della Commissione, del 17 novembre 1977, che
+    modifica il regolamento (CEE) n. 375/69 concernente la dichiarazione degli elementi
+    relativi al valore in dogana delle merci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2530/77 van de Commissie van 17 november 1977 tot
+    wijziging van Verordening (EEG) nr. 375/69 betreffende de aangifte van gegevens
+    inzake de douanewaarde van de goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2530
+docidentifier:
+- content: EU Regulation 2530/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2530
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2530/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-11-17'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0375
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

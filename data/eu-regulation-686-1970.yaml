@@ -1,0 +1,88 @@
+---
+id: EURegulation6861970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 686/70 de la Commission, du 15 avril 1970, portant
+    troisième modification du règlement (CEE) n 565/70 relatif à la gestion du
+    système de titre d'importation des pommes de table et modifiant le règlement
+    (CEE) n° 459/70
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 686/70 der Kommission vom 15. April 1970 zur dritten
+    Änderung der Verordnung (EWG) Nr. 565/70 über die Handhabung des Systems der
+    Einfuhrlizenzen für Tafeläpfel und zur Änderung der Verordnung (EWG) Nr. 459/70
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 686/70 della Commissione, del 15 aprile 1970, recante
+    terza modifica del regolamento (CEE) n. 565/70 relativo alla gestione del sistema
+    di titoli di importazione per le mele da tavola e recante modifica del regolamento
+    (CEE) n. 459/70
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 686/70 van de Commissie van 15 april 1970 houdende
+    derde wijziging van Verordening (EEG) nr. 565/70 betreffende het beheer van het
+    stelsel van invoervergunningen voor tafelappelen en houdende wijziging van Verordening
+    (EEG) nr. 459/70
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0686
+docidentifier:
+- content: EU Regulation 686/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0686
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/686/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-15'
+- type: implemented
+  at: '1970-04-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0459
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0565
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,100 @@
+---
+id: EURegulation15471979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1547/79 of 24 July 1979 amending Regulation
+    (EEC) No 2727/75 on the common organization of the market in cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1547/79 du Conseil, du 24 juillet 1979, modifiant
+    le règlement (CEE) n° 2727/75 portant organisation commune des marchés dans
+    le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1547/79 des Rates vom 24. Juli 1979 zur Änderung
+    der Verordnung (EWG) Nr. 2727/75 über die gemeinsame Marktorganisation für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1547/79 af 24. juli 1979 om ændring af forordning
+    (EØF) nr. 2727/75 om den fælles markedsordning for korn
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1547/79 τού Συμβουλίου
+    τής 24ης Ιουλίου 1979 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 2727/75 «περί κοινής οργανώσεως τών
+    αγορών στόν τομέα τών σιτηρών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1547/79 del Consiglio, del 24 luglio 1979, che modifica
+    il regolamento (CEE) n. 2727/75 relativo all' organizzazione comune dei mercati
+    nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1547/79 van 24 juli 1979 tot wijziging van Verordening
+    (EEG) nr. 2727/75 houdende een gemeenschappelijke ordening der markten in de sector
+    granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1547
+docidentifier:
+- content: EU Regulation 1547/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1547
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1547/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-24'
+- type: implemented
+  at: '1979-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2727
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

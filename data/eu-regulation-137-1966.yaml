@@ -1,0 +1,68 @@
+---
+id: EURegulation1371966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 137/66/CEE du Conseil, du 22 septembre 1966, relatif aux mesures
+    particulières concernant la vente, après transformation, de beurre de stock
+    privé
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 137/66/EWG des Rates vom 22. September 1966 über besondere
+    MaDnahmen zum Absatz von verarbeiteter Butter aus privater Lagerhaltung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 137/66/CEE del Consiglio, del 22 settembre 1966, relativo
+    alle misure particolari concernenti la vendita, previa trasformazione, del burro
+    giacente negli ammassi privati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 137/66/EEG van de Raad van 22 september 1966 betreffende
+    de bijzondere maatregelen ten aanzien van de verkoop van boter uit particuliere
+    voorraad, die vooraf is verwerkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0137
+docidentifier:
+- content: EU Regulation 137/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0137
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/137/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,85 @@
+---
+id: EURegulation21964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 2/64/CEE du Conseil du 18 décembre 1963, complétant l'annexe
+    D du règlement 3 et l'annexe 6 du règlement 4 (dispositions bilatérales particulières
+    aux travailleurs saisonniers)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 2/64/EWG des Rats vom 18. Dezember 1963 zur Ergänzung des
+    Anhangs D der Verordnung Nr. 3 und des Anhangs 6 der Verordnung Nr. 4 (Besondere
+    zweiseitige Bestimmungen für Saisonarbeiter)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 2/64/CEE del Consiglio del 18 dicembre 1963 che integra
+    l'allegato D al regolamento n. 3 e l'allegato 6 del regolamento n. 4 (Disposizioni
+    bilaterali speciali per i lavoratori stagionali)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 2/64/EEG van de Raad van 18 december 1963 tot aanvulling
+    van bijlage D van Verordening Nr. 3 en van bijlage 6 van Verordening Nr. 4 (bijzondere
+    bilaterale bepalingen voor seizoenarbeiders)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0002
+docidentifier:
+- content: EU Regulation 2/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0002
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/2/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-18'
+- type: implemented
+  at: '1964-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

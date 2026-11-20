@@ -1,0 +1,93 @@
+---
+id: EURegulation28871974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2887/74 of the Commission of 19 November 1974 closing
+    the invitation to tender for the levy for export of common wheat to third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2887/74 de la Commission, du 19 novembre 1974, clôturant
+    l'adjudication du prélèvement à l'exportation de froment tendre vers les pays
+    tiers ouverte par le règlement (CEE) n° 1840/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2887/74 der Kommission vom 19. November 1974 zur Aufhebung
+    der mit der Verordnung (EWG) Nr. 1840/74 eröffneten Ausschreibung der Abschöpfung
+    bei der Ausfuhr von Weichweizen nach dritten Ländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2887/74 af 19. november 1974 om lukning
+    af licitationen af eksportafgiften for blød hvede til tredjelande, der blev åbnet
+    ved forordning (EØF) nr. 1840/74
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2887/74 della Commissione, del 19 novembre 1974, che
+    chiude la gara per il prelievo all'esportazione di frumento tenero verso i paesi
+    terzi, indetta dal regolamento (CEE) n. 1840/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2887/74 van de Commissie van 19 november 1974 houdende
+    afsluiting van de bij Verordening (EEG) nr. 1840/74 geopende openbare inschrijving
+    voor de heffing bij uitvoer van zachte tarwe naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2887
+docidentifier:
+- content: EU Regulation 2887/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2887
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2887/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-19'
+- type: implemented
+  at: '1974-11-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1840
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

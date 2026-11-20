@@ -1,0 +1,74 @@
+---
+id: EURegulation9231970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 923/70 de la Commission, du 21 mai 1970, concernant
+    une adjudication permanente pour la vente de sucre blanc destiné à l'exportation
+    et détenu par l'organisme d'intervention allemand
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 923/70 der Kommission vom 21. Mai 1970 über eine
+    Dauerausschreibung zum Verkauf von Weißzucker, der zur Ausfuhr bestimmt ist und
+    sich im Besitz der deutschen Interventionsstelle befindet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 923/70 della Commissione, del 21 maggio 1970, relativo
+    ad una gara permanente per la vendita di zucchero bianco destinato all'esportazione
+    e detenuto dall'organismo d'intervento tedesco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 923/70 van de Commissie van 21 mei 1970 betreffende
+    een permanente openbare inschrijving voor de verkoop van witte suiker bestemd
+    voor de uitvoer en in het bezit van het Duitse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0923
+docidentifier:
+- content: EU Regulation 923/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0923
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/923/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-21'
+- type: implemented
+  at: '1970-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

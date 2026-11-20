@@ -1,0 +1,65 @@
+---
+id: EURegulation14641968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1464/68 de la Commission, du 20 septembre 1968, concernant
+    une adjudication pour l'exportation de sucre brut de canne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1464/68 der Kommission vom 20. September 1968 über
+    eine Ausfuhrausschreibung von Rohrrohzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1464/68 della Commissione, del 20 settembre 1968,
+    relativo ad un'aggiudicazione per l'esportazione di zucchero greggio di canna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1464/68 van de Commissie van 20 september 1968 betreffende
+    een openbare inschrijving voor de uitvoer van ruwe rietsuiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1464
+docidentifier:
+- content: EU Regulation 1464/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1464
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1464/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-09-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

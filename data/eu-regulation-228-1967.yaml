@@ -1,0 +1,74 @@
+---
+id: EURegulation2281967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 228/67/CEE de la Commission, du 28 juin 1967, relatif à
+    la teneur en amidon des aliments composés, à la teneur en amidon et en cendres
+    des sons et à la dénaturation des farines de manioc et d'autres racines
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 228/67/EWG der Kommission vom 28. Juni 1967 über die Bestimmung
+    des Stärkegehalts von Kleie und Mischfuttermitteln, sowie die Denaturierung von
+    Mehl aus Maniok und anderen Wurzeln
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 228/67/CEE della Commissione, del 28 giugno 1967, relativo
+    al tenore in amido degli alimenti composti, al tenore in amido e in cenere delle
+    crusche ed alla denaturazione delle farine di manioca e d'altre radici
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 228/67/EEG van de Commissie van 28 juni 1967 betreffende
+    het zetmeelgehalte van mengvoeders, het zetmeelgehalte en het asgehalte van zemelen
+    en de denaturering van meel van maniok en van andere wortels
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0228
+docidentifier:
+- content: EU Regulation 228/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0228
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/228/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-28'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

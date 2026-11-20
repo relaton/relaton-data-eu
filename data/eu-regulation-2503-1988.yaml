@@ -1,0 +1,110 @@
+---
+id: EURegulation25031988
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2503/88 of 25 July 1988 on customs warehouses
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2503/88 du Conseil du 25 juillet 1988 relatif aux
+    entrepôts douaniers
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 2503/88 DES RATES vom 25. Juli 1988 über Zollager
+    #'
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2503/88 af 25. juli 1988 om toldoplag
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2503/88 του Συμβουλίου
+    της 25ης Ιουλίου 1988 για την τελωνειακή αποταμίευση
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 2503/88 DEL CONSIGLIO del 25 luglio 1988 relativo
+    ai depositi doganali #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 2503/88 VAN DE RAAD van 25 juli 1988 betreffende
+    de douane-entrepots #'
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2503/88 do Conselho de 25 de Julho de 1988 relativo
+    aos entrepostos aduaneiros
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) N° 2503/88 DEL CONSEJO de 25 de julio de 1988 relativo
+    a los depósitos aduaneros #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31988R2503
+docidentifier:
+- content: EU Regulation 2503/1988
+  type: EU
+  primary: true
+- content: CELEX 31988R2503
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1988/2503/oj
+  type: ELI
+date:
+- type: issued
+  at: '1988-07-25'
+- type: implemented
+  at: '1988-08-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969L0074
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971L0235
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,91 @@
+---
+id: EURegulation1191963
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation No 119/63/EEC of 12 November 1963 modifying and supplementing
+    Council Regulation No 54 on the criteria for fixing the scale of premiums and
+    for prior fixing of the levy on imports of cereals from third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n 119/63/CEE du Conseil du 12 novembre 1963 modifiant et complétant
+    le règlement n 54 du Conseil en ce qui concerne les critères de fixation du
+    barème des primes et la fixation à l'avance du prélèvement, pour les importations
+    de céréales en provenance des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 119/63/EWG des Rats vom 12. November 1963 zur Änderung
+    und Ergänzung der Verordnung Nr. 54 des Rats in bezug auf die Kriterien für
+    die Festlegung der Prämiensätze und die vorherige Festsetzung der Abschöpfungsbeträge
+    bei Getreideeinfuhren aus dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 119/63/CEE del Consiglio del 12 novembre 1963 che modifica
+    ed integra il regolamento n. 54 del Consiglio per quanto riguarda i criteri di
+    fissazione dei supplementi e la fissazione in via preventiva dei prelievi applicabili
+    alle importazioni di cereali in provenienza dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 119/63/EEG van de Raad van 12 november 1963 tot wijziging
+    en aanvulling van Verordening no. 54 van de Raad voor wat betreft de criteria
+    voor de vaststelling van de premieschaal en het van tevoren vaststellen van de
+    heffing voor de invoer van granen uit derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0119
+docidentifier:
+- content: EU Regulation 119/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0119
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/119/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-11-12'
+- type: implemented
+  at: '1963-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0054
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

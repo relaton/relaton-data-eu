@@ -1,0 +1,96 @@
+---
+id: EURegulation13801975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1380/75 of the Commission of 29 May 1975 laying down
+    detailed rules for the application of monetary compensatory amounts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1380/75 de la Commission, du 29 mai 1975, portant
+    modalités d' application des montants compensatoires monétaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1380/75 der Kommission vom 29. Mai 1975 über die
+    Durchführungsvorschriften für die Währungsausgleichsbeträge
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1380/75 af 29. maj 1975 om gennemførelsesbestemmelser
+    vedrørende monetære udligningsbeløb
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1380/75 της Επιτροπής
+    της 29ης Μαΐου 1975 περί του τρόπου εφαρμογής
+    των νομισματικών εξισωτικών ποσών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1380/75 della Commissione, del 29 maggio 1975, recante
+    modalità di applicazione degli importi compensativi monetari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1380/75 van de Commissie van 29 mei 1975 houdende
+    uitvoeringsbepalingen betreffende de monetaire compenserende bedragen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1380
+docidentifier:
+- content: EU Regulation 1380/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1380
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1380/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-29'
+- type: implemented
+  at: '1975-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1463
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

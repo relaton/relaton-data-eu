@@ -1,0 +1,113 @@
+---
+id: EURegulation1301966
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 130/66/EEC of the Council of 26 July 1966 on the financing
+    of the common agricultural policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 130/66/CEE du Conseil, du 26 juillet 1966, relatif au financement
+    de la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 130/66/EWG des Rates vom 26. Juli 1966 über die Finanzierung
+    der gemeinsamen Agrarpolitik
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 130/66/EØF af 26. juli 1966 om finansieringen af
+    den fælles landbrugspolitik
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός αριθ. 130/66/ΕΟΚ του Συμβουλίου
+    της 26ης Ιουλίου 1966 περί χρηματοδοτήσεως της
+    κοινής γεωργικής πολιτικής
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 130/66/CEE del Consiglio del 26 luglio 1966 relativo al
+    finanziamento della politica agricola comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening N° 130/66/EEG van de Raad van 26 juli 1966 betreffende de
+    financiering van het gemeenschappelijk landbouwbeleid
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento n.° 130/66/CEE do Conselho, de 26 de Julho de 1966, relativo
+    ao financiamento da política agrícola comum
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 130/66/CEE del Consejo, de 26 de julio de 1966, relativo
+    a la financiación de la política agrícola común
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0130
+docidentifier:
+- content: EU Regulation 130/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0130
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/130/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-26'
+- type: implemented
+  at: '1966-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0025
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

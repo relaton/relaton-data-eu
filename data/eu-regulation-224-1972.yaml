@@ -1,0 +1,94 @@
+---
+id: EURegulation2241972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 224/72 of the Council of 31 January 1972 amending Regulation"No
+    213/67/EEC establishing the list of representative markets for pigmeat in the
+    Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 224/72 du Conseil, du 31 janvier 1972, modifiant le
+    règlement" n° 213/67/CEE établissant la liste des marchés représentatifs
+    pour le secteur de la viande de porc dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 224/72 des Rates vom 31. Januar 1972 zur Änderung
+    der Verordnung Nr. 213/67/EWG zur Festsetzung des Verzeichnisses der repräsentativen
+    Märkte für den Schweinefleischsektor in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 224/72 af 31. januar 1972 om ændring af
+    forordning nr. 213/72/EØF om oprettelse af en fortegnelse over de repræsentative
+    markeder for svinekødssektoren inden for fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 224/72 del Consiglio, del 31 gennaio 1972, che modifica
+    il regolamento n. 213/67/CEE che stabilisce l' elenco dei mercati rappresentativi
+    per il settore delle carni suine nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 224/72 van de Raad van 31 januari 1972 houdende wijziging
+    van Verordening nr. 213/67/EEG tot vaststelling van de lijst van de representatieve
+    markten voor de sector varkensvlees in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0224
+docidentifier:
+- content: EU Regulation 224/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0224
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/224/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-01-31'
+- type: implemented
+  at: '1972-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0213
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

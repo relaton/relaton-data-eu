@@ -1,0 +1,80 @@
+---
+id: EURegulation1151963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 115/63/CEE du Conseil, du 24 octobre 1963, portant modification
+    de certaines dispositions du règlement n° 55 du Conseil relatif au régime des
+    produits transformés à base de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 115/63/EWG des Rats vom 24. Oktober 1963 über die Änderung
+    verschiedener Bestimmungen der Verordnung Nr. 55 des Rats über die Regelung für
+    Getreideverarbeitungserzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 115/63/CEE del Consiglio del 24 ottobre 1963 che modifica
+    alcune disposizioni del regolamento n. 55 del Consiglio relative al regime dei
+    prodotti trasformati a base di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 115/63/EEG van de Raad van 24 oktober 1963 tot wijziging
+    van sommige bepalingen van Verordening Nr. 55 van de Raad betreffende de regeling
+    voor de op basis van granen verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0115
+docidentifier:
+- content: EU Regulation 115/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0115
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/115/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-10-24'
+- type: implemented
+  at: '1963-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0055
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

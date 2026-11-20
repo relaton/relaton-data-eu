@@ -1,0 +1,127 @@
+---
+id: EURegulation6111992
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 611/92 of 3 March 1992 amending Regulation
+    (EEC) No 206/91 concerning the exclusion of milk products from inward processing
+    arrangements and of recourse to certain usual forms of handling
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 611/92 du Conseil du 3 mars 1992 modifiant le règlement
+    (CEE) n° 206/91 relatif à l'exclusion du recours au régime du trafic de perfectionnement
+    actif et à certaines manipulations usuelles pour les produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 611/92 DES RATES vom 3. März 1992 zur Änderung
+    der Verordnung (EWG) Nr. 206/91 über den Ausschluß der Milcherzeugnisse vom
+    aktiven Veredelungsverkehr und bestimmten üblichen Behandlungen #'
+  type: main
+- language: da
+  script: Latn
+  content: 'RÅDETS FORORDNING (EØF) Nr. 611/92 af 3. marts 1992 om ændring af forordning
+    (EØF) nr. 206/91 om udelukkelse af mejeriprodukter fra proceduren for aktiv forædling
+    samt fra visse sædvanlige behandlinger #'
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 611/92 του Συμβουλίου
+    της 3ης Μαρτίου 1992 για την τροποποίηση του κανονισμού
+    ( ΕΟΚ ) αριθ. 206/91 του Συμβουλίου σχετικά με τον
+    αποκλεισμό των γαλακτοκομικών προϊόντων από
+    το καθεστώς ενεργητικής τελειοποίησης και
+    από ορισμένες συνήθεις εργασίες
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 611/92 DEL CONSIGLIO del 3 marzo 1992 che modifica
+    il regolamento (CEE) n. 206/91 relativo all'' esclusione, per prodotti lattiero-caseari,
+    del ricorso al regime del traffico di perfezionamento attivo e a talune manipolazioni
+    usuali #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 611/92 VAN DE RAAD van 3 maart 1992 houdende wijziging
+    van Verordening (EEG) nr. 206/91 tot uitsluiting van zuivelprodukten van de regeling
+    van het actieve veredelingsverkeer en van bepaalde gebruikelijke handelingen #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) No 611/92 DO CONSELHO de 3 de Março de 1992 que altera
+    o Regulamento (CEE) no 206/91, relativo à exclusão dos produtos lácteos do
+    regime do tráfego de aperfeiçoamento activo e de certas formas usuais de manipulação
+    #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 611/92 DEL CONSEJO de 3 de marzo de 1992 por el que
+    se modifica el Reglamento (CEE) no 206/91 relativo a la exclusión del recurso
+    al régimen de tráfico de perfeccionamiento activo y a determinadas manipulaciones
+    usuales de los productos lácteos #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992R0611
+docidentifier:
+- content: EU Regulation 611/1992
+  type: EU
+  primary: true
+- content: CELEX 31992R0611
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1992/611/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-03-03'
+- type: implemented
+  at: '1992-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31992R0252
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31991R0206
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

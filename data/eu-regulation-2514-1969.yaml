@@ -1,0 +1,73 @@
+---
+id: EURegulation25141969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2514/69 du Conseil, du 9 décembre 1969, définissant
+    les conditions d'application des mesures de sauvegarde dans le secteur des fruits
+    et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2514/69 des Rates vom 9. Dezember 1969 zur Festlegung
+    der Voraussetzungen für die Anwendung der Schutzmaßnahmen auf dem Sektor Obst
+    und Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2514/69 del Consiglio, del 9 dicembre 1969, che definisce
+    le condizioni di applicazione delle misure di salvaguardia nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2514/69 van de Raad van 9 december 1969 houdende
+    omschrijving van de wijze van toepassing van vrijwaringsmaatregelen in de sector
+    groenten en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2514
+docidentifier:
+- content: EU Regulation 2514/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2514
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2514/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-09'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

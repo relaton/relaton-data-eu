@@ -1,0 +1,108 @@
+---
+id: EURegulation5971973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 597/73 of the Council of 26 February 1973 amending
+    the Annex to Regulation (EEC) No 2358/71 on the common organization of the market
+    in seed and Regulation (EEC) No 1674/72 laying down general rules for granting
+    and financing aid for seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 597/73 du Conseil, du 26 février 1973, modifiant
+    l' annexe du règlement (CEE) n° 2358/71 portant organisation commune des marchés
+    dans le secteur des semences et le règlement (CEE) n° 1674/72 fixant les règles
+    générales de l' octroi et du financement de l' aide dans le secteur des semences
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 597/73 des Rates vom 26. Februar 1973 zur Änderung
+    des Anhangs der Verordnung (EWG) Nr. 2358/71 zur Errichtung einer gemeinsamen
+    Marktorganisation für Saatgut und zur Änderung der Verordnung (EWG) Nr. 1674/72
+    zur Festlegung der Grundregeln für die Gewährung und die Finanzierung der Beihilfe
+    für Saatgut
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 597/73 af 26. februar 1973 om ændring af
+    bilaget til forordning (EØF) nr. 2358/71 om den fælles markedsordning for frø
+    og forordning (EØF) nr. 1674/72 om fastsættelse af almindelige regler om ydelse
+    og finansiering af støtte inden for frøsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 597/73 del Consiglio, del 26 febbraio 1973, che modifica
+    l' allegato del regolamento (CEE) n. 2358/71, relativo all' organizzazione comune
+    dei mercati nel settore delle sementi ed il regolamento (CEE) n. 1674/72, che
+    fissa le norme generali per la concessione e il finanziamento dell' aiuto nel
+    settore delle sementi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 597/73 van de Raad van 26 februari 1973 tot wijziging
+    van de bijlage van Verordening (EEG) nr. 2358/71 houdende een gemeenschappelijke
+    ordening der markten in de sector zaaizaad, en tot wijziging van Verordening (EEG)
+    nr. 1674/72 tot vaststelling van de algemene voorschriften voor de toekenning
+    en de financiering van de steun in de sector zaaizaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0597
+docidentifier:
+- content: EU Regulation 597/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0597
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/597/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-02-26'
+- type: implemented
+  at: '1973-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2358
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1674
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

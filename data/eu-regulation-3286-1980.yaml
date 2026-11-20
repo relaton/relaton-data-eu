@@ -1,0 +1,101 @@
+---
+id: EURegulation32861980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3286/80 of 4 December 1980 on import arrangements
+    in respect of State-trading countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3286/80 du Conseil, du 4 décembre 1980, relatif aux
+    régimes d' importation à l' égard des pays à commerce d' État
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3286/80 des Rates vom 4. Dezember 1980 über die Einfuhrregelungen
+    gegenüber Staatshandelsländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3286/80 af 4. december 1980 om importordningerne
+    over for statshandelslandene
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3286/80 τού Συμβουλίου
+    τής 4ης Δεκεμβρίου 1980 περί τών αυτόνομων καθεστώτων
+    εισαγωγής έναντι χωρών κρατικού εμπορίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3286/80 del Consiglio, del 4 dicembre 1980, relativo
+    ai regimi d' importazione nei confronti dei paesi a commercio di Stato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3286/80 van de Raad van 4 december 1980 betreffende
+    de invoerregelingen ten opzichte van de landen met staatshandel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R3286
+docidentifier:
+- content: EU Regulation 3286/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R3286
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/3286/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-12-04'
+- type: implemented
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975D0210
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979D0252
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

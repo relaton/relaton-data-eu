@@ -1,0 +1,68 @@
+---
+id: EURegulation1011966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 101/66/CEE du Conseil, du 14 juillet 1966, relatif à l'organisation
+    d'une enquête sur les salaires dans l'industrie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 101/66/EWG des Rates vom 14. Juli 1966 über die Durchführung
+    einer Lohnerhebung in der Industrie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 101/66/CEE del Consiglio, del 14 luglio 1966, relativo all'organizzazione
+    di un'inchiesta sui salari nell'industria
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 101/66/EEG van de Raad van 14 juli 1966 betreffende de
+    organisatie van een loonenquête in de industrie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0101
+docidentifier:
+- content: EU Regulation 101/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0101
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

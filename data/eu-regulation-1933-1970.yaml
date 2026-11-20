@@ -1,0 +1,74 @@
+---
+id: EURegulation19331970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1933/70 de la Commission, du 25 septembre 1970, relatif
+    aux certificats d'exonération de prélèvement délivrés en application du règlement
+    n° 1052/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1933/70 der Kommission vom 25. September 1970 betreffend
+    Bescheinigungen über die Befreiung von der Abschöpfung gemäß Verordnung Nr.
+    1052/67/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1933/70 della Commissione, del 25 settembre 1970,
+    relativo ai certificati di esonero dal prelievo rilasciati in applicazione del
+    regolamento n. 1052/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1933/70 van de Commissie van 25 september 1970 met
+    betrekking tot de certificaten van vrijstelling van heffing afgegeven op grond
+    van Verordening nr. 1052/67/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1933
+docidentifier:
+- content: EU Regulation 1933/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1933
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1933/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-09-25'
+- type: implemented
+  at: '1970-09-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

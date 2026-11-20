@@ -1,0 +1,104 @@
+---
+id: EURegulation3981983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 398/83 of 18 February 1983 fixing the special
+    rates for converting the free-at-frontier reference prices of imported liqueur
+    wines into national currency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 398/83 de la Commission du 18 février 1983 fixant
+    les taux spéciaux pour la conversion en monnaie nationale des prix franco frontière
+    de référence des vins de liqueur importés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 398/83 der Kommission vom 18. Februar 1983 zur Festsetzung
+    der Sonderkurse zur Umrechnung der Referenzpreise frei Grenze für eingeführte
+    Likörweine in Landeswährung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 398/83 af 18. februar 1983 om fastsættelse
+    af de særlige kurser til omregning til national valuta af referencepriserne franko
+    grænse for indført hedvin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 398/83 της Επιτροπής
+    της 18ης Φεβρουαρίου 1983 περί καθορισμού των
+    ειδικών συντελεστών μετατροπής σε εθνικό νόμισμα
+    των τιμών αναγωγής «ελεύθερο στα σύνορα» των
+    εισαγομένων vins de liqueur
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 398/83 della Commissione del 18 febbraio 1983 che
+    stabilisce i tassi speciali per la conversione in moneta nazionale dei prezzi
+    franco frontiera di riferimento dei vini liquorosi importati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 398/83 van de Commissie van 18 februari 1983 houdende
+    vaststelling van de bijzondere koersen voor de omrekening in nationale munteenheid
+    van de referentieprijzen franco-grens voor ingevoerde likeurwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0398
+docidentifier:
+- content: EU Regulation 398/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0398
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/398/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-02-18'
+- type: implemented
+  at: '1983-02-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R3304
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

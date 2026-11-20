@@ -1,0 +1,84 @@
+---
+id: EURegulation1061967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 106/67/CEE du Conseil, du 31 mai 1967, dérogeant à certaines
+    dispositions du règlement n° 13/64/CEE en ce qui concerne la fixation des prix
+    de seuil et le calcul des prélèvements ainsi que de la restitution applicables
+    à certains fromages
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 106/67/EWG des Rates vom 31. Mai 1967 über die Abweichung
+    von einigen Vorschriften der Verordnung Nr. 13/64/EWG in bezug auf die Festsetzung
+    der Schwellenpreise und die Berechnung der Abschöpfungsbeträge sowie der Erstattungsbeträge
+    für bestimmte Käsesorten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 106/67/CEE del Consiglio, del 31 maggio 1967, che deroga
+    a talune disposizioni del regolamento n. 13/64/CEE per quanto riguarda la fissazione
+    dei prezzi d'entrata e il calcolo dei prelievi e delle restituzioni applicabili
+    a taluni formaggi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 106/67/EEG van de Raad van 31 mei 1967 houdende afwijking
+    van sommige bepalingen van Verordening Nr. 13/64/EEG voor zover deze betrekking
+    hebben op de vaststelling van de drempelprijzen en de berekening van de heffingen
+    en van de restitutie voor sommige kaassoorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0106
+docidentifier:
+- content: EU Regulation 106/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0106
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/106/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-31'
+- type: implemented
+  at: '1967-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0056
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

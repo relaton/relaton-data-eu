@@ -1,0 +1,77 @@
+---
+id: EURegulation27851971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2785/71 du Conseil, du 20 décembre 1971, portant
+    ouverture, répartition et mode de gestion du contingent tarifaire communautaire
+    de certains produits pétroliers, du chapitre 27 du tarif douanier commun, raffinés
+    en Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2785/71 des Rates vom 20. Dezember 1971 über die
+    Eröffnung, Aufteilung und Verwaltung des Gemeinschaftszollkontingents für bestimmte
+    in Spanien raffinierte Erdölerzeugnisse des Kapitels 27 des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2785/71 del Consiglio, del 20 dicembre 1971, relativo
+    all'apertura, alla suddivisione ed alle modalità di gestione del contingente
+    tariffario comunitario di taluni prodotti petroliferi, del capitolo 27 della tariffa
+    doganale comune, raffinati di Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2785/71 van de Raad van 20 december 1971 betreffende
+    de opening, de verdeling en de wijze van beheer van het communautaire tariefcontingent
+    voor bepaalde aardolieprodukten, van hoofdstuk 27 van het gemeenschappelijk douanetarief,
+    die in Spanje zijn geraffineerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2785
+docidentifier:
+- content: EU Regulation 2785/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2785
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2785/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-20'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

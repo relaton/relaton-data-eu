@@ -1,0 +1,69 @@
+---
+id: EURegulation131963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 13/63/CEE de la Commission du 26 février 1963 portant fixation
+    du montant des prélèvements intracommunautaires applicables aux oeufs en coquille
+    de volaille de basse-cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 13/63/EWG der Kommission vom 26. Februar 1963 über die
+    Festsetzung der innergemeinschaftlichen Abschöpfungsbeträge für Eier in der
+    Schale von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 13/63/CEE della Commissione del 26 febbraio 1963 relativo
+    alla fissazione dell'ammontare del prelievo intracomunitario per le uova in guscio
+    di volatili da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 13/63/EEG van de Commissie van 26 februari 1963 houdende
+    vaststelling van het bedrag der intracommunautaire heffingen op eieren in de schaal
+    van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0013
+docidentifier:
+- content: EU Regulation 13/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0013
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/13/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

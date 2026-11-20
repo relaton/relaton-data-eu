@@ -1,0 +1,66 @@
+---
+id: EURegulation14031972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1403/72 de la Commission, du 30 juin 1972, modifiant
+    le prélèvement applicable à certains fromages importés de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1403/72 der Kommission vom 30. Juni 1972 zur Änderung
+    der Abschöpfung für bestimmte aus der Türkei eingeführte Käsesorten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1403/72 della Commissione, del 30 giugno 1972, che
+    modifica il prelievo all'importazione per taluni formaggi importati dalla Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1403/72 van de Commissie van 30 juni 1972 tot wijziging
+    van de heffing die wordt toegepast bij de invoer van bepaalde kaassoorten uit
+    Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1403
+docidentifier:
+- content: EU Regulation 1403/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1403
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1403/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

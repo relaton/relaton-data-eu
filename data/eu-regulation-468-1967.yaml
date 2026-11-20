@@ -1,0 +1,65 @@
+---
+id: EURegulation4681967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 468/67/CEE de la Commission, du 21 août 1967, portant fixation
+    du prix de seuil du riz blanchi pour la campagne 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 468/67/EWG der Kommission vom 21. August 1967 zur Festsetzung
+    des Schwellenpreises für geschliffenen Reis für das Wirtschaftsjahr 1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 468/67/CEE della Commissione, del 21 agosto 1967, che fissa
+    il prezzo d'entrata del riso lavorato per la campagna 1967-1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 468/67/EEG van de Commissie van 21 augustus 1967 houdende
+    vaststelling van de drempelprijs voor volwitte rijst voor het verkoopseizoen 1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0468
+docidentifier:
+- content: EU Regulation 468/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0468
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/468/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,78 @@
+---
+id: EURegulation471972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 47/72 de la Commission, du 7 janvier 1972, fixant
+    les montants compensatoires valables à partir du 3 janvier 1972 pour les marchandises
+    relevant du règlement (CEE) n° 1059/69 à la suite de l'élargissement temporaire
+    des marges de fluctuation des monnaies des États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 47/72 der Kommission vom 7. Januar 1972 zur Festsetzung
+    der ab 3. Januar 1972 geltenden Ausgleichsbeträge für die unter die Verordnung
+    (EWG) Nr. 1059/69 fallenden Waren im Anschluß an die vorübergehende Erweiterung
+    der Bandbreiten der Währungen der Mitgliedstaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 47/72 della Commissione, del 7 gennaio 1972, che fissa
+    gli importi di compensazione valevoli a partire dal 3 gennaio 1972 per le merci
+    comprese nel regolamento (CEE) n. 1059/69 in seguito all'ampliamento temporaneo
+    dei margini di fluttuazione delle monete di alcuni Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 47/72 van de Commissie van 7 januari 1972 houdende
+    vaststelling van de compenserende bedragen voor de produkten vallende onder Verordening
+    (EEG) nr. 1059/69, geldend met ingang van 3 januari 1972, naar aanleiding van
+    de tijdelijke verruiming van de fluctuatiemarges van de valuta's van Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0047
+docidentifier:
+- content: EU Regulation 47/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0047
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/47/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-01-07'
+- type: implemented
+  at: '1972-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

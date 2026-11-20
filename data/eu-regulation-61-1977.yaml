@@ -1,0 +1,98 @@
+---
+id: EURegulation611977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 61/77 of 13 January 1977 amending Regulation
+    (EEC) No 2804/76 on the distillation of wines suitable for producing certain potable
+    spirits obtained from wine with a registered designation of origin for the 1976/77
+    marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 61/77 de la Commission, du 13 janvier 1977, modifiant
+    le règlement (CEE) n° 2804/76 relatif à la distillation des vins aptes à produire
+    certaines eaux-de-vie de vin à appellation d'origine pour la campagne 1976/1977
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 61/77 der Kommission vom 13. Januar 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2804/76 über die Destillierung von Weinen, die zur Erzeugung
+    bestimmter Branntweine aus Wein mit Ursprungsbezeichnung für das Wirtschaftsjahr
+    1976/1977 geeignet sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 61/77 af 13. januar 1977 om ændring
+    af forordning (EØF) nr. 2804/76 om destillering af vin, der er egnet til fremstilling
+    af visse vinbrændevine med oprindelsesbetegnelse, i produktionsåret 1976/1977
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 61/77 della Commissione, del 13 gennaio 1977, che
+    modifica il regolamento (CEE) n. 2804/76, relativo alla distillazione dei vini
+    atti a produrre talune acqueviti di vino con denominazione d'origine per la campagna
+    1976/1977
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 61/77 van de Commissie van 13 januari 1977 tot wijziging
+    van Verordening (EEG) nr. 2804/76 betreffende de distillatie van wijn die geschikt
+    is voor verwerking tot bepaalde soorten gedistilleerd van wijn met een oorsprongsbenaming,
+    voor het wijnoogstjaar 1976/1977
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0061
+docidentifier:
+- content: EU Regulation 61/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0061
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/61/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-01-13'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2804
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

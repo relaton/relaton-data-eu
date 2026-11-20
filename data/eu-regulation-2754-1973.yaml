@@ -1,0 +1,98 @@
+---
+id: EURegulation27541973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2754/73 of the Commission of 10 October 1973 amending
+    Regulation No 204/67/EEC fixing coefficients for calculating levies on pigmeat
+    products other than pig carcases
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2754/73 de la Commission, du 10 octobre 1973, modifiant
+    le règlement n° 204/67/CEE portant fixation des coefficients pour le calcul
+    des prélèvements applicables aux produits du secteur de la viande de porc autres
+    que le porc abattu
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2754/73 der Kommission vom 10. Oktober 1973 zur Änderung
+    der Verordnung Nr. 204/67/EWG über die Festsetzung der Koeffizienten zur Berechnung
+    der Abschöpfungen für Schweinefleischerzeugnisse mit Ausnahme von geschlachteten
+    Schweinen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2754/73 af 10. oktober 1973 om ændring
+    af forordning nr. 204/67/EØF om fastsættelse af koefficienter for beregning
+    af importafgifter for svinekødsprodukter med undtagelse af slagtede svin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2754/73 della Commissione, del 10 ottobre 1973, che
+    modifica il regolamento n. 204/67/CEE, relativo alla fissazione dei coefficienti
+    per il calcolo dei prelievi applicabili ai prodotti del settore della carne suina
+    diversi dai suini macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2754/73 van de Commissie van 10 oktober 1973 tot
+    wijziging van Verordening nr. 204/67/EEG houdende vaststelling van de coëfficiënten
+    voor de berekening van de heffingen die van toepassing zijn op de produkten in
+    de sector varkensvlees, andere dan geslachte varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2754
+docidentifier:
+- content: EU Regulation 2754/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2754
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2754/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-10'
+- type: implemented
+  at: '1973-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0204
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

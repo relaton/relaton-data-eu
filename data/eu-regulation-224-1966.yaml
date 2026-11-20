@@ -1,0 +1,83 @@
+---
+id: EURegulation2241966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement 224/66/CEE du Conseil, du 22 décembre 1966, dérogeant à certaines
+    dispositions du règlement n° 17/64/CEE concernant le concours du FEOGA section
+    orientation, pour les années 1966 et 1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 224/66/EWG des Rates vom 22. Dezember 1966 über Ausnahmen
+    von einigen Bestimmungen der Verordnung Nr. 17/64/EWG über die Beteiligung des
+    Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft, Abteilung
+    Ausrichtung, für die Jahre 1966 und 1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 224/66/CEE del Consiglio, del 22 dicembre 1966, recante
+    deroga a talune disposizioni del regolamento n. 17/64/CEE relativo alle condizioni
+    di concorso del Fondo europeo agricolo di orientamento e di garanzia, sezione
+    orientamento, per il 1966 e 1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 224/66/EEG van de Raad van 22 december 1966 waarbij wordt
+    afgeweken van sommige bepalingen van Verordening Nr. 17/64/EEG betreffende de
+    bijstand van het Europees Oriëntatie- en Garantiefonds voor de landbouw, afdeling
+    Oriëntatie, voor de jaren 1966 en 1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0224
+docidentifier:
+- content: EU Regulation 224/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0224
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/224/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-22'
+- type: implemented
+  at: '1967-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,72 @@
+---
+id: EURegulation831963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 83/63/CEE de la Commission, du 31 juillet 1963, portant fixation
+    ou correction de coefficients d'équivalence entre certaines qualités de céréales
+    offertes sur le marché mondial et le standard de qualité pour lequel est fixé
+    le prix de seuil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 83/63/EWG der Kommission vom 31. Juli 1963 zur Festsetzung
+    oder Berichtigung von Ausgleichskoeffizienten zwischen bestimmten auf dem Weltmarkt
+    angebotenen Getreidequalitäten und der für den Schwellenpreis maßgebenden Standardqualität.
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 83/63/CEE della Commissione, del 31 luglio 1963, relativo
+    alla determinazione o correzione dei coefficienti di equivalenza tra alcune qualità
+    di cereali offerte sul mercato mondiale e la qualità tipo per la quale è fissato
+    il prezzo d'entrata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 83/63/EEG van de Commissie van 31 juli 1963, tot vaststelling
+    of correctie van de gelijkwaardigheidscoëfficiënten voor sommige op de wereldmarkt
+    aangeboden kwaliteiten granen en de standaardkwaliteit waarvoor de drempelprijs
+    is bepaald
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0083
+docidentifier:
+- content: EU Regulation 83/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/83/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

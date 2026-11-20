@@ -1,0 +1,104 @@
+---
+id: EURegulation28941977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2894/77 of 20 December 1977 amending Regulation
+    (EEC) No 858/72 on certain administrative and financial procedures for the operation
+    of the European Social Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2894/77 du Conseil, du 20 décembre 1977, modifiant
+    le règlement (CEE) n° 858/72 concernant certaines modalités administratives
+    et financières de fonctionnement du Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2894/77 des Rates vom 20. Dezember 1977 zur Änderung
+    der Verordnung (EWG) Nr. 858/72 über bestimmte Verwaltungs- und Finanzmodalitäten
+    der Tätigkeit des Europäischen Sozialfonds
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2894/77 af 20. december 1977 om ændring
+    af forordning (EØF) nr. 858/72 om visse administrative og finansielle bestemmelser
+    om Den europæiske Socialfonds virksomhed
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2894/77 τού Συμβουλίου
+    τής 20ής Δεκεμβρίου 1977 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 858/72 «περί διοικητικής
+    καί δημοσιονομικής λειτουργίας τού Ευρωπαϊκού
+    Κοινωνικού Ταμείου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2894/77 del Consiglio, del 20 dicembre 1977, che modifica
+    il regolamento (CEE) n. 858/72 relativo a talune modalità amministrative e finanziarie
+    di funzionamento del Fondo sociale europeo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2894/77 van de Raad van 20 december 1977 tot wijziging
+    van Verordening (EEG) nr. 858/72 betreffende een aantal administratieve en financiële
+    bepalingen nopens de werkwijze van het Europees Sociaal Fonds
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2894
+docidentifier:
+- content: EU Regulation 2894/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2894
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2894/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-20'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0858
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

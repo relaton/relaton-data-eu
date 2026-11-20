@@ -1,0 +1,94 @@
+---
+id: EURegulation2731973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 273/73 of the Commission of 31 January 1973 making
+    a second amendment to the Annex to Regulation (EEC) No L 1576/72 as regards the
+    differential amounts for colza and rape seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 273/73 de la Commission, du 31 janvier 1973, portant
+    deuxième modification de l'annexe du règlement (CEE) n° 1576/72 en ce qui concerne
+    les montants différentiels pour les graines de colza et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 273/73 der Kommission vom 31. Januar 1973 zur zweiten
+    Änderung des Anhangs der Verordnung (EWG) Nr. 1576/72 der Kommission über die
+    Differenzbeträge für Raps- und Rübsensamen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 273/73 af 31. januar 1973 om den anden
+    ændring af bilaget til forordning (EØF) nr. 1576/72 for så vidt angår differencebeløbene
+    for raps- og rybsfrø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 273/73 della Commissione, del 31 gennaio 1973, relativo
+    alla seconda modifica dell'allegato del regolamento (CEE) n. 1576/72 relativo
+    agli importi differenziali per i semi di colza e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 273/73 van de Commissie van 31 januari 1973 houdende
+    tweede wijziging van de bijlage van Verordening (EEG) nr. 1576/72 betreffende
+    de differentiële bedragen voor kool- en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0273
+docidentifier:
+- content: EU Regulation 273/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0273
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/273/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-31'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1576
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

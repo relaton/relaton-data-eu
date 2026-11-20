@@ -1,0 +1,94 @@
+---
+id: EURegulation26831972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2683/72 of the Council of 12 December 1972 amending
+    Regulation No 175/67/EEC in respect of the general rules for the advance fixing
+    of export refunds on eggs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2683/72 du Conseil, du 12 décembre 1972, modifiant
+    le règlement n° 175/67/CEE en ce qui concerne les règles générales de fixation
+    à l' avance des restitutions à l' exportation dans le secteur des oeufs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2683/72 des Rates vom 12. Dezember 1972 zur Änderung
+    der Verordnung Nr. 175/67/EWG über die Grundregeln für die Vorausfestsetzung
+    der Erstattungen bei der Ausfuhr von Eiern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2683/72 af 12. december 1972 om ændring
+    af forordning nr. 175/67/EØF for så vidt angår de almindelige regler om forudfastsættelse
+    af eksportrestitutioner for æg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2683/72 del Consiglio, del 12 dicembre 1972, che modifica
+    il regolamento n. 175/67/CEE per quanto concerne le regole generali di fissazione
+    anticipata delle restituzioni all' esportazione nel settore delle uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr 2683/72 van de Raad van 12 december 1972 tot wijziging
+    van Verordening nr. 175/67/EEG met betrekking tot de algemene voorschriften betreffende
+    de vaststelling vooraf van de restituties bij uitvoer in de sector eieren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2683
+docidentifier:
+- content: EU Regulation 2683/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2683
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2683/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-12'
+- type: implemented
+  at: '1972-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0175
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

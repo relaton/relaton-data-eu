@@ -1,0 +1,73 @@
+---
+id: EURegulation12511972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1251/72 de la Commission, du 13 juin 1972, portant
+    modalités d'application du règlement (CEE) n 1577/71 relatif à la fourniture
+    de produits d'oeufs au programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1251/72 der Kommission vom 13. Juni 1972 mit Durchführungsbestimmungen
+    zur Verordnung (EWG) Nr. 1577/71 über die Lieferung von Eiprodukten an das Welternährungsprogramm
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1251/72 della Commissione, del 13 giugno 1972, che
+    stabilisce le modalità di applicazione del regolamento (CEE) n. 1577/71 relativo
+    alla fornitura di prodotti di uova al PAM
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1251/72 van de Commissie van 13 juni 1972 tot vaststelling
+    van de wijze van toepassing van Verordening (EEG) nr. 1577/71 betreffende de levering
+    van eiprodukten aan het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1251
+docidentifier:
+- content: EU Regulation 1251/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1251
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1251/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-13'
+- type: implemented
+  at: '1972-06-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

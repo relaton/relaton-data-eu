@@ -1,0 +1,67 @@
+---
+id: EURegulation711966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 71/66/CEE de la Commission, du 28 juin 1966, modifiant l'annexe
+    du règlement n 161/64/CEE relatif au prix du marché mondial de la viande congelée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 71/66/EWG der Kommission vom 28. Juni 1966 zur Abänderung
+    des Anhangs der Verordnung Nr. 161/64/EWG über den Weltmarktpreis für Gefrierfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 71/66/CEE della Commissione, del 28 giugno 1966, che modifica
+    l'allegato del regolamento n. 161/64/CEE relativo al prezzo del mercato mondiale
+    delle carni congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 71/66/EEG van de Commissie van 28 juni 1966 houdende wijziging
+    van de bijlage van Verordening no. 161/64/EEG met betrekking tot de wereldmarktprijs
+    voor bevroren vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0071
+docidentifier:
+- content: EU Regulation 71/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0071
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/71/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

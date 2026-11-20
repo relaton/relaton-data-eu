@@ -1,0 +1,121 @@
+---
+id: EUDirective199216
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 92/16/EEC of 16 March 1992 amending Directive 89/299/EEC
+    on the credit institution's own funds
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 92/16/CEE du Conseil du 16 mars 1992 modifiant la directive 89/299/CEE
+    concernant les fonds propres des établissements de crédit
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 92/16/EWG des Rates vom 16. März 1992 zur Änderung der Richtlinie
+    89/299/EWG über die Eigenmittel von Kreditinstituten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 92/16/EØF af 16. marts 1992 om ændring af direktiv 89/299/EØF
+    om kreditinstitutters egenkapital
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 92/16/ΕΟΚ του Συμβουλίου της 16ης Μαρτίου
+    1992 για την τροποποίηση της οδηγίας 89/299/ΕΟΚ
+    σχετικά με τα ίδια κεφάλαια των πιστωτικών
+    ιδρυμάτων
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 92/16/ETY, annettu 16 päivänä maaliskuuta 1992,
+    luottolaitosten omista varoista annetun direktiivin 89/299/ETY muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 92/16/CEE del Consiglio del 16 marzo 1992 che modifica la direttiva
+    89/299/CEE concernente i fondi propri degli enti creditizi
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 92/16/EEG van de Raad van 16 maart 1992 tot wijziging van Richtlijn
+    89/299/EEG betreffende het eigen vermogen van kredietinstellingen
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 92/16/CEE do Conselho de 16 de Março de 1992 que altera a Directiva
+    89/299/CEE relativa aos fundos próprios das instituições de crédito
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 92/16/CEE del Consejo de 16 de marzo de 1992 por la que se modifica
+    la Directiva 89/299/CEE relativa a los fondos propios de las entidades de crédito
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 92/16/EEG av den 16 mars 1992 om ändring av direktiv
+    89/299/EEG om kapitalbasen i kreditinstitut
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0016
+docidentifier:
+- content: EU Directive 1992/16
+  type: EU
+  primary: true
+- content: CELEX 31992L0016
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1992/16/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-03-16'
+- type: implemented
+  at: '1992-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989L0299
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

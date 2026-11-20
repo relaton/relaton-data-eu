@@ -1,0 +1,91 @@
+---
+id: EURegulation18361976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1836/76 of 28 July 1976 supplementing Regulation
+    (EEC) No 753/76 as regards the denaturing of skimmed-milk powder
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1836/76 de la Commission, du 28 juillet 1976, complétant
+    le règlement (CEE) n° 753/76 en ce qui concerne la dénaturation du lait écrémé
+    en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1836/76 der Kommission vom 28. Juli 1976 zur Ergänzung
+    der Verordnung (EWG) Nr. 753/76 hinsichtlich der Denaturierung des Magermilchpulvers
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1836/76 af 28. juli 1976 om supplering
+    af forordning (EØF) nr. 753/76 for så vidt angår denaturering af skummetmælkspulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1836/76 della Commissione, del 28 luglio 1976, che
+    completa il regolamento (CEE) n. 753/76 per quanto riguarda la denaturazione del
+    latte scremato in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1836/76 van de Commissie van 28 juli 1976 houdende
+    aanvulling van Verordening (EEG) nr. 753/76 met betrekking tot de denaturering
+    van magere-melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1836
+docidentifier:
+- content: EU Regulation 1836/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1836
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1836/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-28'
+- type: implemented
+  at: '1976-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0753
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

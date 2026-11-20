@@ -1,0 +1,97 @@
+---
+id: EURegulationNo20351977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2035/77 of 14 September 1977 amending Regulation
+    (EEC) No 470/73 laying down general rules for the application of the compensatory
+    amounts applicable to colza and rape seed produced in the new Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2035/77 de la Commission, du 14 septembre 1977, modifiant
+    le règlement (CEE) n° 470/73, portant modalités d' application des montants
+    compensatoires applicables aux graines de colza et de navette produites dans les
+    nouveaux États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2035/77 der Kommission vom 14. September 1977 zur
+    Änderung der Verordnung (EWG) Nr. 470/73 über Durchführungsbestimmungen zu
+    den Ausgleichsbeträgen für in den neuen Mitgliedstaaten erzeugte Raps- und Rübsensamen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2035/77 af 14. september 1977 om ændring
+    af forordning (EØF) nr. 470/73 om reglerne for anvendelsen af udligningsbeløb
+    vedrørende raps- og rybsfrø, der er avlet i de nye medlemsstater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2035/77 della Commissione, del 14 settembre 1977,
+    che modifica il regolamento (CEE) n. 470/73, recante modalità di applicazione
+    degli importi compensativi applicabili ai semi di colza e di ravizzone prodotti
+    nei nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2035/77 van de Commissie van 14 september 1977 tot
+    wijziging van Verordening (EEG) nr. 470/73 houdende uitvoeringsbepalingen betreffende
+    de compenserende bedragen voor het in de nieuwe Lid-Staten geproduceerde kool-
+    en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2035
+docidentifier:
+- content: EU Regulation No 2035/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2035
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2035/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-09-14'
+- type: implemented
+  at: '1977-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0470
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

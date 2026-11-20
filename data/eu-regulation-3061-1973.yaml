@@ -1,0 +1,105 @@
+---
+id: EURegulation30611973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3061/73 of the Commission of 12 November 1973 amending
+    Regulation (EEC) No 756/70 on granting aid for skimmed milk processed into casein
+    and caseinates
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3061/73 de la Commission, du 12 novembre 1973, modifiant
+    le règlement (CEE) n° 756/70 relatif à l' octroi des aides au lait écrémé
+    transformé en vue de la fabrication de caséine et de caséinates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3061/73 der Kommission vom 12. November 1973 zur Änderung
+    der Verordnung (EWG) Nr. 756/70 über die Gewährung von Beihilfen für Magermilch,
+    die zu Kasein und Kaseinaten verarbeitet worden ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3061/73 af 12. november 1973 om ændring
+    af forordning (EØF) nr. 756/70 om ydelse af støtte til skummetmælk, som er
+    blevet forarbejdet til kasein og kaseinater
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3061/73 τής Επιτροπής
+    τής 12ης Νοεμβρίου 1973 περί τροποποιήσεως τού
+    κανονισμού (EOK) αριθ. 756/70 «περί τής χορηγήσεως
+    ενισχύσεων στό αποκορυφωμένο γάλα τό οποίο
+    μεταποιείται γιά τήν παρασκευή τυρίνης καί
+    τυρινικών αλάτων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3061/73 della Commissione, del 12 novembre 1973, che
+    modifica il regolamento (CEE) n. 756/70 relativo alla concessione di aiuti per
+    il latte scremato trasformato per la fabbricazione di caseina e di caseinati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3061/73 van de Commissie van 12 november 1973 houdende
+    wijziging van Verordening (EEG) nr. 756/70 betreffende steunverlening voor ondermelk,
+    die tot caseïne en caseïnaten is verwerkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3061
+docidentifier:
+- content: EU Regulation 3061/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3061
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3061/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-11-12'
+- type: implemented
+  at: '1973-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0756
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

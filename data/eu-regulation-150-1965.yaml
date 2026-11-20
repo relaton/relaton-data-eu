@@ -1,0 +1,73 @@
+---
+id: EURegulation1501965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 150/65/CEE du Conseil, du 27 octobre 1965, portant modification
+    de l'article 3 du règlement n 47/64/CEE du Conseil en ce qui concerne la définition
+    des produits auxquels s'appliquent les coefficients fixés pour les quartiers
+    avant et les quartiers arrière (viande bovine)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 150/65/EWG des Rates vom 27. Oktober 1965 zur Änderung
+    des Artikels 3 der Verordnung Nr. 47/64/EWG des Rates betreffend die Definition
+    der Erzeugnisse, auf welche die für Vorderviertel und Hinterviertel festgesetzten
+    Koeffizienten anzuwenden sind (Rindfleisch)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 150/65/CEE del Consiglio, del 27 ottobre 1965, relativo
+    alla modifica dell'articolo 3 del regolamento n. 47/64/CEE del Consiglio per quanto
+    concerne la definizione dei prodotti cui sono applicabili i coefficienti fissati
+    per i quarti anteriori e i quarti posteriori (carni bovine)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 150/65/EEG van de Raad van 27 oktober 1965 houdende wijziging
+    van artikel 3 van Verordening no. 47/64/EEG van de Raad voor wat betreft de definitie
+    van de produkten, waarop de voor voorvoeten en achtervoeten vastgestelde coëfficiënten
+    van toepassing zijn (rundvlees)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0150
+docidentifier:
+- content: EU Regulation 150/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0150
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/150/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

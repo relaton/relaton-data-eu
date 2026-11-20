@@ -1,0 +1,103 @@
+---
+id: EURegulation18171977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1817/77 of 5 August 1977 amending Regulations
+    (EEC) No 2073/74 and (EEC) No 2320/74 on the sale at prices fixed at a standard
+    rate in advance of beef held by the intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1817/77 de la Commission, du 5 août 1977, modifiant
+    les règlements (CEE) n° 2073/74 et (CEE) n° 2320/74 relatifs à la vente à
+    prix fixé forfaitairement à l' avance de viande bovine détenue par les organismes
+    d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1817/77 der Kommission vom 5. August 1977 zur Änderung
+    der Verordnungen (EWG) Nr. 2073/74 und (EWG) Nr. 2320/74 über den Verkauf von
+    Rindfleisch im Besitz der Interventionsstellen zu pauschal im voraus festgesetzten
+    Preisen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1817/77 af 5. august 1977 om ændring
+    af forordningerne (EØF) nr. 2073/74 og (EØF) nr. 2320/74 om salg til forudfastsatte
+    priser af oksekød, som interventionsorganerne ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1817/77 della Commissione, del 5 agosto 1977, che
+    modifica i regolamenti (CEE) n. 2073/74 e (CEE) n. 2320/74 relativi alla vendita,
+    ad un prezzo fissato forfettariamente in anticipo, di carni bovine detenute dagli
+    organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1817/77 van de Commissie van 5 augustus 1977 tot
+    wijziging van de Verordeningen (EEG) nr. 2073/74 en (EEG) nr. 2320/74 betreffende
+    de verkoop van rundvlees uit interventievoorraden tegen een vooraf forfaitair
+    vastgestelde prijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1817
+docidentifier:
+- content: EU Regulation 1817/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1817
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1817/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-08-05'
+- type: implemented
+  at: '1977-08-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

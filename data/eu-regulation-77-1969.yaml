@@ -1,0 +1,65 @@
+---
+id: EURegulation771969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 77/69 de la Commission, du 16 janvier 1969, fixant le
+    correctif applicable à la restitution pour les céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 77/69 der Kommission vom 16. Januar 1969 zur Festsetzung
+    der bei der Erstattung für Getreide anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 77/69 della Commissione, del 16 gennaio 1969, che
+    fissa il correttivo applicabile alla restituzione per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 77/69 van de Commissie van 16 januari 1969 houdende
+    vaststelling van het op de restitutie voor granen toe te passen correctief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0077
+docidentifier:
+- content: EU Regulation 77/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0077
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/77/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

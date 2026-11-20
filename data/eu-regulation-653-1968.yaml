@@ -1,0 +1,101 @@
+---
+id: EURegulation6531968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 653/68 of the Council of 30 May 1968 on conditions
+    for alterations to the value of the unit of account used for the common agricultural
+    policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 653/68 du Conseil, du 30 mai 1968, relatif aux conditions
+    de modification de la valeur de l' unité de compte utilisée pour la politique
+    agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 653/68 des Rates vom 30. Mai 1968 über die Bedingungen
+    für die Änderung des Wertes der Rechnungseinheit für die gemeinsame Agrarpolitik
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 653/68 af 30. maj 1968 om betingelserne for
+    ændring af værdien af den for den fælles landbrugspolitik anvendte regningsenhed
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 653/68 τού Συμβουλίου
+    τής 30ής Μαΐου 1968 περί τών όρων μεταβολής τής
+    αξίας τής λογιστικής μονάδος, πού χρησιμοποιείται
+    γιά τήν κοινή γεωργική πολιτική
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 653/68 del Consiglio, del 30 maggio 1968, relativo
+    alle condizioni di modifica del valore dell' unità di conto utilizzata per la
+    politica agraria comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 653/68 van de Raad van 30 mei 1968 betreffende de
+    voorwaarden voor wijziging van de waarde van de voor het gemeenschappelijk landbouwbeleid
+    gebruikte rekeneenheid
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0653
+docidentifier:
+- content: EU Regulation 653/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0653
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/653/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-30'
+- type: implemented
+  at: '1968-06-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0129
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

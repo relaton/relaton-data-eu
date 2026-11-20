@@ -1,0 +1,80 @@
+---
+id: EURegulation6211970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 621/70 de la Commission, du 2 avril 1970, modifiant
+    le règlement (CEE) n° 565/70 relatif à la gestion du système de titres d'importation
+    des pommes de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 621/70 der Kommission vom 2. April 1970 zur Änderung
+    der Verordnung (EWG) Nr. 565/70 über die Handhabung des Systems der Einfuhrlizenzen
+    für Tafeläpfel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 621/70 della Commissione, del 2 aprile 1970, che modifica
+    il regolamento (CEE) n. 565/70 relativo alla gestione del sistema di titoli d'importazione
+    per le mele da tavola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 621/70 van de Commissie van 2 april 1970 houdende
+    wijziging van Verordening (EEG) nr. 565/70 betreffende het beheer van het stelsel
+    van invoervergunningen voor tafelappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0621
+docidentifier:
+- content: EU Regulation 621/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0621
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/621/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-02'
+- type: implemented
+  at: '1970-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0565
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

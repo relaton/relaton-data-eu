@@ -1,0 +1,97 @@
+---
+id: EURegulation25451978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2545/78 of 30 October 1978 amending Regulation
+    (EEC) No 1027/78 concerning the sale for export at prices fixed at a standard
+    rate in advance of beef held by the intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2545/78 de la Commission, du 30 octobre 1978, modifiant
+    le règlement (CEE) n° 1027/78 relatif à la vente à prix fixé forfaitairement
+    à l' avance de viande bovine détenue par les organismes d' intervention et destinée
+    à être exportée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2545/78 der Kommission vom 30. Oktober 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1027/78 úber den Verkauf fúr die Ausfuhr von im Besitz
+    der Interventionsstellen befindlichem bestimmtem Rindfleisch zu pauschal im voraus
+    festgesetzten Preisen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2545/78 af 30. oktober 1978 om ændring
+    af forordning (EØF) nr. 1027/78 om salg til forudfastsatte priser, med henblik
+    på udførsel, af oksekød, som interventionsorganerne ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2545/78 della Commissione, del 30 ottobre 1978, che
+    modifica il regolamento (CEE) n. 1027/78 relativo alla vendita a prezzi fissati
+    forfettariamente in anticipo di carni bovine detenute dagli organismi d' intervento
+    e destinate ad essere esportate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2545/78 van de Commissie van 30 oktober 1978 tot
+    wijziging van Verordening (EEG) nr. 1027/78 betreffende de verkoop voor uitvoer
+    van rundvlees uit interventievoorraden tegen vooraf forfaitair vastgestelde prijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2545
+docidentifier:
+- content: EU Regulation 2545/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2545
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2545/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-30'
+- type: implemented
+  at: '1978-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1027
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

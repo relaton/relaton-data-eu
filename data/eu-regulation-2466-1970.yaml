@@ -1,0 +1,70 @@
+---
+id: EURegulation24661970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2466/70 de la Commission, du 4 décembre 1970, fixant
+    les restitutions à l'exportation pour certains fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2466/70 der Kommission vom 4. Dezember 1970 zur Festsetzung
+    der Ausfuhrerstattungen für verschiedene Arten von Obst und Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2466/70 della Commissione, del 4 dicembre 1970, che
+    fissa le restituzioni all'esportazione per taluni ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2466/70 van de Commissie van 4 december 1970 houdende
+    vaststelling van de restituties voor bepaalde soorten groenten en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2466
+docidentifier:
+- content: EU Regulation 2466/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2466
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2466/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-04'
+- type: implemented
+  at: '1970-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

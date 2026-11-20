@@ -1,0 +1,137 @@
+---
+id: EURegulation15211989
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1521/89 of 1 June 1989 amending Regulations
+    (EEC) No 2240/88 and (EEC) No 2285/88 in respect of the rules for applying the
+    intervention threshold for lemons
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1521/89 du Conseil du 1er juin 1989 modifiant les
+    règlements (CEE) n° 2240/88 et (CEE) n 2285/88 en ce qui concerne les règles
+    d'application du seuil d'intervention valable pour les citrons
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1521/89 des Rates vom 1. Juni 1989 zur Änderung der
+    Verordnungen (EWG) Nr. 2240/88 und (EWG) Nr. 2285/88 hinsichtlich der Bestimmungen
+    über die Anwendung der Interventionsschwelle für Zitronen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1521/89 af 1. juni 1989 om ændring af forordning
+    (EØF) nr. 2240/88 og (EØF) nr. 2285/88 for så vidt angår gennemførelsesbestemmelserne
+    vedrørende interventionstærsklen for citroner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1521/89 του Συμβουλίου
+    της 1ης Ιουνίου 1989 για την τροποποίηση των κανονισμών
+    (ΕΟΚ) αριθ. 2240/88 και (ΕΟΚ) αριθ. 2285/88 όσον αφορά
+    τους κανόνες εφαρμογής του ορίου παρέμβασης
+    που ισχύει για τα λεμόνια
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 1521/89, annettu 1 päivänä kesäkuuta 1989,
+    asetusten (ETY) N:o 2240/88 ja (ETY) N:o 2285/88 muuttamisesta sitruunoiden interventiokynnystä
+    koskevien soveltamissääntöjen osalta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1521/89 del Consiglio del 1o giugno 1989 che modifica
+    i regolamenti (CEE) n. 2240/88 e (CEE) n. 2285/88 per quanto concerne le norme
+    d'applicazione del limite di intervento valido per i limoni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1521/89 van de Raad van 1 juni 1989 tot wijziging
+    van de Verordeningen (EEG) nr. 2240/88 en (EEG) nr. 2285/88 voor wat de regels
+    voor de toepassing van de interventiedrempel voor citroenen betreft
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 1521/89 do Conselho de 1 de Junho de 1989 que altera
+    os Regulamentos (CEE) nº 2240/88 e (CEE) nº 2285/88, no que diz respeito às
+    regras de aplicação do limiar de intervenção valido para os limões
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1521/89 del Consejo de 1 de junio de 1989 por el que
+    se modifican los Reglamentos (CEE) n° 2240/88 y n° 2285/88 en lo que se refiere
+    a normas de aplicación del umbral de intervención para los limones
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 1521/89 av den 1 juni 1989 om ändring av
+    förordning (EEG) nr 2240/88 och (EEG) nr 2285/88 vad avser tillämpningsföreskrifterna
+    för interventionströskeln för citroner
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989R1521
+docidentifier:
+- content: EU Regulation 1521/1989
+  type: EU
+  primary: true
+- content: CELEX 31989R1521
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1989/1521/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-06-01'
+- type: implemented
+  at: '1989-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R2240
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R2285
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

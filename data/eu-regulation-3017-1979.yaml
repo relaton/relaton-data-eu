@@ -1,0 +1,109 @@
+---
+id: EURegulation30171979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3017/79 of 20 December 1979 on protection against
+    dumped or subsidized imports from countries not members of the European Economic
+    Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3017/79 du Conseil, du 20 décembre 1979, relatif
+    à la défense contre les importations qui font l' objet de "dumping" ou de subventions
+    de la part de pays non membres de la Communauté économique européenne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3017/79 des Rates vom 20. Dezember 1979 über den
+    Schutz gegen gedumpte oder subventionierte Einfuhren aus nicht zur Europäischen
+    Wirtschaftsgemeinschaft gehörenden Ländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3017/79 af 20. december 1979 om beskyttelse
+    mod dumpingimport eller subsidieret import fra lande, der ikke er medlemmer ef
+    Det europæiske økonomiske Fællesskab
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3017/80 τού Συμβουλίου
+    τής 20ής Δεκεμβρίου 1979 περί τής άμυνας κατά
+    τών εισαγωγών πού αποτελούν αντικείμενο ντάμπινγκ
+    ή επιδοτήσεων εκ μέρους χωρών μή μελών τής
+    Ευρωπαϊκής Οικονομικής Κοινότητος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3017/79 del Consiglio, del 20 dicembre 1979, relativo
+    alla difesa contro le importazioni oggetto di dumping o di sovvenzioni da parte
+    di paesi non membri della Comunità economica europea
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3017/79 van de Raad van 20 december 1979 betreffende
+    beschermende maatregelen tegen invoer met dumping of subsidiëring uit landen
+    die geen lid zijn van de Europese Economische Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R3017
+docidentifier:
+- content: EU Regulation 3017/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R3017
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/3017/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-12-20'
+- type: implemented
+  at: '1980-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0459
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1681
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,100 @@
+---
+id: EURegulationNo20871974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2087/74 of the Council of 2 August 1974 increasing
+    the Community tariff quota opened for 1974 by Regulation (EEC) No 3593/73 for
+    certain plywoods of coniferous species falling within heading No ex 44.15 of the
+    Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2087/74 du Conseil, du 2 août 1974, portant augmentation
+    du volume du contingent tarifaire communautaire ouvert, pour l'année 1974, par
+    le règlement (CEE) n° 3593/73, pour certains bois contre- plaqués de conifères
+    de la position EX 44.15 du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2087/74 des Rates vom 2. August 1974 zur Aufstockung
+    des durch die Verordnung (EWG) Nr. 3593/73 für das Jahr 1974 eröffneten Gemeinschaftszollkontingents
+    für bestimmtes Sperrholz aus Nadelholz der Tarifnummer ex 44.15 des Gemeinsamen
+    Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2087/74 af 2. august 1974 om forhøjelse
+    af det for året 1974 ved forordning (EØF) nr. 3593/73 åbnede fællesskabstoldkontingent
+    for visse typer krydsfinér af nåletræ, henhørende under position ex 44.15
+    i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2087/74 del Consiglio, del 2 agosto 1974, che aumenta
+    il volume del contingente tariffario comunitario aperto per il 1974 dal regolamento
+    (CEE) n. 3593/73, per taluni legni compensati di conifere, della voce ex 44.15
+    della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2087/74 van de Raad van 2 augustus 1974 houdende
+    verhoging van het communautaire tariefcontingent dat geopend is voor het jaar
+    1974 bij Verordening (EEG) nr. 3593/73, voor bepaald duplex-, triplex-, en multiplexhout
+    van naaldbomen van post ex 44.15 van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2087
+docidentifier:
+- content: EU Regulation No 2087/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2087
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2087/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-08-02'
+- type: implemented
+  at: '1974-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3593
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

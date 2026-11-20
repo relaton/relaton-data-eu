@@ -1,0 +1,87 @@
+---
+id: EUDecision1966694
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/694/CEE de la Commission, du 4 novembre 1966, relative au
+    recours de la République fédérale d'Allemagne à l'article 115 alinéa 1 du
+    Traité pour exclure du traitement communautaire "les tapis à points noués ou
+    enroulés, même confectionnés", de la position douanière 58.01, originaires
+    de l'URSS et mis en libre pratique dans d'autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/694/EWG: Entscheidung der Kommission vom 4. November 1966 über den
+    Antrag der Bundesrepublik Deutschland gemäß Artikel 115 Absatz (1) des Vertrages,
+    um "geknüpfte Teppiche, auch fertiggestellt", der Tarifnummer 58.01, die aus
+    der UdSSR stammen und sich in anderen Mitgliedstaaten im freien Verkehr befinden,
+    von der Gemeinschaftsbehandlung auszuschließen'
+  type: main
+- language: it
+  script: Latn
+  content: '66/694/CEE: Decisione della Commissione, del 4 novembre 1966, relativa
+    al ricorso della Repubblica federale di Germania all''articolo 115, primo comma,
+    del Trattato al fine di escludere dal trattamento comunitario «i tappeti a punti
+    annodati o arrotolati, anche confezionati» della voce doganale 58.01, originari
+    dell''Unione Sovietica ed immessi in libera pratica in altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/694/EEG: Beschikking van de Commissie van 4 november 1966 betreffende
+    het verzoek van de Bondsrepubliek Duitsland om op grond van artikel 115, eerste
+    alinea, van het Verdrag tapijten, geknoopt of met opgerolde polen, ook indien
+    geconfectioneerd, van tariefpost 58.01, die van oorsprong zijn uit de USSR en
+    in andere Lid-Staten in het vrije verkeer zijn gebracht, van de communautaire
+    behandeling uit te sluiten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0694
+docidentifier:
+- content: EU Decision 1966/694
+  type: EU
+  primary: true
+- content: CELEX 31966D0694
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/694/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965D0513
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation17151969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1715/69 de la Commission, du 28 août 1969, fixant le
+    montant de base de la restitution à l'exportation en l'état pour les sirops
+    et certains autres produits du secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1715/69 der Kommission vom 28. August 1969 zur Festsetzung
+    des Grundbetrags der Erstattung bei der Ausfuhr in unverändertem Zustand für
+    Sirupe und bestimmte andere Erzeugnisse auf dem Zuckersektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1715/69 della Commissione, del 28 agosto 1969, che
+    fissa l'importo di base della restituzione all'esportazione allo stato tal quale
+    per gli sciroppi ed alcuni altri prodotti del settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1715/69 van de Commissie van 28 augustus 1969 houdende
+    vaststelling van het basisbedrag van de restitutie bij de uitvoer in onveranderde
+    vorm voor stropen en bepaalde andere produkten van de suikersector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1715
+docidentifier:
+- content: EU Regulation 1715/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1715
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1715/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-08-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

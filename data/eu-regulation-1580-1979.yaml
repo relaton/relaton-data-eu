@@ -1,0 +1,104 @@
+---
+id: EURegulation15801979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1580/79 of 24 July 1979 amending the percentages
+    and quantities of tobacco taken over by the intervention agencies as fixed in
+    Regulation (EEC) No 1469/70
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1580/79 du Conseil, du 24 juillet 1979, modifiant
+    les pourcentages et quantités de tabac prises en charge par les organismes d'
+    intervention fixés par le règlement (CEE) n° 1469/70
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1580/79 des Rates vom 24. Juli 1979 zur Änderung
+    der mit der Verordnung (EWG) Nr. 1469/70 festgesetzten Hundertsätze und Mengen
+    des von den Interventionsstellen übernommenen Tabaks
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1580/79 af 24. juli 1979 om ændring af de
+    i forordning (EØF) nr. 1469/70 fastsatte procentsatser og mængder tobak, som
+    overtages af interventionsorganerne
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1580/79 του Συμβουλίου
+    της 24ης Ιουλίου 1979 περί τροποποιήσεως των ποσοστών
+    και των ποσοτήτων καπνού που αναλαμβάνονται
+    από τους οργανισμούς παρεμβάσεως και καθορίζονται
+    από τον κανονισμό (ΕΟΚ) αριθ. 1469/70
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1580/79 del Consiglio, del 24 luglio 1979, che modifica
+    le percentuali e i quantitativi di tabacco presi a carico dagli organismi d' intervento
+    e fissati dal regolamento (CEE) n. 1469/70
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1580/79 van de Raad van 24 juli 1979 tot wijziging
+    van de bij Verordening (EEG) nr. 1469/70 vastgestelde percentages en hoeveelheden
+    door de interventiebureaus over te nemen tabak
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1580
+docidentifier:
+- content: EU Regulation 1580/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1580
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1580/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-24'
+- type: implemented
+  at: '1979-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1469
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

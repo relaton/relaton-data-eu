@@ -1,0 +1,111 @@
+---
+id: EURegulationNo20841978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2084/78 of 31 August 1978 providing for certain
+    technical adjustments to Regulations (EEC) No 1849/78 and (EEC) No 1848/78 laying
+    down certain measures for the conservation and management of fishery resources
+    applicable to vessels flying the flag of Norway and vessels registered in the
+    Faroe Islands respectively
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2084/78 du Conseil, du 31 août 1978, prévoyant certaines
+    adaptations techniques des règlements (CEE) n° 1849/78 et n 1848/78 fixant certaines
+    mesures de conservation et de gestion des ressources de pêche applicables respectivement
+    aux navires battant pavillon de la Norvège et aux navires immatriculés aux îles
+    Féroé
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2084/78 des Rates vom 31. August 1978 über bestimmte
+    technische Anpassungen der Verordnungen (EWG) Nr. 1849/78 und Nr. 1848/78 zur
+    Festlegung gewisser Maßnahmen zur Erhaltung und Bewirtschaftung der Fischbestände
+    gegenüber Schiffen, die die Flagge Norwegens führen, und gegenüber auf den
+    Färöern registrierten Schiffen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2084/78 af 31. august 1978 om vedtagelse
+    af visse tekniske tilpasninger i forordning (EØF) nr. 1849/78 og (EØF) nr. 1848/78
+    om fastsættelse af en række foranstaltninger til bevarelse og forvaltning af
+    fiskeressourcerne, som skal finde anvendelse henholdsvis på fartøjer, der fører
+    norsk flag, og fartøjer, der er indregistreret på Færøerne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2084/78 del Consiglio, del 31 agosto 1978, recante
+    alcuni adattamenti di carattere tecnico ai regolamenti (CEE) n. 1849/78 e (CEE)
+    n. 1848/78 che dispone talune misure di conservazione e di gestione delle risorse
+    di pesca, da applicare rispettivamente alle navi battenti bandiera della Norvegia
+    ed alle navi immatricolate nelle isole Faeröer
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2084/78 van de Raad van 31 augustus 1978 houdende
+    vaststelling van bepaalde technische aanpassingen van de Verordeningen (EEG) nr.
+    1849/78 en (EEG) nr. 1848/78 tot vaststelling van bepaalde maatregelen voor de
+    instandhouding en het beheer van de visbestanden, van toepassing op vaartuigen
+    die de vlag van Noorwegen voeren dan wel op de Faeröer geregistreerd zijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2084
+docidentifier:
+- content: EU Regulation No 2084/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2084
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2084/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-08-31'
+- type: implemented
+  at: '1978-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1848
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1849
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

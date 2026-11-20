@@ -1,0 +1,70 @@
+---
+id: EURegulation13081968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1308/68 de la Commission, du 28 août 1968, relatif
+    à la vente de beurre de stock public en vue de l'exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1308/68 der Kommission vom 28. August 1968 über den
+    Verkauf von Butter aus staatlicher Lagerhaltung zur Ausfuhr
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1308/68 della Commissione, del 28 agosto 1968, relativo
+    alla vendita di burro di ammasso pubblico per l'esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1308/68 van de Commissie van 28 augustus 1968 betreffende
+    de verkoop van boter uit de openbare opslag, bestemd voor de uitvoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1308
+docidentifier:
+- content: EU Regulation 1308/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1308
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1308/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-08-28'
+- type: implemented
+  at: '1968-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

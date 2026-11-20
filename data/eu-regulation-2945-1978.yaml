@@ -1,0 +1,94 @@
+---
+id: EURegulation29451978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2945/78 of 14 December 1978 amending for
+    the second time Regulation (EEC) No 2015/76 on storage contracts for table wine,
+    grape must and concentrated grape must
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2945/78 de la Commission, du 14 décembre 1978, portant
+    deuxième modification du règlement (CEE) n° 2015/76 relatif aux contrats de
+    stockage pour le vin de table, le moût de raisins et le moût de raisins concentré
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2945/78 der Kommission vom 14. Dezember 1978 zur zweiten
+    Änderung der Verordnung (EWG) Nr. 2015/76 über die Lagerverträge für Tafelwein,
+    Traubenmost und konzentrierten Traubenmost
+  type: main
+- language: da
+  script: Latn
+  content: Komissionens forordning (EØF) nr. 2945/78 af 14. december 1978 om anden
+    ændring af forordning (EØF) nr. 2015/76 om oplagringskontrakter for bordvin,
+    druemost og koncentreret druemost
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2945/78 della Commissione, del 14 dicembre 1978, recante
+    seconda modifica del regolamento (CEE) n. 2015/76 relativo ai contratti di magazzinaggio
+    per il vino da pasto, il mosto di uve e il mosto di uve concentrato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2945/78 van de Commissie van 14 december 1978 houdende
+    tweede wijziging van Verordening (EEG) nr. 2015/76 betreffende de opslagcontracten
+    voor tafelwijn, druivemost en geconcentreerde druivemost
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2945
+docidentifier:
+- content: EU Regulation 2945/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2945
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2945/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-12-14'
+- type: implemented
+  at: '1978-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2015
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

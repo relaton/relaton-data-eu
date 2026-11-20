@@ -1,0 +1,78 @@
+---
+id: EURegulation1891964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 189/64/CEE du Conseil, du 15 décembre 1964, prorogeant
+    le régime prévu par le règlement n° 156 en ce qui concerne les farines et
+    fécules de manioc et d'autres racines et tubercules originaires des États africains
+    et malgache associés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 189/64/EWG des Rates vom 15. Dezember 1964 zur Verlängerung
+    der in der Verordnung Nr. 156 getroffenen Regelung für Mehl und Stärke von Manihot
+    und anderen Wurzeln und Knollen, die aus den assoziierten afrikanischen Staaten
+    und Madagaskar stammen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 189/64/CEE del Consiglio, del 15 dicembre 1964, relativo
+    alla proroga del regime previsto nel regolamento n. 156 relativo alle farine e
+    fecole di manioca e d'altre radici e tuberi originari degli Stati africani e malgascio
+    associati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 189/64/EEG van de Raad van 15 december 1964 tot verlenging
+    van de regeling neergelegd in Verordening Nr. 156 betreffende meel en zetmeel
+    van maniok of van andere wortels en knollen, van oorsprong uit de geassocieerde
+    Afrikaanse staten en Madagaskar
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0189
+docidentifier:
+- content: EU Regulation 189/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0189
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/189/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-15'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

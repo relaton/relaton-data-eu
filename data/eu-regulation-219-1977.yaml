@@ -1,0 +1,94 @@
+---
+id: EURegulation2191977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 219/77 of 1 February 1977 amending for the
+    third time Regulation (EEC) No 2115/76 laying down detailed rules for the import
+    of wines, grape juice and grape must
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 219/77 de la Commission, du 1er février 1977, modifiant
+    pour la troisième fois le règlement (CEE) n° 2115/76 portant modalités d'
+    application relatives à l' importation des vins, des jus et des moûts de raisins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 219/77 der Kommission vom 1. Februar 1977 zur dritten
+    Änderung der Verordnung (EWG) Nr. 2115/76 über Durchführungsbestimmungen für
+    die Einfuhr von Wein, Traubensaft und Traubenmost
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 219/77 af 1. februar 1977 om tredje
+    ændring af forordning (EØF) nr. 2115/76 om gennemførelsesbestemmelser for indførsel
+    af vin, druesaft og druemost
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 219/77 della Commissione, del 1° febbraio 1977, recante
+    terza modifica del regolamento (CEE) n. 2115/76, che stabilisce le modalità di
+    applicazione per l' importazione di vini, di succhi e di mosti di uve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 219/77 van de Commissie van 1 februari 1977 houdende
+    derde wijziging van Verordening (EEG) nr. 2115/76 houdende uitvoeringsbepalingen
+    met betrekking tot de invoer van wijn, druivesap en druivemost
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0219
+docidentifier:
+- content: EU Regulation 219/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0219
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/219/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-01'
+- type: implemented
+  at: '1977-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2115
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

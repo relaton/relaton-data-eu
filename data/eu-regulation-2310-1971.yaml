@@ -1,0 +1,77 @@
+---
+id: EURegulation23101971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2310/71 du Conseil, du 29 octobre 1971, relatif au
+    montant forfaitaire pour l'huile d'olive n'ayant pas subi un processus de raffinage,
+    entièrement obtenue en Grèce et transportée directement de ce pays dans la
+    Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2310/71 des Rates vom 29. Oktober 1971 über den Pauschbetrag
+    für nicht raffiniertes Olivenöl, das vollständig in Griechenland erzeugt wurde
+    und aus diesem Land unmittelbar in die Gemeinschaft befördert wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2310/71 del Consiglio, del 29 ottobre 1971, relativo
+    all'ammontare forfetario per l'olio d'oliva che non abbia subito un processo di
+    raffinazione, totalmente ottenuto in Grecia e trasportato direttamente da tale
+    paese nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2310/71 van de Raad van 29 oktober 1971 betreffende
+    het forfaitaire bedrag voor olijfolie die niet aan een raffinageproces onderworpen
+    is geweest en die geheel en al in Griekenland is voortgebracht en rechtstreeks
+    van dit land naar de Gemeenschap wordt vervoerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2310
+docidentifier:
+- content: EU Regulation 2310/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2310
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2310/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-29'
+- type: implemented
+  at: '1971-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,78 @@
+---
+id: EURegulation2451971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 245/71 du Conseil, du 1er février 1971, prévoyant
+    des mesures particulières en ce qui concerne les importations, dans les départements
+    français d'outre-mer, de maïs originaire des États africains et malgache associés
+    ou des pays et territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 245/71 des Rates vom 1. Februar 1971 über besondere
+    Maßnahmen betreffend die Einfuhr von Mais mit Ursprung in den assoziierten afrikanischen
+    Staaten und Madagaskar oder den überseeischen Ländern und Gebieten nach den
+    französischen überseeischen Departements
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 245/71 del Consiglio, del 1 febbraio 1971, che prevede
+    misure particolari per le importazioni del granturco originario degli Stati africani
+    e malgascio associati e dei paesi e territori d'oltremare nei dipartimenti francesi
+    d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 245/71 van de Raad van 1 februari 1971 houdende bijzondere
+    maatregelen met betrekking tot de invoer in de Franse overzeese departementen
+    van maïs van oorsprong uit de geassocieerde Afrikaanse Staten en Madagaskar of
+    de landen en gebieden overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0245
+docidentifier:
+- content: EU Regulation 245/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0245
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/245/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-01'
+- type: implemented
+  at: '1971-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

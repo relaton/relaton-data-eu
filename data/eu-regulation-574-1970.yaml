@@ -1,0 +1,84 @@
+---
+id: EURegulation5741970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 574/70 de la Commission, du 26 mars 1970, modifiant
+    le règlement (CEE) n° 2479/69 de la Commission fixant le coefficient d'adaptation
+    à appliquer au cours des oranges douces de la catégorie II en vue du calcul
+    du prix d'entrée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 574/70 der Kommission vom 26. März 1970 zur Änderung
+    der Verordnung (EWG) Nr. 2479/69 der Kommission über die Festsetzung eines Berichtigungskoeffizienten,
+    der bei der Berechnung des Einfuhrpreises auf die Notierungen von Süßorangen
+    der Güteklasse II anzuwenden ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 574/70 della Commissione, del 26 marzo 1970, recante
+    modifica del regolamento (CEE) n. 2479/69 della Commissione, che fissa un coefficiente
+    di adattamento da applicare ai corsi delle arance dolci della categoria II per
+    il calcolo del prezzo d'entrata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 574/70 van de Commissie van 26 maart 1970 tot wijziging
+    van Verordening (EEG) nr. 2479/69 van de Commissie houdende vaststelling van een
+    aanpassingscoëfficiënt die op de prijzen van zoete sinaasappelen van kwaliteitsklasse
+    II moet worden toegepast met het oog op de berekening van de invoerprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0574
+docidentifier:
+- content: EU Regulation 574/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0574
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/574/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-26'
+- type: implemented
+  at: '1970-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2479
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

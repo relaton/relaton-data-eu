@@ -1,0 +1,104 @@
+---
+id: EURegulation31281980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3128/80 of 3 December 1980 amending for
+    the fourth time Regulation (EEC) No 2872/79 in respect of the characteristics
+    of the wines shown in the delivery contracts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3128/80 de la Commission du 3 décembre 1980, portant
+    quatrième modification du règlement (CEE) n° 2872/79 en ce qui concerne les
+    caractéristiques des vins figurant dans les contrats de livraison
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3128/80 der Kommission vom 3. Dezember 1980 zur vierten
+    Änderung der Verordnung (EWG) Nr. 2872/79 hinsichtlich der in den Lieferverträgen
+    genannten Merkmale der Weine
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3128/80 af 3. december 1980 om fjerde
+    ændring af forordning (EØF) nr. 2872/79 for så vidt angår egenskaberne for
+    de vine, der er anført i leveringskontrakterne
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3128/80 τής Επιτροπής
+    τής 3ης Δεκεμβρίου 1980 περί τετάρτης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 2872/79 όσον αφορά τόν
+    αλκοολικό τίτλο τών οίνων πού περιλαμβάνονται
+    στίς συμβάσεις παραδόσεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3128/80 della Commissione, del 3 dicembre 1980, recante
+    quarta modifica del regolamento (CEE) n. 2872/79 per quanto riguarda le caratteristiche
+    dei vini che figurano nei contratti di fornitura
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3128/80 van de Commissie van 3 december 1980 houdende
+    vierde wijziging van Verordening (EEG) nr. 2872/79 met betrekking tot de kenmerken
+    van wijn waarvoor leveringscontracten zijn gesloten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R3128
+docidentifier:
+- content: EU Regulation 3128/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R3128
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/3128/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-12-03'
+- type: implemented
+  at: '1980-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2872
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

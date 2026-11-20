@@ -1,0 +1,75 @@
+---
+id: EURegulation16421971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1642/71 du Conseil, du 26 juillet 1971, portant suspension
+    partielle du droit autonome du tarif douanier commun sur les oranges douces, fraîches,
+    de la sous-position EX 08.02 A I a), pour la période du 1er juin au 30 septembre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1642/71 des Rates vom 26. Juli 1971 zur teilweisen
+    Aussetzung des autonomen Zollsatzes des Gemeinsamen Zolltarifs für Süßorangen,
+    frisch, der Tarifstelle ex 08.02 A I a) für die Zeit vom 1. Juni bis 30. September
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1642/71 del Consiglio, del 26 luglio 1971, che sospende
+    parzialmente, dal 1 giugno al 30 settembre, il dazio autonomo della tariffa doganale
+    comune sulle arance dolci, fresche, della sottovoce ex 08.02 A I a)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1642/71 van de Raad van 26 juli 1971 houdende gedeeltelijke
+    schorsing van het autonome recht van het gemeenschappelijk douanetarief voor sinaasappelen,
+    andere dan pomeransen (bittere oranjeappelen), vers, van onderverdeling ex 08.02
+    A I a), voor het tijdvak van 1 juni tot 30 september
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1642
+docidentifier:
+- content: EU Regulation 1642/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1642
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1642/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

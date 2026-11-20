@@ -1,0 +1,80 @@
+---
+id: EURegulation28091971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2809/71 de la Commission, du 23 décembre 1971, fixant
+    pour les produits de la pêche énumérés à l'annexe 1 sous A et C du règlement
+    (CEE) n° 2142/70, les prix de retrait valables à compter du 1er janvier 1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2809/71 der Kommission vom 23. Dezember 1971 über
+    die Festsetzung der ab 1. Januar 1972 gültigen Rücknahmepreise für die im Anhang
+    I A und C der Verordnung (EWG) Nr. 2142/70 aufgeführten Fischereierzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2809/71 della Commissione, del 23 dicembre 1971, che
+    fissa per i prodotti della pesca di cui all'allegato I, lettere A e C del regolamento
+    (CEE) n. 2142/70, i prezzi di ritiro valevoli a partire dal 1 gennaio 1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2809/71 van de Commissie van 23 december 1971 tot
+    vaststelling van de ophoudprijzen geldig vanaf 1 januari 1972 voor de in bijlage
+    I, sub A en C, van Verordening (EEG) nr. 2142/70 vermelde visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2809
+docidentifier:
+- content: EU Regulation 2809/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2809
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2809/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-23'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0889
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

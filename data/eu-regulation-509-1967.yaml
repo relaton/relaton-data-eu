@@ -1,0 +1,71 @@
+---
+id: EURegulation5091967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 509/67/CEE de la Commission, du 30 août 1967, fixant les
+    restitutions applicables pour les céréales et le riz décortiqué exportés
+    ver les pays tiers sous la forme de certaines marchandises ne relevant pas de
+    l'annexe II du traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 509/67/EWG der Kommission vom 30. August 1967 zur Festsetzung
+    der bei der Ausfuhr von Getreide oder von geschältem Reis in Form von nicht unter
+    Anhang II des Vertrages fallenden Waren nach dritten Ländern anwendbaren Erstattungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 509/67/CEE della Commissione, del 30 agosto 1967, che fissa
+    le restituzioni applicabili per i cereali e il riso semigreggio esportati verso
+    i paesi terzi sotto forma di talune merci non comprese nell'allegato II del Trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 509/67/EEG van de Commissie van 30 augustus 1967 houdende
+    vaststelling van de restituties die worden verleend bij uitvoer naar derde landen
+    van granen en van gedopte rijst in de vorm van niet in bijlage II van het Verdrag
+    vermelde goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0509
+docidentifier:
+- content: EU Regulation 509/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0509
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/509/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

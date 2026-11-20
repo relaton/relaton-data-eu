@@ -1,0 +1,84 @@
+---
+id: EURegulation16111971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1611/71 de la Commission, du 26 juillet 1971, fixant,
+    pour la campagne 1971/1972, la variété de riz à grains longs représentative
+    de la production communautaire, la différence de valeur entre celle-ci et la
+    variété de riz à grains ronds correspondant à la qualité type, le prix de
+    seuil du riz décortiqué à grains longs et les prix de seuil du riz blanchi
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1611/71 der Kommission vom 26. Juli 1971 zur Festsetzung
+    der für die Gemeinschaftsproduktion repräsentativen langkörnigen Reissorte,
+    des Wertunterschieds zwischen dieser Sorte und der der Standardqualität entsprechenden
+    rundkörnigen Reissorte, des Schwellenpreises für geschälten langkörnigen Reis
+    und der Schwellenpreise für vollständig geschliffenen Reis für das Wirtschaftsjahr
+    1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1611/71 della Commissione, del 26 luglio 1971, che
+    fissa, per la campagna 1971/1972, la varietà di riso a grani lunghi rappresentativa
+    della produzione comunitaria, la differenza di valore tra quest'ultima e la varietà
+    di riso a grani tondi corrispondente alla qualità tipo, il prezzo d'entrata del
+    riso semigreggio a grani lunghi ed i prezzi d'entrata del riso lavorato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1611/71 van de Commissie van 26 juli 1971 tot vaststelling,
+    voor het verkoopseizoen 1971/1972, van de variëteit langkorrelige rijst die representatief
+    is voor de communautaire produktie, het waardeverschil tussen deze variëteit
+    en de variëteit rondkorrelige rijst die met de standaardkwaliteit overeenkomt,
+    de drempelprijs voor langkorrelige gedopte rijst en de drempelprijzen voor volwitte
+    rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1611
+docidentifier:
+- content: EU Regulation 1611/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1611
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1611/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

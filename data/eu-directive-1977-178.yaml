@@ -1,0 +1,103 @@
+---
+id: EUDirective1977178
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 77/178/EEC of 14 February 1977 amending Directive 75/271/EEC
+    concerning the Community list of less-favoured farming areas within the meaning
+    of Directive 75/268/EEC (France)
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 77/178/CEE du Conseil, du 14 février 1977, modifiant la directive
+    75/271/CEE relative à la liste communautaire des zones agricoles défavorisées
+    au sens de la directive 75/268/CEE (France)
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 77/178/EWG des Rates vom 14. Februar 1977 zur Änderung der
+    Richtlinie 75/271/EWG betreffend das Gemeinschaftsverzeichnis der benachteiligten
+    landwirtschaftlichen Gebiete im Sinne der Richtlinie 75/268/EWG (Frankreich)
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 77/178/EØF af 14. februar 1977 om ændring af direktiv
+    75/271/EØF om fællesskabslisten over ugunstigt stillede landbrugsområder i
+    henhold til direktiv 75/268/EØF (Frankrig)
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 77/178/EOK του Συμβουλίου της 14ης Φεβρουαρίου
+    1977 περί τροποποιήσεως των μειονεκτικών γεωργικών
+    περιοχών κατά την έννοια της οδηγίας 75/268/EOK
+    (Γαλλία)
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 77/178/CEE del Consiglio, del 14 febbraio 1977, che modifica
+    la direttiva 75/271/CEE relativa all'elenco comunitario delle zone agricole svantaggiate
+    ai sensi della direttiva 75/268/CEE (Francia)
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 77/178/EEG van de Raad van 14 februari 1977 tot wijziging van
+    Richtlijn 75/271/EEG betreffende de communautaire lijst van agrarische probleemgebieden
+    in de zin van Richtlijn 75/268/EEG (Frankrijk)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977L0178
+docidentifier:
+- content: EU Directive 1977/178
+  type: EU
+  primary: true
+- content: CELEX 31977L0178
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1977/178/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-14'
+- type: implemented
+  at: '1976-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975L0271
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

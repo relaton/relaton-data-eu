@@ -1,0 +1,68 @@
+---
+id: EURegulation1471964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 147/64/CEE de la Commission, du 26 octobre 1964, fixant le
+    montant supplémentaire applicable aux importations de poules et poulets abattus
+    en provenance des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 147/64/EWG der Kommission vom 26. Oktober 1964 zur Festsetzung
+    des Zusatzbetrags für Einfuhren von geschlachteten Hühnern aus dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 147/64/CEE della Commissione, del 26 ottobre 1964, che determina
+    l'importo supplementare applicabile alle importazioni di galline e di polli macellati
+    dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 147/64/EEG van de Commissie van 26 oktober 1964 houdende
+    vaststelling van het extra-bedrag voor de invoer van geslachte kippen en kuikens
+    uit derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0147
+docidentifier:
+- content: EU Regulation 147/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0147
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/147/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

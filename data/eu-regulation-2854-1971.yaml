@@ -1,0 +1,105 @@
+---
+id: EURegulation28541971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2854/71 of the Commission of 29 December 1971 amending,
+    as regards tariff nomenclature for pigmeat, Regulations No 204/67/EEC and (EEC)"Nos
+    2403/69, 2275/71 and 2630/71
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2854/71 de la Commission, du 29 décembre 1971, portant
+    modification, en matière de nomenclature tarifaire dans le secteur de la viande
+    porcine, des règlements n° 204/67/CEE, (CEE)" n° 2403/69, (CEE) n° 2275/71
+    et (CEE) n° 2630/71
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2854/71 der Kommission vom 29. Dezember 1971 zur Änderung
+    der Verordnungen Nr. 204/67/EWG, (EWG) Nr. 2403/69, (EWG) Nr. 2275/71 und (EWG)
+    Nr. 2630/71 bezüglich des Zolltarifschemas im Sektor Schweinefleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2854/71 af 29. december 1971 om ændring
+    af forordningerne nr. 204/67/EØF, (EØF) nr. 2403/69, (EØF) nr. 2275/71 og (EØF)
+    nr. 2630/71 med hensyn til tarifnomenklaturen for svinekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2854/71 della Commissione, del 29 dicembre 1971, relativo
+    alla modifica, in materia di nomenclatura tariffaria nel settore delle carni suine,
+    dei regolamenti n. 204/67/CEE, (CEE) n. 2403/69, (CEE) n. 2275/71 e (CEE) n. 2630/71
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2854/71 van de Commissie van 29 december 1971 tot
+    wijziging van de Verordeningen nr. 204/67/EEG, (EEG) nr. 2403/69, (EEG) nr. 2275/71
+    en (EEG) nr. 2630/71 betreffende de douanenomenclatuur in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2854
+docidentifier:
+- content: EU Regulation 2854/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2854
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2854/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-29'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0204
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2403
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2275
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

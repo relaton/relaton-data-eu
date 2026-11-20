@@ -1,0 +1,106 @@
+---
+id: EURegulation4991969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 499/69 of the Commission of 17 March 1969 amending
+    Regulation No 1041/67/EEC on detailed rules for the application of export refunds
+    on products subject to a single price system
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 499/69 de la Commission, du 17 mars 1969, modifiant
+    le règlement n° 1041/67/CEE portant modalités d' application des restitutions
+    à l' exportation dans le secteur des produits soumis à un régime de prix unique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 499/69 der Kommission vom 17. März 1969 zur Änderung
+    der Verordnung Nr. 1041/67/EWG über die Durchführungsvorschriften für die Ausfuhrerstattungen
+    bei den Erzeugnissen, für die ein System gemeinsamer Preise besteht
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 499/69 af 17. marts 1969 om ændring
+    af forordning nr. 1041/67/EØF om de nærmere regler for anvendelse af eksportrestitutioner
+    for de produkter, for hvilke der gælder en ordning med fællespriser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 499/69 della Commissione, del 17 marzo 1969, che modifica
+    il regolamento n. 1041/67/CEE che fissa le modalità di applicazione delle restituzioni
+    all' esportazione, nel settore dei prodotti sottoposti ad un regime di prezzo
+    unico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 499/69 van de Commissie van 17 maart 1969 tot wijziging
+    van Verordening nr. 1041/67/EEG houdende uitvoeringsbepalingen inzake de verlening
+    van restituties bij de uitvoer van produkten waarvoor een stelsel van gemeenschappelijke
+    prijzen geldt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0499
+docidentifier:
+- content: EU Regulation 499/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0499
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/499/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-17'
+- type: implemented
+  at: '1969-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0284
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1041
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0839
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

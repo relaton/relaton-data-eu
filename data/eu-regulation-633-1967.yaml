@@ -1,0 +1,88 @@
+---
+id: EURegulation6331967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 633/67/EEC of the Commission of 27 September 1967 on the
+    advance fixing of the export refund on cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 633/67/CEE de la Commission, du 27 septembre 1967, relatif
+    à la préfixation de la restitution à l' exportation des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 633/67/EWG der Kommission vom 27. September 1967 über die
+    Vorausfestsetzung der Erstattung bei der Ausfuhr von Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning nr. 633/67/EØF af 27. september 1967 om forudfastsættelse
+    af eksportrestitution for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 633/67/CEE della Commissione, del 27 settembre 1967, relativo
+    alla determinazione in anticipo della restituzione all' esportazione di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 633/67/EEG van de Commissie van 27 september 1967 betreffende
+    het tevoren vaststellen van de restitutie bij uitvoer van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0633
+docidentifier:
+- content: EU Regulation 633/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0633
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/633/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-27'
+- type: implemented
+  at: '1967-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0196
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

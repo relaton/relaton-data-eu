@@ -1,0 +1,79 @@
+---
+id: EURegulation161961
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 16 portant modification des dispositions des articles 20,
+    paragraphe 2, 40, paragraphe 5 et 42, paragraphe 3, du règlement n° 3 concernant
+    la sécurité sociale des travailleurs migrants
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung betreffend die Änderung der Artikel 20 Absatz (2), 40 Absatz
+    (5) und 42 Absatz (3) der Verordnung Nr. 3 über die soziale Sicherheit der Wanderarbeitnehmer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento per la modifica delle disposizioni degli articoli 20, paragrafo
+    2, 40, paragrafo 5 e 42, paragrafo 3 del Regolamento n. 3 per la sicurezza sociale
+    dei lavoratori migranti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening houdende wijziging van de bepalingen van artikel 20, lid 2,
+    artikel 40, lid 5, en artikel 42, lid 3, van Verordening Nr. 3 inzake de sociale
+    zekerheid van migrerende werknemers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31961R0016
+docidentifier:
+- content: EU Regulation 16/1961
+  type: EU
+  primary: true
+- content: CELEX 31961R0016
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1961/16/oj
+  type: ELI
+date:
+- type: issued
+  at: '1961-12-23'
+- type: implemented
+  at: '1962-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

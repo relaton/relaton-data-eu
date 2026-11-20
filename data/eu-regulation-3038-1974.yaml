@@ -1,0 +1,90 @@
+---
+id: EURegulation30381974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3038/74 of the Commission of 2 December 1974 amending
+    Regulation (EEC) No 71/73 on the sale of butter from public stocks
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3038/74 de la Commission, du 2 décembre 1974, modifiant
+    le règlement (CEE) n° 71/73 relatif à la vente de beurre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3038/74 der Kommission vom 2. Dezember 1974 zur Änderung
+    der Verordnung (EWG) Nr. 71/73 über den Verkauf von Butter aus staatlicher Lagerhaltung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3038/74 af 2. december 1974 om ændring
+    af forordning (EØF) nr. 71/73 om salg af smør fra offentlige lagre
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3038/74 della Commissione, del 2 dicembre 1974, che
+    modifica il regolamento (CEE) n. 71/73, relativo alla vendita di burro di ammasso
+    pubblico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3038/74 van de Commissie van 2 december 1974 houdende
+    wijziging van Verordening (EEG) nr. 71/73 met betrekking tot de verkoop van boter
+    uit openbare opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3038
+docidentifier:
+- content: EU Regulation 3038/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3038
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3038/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-02'
+- type: implemented
+  at: '1974-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0071
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

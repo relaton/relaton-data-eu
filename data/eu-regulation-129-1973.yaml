@@ -1,0 +1,105 @@
+---
+id: EURegulation1291973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 129/73 of the Commission of 4 January 1973 amending
+    Commission Regulation (EEC) No 376/70 laying down the procedure and conditions
+    for the disposal of cereals held by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 129/73 de la Commission, du 4 janvier 1973, modifiant
+    le règlement (CEE) n° 376/70 de la Commission fixant les procédures et conditions
+    de la mise en vente des céréales détenues par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 129/73 der Kommission vom 4. Januar 1973 zur Änderung
+    der Verordnung (EWG) Nr. 376/70 zur Festlegung des Verfahrens und der Bedingungen
+    für die Abgabe des Getreides, das sich im Besitz der Interventionsstellen befindet
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 129/73 af 4. januar 1973 om ændring
+    af Kommissionens forordning (EØF) nr. 376/70 om fastlæggelse af metode og bestemmelser
+    for afsætning af korn, som er i interventionsorganernes besiddelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 129/73 τής Επιτροπής
+    τής 4ης Ιανουαρίου 1973 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 376/70 τής Επιτροπής «περί
+    καθορισμού τών διαδικασιών καί τών προϋποθέσεων
+    πωλήσεως τών σιτηρών πού κατέχουν οι οργανισμοί
+    παρεμβάσεως»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 129/73 della Commissione, del 4 gennaio 1973, che
+    modifica il regolamento (CEE) n. 376/70 della Commissione che fissa le procedure
+    e le condizioni per la vendita dei cereali detenuti dagli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 129/73 van de Commissie van 4 januari 1973 houdende
+    wijziging van Verordening (EEG) nr. 367/70 van de Commissie tot vaststelling van
+    de regeling voor de verkoop van granen door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0129
+docidentifier:
+- content: EU Regulation 129/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0129
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/129/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-04'
+- type: implemented
+  at: '1973-01-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0376
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

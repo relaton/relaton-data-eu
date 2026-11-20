@@ -1,0 +1,90 @@
+---
+id: EURegulation11981975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1198/75 of the Commission of 7 May 1975 on the distillation
+    period for table wine provided for in Regulation (EEC) No 1036/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1198/75 de la Commission, du 7 mai 1975, relatif à
+    la période de distillation des vins de table prévue au règlement (CEE) n°
+    1036/75
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1198/75 der Kommission vom 7. Mai 1975 betreffend
+    den in der Verordnung (EWG) Nr. 1036/75 für die Destillation der Tafelweine vorgesehenen
+    Zeitraum
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1198/75 af 7. maj 1975 om den destilleringsperiode
+    for bordvine, der er fastsat i forordning (EØF) nr. 1036/75
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1198/75 della Commissione, del 7 maggio 1975, relativo
+    al periodo di distillazione dei vini da pasto di cui al regolamento (CEE) n. 1036/75
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1198/75 van de Commissie van 7 mei 1975 betreffende
+    de bij Verordening (EEG) nr. 1036/75 vastgestelde distillatieperiode voor tafelwijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1198
+docidentifier:
+- content: EU Regulation 1198/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1198
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1198/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-07'
+- type: implemented
+  at: '1975-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1036
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

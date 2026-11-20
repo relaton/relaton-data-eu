@@ -1,0 +1,137 @@
+---
+id: EURegulation12301999
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1230/1999 of 15 June 1999 fixing the export
+    refunds on beef and veal and amending Regulation (EEC) No 3846/87 establishing
+    an agricultural product nomenclature for export refunds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1230/1999 de la Commission, du 15 juin 1999, fixant
+    les restitutions à l'exportation dans le secteur de la viande bovine et modifiant
+    le règlement (CEE) n° 3846/87 établissant la nomenclature des produits agricoles
+    pour les restitutions à l'exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1230/1999 der Kommission vom 15. Juni 1999 zur Festsetzung
+    der Ausfuhrerstattungen im Rindfleischsektor und zur Änderung der Verordnung
+    (EWG) Nr. 3846/87 zur Erstellung einer Nomenklatur der landwirtschaftlichen Erzeugnisse
+    für Ausfuhrerstattungen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1230/1999 af 15. juni 1999 om fastsættelse
+    af eksportrestitutionerne inden for oksekødssektoren og om ændring af forordning
+    (EØF) nr. 3846/87 om nomenklaturen over eksportrestitutioner for landbrugsprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1230/1999 της Επιτροπής,
+    της 15ης Ιουνίου 1999, για τον καθορισμό των επιστροφών
+    κατά την εξαγωγή στον τομέα του βοείου κρέατος
+    και για την τροποποίηση του κανονισμού (ΕΟΚ)
+    αριθ. 3846/87 περί καθορισμού της ονοματολογίας
+    των γεωργικών προϊόντων για τις επιστροφές
+    κατά την εξαγωγή
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1230/1999, annettu 15 päivänä kesäkuuta 1999,
+    naudanliha-alan vientitukien vahvistamisesta sekä maataloustuotteiden nimikkeistöstä
+    vientitukia varten annetun asetuksen (ETY) N:o 3846/87 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1230/1999 della Commissione, del 15 giugno 1999, che
+    fissa le restituzioni all'esportazione nel settore delle carni bovine e che modifica
+    il regolamento (CEE) n. 3846/87 che stabilisce la nomenclatura dei prodotti agricoli
+    per le restituzioni all'esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1230/1999 van de Commissie van 15 juni 1999 tot vaststelling
+    van de uitvoerrestituties in de sector rundvlees en houdende wijziging van Verordening
+    (EEG) nr. 3846/87 tot vaststelling van de landbouwproductennomenclatuur voor de
+    uitvoerrestitutie
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n° 1230/1999 da Comissão, de 15 de Junho de 1999, que
+    fixa as restituições à exportação no sector da carne de bovino e que altera
+    o Regulamento (CEE) n° 3846/87 que estabelece a nomenclatura dos produtos agrícolas
+    para as restituições à exportação
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1230/1999 de la Comisión, de 15 de junio de 1999,
+    por el que se fijan las restituciones por exportación en el sector de la carne
+    de vacuno y se modifica el Reglamento (CEE) n° 3846/87 por el que se establece
+    la nomenclatura de los productos agrícolas para las restituciones por exportación
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1230/1999 av den 15 juni 1999 om fastställande
+    av exportbidrag för nötkött och om ändring av förordning (EEG) nr 3846/87
+    om upprättandet av en exportbidragsnomenklatur för jordbruksprodukter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999R1230
+docidentifier:
+- content: EU Regulation 1230/1999
+  type: EU
+  primary: true
+- content: CELEX 31999R1230
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1999/1230/oj
+  type: ELI
+date:
+- type: issued
+  at: '1999-06-15'
+- type: implemented
+  at: '1999-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31987R3846
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,73 @@
+---
+id: EURegulation1631966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 163/66/CEE du Conseil, du 27 octobre 1966, fixant les conditions
+    de délivrance des certificats d'importation et d'exportation dans le secteur
+    de l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 163/66/EWG des Rates vom 27. Oktober 1966 zur Festlegung
+    der Bedingungen für die Erteilung der Einfuhr- und Ausfuhrlizenzen für Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 163/66/CEE del Consiglio, del 27 ottobre 1966, che fissa
+    le condizioni per il rilascio dei titoli d'importazione e di esportazione nel
+    settore dell'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 163/66/EEG van de Raad van 27 oktober 1966 tot vaststelling
+    van de voorwaarden voor de afgifte van invoer- en uitvoercertificaten in de sector
+    olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0163
+docidentifier:
+- content: EU Regulation 163/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0163
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/163/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-27'
+- type: implemented
+  at: '1966-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

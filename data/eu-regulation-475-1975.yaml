@@ -1,0 +1,111 @@
+---
+id: EURegulation4751975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 475/75 of the Council of 27 February 1975 on the exchange
+    rates to be applied in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 475/75 du Conseil, du 27 février 1975, relatif aux
+    taux de change à appliquer dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 475/75 des Rates vom 27. Februar 1975 über die in
+    der Landwirtschaft anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 475/75 af 27 februar 1975 om de vekselkurser,
+    der skal anvendes inden for landbrugssektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 475/75 τού Συμβουλίου
+    τής 27ης Φεβρουαρίου 1975 περί τών τιμών συναλλάγματος
+    πού πρέπει νά εφαρμόζονται στό γεωργικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 475/75 del Consiglio, del 27 febbraio 1975, relativo
+    ai tassi di cambio da applicare nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 475/75 van de Raad van 27 februari 1975 betreffende
+    de in de landbouwsector toe te passen wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0475
+docidentifier:
+- content: EU Regulation 475/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0475
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/475/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-02-27'
+- type: implemented
+  at: '1975-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2544
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2498
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0974
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2958
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

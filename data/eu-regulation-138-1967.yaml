@@ -1,0 +1,74 @@
+---
+id: EURegulation1381967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 138/67/CEE du Conseil du 13 juin 1967 portant fixation de
+    la restitution à la production pour les gruaux et semoules de maïs utilisés
+    dans la brasserie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 138/67/EWG des Rates vom 13. Juni 1967 über die Festsetzung
+    der Erstattung bei der Erzeugung von Grob- und Feingrieß von Mais, die in der
+    Brauereiindustrie Verwendung finden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 138/67/CEE del Consiglio, del 13 giugno 1967, che fissa
+    la restituzione alla produzione per le semole ed i semolini di granturco utilizzati
+    nell'industria della birra
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 138/67/EEG van de Raad van 13 juni 1967 houdende vaststelling
+    van de restitutie bij de produktie voor grutten, gries en griesmeel van maïs,
+    die in de brouwerij-industrie worden gebruikt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0138
+docidentifier:
+- content: EU Regulation 138/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0138
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/138/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-13'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

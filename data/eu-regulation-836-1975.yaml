@@ -1,0 +1,105 @@
+---
+id: EURegulation8361975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 836/75 of the Commission of 26 March 1975 amending
+    Commission Regulations (EEC) No 3348/73 and (EEC) No 3206/74 as regards detailed
+    rules for the application of the charges on the exportation of certain goods covered
+    by Regulation (EEC) No 1059/69
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 836/75 de la Commission, du 26 mars 1975, modifiant
+    les règlements (CEE) n° 3348/73 et (CEE) n° 3206/74 de la Commission en ce
+    qui concerne les modalités d' application des taxes à l' exportation de certaines
+    marchandises relevant du règlement (CEE) n° 1059/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 836/75 der Kommission vom 26. März 1975 zur Änderung
+    der Verordnung (EWG) Nr. 3348/73 und der Verordnung (EWG) Nr. 3206/74 der Kommission
+    hinsichtlich der Durchführungsmodalitäten der Abgaben bei der Ausfuhr bestimmter
+    Waren der Verordnung (EWG) Nr. 1059/69
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 836/75 af 26. marts 1975 om ændring
+    af Kommissionens forordninger (EØF) nr. 3348/73 og (EØF) nr. 3206/74 for så
+    vidt angår gennemførelsesbestemmelserne for eksportafgiften for visse varer
+    henhørende under forordning (EØF) nr. 1059/69
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 836/75 della Commissione, del 26 marzo 1975, che modifica
+    i regolamenti (CEE) n. 3348/73 e (CEE) n. 3206/74 della Commissione sulle modalità
+    d' applicazione dei tassi all' esportazione per talune merci che rientrano nel
+    regolamento (CEE) n. 1059/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 836/75 van de Commissie van 26 maart 1975 houdende
+    wijziging van de Verordeningen (EEG) nr. 3348/73 en (EEG) nr. 3206/74 van de Commissie
+    met betrekking tot de uitvoeringsbepalingen van de heffingen bij uitvoer van bepaalde
+    goederen, vallend onder Verordening (EEG) nr. 1059/69
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0836
+docidentifier:
+- content: EU Regulation 836/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0836
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/836/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-26'
+- type: implemented
+  at: '1975-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3348
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3206
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

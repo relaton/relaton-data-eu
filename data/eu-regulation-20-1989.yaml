@@ -1,0 +1,123 @@
+---
+id: EURegulation201989
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 20/89 of 4 January 1989 amending Council
+    Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on
+    the common customs tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 20/89 de la Commission du 4 janvier 1989 modifiant
+    le règlement (CEE) n° 2658/87 du Conseil relatif à la nomenclature tarifaire
+    et statistique et au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 20/89 DER KOMMISSION vom 4. Januar 1989 zur Änderung
+    der Verordnung (EWG) Nr. 2658/87 des Rates über die zolltarifliche und statistische
+    Nomenklatur sowie den Gemeinsamen Zolltarif #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 20/89 af 4. januar 1989 om ændring
+    af Rådets forordning (EØF) nr. 2658/87 om told- og statistiknomenklaturen og
+    Den Fælles Toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 20/89 της Επιτροπής
+    της 4ης Ιανουαρίου 1989 που τροποποιεί τον κανονισμό
+    (ΕΟΚ) αριθ. 2658/87 του Συμβουλίου για τη δασμολογική
+    και στατιστική ονοματολογία και το κοινό δασμολόγιο
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 20/89 DELLA COMMISSIONE del 4 gennaio 1989 che modifica
+    il regolamento (CEE) n. 2658/88 del Consiglio, del 23 luglio 1987, relativo alla
+    nomenclatura tariffaria e statistica ed alla tariffa doganale comune #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 20/89 VAN DE COMMISSIE van 4 januari 1989 tot wijziging
+    van Verordening (EEG) nr. 2658/87 van de Raad met betrekking tot de tarief- en
+    statistieknomenclatuur en het gemeenschappelijk douanetarief #'
+  type: main
+- language: pt
+  script: Latn
+  content: REGULAMENTO (CEE) N* 20/89 DA COMISSAO de 4 de Janeiro de 1989 que modifica
+    o Regulamento (CEE) n* 2658/87 do Conselho relativo à nomenclatura pautal e estatistica
+    e à Pauta Aduaneira Comum
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 20/89 DE LA COMISIÓN de 4 de enero de 1989 por el
+    que se modifica el Reglamento (CEE) no 2658/87 del Consejo, de 23 de julio de
+    1987, relativo a la nomenclatura arancelaria y estadística y al arancel aduanero
+    común #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989R0020
+docidentifier:
+- content: EU Regulation 20/1989
+  type: EU
+  primary: true
+- content: CELEX 31989R0020
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1989/20/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-01-04'
+- type: implemented
+  at: '1989-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31987R2658
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R3174
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,82 @@
+---
+id: EURegulation9451970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 945/70 of the Council of 26 May 1970 determining the
+    types of table wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 945/70 du Conseil, du 26 mai 1970, déterminant les
+    types de vins de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 945/70 des Rates vom 26. Mai 1970 zur Bestimmung der
+    Tafelweinarten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 945/70 af 26. maj 1970 om bestemmelse af
+    bordvintyper
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 945/70 del Consiglio, del 26 maggio 1970, che determina
+    i tipi di vino da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 945/70 van de Raad van 26 mei 1970 houdende bepaling
+    van de soorten tafelwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0945
+docidentifier:
+- content: EU Regulation 945/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0945
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/945/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-26'
+- type: implemented
+  at: '1970-05-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

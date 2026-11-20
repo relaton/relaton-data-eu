@@ -1,0 +1,67 @@
+---
+id: EURegulation4871967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 487/67/CEE de la Commission, du 23 août 1967, modifiant les
+    prélèvements applicables à l'importation des produits transformés à base
+    de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 487/67/EWG der Kommission vom 23. August 1967 zur Änderung
+    der bei der Einfuhr von Getreideverarbeitungserzeugnissen zu erhebenden Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 487/67/CEE della Commissione, del 23 agosto 1967, che modifica
+    i prelievi applicabili all'esportazione dei prodotti trasformati a base di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 487/67/EEG van de Commissie van 23 augustus 1967 houdende
+    wijziging van de bij de invoer van op basis van granen verwerkte produkten van
+    toepassing zijnde heffingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0487
+docidentifier:
+- content: EU Regulation 487/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0487
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/487/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,90 @@
+---
+id: EURegulation11601974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1160/74 of the Commission of 8 May 1974 altering a
+    coefficient used for calculating the levy on frozen beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1160/74 de la Commission, du 8 mai 1974, portant modification
+    d'un coefficient servant au calcul du prélèvement pour la viande bovine congelée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1160/74 der Kommission vom 8. Mai 1974 zur Änderung
+    eines Koeffizienten zur Berechnung der Abschöpfung für gefrorenes Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1160/74 af 8. maj 1974 om ændring
+    af en koefficient, der anvendes ved beregning af importafgiften for frosset oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1160/74 della Commissione, dell'8 maggio 1974, recante
+    modifica di un coefficiente utilizzato per il calcolo del prelievo per le carni
+    bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1160/74 van de Commissie van 8 mei 1974 houdende
+    wijziging van een coëfficiënt voor de berekening van de heffing voor bevroren
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1160
+docidentifier:
+- content: EU Regulation 1160/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1160
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1160/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-05-08'
+- type: implemented
+  at: '1974-05-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2260
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

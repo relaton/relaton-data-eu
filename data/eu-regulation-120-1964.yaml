@@ -1,0 +1,69 @@
+---
+id: EURegulation1201964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 120/64/CEE du Conseil, du 22 septembre 1964, portant prorogation
+    et adaptation de certaines dispositions relatives à la restitution à la production
+    pour les amidons et fécules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 120/64/EWG des Rates vom 22. September 1964 zur Verlängerung
+    und Anpassung einiger Bestimmungen über die Erstattung bei der Erzeugung von
+    Getreide- und Kartoffelstärke
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 120/64/CEE del Consiglio, del 22 settembre 1964, che proroga
+    e adatta alcune disposizioni relative alla restituzione alla produzione per gli
+    amidi e le fecole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 120/64/EEG van de Raad van 22 september 1964 houdende verlenging
+    en aanpassing van enkele bepalingen inzake de restitutie bij de produktie van
+    zetmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0120
+docidentifier:
+- content: EU Regulation 120/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0120
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/120/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-09-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

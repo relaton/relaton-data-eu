@@ -1,0 +1,70 @@
+---
+id: EUDecision19611220
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission relative à l'octroi au Royaume de Belgique
+    et au Grand-Duché de Luxembourg de contingents tarifaires pour les ferro-alliages
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung der Kommission über die Ermächtigung des Königreichs Belgien
+    und des Großherzogtums Luxemburg zur Eröffnung von Zollkontingenten für Ferrolegierungen
+  type: main
+- language: it
+  script: Latn
+  content: Decisione della Commissione relativa alla concessione di contingenti tariffari
+    al Regno del Belgio ed al Granducato del Lussemburgo per le ferro-leghe
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Commissie betreffende toekenning van tariefcontingenten
+    aan het Koninkrijk België en het Groothertogdom Luxemburg voor ferrolegeringen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31961D1220P0315
+docidentifier:
+- content: EU Decision 1961/1220
+  type: EU
+  primary: true
+- content: CELEX 31961D1220P0315
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1961/1220/oj
+  type: ELI
+date:
+- type: issued
+  at: '1961-12-20'
+- type: implemented
+  at: '1962-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

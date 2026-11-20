@@ -1,0 +1,93 @@
+---
+id: EURegulation24941974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2494/74 of the Commission of 2 October 1974 introducing
+    a countervailing charge on table grapes originating in Bulgaria and Romania
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2494/74 de la Commission, du 2 octobre 1974, instituant
+    une taxe compensatoire à l' importation de raisins de table originaires de Bulgarie
+    et de Roumanie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2494/74 der Kommission vom 2. Oktober 1974 zur Einführung
+    einer Ausgleichsabgabe auf die Einfuhr von Tafeltrauben mit Ursprung in Bulgarien
+    und Rumänien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2494/74 af 2. oktober 1974 om opkrævning
+    af en udligningsafgift ved indførsel af druer til spisebrug med oprindelse i
+    Bulgarien og Rumænien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2494/74 della Commissione, del 2 ottobre 1974, che
+    istituisce una tassa di compensazione all' importazione dell' uva da tavola originaria
+    della Bulgaria e della Romania
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2494/74 van de Commissie van 2 oktober 1974 houdende
+    instelling van een compenserende heffing bij invoer van tafeldruiven van oorsprong
+    uit Bulgarije en Roemenië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2494
+docidentifier:
+- content: EU Regulation 2494/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2494
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2494/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-02'
+- type: implemented
+  at: '1974-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2486
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

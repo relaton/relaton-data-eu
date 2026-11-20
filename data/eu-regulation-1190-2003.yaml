@@ -1,0 +1,123 @@
+---
+id: EURegulation11902003
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1190/2003 of 2 July 2003 correcting Regulation
+    (EC) No 512/2003 on the issuing of export licences for wine-sector products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1190/2003 de la Commission du 2 juillet 2003 rectifiant
+    le règlement (CE) n° 512/2003 concernant la délivrance de certificats d'exportation
+    dans le secteur vitivinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1190/2003 der Kommission vom 2. Juli 2003 zur Berichtigung
+    der Verordnung (EG) Nr. 512/2003 zur Erteilung der Ausfuhrlizenzen für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1190/2003 af 2. juli 2003 om berigtigelse
+    af forordning (EF) nr. 512/2003 om udstedelse af eksportlicenser for vin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1190/2003 της Επιτροπής,
+    της 2ας Ιουλίου 2003, για τη διόρθωση του κανονισμού
+    (ΕΚ) αριθ. 512/2003 σχετικά με την έκδοση πιστοποιητικών
+    εξαγωγής στον αμπελοοινικό τομέα
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1190/2003, annettu 2 päivänä heinäkuuta 2003,
+    viinialan vientitodistusten antamisesta annetun asetuksen (EY) N:o 512/2003 oikaisemisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1190/2003 della Commissione, del 2 luglio 2003, che
+    rettifica il regolamento (CE) n. 512/2003 relativo al rilascio di titoli di esportazione
+    nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1190/2003 van de Commissie van 2 juli 2003 houdende
+    rectificatie van Verordening (EG) nr. 512/2003 betreffende de afgifte van uitvoercertificaten
+    in de wĳnsector
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 1190/2003 da Comissão, de 2 de Julho de 2003, que
+    rectifica o Regulamento (CE) n.° 512/2003 relativo à emissão de certificados
+    de exportação no sector vitivinícola
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1190/2003 de la Comisión, de 2 de julio de 2003, por
+    el que se modifica el Reglamento (CE) n° 512/2003 sobre la expedición de certificados
+    de exportación en el sector vitivinícola
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1190/2003 av den 2 juli 2003 om rättelse
+    av förordning (EG) nr 512/2003 om utfärdande av exportlicens för vin
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R1190
+docidentifier:
+- content: EU Regulation 1190/2003
+  type: EU
+  primary: true
+- content: CELEX 32003R1190
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2003/1190/oj
+  type: ELI
+date:
+- type: issued
+  at: '2003-07-02'
+- type: implemented
+  at: '2003-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32003R0512
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

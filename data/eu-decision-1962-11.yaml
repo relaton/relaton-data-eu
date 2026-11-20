@@ -1,0 +1,73 @@
+---
+id: EUDecision196211
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision portant modification de la liste comprise à l'annexe I du Traité
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung über die Änderung der in der Anlage I des Vertrages enthaltenen
+    Liste
+  type: main
+- language: it
+  script: Latn
+  content: Decisione che modifica l'elenco compreso nell'allegato I del Trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Besluit houdende wijziging in de lijst van Bijlage I van het Verdrag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962D0011
+docidentifier:
+- content: EU Decision 1962/11
+  type: EU
+  primary: true
+- content: CELEX 31962D0011
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1962/11/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-10-19'
+- type: implemented
+  at: '1963-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 11951KN01
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation28381971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2838/71 of the Council of 24 December 1971 supplementing
+    Regulation (EEC) No 805/68 as regards the advance fixing of the levy on beef and
+    veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2838/71 du Conseil, du 24 décembre 1971, complétant
+    le règlement (CEE) n° 805/68 en ce qui concerne la fixation à l' avance du
+    prélèvement dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2838/71 des Rates vom 24. Dezember 1971 zur Egänzung
+    der Verordnung (EWG) Nr. 805/68 hinsichtlich der Vorausfestsetzung der Abschöpfung
+    für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2838/71 af 24. december 1971 om tillæg til
+    forordning (EØF) nr. 805/68 med hensyn til forudfastsættelse af importafgiften
+    for oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2838/71 del Consiglio, del 24 dicembre 1971, che completa
+    il regolamento (CEE) n. 805/68 per quanto riguarda la fissazione anticipata del
+    prelievo nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2838/71 van de Raad van 24 december 1971 tot aanvulling
+    van Verordening (EEG) nr. 805/68 met betrekking tot de vaststelling vooraf van
+    de heffing in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2838
+docidentifier:
+- content: EU Regulation 2838/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2838
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2838/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-24'
+- type: implemented
+  at: '1971-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0805
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

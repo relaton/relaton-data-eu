@@ -1,0 +1,74 @@
+---
+id: EURegulation24181971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2418/71 de la Commission, du 10 novembre 1971, modifiant
+    le règlement (CEE) n° 1727/71 en ce qui concerne des délais prévus pour l'adjudication
+    visée audit règlement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2418/71 der Kommission vom 10. November 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1727/71 bezüglich der dort angegebenen für die Ausschreibung
+    vorgesehenen Fristen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2418/71 della Commissione, del 10 novembre 1971, che
+    modifica il regolamento (CEE) n. 1727/71 per quanto riguarda taluni termini previsti
+    per la gara di cui al regolamento stesso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2418/71 van de Commissie van 10 november 1971 houdende
+    wijziging van Verordening (EEG) nr. 1727/71 met betrekking tot de voorziene termijnen
+    voor de in deze verordening genoemde openbare inschrijving
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2418
+docidentifier:
+- content: EU Regulation 2418/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2418
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2418/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-10'
+- type: implemented
+  at: '1971-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

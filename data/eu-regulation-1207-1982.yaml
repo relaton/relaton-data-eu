@@ -1,0 +1,99 @@
+---
+id: EURegulation12071982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1207/82 of 18 May 1982 amending Regulation
+    (EEC) No 878/77 on the exchange rates to be applied in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1207/82 du Conseil, du 18 mai 1982, modifiant le règlement
+    (CEE) n° 878/77 relatif aux taux de change à appliquer dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1207/82 des Rates vom 18. Mai 1982 zur Änderung der
+    Verordnung (EWG) Nr. 878/77 über die in der Landwirtschaft anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1207/82 af 18. maj 1982 om ændring af forordning
+    (EØF) nr. 878/77 om de vekselkurser, der skal anvendes inden for landbrugssektoren1
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 1207/82 τού Συμβουλίου
+    τής 18ης Μαΐου 1982 περί τροποποιήσεως τού κανονισμού
+    (EOK) αριθ. 878/77 περί τών τιμών συναλλάγματος πού
+    πρέπει νά εφαρμοσθούν στό γεωργικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1207/82 del Consiglio, del 18 maggio 1982, che modifica
+    il regolamento (CEE) n. 878/77 relativo ai tassi di cambio da applicare nel settore
+    agricolon
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1207/82 van de Raad van 18 mei 1982 tot wijziging
+    van Verordening (EEG) nr. 878/77 inzake de in de landbouwsector toe te passen
+    wisselkoersenr
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R1207
+docidentifier:
+- content: EU Regulation 1207/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R1207
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/1207/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-05-18'
+- type: implemented
+  at: '1982-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

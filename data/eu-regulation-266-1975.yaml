@@ -1,0 +1,93 @@
+---
+id: EURegulation2661975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 266/75 of the Council of 31 January 1975 on the retention
+    of development premiums for the raising of beef cattle laid down by Regulation
+    (EEC) No 1353/73
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 266/75 du Conseil, du 31 janvier 1975, concernant
+    le maintien du régime de prime au développement de l' élevage bovin prévu
+    par le règlement (CEE) n° 1353/73
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 266/75 des Rates vom 31. Januar 1975 zur Beibehaltung
+    der in der Verordnung (EWG) Nr. 1353/73 vorgesehenen Prämienregelung zur Förderung
+    der Rinderaufzucht
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 266/75 af 31. januar 1975 om opretholdelse
+    af præmieordningen for opdræt af kvæg som fastsat i forordning (EØF) nr. 1353/73
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 266/75 del Consiglio, del 31 gennaio 1975, relativo
+    al mantenimento del regime di premi per lo sviluppo dell' allevamento bovino istituito
+    dal regolamento (CEE) n. 1353/73
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 266/75 van de Raad van 31 januari 1975 betreffende
+    de handhaving van het stelsel van premies voor de ontwikkeling van de teelt van
+    rundvee, als bedoeld in Verordening (EEG) nr. 1353/73
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0266
+docidentifier:
+- content: EU Regulation 266/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0266
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/266/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-31'
+- type: implemented
+  at: '1975-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1353
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

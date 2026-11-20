@@ -1,0 +1,94 @@
+---
+id: EURegulation22701972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2270/72 of the Commission of 26 October 1972 amending
+    Regulation (EEC) No 1282/72 on the sale of butter at a reduced price to the army
+    and similar forces
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2270/72 de la Commission, du 26 octobre 1972, modifiant
+    le règlement (CEE) n° 1282/72 relatif à la vente à l' armée et aux unités
+    assimilées de beurre à prix réduit
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2270/72 der Kommission vom 26. Oktober 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1282/72 über den Verkauf von Butter zu herabgesetzten
+    Preisen an die Streitkräfte und ihnen gleichgestellte Einheiten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2270/72 af 26. oktober 1972 om ændring
+    af forordning (EØF) nr. 1282/72 om salg af smør til nedsatte priser til hæren
+    og til dermed ligestillede enheder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2270/72 della Commissione, del 26 ottobre 1972, che
+    modifica il regolamento (CEE) n. 1282/72 relativo alla vendita all' esercito ed
+    ai corpi assimilati di burro a prezzo ridotto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2270/72 van de Commissie van 26 oktober 1972 tot
+    wijziging van Verordening (EEG) nr. 1282/72 betreffende de verkoop van boter tegen
+    verlaagde prijs aan het leger en de daarmee gelijkgestelde eenheden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2270
+docidentifier:
+- content: EU Regulation 2270/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2270
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2270/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-26'
+- type: implemented
+  at: '1972-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1282
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

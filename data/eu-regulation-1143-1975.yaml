@@ -1,0 +1,115 @@
+---
+id: EURegulation11431975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1143/75 of the Commission of 30 April 1975 amending
+    Regulations (EEC) No 825/75, (EEC) No 3163/74 and (EEC) No 3165/74 as regards
+    the amount of the special export levy and the export charge on certain syrups
+    and processed products containing sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1143/75 de la Commission, du 30 avril 1975, portant
+    modification des règlements (CEE) n° 825/75, (CEE) n° 3163/74 et (CEE) n 3165/74
+    en ce qui concerne le montant du prélèvement spécial et de la taxe à l'exportation
+    applicables respectivement à certains sirops et produits transformés contenant
+    du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1143/75 der Kommission vom 30. April 1975 zur Änderung
+    der Verordnungen (EWG) Nr. 825/75, (EWG) Nr. 3163/74 und (EWG) Nr. 3165/74 hinsichtlich
+    des Betrages der besonderen Ausfuhrabschöpfung und der Ausfuhrabgabe, die auf
+    bestimmte Sirupe beziehungsweise auf zuckerhaltige Verarbeitungserzeugnisse anzuwenden
+    sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1143/75 af 30. april 1975 om ændring
+    af forordningerne (EØF) nr. 825/75, (EØF) nr. 3163/74 og (EØF) nr. 3165/74
+    for så vidt angår eksportafgiften og den særlige eksportafgift, henholdsvis
+    på visse forarbejdede varer indeholdende sukker og på visse sirupper og andre
+    sukkeropløsninger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1143/75 della Commissione, del 30 aprile 1975, che
+    modifica i regolamenti (CEE) n. 825/75, (CEE) n. 3163/74 e (CEE) n. 3165/74 per
+    quanto riguarda l'importo del prelievo speciale e della tassa all'esportazione
+    applicabili rispettivamente a taluni sciroppi e prodotti trasformati contenenti
+    zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1143/75 van de Commissie van 30 april 1975 houdende
+    wijziging van de Verordening (EEG) nr. 825/75, (EEG) nr. 3163/74 en (EEG) nr.
+    3165/74 houdende wijziging van het bedrag van de speciale heffing en de belasting
+    bij uitvoer die van toepassing zijn respectievelijk op bepaalde stropen en verwerkte
+    produkten die suiker bevatten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1143
+docidentifier:
+- content: EU Regulation 1143/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1143
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1143/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-30'
+- type: implemented
+  at: '1975-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3163
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3165
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0825
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,103 @@
+---
+id: EURegulation2381973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 238/73 of the Council of 31 January 1973 amending Regulation
+    (EEC) No 795/72 fixing for the 1972/73 marketing year the derived intervention
+    prices for white sugar, the intervention prices for raw beet sugar and the minimum
+    prices for beet in respect of the new Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 238/73 du Conseil, du 31 janvier 1973, modifiant le
+    règlement (CEE) n° 795/72 en vue de fixer, pour la campagne sucrière 1972/1973,
+    les prix d'intervention dérivés pour le sucre blanc, les prix d'intervention
+    pour le sucre de betterave brut et les prix minima de la betterave concernant
+    les nouveaux États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 238/73 des Rates vom 31. Januar 1973 zur Änderung
+    der Verordnung (EWG) Nr. 795/72 zur Festsetzung der abgeleiteten Interventionspreise
+    für Weißzucker, der Interventionspreise für Rübenrohzucker und der Zuckerrübenmindestpreise
+    für das Zuckerwirtschaftsjahr 1972/1973 für die neuen Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 238/73 af 31. januar 1973 om ændring af
+    forordning (EØF) nr. 795/72 med henblik på fastsættelse af afledede interventionspriser
+    for hvidt sukker, interventionspriser for roeråsukker og minimumspriser for sukkerroer
+    for de nye medlemsstater for produktionsåret 1972/73
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 238/73 del Consiglio, del 31 gennaio 1973, che modifica
+    il regolamento (CEE) n. 795/72 al fine di fissare per la campagna saccarifera
+    1972/1973 i prezzi d'intervento derivati per lo zucchero bianco, i prezzi d'intervento
+    per lo zucchero greggio di barbabietola e i prezzi minimi delle barbabietole per
+    i nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 238/73 van de Raad van 31 januari 1973 tot wijziging
+    van Verordening (EEG) nr. 795/72 met het oog op de vaststelling van de afgeleide
+    interventieprijzen voor witte suiker, de interventieprijzen voor ruwe bietsuiker
+    en de minimumprijzen voor suikerbieten voor de nieuwe Lid-Staten voor het verkoopseizoen
+    voor suiker 1972/1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0238
+docidentifier:
+- content: EU Regulation 238/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0238
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/238/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-31'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0795
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

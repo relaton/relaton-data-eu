@@ -1,0 +1,105 @@
+---
+id: EURegulation23611977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2361/77 of 28 October 1977 extending the term
+    of validity of Regulations (EEC) No 2843/76 and (EEC) No 2844/76 laying down special
+    measures in particular for the determination of the offers of olive oil on the
+    world market and on the Greek market
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2361/77 du Conseil, du 28 octobre 1977, prorogeant
+    les règlements (CEE) n° 2843/76 et (CEE) n° 2844/76 établissant des mesures
+    particulières, notamment pour la détermination des offres d'huile d'olive sur
+    les marchés mondial et hellénique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2361/77 des Rates vom 28. Oktober 1977 zur Verlängerung
+    der Geltungsdauer der Verordnungen (EWG) Nr. 2843/76 und (EWG) Nr. 2844/76 über
+    Sondermaßnahmen insbesondere zur Festsetzung des Angebots von Olivenöl auf dem
+    Weltmarkt und auf dem griechischen Markt
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2361/77 af 28. oktober 1977 om forlængelse
+    af forordningerne (EØF) nr. 2843/76 og (EØF) nr. 2844/76 om fastsættelse af
+    særlige foranstaltninger, især vedrørende bestemmelse af udbudet af olivenolie
+    på verdensmarkedet og på det græske marked
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2361/77 del Consiglio, del 28 ottobre 1977, che proroga
+    i regolamenti (CEE) n. 2843/76 e (CEE) n. 2844/76 che prevedono misure particolari
+    segnatamente per la determinazione delle offerte di olio d'oliva sul mercato mondiale
+    e sul mercato ellenico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2361/77 van de Raad van 28 oktober 1977 tot verlenging
+    van de geldigheidsduur van de Verordeningen (EEG) nr. 2843/76 en (EEG) nr. 2844/76
+    tot vaststelling van bijzondere maatregelen met name voor het bepalen van aanbiedingen
+    van olijfolie op de wereldmarkt en op de Griekse markt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2361
+docidentifier:
+- content: EU Regulation 2361/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2361
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2361/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-28'
+- type: implemented
+  at: '1977-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2843
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2844
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

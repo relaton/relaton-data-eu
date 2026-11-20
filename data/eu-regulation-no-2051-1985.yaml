@@ -1,0 +1,96 @@
+---
+id: EURegulationNo20511985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2051/85 of 24 July 1985 on a special intervention
+    measure measure for durum wheat in Italy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2051/85 de la Commission du 24 juillet 1985 relatif
+    à une mesure particulière d' intervention pour le froment dur en Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2051/85 der Kommission vom 24. Juli 1985 über eine
+    besondere Interventionsmaßnahme für Hartweizen in Italien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2051/85 af 24. juli 1985 om særlige
+    interventionsforanstaltninger for hård hvede i Italien
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2051/85 της Επιτροπής
+    της 24ης Ιουλίου 1985 περί ειδικού μέτρου παρεμβάσεως
+    για τον σκληρό σίτο στην Ιταλία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2051/85 della Commissione del 24 luglio 1985 relativo
+    ad una misura particolare d' intervento per il frumento duro in Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2051/85 van de Commissie van 24 juli 1985 betreffende
+    een bijzondere interventiemaatregel voor durum tarwe in Italië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R2051
+docidentifier:
+- content: EU Regulation No 2051/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R2051
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/2051/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-07-24'
+- type: implemented
+  at: '1985-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R3183
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

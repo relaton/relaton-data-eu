@@ -1,0 +1,65 @@
+---
+id: EURegulation841962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 84 de la Commission portant fixation des prix d'écluse intracommunautaires
+    pour les porcs vivants, à l'exclusion des truies de boucherie vivantes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 84 der Kommission über die Festsetzung der innergemeinschaftlichen
+    Einschleusungspreise für lebende Schweine auDer lebenden Schlachtsauen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 84 della Commissione relativo alla fissazione dei prezzi
+    limite intracomunitari per i suini vivi, escluse le scrofe vive da macello
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 84 van de Commissie tot vaststelling van de intracommunautaire
+    sluisprijzen voor levende varkens, met uitzondering van levende slachtzeugen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0084
+docidentifier:
+- content: EU Regulation 84/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0084
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/84/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EURegulation22051969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2205/69 de la Commission, du 5 novembre 1969, modifiant
+    le règlement (CEE) n° 1665/69 relatif à certaines mesures à prendre dans le
+    secteur de la viande porcine à la suite de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2205/69 der Kommission vom 5. November 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1665/69 über Maßnahmen auf dem Sektor Schweinefleisch
+    infolge der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2205/69 della Commissione, del 5 novembre 1969, che
+    modifica il regolamento (CEE) n. 1665/69, relativo a talune misure da adottare
+    nel settore delle carni suine in seguito alla svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2205/69 van de Commissie van 5 november 1969 tot
+    wijziging van Verordening (EEG) nr. 1665/69 betreffende ingevolge de devaluatie
+    van de Franse frank in de sector varkensvlees te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2205
+docidentifier:
+- content: EU Regulation 2205/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2205
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2205/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-05'
+- type: implemented
+  at: '1969-11-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1665
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

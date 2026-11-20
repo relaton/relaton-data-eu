@@ -1,0 +1,76 @@
+---
+id: EUDecision196012
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision n° 12-60 du 18 mai 1960 modifiant l'article 2 de la décision
+    n° 31-59 du 27 mai 1959
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung NR. 12/60 von 18. Mai 1960 über eine Änderung des Artikels
+    2 der Entscheidung Nr. 31/59 vom 27.Mai 1959
+  type: main
+- language: it
+  script: Latn
+  content: Decisione n. 12-60 del 18 maggio 1960 che modifica l'articolo 2 della decisione
+    n. 31-59 del 27 maggio 1959
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking No. 12-60 van 18 mei 1960 strekkende, tot wijziging van artikel
+    2 van Beschikking No. 31-59 van 27 mei 1959
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31960D0012
+docidentifier:
+- content: EU Decision 1960/12
+  type: EU
+  primary: true
+- content: CELEX 31960D0012
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1960/12/oj
+  type: ELI
+date:
+- type: issued
+  at: '1960-05-18'
+- type: implemented
+  at: '1960-05-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: High Authority
+    abbreviation:
+      content: ECSC_HA
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31959D0031
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

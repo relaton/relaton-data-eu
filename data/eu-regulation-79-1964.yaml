@@ -1,0 +1,88 @@
+---
+id: EURegulation791964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 79/64/CEE du Conseil, du 26 juin 1964, portant dérogation
+    à certaines dispositions des règlements n° 20, 21, 22 et 84/63/CEE du Conseil
+    et modifiant les règlements n° 59/64/CEE et 60/64/CEE du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 79/64/EWG des Rates vom 26. Juni 1964 über Maßnahmen,
+    die von einzelnen Bestimmungen der Verordnungen Nr. 20, 21, 22 und 84/63/EWG des
+    Rates abweichen, und zur Änderung der Verordnungen Nr. 59/64/EWG und 60/64/EWG
+    des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 79/64/CEE del Consiglio, del 26 giugno 1964, relativo ad
+    una deroga a talune disposizioni dei regolamenti nn. 20, 21, 22 e 84/63/CEE del
+    Consiglio e ad una modificazione dei regolamenti nn. 59/64/CEE e 60/64/CEE del
+    Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 79/64/EEG van de Raad van 26 juni 1964 houdende afwijking
+    van enkele bepalingen van de Verordeningen Nrs. 20, 21, 22 en 84/63/EEG van de
+    Raad en tot wijziging van de Verordeningen Nrs. 59/64/EEG en 60/64/EEG van de
+    Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0079
+docidentifier:
+- content: EU Regulation 79/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0079
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/79/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-26'
+- type: implemented
+  at: '1964-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0059
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0060
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

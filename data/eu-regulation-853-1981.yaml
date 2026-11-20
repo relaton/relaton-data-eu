@@ -1,0 +1,132 @@
+---
+id: EURegulation8531981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 853/81 of 1 April 1981 amending Regulation
+    (EEC) No 2915/79 in respect of the conditions of entry for certain kinds of cheese
+    falling within certain tariff headings and amending Regulation (EEC) No 950/68
+    on the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 853/81 du Conseil, du 1er avril 1981, modifiant le
+    règlement (CEE) n° 2915/79 en ce qui concerne les conditions d' admission de
+    certains fromages dans certaines positions tarifaires, ainsi que le règlement
+    (CEE) n° 950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 853/81 des Rates vom 1. April 1981 zur Änderung der
+    Verordnung (EWG) Nr. 2915/79 bezüglich der Voraussetzungen für die Zulassung
+    bestimmter Käsesorten zu bestimmten Tarifnummern sowie zur Änderung der Verordnung
+    (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 853/81 af 1. april 1981 om ændring af forordning
+    (EØF) nr. 2915/79 for så vidt angår betingelserne for henførsel af visse ostesorter
+    under bestemte toldpositioner samt af forordning (EØF) nr. 950/68 om den fælles
+    toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 853/81 τού Συμβουλίου
+    τής 1ης Απριλίου 1981 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 2915/79 όσον αφορά τίς προϋποθέσεις
+    υπαγωγής ορισμένων τυρών σέ ορισμένες δασμολογικές
+    κλάσεις, καθώς καί τού κανονισμού (ΕΟΚ) αριθ.
+    950/68 «περί τού Κοινού Δασμολογίου»
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 853/81, annettu 1 päivänä maaliskuuta 1981,
+    asetuksen (ETY) N:o 2915/79 muuttamisesta tiettyjen juustojen tiettyihin tariffinimikkeisiin
+    luokittelun edellytysten osalta sekä yhteisestä tullitariffista annetun asetuksen
+    (ETY) N:o 950/68 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 853/81 del Consiglio, del 1° aprile 1981, che modifica
+    il regolamento (CEE) n. 2915/79, per quanto concerne le condizioni per l' ammissione
+    di taluni formaggi in determinate voci tariffarie, e il regolamento (CEE) n. 950/68,
+    relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 853/81 van de Raad van 1 april 1981 tot wijziging
+    van Verordening (EEG) nr. 2915/79 met betrekking tot de voorwaarden voor de invoer
+    van sommige kaassoorten van bepaalde tariefposten, en tot wijziging van Verordening
+    (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 853/81 av den 1 april 1981 om ändring av
+    förordning (EEG) nr 2915/79 vad gäller villkoren för klassificering av vissa
+    ostsorter enligt vissa tullpositioner och om ändring av förordning (EEG) nr
+    950/68 om Gemensamma tulltaxan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0853
+docidentifier:
+- content: EU Regulation 853/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0853
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/853/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-04-01'
+- type: implemented
+  at: '1981-04-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0950
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2915
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

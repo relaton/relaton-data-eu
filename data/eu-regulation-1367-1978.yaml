@@ -1,0 +1,114 @@
+---
+id: EURegulation13671978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1367/78 of 22 June 1978 amending Regulations
+    (EEC) No 2645/70, (EEC) No 2990/76 and (EEC) No 1036/78 as regards the provisions
+    applicable to sugar produced in excess of the maximum quota
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1367/78 de la Commission, du 22 juin 1978, modifiant
+    les règlements (CEE) n° 2645/70, (CEE) n° 2990/76 et (CEE) n° 1036/78 en ce
+    qui concerne les dispositions applicables au sucre produit au-delà du quota maximal
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1367/78 der Kommission vom 22. Juni 1978 zur Änderung
+    der Verordnungen (EWG) Nr. 2645/70, (EWG) Nr. 2990/76 und (EWG) Nr. 1036/78 hinsichtlich
+    der Bestimmungen, die auf die über die Höchstquote hinaus erzeugte Zuckermenge
+    anwendbar sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1367/78 af 22. juni 1978 om ændring
+    af forordning (EØF) nr. 2645/70, (EØF) nr. 2990/76 og (EØF) nr. 1036/78 for
+    så vidt angår de bestemmelser, der finder anvendelse på den ud over maksimalkvoten
+    producerede sukkermængde
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1367/78 της Επιτροπής
+    της 22ας Ιουνίου 1978 περί τροποποιήσεως των κανονισμών
+    (ΕΟΚ) αριθ. 2645/70, (ΕΟΚ) αριθ. 2990/76 και (ΕΟΚ) αριθ.
+    1036/78 που αφορούν τίς διατάξεις που εφαρμόζονται
+    στη ζάχαρη που παράγεται πέραν της μεγίστης
+    ποσοστώσεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1367/78 della Commissione, del 22 giugno 1978, che
+    modifica i regolamenti (CEE) n. 2645/70, (CEE) n. 2990/76 e (CEE) n. 1036/78 per
+    quanto riguarda le disposizioni applicabili allo zucchero prodotto in eccedenza
+    della quota massima
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1367/78 van de Commissie van 22 juni 1978 tot wijziging
+    van de Verordeningen (EEG) nr. 2645/70, (EEG) nr. 2990/76 en (EEG) nr. 1036/78
+    ten aanzien van de bepalingen welke van toepassing zijn op suiker die boven het
+    maximumquotum wordt geproduceerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1367
+docidentifier:
+- content: EU Regulation 1367/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1367
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1367/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-22'
+- type: implemented
+  at: '1978-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2645
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2990
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

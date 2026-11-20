@@ -1,0 +1,78 @@
+---
+id: EURegulation3971972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 397/72 de la Commission, du 25 février 1972, complétant
+    le règlement (CEE) n° 279/72 concernant une adjudication permanente pour la
+    vente de sucre blanc destiné à l'exportation et détenu par l'organisme d'intervention
+    français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 397/72 der Kommission vom 25. Februar 1972 zur Ergänzung
+    der Verordnung (EWG) Nr. 279/72 über eine Dauerausschreibung zum Verkauf von
+    Weißzucker, der zur Ausfuhr bestimmt ist und sich im Besitz der französischen
+    Interventionsstelle befindet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 397/72 della Commissione, del 25 febbraio 1972, che
+    completa il regolamento (CEE) n. 279/72 relativo ad una gara permanente per la
+    vendita di zucchero bianco destinato all'esportazione e detenuto dall'organismo
+    d'intervento francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 397/72 van de Commissie van 25 februari 1972 tot
+    aanvulling van Verordening (EEG) nr. 279/72 betreffende een permanente openbare
+    inschrijving voor de verkoop van witte suiker in het bezit van het Franse interventiebureau
+    en bestemd voor uitvoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0397
+docidentifier:
+- content: EU Regulation 397/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0397
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/397/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-02-25'
+- type: implemented
+  at: '1972-02-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

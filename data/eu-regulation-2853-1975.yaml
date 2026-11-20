@@ -1,0 +1,94 @@
+---
+id: EURegulation28531975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2853/75 of the Commission of 31 October 1975 amending
+    Regulation (EEC) No 756/70 on granting aid for skimmed milk processed into casein
+    and caseinates
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2853/75 de la Commission, du 31 octobre 1975, modifiant
+    le règlement (CEE) n° 756/70 relatif à l' octroi des aides au lait écrémé
+    transformé en vue de la fabrication de caséine et caséinates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2853/75 der Kommission vom 31. Oktober 1975 zur Änderung
+    der Verordnung (EWG) Nr. 756/70 über die Gewährung von Beihilfen für Magermilch,
+    die zu Kasein und Kaseinaten verarbeitet worden ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2853/75 af 31. oktober 1975 om ændring
+    af forordning (EØF) nr. 756/70 om ydelse af støtte til skummetmælk, som er
+    blevet forarbejdet til kasein og kaseinater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2853/75 della Commissione, del 31 ottobre 1975, che
+    modifica il regolamento (CEE) n. 756/70 relativo alla concessione di aiuti per
+    il latte scremato trasformato per la fabbricazione di caseina e di caseinati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2853/75 van de Commissie van 31 oktober 1975 houdende
+    wijziging van Verordening (EEG) nr. 756/70 betreffende steunverlening voor ondermelk,
+    die tot caseïne en caseïnaten is verwerkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2853
+docidentifier:
+- content: EU Regulation 2853/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2853
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2853/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-31'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0756
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

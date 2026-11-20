@@ -1,0 +1,78 @@
+---
+id: EUDecision1965371
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 8 juillet 1965, portant modification de
+    la décision du 29 juillet 1964, relative à la création d'un comité consultatif
+    pour les problèmes de la politique de structure agricole
+  type: main
+- language: de
+  script: Latn
+  content: '65/371/EWG: Beschluß der Kommission vom 8. Juli 1965 zur Änderung ihres
+    Beschlusses vom 29. Juli 1964 über die Einsetzung eines Beratenden Ausschusses
+    für Fragen der landwirtschaftlichen Strukturpolitik'
+  type: main
+- language: it
+  script: Latn
+  content: '65/371/CEE: Decisione della Commissione, dell''8 luglio 1965, che modifica
+    la decisione del 29 luglio 1964 che istituisce un comitato consultivo per i problemi
+    della politica di struttura agraria'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/371/EEG: Besluit van de Commissie van 8 juli 1965 tot wijziging van
+    het besluit van 29 juli 1964 betreffende de instelling van een raadgevend comité
+    voor de problemen van het landbouwstructuurbeleid'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0371
+docidentifier:
+- content: EU Decision 1965/371
+  type: EU
+  primary: true
+- content: CELEX 31965D0371
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/371/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0488
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

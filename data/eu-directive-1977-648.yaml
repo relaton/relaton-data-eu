@@ -1,0 +1,88 @@
+---
+id: EUDirective1977648
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 77/648/EEC of 11 October 1977 amending Directive 66/403/EEC
+    on the marketing of seed potatoes
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 77/648/CEE du Conseil, du 11 octobre 1977, modifiant la directive
+    66/403/CEE concernant la commercialisation des plants de pommes de terre
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 77/648/EWG des Rates vom 11. Oktober 1977 zur Änderung der
+    Richtlinie 66/403/EWG über den Verkehr mit Pflanzkartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 77/648/EØF af 11. oktober 1977 om ændring af direktiv
+    66/403/EØF om handel med læggekartofler
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 77/648/CEE del Consiglio, dell'11 ottobre 1977, che modifica
+    la direttiva 66/403/CEE relativa alla commercializzazione dei tuberi-seme di patate
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 77/648/EEG van de Raad van 11 oktober 1977 tot wijziging van
+    Richtlijn 66/403/EEG betreffende het in de handel brengen van pootaardappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977L0648
+docidentifier:
+- content: EU Directive 1977/648
+  type: EU
+  primary: true
+- content: CELEX 31977L0648
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1977/648/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-11'
+- type: implemented
+  at: '1977-10-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966L0403
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

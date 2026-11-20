@@ -1,0 +1,74 @@
+---
+id: EURegulation21621972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2162/72 du Conseil, du 10 octobre 1972, portant augmentation
+    du volume du contingent tarifaire communautaire de magnésium brut de la sous-
+    position 77.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2162/72 des Rates vom 10. Oktober 1972 zur Aufstockung
+    des Gemeinschaftszollkontingents für Rohmagnesium der Tarifstelle 77.01 A des
+    Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2162/72 del Consiglio, del 10 ottobre 1972, recante
+    aumento del volume del contingente tariffario comunitario di magnesio greggio
+    della sottovoce 77.01 A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2162/72 van de Raad van 10 oktober 1972 houdende
+    verhoging van het communautaire tariefcontingent voor ruw magnesium van onderverdeling
+    77.01A van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2162
+docidentifier:
+- content: EU Regulation 2162/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2162
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2162/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-10'
+- type: implemented
+  at: '1972-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

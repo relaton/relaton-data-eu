@@ -1,0 +1,73 @@
+---
+id: EURegulation11251968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1125/68 de la Commission, du 30 juillet 1968, relatif
+    aux modalités concernant l'aide supplémentaire pour les graines de colza et
+    de navette transformées en Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1125/68 der Kommission vom 30. Juli 1968 mit Durchführungsbestimmungen
+    betreffend die zusätzliche Beihilfe für in Italien verarbeitete Raps- und Rübsensamen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1125/68 della Commissione, del 30 luglio 1968, relativo
+    alle modalità riguardanti l'integrazione supplementare per i semi di colza e
+    ravizzone trasformati in Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) Nr. 1125/68 van de Commissie van 30 juli 1968 houdende
+    uitvoeringsbepalingen met betrekking tot de extra steun voor in Italië verwerkt
+    koolzaad en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1125
+docidentifier:
+- content: EU Regulation 1125/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1125
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1125/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-30'
+- type: implemented
+  at: '1968-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,98 @@
+---
+id: EURegulation7061978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 706/78 of 4 April 1978 amending Regulation
+    (EEC) No 1111/77 laying down common provisions for isoglucose
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 706/78 du Conseil, du 4 avril 1978, modifiant le règlement
+    (CEE) n° 1111/77 établissant des dispositions communes pour l' isoglucose
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 706/78 des Rates vom 4. April 1978 zur Änderung der
+    Verordnung (EWG) Nr. 1111/77 zur Einführung gemeinsamer Vorschriften für Isoglukose
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 706/78 af 4. april 1978 om ændring af forordning
+    (EØF) nr. 1111/77 om indførelse af fælles bestemmelser for isoglucose
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 706/78 τού Συμβουλίου
+    τής 4ης Απριλίου 1978 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1111/77 «περί θεσπίσεως
+    κοινών διατάξεων γιά τήν ισογλυκόζη»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 706/78 del Consiglio, del 4 aprile 1978, che modifica
+    il regolamento (CEE) n. 1111/77 che stabilisce disposizioni comuni per l' isoglucosio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 706/78 van de Raad van 4 april 1978 tot wijziging
+    van Verordening (EEG) nr. 1111/77 tot vaststelling van gemeenschappelijke bepalingen
+    voor isoglucose
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0706
+docidentifier:
+- content: EU Regulation 706/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0706
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/706/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-04-04'
+- type: implemented
+  at: '1978-04-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1111
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation8761969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 876/69 de la Commission, du 12 mai 1969, fixant les
+    conditions d'une adjudication pour la vente de graines de colza et de navette
+    détenues par l'organisme d'intervention allemand
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 876/69 der Kommission vom 12. Mai 1969 zur Festsetzung
+    der Ausschreibungsbedingungen für den Verkauf im Besitz der deutschen Interventionsstelle
+    befindlicher Raps- und Rübsensamen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 876/69 della Commissione, del 12 maggio 1969, che
+    stabilisce le condizioni di un'asta per la vendita di semi di colza e di ravizzone
+    in possesso dell'organismo d'intervento tedesco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 876/69 van de Commissie van 12 mei 1969 houdende
+    vaststelling van de voorwaarden voor verkoop bij inschrijving van koolzaad en
+    raapzaad uit de voorraden van het Duitse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0876
+docidentifier:
+- content: EU Regulation 876/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0876
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/876/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

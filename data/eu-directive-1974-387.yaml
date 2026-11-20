@@ -1,0 +1,115 @@
+---
+id: EUDirective1974387
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 74/387/EEC of 15 July 1974 amending Directives No 64/432/EEC,
+    No 64/433/EEC, No 71/118/EEC, No 72/461/EEC and No 72/462/EEC on the validity
+    of the procedures of the Standing Veterinary Committee
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 74/387/CEE du Conseil, du 15 juillet 1974, modifiant les directives
+    64/432/CEE, 64/433/CEE, 71/118/CEE , 72/461/CEE et 72/462/CEE en ce qui concerne
+    la durée de validité des procédures du comité vétérinaire permanent
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 74/387/EWG des Rates vom 15. Juli 1974 zur Änderung der Richtlinien
+    64/432/EWG, 64/433/EWG, 71/118/EWG, 72/461/EWG und 72/462/EWG über die Geltungsdauer
+    der Verfahren des Ständigen Veterinärausschusses
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 74/387/EØF af 15. juli 1974 om ændring af direktiverne
+    64/432/EØF, 64/433/EØF, 71/118/EØF, 72/461/EØF og 72/462/EØF for så vidt
+    angår varigheden af procedurerne i Det stående Veterinærudvalg
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 74/387/CEE del Consiglio, del 15 luglio 1974, che modifica le
+    direttive 64/432/CEE, 64/433/CEE, 71/118/CEE, 72/461/CEE e 72/462/CEE per quanto
+    riguarda il periodo di validità delle procedure del comitato veterinario permanente
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 74/387/EEG van de Raad van 15 juli 1974 houdende wijziging van
+    de Richtlijnen nrs. 64/432/EEG, 64/433/EEG, 71/118/EEG, 72/461/EEG en 72/462/EEG
+    voor wat de geldigheidsduur van de procedures van het Permanent Veterinair Comité
+    betreft
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974L0387
+docidentifier:
+- content: EU Directive 1974/387
+  type: EU
+  primary: true
+- content: CELEX 31974L0387
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1974/387/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-15'
+- type: implemented
+  at: '1974-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964L0432
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964L0433
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971L0118
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972L0461
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972L0462
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

@@ -1,0 +1,107 @@
+---
+id: EURegulation1441969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 144/69 of the Commission of 25 January 1969 supplementing
+    Regulation (EEC) No 103/69 laying down detailed rules for carrying forward part
+    of one year's sugar production to the following marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 144/69 de la Commission, du 25 janvier 1969, complétant
+    le règlement (CEE) n° 103/69 établissant les modalités d'application pour
+    le report d'une partie de la production de sucre à la campagne sucrière suivante
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 144/69 der Kommission vom 25. Januar 1969 zur Ergänzung
+    der Verordnung (EWG) Nr. 103/69 über Durchführungsbestimmungen für die Übertragung
+    eines Teils der Zuckererzeugung auf das folgende Zuckerwirtschaftsjahr
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 144/69 af 25. januar 1969 om tillæg
+    til forordning (EØF) nr. 103/69 om gennemførelsesbestemmelser vedrørende overførelse
+    af en del af sukkerproduktionen til det følgende sukker-produktionsår
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 144/69 της Επιτροπής
+    της 25ης Ιανουαρίου 1969 περί συμπληρώσεως του
+    κανονισμού (ΕΟΚ) αριθ. 103/69 «περί ρυθμίσεως των
+    τρόπων εκτελέσεως της μεταφοράς ενός μέρους
+    της παραγωγής ζάχαρης στην επόμενη ζαχαρική
+    περίοδο»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 144/69 della Commissione, del 25 gennaio 1969, che
+    completa il regolamento (CEE) n. 103/69 che stabilisce le modalità d'applicazione
+    per il riporto di una parte della produzione di zucchero alla campagna saccarifera
+    successiva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 144/69 van de Commissie van 25 januari 1969 tot aanvulling
+    van Verordening (EEG) nr. 103/69 houdende vaststelling van de uitvoeringsbepalingen
+    voor het overbrengen van een deel van de suikerproduktie naar het volgende verkoopseizoen
+    voor suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0144
+docidentifier:
+- content: EU Regulation 144/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0144
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/144/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-01-25'
+- type: implemented
+  at: '1969-01-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0103
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

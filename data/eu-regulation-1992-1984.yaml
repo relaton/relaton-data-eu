@@ -1,0 +1,104 @@
+---
+id: EURegulation19921984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1992/84 of 11 July 1984 amending Regulation
+    (EEC) No 1086/84 concerning the stopping of fishing for cod by vessels flying
+    the flag of the Federal Republic of Germany
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1992/84 de la Commission du 11 juillet 1984 modifiant
+    le règlement (CEE) no 1086/84 concernant l' arrêt de la pêche du cabillaud
+    par les navires battant pavillon de l' Allemagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1992/84 der Kommission vom 11. Juli 1984 zur Änderung
+    der Verordnung (EWG) Nr. 1086/84 über die Einstellung des Kabeljaufangs durch
+    Schiffe unter deutscher Flagge
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1992/84 af 11. juli 1984 der ændrer
+    forordning (EØF) nr. 1086/84 om indstilling af fiskeri efter torsk fra fartøjer,
+    som fører tysk flag
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1992/84 της Επιτροπής
+    της 11ης Ιουλίου 1984 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 1086/84 περί παύσεως της αλιείας γάδου
+    από πλοία με γερμανική σημαία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1992/84 della Commissione dell' 11 luglio 1984 che
+    modifica il regolamento (CEE) n. 1086/84 relativo alla sospensione della pesca
+    di merluzzo bianco da parte delle navi battenti bandiera della Repubblica federale
+    di Germania
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1992/84 van de Commissie van 11 juli 1984 tot wijziging
+    van Verordening (EEG) nr. 1086/84 betreffende het beëindigen van de visserij
+    op kabeljauw door vissersvaartuigen die de vlag voeren van Duitsland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R1992
+docidentifier:
+- content: EU Regulation 1992/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R1992
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/1992/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-07-11'
+- type: implemented
+  at: '1984-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31984R1086
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

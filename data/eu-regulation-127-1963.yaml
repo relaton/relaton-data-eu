@@ -1,0 +1,83 @@
+---
+id: EURegulation1271963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 8/63/Euratom, 127/63/CEE des Conseils du 3 décembre 1963
+    déterminant les catégories de fonctionnaires et agents de la Communauté européenne
+    de l'énergie atomique et de la Communauté économique européenne auxquels s'appliquent
+    les dispositions des articles 11, 12 alinéa 2, et 13 des protocoles sur les privilèges
+    et immunités des Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 8/63/Euratom, Nr. 127/63/EWG der Räte vom 3. Dezember 1963
+    zur Bestimmung der Gruppen von Beamten und sonstigen Bediensteten der Europäischen
+    Atomgemeinschaft und der Europäischen Wirtschaftsgemeinschaft, auf die Artikel
+    11, Artikel 12 Absatz 2 und Artikel 13 der Protokolle über die Vorrechte und
+    Befreiungen der Gemeinschaften Anwendung finden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 8/63/Euratom, 127/63/CEE dei Consigli, del 3 dicembre 1963,
+    che stabilisce le categorie di funzionari ed agenti della Comunità Europea dell'Energia
+    Atomica e della Comunità Economica Europea ai quali si applicano le disposizioni
+    degli articoli 11, 12, secondo comma e 13, dei protocolli sui privilegi e sulle
+    immunità delle Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 8/63/Euratom, 127/63/EEG van de Raden van 3 december 1963
+    ter bepaling van de categorieën van ambtenaren en overige personeelsleden van
+    de Europese Gemeenschap voor Atoomenergie en van de Europese Economische Gemeenschap
+    waarop de bepalingen van de artikelen 11, 12, tweede alinea, en 13 van de protocollen
+    betreffende de voorrechten en immuniteiten van de Gemeenschappen van toepassing
+    zijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0127
+docidentifier:
+- content: EU Regulation 127/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0127
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/127/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-03'
+- type: implemented
+  at: '1963-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

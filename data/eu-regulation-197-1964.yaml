@@ -1,0 +1,69 @@
+---
+id: EURegulation1971964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 197/64/CEE de la Commission, du 22 décembre 1964, modifiant
+    le règlement n 158/64/CEE en ce qui concerne le calcul forfaitaire des impositions
+    intérieures perçues sur certains produits laitiers à l'importation en Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 197/64/EWG der Kommission vom 22. Dezember 1964 über die
+    pauschale Berechnung der bei der Einfuhr von bestimmten Milcherzeugnissen nach
+    Italien erhobenen inländischen Abgaben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 197/64/CEE della Commissione, del 22 dicembre 1964, relativo
+    al calcolo forfettario delle imposizioni interne riscosse all'importazione in
+    Italia di alcuni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 197/64/EEG van de Commissie van 22 december 1964 betreffende
+    de forfaitaire berekening van de bij invoer van bepaalde zuivelprodukten in Italië
+    geheven binnenlandse belastingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0197
+docidentifier:
+- content: EU Regulation 197/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0197
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/197/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

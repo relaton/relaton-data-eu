@@ -1,0 +1,73 @@
+---
+id: EURegulation5371969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 537/69 de la Commission, du 24 mars 1969, portant
+    dispositions complémentaires pour les certificats d'exportation des produits
+    laitiers dans certains cas d'appels d'offres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 537/69 der Kommission vom 24. März 1969 über Ergänzungsbestimmungen
+    betreffend Ausfuhrlizenzen für Milcherzeugnisse in bestimmten Ausschreibungsfällen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 537/69 della Commissione, del 24 marzo 1969, recante
+    disposizioni complementari per i titoli d'esportazione dei prodotti lattiero-caseari
+    in taluni bandi di gara
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 537/69 van de Commissie van 24 maart 1969 houdende
+    aanvullende bepalingen inzake de uitvoercertificaten voor zuivelprodukten in bepaalde
+    gevallen van openbare inschrijving
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0537
+docidentifier:
+- content: EU Regulation 537/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0537
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/537/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-24'
+- type: implemented
+  at: '1969-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

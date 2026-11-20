@@ -1,0 +1,86 @@
+---
+id: EURegulation911963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 91/63/CEE du Conseil, du 30 juillet 1963, portant modification
+    du règlement n° 89/63/CEE du Conseil, du 18 juillet 1963, en ce qui concerne
+    le montant des prélèvements intracommunautaires applicables aux échanges entre
+    la Belgique, le Luxembourg et les Pays-Bas pour les préparations et conserves
+    à base de viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 91/63/EWG des Rats vom 30. Juli 1963 zur Änderung der Verordnung
+    Nr. 89/63/EWG des Rats vom 18. Juli 1963 hinsichtlich der innergemeinschaftlichen
+    Abschöpfungsbeträge für Schweinefleischzubereitungen und -konserven im Handel
+    zwischen Belgien, Luxemburg und den Niederlanden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 91/63/CEE del Consiglio, del 30 luglio 1963, che modifica
+    il regolamento n. 89/63/CEE del Consiglio, del 18 luglio 1963, per quanto concerne
+    l'ammontare dei prelievi intracomunitari applicabili agli scambi fra il Belgio,
+    il Lussemburgo e i Paesi Bassi per le preparazioni e le conserve a base di carne
+    di maiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 91/63/EEG van de Raad van 30 juli 1963 houdende wijziging
+    van Verordening Nr. 89/63/EEG van de Raad van 18 juli 1963 met betrekking tot
+    het bedrag van de intracommunautaire heffingen van toepassing op het handelsverkeer
+    tussen België, Luxemburg en Nederland van bereidingen en conserven van varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0091
+docidentifier:
+- content: EU Regulation 91/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0091
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/91/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-30'
+- type: implemented
+  at: '1963-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0089
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,100 @@
+---
+id: EURegulation9061973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (ECSC, EEC, Euratom) No 906/73 of the Council of 2 April 1973
+    amending Regulation (EEC, Euratom, ECSC) No 2/71 implementing the Decision of
+    21 April 1970 on the replacement of financial contributions from Member States
+    by the Communities' own resources
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CECA, CEE, Euratom) n° 906/73 du Conseil, du 2 avril 1973,
+    modifiant le règlement (CEE, Euratom, CECA) n° 2/71 portant application de la
+    décision du 21 avril 1970 relative au remplacement des contributions financières
+    des États membres par des ressources propres aux Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EGKS, EWG, Euratom) Nr. 906/73 des Rates vom 2. April 1973
+    zur Änderung der Verordnung (EWG, Euratom, EGKS) Nr. 2/71 zur Durchführung des
+    Beschlusses vom 21. April 1970 über die Ersetzung der Finanzbeiträge der Mitgliedstaaten
+    durch eigene Mittel der Gemeinschaften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EKSF, EØF, Euratom) nr. 906/73 af 2. april 1973 om
+    ændring af forordning (EØF, Euratom, EKSF) nr. 2/71 om gennemførelse af afgørelsen
+    af 21. april 1970 angående udskiftning af medlemsstaternes finansielle bidrag
+    med Fællesskabernes egne indtægter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CECA, CEE, Euratom) n. 906/73 del Consiglio, del 2 aprile
+    1973, che modifica il regolamento (CEE, Euratom, CECA) n. 2/71 recante applicazione
+    della decisione, del 21 aprile 1970, relativa alla sostituzione dei contributi
+    finanziari degli Stati membri con risorse proprie delle Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EGKS, EEG, Euratom) nr. 906/73 van de Raad van 2 april 1973
+    tot wijziging van Verordening (EEG, Euratom, EGKS) nr. 2/71 houdende toepassing
+    van het besluit van 21 april 1970 betreffende de vervanging van de financiële
+    bijdragen van de Lid-Staten door eigen middelen van de Gemeenschappen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0906
+docidentifier:
+- content: EU Regulation 906/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0906
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/906/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-02'
+- type: implemented
+  at: '1973-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0002
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

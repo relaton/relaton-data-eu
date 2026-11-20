@@ -1,0 +1,94 @@
+---
+id: EURegulation6761972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 676/72 of the Commission of 29 March 1972 laying down
+    a special condition for payment of the refund on butter exported to destinations
+    other than zone E
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 676/72 de la Commission, du 29 mars 1972, établissant
+    une condition particulière de paiement de la restitution à l' exportation de
+    beurre vers d' autres destinations que la zone E
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 676/72 der Kommission vom 29. März 1972 über eine
+    besondere Voraussetzung für die Zahlung der Erstattung bei der Ausfuhr von Butter
+    nach anderen Bestimmungsgebieten als der Zone E
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 676/72 af 29. marts 1972 om en særlig
+    betingelse for betaling af restitution af smør til andre bestemmelsesområder
+    end zone E
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 676/72 della Commissione, del 29 marzo 1972, che stabilisce
+    una condizione particolare di pagamento della restituzione all' esportazione di
+    burro verso destinazioni diverse dalla zona E
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 676/72 van de Commissie van 29 maart 1972 houdende
+    vaststelling van een bijzondere voorwaarde voor de betaling van de restitutie
+    bij uitvoer van boter naar andere bestemmingen dan de zone E
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0676
+docidentifier:
+- content: EU Regulation 676/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0676
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/676/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-29'
+- type: implemented
+  at: '1972-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1368
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

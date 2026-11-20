@@ -1,0 +1,92 @@
+---
+id: EURegulation12011973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1201/73 of the Commission of 8 May 1973 closing the
+    standing invitation to tender for white sugar pursuant to Regulation (EEC) No
+    1897/72
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1201/73 de la Commission, du 8 mai 1973, clôturant
+    l'adjudication permanente de sucre blanc effectuée en vertu du règlement (CEE)
+    n° 1897/72
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1201/73 der Kommission vom 8. Mai 1973 zur Einstellung
+    der in der Verordnung (EWG) Nr. 1897/72 genannten Dauerausschreibung von Weißzucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1201/73 af 8. maj 1973 om lukning af
+    den løbende licitation for hvidt sukker, der er foretaget i henhold til forordning
+    (EØF) nr. 1897/72
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1201/73 della Commissione, dell'8 maggio 1973, che
+    chiude la gara permanente di zucchero bianco di cui al regolamento (CEE) n. 1897/72
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1201/73 van de Commissie van 8 mei 1973 tot sluiting
+    van de permanente openbare inschrijving voor witte suiker, in het kader van Verordening
+    (EEG) nr. 1897/72
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1201
+docidentifier:
+- content: EU Regulation 1201/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1201
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1201/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-05-08'
+- type: implemented
+  at: '1973-05-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1897
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

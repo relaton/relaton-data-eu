@@ -1,0 +1,99 @@
+---
+id: EURegulation12971985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1297/85 of 23 May 1985 amending Regulation
+    (EEC) No 1223/83 on the exchange rates to be applied in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1297/85 du Conseil du 23 mai 1985 modifiant le règlement
+    (CEE) no 1223/83 relatif aux taux de change à appliquer dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1297/85 des Rates vom 23. Mai 1985 zur Änderung der
+    Verordnung (EWG) Nr. 1223/83 über die in der Landwirtschaft anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1297/85 af 23. maj 1985 om ændring af forordning
+    (EØF) nr. 1223/83 om de vekselkurser, der skal anvendes for landbruget
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1297/85 του Συμβουλίου
+    της 23ης Μαΐου 1985 για την τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 1223/83 περί των τιμών συναλλάγματος
+    που πρέπει να εφαρμοστούν στο γεωργικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1297/85 del Consiglio del 23 maggio 1985 che modifica
+    il regolamento (CEE) n. 1223/83, relativo ai tassi di cambio da applicare nel
+    settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1297/85 van de Raad van 23 mei 1985 tot wijziging
+    van Verordening (EEG) nr. 1223/83 inzake de in de landbouwsector toe te passen
+    wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R1297
+docidentifier:
+- content: EU Regulation 1297/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R1297
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/1297/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-05-23'
+- type: implemented
+  at: '1985-05-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R1223
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

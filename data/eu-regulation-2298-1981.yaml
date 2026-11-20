@@ -1,0 +1,116 @@
+---
+id: EURegulation22981981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2298/81 of 10 August 1981 amending Regulations
+    (EEC) No 2226/78 and (EEC) No 980/81 as regards the beef products which may be
+    taken into intervention in certain Member States, and their coefficients
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2298/81 de la Commission, du 10 août 1981, modifiant
+    les règlements (CEE) n° 2226/78 et (CEE) n° 980/81 en ce qui concerne les produits
+    du secteur de la viande bovine pouvant faire l' objet d' achats à l' intervention
+    dans certains États membres ainsi que leurs coefficients
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2298/81 der Kommission vom 10. August 1981 zur Änderung
+    der Verordnungen (EWG) Nr. 2226/78 und (EWG) Nr. 980/81 hinsichtlich der Erzeugnisse
+    des Rindfleischsektors, die Gegenstand von Interventionskäufen in einigen Mitgliedstaaten
+    sein können, sowie ihrer Koeffizienten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2298/81 af 10. august 1981 om ændring
+    af forordning (EØF) nr. 2226/78 og (EØF) nr. 980/81 for så vidt angår oksekødsprodukter,
+    der kan opkøbes ved intervention i visse medlemsstater samt koefficienter for
+    disse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2298/81 τής Επιτροπής
+    τής 10ης Αυγούστου 1981 περί τροποποιήσεως τών
+    κανονισμών (ΕΟΚ) αριθ. 2226/78 καί (ΕΟΚ) αριθ. 980/81
+    όσον αφορά τά προϊόντα τού τομέα τού βοείου
+    κρέατος πού δύνανται νά αποτελέσουν τό αντικείμενο
+    αγορών κατά τήν παρέμβαση σέ ορισμένα Κράτη
+    μέλη, καθώς καί τών συντελεστών τους
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2298/81 della Commissione, del 10 agosto 1981, che
+    modifica i regolamenti (CEE) n. 2226/78 e (CEE) n. 980/81 per quanto concerne
+    i prodotti del settore delle carni bovine che possono formare oggetto di acquisti
+    all' intervento in taluni Stati membri nonché i loro coefficienti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2298/81 van de Commissie van 10 augustus 1981 tot
+    wijziging van de Verordeningen (EEG) nr. 2226/78 en (EEG) nr. 980/81 met betrekking
+    tot de produkten van de sector rundvlees die in bepaalde Lid-Staten door de interventiebureaus
+    kunnen worden aangekocht en de daarvoor geldende coëfficiënten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R2298
+docidentifier:
+- content: EU Regulation 2298/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R2298
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/2298/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-08-10'
+- type: implemented
+  at: '1981-08-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2226
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R0980
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

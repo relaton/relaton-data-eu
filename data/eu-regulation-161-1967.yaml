@@ -1,0 +1,69 @@
+---
+id: EURegulation1611967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 161/67/CEE de la Commission, du 23 juin 1967, déterminant
+    pour la campagne 1967/1968 certains centres de commercialisation des céréales
+    et les prix d'intervention dérivés s'y rapportant
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 161/67/EWG der Kommission vom 23. Juni 1967 zur Festlegung
+    bestimmter Handelsplätze für Getreide und der für diese Handelsplätze geltenden
+    abgeleiteten Interventionspreise für das Wirtschaftsjahr 1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 161/67/CEE della Commissione, del 23 giugno 1967, che fissa
+    per la campagna 1967/1968 alcuni centri di commercializzazione dei cereali ed
+    i relativi prezzi d'intervento derivati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 161/67/EEG van de Commissie van 23 juni 1967 houdende vaststelling
+    van bepaalde handelscentra voor graan en de op deze centra betrekking hebbende
+    afgeleide interventieprijzen voor het verkoopseizoen 1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0161
+docidentifier:
+- content: EU Regulation 161/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0161
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/161/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

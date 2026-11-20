@@ -1,0 +1,74 @@
+---
+id: EURegulation8831969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 883/69 du Conseil, du 13 mai 1969, fixant, pour la
+    campagne 1969/1970, les majorations mensuelles des prix des céréales et des
+    farines, gruaux et semoules de froment ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 883/69 des Rates vom 13. Mai 1969 zur Festsetzung
+    der monatlichen Zuschläge der Preise für Getreide und Mehl, Grütze und Grieß
+    von Weizen oder Roggen für das Wirtschaftsjahr 1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 883/69 del Consiglio, del 13 maggio 1969, che fissa,
+    per la campagna 1969/1970, le maggiorazioni mensili dei prezzi dei cereali e delle
+    farine, semole e semolini di frumento o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 883/69 van de Raad van 13 mei 1969 houdende vaststelling
+    van de maandelijkse verhogingen van de prijzen voor granen en meel, grutten, gries
+    en griesmeel van tarwe of van rogge voor het verkoopseizoen 1969/1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0883
+docidentifier:
+- content: EU Regulation 883/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0883
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/883/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-13'
+- type: implemented
+  at: '1969-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

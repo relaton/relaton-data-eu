@@ -1,0 +1,104 @@
+---
+id: EURegulation4141983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 414/83 of 21 February 1983 amending Regulation
+    (EEC) No 2744/75 as regards products falling within subheading 23.02 A of the
+    Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 414/83 du Conseil du 21 février 1983 modifiant le
+    règlement (CEE) no 2744/75 en ce qui concerne les produits relevant de la sous-position
+    23.02 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 414/83 des Rates vom 21. Februar 1983 zur Änderung
+    der Verordnung (EWG) Nr. 2744/75 hinsichtlich der Produkte der Tarifstelle 23.02
+    A des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 414/83 af 21. februar 1983 om ændring af
+    forordning (EØF) nr. 2744/75 for så vidt angår produkter henhørende under
+    pos. 23.02 A i den fælles toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 414/83 του Συμβουλίου
+    της 21ης Φεβρουαρίου 1983 για την τροποποίηση
+    του κανονισμού (ΕΟΚ) αριθ. 2744/75 όσον αφορά τα
+    προϊόντα που υπάγονται στη διάκριση 23.02 Α του
+    Κοινού Δασμολογίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 414/83 del Consiglio del 21 febbraio 1983 che modifica
+    il regolamento (CEE) n. 2744/75 per quanto concerne i prodotti della sottovoce
+    23.02 A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 414/83 van de Raad van 21 februari 1983 tot wijziging
+    van Verordening (EEG) nr. 2744/75 met betrekking tot de produkten van post 23.02
+    A van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0414
+docidentifier:
+- content: EU Regulation 414/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0414
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/414/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-02-21'
+- type: implemented
+  at: '1983-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2744
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation391970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 39/70 of the Commission of 9 January 1970 amending
+    Regulation (EEC) No 1486/69 as regards information concerning import and export
+    licences for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 39/70 de la Commission, du 9 janvier 1970, modifiant
+    le règlement (CEE) n° 1486/69 en ce qui concerne les informations relatives
+    aux certificats d' importation et d' exportation pour l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 39/70 der Kommission vom 9. Januar 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1486/69 bezüglich der Informationen über die Einfuhr-
+    und Ausfuhrlizenzen für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 39/70 af 9. januar 1970 om ændring
+    af forordning (EØF) nr. 1486/69 for såvidt angår oplysningerne om import- og
+    eksportlicenser for olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 39/70 della Commissione, del 9 gennaio 1970,che modifica
+    il regolamento (CEE) n. 1486/69 per quanto concerne le informazioni relative ai
+    titoli d' importazione e d' esportazione per l' olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 39/70 van de Commissie van 9 januari 1970 houdende
+    wijziging van Verordening (EEG) nr. 1486/69 ten aanzien van de mededelingen betreffende
+    de invoer- en uitvoercertificaten voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0039
+docidentifier:
+- content: EU Regulation 39/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0039
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/39/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-01-09'
+- type: implemented
+  at: '1970-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1486
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

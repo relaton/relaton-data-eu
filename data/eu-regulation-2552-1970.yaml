@@ -1,0 +1,90 @@
+---
+id: EURegulation25521970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2552/70 du Conseil, du 15 décembre 1970, modifiant
+    le prix d'achat du beurre et du lait écrémé en poudre appliqué par les organismes
+    d'intervention belge et luxembourgeois
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2552/70 des Rates vom 15. Dezember 1970 zur Änderung
+    des von den belgischen und den luxemburgischen Interventionsstellen angewandten
+    Ankaufspreises für Butter und Magermilchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2552/70 del Consiglio, del 15 dicembre 1970, che modifica
+    il prezzo di acquisto del burro e del latte scremato in polvere praticato dagli
+    organismi d'intervento belga e lussemburghese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2552/70 van de Raad van 15 december 1970 houdende
+    wijziging van de aankoopprijs voor boter en magere-melkpoeder, welke wordt toegepast
+    door het Belgische en het Luxemburgse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2552
+docidentifier:
+- content: EU Regulation 2552/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2552
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2552/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1225
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1480
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1222
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

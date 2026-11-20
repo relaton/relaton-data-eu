@@ -1,0 +1,80 @@
+---
+id: EURegulation18311968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1831/68 de la Commission, du 15 novembre 1968, modifiant
+    la version néerlandaise du règlement (CEE) n° 1097/68 relatif aux modalités
+    d'application des mesures d'intervention dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1831/68 der Kommission vom 15. November 1968 zur Änderung
+    der niederländischen Fassung der Verordnung (EWG) Nr. 1097/68 über die Durchführungsbestimmungen
+    bei Interventionsmaßnahmen auf dem Rindfleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1831/68 della Commissione, del 15 novembre 1968, che
+    modifica la versione olandese del regolamento (CEE) n. 1097/68 relativo alle modalità
+    di applicazione di misure d'intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1831/68 van de Commissie van 15 november 1968 houdende
+    wijziging van de Nederlandse tekst van Verordening (EEG) nr. 1097/68 betreffende
+    de wijze van toepassing van de interventiemaatregelen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1831
+docidentifier:
+- content: EU Regulation 1831/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1831
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1831/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-11-15'
+- type: implemented
+  at: '1968-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1097
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

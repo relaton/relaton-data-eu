@@ -1,0 +1,103 @@
+---
+id: EURegulation14701980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1470/80 of 9 June 1980 on the safeguard measures
+    provided for in the second ACP-EEC Convention
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1470/80 du Conseil, du 9 juin 1980, relatif aux mesures
+    de sauvegarde prévues par la deuxième convention ACP-CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1470/80 des Rates vom 9. Juni 1980 über die im Zweiten
+    AKP-EWG-Abkommen vorgesehenen Schutzmaßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1470/80 af 9. juni 1980 om beskyttelsesforanstaltninger
+    i henhold til den anden AVS/EØF-konvention
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 1470/80 του Συμβουλίου
+    της 9ης Ιουνίου 1980 περί των μέτρων διασφαλίσεως
+    τα οποία προβλέπονται από την δεύτερη σύμβαση
+    AKE-EOK
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1470/80 del Consiglio, del 9 giugno 1980, relativo
+    alle misure di salvaguardia previste dalla seconda convenzione ACP-CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1470/80 van de Raad van 9 juni 1980 betreffende de
+    in de Tweede ACS-EEG-Overeenkomst bedoelde vrijwaringsmaatregelen
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1470/80 del Consejo, de 9 de junio de 1980, relativo
+    a las medidas de salvaguardia previstas en el Segundo Convenio ACP-CEE
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1470
+docidentifier:
+- content: EU Regulation 1470/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1470
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1470/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-06-09'
+- type: implemented
+  at: '1980-06-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0157
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

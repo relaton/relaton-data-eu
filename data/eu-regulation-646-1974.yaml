@@ -1,0 +1,94 @@
+---
+id: EURegulation6461974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 646/74 of the Commission of 22 March 1974 amending
+    for the third time Regulation (EEC) No 320/73 as regards the determination of
+    the price of adult bovine animals on the representative markets
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 646/74 de la Commission, du 22 mars 1974, portant
+    troisième modification du règlement (CEE) n 320/73 en ce qui concerne la détermination
+    du prix des gros bovins sur les marchés représentatifs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 646/74 der Kommission vom 22. März 1974 zur dritten
+    Änderung der Verordnung (EWG) Nr. 320/73 hinsichtlich der Bestimmung der Preise
+    für ausgewachsene Rinder auf den repräsentativen Märkten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 646/74 af 22. marts 1974 om den trejde
+    ændring af forordning (EØF) nr. 320/73, for så vidt angår bestemmelse af priserne
+    for voksent kvæg på de repræsentative markeder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 646/74 della Commissione, del 22 marzo 1974, che modifica
+    per la terza volta il regolamento (CEE) n. 320/73 per quanto riguarda la determinazione
+    dei prezzi dei bovini adulti sui mercati rappresentativi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 646/74 van de Commissie van 22 maart 1974 houdende
+    derde wijziging van Verordening (EEG) nr. 320/73 betreffende de vaststelling van
+    de prijs voor volwassen runderen op de representatieve markten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0646
+docidentifier:
+- content: EU Regulation 646/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0646
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/646/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-22'
+- type: implemented
+  at: '1974-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

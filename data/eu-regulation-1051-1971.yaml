@@ -1,0 +1,74 @@
+---
+id: EURegulation10511971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1051/71 du Conseil, du 25 mai 1971, fixant, pour la
+    campagne de commercialisation 1971/1972, les majorations mensuelles du prix indicatif
+    et du prix d'intervention des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1051/71 des Rates vom 25. Mai 1971 über die Festsetzung
+    der monatlichen Zuschläge zum Richtpreis und zum Interventionspreis für Ölsaaten
+    im Wirtschaftsjahr 1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1051/71 del Consiglio, del 25 maggio 1971, che fissa
+    le maggiorazioni mensili del prezzo indicativo e del prezzo d'intervento dei semi
+    oleosi per la campagna di commercializzazione 1971/1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1051/71 van de Raad van 25 mei 1971 houdende vaststelling
+    van de maandelijkse verhogingen van de richtprijs en de interventieprijs voor
+    oliehoudende zaden voor het verkoopseizoen 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1051
+docidentifier:
+- content: EU Regulation 1051/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1051
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1051/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-25'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

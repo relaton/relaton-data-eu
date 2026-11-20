@@ -1,0 +1,71 @@
+---
+id: EURegulation21851969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2185/69 de la Commission, du 31 octobre 1969, relatif
+    à la constatation des prix des veaux et des gros bovins dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2185/69 der Kommission vom 31. Oktober 1969 über
+    die Feststellung der Preise für Kälber und ausgewachsene Rinder in der Gemeinschaft
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2185/69 della Commissione, del 31 ottobre 1969, relativo
+    alla constatazione dei prezzi dei vitelli e dei bovini adulti nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2185/69 van de Commissie van 31 oktober 1969 met
+    betrekking tot de constatering der prijzen voor kalveren en voor volwassen runderen
+    in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2185
+docidentifier:
+- content: EU Regulation 2185/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2185
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2185/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-31'
+- type: implemented
+  at: '1969-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

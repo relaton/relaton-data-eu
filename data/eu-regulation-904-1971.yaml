@@ -1,0 +1,65 @@
+---
+id: EURegulation9041971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 904/71 de la Commission, du 30 avril 1971, portant fixation
+    de la restitution à l'exportation pour les graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 904/71 der Kommission vom 30. April 1971 über die
+    Festsetzung der Erstattung bei der Ausfuhr von Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 904/71 della Commissione, del 30 aprile 1971, che
+    fissa l'importo della restituzione all'esportazione per i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 904/71 van de Commissie van 30 april 1971 houdende
+    vaststelling van de uitvoerrestitutie voor oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0904
+docidentifier:
+- content: EU Regulation 904/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0904
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/904/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

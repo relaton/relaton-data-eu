@@ -1,0 +1,70 @@
+---
+id: EURegulation9711970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 971/70 du Conseil, du 26 mai 1970, fixant le prix
+    de base et le prix d'achat pour les raisins de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 971/70 des Rates vom 26. Mai 1970 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Tafeltrauben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 971/70 del Consiglio, del 26 maggio 1970, che fissa
+    il prezzo di base e il prezzo d'acquisto per le uve da tavola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 971/70 van de Raad van 26 mei 1970 houdende vaststelling
+    van de basisprijs en de aankoopprijs voor tafeldruiven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0971
+docidentifier:
+- content: EU Regulation 971/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0971
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/971/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-26'
+- type: implemented
+  at: '1970-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

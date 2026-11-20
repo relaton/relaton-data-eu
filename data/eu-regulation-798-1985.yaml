@@ -1,0 +1,133 @@
+---
+id: EURegulation7981985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 798/85 of 26 March 1985 amending Regulation
+    (EEC) No 337/79 on the common organization of the market in wine and Regulation
+    (EEC) No 338/79 laying down special provisions relating to quality wines produced
+    in specified regions
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 798/85 du Conseil du 26 mars 1985 modifiant le règlement
+    (CEE) no 337/79 portant organisation commune du marché viti-vinicole et le règlement
+    (CEE) no 338/79 établissant des dispositions particulières relatives aux vins
+    de qualité produits dans des régions déterminées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 798/85 des Rates vom 26. März 1985 zur Änderung
+    der Verordnungen (EWG) Nr. 337/79 über die gemeinsame Marktorganisation für
+    Wein und (EWG) Nr. 338/79 zur Festlegung besonderer Vorschriften für Qualitätswein
+    bestimmter Anbaugebiete
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 798/85 af 26. marts 1985 om ændring af forordning
+    (EØF) nr. 337/79 om den fælles markedsordning for vin og forordning (EØF) nr.
+    338/79 om fastlæggelse af særlige regler for kvalitetsvine fra bestemte dyrkningsområder
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 798/85 του Συμβουλίου
+    της 26ης Μαρτίου 1985 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 337/79 περί κοινής οργανώσεως
+    της αμπελοοινικής αγοράς και του κανονισμού
+    (ΕΟΚ) αριθ. 338/79 περί καθορισμού ειδικών διατάξεων
+    σχετικών με τους οίνους ποιότητος που παράγονται
+    εντός καθορισμένων περιοχών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 798/85 del Consiglio del 26 marzo 1985 che modifica
+    il regolamento (CEE) n. 337/79 relativo all' organizzazione comune del mercato
+    vitivinicolo e il regolamento (CEE) n. 338/79 che stabilisce disposizioni particolari
+    per i vini di qualità prodotti in regioni determinate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 798/85 van de Raad van 26 maart 1985 tot wijziging
+    van de Verordeningen (EEG) nr. 337/79 houdende een gemeenschappelijke ordening
+    van de wijnmarkt en (EEG) nr. 338/79 houdende vaststelling van bijzondere bepalingen
+    betreffende in bepaalde gebieden voortgebrachte kwaliteitswijnen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 798/85 do Conselho, de 26 de Março de 1985, que
+    altera o Regulamento (CEE) n.° 337/79 que estabelece a organização comum do
+    mercado vitivinícola e o Regulamento (CEE) n.° 338/79 que estabelece disposições
+    especiais relativas aos vinhos de qualidade produzidos em regiões determinadas
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 798/85 del Consejo, de 26 de marzo de 1985, por el
+    que se modifican el Reglamento (CEE) n° 337/79 por el que se establece una organización
+    común del mercado vitivinícola y el Reglamento (CEE) n° 338/79 por el que se
+    establecen disposiciones especiales relativas a los vinos de calidad producidos
+    en regiones determinadas
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0798
+docidentifier:
+- content: EU Regulation 798/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0798
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/798/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-03-26'
+- type: implemented
+  at: '1985-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0337
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0338
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

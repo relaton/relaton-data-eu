@@ -1,0 +1,114 @@
+---
+id: EUDecision1977802
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '77/802/EEC: Council Decision of 20 December 1977 amending certain Decisions
+    adopted pursuant to Article 4 of Decision 71/66/EEC on the reform of the European
+    Social Fund'
+  type: main
+- language: fr
+  script: Latn
+  content: '77/802/CEE: Décision du Conseil, du 20 décembre 1977, modifiant certaines
+    décisions adoptées en vertu de l'' article 4 de la décision 71/66/CEE concernant
+    la réforme du Fonds social européen'
+  type: main
+- language: de
+  script: Latn
+  content: '77/802/EWG: Beschluß des Rates vom 20. Dezember 1977 zur Änderung bestimmter
+    auf Grund von Artikel 4 des Beschlusses 71/66/EWG über die Reform des Europäischen
+    Sozialfonds erlassener Beschlüsse'
+  type: main
+- language: da
+  script: Latn
+  content: '77/802/EØF: Rådets Afgørelse af 20. december 1977 om ændring af visse
+    afgørelser vedtaget i medfør af artikel 4 i afgørelse 71/66/EØF om reformen
+    af Den europæiske Socialfond'
+  type: main
+- language: el
+  script: Grek
+  content: '77/802/ΕΟΚ: Απόφαση του Συμβουλίου της 20ής
+    Δεκεμβρίου 1977 περί τροποποιήσεως ορισμένων
+    αποφάσεων που έχουν ληφθεί βάσει του άρθρου
+    4 της αποφάσεως 71/661/ΕΟΚ περί αναμορφώσεως του
+    Ευρωπαϊκού Κοινωνικού Ταμείου'
+  type: main
+- language: it
+  script: Latn
+  content: '77/802/CEE: Decisione del Consiglio, del 20 dicembre 1977, che modifica
+    talune decisioni adottate in virtù dell'' articolo 4 della decisione 71/66/CEE
+    relativa alla riforma del Fondo sociale europeo'
+  type: main
+- language: nl
+  script: Latn
+  content: '77/802/EEG: Besluit van de Raad van 20 december 1977 tot wijziging van
+    bepaalde besluiten die uit hoofde van artikel 4 van Besluit 71/66/EEG, betreffende
+    de hervorming van het Europees Sociaal Fonds zijn aangenomen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977D0802
+docidentifier:
+- content: EU Decision 1977/802
+  type: EU
+  primary: true
+- content: CELEX 31977D0802
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1977/802/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-20'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0428
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975D0459
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0206
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,111 @@
+---
+id: EURegulation13631980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1363/80 of 5 June 1980 extending Regulations
+    (EEC) No 1961/75 and (EEC) No 3066/75 on the prohibition of the use of inward
+    processing arrangements in respect of skimmed-milk powder and butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1363/80 du Conseil, du 5 juin 1980, prorogeant les
+    règlements (CEE) n° 1961/75 et (CEE) n° 3066/75 relatifs à l' exclusion du
+    régime de perfectionnement actif pour le lait écrémé en poudre et pour le
+    beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1363/80 des Rates vom 5. Juni 1980 zur Verlängerung
+    der Verordnungen (EWG) Nr. 1961/75 und (EWG) Nr. 3066/75 über den Ausschluß
+    von Magermilchpulver und Butter vom aktiven Veredelungsverkehr
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1363/80 af 5. juni 1980 om forlængelse af
+    forordning (EØF) nr. 1961/75 og (EØF) nr. 3066/75 om udelukkelse af visse mejeriprodukter
+    og af smør fra ordningen for aktiv forædling
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1363/80 τού Συμβουλίου
+    τής 5ης Ιουνίου 1980 περί παρατάσεως τών κανονισμών
+    (ΕΟΚ) αριθ. 1961/75 καί (ΕΟΚ) αριθ. 3066/75 «περί απαγορεύσεως
+    τού καθεστώτος τελειοποιήσεως πρός επανεξαγωγή
+    γιά τό αποκορυφωμένο γάλα σέ σκόνη καί τό βούτυρο»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1363/80 del Consiglio, del 5 giugno 1980, che proroga
+    i regolamento (CEE) n. 1961/75 e (CEE) n. 3066/75 relativi all' esclusione del
+    regime di perfezionamento attivo per il latte scremato in polvere e per il burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1363/80 van de Raad van 5 juni 1980 houdende verlenging
+    van de geldigheidsduur van de Verordeningen (EEG) nr. 1961/75 en (EEG) nr. 3066/75
+    met betrekking tot de uitsluiting van de regeling van het actieve veredelingsverkeer
+    voor magere-melkpoeder en voor boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1363
+docidentifier:
+- content: EU Regulation 1363/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1363
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1363/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-06-05'
+- type: implemented
+  at: '1980-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1961
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3066
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

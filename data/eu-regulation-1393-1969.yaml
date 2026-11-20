@@ -1,0 +1,91 @@
+---
+id: EURegulation13931969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1393/69 of the Council of 17 July 1969 amending Regulation
+    No 1009/67/EEC on the common organisation of the market in sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1393/69 du Conseil, du 17 juillet 1969, modifiant
+    le règlement n° 1009/67/CEE portant organisation commune de marchés dans le
+    secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1393/69 des Rates vom 17. Juli 1969 zur Änderung
+    der Verordnung Nr. 1009/67/EWG über die gemeinsame Marktorganisation für Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1393/69 af 17. juli 1969 om ændring af forordning
+    nr. 1009/67/EØF om den fælles markedsordning for sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1393/69 del Consiglio, del 17 luglio 1969, che modifica
+    il regolamento n. 1009/67/CEE relativo all' organizzazione comune dei mercati
+    nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1393/69 van de Raad van 17 juli 1969 tot wijziging
+    van Verordening nr. 1009/67/EEG houdende een gemeenschappelijke ordening der markten
+    in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1393
+docidentifier:
+- content: EU Regulation 1393/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1393
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1393/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-17'
+- type: implemented
+  at: '1969-07-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1009
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

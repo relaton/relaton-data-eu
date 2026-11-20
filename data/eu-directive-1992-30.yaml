@@ -1,0 +1,135 @@
+---
+id: EUDirective199230
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 92/30/EEC of 6 April 1992 on the supervision of credit
+    institutions on a consolidated basis
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 92/30/CEE du Conseil, du 6 avril 1992, sur la surveillance des
+    établissements de crédit sur une base consolidée
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 92/30/EWG des Rates vom 6. April 1992 über die Beaufsichtigung
+    von Kreditinstituten auf konsolidierter Basis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 92/30/EØF af 6. april 1992 om tilsyn med kreditinstitutter
+    på et konsolideret grundlag
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 92/30/ΕΟΚ του Συμβουλίου της 6ης Απριλίου
+    1992 σχετικά με την εποπτεία των πιστωτικών ιδρυμάτων
+    σε ενοποιημένη βάση
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 92/30/ETY, annettu 6 päivänä huhtikuuta 1992, luottolaitosten
+    konsolidoidusta valvonnasta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 92/30/CEE del Consiglio, del 6 aprile 1992, relativa alla vigilanza
+    su base consolidata degli enti creditizi
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 92/30/EEG van de Raad van 6 april 1992 inzake toezicht op kredietinstellingen
+    op geconsolideerde basis
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 92/30/CEE do Conselho, de 6 de Abril de 1992, relativa à fiscalização
+    das instituições de crédito numa base consolidada
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 92/30/CEE del Consejo, de 6 de abril de 1992, relativa a la supervisión
+    de las entidades de crédito de forma consolidada
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 92/30/EEG av den 6 april 1992 om gruppbaserad tillsyn
+    över kreditinstitut
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0030
+docidentifier:
+- content: EU Directive 1992/30
+  type: EU
+  primary: true
+- content: CELEX 31992L0030
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1992/30/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-04-06'
+- type: implemented
+  at: '1992-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983L0350
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989L0299
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989L0646
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989L0647
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

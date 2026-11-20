@@ -1,0 +1,118 @@
+---
+id: EURegulation591962
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'EEC: Regulation No 59 of the Council amending certain provisions of Regulation
+    No 17'
+  type: main
+- language: fr
+  script: Latn
+  content: 'CEE: Règlement n° 59 du Conseil portant modification de dispositions
+    du règlement n° 17'
+  type: main
+- language: de
+  script: Latn
+  content: 'EWG: Verordnung Nr. 59 des Rats betreffend die Änderung der Verordnung
+    Nr. 17'
+  type: main
+- language: da
+  script: Latn
+  content: 'EØF: Rådets forordning nr. 59 om ændring af forordning nr. 17'
+  type: main
+- language: el
+  script: Grek
+  content: 'ΕΟΚ Συμβούλιο: Κανονισμός αριθ. 59 περί
+    τροποποιήσεως διατάξεως του κανονισμού αριθ.
+    17'
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus N:o 59, asetuksen N:o 17 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: 'CEE: Regolamento n. 59 del Consiglio recante delle modifiche a disposizioni
+    del regolamento n. 17'
+  type: main
+- language: nl
+  script: Latn
+  content: 'EEG: Verordening N° 59 van de Raad, houdende wijziging van Verordening
+    N° 17'
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento nº 59 do Conselho que altera disposições do Regulamento
+    nº 17
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento n° 59 del Consejo por el que se modifican algunas disposiciones
+    del Reglamento n° 17
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning nr 59 om ändring av vissa bestämmelser i förordning
+    nr 17
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0059
+docidentifier:
+- content: EU Regulation 59/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0059
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/59/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-03'
+- type: implemented
+  at: '1962-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

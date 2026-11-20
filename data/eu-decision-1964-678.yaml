@@ -1,0 +1,86 @@
+---
+id: EUDecision1964678
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/678/CEE de la Commission, du 10 novembre 1964, autorisant
+    la perception de taxes compensatoires à l'importation, dans la République française,
+    de dextrines, d'amidons et fécules solubles ou torréfiées, ainsi que de parements
+    préparés et apprêts préparés, à base de matières amylacées, en provenance
+    de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '64/678/EWG: Entscheidung der Kommission vom 10. November 1964 über die
+    Erhebung von Ausgleichsabgaben bei der Einfuhr von Dextrin, löslicher und gerösteter
+    Stärke, zubereiteten Zurichtemitteln und zubereiteten Appreturen auf der Grundlage
+    von Stärke, aus verschiedenen Mitgliedstaaten in die Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '64/678/CEE: Decisione della Commissione, del 10 novembre 1964, che autorizza
+    la riscossione di tasse di compensazione all''importazione, nella Repubblica francese,
+    di destrine, amidi e fecole solubili o torrefatti, nonché di bozzime preparate
+    e appretti preparati a base di sostanze amidacee, in provenienza da taluni Stati
+    membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/678/EEG: Beschikking van de Commissie van 10 november 1964 houdende
+    machtiging tot het leggen van compenserende heffingen op de invoer in de Franse
+    Republiek van dextrine, oplosbaar of geroost zetmeel, en preparaten voor het appreteren
+    op basis van zetmeel of van zetmeelderivaten, uit bepaalde Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0678
+docidentifier:
+- content: EU Decision 1964/678
+  type: EU
+  primary: true
+- content: CELEX 31964D0678
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/678/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-10'
+- type: implemented
+  at: '1964-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963D0676
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

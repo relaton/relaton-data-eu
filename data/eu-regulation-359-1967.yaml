@@ -1,0 +1,88 @@
+---
+id: EURegulation3591967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 359/67/EEC of the Council of 25 July 1967 on the common organisation
+    of the market in rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 359/67/CEE du Conseil, du 25 juillet 1967, portant organisation
+    commune du marché du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 359/67/EWG des Rates vom 25. Juli 1967 über die gemeinsame
+    Marktorganisation für Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 359/67/EØF af 25. juli 1967 om den fælles markedsordning
+    for ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 359/67/CEE del Consiglio, del 25 luglio 1967, relativo all'
+    organizzazione comune del mercato del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 359/67/EEG van de Raad van 25 juli 1967 houdende een gemeenschappelijke
+    ordening van de rijstmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0359
+docidentifier:
+- content: EU Regulation 359/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0359
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/359/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-25'
+- type: implemented
+  at: '1967-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0016
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

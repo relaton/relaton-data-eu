@@ -1,0 +1,92 @@
+---
+id: EURegulation6081971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 608/71 of the Council of 22 March 1971 amending Regulation
+    (EEC) No 1388/70 on general rules for the classification of vine varieties
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 608/71 du Conseil, du 22 mars 1971, modifiant le règlement
+    (CEE)" n° 1388/70 concernant les règles générales relatives au classement
+    des variétés de vigne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 608/71 des Rates vom 22. März 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1388/70 über die Grundregeln für die Klassifizierung
+    der Rebsorten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 608/71 af 22. marts 1971 om ændring af forordning
+    (EØF) nr. 1388/70 om de almindelige regler for vinstoksorternes klassificering
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 608/71 del Consiglio, del 22 marzo 1971, che modifica
+    il regolamento (CEE) n. 1388/70 relativo alle norme generali per la classificazione
+    delle varietà di viti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 608/71 van de Raad van 22 maart 1971 tot wijziging
+    van Verordening (EEG) nr. 1388/70 betreffende de algemene voorschriften inzake
+    de indeling van de wijnstokrassen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0608
+docidentifier:
+- content: EU Regulation 608/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0608
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/608/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-22'
+- type: implemented
+  at: '1971-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1388
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

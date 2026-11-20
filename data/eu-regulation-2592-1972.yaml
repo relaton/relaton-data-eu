@@ -1,0 +1,96 @@
+---
+id: EURegulation25921972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2592/72 of the Commission of 8 December 1972 amending
+    Regulation (EEC) No 193/70 establishing the procedure for giving effect to measures
+    to promote the marketing of oranges and mandarins in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2592/72 de la Commission, du 8 décembre 1972, modifiant
+    le règlement (CEE) n° 193/70 établissant les modalités d' application des
+    mesures visant à promouvoir la commercialisation des oranges et mandarines communautaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2592/72 der Kommission vom 8. Dezember 1972 zur Änderung
+    der Verordnung (EWG) Nr. 193/70 mit Durchführungsbestimmungen für die Maßnahmen
+    zur Förderung der Vermarktung von Apfelsinen und Mandarinen aus der Gemeinschaftserzeugung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2592/72 af 8. december 1972 om ændring
+    af forordning (EØF) nr. 193/70 om gennemførelsesbestemmelser for foranstaltninger
+    til fremme af afsætningen af appelsiner og mandariner fra Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2592/72 della Commissione, dell' 8 dicembre 1972,
+    che modifica il regolamento (CEE) n. 193/70 che stabilisce le modalità di applicazione
+    delle misure intese a promuovere la commercializzazione delle arance e dei mandarini
+    comunitari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2592/72 van de Commissie van 8 december 1972 tot
+    wijziging van Verordening (EEG) nr. 193/70 houdende vaststelling van uitvoeringsbepalingen
+    voor de maatregelen tot bevordering van de afzet van sinaasappelen en mandarijnen
+    uit de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2592
+docidentifier:
+- content: EU Regulation 2592/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2592
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2592/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-08'
+- type: implemented
+  at: '1972-12-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0193
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation24201969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2420/69 de la Commission, du 4 décembre 1969, concernant
+    l'abrogation du règlement (CEE) n 922/68 relatif à l'application de la fixation
+    à l'avance des prélèvements pour la mélasse
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2420/69 der Kommission vom 4. Dezember 1969 zur Aufhebung
+    der Verordnung (EWG) Nr. 922/68 über die Anwendung der vorherigen Festsetzung
+    der Abschöpfung für Melasse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2420/69 della Commissione, del 4 dicembre 1969, inerente
+    all'abrogazione del regolamento (CEE) n. 922/68 relativo all'applicazione della
+    fissazione anticipata dei prelievi per il melasso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2420/69 van de Commissie van 4 december 1969 houdende
+    intrekking van Verordening (EEG) nr. 922/68 betreffende toepassing van de voorafgaande
+    vaststelling van de heffing voor melasse
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2420
+docidentifier:
+- content: EU Regulation 2420/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2420
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2420/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

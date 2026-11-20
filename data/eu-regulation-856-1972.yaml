@@ -1,0 +1,74 @@
+---
+id: EURegulation8561972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 856/72 de la Commission, du 26 avril 1972, relatif
+    à la fourniture de lait écrémé en poudre destiné à certains pays tiers à
+    titre d'aide communautaire au programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 856/72 der Kommission vom 26. April 1972 über die
+    Lieferung von Magermilchpulver an bestimmte Drittländer als Gemeinschaftshilfe
+    zugunsten des Welternährungsprogramms
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 856/72 della Commissione, del 26 aprile 1972, relativo
+    alla fornitura di latte scremato in polvere destinato a taluni paesi terzi a titolo
+    di aiuto comunitario al Programma alimentare mondiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 856/72 van de Commissie van 26 april 1972 betreffende
+    de levering van magere-melkpoeder aan bepaalde derde landen als gemeenschapshulp
+    aan het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0856
+docidentifier:
+- content: EU Regulation 856/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0856
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/856/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-04-26'
+- type: implemented
+  at: '1972-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

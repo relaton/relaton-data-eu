@@ -1,0 +1,101 @@
+---
+id: EURegulation11821977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1182/77 of 17 May 1977 opening, allocating
+    and providing for the administration of a Community tariff quota for fresh or
+    dried hazelnuts, shelled or otherwise, falling within subheading ex 08.05 G of
+    the Common Customs Tariff, originating in Turkey
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1182/77 du Conseil, du 17 mai 1977, portant ouverture,
+    répartition et mode de gestion d'un contingent tarifaire communautaire pour les
+    noisettes fraîches ou sèches, même sans leurs coques ou décortiquées, de
+    la sous-position EX 08.05 G du tarif douanier commun, originaires de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1182/77 des Rates vom 17. Mai 1977 zur Eröffnung,
+    Aufteilung und Verwaltung eines Gemeinschaftszollkontingents für Haselnüsse,
+    frisch oder getrocknet, auch ohne äußere Schalen oder enthäutet, der Tarifstelle
+    ex 08.05 G des Gemeinsamen Zolltarifs mit Ursprung in der Türkei
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1182/77 af 17. maj 1977 om åbning, fordeling
+    og forvaltning af et fællesskabstoldkontingent for hasselnødder, friske eller
+    tørrede, også afskallede, henhørende under pos. ex 08.05 G i den fælles toldtarif,
+    med oprindelse i Tyrkiet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1182/77 del Consiglio, del 17 maggio 1977, relativo
+    all'apertura, alla ripartizione e alle modalità di gestione di un contingente
+    tariffario comunitario per le nocciole fresche o secche, anche sgusciate o decorticate,
+    della sottovoce ex 08.05 G della tariffa doganale comune, originarie della Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1182/77 van de Raad van 17 mei 1977 betreffende de
+    opening, de verdeling en de wijze van beheer van een communautair tariefcontingent
+    voor hazelnoten, vers of gedroogd, ook zonder dop of schaal, al dan niet gepeld,
+    van onderverdeling ex 08.05 G van het gemeenschappelijk douanetarief, van oorsprong
+    uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1182
+docidentifier:
+- content: EU Regulation 1182/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1182
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1182/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-05-17'
+- type: implemented
+  at: '1977-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R3055
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

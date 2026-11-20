@@ -1,0 +1,84 @@
+---
+id: EURegulation6851972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 685/72 de la Commission, du 4 avril 1972, concernant
+    une adjudication permanente pour la détermination de la restitution à l'exportation
+    pour le sucre blanc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 685/72 der Kommission vom 4. April 1972 über die
+    Dauerausschreibung zur Bestimmung der Ausfuhrerstattung für Weißzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 685/72 della Commissione, del 4 aprile 1972, relativo
+    ad una gara permanente per la determinazione della restituzione all'esportazione
+    di zucchero bianco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 685/72 van de Commissie van 4 april 1972 betreffende
+    een permanente openbare inschrijving voor de bepaling van de restitutie bij uitvoer
+    van witte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0685
+docidentifier:
+- content: EU Regulation 685/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0685
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/685/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-04-04'
+- type: implemented
+  at: '1972-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1734
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0394
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

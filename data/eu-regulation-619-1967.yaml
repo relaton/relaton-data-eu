@@ -1,0 +1,79 @@
+---
+id: EURegulation6191967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 619/67/CEE du Conseil, du 26 septembre 1967, portant modification,
+    pour ce qui concerne le pain croustillant dit "Knäckebrot" des annexes I et II
+    du règlement n° 83/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 619/67/EWG des Rates vom 26. September 1967 zur Änderung
+    der Anhänge I und II der Verordnung Nr. 83/67/EWG bezüglich Knäckebrot
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 619/67/CEE del Consiglio, del 26 settembre 1967, che modifica
+    per quanto concerne il pane croccante detto «Knäckebrot», gli allegati I e
+    II del regolamento n. 83/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 619/67/EEG van de Raad van 26 september 1967 tot wijziging
+    van de bijlagen I en II van Verordening Nr. 83/67/EEG, voor wat het bros gebakken
+    brood, zogenaamd "Knäckebröd", betreft
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0619
+docidentifier:
+- content: EU Regulation 619/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0619
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/619/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-26'
+- type: implemented
+  at: '1967-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0083
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

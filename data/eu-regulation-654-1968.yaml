@@ -1,0 +1,79 @@
+---
+id: EURegulation6541968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 654/68 du Conseil, du 30 mai 1968, modifiant le règlement
+    (CEE) n° 356/68 prévoyant des mesures dérogatoires dans le secteur de la viande
+    bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 654/68 des Rates vom 30. Mai 1968 zur Änderung der
+    Verordnung (EWG) Nr. 356/68 über abweichende Maßnahmen für Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 654/68 del Consiglio, del 30 maggio 1968, che modifica
+    il regolamento (CEE) n. 356/68 che prevede misure derogatorie nel settore delle
+    carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 654/68 van de Raad van 30 mei 1968 houdende wijziging
+    van Verordening (EEG) nr. 356/68 houdende vaststelling van afwijkende maatregelen
+    in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0654
+docidentifier:
+- content: EU Regulation 654/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0654
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/654/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-30'
+- type: implemented
+  at: '1968-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0356
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

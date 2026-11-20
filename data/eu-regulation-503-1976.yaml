@@ -1,0 +1,94 @@
+---
+id: EURegulation5031976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 503/76 of 5 March 1976 supplementing Regulation
+    (EEC) No 616/72 on detailed rules for the application of export refunds and levies
+    for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 503/76 de la Commission, du 5 mars 1976, complétant
+    le règlement (CEE) n° 616/72 relatif aux modalités d' application des restitutions
+    et prélèvements à l' exportation d' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 503/76 der Kommission vom 5. März 1976 zur Ergänzung
+    der Verordnung (EWG) Nr. 616/72 mit Durchführungsbestimmungen für Erstattungen
+    und Abschöpfungen bei der Ausfuhr von Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 503/76 af 5. marts 1976 om tillæg
+    til forordning (EØF) nr. 616/72 om gennemførelsesbestemmelser for restitutioner
+    og afgifter ved udførslen af olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 503/76 della Commissione, del 5 marzo 1976, che completa
+    il regolamento (CEE) n. 616/72 relativo alle modalità di applicazione delle restituzioni
+    e dei prelievi all' esportazione di olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 503/76 van de Commissie van 5 maart 1976 tot aanvulling
+    van Verordening (EEG) nr. 616/72 betreffende de wijze van toepassing van de restituties
+    en de heffingen bij uitvoer van olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0503
+docidentifier:
+- content: EU Regulation 503/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0503
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/503/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-05'
+- type: implemented
+  at: '1976-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0616
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

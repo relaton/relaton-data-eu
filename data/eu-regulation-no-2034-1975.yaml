@@ -1,0 +1,93 @@
+---
+id: EURegulationNo20341975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2034/75 of the Commission of 5 August 1975 repealing
+    Regulation No 587/67/EEC on the fixing of the export refunds on cereals and flour
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2034/75 de la Commission, du 5 août 1975, portant
+    abrogation du règlement n° 587/67/CEE relatif à la fixation de la restitution
+    à l'exportation des céréales et farines
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2034/75 der Kommission vom 5. August 1975 zur Aufhebung
+    der Verordnung Nr. 587/67/EWG über die Festsetzung der Erstattung für die Ausfuhr
+    von Getreide und Mehl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2034/75 af 5. august 1975 om ophævelse
+    af forordning nr. 587/67/EØF om fastsættelse af eksportrestitutionen for korn
+    og mel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2034/75 della Commissione, del 5 agosto 1975, che
+    abroga il regolamento n. 587/67/CEE relativo alla fissazione della restituzione
+    all'esportazione di cereali e farine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2034/75 van de Commissie van 5 augustus 1975 tot
+    intrekking van Verordening nr. 587/67/EEG houdende vaststelling van de restitutie
+    bij uitvoer van granen en meel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2034
+docidentifier:
+- content: EU Regulation No 2034/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2034
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2034/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-05'
+- type: implemented
+  at: '1975-08-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0587
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

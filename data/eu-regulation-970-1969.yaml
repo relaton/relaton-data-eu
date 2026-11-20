@@ -1,0 +1,74 @@
+---
+id: EURegulation9701969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 970/69 de la Commission, du 28 mai 1969, modifiant
+    le règlement n° 1052/67/CEE en ce qui concerne les certificats d'exonération
+    de prélèvement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 970/69 der Kommission vom 28. Mai 1969 zur Änderung
+    der Verordnung Nr. 1052/67/EWG hinsichtlich der Bescheinigungen für die Befreiung
+    von der Abschöpfung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 970/69 della Commissione, del 28 maggio 1969, che
+    modifica il regolamento n. 1052/67/CEE per quanto concerne i titoli di esonero
+    dal prelievo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 970/69 van de Commissie van 28 mei 1969 houdende
+    wijziging van Verordening nr. 1052/67/EEG met betrekking tot de certificaten van
+    vrijstelling van heffing
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0970
+docidentifier:
+- content: EU Regulation 970/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0970
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/970/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-28'
+- type: implemented
+  at: '1969-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

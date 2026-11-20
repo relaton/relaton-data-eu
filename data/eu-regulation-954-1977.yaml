@@ -1,0 +1,95 @@
+---
+id: EURegulation9541977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 954/77 of 4 May 1977 amending Regulation
+    (EEC) No 349/73 on the sale at reduced prices of intervention butter for direct
+    consumption as concentrated butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 954/77 de la Commission, du 4 mai 1977, modifiant
+    le règlement (CEE) n° 349/73 relatif à l' écoulement à prix réduit de beurre
+    d' intervention destiné à la consommation directe sous forme de beurre concentré
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 954/77 der Kommission vom 4. Mai 1977 zur Änderung
+    der Verordnung (EWG) Nr. 349/73 über den Absatz von Butter zu herabgesetzten
+    Preisen aus den Beständen der Interventionsstellen für den direkten Verbrauch
+    in Form von Butterreinfett
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 954/77 af 4. maj 1977 om ændring af
+    forordning (EØF) nr. 349/73 om afsætning til nedsat pris af interventionssmør,
+    bestemt for umiddelbart forbrug i form af koncentreret smør
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 954/77 della Commissione, del 4 maggio 1977, che modifica
+    il regolamento (CEE) n. 349/73 relativo allo smaltimento a prezzo ridotto di burro
+    d' intervento destinato al consumo diretto sotto forma di burro concentrato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 954/77 van de Commissie van 4 mei 1977 houdende wijziging
+    van Verordening (EEG) nr. 349/73 betreffende de afzet tegen verlaagde prijs van
+    interventieboter bestemd voor onmiddellijk verbruik in de vorm van boterconcentraat
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0954
+docidentifier:
+- content: EU Regulation 954/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0954
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/954/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-05-04'
+- type: implemented
+  at: '1977-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0349
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,95 @@
+---
+id: EURegulation18511974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1851/74 of the Commission of 17 July 1974 amending
+    Regulation (EEC) No 1295/74 as regards the quantities of beef and veal to be used
+    in producing preserved meat for intervention storage
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1851/74 de la Commission, du 17 juillet 1974, modifiant
+    le règlement (CEE) n° 1295/74 en ce qui concerne les quantités de viande bovine
+    mises en oeuvre pour la fabrication de conserves stockées en intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1851/74 der Kommission vom 17. Juli 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1295/74 über die Rindfleischmengen, die aus den Interventionsbeständen
+    zu Konserven verarbeitet werden
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1851/74 af 17. juli 1974 om ændring
+    af forordning (EØF) nr. 1295/74 for så vidt angår de mængder oksekød, oplagret
+    hos interventionsorganerne, der skal anvendes til konservesfremstilling
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1851/74 della Commissione, del 17 luglio 1974, che
+    modifica il regolamento (CEE) n. 1295/74 per quanto concerne le quantità di carni
+    bovine messe in opera per la fabbricazione di conserve ammassate per intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1851/74 van de Commissie van 17 juli 1974 houdende
+    wijziging van Verordening (EEG) nr. 1295/74 met betrekking tot de hoeveelheden
+    rundvlees uit de interventievoorraden die voor de vervaardiging van conserven
+    worden gebruikt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1851
+docidentifier:
+- content: EU Regulation 1851/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1851
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1851/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-17'
+- type: implemented
+  at: '1974-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1295
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

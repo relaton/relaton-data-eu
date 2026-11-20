@@ -1,0 +1,80 @@
+---
+id: EURegulationNo20391970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2039/70 de la Commission, du 12 octobre 1970, modifiant
+    le règlement (CEE) n° 1680/70 relatif à une adjudication permanente de lait
+    écrémé en poudre détenu par les organismes d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2039/70 der Kommission vom 12. Oktober 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1680/70 über die Dauerausschreibung von Magermilchpulver
+    aus Beständen der Interventionsstellen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2039/70 della Commissione, del 12 ottobre 1970, che
+    modifica il regolamento (CEE) n. 1680/70 relativo ad una gara permanente per il
+    latte scremato in polvere in possesso degli organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2039/70 van de Commissie van 12 oktober 1970 houdende
+    wijziging van Verordening (EEG) nr. 1680/70 betreffende een permanente verkoop
+    bij inschrijving van magere-melkpoeder in het bezit van de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2039
+docidentifier:
+- content: EU Regulation No 2039/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2039
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2039/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-12'
+- type: implemented
+  at: '1970-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1680
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

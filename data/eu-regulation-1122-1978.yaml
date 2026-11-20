@@ -1,0 +1,136 @@
+---
+id: EURegulation11221978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1122/78 of 22 May 1978 amending Regulation
+    (EEC) No 2511/69 laying down special measures for improving the production and
+    marketing of Community citrus fruit and Regulation (EEC) No 1035/72 on the common
+    organization of the market in fruit and vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1122/78 du Conseil, du 22 mai 1978, modifiant le règlement
+    (CEE) n° 2511/69 prévoyant des mesures spéciales en vue de l' amélioration
+    de la production et de la commercialisation dans le secteur des agrumes communautaires
+    et le règlement (CEE) n° 1035/72 portant organisation commune des marchés dans
+    le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1122/78 des Rates vom 22. Mai 1978 zur Änderung der
+    Verordnung (EWG) Nr. 2511/69 über Sondermaßnahmen zur Verbesserung der Erzeugung
+    und Vermarktung von Zitrusfrüchten der Gemeinschaft sowie der Verordnung (EWG)
+    Nr. 1035/72 über eine gemeinsame Marktorganisation für Obst und Gemüse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1122/78 af 22. maj 1978 om ændring af forordning
+    (EØF) nr. 2511/69 om særlige foranstaltninger til forbedring af produktionen
+    og afsætning af citrusfrugter produceret i Fællesskabet og forordning (EØF)
+    nr. 1035/72 om den fælles markedsordning for frugt og grønsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 1122/78 του Συμβουλίου
+    της 22ας Μαρτίου 1978 περί τροποποιήσεως του κανονισμού
+    (EOK) αριθ. 2511/69 περί ειδικών μέτρων για τη βελτίωση
+    της παραγωγής και της εμπορίας στον τομέα των
+    κοινοτικών εσπεριδοειδών και του κανονισμού
+    (EOK) αριθ. 1035/72 περί κοινής οργανώσεως αγοράς
+    στον τομέα των οπωροκηπευτικών
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 1122/78 annettu 22 päivänä toukokuuta 1978
+    erityistoimenpiteistä yhteisön sitrushedelmäalan tuotannon ja kaupan pitämisen
+    parantamiseksi annetun asetuksen (ETY) N:o 2511/69 ja hedelmä- ja vihannesalan
+    yhteisestä markkinajärjestelystä annetun asetuksen (ETY) N:o 1035/72 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1122/78 del Consiglio, del 22 maggio 1978, recante
+    modifica del regolamento (CEE) n. 2511/69, che prevede misure speciali per il
+    miglioramento della produzione e della commercializzazione nel settore degli agrumi
+    comunitari e del regolamento (CEE) n. 1035/72, relativo all' organizzazione comune
+    dei mercati nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1122/78 van de Raad van 22 mei 1978 tot wijziging
+    van Verordening (EEG) nr. 2511/69 houdende bijzondere maatregelen voor de verbetering
+    van de produktie en de afzet van citrusvruchten in de Gemeenschap en van Verordening
+    (EEG) nr. 1035/72 houdende een gemeenschappelijke ordening der markten in de sector
+    groenten en fruit
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 1122/78 av den 22 maj 1978 om ändring av
+    förordning (EEG) nr 2511/69 om särskilda åtgärder för att förbättra produktionen
+    och saluföringen av citrusfrukter från gemenskapen och förordning (EEG) nr
+    1035/72 om den gemensamma organisationen av marknaden för frukt och grönsaker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1122
+docidentifier:
+- content: EU Regulation 1122/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1122
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1122/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-22'
+- type: implemented
+  at: '1978-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2511
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1035
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

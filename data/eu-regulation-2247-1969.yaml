@@ -1,0 +1,80 @@
+---
+id: EURegulation22471969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2247/69 de la Commission, du 12 novembre 1969, modifiant
+    le règlement n° 473/67/CEE en ce qui concerne la durée de validité des certificats
+    d'exportation pour certains produits transformés du maïs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 22247/69 der Kommission vom 12. November 1969 zur
+    Änderung der Verordnung Nr. 473/67/EWG hinsichtlich der Geltungsdauer der Ausfuhrlizenzen
+    für bestimmte Maisverarbeitungserzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2247/69 della Commissione, del 12 novembre 1969, che
+    modifica il regolamento n. 473/67/CEE per quanto concerne la durata di validità
+    dei titoli d'esportazione per alcuni prodotti trasformati a base di granturco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2247/69 van de Commissie van 12 november 1969 houdende
+    wijziging van Verordening nr. 473/67/EEG voor wat betreft de geldigheidsduur van
+    de uitvoercertificaten voor bepaalde op basis van maïs verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2247
+docidentifier:
+- content: EU Regulation 2247/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2247
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2247/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-12'
+- type: implemented
+  at: '1969-11-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0473
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

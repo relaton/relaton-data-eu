@@ -1,0 +1,138 @@
+---
+id: EURegulation11171983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1117/83 of 6 May 1983 amending Regulations
+    (EEC) No 368/77 and (EEC) No 443/77 as regards the conditions for the release
+    of the processing security for skimmed-milk powder
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1117/83 de la Commission du 6 mai 1983 modifiant les
+    règlements (CEE) no 368/77 et (CEE) no 443/77 en ce qui concerne les conditions
+    de libération de la caution de transformation pour le lait écrémé en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1117/83 der Kommission vom 6. Mai 1983 zur Änderung
+    der Verordnungen (EWG) Nr. 368/77 und (EWG) Nr. 443/77 hinsichtlich der Bedingungen
+    für die Freigabe der Verarbeitungskaution bei Magermilchpulver
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1117/83 af 6. maj 1983 om ændring
+    af forordning (EØF) nr. 368/77 og (EØF) nr. 443/77 for så vidt angår betingelserne
+    for frigivelse af forarbejdningssikkerheden for skummetmælkspulver
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1117/83 της Επιτροπής
+    της 6ης Μαΐου 1983 περί τροποποίησης των κανονισμών
+    (ΕΟΚ) αριθ. 368/77 και (ΕΟΚ) αριθ. 443/77 όσον αφορά
+    τους όρους αποδέσμευσης της εγγύησης μεταποίησης
+    για το αποβουτυρωμένο γάλα σε σκόνη
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (ETY) N:o 1117/83, annettu 6 päivänä toukokuuta 1983,
+    asetusten (ETY) N:o 368/77 ja (ETY) N:o 443/77 muuttamisesta rasvattoman maitojauheen
+    jalostusvakuuden vapauttamisen edellytysten osalta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1117/83 della Commissione del 6 maggio 1983 che modifica
+    il regolamento (CEE) n. 368/77 e (CEE) n. 443/77 per quanto riguarda le condizioni
+    di svincolo della cauzione di tasformazione per il latte scremato in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1117/83 van de Commissie van 6 mei 1983 tot wijziging
+    van de Verordeningen (EEG) nr. 368/77 en (EEG) nr. 443/77 ten aanzien van de voorwaarden
+    voor het vrijgeven van de verwerkingswaarborg voor magere-melkpoeder
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 1117/83 da Comissão, de 6 de Maio de 1983, que altera
+    os Regulamentos (CEE) nº 368/77 e (CEE) nº 443/77 no que diz respeito às condições
+    de liberação da caução de transformação para o leite em pó desnatado
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1117/83 de la Comisión, de 6 de mayo de 1983, por
+    el que se modifican los Reglamentos (CEE) n° 368/77 y (CEE) n° 443/77 en lo
+    referente a las condiciones de devolución de la fianza de transformación para
+    la leche desnatada en polvo
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EEG) nr 1117/83 av den 6 maj 1983 om ändring
+    av förordningarna (EEG) nr 368/77 och (EEG) nr 443/77 vad avser villkor för
+    frisläppande av bearbetningssäkerheten för skummjölkspulver
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1117
+docidentifier:
+- content: EU Regulation 1117/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1117
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1117/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-05-06'
+- type: implemented
+  at: '1983-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0368
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0443
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

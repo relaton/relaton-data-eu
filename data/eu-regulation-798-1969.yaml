@@ -1,0 +1,69 @@
+---
+id: EURegulation7981969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 798/69 de la Commission, du 29 avril 1969, annulant
+    l'adjudication prévue au règlement (CEE) n 578/69 concernant certains fromages
+    détenus par l'organisme d'intervention italien
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 798/69 der Kommission vom 29. April 1969 zur Aufhebung
+    der in der Verordnung (EWG) Nr. 578/69 vorgesehenen Ausschreibung betreffend Käse
+    aus den Beständen der italienischen Interventionsstelle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 798/69 della Commissione, del 29 aprile 1969, che
+    annulla l'asta prevista nel regolamento (CEE) n. 578/69 per quanto concerne alcuni
+    formaggi in possesso dell'organismo d'intervento italiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 798/69 van de Commissie van 29 april 1969 houdende
+    annulering van de in Verordening (EEG) nr. 578/69 bedoelde inschrijving voor bepaalde
+    kazen in het bezit van het Italiaanse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0798
+docidentifier:
+- content: EU Regulation 798/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0798
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/798/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

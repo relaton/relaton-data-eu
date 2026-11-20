@@ -1,0 +1,85 @@
+---
+id: EURegulation7131970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 713/70 du Conseil, du 20 avril 1970, abrogeant les
+    règlements (CEE) n° 1541/69 et 1542/69 relatifs aux importations des agrumes
+    d'Espagne et d'Israël
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 713/70 des Rates vom 20. April 1970 zur Aufhebung
+    der Verordnungen (EWG) Nr. 1541/69 und Nr. 1542/69 über die Einfuhr von Zitrusfrüchten
+    aus Spanien und Israel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 713/70 del Consiglio, del 20 aprile 1970, che abroga
+    i regolamenti (CEE) n. 1541/69 e n. 1542/69 relativi alle importazioni degli agrumi
+    originari della Spagna e d'Israele
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 713/70 van de Raad van 20 april 1970 tot intrekking
+    van de Verordeningen (EEG) nrs. 1541/69 en 1542/69 betreffende de invoer van citrusvruchten
+    uit Spanje en Israël
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0713
+docidentifier:
+- content: EU Regulation 713/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0713
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/713/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-20'
+- type: implemented
+  at: '1970-05-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1541
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1542
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation3671978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 367/78 of 22 February 1978 amending Regulation
+    (EEC) No 232/75 on the sale of butter at reduced prices for use in the manufacture
+    of pastry products and ice-cream
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 367/78 de la Commission, du 22 février 1978, modifiant
+    le règlement (CEE) n° 232/75 relatif à la vente à prix réduit de beurre destiné
+    à la fabrication de pâtisserie et de glaces alimentaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 367/78 der Kommission vom 22. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 232/75 über den Verkauf von Butter zu herabgesetzten
+    Preisen für die Herstellung von Backwaren und Speiseeis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 367/78 af 22. februar 1978 om ændring
+    af forordning (EØF) nr. 232/75 om salg til nedsat pris af smør beregnet til
+    fremstilling af konditorvarer og konsumis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 367/78 della Commissione, del 22 febbraio 1978, che
+    modifica il regolamento (CEE) n. 232/75 relativo alla vendita a prezzo ridotto
+    di burro destinato alla fabbricazione di prodotti della pasticceria e di gelati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 367/78 van de Commissie van 22 februari 1978 houdende
+    wijziging van Verordening (EEG) nr. 232/75 betreffende de verkoop tegen verlaagde
+    prijs van boter bestemd voor de vervaardiging van banketbakkerswerk en consumptie-ijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0367
+docidentifier:
+- content: EU Regulation 367/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0367
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/367/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-22'
+- type: implemented
+  at: '1978-02-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0232
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

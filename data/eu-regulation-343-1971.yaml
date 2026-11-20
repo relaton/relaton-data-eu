@@ -1,0 +1,67 @@
+---
+id: EURegulation3431971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 343/71 de la Commission, du 17 février 1971, fixant
+    les restitutions à l'exportation pour le sucre blanc et le sucre brut en l'état
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 343/71 der Kommission vom 17. Februar 1971 zur Festsetzung
+    der Erstattung bei der Ausfuhr in unverändertem Zustand für WeiDzucker und Rohzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 343/71 della Commissione, del 17 febbraio 1971, che
+    fissa le restituzioni all'esportazione per lo zucchero bianco e per lo zucchero
+    greggio allo stato naturale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 343/71 van de Commissie van 17 februari 1971 houdende
+    vaststelling van de restituties bij de uitvoer van witte en ruwe suiker in onveranderde
+    vorm
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0343
+docidentifier:
+- content: EU Regulation 343/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0343
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/343/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

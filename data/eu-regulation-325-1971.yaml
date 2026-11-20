@@ -1,0 +1,90 @@
+---
+id: EURegulation3251971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 325/71 of the Commission of 15 February 1971 on detailed
+    rules for the application of export refunds on wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 325/71 de la Commission, du 15 février 1971, portant
+    modalités d' applications des restitutions à l' exportation dans le secteur
+    viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 325/71 der Kommission vom 15. Februar 1971 über die
+    Durchführungsvorschriften für die Ausfuhrerstattungen im Weinsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 325/71 af 15. februar 1971 om de nærmere
+    regler for anvendelsen af eksportrestitutioner inden for vinsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 325/71 della Commissione, del 15 febbraio 1971, che
+    fissa le modalità di applicazione delle restituzioni all' esportazione nel settore
+    vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 325/71 van de Commissie van 15 februari 1971 houdende
+    uitvoeringsbepalingen inzake de verlening van restituties bij uitvoer in de wijnbouwsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0325
+docidentifier:
+- content: EU Regulation 325/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0325
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/325/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-15'
+- type: implemented
+  at: '1971-02-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1041
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

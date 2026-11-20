@@ -1,0 +1,94 @@
+---
+id: EURegulation28061977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2806/77 of 12 December 1977 amending Regulation
+    (EEC) No 1169/77 as regards the exchange rates applicable in respect of the 1976
+    tobacco crop
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2806/77 du Conseil, du 12 décembre 1977, modifiant
+    le règlement (CEE) n° 1169/77 en ce qui concerne les taux de change applicables
+    pour la récolte de tabac 1976
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2806/77 des Rates vom 12. Dezember 1977 zur Änderung
+    der Verordnung (EWG) Nr. 1169/77 bezüglich der für die Tabakernte 1976 anzuwendenden
+    Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2806/77 af 12. december 1977 om ændring
+    af forordning (EØF) nr. 1169/77 for så vidt angår de omregningskurser, der
+    anvendes for tobakshøsten 1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2806/77 del Consiglio, del 12 dicembre 1977, che modifica
+    il regolamento (CEE) n. 1169/77 per quanto riguarda i tassi di cambio applicabili
+    per il tabacco del raccolto 1976
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2806/77 van de Raad van 12 december 1977 tot wijziging
+    van Verordening (EEG) nr. 1169/77 ten aanzien van de voor de tabaksoogst 1976
+    geldende wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2806
+docidentifier:
+- content: EU Regulation 2806/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2806
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2806/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-12'
+- type: implemented
+  at: '1977-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1169
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

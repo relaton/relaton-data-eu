@@ -1,0 +1,99 @@
+---
+id: EURegulation9881973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 988/73 of the Council of 9 April 1973 amending Regulation
+    No 146/67/EEC as regards the provisions for calculating the levy and the sluice
+    gate prices for certain slaughtered ducks
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 988/73 du Conseil, du 9 avril 1973, modifiant le règlement
+    n° 146/67/CEE en ce qui concerne les règles pour le calcul du prélèvement
+    et du prix d'écluse applicables à certaines catégories de canards abattus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 988/73 des Rates vom 9. April 1973 zur Änderung der
+    Verordnung Nr. 146/67/EWG hinsichtlich der Vorschriften für die Berechnung der
+    Abschöpfung und des Einschleusungspreises für bestimmte geschlachtete Enten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 988/73 af 9. april 1973 om ændring af forordning
+    nr. 146/67/EØF for så vidt angår reglerne for beregning af importafgift og
+    slusepris for visse slagtede ænder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 988/73 del Consiglio, del 9 aprile 1973, che modifica
+    il regolamento n. 146/67/CEE per quanto riguarda le norme per il calcolo del prelievo
+    e del prezzo limite applicabili a talune categorie di anatre macellate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 988/73 van de Raad van 9 april 1973 tot wijziging
+    van Verordening nr. 146/67/EEG voor wat betreft de voorschriften voor de berekening
+    van de heffing en de sluisprijs voor bepaalde categorieën geslachte eenden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0988
+docidentifier:
+- content: EU Regulation 988/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0988
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/988/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-09'
+- type: implemented
+  at: '1973-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0146
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0001
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

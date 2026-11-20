@@ -1,0 +1,109 @@
+---
+id: EURegulation6001984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 600/84 of 5 March 1984 amending Regulation
+    (EEC) No 3746/83 laying down for 1984 certain measures for the conservation and
+    management of fishery resources applicable to vessels flying the flag of Norway
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 600/84 du Conseil du 5 mars 1984 modifiant le règlement
+    (CEE) no 3746/83 fixant, pour l' année 1984, certaines mesures de conservation
+    et de gestion des ressources de pêche applicables aux navires battant pavillon
+    de la Norvège
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 600/84 des Rates vom 5. März 1984 zur Änderung der
+    Verordnung (EWG) Nr. 3746/83 zur Festlegung von Maßnahmen zur Erhaltung und Bewirtschaftung
+    der Fischbestände gegenüber Schiffen unter norwegischer Flagge für 1984
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 600/84 af 5. marts 1984 om ændring af forordning
+    (EØF) nr. 3746/83 om fastsættelse for 1984 af visse foranstaltninger til bevarelse
+    og forvaltning af fiskeressourcerne, som skal finde anvendelse på fartøjer,
+    der fører norsk flag
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 600/84 του Συμβουλίου
+    της 5ης Μαρτίου 1984 που τροποποιεί τον κανονισμό
+    (ΕΟΚ) αριθ. 3746/83 περί καθορισμού, για το έτος
+    1984, ορισμένων μέτρων διατηρήσεως και διαχειρίσεως
+    των αλιευτικών πόρων που εφαρμόζονται σε σκάφη
+    υπό νορβηγική σημαία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 600/84 del Consiglio del 5 marzo 1984 che modifica
+    il regolamento (CEE) n. 3746/83 che stabilisce, per il 1984, talune misure di
+    conservazione e di gestione delle risorse ittiche da applicare alle navi battenti
+    bandiera norvegese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 600/84 van de Raad van 5 maart 1984 tot wijziging
+    van Verordening (EEG) nr. 3746/83 tot vaststelling voor 1984 van bepaalde maatregelen
+    voor de instandhouding en het beheer van de visbestanden, van toepassing op vaartuigen
+    die de vlag van Noorwegen voeren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R0600
+docidentifier:
+- content: EU Regulation 600/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R0600
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/600/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-03-05'
+- type: implemented
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R3746
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

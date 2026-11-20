@@ -1,0 +1,104 @@
+---
+id: EURegulation5931979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 593/79 of 26 March 1979 drawing up the list
+    of regions in which production aid for hops is granted only to recognized producer
+    groups
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 593/79 du Conseil, du 26 mars 1979, arrêtant la liste
+    des régions dans lesquelles l' aide à la production de houblon n' est octroyée
+    qu' aux groupements reconnus de producteurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 593/79 des Rates vom 26. März 1979 zur Festlegung
+    des Verzeichnisses der Gebiete, in denen die Produktionsbeihilfe für Hopfen nur
+    anerkannten Erzeugergemeinschaften gewährt wird
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 593/79 af 26. marts 1979 om opstilling af
+    en liste over områder, hvor producentstøtten vedrørende humle kun ydes til
+    anerkendte producentsammenslutninger
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 593/79 του Συμβουλίου
+    της 26ης Μαρτίου 1979 περί καθορισμού του πίνακα
+    των περιοχών στις οποίες η ενίσχυση στην παραγωγή
+    λυκίσκου χορηγείται μόνο στις αναγνωρισμένες
+    ομάδες παραγωγών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 593/79 del Consiglio, del 26 marzo 1979, che stabilisce
+    l' elenco delle regioni nelle quali l' aiuto alla produzione di luppolo è concesso
+    unicamente alle associazioni riconosciute di produttori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 593/79 van de Raad van 26 maart 1979 tot vaststelling
+    van de lijst van de streken waar de steun voor de produktie van hop alleen aan
+    de erkende producentengroeperingen wordt toegekend
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0593
+docidentifier:
+- content: EU Regulation 593/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0593
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/593/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-26'
+- type: implemented
+  at: '1979-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R0708
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

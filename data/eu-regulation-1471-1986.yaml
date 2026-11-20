@@ -1,0 +1,122 @@
+---
+id: EURegulation14711986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1471/86 of 13 May 1986 amending Regulations
+    (EEC) No 1488/85 and (EEC) No 465/86 fixing the amounts of aid granted for seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1471/86 du Conseil du 13 mai 1986 modifiant les règlements
+    (CEE) n° 1488/85 et (CEE) n° 465/86 fixant les montants de l' aide accordée
+    dans le secteur des semences
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1471/86 des Rates vom 13. Mai 1986 zur Änderung der
+    Verordnungen (EWG) Nr. 1488/85 und (EWG) Nr. 465/86 zur Festsetzung der Beihilfen
+    für Saatgut
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1471/86 af 13. maj 1986 om ændring af forordning
+    (EØF) nr. 1488/85 og (EØF) nr. 465/86 om fastsættelse af støttebeløbene for
+    frø
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1471/86 του Συμβουλίου
+    της 13ης Μαΐου 1986 για την τροποποίηση τω κανονισμών
+    (ΕΟΚ) αριθ. 1488/85 και (ΕΟΚ) αριθ. 465/86 που καθορίζουν
+    τα ποσά των ενισχύσεων που χορηγούνται στον
+    τομέα των σπόρων προς σπορά
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1471/86 del Consiglio del 13 maggio 1986 che modifica
+    i regolamenti (CEE) n. 1488/85 e (CEE) n. 465/86 che fissano gli importi dell'
+    aiuto concesso nel settore delle sementi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1471/86 van de Raad van 13 mei 1986 houdende wijziging
+    van de Verordening (EEG) nr. 1488/85 en (EEG) nr. 465/86 tot vaststelling van
+    de steunbedragen in de sector zaaizaad
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1471/86 do Conselho de 13 de Maio de 1986, que altera
+    os Regulamentos (CEE) n.° 1488/85 e (CEE) n.° 465/86 que fixam os montantes
+    da ajuda concedida no sector das sementes
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1471/86 del Consejo de 13 de mayo de 1986 que modifica
+    los Reglamentos (CEE) n° 1488/85 y n° 465/86 por los que se fijan los importes
+    de la ayuda concedida en el sector de las semillas
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R1471
+docidentifier:
+- content: EU Regulation 1471/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R1471
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/1471/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-05-13'
+- type: implemented
+  at: '1986-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R1488
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31986R0465
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

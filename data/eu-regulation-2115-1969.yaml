@@ -1,0 +1,74 @@
+---
+id: EURegulation21151969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2115/69 du Conseil, du 28 octobre 1969, fixant les
+    prix indicatifs et le prix d'intervention pour l'huile d'olive, pour la campagne
+    de commercialisation 1969/70
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2115/69 des Rates vom 28. Oktober 1969 zur Festsetzung
+    der Richtpreise und des Interventionspreises für Olivenöl für das Wirtschaftsjahr
+    1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2115/69 del Consiglio, del 28 ottobre 1969, che fissa
+    i prezzi indicativi e il prezzo d'intervento dell'olio d'oliva per la campagna
+    di commercializzazione 1969/1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2115/69 van de Raad van 28 oktober 1969 houdende
+    vaststelling van de richtprijzen en de interventieprijs voor olijfolie voor het
+    verkoopseizoen 1969/1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2115
+docidentifier:
+- content: EU Regulation 2115/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2115
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2115/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-28'
+- type: implemented
+  at: '1969-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

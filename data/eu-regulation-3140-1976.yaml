@@ -1,0 +1,94 @@
+---
+id: EURegulation31401976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3140/76 of 21 December 1976 amending Regulation
+    (EEC) No 1162/76 on measures designed to adjust wine-growing potential to market
+    requirements
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3140/76 du Conseil, du 21 décembre 1976, modifiant
+    le règlement (CEE) n° 1162/76 portant des mesures visant à adapter le potentiel
+    viticole aux besoins du marché
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3140/76 des Rates vom 21. Dezember 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1162/76 über Maßnahmen zur Anpassung des Weinbaupotentials
+    an die Marktbedürfnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3140/76 af 21. december 1976 om ændring
+    af forordning (EØF) nr. 1162/76 om foranstaltninger med henblik på at tilpasse
+    vinproduktionskapaciteten til markedets behov
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3140/76 del Consiglio, del 21 dicembre 1976, che modifica
+    il regolamento (CEE) n. 1162/76, recante misure intese ad adeguare il potenziale
+    viticolo alle esigenze del mercato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3140/76 van de Raad van 21 december 1976 tot wijziging
+    van Verordening (EEG) nr. 1162/76 houdende maatregelen tot aanpassing van het
+    wijnbouwpotentieel aan de behoeften van de markt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R3140
+docidentifier:
+- content: EU Regulation 3140/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R3140
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/3140/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-21'
+- type: implemented
+  at: '1976-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1162
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

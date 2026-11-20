@@ -1,0 +1,77 @@
+---
+id: EURegulation1611974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 161/74 of the Commission of 22 January 1974 fixing
+    the average producer prices for wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 161/74 de la Commission, du 22 janvier 1974, fixant
+    les prix moyens à la production dans le secteur du vin
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 161/74 der Kommission vom 22. Januar 1974 zur Festsetzung
+    der durchschnittlichen Erzeugerpreise für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 161/74 af 22. januar 1974 om fastsættelse
+    af de gennemsnitlige produktionspriser for vin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 161/74 della Commissione, del 22 gennaio 1974, che
+    fissa i prezzi medi alla produzione nel settore del vino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 161/74 van de Commissie van 22 januari 1974 houdende
+    vaststelling van de gemiddelde produktieprijzen in de sector wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0161
+docidentifier:
+- content: EU Regulation 161/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0161
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/161/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-01-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

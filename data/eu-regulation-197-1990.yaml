@@ -1,0 +1,130 @@
+---
+id: EURegulation1971990
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 197/90 of 17 January 1990 amending Council
+    Regulation (EEC) No 3626/82 on the implementation in the Community of the Convention
+    on international trade in endangered species of wild fauna and flora
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 197/90 de la Commission du 17 janvier 1990 modifiant
+    le règlement (CEE) n° 3626/82 du Conseil relatif à l'application dans la Communauté
+    de la convention sur le commerce international des espèces de faune et de flore
+    sauvages menacées d'extinction
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 197/90 DER KOMMISSION vom 17. Januar 1990 zur Änderung
+    der Verordnung (EWG) Nr. 3626/82 des Rates zur Anwendung des Übereinkommens über
+    den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen
+    in der Gemeinschaft #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 197/90 af 17. januar 1990 om ændring
+    af Rådets forordning (EØF) nr. 3626/82 om gennemførelse i Fællesskabet af
+    Konventionen om International Handel med Udryddelsestruede Vilde Dyr og Planter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 197/90 της Επιτροπής
+    της 17ης Ιανουαρίου 1990 για τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 3626/82 του Συμβουλίου για την εφαρμογή
+    στην Κοινότητα της σύμβασης για το διεθνές
+    εμπόριο των ειδών άγριας πανίδας και χλωρίδας
+    που απειλούνται με εξαφάνιση
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 197/90 DELLA COMMISSIONE del 17 gennaio 1990 che
+    modifica il regolamento (CEE) n. 3626/82 del Consiglio relativo all'' applicazione
+    nella Comunità della convenzione sul commercio internazionale delle specie di
+    flora e di fauna selvatiche minacciate di estinzione #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 197/90 VAN DE COMMISSIE van 17 januari 1990 tot
+    wijziging van Verordening (EEG) nr. 3626/82 van de Raad betreffende de toepassing
+    in de Gemeenschap van de Overeenkomst inzake de internationale handel in bedreigde
+    in het wild levende dier- en plantesoorten #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) N 197/90 DA COMISSÃO de 17 de Janeiro de 1990 que altera
+    o Regulamento (CEE) no 3626/82 do Conselho relativo à aplicação na Comunidade
+    da Convenção sobre o Comércio Internacional das Espécies de Fauna e de Flora
+    Selvagens Ameaçadas de Extinção #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 197/90 DE LA COMISIÓN de 17 de enero de 1990 por
+    el que se modifica el Reglamento (CEE) no 3626/82 del Consejo, relativo a la aplicación
+    en la Comunidad del Convenio sobre comercio internacional de especies amenazadas
+    de fauna y flora silvestres #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31990R0197
+docidentifier:
+- content: EU Regulation 197/1990
+  type: EU
+  primary: true
+- content: CELEX 31990R0197
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1990/197/oj
+  type: ELI
+date:
+- type: issued
+  at: '1990-01-17'
+- type: implemented
+  at: '1990-01-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989R2496
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R3626
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

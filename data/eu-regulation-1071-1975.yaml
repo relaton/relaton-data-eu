@@ -1,0 +1,93 @@
+---
+id: EURegulation10711975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1071/75 of the Commission of 24 April 1975 on a standing
+    invitation to tender for the mobilization of white sugar as food aid for UNRWA
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1071/75 de la Commission, du 24 avril 1975, relatif
+    à une adjudication permanente pour la mobilisation de sucre blanc à fournir
+    à l'UNRWA à titre d'aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1071/75 der Kommission vom 24. April 1975 über eine
+    Dauerausschreibung zur Bereitstellung von Weißzucker, der im Rahmen der Nahrungsmittelhilfe
+    an das UNRWA zu liefern ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1071/75 af 24. april 1975 om en løbende
+    licitation med henblik på fremskaffelse af hvidt sukker til levering til UNRWA
+    som fødevarehjælp
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1071/75 della Commissione, del 24 aprile 1975, relativo
+    ad una gara permanente per la mobilitazione di zucchero bianco da fornire all'UNRWA
+    a titolo di aiuto alimentare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1071/75 van de Commissie van 24 april 1975 betreffende
+    een permanente inschrijving voor de beschikbaarstelling van witte suiker die in
+    het kader van de gemeenschappelijke voedselhulpacties aan de UNRWA wordt geleverd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1071
+docidentifier:
+- content: EU Regulation 1071/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1071
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1071/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-24'
+- type: implemented
+  at: '1975-04-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2120
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

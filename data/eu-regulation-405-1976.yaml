@@ -1,0 +1,111 @@
+---
+id: EURegulation4051976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 405/76 of 23 February 1976 extending certain
+    interim provisions concerning trade with the African, Caribbean and Pacific States
+    and the overseas countries and territories associated with the European Economic
+    Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 405/76 du Conseil, du 23 février 1976, prorogeant
+    certaines dispositions intérimaires relatives aux échanges avec les pays d'Afrique,
+    des Caraïbes et du Pacifique et les pays et territoires d'outre-mer associés
+    à la Communauté économique européenne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 405/76 des Rates vom 23. Februar 1976 zur Verlängerung
+    bestimmter Interimsvorschriften für den Handel mit den Staaten in Afrika, im
+    karibischen Raum und im Pazifischen Ozean und den mit der Europäischen Wirtschaftsgemeinschaft
+    assoziierten überseeischen Ländern und Gebieten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 405/76 af 23. februar 1976 om forlængelse
+    af en række midlertidige bestemmelser vedrørende vareudvekslingen med landene
+    i Afrika, Vestindien og Stillehavet og med de oversøiske lande og territorier,
+    der er associeret Det europæiske økonomiske Fællesskab
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 405/76 del Consiglio, del 23 febbraio 1976, che proroga
+    talune disposizioni provvisorie relative agli scambi con i paesi dell'Africa,
+    dei Caraibi e del Pacifico e con i paesi e territori d'oltremare associati alla
+    Comunità economica europea
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 405/76 van de Raad van 23 februari 1976 houdende
+    verlenging van de geldigheidsduur van sommige interimbepalingen betreffende het
+    handelsverkeer met de Staten in Afrika, het Caribische gebied en de Stille Oceaan
+    en de met de Europese Economische Gemeenschap geassocieerde landen en gebieden
+    overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0405
+docidentifier:
+- content: EU Regulation 405/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0405
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/405/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-23'
+- type: implemented
+  at: '1976-02-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1598
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1599
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1957
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

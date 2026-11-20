@@ -1,0 +1,94 @@
+---
+id: EURegulation3491973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 349/73 of the Commission of 31 January 1973 on the
+    sale at reduced prices of intervention butter for direct consumption as concentrated
+    butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 349/73 de la Commission, du 31 janvier 1973, relatif
+    à l'écoulement à prix réduit de beurre d'intervention destiné à la consommation
+    directe sous forme de beurre concentré
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 349/73 der Kommission vom 31. Januar 1973 über den
+    Absatz von Butter zu herabgesetzten Preisen aus den Beständen der Interventionsstellen
+    für den direkten Verbrauch in Form von Butterreinfett
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 349/73 af 31. januar 1973 om afsætning
+    til nedsat pris af interventionssmør, bestemt for umiddelbart forbrug i form
+    af koncentreret smør
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 349/73 della Commissione, del 31 gennaio 1973, relativo
+    allo smaltimento a prezzo ridotto di burro d'intervento destinato al consumo diretto
+    sotto forma di burro concentrato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 349/73 van de Commissie van 31 januari 1973 betreffende
+    de afzet tegen verlaagde prijs van interventieboter bestemd voor onmiddellijk
+    verbruik in de vorm van boterconcentraat
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0349
+docidentifier:
+- content: EU Regulation 349/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0349
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/349/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-31'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2561
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

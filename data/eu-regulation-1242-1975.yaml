@@ -1,0 +1,90 @@
+---
+id: EURegulation12421975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1242/75 of the Commission of 15 May 1975 supplementing
+    Regulation (EEC) No 3559/73 as regards hake
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1242/75 de la Commission, du 15 mai 1975, complétant
+    le règlement (CEE) n° 3559/73 en ce qui concerne les merlus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1242/75 der Kommission vom 15. Mai 1975 zur Ergänzung
+    der Verordnung (EWG) Nr. 3559/73 in bezug auf Seehechte
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1242/75 af 15. maj 1975 om tillæg
+    til forordning (EØF) nr. 3559/73 for så vidt angår kulmuler
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1242/75 τής Επιτροπής
+    τής 15ης Μαΐου 1975 περί συμπληρώσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 3559/73 σχετικά μέ τούς μερλούκιους
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1242/75 della Commissione, del 15 maggio 1975, che
+    completa il regolamento (CEE) n. 3559/73 per quanto riguarda i naselli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1242/75 van de Commissie van 15 mei 1975 tot aanvulling
+    van Verordening (EEG) nr. 3559/73 met betrekking tot heek
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1242
+docidentifier:
+- content: EU Regulation 1242/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1242
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1242/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-15'
+- type: implemented
+  at: '1975-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

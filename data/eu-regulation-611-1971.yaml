@@ -1,0 +1,65 @@
+---
+id: EURegulation6111971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 611/71 de la Commission, du 24 mars 1971, modifiant
+    le correctif applicable à la restitution pour les céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 611/71 der Kommission vom 24. März 1971 zur Änderung
+    der bei der Erstattung für Getreide anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 611/71 della Commissione, del 24 marzo 1971, che modifica
+    il correttivo applicabile alla restituzione per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 611/71 van de Commissie van 24 maart 1971 houdende
+    wijziging van het op de restitutie voor granen toe te passen correctief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0611
+docidentifier:
+- content: EU Regulation 611/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0611
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/611/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

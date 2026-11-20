@@ -1,0 +1,68 @@
+---
+id: EURegulation2461967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 246/67/CEE de la Commission, du 30 juin 1967, fixant les prélèvements
+    applicables aux céréales, farines, gruaux et semoules de blé ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 246/67/EWG der Kommission vom 30. Juni 1967 zur Festsetzung
+    der bei Getreide, Mehl, Grob- und FeingrieD von Weizen oder Roggen anzuwendenden
+    Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 246/67/CEE della Commissione, del 30 giugno 1967, che fissa
+    i prelievi applicabili ai cereali, alle farine, alle semole e ai semolini di grano
+    o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 246/67/EEG van de Commissie van 30 juni 1967 houdende vaststelling
+    van de heffingen toepasselijk op granen, meel, grutten, gries en griesmeel van
+    tarwe of van rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0246
+docidentifier:
+- content: EU Regulation 246/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0246
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/246/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

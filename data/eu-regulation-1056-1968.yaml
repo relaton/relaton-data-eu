@@ -1,0 +1,97 @@
+---
+id: EURegulation10561968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1056/68 of the Commission of 23 July 1968 amending
+    Regulation No 1041/67/EEC on detailed rules for the application of export refunds
+    on products subject to a single price system
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1056/68 de la Commission, du 23 juillet 1968, modifiant
+    le règlement n° 1041/67/CEE portant modalités d' application des restitutions
+    à l' exportation dans le secteur des produits soumis à un régime de prix unique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1056/68 der Kommission vom 23. Juli 1968 zur Änderung
+    der Verordnung Nr. 1041/67/EWG über die Durchführungsvorschriften für die Ausfuhrerstattungen
+    bei den Erzeugnissen, für die ein System gemeinsamer Preise besteht
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1056/68 af 23. juli 1968 om ændring
+    af forordning nr. 1041/67/EØF vedrørende de nærmere regler for anvendelse af
+    eksportrestitutioner inden for den varesektor, for hvilken der er fastsat en fælles
+    prisordning
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1056/68 della Commissione, del 23 luglio 1968, che
+    modifica e completa il regolamento n. 1041/67/CEE che fissa le modalità di applicazione
+    delle restituzioni all' esportazione nel settore dei prodotti sottoposti ad un
+    regime di prezzo unico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1056/68 van de Commissie van 23 juli 1968 houdende
+    wijziging van Verordening nr. 1041/67/EEG houdende uitvoeringsbepalingen inzake
+    de verlening van restituties bij de uitvoer van produkten waarvoor een stelsel
+    van gemeenschappelijke prijzen geldt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1056
+docidentifier:
+- content: EU Regulation 1056/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1056
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1056/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-23'
+- type: implemented
+  at: '1968-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1041
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

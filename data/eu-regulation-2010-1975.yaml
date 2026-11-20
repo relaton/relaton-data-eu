@@ -1,0 +1,100 @@
+---
+id: EURegulation20101975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2010/75 of the Commission of 30 July 1975 amending,
+    with regard to Ireland and the United Kingdom, Annex I to Regulation (EEC) No
+    1896/73 on detailed rules for the application of intervention measures on the
+    market in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2010/75 de la Commission, du 30 juillet 1975, modifiant,
+    en ce qui concerne l' Irlande et le Royaume-Uni, l' annexe I du règlement (CEE)
+    n° 1896/73 relatif aux modalités d' application des mesures d' intervention
+    dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2010/75 der Kommission vom 30. Juli 1975 zur Änderung
+    von Anhang I der Verordnung (EWG) Nr. 1896/73 über die Durchführungsbestimmungen
+    bei Interventionsmaßnahmen auf dem Rindfleischsektor in bezug auf Irland und
+    das Vereinigte Königreich
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2010/75 af 30. juli 1975 om ændring
+    for så vidt angår Irland og Det forenede Kongerige af bilag I i forordning (EØF)
+    nr. 1896/73 om de nærmere regler for anvendelsen af interventionsforanstaltninger
+    inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2010/75 della Commissione, del 30 luglio 1975, che
+    modifica, per quanto riguarda l' Irlanda e il Regno Unito, l' allegato I del regolamento
+    (CEE) n. 1896/73 relativo alle modalità di applicazione delle misure d' intervento
+    nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2010/75 van de Commissie van 30 juli 1975 houdende
+    wijziging voor Ierland en het Verenigd Koninkrijk van bijlage I van Verordening
+    (EEG) nr. 1896/73 betreffende de wijze van toepassing van de interventiemaatregelen
+    in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2010
+docidentifier:
+- content: EU Regulation 2010/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2010
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2010/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-30'
+- type: implemented
+  at: '1975-08-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

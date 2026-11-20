@@ -1,0 +1,94 @@
+---
+id: EUDecision1978465
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '78/465/EEC: Council Decision of 30 May 1978 adjusting Decision 76/568/EEC
+    on the association of the overseas countries and territories with the European
+    Economic Community'
+  type: main
+- language: fr
+  script: Latn
+  content: '78/465/CEE: Décision du Conseil, du 30 mai 1978, adaptant la décision
+    76/568/CEE relative à l'' association des pays et territoires d'' outre-mer à
+    la Communauté économique européenne'
+  type: main
+- language: de
+  script: Latn
+  content: '78/465/EWG: Beschluß des Rates vom 30. Mai 1978 zur Anpassung des Beschlusses
+    76/568/EWG über die Assoziation der überseeischen Länder und Gebiete mit der
+    Europäischen Wirtschaftsgemeinschaft'
+  type: main
+- language: da
+  script: Latn
+  content: '78/465/EØF: Rådets afgørelse af 30. maj 1978 om tilpasning af afgørelse
+    76/568/EØF om de oversøiske landes og territoriers associering med Det europæiske
+    økonomiske Fællesskab'
+  type: main
+- language: it
+  script: Latn
+  content: '78/465/CEE: Decisione del Consiglio, del 30 maggio 1978, che adegua la
+    decisione 76/568/CEE relativa all'' associazione dei paesi e territori d'' oltremare
+    alla Comunità economica europea'
+  type: main
+- language: nl
+  script: Latn
+  content: '78/465/EEG: Besluit van de Raad van 30 mei 1978 tot aanpassing van Besluit
+    76/568/EEG betreffende de associatie van de landen en gebieden overzee met de
+    Europese Economische Gemeenschap'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978D0465
+docidentifier:
+- content: EU Decision 1978/465
+  type: EU
+  primary: true
+- content: CELEX 31978D0465
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1978/465/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-30'
+- type: implemented
+  at: '1978-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0568
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

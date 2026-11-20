@@ -1,0 +1,80 @@
+---
+id: EURegulation1211963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 121/63/CEE du Conseil, du 14 novembre 1963, modifiant le
+    règlement n° 37 du Conseil relatif aux critères de fixation des prix de seuil
+    pour certaines catégories de farines, gruaux et semoules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 121/63/EWG des Rats vom 14. November 1963 zur Änderung
+    der Verordnung Nr. 37 des Rats über die Kriterien für die Festsetzung der Schwellenpreise
+    für bestimmte Arten von Mehl, Grobgrieß und Feingrieß
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 121/63/CEE del Consiglio del 14 novembre 1963 che modifica
+    il regolamento n. 37 del Consiglio relativo ai criteri di fissazione dei prezzi
+    di entrata per alcuni tipi di farine, semole e semolini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 121/63/EEG van de Raad van 14 november 1963 tot wijziging
+    van "Verordening Nr. 37 van de Raad betreffende de criteria voor de vaststelling
+    van de drempelprijzen voor bepaalde soorten van meel, grutten, gries en griesmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0121
+docidentifier:
+- content: EU Regulation 121/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0121
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/121/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-11-14'
+- type: implemented
+  at: '1963-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0037
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

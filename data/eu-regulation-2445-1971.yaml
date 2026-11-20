@@ -1,0 +1,93 @@
+---
+id: EURegulation24451971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2445/71 of the Commission of 12 November 1971 amending
+    Regulation No 172/66/EEC fixing coefficients of equivalence for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2445/71 de la Commission, du 12 novembre 1971, modifiant
+    le règlement n° 172/66/CEE portant fixation des coefficients d' équivalence
+    pour l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2445/71 der Kommission vom 12. November 1971 zur Änderung
+    der Verordnung Nr. 172/66/EWG zur Festsetzung der Ausgleichskoeffizienten für
+    Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2445/71 af 12. november 1971 om ændring
+    af forordning nr. 172/66/EØF om fastsættelse af udligningskoefficienter for
+    olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2445/71 della Commissione, del 12 novembre 1971, che
+    modifica il regolamento n. 172/66/CEE che fissa i coefficienti d' equivalenza
+    per l' olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2445/71 van de Commissie van 12 november 1971 tot
+    wijziging van Verordening nr. 172/66/EEG houdende vaststelling van de gelijkwaardigheidscoëfficiënten
+    voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2445
+docidentifier:
+- content: EU Regulation 2445/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2445
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2445/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-12'
+- type: implemented
+  at: '1971-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0172
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

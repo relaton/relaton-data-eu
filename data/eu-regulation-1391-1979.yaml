@@ -1,0 +1,95 @@
+---
+id: EURegulation13911979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1391/79 of 4 July 1979 amending Regulation
+    (EEC) No 1945/78 laying down, for the wine-growing year 1978/79, detailed rules
+    for the distillation of the by-products of wine-making
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1391/79 de la Commission, du 4 juillet 1979, modifiant
+    le règlement (CEE) n° 1945/78 relatif aux modalités d' application de la distillation
+    des sous-produits de la vinification pour la campagne 1978/1979
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1391/79 der Kommission vom 4. Juli 1979 zur Änderung
+    der Verordnung (EWG) Nr. 1945/78 über die Durchführungsbestimmungen für die
+    Destillation der Nebenerzeugnisse der Weinbereitung für das Wirtschaftsjahr 1978/79
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1391/79 af 4. juli 1979 om ændring
+    af forordning (EØF) nr. 1945/78 om gennemførelsesbestemmelser for destillering
+    af biprodukter fra vinfremstilling for vinproduktionsåret 1978/79
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1391/79 della Commissione, del 4 luglio 1979, che
+    modifica il regolamento (CEE) n. 1945/78 relativo alle modalità d' applicazione
+    della distillazione dei sottoprodotti della vinificazione per la campagna 1978/1979
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1391/79 van de Commissie van 4 juli 1979 houdende
+    wijziging van Verordening (EEG) nr. 1945/78 betreffende de uitvoeringsbepalingen
+    voor de distillatie van de bijprodukten van de wijnbereiding voor het wijnoogstjaar
+    1978/1979
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1391
+docidentifier:
+- content: EU Regulation 1391/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1391
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1391/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-04'
+- type: implemented
+  at: '1979-07-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1945
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,100 @@
+---
+id: EURegulation21781975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2178/75 of the Commission of 21 August 1975 amending
+    Regulation (EEC) No 2006/75 fixing for the 1975/76 marketing year, the accession
+    compensatory amounts for certain categories of cereals, for rice and for processed
+    products derived from cereals or rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2178/75 de la Commission, du 21 août 1975, modifiant
+    le règlement (CEE) n° 2006/75 fixant, pour la campagne 1975/1976, les montants
+    compensatoires adhésion pour certaines catégories de céréales, le riz ainsi
+    que pour les produits transformés à base de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2178/75 der Kommission vom 21. August 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2006/75 zur Festsetzung der Beitrittsausgleichsbeträge
+    für bestimmte Getreidearten, Reis sowie Getreide- und Reisverarbeitungserzeugnisse
+    für das Wirtschaftsjahr 1975/1976
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2178/75 af 21. august 1975 om ændring
+    af forordning (EØF) nr. 2006/75 om fastsættelse af tiltrædelsesudligningsbeløb
+    for visse kategorier af korn, ris samt produkter forarbejdet på basis af korn
+    og ris for produktionsåret 1975/1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2178/75 della Commissione, del 21 agosto 1975, che
+    modifica il regolamento (CEE) n. 2006/75 che fissa, per la campagna 1975/1976,
+    gli importi compensativi adesione applicabili a talune categorie di cereali, di
+    riso e ai prodotti trasformati a base di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2178/75 van de Commissie van 21 augustus 1975 houdende
+    wijziging van Verordening (EEG) nr. 2006/75 tot vaststelling voor het verkoopseizoen
+    1975/1976 van de compenserende bedragen "toetreding" voor bepaalde graansoorten,
+    voor rijst en voor op basis van granen en rijst verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2178
+docidentifier:
+- content: EU Regulation 2178/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2178
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2178/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-21'
+- type: implemented
+  at: '1975-08-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2006
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

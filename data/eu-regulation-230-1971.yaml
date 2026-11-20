@@ -1,0 +1,80 @@
+---
+id: EURegulation2301971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 230/71 de la Commission, du 2 février 1971, modifiant
+    le règlement (CEE) n° 1507/70 relatif à certaines mesures à prendre dans le
+    secteur du sucre à la suite de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 230/71 der Kommission vom 2. Februar 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1507/70 betreffend Maßnahmen auf dem Zuckersektor infolge
+    der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 230/71 della Commissione, del 2 febbraio 1971, che
+    modifica il regolamento (CEE) n. 1507/70 relativo a talune misure da adottare
+    nel settore dello zucchero a seguito della svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 230/71 van de Commissie van 2 februari 1971 tot wijziging
+    van Verordening (EEG) nr. 1507/70 betreffende ingevolge de devaluatie van de Franse
+    frank in de sector suiker te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0230
+docidentifier:
+- content: EU Regulation 230/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0230
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/230/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-02'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1507
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

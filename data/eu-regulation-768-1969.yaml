@@ -1,0 +1,89 @@
+---
+id: EURegulation7681969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 768/69 of the Council of 22 April 1969 fixing standard
+    qualities for common wheat, rye, barley, maize and durum wheat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 768/69 du Conseil, du 22 avril 1969, fixant les qualités
+    type du froment tendre, du seigle, de l' orge, du maïs et du froment dur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 768/69 des Rates vom 22. April 1969 zur Festsetzung
+    der Standardqualitäten für Weichweizen, Roggen, Gerste, Mais und Hartweizen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 768/69 af 22. april 1969 om fastsættelse
+    af standardkvaliteter for blød hvede, rug, byg, majs og hård hvede
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 768/69 del Consiglio, del 22 aprile 1969, che fissa
+    le qualità tipo del frumento tenero, della segala, dell' orzo, del granturco
+    e del frumento duro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 768/69 van de Raad van 22 april 1969 tot vaststelling
+    van de standaardkwaliteit van zachte tarwe, rogge, gerst, maïs en durum tarwe
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0768
+docidentifier:
+- content: EU Regulation 768/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0768
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/768/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-22'
+- type: implemented
+  at: '1969-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0865
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

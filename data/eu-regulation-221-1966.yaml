@@ -1,0 +1,72 @@
+---
+id: EURegulation2211966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 221/66/CEE de la Commission, du 14 décembre 1966, adaptant
+    et fixant les prix d'écluse pour les porcs, la viande de porc et les produits
+    à base de viande de porc pour les importations effectuées durant le premier
+    trimestre 1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 221/66/EWG der Kommission vom 14. Dezember 1966 zur Anpassung
+    und Festsetzung der Einschleusungspreise für Schweine, Schweinefleisch und Schweinefleischerzeugnisse
+    für Einfuhren im ersten Vierteljahr 1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 221/66/CEE della Commissione, del 14 dicembre 1966, che
+    adatta e fissa i prezzi limite applicabili ai suini, alle carni suine e ai prodotti
+    a base di carni suine per le importazioni effettuate durante il primo trimestre
+    1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 221/66/EEG van de Commissie van 14 december 1966 houdende
+    aanpassing en vaststelling van de sluisprijzen voor varkens, varkensvlees en produkten
+    op basis van varkensvlees, met betrekking tot de invoer welke plaatsvindt gedurende
+    het eerste kwartaal van 1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0221
+docidentifier:
+- content: EU Regulation 221/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0221
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/221/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

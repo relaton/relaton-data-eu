@@ -1,0 +1,97 @@
+---
+id: EURegulation25011974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2501/74 of the Council of 2 October 1974 amending Regulation
+    (EEC) No 1794/74 laying down general rules governing the distillation of table
+    wines during the period from 15 July 1974 to 30 September 1974
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2501/74 du Conseil, du 2 octobre 1974, modifiant le
+    règlement (CEE) n° 1794/74 établissant les règles générales relatives à
+    des opérations de distillation des vins de table pendant la période du 15 juillet
+    au 30 septembre 1974
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2501/74 des Rates vom 2. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1794/74 über allgemeine Regeln für die Destillation
+    von Tafelwein in der Zeit vom 15. Juli 1974 bis zum 30. September 1974
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2501/74 af 2. oktober 1974 om ændring af
+    forordning (EØF) nr. 1794/74 om de almindelige regler for destillering af bordvin
+    i perioden fra den 15. juli 1974 til den 30. september 1974
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2501/74 del Consiglio, del 2 ottobre 1974, recante
+    modifica del regolamento (CEE) n. 1794/74 che stabilisce le norme generali relative
+    ad operazioni di distillazione dei vini da pasto durante il periodo 15 luglio
+    1974-30 settembre 1974
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2501/74 van de Raad van 2 oktober 1974 tot wijziging
+    van Verordening (EEG) nr. 1794/74 houdende vaststelling van de algemene regels
+    betreffende de distillatie van tafelwijn tijdens de periode van 15 juli 1974 tot
+    en met 30 september 1974
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2501
+docidentifier:
+- content: EU Regulation 2501/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2501
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2501/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-02'
+- type: implemented
+  at: '1974-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1794
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

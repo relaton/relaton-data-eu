@@ -1,0 +1,136 @@
+---
+id: EUDecision1989327
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '89/327/EEC: Commission Decision of 10 May 1989 repealing Decisions 73/33/EEC,
+    76/34/EEC, 76/35/EEC and 76/671/EEC relating to the wrapping of beef subject to
+    intervention measures (only the Danish, English, French and Dutch texts are authentic)'
+  type: main
+- language: fr
+  script: Latn
+  content: '89/327/CEE: Décision de la Commission du 10 mai 1989 abrogeant les décisions
+    76/33/CEE, 76/34/CEE, 76/35/CEE et 76/671/CEE relatives à l''emballage des viandes
+    bovines soumises à des mesures d''intervention (Les textes en langues anglaise,
+    danoise, française et néerlandaise sont les seuls faisant foi.)'
+  type: main
+- language: de
+  script: Latn
+  content: 'ENTSCHEIDUNG DER KOMMISSION vom 10. Mai 1989 zur Aufhebung der Entscheidungen
+    76/33/EWG, 76/34/EWG, 76/35/EWG und 76/671/EWG über die Verpackung der unter
+    Interventionsmaßnahmen fallenden Rindfleischviertel (Nur der dänische, englische,
+    französische und niederländische Text sind verbindlich) (89/327/EWG) (89/327/EWG)
+    #'
+  type: main
+- language: da
+  script: Latn
+  content: 'KOMMISSIONENS BESLUTNING af 10. maj 1989 om ophævelse af beslutning 76/33/EØF,
+    76/34/EØF, 76/35/EØF og 76/671/EØF vedrørende indpakning af oksekød, der
+    er undergivet interventionsforanstaltninger (Kun de danske, engelske, franske
+    og nederlandske udgaver er autentiske) (89/327/EØF) (89/327/EØF) #'
+  type: main
+- language: el
+  script: Grek
+  content: '89/327/ΕΟΚ: Απόφαση της Επιτροπής της 10ης
+    Μαΐου 1989 για την κατάργηση των αποφάσεων 76/33/ΕΟΚ,
+    76/34/ΕΟΚ, 76/35/ΕΟΚ και 76/671/ΕΟΚ σχετικά με τη συσκευασία
+    των βοείων κρεάτων που υπάγονται σε μέτρα παρεμβάσεως'
+  type: main
+- language: it
+  script: Latn
+  content: 'DECISIONE DELLA COMMISSIONE del 10 maggio 1989 che abroga le decisioni
+    76/33/CEE, 76/34/CEE, 76/35/CEE e 76/671/CEE relative all'' imballaggio delle
+    carni bovine soggette a misure d'' intervento (I testi in lingua danese, francese,
+    inglese e olandese sono i soli facenti fede) (89/327/CEE) (89/327/CEE) #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'BESCHIKKING VAN DE COMMISSIE van 10 mei 1989 tot intrekking van de Beschikkingen
+    76/33/EEG, 76/34/EEG, 76/35/EEG en 76/671/EEG betreffende de verpakking van rundvlees
+    waarop interventiemaatregelen van toepassing zijn (Slechts de teksten in de Deense,
+    de Engelse, de Franse en de Nederlandse taal zijn authentiek) (89/327/EEG) (89/327/EEG)
+    #'
+  type: main
+- language: pt
+  script: Latn
+  content: DECISAO DA COMISSAO de 10 de Maio de 1989 que revoga as Decisoes 76/33/CEE,
+    76/34/CEE, 76/35/CEE e 76/671/CEE, relativas à embalagem de carnes de bovino
+    sujeitas a medidas de intervençao
+  type: main
+- language: es
+  script: Latn
+  content: 'DECISIÓN DE LA COMISIÓN de 10 de mayo de 1989 por la que se derogan
+    las Decisiones 76/33/CEE, 76/34/CEE, 76/35/CEE y 76/671/CEE relativas al envasado
+    de la carne de vacuno sometida a medidas de intervención (Los textos en lengua
+    danesa, francesa, inglesa y neerlandesa son los únicos auténticos) (89/327/CEE)
+    (89/327/CEE) #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989D0327
+docidentifier:
+- content: EU Decision 1989/327
+  type: EU
+  primary: true
+- content: CELEX 31989D0327
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1989/327/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-05-10'
+- type: implemented
+  at: '1989-05-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0033
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0034
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0035
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

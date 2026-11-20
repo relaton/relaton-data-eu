@@ -1,0 +1,76 @@
+---
+id: EURegulation471963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 47/63/CEE du Conseil du 31 mai 1963, portant modification
+    du règlement n° 9 concernant le Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 47/63/EWG des Rats vom 31. Mai 1963 zur Änderung der Verordnung
+    Nr. 9 über den Europäischen Sozialfonds
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 47/63/CEE del Consiglio del 31 maggio 1963 che modifica
+    il regolamento n. 9 concernente il Fondo sociale europeo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 47/63/EEG van de Raad van 31 mei 1963 houdende wijziging
+    van Verordening Nr. 9 betreffende het Europees Sociaal Fonds
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0047
+docidentifier:
+- content: EU Regulation 47/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0047
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/47/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-05-31'
+- type: implemented
+  at: '1963-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31960R0009
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

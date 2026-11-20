@@ -1,0 +1,94 @@
+---
+id: EURegulation33991973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3399/73 of the Council of 11 December 1973 repealing
+    Regulation (EEC) No 240/73 laying down general rules for the system of compensatory
+    amounts for plaice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3399/73 du Conseil, du 11 décembre 1973, abrogeant
+    le règlement (CEE) n° 240/73 déterminant les règles générales du régime
+    des montants compensatoires pour les plies
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3399/73 des Rates vom 11. Dezember 1973 zur Aufhebung
+    der Verordnung (EWG) Nr. 240/73 zur Festlegung der allgemeinen Vorschriften für
+    die Regelung der Ausgleichsbeträge für Schollen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3399/73 af 11. december 1973 om ophævelse
+    af forordning (EØF) nr. 240/73 om fastsættelse af de almindelige regler vedrørende
+    ordningen af udligningsbeløb for rødspætter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3399/73 del Consiglio, dell'11 dicembre 1973, che
+    abroga il regolamento (CEE) n. 240/73 che determina le norme generali del regime
+    degli importi di compensazione per le passere di mare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3399/73 van de Raad van 11 december 1973 houdende
+    intrekking van Verordening (EEG) nr. 240/73 tot vaststelling van de algemene regels
+    van het stelsel der compenserende bedragen voor schol
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3399
+docidentifier:
+- content: EU Regulation 3399/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3399
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3399/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-12-11'
+- type: implemented
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0240
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

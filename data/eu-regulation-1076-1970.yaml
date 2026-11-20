@@ -1,0 +1,88 @@
+---
+id: EURegulation10761970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1076/70 du Conseil, du 8 juin 1970, modifiant le règlement
+    (CEE) n° 2610/69 portant ouverture, répartition et mode de gestion des contingents
+    tarifaires communautaires de tissus de soie ou de bourre de soie (schappe) et
+    de tissus de coton, tissés sur métiers à main, des positions EX 50.09 et EX
+    55.09 du tarif douanier commun (année 1970)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1076/70 des Rates vom 8. Juni 1970 zur Änderung der
+    Verordnung (EWG) Nr. 2610/69 über die Eröffnung, Aufteilung und Verwaltung der
+    Gemeinschaftszollkontingente für auf Handwebstühlen hergestellte Gewebe aus
+    Seide oder Schappeseide oder aus Baumwolle der Tarifnummern ex 50.09 und ex 55.09
+    des Gemeinsamen Zolltarifs (1970)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1076/70 del Consiglio, dell'8 giugno 1970, che modifica
+    il regolamento (CEE) n. 2610/69, relativo all'apertura, alla ripartizione e alle
+    modalità di gestione dei contingenti tariffari comunitari per tessuti di seta
+    o di borra di seta (schappe) e di cotone, lavorati su telai a mano, delle voci
+    ex 50.09 ed ex 55.09 della tariffa doganale comune (anno 1970)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1076/70 van de Raad van 8 juni 1970 houdende wijziging
+    van Verordening (EEG) nr. 2610/69 betreffende de opening, de verdeling en de wijze
+    van beheer van de communautaire tariefcontingenten voor weefsels van zijde of
+    van vlokzijde en weefsels van katoen, vervaardigd op handweefgetouwen, van de
+    posten ex 50.09 en ex 55.09 van het gemeenschappelijk douanetarief (1970)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1076
+docidentifier:
+- content: EU Regulation 1076/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1076
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1076/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-08'
+- type: implemented
+  at: '1970-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2610
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

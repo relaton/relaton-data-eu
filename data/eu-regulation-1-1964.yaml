@@ -1,0 +1,88 @@
+---
+id: EURegulation11964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 1/64/CEE du Conseil, du 18 décembre 1963, portant modification
+    de l'article 42 du règlement n° 3 et des articles 5 et 69 à 72 du règlement
+    n° 4 (allocations familiales pour les enfants de titulaires de pensions ou de
+    rentes et pour les orphelins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 1/64/EWG des Rats vom 18. Dezember 1963 zur Änderung des
+    Artikels 42 der Verordnung Nr. 3 und der Artikel 5 und 69 bis 72 der Verordnung
+    Nr. 4 (Familienbeihilfen für Kinder von Rentenempfängern und für Waisen)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 1/64/CEE del Consiglio, del 18 dicembre 1963, che modifica
+    l'articolo 42 del regolamento n. 3 e gli articoli 5 e da 69 a 72 del regolamento
+    n. 4 (assegni familiari per i figli di titolari di pensioni o di rendita e per
+    gli orfani)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 1/64/EEG van de Raad van 18 december 1963 houdende wijziging
+    van artikel 42 van Verordening Nr. 3 en van artikel 5 en de artikelen 69 tot en
+    met 72 van Verordening Nr. 4 (kinderbijslag voor kinderen van pensioen- of rentetrekkers
+    en voor wezen)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0001
+docidentifier:
+- content: EU Regulation 1/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0001
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/1/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-18'
+- type: implemented
+  at: '1964-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

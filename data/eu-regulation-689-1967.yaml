@@ -1,0 +1,88 @@
+---
+id: EURegulation6891967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation No 689/67/EEC of 9 October 1967 amending Regulation
+    No 199/67/EEC fixing the coefficients for calculating levies for products derived
+    from the poultry meat sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 689/67/CEE de la Commission, du 9 octobre 1967, modifiant
+    le règlement n° 199/67/CEE portant fixation des coefficients pour le calcul
+    des prélèvements pour les produits dérivés dans le secteur de la viande de
+    volaille
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG NR. 689/67/EWG DER KOMMISSION VOM 9. OKTOBER 1967 ZUR AENDERUNG
+    DER VERORDNUNG NR. 199/67/EWG ZUR FESTSETZUNG DER KOEFFIZIENTEN ZUR BERECHNUNG
+    DER ABSCHOEPFUNGSBETRAEGE FUER DIE ABGELEITETEN ERZEUGNISSE AUF DEM GEFLUEGELFLEISCHSEKTOR
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO N. 689/67/CEE DELLA COMMISSIONE, DEL 9 OTTOBRE 1967, CHE MODIFICA
+    IL REGOLAMENTO N. 199/67/CEE CHE FISSA I COEFFICIENTI PER IL CALCOLO DEI PRELIEVI
+    APPLICABILI AI PRODOTTI DERIVATI NEL SETTORE DEL POLLAME
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING NO. 689/67/EEG VAN DE COMMISSIE VAN 9 OKTOBER 1967 TOT WIJZIGING
+    VAN VERORDENING NO. 199/67/EEG HOUDENDE VASTSTELLING VAN DE COEFFICIENTEN VOOR
+    DE BEREKENING VAN DE HEFFINGEN VOOR AFGELEIDE PRODUKTEN IN DE SECTOR SLACHTPLUIMVEE
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0689
+docidentifier:
+- content: EU Regulation 689/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0689
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/689/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-09'
+- type: implemented
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0199
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

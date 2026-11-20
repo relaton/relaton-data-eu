@@ -1,0 +1,68 @@
+---
+id: EURegulation201967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 20/67/CEE de la Commission, du 1er février 1967, relatif
+    à certaines modalités d'application des restitutions et prélèvements à l'exportation
+    d'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 20/67/EWG der Kommission vom 1. Februar 1967 mit Durchführungsbestimmungen
+    für die Erstattungen und Abschöpfungen bei der Ausfuhr von Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 20/67/CEE della Commissione, del 1 febbraio 1967, relativo
+    a talune modalità di applicazione delle restituzioni e dei prelievi all'esportazione
+    di olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 20/67/EEG van de Commissie van 1 februari 1967 houdende
+    enkele bepalingen betreffende de wijze van toepassing van de restituties en de
+    heffingen bij uitvoer van olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0020
+docidentifier:
+- content: EU Regulation 20/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0020
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/20/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

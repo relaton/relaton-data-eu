@@ -1,0 +1,67 @@
+---
+id: EURegulation6841971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 684/71 de la Commission, du 30 mars 1971, fixant les
+    restitutions applicables à l'exportation des aliments composés à base de céréales
+    pour les animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 684/71 der Kommission vom 30. März 1971 zur Festsetzung
+    der Erstattungen für die Ausfuhr von Getreidemischfuttermitteln
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 684/71 della Commissione, del 30 marzo 1971, che fissa
+    le restituzioni applicabili all'esportazione degli alimenti composti a base di
+    cereali per gli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 684/71 van de Commissie van 30 maart 1971 tot vaststelling
+    van de restituties voor mengvoeders op basis van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0684
+docidentifier:
+- content: EU Regulation 684/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0684
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/684/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

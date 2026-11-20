@@ -1,0 +1,78 @@
+---
+id: EURegulation871963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 87/63/CEE du Conseil, du 18 juillet 1963, portant fixation
+    du montant des prélèvements intracommunautaires pour les produits, autres que
+    le porc abattu, visés à l'article premier paragraphe 1 partie b) du règlement
+    n° 20 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 87/63/EWG des Rats vom 18. Juli 1963 über die Festsetzung
+    der innergemeinschaftlichen Abschöpfungsbeträge für die in Artikel 1 Absatz
+    (1) Buchstabe b) der Verordnung Nr. 20 des Rats genannten Erzeugnisse außer geschlachteten
+    Schweinen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 87/63/CEE del Consiglio, del 18 luglio 1963, relativo alla
+    determinazione dell'ammontare dei prelievi intracomunitari per i prodotti elencati
+    nell'articolo 1, paragrafo 1, lettera b) del regolamento n. 20 del Consiglio,
+    diversi dai suini macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 87/63/EEG van de Raad van 18 juli 1963 houdende vaststelling
+    van het bedrag van de intracommunautaire heffingen voor de in artikel 1, lid 1,
+    sub b, van Verordening Nr. 20 van de Raad genoemde produkten, andere dan geslachte
+    varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0087
+docidentifier:
+- content: EU Regulation 87/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0087
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/87/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-18'
+- type: implemented
+  at: '1963-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

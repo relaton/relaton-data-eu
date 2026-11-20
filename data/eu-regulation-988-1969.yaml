@@ -1,0 +1,76 @@
+---
+id: EURegulation9881969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 988/69 du Conseil, modifiant le règlement n° 127/67
+    CEE relatif à certaines marchandises importées des États africains et malgache
+    associés ou des pays et territoires d'outre-mer associés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 988/69 des Rates vom 28. Mai 1969 zur Änderung der
+    Verordnung Nr. 127/67/EWG hinsichtlich bestimmter Waren, die aus den assoziierten
+    afrikanischen Staaten und Madagaskar oder aus den assoziierten überseeischen
+    Ländern und Gebieten eingeführt werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 988/69 del Consiglio, del 28 maggio 1969, che modifica
+    il regolamento n. 127/67/CEE relativo a talune merci importate dagli Stati africani
+    e malgascio associati o dai paesi e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 988/69 van de Raad van 28 mei 1969 tot wijziging
+    van Verordening nr. 127/67/EEG betreffende bepaalde uit de geassocieerde Afrikaanse
+    Staten en Madagaskar of de geassocieerde landen en gebieden overzee ingevoerde
+    goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0988
+docidentifier:
+- content: EU Regulation 988/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0988
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/988/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-28'
+- type: implemented
+  at: '1969-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

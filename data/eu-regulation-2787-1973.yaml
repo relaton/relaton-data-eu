@@ -1,0 +1,93 @@
+---
+id: EURegulation27871973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2787/73 of the Commission of 12 October 1973 amending
+    Regulation (EEC) No 2056/73 fixing compensatory amounts for pigmeat products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2787/73 de la Commission, du 12 octobre 1973, modifiant
+    le règlement (CEE) n° 2056/73 fixant les montants compensatoires applicables
+    aux produits du secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2787/73 der Kommission vom 12. Oktober 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2056/73 zur Festsetzung der Ausgleichsbeträge für die
+    Erzeugnisse des Schweinefleischsektors
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2787/73 af 12. oktober 1973 om ændring
+    af forordning (EØF) nr. 2056/73 om fastsættelse af beløb, der skal anvendes
+    som udligningsbeløb for svinekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2787/73 della Commissione, del 12 ottobre 1973, che
+    modifica il regolamento (CEE) n. 2056/73 che fissa gli importi compensativi applicabili
+    ai prodotti del settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2787/73 van de Commissie van 12 oktober 1973 houdende
+    wijziging van de Verordening (EEG) nr. 2056/73 tot vaststelling van de compenserende
+    bedragen voor produkten van de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2787
+docidentifier:
+- content: EU Regulation 2787/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2787
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2787/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-12'
+- type: implemented
+  at: '1973-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2056
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

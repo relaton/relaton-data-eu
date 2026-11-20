@@ -1,0 +1,84 @@
+---
+id: EURegulation7111969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 711/69 de la Commission, du 17 avril 1969, modifiant
+    la version allemande du règlement n° 1052/67/CEE concernant la restitution à
+    la production pour les huiles d'olive utilisées pour la fabrication de certaines
+    conserves
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 711/69 der Kommission vom 17. April 1969 zur Änderung
+    der deutschen Fassung der Verordnung Nr. 1052/67/EWG mit Durchführungsbestimmungen
+    für die Erstattung bei der Erzeugung für Olivenöl zur Herstellung bestimmter
+    Konserven
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 711/69 della Commissione, del 17 aprile 1969, che
+    modifica la versione tedesca del regolamento n. 1052/67/CEE relativo alla restituzione
+    alla produzione per gli oli d'oliva impiegati nella fabbricazione di determinate
+    conserve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 711/69 van de Commissie van 17 april 1969 houdende
+    wijziging van de Duitse versie van Verordening nr. 1052/67/EEG betreffende de
+    restitutie bij de produktie voor olijfolie die voor de vervaardiging van bepaalde
+    conserven wordt gebruikt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0711
+docidentifier:
+- content: EU Regulation 711/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0711
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/711/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-17'
+- type: implemented
+  at: '1969-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1052
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

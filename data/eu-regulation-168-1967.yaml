@@ -1,0 +1,73 @@
+---
+id: EURegulation1681967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 168/67/CEE du Conseil, du 27 juin 1967, fixant les conditions
+    de délivrance des certificats d'importation et d'exportation dans le secteur
+    de l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 168/67/EWG des Rates vom 27. Juni 1967 zur Festlegung der
+    Bedingungen für die Erteilung der Einfuhr- und Ausfuhrlizenzen für Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 168/67/CEE del Consiglio, del 27 giugno 1967, che fissa
+    le condizioni per il rilascio dei titoli d'importazione e di esportazione nel
+    settore dell'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 168/67/EEG van de Raad van 27 juni 1967 tot vaststelling
+    van de voorwaarden voor de afgifte van invoer- en uitvoercertificaten in de sector
+    olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0168
+docidentifier:
+- content: EU Regulation 168/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0168
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/168/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

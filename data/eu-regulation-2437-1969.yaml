@@ -1,0 +1,97 @@
+---
+id: EURegulation24371969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2437/69 de la Commission, du 6 décembre 1969, prorogeant
+    différents règlements de la Commission pour la campagne laitière 1969/1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2437/69 der Kommission vom 6. Dezember 1969 zur Verlängerung
+    verschiedener Verordnungen der Kommission für das Milchwirtschaftsjahr 1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2437/69 della Commissione, del 6 dicembre 1969, che
+    proroga alcuni regolamenti della Commissione per la campagna lattiera 1969/1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2437/69 van de Commissie van 6 december 1969 tot
+    verlenging van verschillende verordeningen van de Commissie voor het melkprijsjaar
+    1969/1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2437
+docidentifier:
+- content: EU Regulation 2437/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2437
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2437/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-06'
+- type: implemented
+  at: '1969-12-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968D0351
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1104
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1107
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0146
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1286
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

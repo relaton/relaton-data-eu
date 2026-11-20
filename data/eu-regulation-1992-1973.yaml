@@ -1,0 +1,94 @@
+---
+id: EURegulation19921973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1992/73 of the Commission of 20 July 1973 amending
+    Regulation (EEC) No 1519/72 as regards the procedure relating to the giving of
+    security and the application of a monetary compensatory amount
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1992/73 de la Commission, du 20 juillet 1973, modifiant
+    le règlement (CEE) n° 1519/72 en ce qui concerne les modalités de constitution
+    de la caution et l' application d' un montant compensatoire monétaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1992/73 der Kommission vom 20. Juli 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1519/72 hinsichtlich der Stellung der Kaution und der
+    Anwendung eines Währungsausgleichsbetrags
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1992/73 af 20. juli 1973 om ændring
+    af forordning (EØF) nr. 1519/72 for så vidt angår de nærmere retningslinier
+    for sikkerhedsstillelse og anvendelse af et monetært udligningsbeløb
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1992/73 della Commissione, del 20 luglio 1973, che
+    modifica il regolamento (CEE) n. 1519/72 per quanto riguarda le modalità di costituzione
+    del deposito cauzionale e l' applicazione di un importo compensativo monetario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1992/73 van de Commissie van 20 juli 1973 houdende
+    wijziging van Verordening (EEG) nr. 1519/72 met betrekking tot de bepalingen voor
+    het stellen van de waarborg en de toepassing van een monetair compenserend bedrag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1992
+docidentifier:
+- content: EU Regulation 1992/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1992
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1992/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-07-20'
+- type: implemented
+  at: '1973-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1519
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

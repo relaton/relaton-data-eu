@@ -1,0 +1,74 @@
+---
+id: EURegulation25271970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2527/70 du Conseil, du 15 décembre 1970, fixant les
+    prix de déclenchement dans le secteur du vin pour la période du 16 décembre
+    1970 au 15 décembre 1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2527/70 des Rates vom 15. Dezember 1970 zur Festsetzung
+    der Auslösungspreise für Wein für den Zeitraum vom 16. Dezember 1970 bis 15.
+    Dezember 1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2527/70 del Consiglio, del 15 dicembre 1970, che fissa
+    i prezzi limite per l'intervento nel settore del vino per il periodo dal 16 dicembre
+    1970 al 15 dicembre 1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2527/70 van de Raad van 15 december 1970 houdende
+    vaststelling van de interventietoepassingsprijzen in de wijnsector voor de periode
+    van 16 december 1970 tot en met 15 december 1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2527
+docidentifier:
+- content: EU Regulation 2527/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2527
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2527/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+- type: implemented
+  at: '1970-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

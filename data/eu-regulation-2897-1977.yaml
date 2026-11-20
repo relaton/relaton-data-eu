@@ -1,0 +1,95 @@
+---
+id: EURegulation28971977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2897/77 of 20 December 1977 adding new products
+    to column 2 of the list contained in Annex I to Regulation (EEC) No 1439/74 on
+    common rules for imports
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2897/77 du Conseil, du 20 décembre 1977, portant
+    inclusion de nouveaux produits dans la colonne 2 de la liste figurant à l' annexe
+    I du règlement (CEE) n° 1439/74 relatif au régime commun applicable aux importations
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2897/77 des Rates vom 20. Dezember 1977 zur Aufnahme
+    weiterer Waren in Spalte 2 der Liste in Anhang I der Verordnung (EWG) Nr. 1439/74
+    betreffend die gemeinsame Einfuhrregelung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2897/77 af 20. december 1977 om optagelse
+    af nye varer i anden kolomne på listen i bilag I til forordning (EØF) nr. 1439/74
+    om den fælles importordning
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2897/77 del Consiglio, del 20 dicembre 1977, relativo
+    all' inclusione di nuovi prodotti nella colonna 2 dell' elenco che figura nell'
+    allegato I del regolamento (CEE) n. 1439/74 relativo al regime comune applicabile
+    alle importazioni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2897/77 van de Raad van 20 december 1977 houdende
+    opneming van nieuwe produkten in kolom 2 van de lijst van bijlage I van Verordening
+    (EEG) nr. 1439/74 inzake de gemeenschappelijke regeling voor de invoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2897
+docidentifier:
+- content: EU Regulation 2897/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2897
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2897/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-20'
+- type: implemented
+  at: '1977-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1439
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

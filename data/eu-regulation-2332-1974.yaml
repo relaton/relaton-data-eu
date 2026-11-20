@@ -1,0 +1,97 @@
+---
+id: EURegulation23321974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2332/74 of the Council of 12 September 1974 on the
+    supply of skimmed-milk powder to the Office of the United Nations High Commissioner
+    for Refugees as food aid for distribution to displaced persons in Cyprus
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2332/74 du Conseil, du 12 septembre 1974, relatif
+    à la fourniture de lait écrémé en poudre, au Haut Commissariat des Nations
+    unies pour les réfugiés, au titre de l' aide alimentaire destinée aux populations
+    déplacées de Chypre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2332/74 des Rates vom 12. September 1974 über die
+    Lieferung von Magermilchpulver an das Amt des Hohen Kommissars der Vereinten Nationen
+    für Flüchtlinge als Nahrungsmittelhilfe für die geflüchteten Bevölkerungsgruppen
+    auf Zypern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2332/74 af 12. september 1974 om levering
+    af skummetmælkspulver som fødevarehjælp til De forenede Nationers Højkommissariat
+    for flygtninge med henblik på de tvangsforflyttede befolkningsgrupper på Cypern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2332/74 del Consiglio, del 12 settembre 1974, relativo
+    alla fornitura di latte scremato in polvere all' Alto Commissariato delle Nazioni
+    Unite per i rifugiati a titolo di aiuto alimentare destinato ai profughi di Cipro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2332/74 van de Raad van 12 september 1974 betreffende
+    de levering van magere-melkpoeder aan het Hoge Commissariaat van de Verenigde
+    Naties voor Vluchtelingen als voedselhulp ten behoeve van de vluchtelingen op
+    Cyprus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2332
+docidentifier:
+- content: EU Regulation 2332/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2332
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2332/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-09-12'
+- type: implemented
+  at: '1974-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1827
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

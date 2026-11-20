@@ -1,0 +1,84 @@
+---
+id: EURegulation4601975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 460/75 of the Commission of 26 February 1975 laying
+    down protective measures in respect of the import of certain fishery products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 460/75 de la Commission, du 26 février 1975, arrêtant
+    des mesures de sauvegarde applicables à l'importation de certains produits de
+    la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 460/75 der Kommission vom 26. Februar 1975 zum Erlaß
+    von Schutzmaßnahmen bei der Einfuhr bestimmter Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 460/75 af 26. februar 1975 om beskyttelsesforanstaltninger,
+    som skal anvendes ved indførsel af visse fiskerivarer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 460/75 della Commissione, del 26 febbraio 1975, che
+    stabilisce misure di salvaguardia applicabili all'importazione di alcuni prodotti
+    della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 460/75 van de Commissie van 26 februari 1975 houdende
+    vrijwaringsmaatregelen ten aanzien van de invoer van bepaalde visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0460
+docidentifier:
+- content: EU Regulation 460/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0460
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/460/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-02-26'
+- type: implemented
+  at: '1975-02-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

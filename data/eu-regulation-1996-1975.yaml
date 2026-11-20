@@ -1,0 +1,98 @@
+---
+id: EURegulation19961975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1996/75 of the Commission of 31 July 1975 amending
+    Regulation (EEC) No 602/75 laying down detailed rules for the sale of skimmed-milk
+    powder in public storage for supply to developing countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1996/75 de la Commission, du 31 juillet 1975, modifiant
+    le règlement (CEE) n° 602/75 portant modalités d' application relatives à
+    la vente de lait écrémé en poudre de stock public en vue de la livraison vers
+    des pays en voie de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1996/75 der Kommission vom 31. Juli 1975 zur Änderung
+    der Verordnung (EWG) Nr. 602/75 über die Durchführungsbestimmungen für den
+    Verkauf von Magermilchpulver aus öffentlicher Lagerhaltung für die Lieferung
+    nach Entwicklungsländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1996/75 af 31. juli 1975 om ændring
+    af forordning (EØF) nr. 602/75 om de nærmere regler for salg af skummetmælkspulver
+    fra offentlige lagre med henblik på levering til udviklingslande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1996/75 della Commissione, del 31 luglio 1975, che
+    modifica il regolamento (CEE) n. 602/75, recante modalità di applicazione per
+    la vendita di latte scremato in polvere d' ammasso pubblico destinato a forniture
+    a paesi in via di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1996/75 van de Commissie van 31 juli 1975 tot wijziging
+    van Verordening (EEG) nr. 602/75 houdende uitvoeringsbepalingen met betrekking
+    tot de verkoop van magere-melkpoeder uit openbare opslag met het oog op levering
+    aan ontwikkelingslanden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1996
+docidentifier:
+- content: EU Regulation 1996/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1996
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1996/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-31'
+- type: implemented
+  at: '1975-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0602
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

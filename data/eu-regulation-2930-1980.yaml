@@ -1,0 +1,99 @@
+---
+id: EURegulation29301980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2930/80 of 11 November 1980 amending Regulation
+    (EEC) No 337/79 on the common organization of the market in wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2930/80 du Conseil, du 11 novembre 1980, modifiant
+    le règlement (CEE) n° 337/79 portant organisation commune du marché viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2930/80 des Rates vom 11. November 1980 zur Änderung
+    der Verordnung (EWG) Nr. 337/79 über die gemeinsame Marktorganisation für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2930/80 af 11. november 1980 om ændring
+    af forordning (EØF) nr. 337/79 om den fælles markedsordning for vin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2930/80 τού Συμβουλίου
+    τής 11ης Νοεμβρίου 1980 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 337/ 9 «ηερί κοινής ογανώσεως
+    τής αμπελοοινικής αγοράς»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2930/80 del Consiglio, dell' 11 novembre 1980, che
+    modifica il regolamento (CEE) n. 337/79 relativo all' organizzazione comune del
+    mercato vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2930/80 van de Raad van 11 november 1980 tot wijziging
+    van Verordening (EEG) nr. 337/79 houdende een gemeenschappelijke ordening van
+    de wijnmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2930
+docidentifier:
+- content: EU Regulation 2930/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2930
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2930/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-11-11'
+- type: implemented
+  at: '1980-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0337
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

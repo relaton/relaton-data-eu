@@ -1,0 +1,78 @@
+---
+id: EURegulation7671969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 767/69 du Conseil, du 22 avril 1969, fixant, pour
+    la campagne sucrière 1969/1970, les prix d'intervention dérivés, les prix minima
+    de la betterave, les prix de seuil et la quantité garantie, ainsi que la cotisation
+    à la production
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 767/69 des Rates vom 22. April 1969 zur Festsetzung
+    der abgeleiteten Interventionspreise, der Zuckerrübenmindestpreise, der Schwellenpreise
+    und der Garantiemenge sowie der Produktionsabgabe für das Zuckerwirtschaftsjahr
+    1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 767/69 del Consiglio, del 22 aprile 1969, che fissa,
+    per la campagna saccarifera 1969/1970, i prezzi d'intervento derivati, i prezzi
+    minimi delle barbabietole, i prezzi d'entrata, la quantità garantita e il contributo
+    gravante sulla produzione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 767/69 van de Raad van 22 april 1969 houdende vaststelling,
+    voor het verkoopseizoen voor suiker 1969/1970, van de afgeleide interventieprijzen,
+    de minimumprijzen voor suikerbieten, de drempelprijzen, de gegarandeerde hoeveelheid
+    en de produktieheffing
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0767
+docidentifier:
+- content: EU Regulation 767/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0767
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/767/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-22'
+- type: implemented
+  at: '1969-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

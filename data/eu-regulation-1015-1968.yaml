@@ -1,0 +1,80 @@
+---
+id: EURegulation10151968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1015/68 du Conseil, du 20 juillet 1968, relatif aux
+    acomptes du FEOGA, section garantie, au titre des dépenses du premier semestre
+    de la période de comptabilisation 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1015/68 des Rates vom 20. Juli 1968 über die Abschlagszahlungen
+    des EAGFL, Abteilung Garantie, auf die Ausgaben im ersten Halbjahr des Verbuchungszeitraums
+    1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1015/68 del Consiglio, del 20 luglio 1968, relativo
+    agli anticipi del FEAOG, sezione garanzia, per le spese del primo semestre del
+    periodo di contabilizzazione 1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1015/68 van de Raad van 20 juli 1968 betreffende
+    de voorschotten uit het EOGFL, afdeling Garantie, uit hoofde van de uitgaven van
+    het eerste halfjaar van de berekeningsperiode 1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1015
+docidentifier:
+- content: EU Regulation 1015/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1015
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1015/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-20'
+- type: implemented
+  at: '1968-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

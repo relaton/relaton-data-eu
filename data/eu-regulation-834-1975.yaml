@@ -1,0 +1,97 @@
+---
+id: EURegulation8341975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 834/75 of the Commission of 26 March 1975 amending
+    Annex I to Regulation (EEC) No 1896/73 on the detailed rules for the application
+    of intervention measures in the sector for beef and veal in France
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 834/75 de la Commission, du 26 mars 1975, modifiant,
+    en ce qui concerne la France, l' annexe I du règlement (CEE) n° 1896/73 relatif
+    aux modalités d' application des mesures d' intervention dans le secteur de la
+    viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 834/75 der Kommission vom 26. März 1975 zur Änderung
+    des Frankreich betreffenden Teiles des Anhangs I der Verordnung (EWG) Nr. 1896/73
+    über die Durchführungsbestimmungen bei Interventionsmaßnahmen auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 834/75 af 26. marts 1975 om ændring
+    for så vidt angår Frankrig af bilag I i forordning (EØF) nr. 1896/73 om de
+    nærmere regler for anvendelsen af interventionsforanstaltninger inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 834/75 della Commissione, del 26 marzo 1975, che modifica,
+    per quanto concerne la Francia, l' allegato I del regolamento (CEE) n. 1896/73
+    relativo alle modalità d' applicazione delle misure d' intervento nel settore
+    delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 834/75 van de Commissie van 26 maart 1975 houdende
+    wijziging voor wat betreft Frankrijk van bijlage I van Verordening (EEG) nr. 1896/73
+    betreffende de wijze van toepassing van de interventiemaatregelen in de sector
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0834
+docidentifier:
+- content: EU Regulation 834/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0834
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/834/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-26'
+- type: implemented
+  at: '1975-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

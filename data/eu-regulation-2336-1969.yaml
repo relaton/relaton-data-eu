@@ -1,0 +1,70 @@
+---
+id: EURegulation23361969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2336/69 du Conseil, du 25 novembre 1969, fixant le
+    prix de base et le prix d'achat pour les mandarines
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2336/69 des Rates vom 25. November 1969 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Mandarinen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2336/69 del Consiglio, del 25 novembre 1969, che fissa
+    il prezzo di base e il prezzo d'acquisto per i mandarini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2336/69 van de Raad van 25 november 1969 tot vaststelling
+    van de basisprijs en de aankoopprijs voor mandarijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2336
+docidentifier:
+- content: EU Regulation 2336/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2336
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2336/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-25'
+- type: implemented
+  at: '1969-11-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

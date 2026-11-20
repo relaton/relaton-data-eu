@@ -1,0 +1,78 @@
+---
+id: EURegulation14421972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1442/72 de la Commission, du 6 juillet 1972, modifiant
+    le règlement (CEE) n° 2496/71 en prorogeant jusqu'au 31 août 1972 le délai
+    pour la livraison de l'alcool obtenu au titre de la distillation obligatoire des
+    sous-produits de la vinification
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1442/72 der Kommission vom 6. Juli 1972 zur Änderung
+    der Verordnung (EWG) Nr. 2496/71 und zur Verlängerung des Zeitpunkts für die
+    Ablieferung des aus der vorgeschriebenen Destillierung von Nebenerzeugnissen der
+    Weinbereitung gewonnenen Alkohols bis 31. August 1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1442/72 della Commissione, del 6 luglio 1972, che
+    modifica il regolamento (CEE) n. 2496/71 prorogando fino al 31 agosto 1972 il
+    termine di consegna dell'alcole ottenuto a titolo della distillazione obbligatoria
+    dei sotto-prodotti della vinificazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1442/72 van de Commissie van 6 juli 1972 tot wijziging
+    van Verordening (EEG) nr. 2496/71 door verlenging tot 31 augustus 1972 van de
+    termijn voor de levering van de alcohol verkregen bij de verplichte distillatie
+    van de bijprodukten van de wijnbereiding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1442
+docidentifier:
+- content: EU Regulation 1442/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1442
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1442/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-06'
+- type: implemented
+  at: '1972-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

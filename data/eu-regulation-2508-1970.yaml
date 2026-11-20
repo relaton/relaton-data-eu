@@ -1,0 +1,65 @@
+---
+id: EURegulation25081970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2508/70 de la Commission, du 11 décembre 1970, fixant
+    le montant de l'aide dans le secteur des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2508/70 der Kommission vom 11. Dezember 1970 zur Festsetzung
+    des Betrages der Beihilfe für Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2508/70 della Commissione, dell'11 dicembre 1970,
+    che fissa l'importo dell'integrazione nel settore dei semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2508/70 van de Commissie van 11 december 1970 houdende
+    vaststelling van het bedrag van de steun in de sector oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2508
+docidentifier:
+- content: EU Regulation 2508/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2508
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2508/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

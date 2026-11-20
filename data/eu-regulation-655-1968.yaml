@@ -1,0 +1,84 @@
+---
+id: EURegulation6551968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 655/68 du Conseil, du 30 mai 1968, modifiant le règlement
+    (CEE) n° 355/68 en ce qui concerne la prolongation de la campagne laitière 1967/1968
+    et autorisant la République française à modifier le prix d'intervention du
+    beurre pour le reste de cette campagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 655/68 des Rates vom 30. Mai 1968 zur Änderung der
+    Verordnung (EWG) Nr. 355/68 hinsichtlich der Verlängerung des Milchwirtschaftsjahres
+    1967/1968 und Ermächtigung der Französischen Republik, den Interventionspreis
+    für Butter für den verbleibenden Teil dieses Milchwirtschaftsjahres zu ändern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 655/68 del Consiglio, del 30 maggio 1968, che modifica
+    il regolamento (CEE) n. 355/68 per quanto concerne il prolungamento della campagna
+    lattiero-casearia 1967/1968 e che autorizza la Repubblica francese a modificare
+    il prezzo d'intervento del burro per il resto di tale campagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 655/68 van de Raad van 30 mei 1968 houdende wijziging
+    van Verordening (EEG) nr. 355/68 inzake de verlenging van het melkprijsjaar 1967/1968
+    en houdende machtiging voor de Franse Republiek om voor de rest van dit melkprijsjaar
+    de interventieprijs voor boter te wijzigen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0655
+docidentifier:
+- content: EU Regulation 655/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0655
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/655/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-30'
+- type: implemented
+  at: '1968-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0355
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation32351974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3235/74 of the Council of 17 December 1974 on the supply
+    of butteroil as food aid to the countries of the Sahel, Ethiopia and Somalia under
+    Regulation (EEC) No 530/74
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3235/74 du Conseil, du 17 décembre 1974, relatif
+    à la fourniture de butteroil, au titre de l' aide alimentaire, aux pays du Sahel,
+    à l' Éthiopie et à la Somalie dans le cadre du règlement (CEE) n° 530/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3235/74 des Rates vom 17. Dezember 1974 über die
+    Lieferung von Butteroil als Nahrungsmittelhilfe an die Sahel-Länder, Äthiopien
+    und Somalia im Rahmen der Verordnung (EWG) Nr. 530/74
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3235/74 af 17. december 1974 om levering
+    af butteroil som fødevarehjælp til Sahel-landene, Etiopien og Somali inden for
+    forordning (EØF) nr. 530/74
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3235/74 del Consiglio, del 17 dicembre 1974, relativo
+    alla fornitura di butteroil a titolo di aiuto alimentare ai paesi del Sahel, all'
+    Etiopia e alla Somalia nell' ambito del regolamento (CEE n. 530/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3235/74 van de Raad van 17 december 1974 betreffende
+    de levering van butteroil als voedselhulp aan de Sahellanden, Ethiopië en Somalië
+    in het kader van Verordening (EEG) nr. 530/74
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3235
+docidentifier:
+- content: EU Regulation 3235/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3235
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3235/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-17'
+- type: implemented
+  at: '1974-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0530
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,65 @@
+---
+id: EURegulation9381968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 938/68 de la Commission, du 10 juillet 1968, fixant
+    des montants supplémentaires pour les oeufs en coquille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 938/68 der Kommission vom 10. Juli 1968 zur Festsetzung
+    von Zusatzbeträgen für Eier in der Schale
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 938/68 della Commissione, del 10 luglio 1968, che
+    fissa l'importo supplementare per le uova in guscio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 938/68 van de Commissie van 10 juli 1968 houdende
+    vaststelling van extra bedragen voor eieren in de schaal
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0938
+docidentifier:
+- content: EU Regulation 938/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0938
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/938/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

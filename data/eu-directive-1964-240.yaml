@@ -1,0 +1,94 @@
+---
+id: EUDirective1964240
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 64/240/EEC of 25 March 1964 on the abolition of restrictions
+    on the movement and residence of Member States' workers and their families within
+    the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 64/240/CEE du Conseil, du 25 mars 1964, relative à la suppression
+    des restrictions au déplacement et au séjour des travailleurs des États membres
+    et de leur famille à l'intérieur de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 64/240/EWG des Rates vom 25. März 1964 zur Aufhebung der Reise-
+    und Aufenthaltsbeschränkungen für Arbeitnehmer der Mitgliedstaaten und ihrer
+    Familienangehörigen innerhalb der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: RAADETS DIREKTIV AF 25. MARTS 1964 OM OPHAEVELSE AF RESTRIKTIONER PAA FLYTNING
+    OG OPHOLD INDEN FOR FAELLESSKABERNE FOR ARBEJDSTAGERE FRA MEDLEMSSTATERNE OG DERES
+    FAMILIEMEDLEMMER
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 64/240/CEE del Consiglio, del 25 marso 1964, relativa alla soppressione
+    delle restrizioni al trasferimento e al soggiorno dei lavoratori degli Stati Membri
+    e delle loro famiglie all'interno della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 64/240/EEG van de Raad van 25 maart 1964 inzake de opheffing
+    van de beperkingen van de verplaatsing en het verblijf van de werknemers van de
+    Lid-Staten en van hun familie binnen de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964L0240
+docidentifier:
+- content: EU Directive 1964/240
+  type: EU
+  primary: true
+- content: CELEX 31964L0240
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1964/240/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-03-25'
+- type: implemented
+  at: '1964-04-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31961L1513
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

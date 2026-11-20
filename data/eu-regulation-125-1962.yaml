@@ -1,0 +1,71 @@
+---
+id: EURegulation1251962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 125 de la Commission portant fixation du montant des prélèvements
+    envers les pays tiers pour les oeufs en coquille de volaille de basse-cour, les
+    volailles abattues et les volailles vivantes d'un poids n'excédant pas 185 grammes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 125 der Kommission über die Festsetzung der Abschöpfungsbeträge
+    gegenüber dritten Ländern für Eier in der Schale von Hausgeflügel, geschlachtetes
+    Hausgeflügel und lebendes Hausgeflügel mit einem Gewicht von höchstens 185
+    Gramm
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 125 della Commissione relativo alla fissazione dell'ammontare
+    dei prelievi nei confronti dei paesi terzi per le uova in guscio di volatili da
+    cortile, volatili da cortile macellati e volatili vivi di peso non superiore a
+    185 grammi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 125 van de Commissie houdende vaststelling van het bedrag
+    der heffingen ten opzichte van derde landen voor eieren in de schaal van pluimvee,
+    geslacht pluimvee en levend pluimvee dat niet meer dan 185 gram weegt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0125
+docidentifier:
+- content: EU Regulation 125/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0125
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/125/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-09-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

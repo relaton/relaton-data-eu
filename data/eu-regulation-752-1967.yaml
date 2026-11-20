@@ -1,0 +1,80 @@
+---
+id: EURegulation7521967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 752/67/CEE du Conseil, du 24 octobre 1967 portant modification,
+    pour ce qui concerne le chocolat et les autres préparations alimentaires contenant
+    du cacao, des annexes I et II du règlement n° 83/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 752/67/EWG des Rates vom 24. Oktober 1967 zur Änderung
+    der Anhänge I und II der Verordnung Nr. 83/67/EWG in bezug auf Schokolade und
+    andere kakaohaltige Lebensmittelzubereitungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 752/67/CEE del Consiglio, del 24 ottobre 1967, che modifica
+    per quanto riguarda la cioccolata e le altre preparazioni alimentari contenenti
+    cacao, gli allegati I e II del regolamento n. 83/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 752/67/EEG van de Raad van 24 oktober 1967 tot wijziging
+    van de bijlagen I en II van Verordening Nr. 83/67/EEG voor wat chocolade en andere
+    voedingsmiddelen, welke cacao bevatten, betreft
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0752
+docidentifier:
+- content: EU Regulation 752/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0752
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/752/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-24'
+- type: implemented
+  at: '1967-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0083
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,71 @@
+---
+id: EURegulation8341968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 834/68 de la Commission, du 28 juin 1968, fixant pour
+    la campagne sucrière 1968/1969 le montant du remboursement et le montant de la
+    cotisation pour la compensation des frais de stockage dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 834/68 der Kommission vom 28. Juni 1968 über die
+    Festsetzung des Betrages der Vergütung und des Betrages der Abgabe zum Ausgleich
+    der Lagerkosten für Zucker für das Zuckerwirtschaftsjahr 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 834/68 della Commissione, del 28 giugno 1968, che
+    fissa l'ammontare del rimborso e l'ammontare del contributo per il compenso delle
+    spese di magazzinaggio nel settore dello zucchero per la campagna saccarifera
+    1968/1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 834/68 van de Commissie van 28 juni 1968 houdende
+    vaststelling van het bedrag van de vergoeding en het bedrag van de bijdrage voor
+    de compensatie van de opslagkosten in de sector suiker voor het verkoopseizoen
+    voor suiker 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0834
+docidentifier:
+- content: EU Regulation 834/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0834
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/834/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

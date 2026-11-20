@@ -1,0 +1,105 @@
+---
+id: EURegulation25651970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2565/70 of the Commission of 18 December 1970 amending
+    Regulation (EEC) No 2637/69 fixing the amount of the premium for grubbing apple
+    trees, pear trees and peach trees and the conditions for granting such premium
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2565/70 de la Commission, du 18 décembre 1970, modifiant
+    le règlement (CEE) n° 2637/69 fixant le montant et les conditions d' octroi
+    de la prime pour l' arrachage de pommiers, poiriers et pêchers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2565/70 der Kommission vom 18. Dezember 1970 zur Änderung
+    der Verordnung (EWG) Nr. 2637/69 zur Festlegung eines Betrages und der Bedingungen
+    für die Gewährung einer Prämie für das Roden von Apfel-, Birn- und Pfirsichbäumen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2565/70 af 18. december 1970 om ændring
+    af forordning (EØF) nr. 2637/69, der fastsætter præmiebeløb og betingelser
+    for ydelse af præmie for rydning af æbletræer, pæretræer og ferskentræer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2565/70 τής Επιτροπής
+    τής 18ης Δεκεμβρίου 1970 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 2637/69 «περί καθορισμού
+    τού ύψους καί τών όρων χορηγήσεως τής πριμοδοτήσεως
+    γιά τήν εκρίζωση μηλιών, αχλαδιών καί ροδακινιών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2565/70 della Commissione, del 18 dicembre 1970, che
+    modifica il regolamento (CEE) n. 2637/69 che fissa l' importo e le condizioni
+    per la concessione del premio per l' estirpazione di meli, peri e peschi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2565/70 van de Commissie van 18 december 1970 tot
+    wijziging van Verordening (EEG) nr. 2637/69 houdende vaststelling van de rooipremie
+    voor appelbomen, perebomen en perzikbomen, alsmede van de voorwaarden voor de
+    toekenning van deze premie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2565
+docidentifier:
+- content: EU Regulation 2565/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2565
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2565/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-18'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

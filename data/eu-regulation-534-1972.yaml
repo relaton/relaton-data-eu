@@ -1,0 +1,99 @@
+---
+id: EURegulation5341972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 534/72 of the Commission of 15 March 1972 supplementing
+    the list of varieties annexed to the common quality standards for table grapes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 534/72 de la Commission, du 15 mars 1972, complétant
+    la liste des variétés annexée aux normes communes de qualité pour les raisins
+    de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 534/72 der Kommission vom 15. März 1972 zur Vervollständigung
+    der den gemeinsamen Qualitätsnormen für Tafeltrauben angehängten Sortenliste
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 534/72 af 15. marts 1972 om fuldstændiggørelse
+    af sortfortegnelsen i bilaget til de fælles kvalitetsnormer for druer til spisebrug
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 534/72 της Επιτροπής
+    της 15ης Μαρτίου 1972 περί συμπληρώσεως του πίνακος
+    των ποικιλιών που προσαρτάται στους κοινούς
+    κανόνες ποιότητος για τα επιτραπέζια σταφύλια
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 534/72 della Commissione, del 15 marzo 1972, che completa
+    l' elenco delle varietà allegato alle norme di qualità per le uve da tavola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 534/72 van de Commissie van 15 maart 1972 tot aanvulling
+    van de variëteitenlijst die als bijlage is gehecht aan de gemeenschappelijke
+    kwaliteitsnormen voor tafeldruiven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0534
+docidentifier:
+- content: EU Regulation 534/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0534
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/534/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-15'
+- type: implemented
+  at: '1972-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0058
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

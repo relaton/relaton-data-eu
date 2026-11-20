@@ -1,0 +1,80 @@
+---
+id: EURegulation491963
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* Regulation No 49/63/EEC of the Council of 21 June 1963 on the criteria for fixing the production refund for starches */"
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 49/63/CEE du Conseil, du 21 juin 1963, relatif aux critères
+    en vue de la fixation de la restitution à la production des amidons et fécules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 49/63/EWG des Rats vom 21. Juni 1963 über die Kriterien
+    für die Festsetzung der Erstattung bei der Erzeugung von Getreide- und Kartoffelstärke
+  type: main
+- language: da
+  script: Latn
+  content: "/* Rådets forordning nr. 49/63/EØF af 21. juni 1963 om kriterierne for fastsættelse af produktionsrestitutionen for stivelse */"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 49/63/CEE del Consiglio del 21 giugno 1963 relativo ai criteri
+    per la determinazione della restituzione alla produzione degli amidi e delle fecole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 49/63/EEG van de Raad van 21 juni 1963 inzake de criteria
+    voor de vaststelling van de restitutie bij de produktie van zetmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0049
+docidentifier:
+- content: EU Regulation 49/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0049
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/49/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-06-21'
+- type: implemented
+  at: '1963-07-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

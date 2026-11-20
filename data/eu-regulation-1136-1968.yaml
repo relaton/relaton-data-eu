@@ -1,0 +1,77 @@
+---
+id: EURegulation11361968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1136/68 du Conseil, du 30 juillet 1968, portant ouverture,
+    répartition et mode de gestion d'un contingent tarifaire communautaire supplémentaire
+    pour l'année 1968 de magnésium brut de la position 77.01 A du tarif douanier
+    commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1136/68 des Rates vom 30. Juli 1968 über die Eröffnung,
+    Aufteilung und Verwaltung eines zusätzlichen Gemeinschaftszollkontingents für
+    Rohmagnesium der Tarifnummer 77.01 A des Gemeinsamen Zolltarifs für das Jahr
+    1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1136/68 del Consiglio, del 30 luglio 1968, relativo
+    all'apertura, alla suddivisione e alle modalità di gestione di un contingente
+    tariffario comunitario supplementare, per il 1968, di magnesio greggio della voce
+    77.01 A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1136/68 van de Raad van 30 juli 1968 houdende opening,
+    verdeling en wijze van beheer van een voor 1968 geldend extra communautair tariefcontingent
+    voor ruw magnesium van post 77.01 A van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1136
+docidentifier:
+- content: EU Regulation 1136/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1136
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1136/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-30'
+- type: implemented
+  at: '1968-08-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

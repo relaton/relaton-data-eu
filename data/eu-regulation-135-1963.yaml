@@ -1,0 +1,71 @@
+---
+id: EURegulation1351963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 135/63/CEE de la Commission, du 16 décembre 1963, portant
+    adaptation et fixation des prix d'écluse pour les porcs et les produits à base
+    de viande de porc, pour les importations effectuées entre le 1er janvier et le
+    31 mars 1964
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 135/63/EWG der Kommission vom 16. Dezember 1963 zur Anpassung
+    und Festsetzung der Einschleusungspreise für Schweine und Schweinefleischerzeugnisse
+    für Einfuhren in der Zeit vom 1. Januar bis zum 31. März 1964
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 135/63/CEE della Commissione del 16 dicembre 1963 relativo
+    all'adattamento e alla fissazione dei prezzi limite applicabili ai suini e ai
+    prodotti a base di carni suine per le importazioni effettuate tra il 1 gennaio
+    e il 31 marzo 1964
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 135/63/EEG van de Commissie van 16 december 1963 houdende
+    aanpassing en vaststelling van de sluisprijzen voor varkens en varkensvleesprodukten
+    die van 1 januari tot en met 31 maart 1964 worden ingevoerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0135
+docidentifier:
+- content: EU Regulation 135/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0135
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/135/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

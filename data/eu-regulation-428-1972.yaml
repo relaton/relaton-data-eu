@@ -1,0 +1,69 @@
+---
+id: EURegulation4281972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 428/72 de la Commission, du 29 février 1972, fixant
+    les restitutions à l'exportation, en l'état, pour la mélasse, les sirops et
+    certains autres produits du secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 428/72 der Kommission vom 29. Februar 1972 zur Festsetzung
+    der Erstattung bei der Ausfuhr in unverändertem Zustand für Melasse, Sirupe
+    und bestimmte andere Erzeugnisse auf dem Zuckersektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 428/72 della Commissione, del 29 febbraio 1972, che
+    fissa le restituzioni all'esportazione per il melasso, gli sciroppi ed alcuni
+    altri prodotti del settore dello zucchero esportati come tali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 428/72 van de Commissie van 29 februari 1972 houdende
+    vaststelling van de restituties bij de uitvoer in onveranderde vorm voor melasse,
+    stropen en bepaalde andere produkten van de suikersector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0428
+docidentifier:
+- content: EU Regulation 428/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0428
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/428/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

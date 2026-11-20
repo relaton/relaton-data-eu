@@ -1,0 +1,69 @@
+---
+id: EURegulation331970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 33/70 de la Commission, du 9 janvier 1970, fixant les
+    prélèvements applicables aux céréales, aux farines et aux gruaux et semoules
+    de froment ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 33/70 der Kommission vom 9. Januar 1970 zur Festsetzung
+    der auf Getreide, Mehle, Grütze und GrieD von Weizen oder Roggen anwendbaren
+    Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 33/70 della Commissione, del 9 gennaio 1970, che fissa
+    i prelievi applicabili ai cereali e alle farine, alle semole e ai semolini di
+    frumento o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 33/70 van de Commissie van 9 januari 1970 houdende
+    vaststelling van de heffingen die van toepassing zijn op granen en meel, grutten,
+    gries en griesmeel van tarwe of van rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0033
+docidentifier:
+- content: EU Regulation 33/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0033
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/33/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-01-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation12281970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1228/70 du Conseil, du 29 juin 1970, fixant les prix
+    d'orientation valables pour la campagne de commercialisation 1970/1971, pour les
+    veaux et les gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1228/70 des Rates vom 29. Juni 1970 zur Festsetzung
+    der Orientierungspreise für Kälber und ausgewachsene Rinder für das Wirtschaftsjahr
+    1970/1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1228/70 del Consiglio, del 29 giugno 1970, che fissa
+    i prezzi d'orientamento applicabili ai vitelli e ai bovini adulti per la campagna
+    di commercializzazione 1970/1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1228/70 van de Raad van 29 juni 1970 houdende vaststelling
+    van de oriëntatieprijzen welke gedurende het verkoopseizoen 1970/1971 gelden
+    voor kalveren en volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1228
+docidentifier:
+- content: EU Regulation 1228/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1228
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1228/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

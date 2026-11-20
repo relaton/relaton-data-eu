@@ -1,0 +1,97 @@
+---
+id: EURegulation16451977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1645/77 of 20 July 1977 increasing the Community
+    tariff quota opened for 1977 by Regulation (EEC) No 2930/76 for unwrought magnesium
+    falling within subheading 77.01 A of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1645/77 du Conseil, du 20 juillet 1977, portant augmentation
+    du volume du contingent tarifaire communautaire ouvert, pour l'année 1977, par
+    le règlement (CEE) n° 2930/76 pour le magnésium brut de la sous-position 77.01
+    A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1645/77 des Rates vom 20. Juli 1977 zur Aufstockung
+    des durch die Verordnung (EWG) Nr. 2930/76 für das Jahr 1977 eröffneten Gemeinschaftszollkontingents
+    für Rohmagnesium der Tarifstelle 77.01 A des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1645/77 af 20. juli 1977 om forhøjelse af
+    det for 1977 ved forordning (EØF) nr. 2930/76 åbnede fællesskabskontingent
+    for ubearbejdet magnesium, henhørende under pos. 77.01 A i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1645/77 del Consiglio, del 20 luglio 1977, che aumenta
+    il volume del contingente tariffario comunitario aperto, per il 1977, dal regolamento
+    (CEE) n. 2930/76 per il magnesio greggio della sottovoce 77.01 A della tariffa
+    doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1645/77 van de Raad van 20 juli 1977 houdende verhoging
+    van het communautaire tariefcontingent geopend bij Verordening (EEG) nr. 2930/76
+    voor het jaar 1977 voor ruw magnesium van onderverdeling 77.01 A van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1645
+docidentifier:
+- content: EU Regulation 1645/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1645
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1645/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-07-20'
+- type: implemented
+  at: '1977-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2930
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

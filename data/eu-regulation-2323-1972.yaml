@@ -1,0 +1,88 @@
+---
+id: EURegulation23231972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2323/72 of the Council of 31 October 1972 amending
+    Regulation (EEC) No 2311/71 on the subsidy for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2323/72 du Conseil, du 31 octobre 1972, modifiant
+    le règlement (CEE)" n° 2311/71 relatif à l' aide pour l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2323/72 des Rates vom 31. Oktober 1972 zur Änderung
+    der Verordnung (EWG) Nr. 2311/71 über die Beihilfe für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2323/72 af 31. oktober 1972 om ændring af
+    forordning (EØF) nr. 2311/71 om støtte til olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2323/72 del Consiglio, del 31 ottobre 1972, che modifica
+    il regolamento (CEE) n. 2311/71 relativo all' integrazione per l' olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2323/72 van de Raad van 31 oktober 1972 tot wijziging
+    van Verordening (EEG) nr. 2311/71 betreffende de steun voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2323
+docidentifier:
+- content: EU Regulation 2323/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2323
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2323/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-31'
+- type: implemented
+  at: '1972-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2311
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

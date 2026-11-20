@@ -1,0 +1,74 @@
+---
+id: EURegulation4081967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 408/67/CEE du Conseil, du 25 juillet 1967, portant adjonction
+    du mannitol et du sorbitol, de la position 29.04 C II du tarif douanier commun,
+    à la liste des marchandises auxquelles s'applique le règlement n° 160/66/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 408/67/EWG des Rates vom 25. Juli 1967 zur Aufnahme von
+    Mannit und Sorbit (Tarifnummer 29.04 C II des Gemeinsamen Zolltarifs) in die Liste
+    der Waren, auf die die Verordnung Nr. 160/66/EWG Anwendung findet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 408/67/CEE del Consiglio, del 25 luglio 1967, che aggiunge
+    la mannite e la sorbite (voce 29.04 C II della tariffa doganale comune) all'elenco
+    delle merci cui si applica il regolamento n. 160/66/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 408/67/EEG van de Raad van 25 juli 1967 tot toevoeging
+    van mannitol en sorbitol van post 29.04 C II van het gemeenschappelijk douanetarief
+    aan de lijst van goederen waarop Verordening Nr. 160/66/ EEG van toepassing is
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0408
+docidentifier:
+- content: EU Regulation 408/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0408
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/408/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-25'
+- type: implemented
+  at: '1967-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

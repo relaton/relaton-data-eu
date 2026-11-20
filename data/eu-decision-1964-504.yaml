@@ -1,0 +1,92 @@
+---
+id: EUDecision1964504
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/504/CEE de la Commission, du 14 août 1964, remplaçant l'annexe
+    de la décision du 22 juillet 1964, autorisant le Royaume de Belgique, le Grand-Duché
+    de Luxembourg, la République française et la République italienne à percevoir
+    un montant compensatoire à l'importation de certaines catégories d'aliments
+    pour animaux, contenant du lait, modifiée en dernier lieu par la décision du
+    31 juillet 1964
+  type: main
+- language: de
+  script: Latn
+  content: '64/504/EWG: Entscheidung der Kommission vom 14. August 1964 zur Ersetzung
+    des Anhangs der Entscheidung vom 22. Juli 1964, die das Königreich Belgien, das
+    Großherzogtum Luxemburg, die Französische Republik und die Italienische Republik
+    ermächtigt, einen Ausgleichsbetrag bei der Einfuhr bestimmter Milch enthaltender
+    Futtermittelarten zu erheben, zuletzt geändert durch die Entscheidung vom 31.
+    Juli 1964'
+  type: main
+- language: it
+  script: Latn
+  content: '64/504/CEE: Decisione della Commissione, del 14 agosto 1964, che sostituisce
+    l''allegato della decisione del 22 luglio 1964 con cui il Regno del Belgio, il
+    Granducato del Lussemburgo, la Repubblica francese e la Repubblica italiana sono
+    autorizzati a riscuotere un ammontare compensativo all''importazione di alcune
+    categorie di alimenti per animali, contenenti latte, ultimamente modificato dalla
+    decisione del 31 luglio 1964'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/504/EEG: Beschikking van de Commissie van 14 augustus 1964 tot vervanging
+    van de bijlage van de beschikking d.d. 22 juli 1964, houdende machtiging van het
+    Koninkrijk België, het Groothertogdom Luxemburg, de Franse Republiek en de Italiaanse
+    Republiek om een compenserend bedrag te heffen op de invoer van sommige soorten
+    melk bevattende veevoeders, laatstelijk gewijzigd bij beschikking van 31 juli
+    1964'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0504
+docidentifier:
+- content: EU Decision 1964/504
+  type: EU
+  primary: true
+- content: CELEX 31964D0504
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/504/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-08-14'
+- type: implemented
+  at: '1964-08-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0437
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,65 @@
+---
+id: EURegulation1801967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 180/67/CEE de la Commission, du 27 juin 1967, modifiant le
+    montant supplémentaire pour les oeufs en coquille de volailles de basse-cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 180/67/EWG der Kommission vom 27. Juni 1967 zur Änderung
+    des Zusatzbetrags für Eier in der Schale von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 180/67/CEE della Commissione, del 27 giugno 1967, che modifica
+    l'importo supplementare per le uova in guscio di volatili da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening No. 180/67/EEG van de Commissie van 27 juni 1967 houdende wijziging
+    van het extra bedrag voor eieren in de schaal van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0180
+docidentifier:
+- content: EU Regulation 180/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0180
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/180/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

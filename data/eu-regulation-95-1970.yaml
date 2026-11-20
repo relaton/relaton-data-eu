@@ -1,0 +1,92 @@
+---
+id: EURegulation951970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CECA, CEE, Euratom) n° 95/70 du Conseil, du 19 janvier 1970,
+    portant adaptation des rémunérations et pensions des fonctionnaires des Communautés
+    européennes ainsi que des rémunérations des autres agents de ces Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EGKS, EWG, Euratom) Nr. 95/70 des Rates vom 19. Januar 1970
+    zur Angleichung der Dienst- und Versorgungsbezüge der Beamten der Europäischen
+    Gemeinschaften sowie der Dienstbezüge der sonstigen Bediensteten dieser Gemeinschaften
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CECA, CEE, Euratom) n. 95/70 del Consiglio, del 19 gennaio
+    1970, relativo all'adeguamento delle retribuzioni e delle pensioni dei funzionari
+    delle Comunità europee nonché delle retribuzioni degli altri agenti di tali
+    Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EGKS, EEG, Euratom) nr. 95/70 van de Raad van 19 januari 1970
+    houdende aanpassing van de bezoldiging en de pensioenen van de ambtenaren der
+    Europese Gemeenschappen, alsmede van de bezoldiging van de andere personeelsleden
+    van deze Gemeenschappen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0095
+docidentifier:
+- content: EU Regulation 95/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0095
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/95/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-01-19'
+- type: implemented
+  at: '1969-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2278
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(02)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

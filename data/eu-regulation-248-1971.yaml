@@ -1,0 +1,65 @@
+---
+id: EURegulation2481971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 248/71 de la Commission, du 4 février 1971, fixant
+    le correctif applicable à la restitution pour les céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 248/71 der Kommission vom 4. Februar 1971 zur Festsetzung
+    der bei der Erstattung für Getreide anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 248/71 della Commissione, del 4 febbraio 1971, che
+    fissa il correttivo applicabile alla restituzione per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 248/71 van de Commissie van 4 februari 1971 houdende
+    vaststelling van het op de restitutie voor granen toe te passen correctief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0248
+docidentifier:
+- content: EU Regulation 248/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0248
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/248/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

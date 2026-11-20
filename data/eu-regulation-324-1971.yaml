@@ -1,0 +1,78 @@
+---
+id: EURegulation3241971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 324/71 de la Commission, du 15 février 1971, portant
+    dérogation provisoire aux articles 5 et 6 du règlement (CEE) n° 816/70 en ce
+    qui concerne la durée des contrats de stockage et le montant de l'aide au stockage
+    privé pour les vins de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 324/71 der Kommission vom 15. Februar 1971 zur vorübergehenden
+    übergehenden von Artikel 5 und 6 der Verordnung (EWG) Nr. 816/70 hinsichtlich
+    der Dauer der Lagerverträge und des Betrages der Beihilfe für die private Lagerhaltung
+    für Tafelwein
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 324/71 della Commissione, del 15 febbraio 1971, recante
+    deroga provvisoria agli articoli 5 e 6 del regolamento (CEE) n. 816/70 per quanto
+    riguarda il periodo di validità dei contratti di magazzinaggio e l'importo dell'aiuto
+    al magazzinaggio privato per i vini da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 324/71 van de Commissie van 15 februari 1971 houdende
+    tijdelijke afwijking van de artikelen 5 en 6 van Verordening (EEG) nr. 816/70
+    ten aanzien van de duur der opslagcontracten en het bedrag van de steun aan de
+    particuliere opslag van tafelwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0324
+docidentifier:
+- content: EU Regulation 324/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0324
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/324/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-15'
+- type: implemented
+  at: '1971-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

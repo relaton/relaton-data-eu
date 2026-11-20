@@ -1,0 +1,73 @@
+---
+id: EURegulation16821969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1682/69 de la Commission, du 26 août 1969, modifiant
+    le règlement (CEE) n 1615/69 relatif à des adjudications pour l'écoulement
+    de beurre de stock détenu par les organismes d'intervention allemand, français
+    et néerlandais et destiné à la consommation directe dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1682/69 der Kommission vom 26. August 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1615/69 über Ausschreibungen zum Absatz von zum direkten
+    Verbrauch in der Gemeinschaft bestimmter Butter aus den Beständen der deutschen,
+    der französischen und der niederländischen Interventionsstelle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1682/69 della Commissione, del 26 agosto 1969, che
+    modifica il regolamento (CEE) n. 1615/69, relativo a dei bandi di gara per lo
+    smaltimento di burro d'ammasso in possesso degli organismi d'intervento tedesco,
+    francese e olandese e destinato al consumo diretto nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1682/69 van de Commissie van 26 augustus 1969 tot
+    wijziging van Verordening (EEG) nr. 1615/69 betreffende de afzet door middel van
+    verkoop bij inschrijving van in het bezit van het Duitse, het Franse en het Nederlandse
+    interventiebureau zijnde boter, bestemd voor directe consumptie in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1682
+docidentifier:
+- content: EU Regulation 1682/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1682
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1682/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

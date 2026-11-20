@@ -1,0 +1,114 @@
+---
+id: EUDirective1991148
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 91/148/EEC of 18 March 1991 revoking Directive 75/404/EEC
+    on the restriction of the use of natural gas in power stations
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 91/148/CEE du Conseil du 18 mars 1991 abrogeant la directive
+    75/404/CEE concernant la limitation de l'utilisation de gaz naturel dans les centrales
+    électriques
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 91/148/EWG des Rates vom 18. März 1991 zur Aufhebung der Richtlinie
+    75/404/EWG über die Einschränkung des Einsatzes von Erdgas in Kraftwerken
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 91/148/EØF af 18. marts 1991 om ophævelse af direktiv
+    75/404/EØF om begrænsning af naturgasforbruget i kraftværker
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 91/148/ΕΟΚ του Συμβουλίου της 18ης Μαρτίου
+    1991 για την κατάργηση της οδηγίας 75/404/ΕΟΚ περί
+    του περιορισμού της χορηγήσεως φυσικού αερίου
+    στους σταθμούς παραγωγής ηλεκτρικής ενέργειας
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 91/148/CEE del Consiglio del 18 marzo 1991 che abroga la direttiva
+    75/404/CEE concernente la limitazione dell'uso del gas naturale nelle centrali
+    elettriche
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 91/148/EEG van de Raad van 18 maart 1991 houdende intrekking
+    van Richtlijn 75/404/EEG betreffende beperking van het aardgasgebruik in elektrische
+    centrales
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 91/148/CEE do Conselho de 18 de Março de 1991 que revoga a Directiva
+    75/404/CEE relativa à limitação da utilização de gás natural nas centrais
+    eléctricas
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 91/148/CEE del Consejo de 18 de marzo de 1991 por la que se deroga
+    la Directiva 75/404/CEE del Consejo relativa a la limitación del uso de gas natural
+    en las centrales eléctricas
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991L0148
+docidentifier:
+- content: EU Directive 1991/148
+  type: EU
+  primary: true
+- content: CELEX 31991L0148
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1991/148/oj
+  type: ELI
+date:
+- type: issued
+  at: '1991-03-18'
+- type: implemented
+  at: '1991-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975L0404
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

@@ -1,0 +1,95 @@
+---
+id: EURegulation2121971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 212/71 of the Commission of 29 January 1971 implementing,
+    as regards fishery products, Regulation No 1041/67/EEC on detailed rules for the
+    application of export refunds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 212/71 de la Commission, du 29 janvier 1971, rendant
+    applicable, dans le secteur des produits de la pêche, le règlement n° 1041/67/CEE,
+    portant modalités d' application des restitutions à l' exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 212/71 der Kommission vom 29. Januar 1971 zur Anwendung
+    der Verordnung Nr. 1041/67/EWG über die Durchführungsvorschriften für die Ausfuhrerstattungen
+    im Sektor Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 212/71 af 29. januar 1971 om anvendelsen
+    af forordning nr. 1041/67/EØF om gennemførelsesbestemmelser for eksportrestitutioner
+    inden for fiskerisektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 212/71 della Commissione, del 29 gennaio 1971, recante
+    applicazione nel settore dei prodotti della pesca del regolamento n. 1041/67/CEE,
+    che fissa le modalità di applicazione delle restituzioni all' esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 212/71 van de Commissie van 29 januari 1971 waarbij
+    Verordening nr. 1041/67/EEG houdende uitvoeringsbepalingen inzake de verlenging
+    van resoluties bij de uitvoer van toepassing wordt verklaard voor de produkten
+    in de sector visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0212
+docidentifier:
+- content: EU Regulation 212/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0212
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/212/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-29'
+- type: implemented
+  at: '1971-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1041
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

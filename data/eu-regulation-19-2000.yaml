@@ -1,0 +1,119 @@
+---
+id: EURegulation192000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 19/2000 of 5 January 2000 amending the corrective
+    amount applicable to the refund on cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 19/2000 de la Commission, du 5 janvier 2000, modifiant
+    le correctif applicable à la restitution pour les céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 19/2000 der Kommission vom 5. Januar 2000 zur Änderung
+    der bei der Erstattung für Getreide anzuwendenden Berichtigung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 19/2000 af 5. januar 2000 om ændring
+    af de korrektionsbeløb, der skal anvendes på eksportrestitutionerne for korn
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 19/2000 της Επιτροπής,
+    της 5ης Ιανουαρίου 2000, για τροποποίηση του διορθωτικού
+    στοιχείου που εφαρμόζεται στην επιστροφή για
+    τα σιτηρά
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 19/2000, annettu 5 päivänä tammikuuta 2000,
+    viljojen tukeen sovellettavan korjauskertoimen muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 19/2000 della Commissione, del 5 gennaio 2000, che
+    modifica il correttivo applicabile alla restituzione per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 19/2000 van de Commissie van 5 januari 2000 tot wijziging
+    van het op de restitutie voor granen toe te passen correctiebedrag
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 19/2000 da Comissão, de 5 de Janeiro de 2000, que
+    altera a correcção aplicável à restituição em relação aos cereais
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 19/2000 de la Comisión, de 5 de enero de 2000, por
+    el que se modifica el elemento corrector aplicable a la restitución para los
+    cereales
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 19/2000 av den 5 januari 2000 om ändring
+    av det korrektionsbelopp som tillämpas på exportbidraget för spannmål
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R0019
+docidentifier:
+- content: EU Regulation 19/2000
+  type: EU
+  primary: true
+- content: CELEX 32000R0019
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2000/19/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-01-05'
+- type: implemented
+  at: '2000-01-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31999R2402
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

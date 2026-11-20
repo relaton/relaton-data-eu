@@ -1,0 +1,84 @@
+---
+id: EURegulation7571968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 757/68 du Conseil, du 18 juin 1968, modifiant le règlement
+    n° 358/67/CEE en ce qui concerne la quantité de cheddar faisant l'objet de mesures
+    nationales d'intervention en France qui peut être exportée vers les autres États
+    membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 757/68 des Rates vom 18. Juni 1968 zur Änderung der
+    Verordnung Nr. 358/67/EWG hinsichtlich der Menge Cheddar-Käse, die Gegenstand
+    von einzelstaatlichen Interventionsmaßnahmen in Frankreich ist und nach anderen
+    Mitgliedstaaten ausgeführt werden kann
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 757/68 del Consiglio, del 18 giugno 1968, che modifica
+    il regolamento n. 358/67/CEE per quanto riguarda il quantitativo di Cheddar oggetto
+    di misure nazionali d'intervento in Francia, che può essere esportato verso gli
+    altri Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 757/68 van de Raad van 18 juni 1968 tot wijziging
+    van Verordening nr. 358/67/EEG ten aanzien van de hoeveelheid Cheddarkaas waarop
+    in Frankrijk nationale interventiemaatregelen toegepast zijn en welke naar de
+    andere Lid-Staten mag worden uitgevoerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0757
+docidentifier:
+- content: EU Regulation 757/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0757
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/757/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-18'
+- type: implemented
+  at: '1968-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0358
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

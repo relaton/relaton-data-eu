@@ -1,0 +1,87 @@
+---
+id: EURegulation3551968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 355/68 du Conseil, du 27 mars 1968, portant mesures
+    transitoires pour la période comprise entre le 1er avril 1968 et la date de la
+    mise en application du régime des prix uniques dans le secteur du lait et des
+    produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 355/68 des Rates vom 27. März 1968 über Übergangsmaßnahmen
+    für den Zeitraum vom 1. April 1968 bis zum Beginn der Anwendung des Systems der
+    gemeinsamen Preise für Milch und Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 355/68 del Consiglio, del 27 marzo 1968, che istituisce
+    misure transitorie per il periodo intercorrente tra il 1 aprile 1968 e la data
+    di applicazione del regime dei prezzi unici nel settore del latte e dei prodotti
+    lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 355/68 van de Raad van 27 maart 1968 houdende overgangsmaatregelen
+    voor de periode van 1 april 1968 tot de datum van toepassing van het stelsel van
+    gemeenschappelijke prijzen in de zuivelsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0355
+docidentifier:
+- content: EU Regulation 355/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0355
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/355/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-03-27'
+- type: implemented
+  at: '1968-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0013
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0918
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,105 @@
+---
+id: EURegulation13031979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1303/79 of 25 June 1979 amending Regulation
+    (EEC) No 337/79 on the common organization of the market in wine and Regulation
+    (EEC) No 338/79 laying down special provisions relating to quality wines produced
+    in specified regions
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1303/79 du Conseil, du 25 juin 1979, modifiant le
+    règlement (CEE) n° 337/79 portant organisation commune du marché viti-vinicole
+    ainsi que le règlement (CEE) n° 338/79 établissant des dispositions particulières
+    relatives aux vins de qualité produits dans des régions déterminées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1303/79 des Rates vom 25. Juni 1979 zur Änderung
+    der Verordnung (EWG) Nr. 337/79 über die gemeinsame Marktorganisation für Wein
+    sowie der Verordnung (EWG) Nr. 338/79 zur Festlegung besonderer Vorschriften für
+    Qualitätsweine bestimmter Anbaugebiete
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1303/79 af 25. juni 1979 om ændring af forordning
+    (EØF) nr. 337/79 om den fælles markedsordning for vin og af forordning (EØF)
+    nr. 338/79 om fastlæggelse af særlige regler for kvalitetsvine fra bestemte
+    dyrkningsområder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1303/79 del Consiglio, del 25 giugno 1979, che modifica
+    il regolamento (CEE) n. 337/79 relativo all' organizzazione del mercato vitivinicolo
+    ed il regolamento (CEE) n. 338/79 che stabilisce disposizioni particolari per
+    i vini di qualità prodotti in regioni determinate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1303/79 van de Raad van 25 juni 1979 tot wijziging
+    van Verordening (EEG) nr. 337/79 houdende een gemeenschappelijke ordening van
+    de wijnmarkt en van Verordening (EEG) nr. 338/79 houdende vaststelling van bijzondere
+    bepalingen betreffende in bepaalde gebieden voortgebrachte kwaliteitswijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1303
+docidentifier:
+- content: EU Regulation 1303/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1303
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1303/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-06-25'
+- type: implemented
+  at: '1979-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0337
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0338
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

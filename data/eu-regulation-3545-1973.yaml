@@ -1,0 +1,94 @@
+---
+id: EURegulation35451973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3545/73 of the Commission of 21 December 1973 amending
+    Regulation (EEC) No 320/73 as regards the list of representative markets for adult
+    bovine animals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3545/73 de la Commission, du 21 décembre 1973, modifiant
+    le règlement (CEE) n° 320/73 en ce qui concerne la liste des marchés représentatifs
+    des gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3545/73 der Kommission vom 21. Dezember 1973 zur Änderung
+    der Verordnung (EWG) Nr. 320/73 über die Liste der repräsentativen Märkte für
+    ausgewachsene Rinder
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3545/73 af 21. december 1973 om ændring
+    af forordning (EØF) nr. 320/73 vedrørende listen over de repræsentative markeder
+    for voksent kvæg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3545/73 della Commissione, del 21 dicembre 1973, che
+    modifica il regolamento (CEE) n. 320/73 per quanto concerne l'elenco dei mercati
+    rappresentativi per i bovini adulti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3545/73 van de Commissie van 21 december 1973 tot
+    wijziging van Verordening (EEG) nr. 320/73 met betrekking tot de lijst van de
+    representatieve markten voor volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3545
+docidentifier:
+- content: EU Regulation 3545/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3545
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3545/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-12-21'
+- type: implemented
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

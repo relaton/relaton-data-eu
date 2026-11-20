@@ -1,0 +1,104 @@
+---
+id: EURegulation17891976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1789/76 of 23 July 1976 amending Regulations
+    (EEC) No 1896/73 and (EEC) No 582/76 as regards beef which may be bought into
+    intervention in Germany, and coefficients in the beef sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1789/76 de la Commission, du 23 juillet 1976, modifiant
+    les règlements (CEE) n° 1896/73 et n° 582/76 en ce qui concerne les produits
+    pouvant faire l'objet d'achats à l'intervention en République fédérale d'Allemagne,
+    ainsi que leurs coefficients dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1789/76 der Kommission vom 23. Juli 1976 zur Änderung
+    der Verordnungen (EWG) Nr. 1896/73 und Nr. 582/76 hinsichtlich der Erzeugnisse
+    des Rindfleischsektors, die Gegenstand von Interventionskäufen in Deutschland
+    sein können, sowie ihrer Koeffizienten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1789/76 af 23. juli 1976 om ændring
+    af forordning (EØF) nr. 1896/73 og forordning (EØF) nr. 582/76 for så vidt
+    angår de produkter, der kan købes ved intervention i Forbundsrepublikken Tyskland,
+    samt koefficienterne for disse i oksekødsektorenå
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1789/76 della Commissione, del 23 luglio 1976, che
+    modifica i regolamenti (CEE) n. 1896/73 e (CEE) n. 582/76 per quanto riguarda
+    i prodotti che possono formare oggetto di acquisti all' intervento in Germania
+    e i relativi coefficienti nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1789/76 van de Commissie van 23 juli 1976 tot wijziging
+    van de Verordeningen (EEG) nr. 1896/73 en (EEG) nr. 582/76 met betrekking tot
+    de produkten die in Duitsland in de rundvleessector door de interventiebureaus
+    kunnen worden aangekocht en de daarvoor geldende coëfficiënten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1789
+docidentifier:
+- content: EU Regulation 1789/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1789
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1789/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-23'
+- type: implemented
+  at: '1976-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0582
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

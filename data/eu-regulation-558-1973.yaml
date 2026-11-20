@@ -1,0 +1,133 @@
+---
+id: EURegulation5581973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (ECSC, EEC, Euratom) No 558/73 of the Council of 26 February
+    1973 amending Regulation (EEC, Euratom, ECSC) No 259/68 fixing the Staff Regulations
+    of the Officials and Conditions of Employment applicable to other Servants of
+    the European Communities
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CECA, CEE, Euratom) n° 558/73 du Conseil, du 26 février 1973,
+    modifiant le règlement (CEE, Euratom, CECA) n° 259/68 fixant le statut des fonctionnaires
+    des Communautés européennes ainsi que le régime applicable aux autres agents
+    de ces Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EGKS, EWG, Euratom) Nr. 558/73 des Rates vom 26. Februar 1973
+    zur Änderung der Verordnung (EWG, Euratom, EGKS) Nr. 259/68 zur Festlegung des
+    Statuts der Beamten der Europäischen Gemeinschaften und der Beschäftigungsbedingungen
+    für die sonstigen Bediensteten dieser Gemeinschaften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EKSF, EØF, Euratom) nr. 558/73 af 26. februar 1973
+    om ændring af forordning (EØF, Euratom, EKSF) nr. 259/68, der fastsætter vedtægten
+    for tjenestemænd i De europæiske Fællesskaber og ansættelsesvilkårene for
+    de øvrige ansatte i disse Fællesskaber
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚΑΧ, ΕΟΚ, Ευρατόμ) αριθ. 558/73
+    του Συμβουλίου της 26ης Φεβρουαρίου 1973 περί
+    τροποποιήσεως του κανονισμού (ΕΟΚ, Ευρατόμ,
+    ΕΚΑΧ) αριθ. 259/68 «περί του κανονισμού υπηρεσιακής
+    καταστάσεως των υπαλλήλων των Ευρωπαϊκών Κοινοτήτων
+    καθώς και του καθεστώτος που εφαρμόζεται επί
+    του λοιπού προσωπικού των Κοινοτήτων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CECA, CEE, Euratom) n. 558/73 del Consiglio, del 26 febbraio
+    1973, che modifica il regolamento (CEE, Euratom, CECA) n. 259/68 che definisce
+    lo statuto dei funzionari delle Comunità europee nonché il regime applicabile
+    agli altri agenti di tali Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EGKS, EEG, Euratom) nr. 558/73 van de Raad van 26 februari
+    1973 tot wijziging van Verordening (EEG, Euratom, EGKS) nr. 259/68 tot vaststelling
+    van het Statuut van de ambtenaren van de Europese Geeenschappen en de regeling
+    welke van toepassing is op de andere personeelsleden van deze Gemeenschappen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CECA, CEE, Euratom) n. 558/73 do Conselho, de 26 de Fevereiro
+    de 1973, que modifica o Regulamento (CEE, Euratom, CECA) n. 259/68 que fixa o
+    Estatuto dos Funcionários das Comunidades Europeias, assim como o Regime aplicável
+    aos outros agentes das mesmas Comunidades
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CECA, CEE, Euratom) n° 558/73 del Consejo, de 26 de febrero
+    de 1973, que modifica el Reglamento (CEE, Euratom, CECA) n° 259/68 por el que
+    se establece el Estatuto de los funcionarios de las Comunidades Europeas y el
+    régimen aplicable a los otros agentes de dichas Comunidades
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0558
+docidentifier:
+- content: EU Regulation 558/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0558
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/558/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-02-26'
+- type: implemented
+  at: '1972-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(02)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

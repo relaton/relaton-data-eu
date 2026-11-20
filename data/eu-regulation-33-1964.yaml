@@ -1,0 +1,87 @@
+---
+id: EURegulation331964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 33/64/CEE du Conseil, du 25 mars 1964, prorogeant la durée
+    de validité du règlement n° 85/63/CEE du Conseil, relatif à la détermination
+    des prix d'écluse et des montants supplémentaires, et fixant des dispositions
+    transitoires pour les découpes et les préparations et conserves à base de viande
+    de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 33/64/EWG des Rats vom 25. März 1964 zur Verlängerung
+    der Geltungsdauer der Verordnung Nr. 85/63/EWG des Rats über die Festsetzung
+    der Einschleusungspreise und der Zusatzbeträge sowie der Übergangsbestimmungen
+    für Teilstücke von Schweinen sowie Schweinefleisch enthaltende Zubereitungen
+    und Konserven
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 33/64/CEE del Consiglio, del 25 marzo 1964, che proroga
+    la validità del regolamento n. 85/63/CEE del Consiglio relativo alla determinazione
+    dei prezzi limite, nonché alla fissazione degli ammontari supplementari e delle
+    disposizioni transitorie per i tagli di carne suina e le preparazioni e conserve
+    a base di carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 33/64/EEG van de Raad van 25 maart 1964 tot verlenging
+    van de geldigheidsduur van Verordening Nr. 85/63/EEG van de Raad inzake de vaststelling
+    van de sluisprijzen en van de extrabedragen en inzake overgangsbepalingen voor
+    delen van varkens, bereidingen en conserven op basis van varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0033
+docidentifier:
+- content: EU Regulation 33/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0033
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/33/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-03-25'
+- type: implemented
+  at: '1964-04-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0085
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

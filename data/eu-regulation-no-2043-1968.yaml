@@ -1,0 +1,77 @@
+---
+id: EURegulationNo20431968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2043/68 du Conseil, du 10 décembre 1968, portant
+    établissement graduel d'une procédure commune de gestion des contingents quantitatifs
+    à l'importation dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2042/68 des Rates vom 10. Dezember 1968 über die
+    Anwendung der Verordnung (EWG) Nr. 2041/68 zur Aufstellung einer gemeinsamen Liste
+    für die Liberalisierung der Einfuhr in die Gemeinschaft gegenüber dritten Ländern
+    auf die französischen überseeischen Departements
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2042/68 del Consiglio, del 10 dicembre 1968, relativo
+    all'applicazione ai dipartimenti francesi d'oltremare del regolamento (CEE) n.
+    2041/68 relativo all'elaborazione di un elenco comune di liberalizzazione delle
+    importazioni nella Comunità dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2042/68 van de Raad van 10 december 1968 betreffende
+    de toepassing op de Franse overzeese departementen van Verordening (EEG) nr. 2041/68
+    houdende de vaststelling van een gemeenschappelijke lijst voor de liberalisatie
+    van de invoer in de Gemeenschap ten opzichte van derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R2043
+docidentifier:
+- content: EU Regulation No 2043/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R2043
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/2043/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-10'
+- type: implemented
+  at: '1969-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

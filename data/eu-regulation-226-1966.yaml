@@ -1,0 +1,75 @@
+---
+id: EURegulation2261966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 226/66/CEE du Conseil, du 22 décembre 1966, autorisant
+    la République française à diminuer le montant fixé du prélèvement applicable
+    à l'importation des laits spéciaux dits "pour nourrissons"
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 226/66/EWG des Rates vom 22. Dezember 1966 zur Ermächtigung
+    der Französischen Republik, bei der Einfuhr von Milch zur Ernährung von Säuglingen
+    den festen Teilbetrag der Abschöpfung zu senken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 226/66/CEE del Consiglio, del 22 dicembre 1966, che autorizza
+    la Repubblica francese a diminuire l'ammontare fisso del prelievo applicabile
+    all'importazione di alcuni tipi speciali di latte detti per «l'alimentazione
+    dei lattanti»
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 226/66/EEG van de Raad van 22 december 1966 waarbij de
+    Franse Republiek wordt gemachtigd tot verlaging van het vaste bedrag van de heffing
+    bij de invoer van bijzondere melk voor zuigelingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0226
+docidentifier:
+- content: EU Regulation 226/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0226
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/226/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-22'
+- type: implemented
+  at: '1966-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

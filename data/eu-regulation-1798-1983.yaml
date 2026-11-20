@@ -1,0 +1,104 @@
+---
+id: EURegulation17981983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1798/83 of 30 June 1983 amending Regulation
+    (EEC) No 2931/81 suspending the customs duties applicable on certain agricultural
+    products coming from Greece
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1798/83 de la Commission du 30 juin 1983 modifiant
+    le règlement (CEE) no 2931/81 en ce qui concerne la suspension des droits de
+    douane applicables à certains produits agricoles en provenance de Grèce
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1798/83 der Kommission vom 30. Juni 1983 zur Änderung
+    der Verordnung (EWG) Nr. 2931/81 hinsichtlich der Aussetzung der Zölle bestimmter
+    landwirtschaftlicher Erzeugnisse aus Griechenland
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1798/83 af 30. juni 1983 om ændring
+    af forordning (EØF) nr. 2931/81 for så vidt angår suspensionen af toldsatser
+    for visse landbrugsprodukter fra Grækenland
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1798/83 της Επιτροπής
+    της 30ής Ιουνίου 1983 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 2931/81 όσον αφορά την αναστολή των
+    τελωνειακών δασμών που εφαρμόζονται σε ορισμένα
+    γεωργικά προϊόντα ελληνικής προελεύσεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1798/83 della Commissione del 30 giugno 1983 che modifica
+    il regolamento (CEE) n. 2931/81 per quel che riguarda la sospensione dei dazi
+    doganali applicabili a taluni prodotti agricoli in provenienza dalla Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1798/83 van de Commissie van 30 juni 1983 tot wijziging
+    van Verordening (EEG) nr. 2931/81 betreffende de schorsing van de douanerechten
+    voor bepaalde landbouwprodukten van herkomst uit Griekenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1798
+docidentifier:
+- content: EU Regulation 1798/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1798
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1798/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-06-30'
+- type: implemented
+  at: '1983-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R2931
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

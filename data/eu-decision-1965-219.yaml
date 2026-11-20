@@ -1,0 +1,86 @@
+---
+id: EUDecision1965219
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 65/219/CEE de la Commission, du 31 mars 1965, portant prorogation
+    et modification de la décision du 21 décembre 1964, autorisant la perception
+    d'une taxe compensatoire sur les importations, en République fédérale d'Allemagne,
+    de caramels mous, de caramels durs, de dragées ainsi que de pâte à fondant
+    en provenance des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '65/219/EWG: Entscheidung der Kommission vom 31. März 1965 zur Verlängerung
+    und Änderung ihrer Entscheidung vom 21. Dezember 1964 über die Erhebung einer
+    Ausgleichsabgabe auf Einfuhren von Hartkaramellen, Weichkaramellen, Dragées und
+    Fondantmasse aus den anderen Mitgliedstaaten in die Bundesrepublik Deutschland'
+  type: main
+- language: it
+  script: Latn
+  content: '65/219/CEE: Decisione della Commissione, del 31 marzo 1965, che proroga
+    e modifica la propria decisione del 21 dicembre 1964 che autorizza la riscossione
+    di una tassa di compensazione sulle importazioni nella Repubblica federale di
+    Germania di caramelle tenere, di caramelle dure e di confetti, di pasta per fondente,
+    in provenienza dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/219/EEG: Beschikking van de Commissie van 31 maart 1965 tot verlenging
+    en wijziging van haar beschikking van 21 december 1964 houdende machtiging tot
+    het leggen van een compenserende heffing op de invoer in de Bondsrepubliek Duitsland
+    van zachte karamels, harde karamels, dragees en fondant, uit de overige Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0219
+docidentifier:
+- content: EU Decision 1965/219
+  type: EU
+  primary: true
+- content: CELEX 31965D0219
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/219/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-31'
+- type: implemented
+  at: '1965-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965D0012
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

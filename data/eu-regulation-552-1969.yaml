@@ -1,0 +1,79 @@
+---
+id: EURegulation5521969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 552/69 du Conseil, du 25 mars 1969, relatif au concours
+    du Fonds européen d'orientation et de garantie agricole, section garantie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 552/69 des Rates vom 25. März 1969 über die Beteiligung
+    des Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft, Abteilung
+    Garantie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 552/69 del Consiglio, del 25 marzo 1969, relativo
+    al concorso del Fondo europeo agricolo di orientamento e di garanzia, sezione
+    garanzia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 552/69 van de Raad van 25 maart 1969 betreffende
+    de bijstand door het Europees Oriëntatie- en Garantiefonds voor de Landbouw,
+    afdeling Garantie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0552
+docidentifier:
+- content: EU Regulation 552/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0552
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/552/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-25'
+- type: implemented
+  at: '1969-04-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

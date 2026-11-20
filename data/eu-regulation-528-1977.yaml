@@ -1,0 +1,94 @@
+---
+id: EURegulation5281977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 528/77 of 14 March 1977 amending Regulation
+    (EEC) No 816/70 as regards the rules on the maximum sulphur dioxide content of
+    wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 528/77 du Conseil, du 14 mars 1977, modifiant le règlement
+    (CEE) n° 816/70 en ce qui concerne les règles relatives à la teneur maximale
+    en anhydride sulfureux du vin
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 528/77 des Rates vom 14. März 1977 zur Änderung
+    der Verordnung (EWG) Nr. 816/70 hinsichtlich des höchstzulässigen Schwefeldioxidgehalts
+    in Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 528/77 af 14. marts 1977 om ændring af forordning
+    (EØF) nr. 816/70 for så vidt angår bestemmelserne vedrørende maksimumsindholdet
+    af svovldioxid i vin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 528/77 del Consiglio, del 14 marzo 1977, che modifica
+    il regolamento (CEE) n. 816/70, per quanto riguarda la norme relative al tenore
+    massimo di anidride solforosa del vino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 528/77 van de Raad van 14 maart 1977 tot wijziging
+    van Verordening (EEG) nr. 816/70 met betrekking tot de voorschriften betreffende
+    het maximumgehalte aan zwaveldioxyde van wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0528
+docidentifier:
+- content: EU Regulation 528/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0528
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/528/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-14'
+- type: implemented
+  at: '1977-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

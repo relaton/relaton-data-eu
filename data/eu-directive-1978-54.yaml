@@ -1,0 +1,94 @@
+---
+id: EUDirective197854
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 78/54/EEC of 19 December 1977 extending the derogations
+    granted in respect of protection against swine fever to Denmark, Ireland and the
+    United Kingdom
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 78/54/CEE du Conseil, du 19 décembre 1977, prorogeant les dérogations
+    accordées en matière de protection contre la peste porcine au Danemark, à l'Irlande
+    et au Royaume-Uni
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 78/54/EWG des Rates vom 19. Dezember 1977 zur Verlängerung
+    der Dänemark, Irland und dem Vereinigten Königreich gewährten Ausnahmeregelung
+    betreffend den Schutz gegen die Schweinepest
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 78/54/EØF af 19. december 1977 om forlængelse af fristen
+    for de undtagelser, der er indrømmet Danmark, Irland og Det forenede Kongerige
+    med hensyn til beskyttelse mod svinepest
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 78/54/CEE del Consiglio, del 19 dicembre 1977, che proroga le
+    deroghe concesse in materia di protezione contro la peste suina alla Danimarca,
+    all'Irlanda e al Regno Unito
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 78/54/EEG van de Raad van 19 december 1977 houdende verlenging
+    van de ontheffingen welke inzake de bescherming tegen varkenspest zijn verleend
+    aan Denemarken, Ierland en het Verenigd Koninkrijk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978L0054
+docidentifier:
+- content: EU Directive 1978/54
+  type: EU
+  primary: true
+- content: CELEX 31978L0054
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1978/54/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-19'
+- type: implemented
+  at: '1977-12-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972L0461
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation27811972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2781/72 of the Commission of 22 December 1972 amending
+    Regulation No 91/66/EEC of the Commission of 29 June 1966 concerning the selection
+    of returning holdings for the purpose of determining incomes of agricultural holdings
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2781/72 de la Commission, du 22 décembre 1972, modifiant
+    le règlement n° 91/66/CEE de la Commission, du 29 juin 1966, relatif à la sélection
+    des exploitations comptables en vue de la constatation des revenus dans les exploitations
+    agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2781/72 der Kommission vom 22. Dezember 1972 zur Änderung
+    der Verordnung Nr. 91/66/EWG der Kommission vom 29. Juni 1966 über die Auswahl
+    der Buchführungsbetriebe zum Zweck der Feststellung der Einkommen in den landwirtschaftlichen
+    Betrieben
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2781/72 af 22. december 1972 om ændring
+    af Kommissionens forordning nr. 91/66/EØF af 29. juni 1966 om udvælgelse af
+    regnskabsførende bedrifter med henblik på konstatering af indkomstforhold i
+    landbrugsbedrifter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2781/72 della Commissione, del 22 dicembre 1972, che
+    modifica il regolamento n. 91/66/CEE della Commissione, del 29 giugno 1966, relativo
+    alla scelta delle aziende contabili ai fini della costatazione dei redditi nelle
+    aziende agricole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2781/72 van de Commissie van 22 december 1972 tot
+    wijziging van Verordening nr. 91/66/EEG van de Commissie van 29 juni 1966 met
+    betrekking tot de keuze van de bedrijven met boekhouding voor het constateren
+    van de inkomens van de landbouwbedrijven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2781
+docidentifier:
+- content: EU Regulation 2781/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2781
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2781/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-22'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0091
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

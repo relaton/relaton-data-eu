@@ -1,0 +1,70 @@
+---
+id: EURegulation12071969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1207/69 du Conseil, du 26 juin 1969, fixant l'aide
+    à la production du froment dur pour la campagne 1969/1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1207/69 des Rates vom 26. Juni 1969 zur Festsetzung
+    der Beihilfe für die Erzeugung von Hartweizen für das Wirtschaftsjahr 1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1207/69 del Consiglio, del 26 giugno 1969, che determina
+    l'aiuto alla produzione di frumento duro per la campagna 1969/1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1207/69 van de Raad van 26 juni 1969 tot vaststelling
+    van de steun bij de produktie van durum tarwe voor het verkoopseizoen 1969/1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1207
+docidentifier:
+- content: EU Regulation 1207/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1207
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1207/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-26'
+- type: implemented
+  at: '1969-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

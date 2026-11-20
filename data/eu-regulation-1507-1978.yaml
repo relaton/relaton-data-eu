@@ -1,0 +1,96 @@
+---
+id: EURegulation15071978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1507/78 of 30 June 1978 extending the period
+    of validity of Regulation (EEC) No 503/78 amending Regulation No 785/67/EEC on
+    the buying-in of olive oil by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1507/78 de la Commission, du 30 juin 1978, prorogeant
+    le règlement (CEE) n° 503/78 modifiant le règlement n° 785/67/CEE relatif
+    aux modalités d'achat de l'huile d'olive par les organismes d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1507/78 der Kommission vom 30. Juni 1978 zur Verlängerung
+    der Verordnung (EWG) Nr. 503/78 zur Änderung der Verordnung Nr. 785/67/EWG betreffend
+    den Ankauf von Olivenöl durch die Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1507/78 af 30. juni 1978 om forlængelse
+    af forordning (EØF) nr. 503/78 om ændring af forordning nr. 785/67/EØF om de
+    nærmere regler for interventionsorganernes opkøb af olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1507/78 della Commissione, del 30 giugno 1978, che
+    proroga il regolamento (CEE) n. 503/78 che modifica il regolamento n. 785/67/CEE
+    relativo alle modalità d'acquisto dell'olio d'oliva da parte degli organismi
+    d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1507/78 van de Commissie van 30 juni 1978 houdende
+    verlenging van de geldigheidsduur van Verordening (EEG) nr. 503/78 tot wijziging
+    van Verordening nr. 785/67/EEG betreffende de wijze van aankoop van olijfolie
+    door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1507
+docidentifier:
+- content: EU Regulation 1507/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1507
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1507/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-30'
+- type: implemented
+  at: '1978-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R0503
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

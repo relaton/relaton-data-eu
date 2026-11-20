@@ -1,0 +1,71 @@
+---
+id: EURegulation12041969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1204/69 du Conseil, du 26 juin 1969, fixant les majorations
+    mensuelles des prix du riz pour la campagne 1969/1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1204/69 des Rates vom 26. Juni 1969 zur Festsetzung
+    der monatlichen Zuschläge zu den Preisen für Reis für das Wirtschaftsjahr 1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1204/69 del Consiglio, del 26 giugno 1969, che fissa
+    le maggiorazioni mensili dei prezzi del riso per la campagna 1969/1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1204/69 van de Raad van 26 juni 1969 houdende vaststelling
+    van de maandelijkse verhogingen van de prijzen voor rijst voor het verkoopseizoen
+    1969/1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1204
+docidentifier:
+- content: EU Regulation 1204/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1204
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1204/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-26'
+- type: implemented
+  at: '1969-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

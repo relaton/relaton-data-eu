@@ -1,0 +1,65 @@
+---
+id: EURegulation2891967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 289/67/CEE de la Commission, du 12 juillet 1967, portant modification
+    du correctif applicable à la restitution pour les céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 289/67/EWG der Kommission vom 12. Juli 1967 zur Änderung
+    der bei der Erstattung für Getreide anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 289/67/CEE della Commissione, del 12 luglio 1967, che modifica
+    il correttivo applicabile alla restituzione per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 289/67/EEG van de Commissie van 12 juli 1967 houdende wijziging
+    van het op de restitutie voor granen toe te passen correctief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0289
+docidentifier:
+- content: EU Regulation 289/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0289
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/289/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

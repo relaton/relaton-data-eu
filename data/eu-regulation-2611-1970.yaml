@@ -1,0 +1,84 @@
+---
+id: EURegulation26111970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2611/70 du Conseil, du 15 décembre 1970, modifiant
+    le règlement n° 137/67/CEE établissant les règles générales relatives au
+    système dit des "produits pilotes et dérivés" permettant la fixation de montants
+    supplémentaires dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2611/70 des Rates vom 15. Dezember 1970 zur Änderung
+    der Verordnung Nr. 137/67/EWG über die Grundregeln für das sogenannte "System
+    von Leit- und Folgeerzeugnissen", das die Festsetzung von Zusatzbeträgen auf
+    dem Schweinefleischsektor ermöglicht
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2611/70 del Consiglio, del 15 dicembre 1970, che modifica
+    il regolamento n. 137/67/CEE che stabilisce le norme generali relative al sistema
+    detto «prodotti pilota e prodotti derivati» che consente la fissazione di importi
+    supplementari nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2611/70 van de Raad van 15 december 1970 tot wijziging
+    van Verordening nr. 137/67/EEG houdende algemene regels inzake het zogenaamde
+    stelsel van "hoofdprodukten en afgeleide produkten" voor de vaststelling van extra
+    bedragen in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2611
+docidentifier:
+- content: EU Regulation 2611/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2611
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2611/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0137
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

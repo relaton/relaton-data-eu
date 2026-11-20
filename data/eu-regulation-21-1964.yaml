@@ -1,0 +1,67 @@
+---
+id: EURegulation211964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 21/64/CEE de la Commission, du 4 mars 1964, portant modification
+    du prélèvement et du prix d'écluse pour les échines et cous de volailles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 21/64/EWG der Kommission vom 4. März 1964 zur Änderung
+    des Abschöpfungsbetrags und des Einschleusungspreises für Rücken und Hälse
+    von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 21/64/CEE della Commissione, del 4 marzo 1964, relativo
+    alla modifica del prelievo e del prezzo limite applicabile ai dorsi e colli di
+    volatili
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 21/64/EEG van de Commissie van 4 maart 1964 houdende wijziging
+    van het heffingsbedrag en de sluisprijs voor ruggen en halzen van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0021
+docidentifier:
+- content: EU Regulation 21/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0021
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/21/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-03-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

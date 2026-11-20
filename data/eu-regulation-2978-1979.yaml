@@ -1,0 +1,96 @@
+---
+id: EURegulation29781979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2978/79 of 27 December 1979 amending Regulation
+    (EEC) No 1515/79 on the application of the lowest rate of export refund for certain
+    products in the beef and veal sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2978/79 de la Commission, du 27 décembre 1979, modifiant
+    le règlement (CEE) n° 1515/79 relatif à l' application du taux le plus bas
+    de la restitution à l' exportation de certains produits du secteur de la viande
+    bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2978/79 der Kommission vom 27. Dezember 1979 zur Änderung
+    der Verordnung (EWG) Nr. 1515/79 über die Anwendung des niedrigsten Erstattungssatzes
+    bei der Ausfuhr bestimmter Rindfleischerzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2978/79 af 27. december 1979 om ændring
+    af forordning (EØF) nr. 1515/79 om anvendelse af laveste restitutionssats ved
+    udførsel af visse oksekødprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2978/79 della Commissione, del 27 dicembre 1979, recante
+    modifica del regolamento (CEE) n. 1515/79 relativo all' applicazione del tasso
+    più basso della restituzione all' esportazione di taluni prodotti del settore
+    delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2978/79 van de Commissie van 27 december 1979 tot
+    wijziging van Verordening (EEG) nr. 1515/79 met betrekking tot de toepassing van
+    de laagste restitutievoet bij uitvoer van bepaalde produkten van de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2978
+docidentifier:
+- content: EU Regulation 2978/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2978
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2978/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-12-27'
+- type: implemented
+  at: '1980-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1515
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

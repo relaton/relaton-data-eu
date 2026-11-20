@@ -1,0 +1,92 @@
+---
+id: EURegulation27811976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2781/76 of 17 November 1976 amending Regulation
+    No 785/67/EEC on the buying-in of olive oil by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2781/76 de la Commission, du 17 novembre 1976, modifiant
+    le règlement n° 785/67/CEE relatif aux modalités d' achat de l' huile d' olive
+    par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2781/76 der Kommission vom 17. November 1976 zur Änderung
+    der Verordnung Nr. 785/67/EWG betreffend den Ankauf von Olivenöl durch die Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2781/76 af 17. november 1976 om ændring
+    af forordning nr. 785/67/EØF om de nærmere regler for interventionsorganernes
+    opkøb af olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2781/76 della Commissione, del 17 novembre 1976, che
+    modifica il regolamento n. 785/67/CEE relativo alle modalità di acquisto dell'
+    olio d' oliva da parte degli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2781/76 van de Commissie van 17 november 1976 tot
+    wijziging van Verordening nr. 785/67/EEG betreffende de wijze van aankoop van
+    olijfolie door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2781
+docidentifier:
+- content: EU Regulation 2781/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2781
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2781/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-17'
+- type: implemented
+  at: '1976-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0785
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

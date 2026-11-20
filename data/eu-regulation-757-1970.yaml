@@ -1,0 +1,109 @@
+---
+id: EURegulation7571970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 757/70 of the Commission of 24 April 1970 amending
+    Regulation (EEC) Nos 662/69 and 685/69 as regards the conditions for the sale
+    of butter from public stocks
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 757/70 de la Commission, du 24 avril 1970, modifiant
+    les règlements (CEE) n° 662/69 et n° 685/69 en ce qui concerne les conditions
+    de vente du beurre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 757/70 der Kommission vom 24. April 1970 zur Änderung
+    der Verordnung (EWG) Nr. 662/69 und Nr. 685/69 hinsichtlich der Bedingungen für
+    den Verkauf von Butter aus öffentlicher Lagerhaltung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 757/70 af 24. april 1970 om ændring
+    af forordninger (EØF) nr. 662/69 og nr. 685/69 for så vidt angår salg af smør
+    fra offentlige lagre
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 757/70 της Επιτροπής
+    της 24ης Απριλίου 1970 περί τροποποιήσεως των
+    κανονισμών (ΕΟΚ) αριθ. 662/69 και αριθ. 685/69 όσον
+    αφορά τους όρους πωλήσεως του βουτύρου των
+    δημοσίων αποθεμάτων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 757/70 della Commissione, del 24 aprile 1970, che
+    modifica i regolamenti (CEE) nn. 662/69 e 685/69 per quanto riguarda le modalità
+    di vendita del burro d' ammasso pubblico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 757/70 van de Commissie van 24 april 1970 houdende
+    wijziging van de Verordeningen (EEG) nr. 662/69 en nr. 685/69 met betrekking tot
+    de voorwaarden voor de verkoop van boter uit overheidsopslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0757
+docidentifier:
+- content: EU Regulation 757/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0757
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/757/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-24'
+- type: implemented
+  at: '1970-04-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0662
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0685
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

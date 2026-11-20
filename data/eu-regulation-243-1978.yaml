@@ -1,0 +1,97 @@
+---
+id: EURegulation2431978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 243/78 of 1 February 1978 providing for
+    the advance fixing of monetary compensatory amounts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 243/78 de la Commission, du 1er février 1978, instaurant
+    la fixation à l' avance des montants compensatoires monétaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 243/78 der Kommission vom 1. Februar 1978 über die
+    Vorausfestsetzung der Währungsausgleichsbeträge
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 243/78 af 1. februar 1978 om forudfastsættelse
+    af monetære udligningsbeløb
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 243/78 της Επιτροπής
+    της 1ης Φεβρουαρίου 1978 περί καθιερώσεως του
+    εκ των προτέρων καθορισμού των νομισματικών
+    εξισωτικών ποσών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 243/78 della Commissione, del 1° febbraio 1978, che
+    istituisce la fissazione anticipata degli importi compensativi monetari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 243/78 van de Commissie van 1 februari 1978 houdende
+    invoering van de vaststelling vooraf van de monetaire compenserende bedragen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0243
+docidentifier:
+- content: EU Regulation 243/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0243
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/243/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-01'
+- type: implemented
+  at: '1978-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0837
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

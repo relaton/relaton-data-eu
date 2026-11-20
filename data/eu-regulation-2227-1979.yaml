@@ -1,0 +1,109 @@
+---
+id: EURegulation22271979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2227/79 of 9 October 1979 amending Regulations
+    (EEC) No 587/79 and (EEC) No 1178/79 laying down for 1979 certain measures for
+    the conservation and management of fishery resources applicable to vessels flying
+    the flag of Norway and vessels registered in the Faroe Islands respectively
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2227/79 du Conseil, du 9 octobre 1979, modifiant les
+    règlements (CEE) n° 587/79 et (CEE) n° 1178/79 fixant, pour l' année 1979,
+    certaines mesures de conservation et de gestion des ressources de pêche applicables
+    respectivement aux navires battant pavillon de la Norvège et aux navires immatriculés
+    aux îles Féroé
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2227/79 des Rates vom 9. Oktober 1979 zur Änderung
+    der Verordnungen (EWG) Nr. 587/79 und (EWG) Nr. 1178/79 über Maßnahmen zur Erhaltung
+    und Bewirtschaftung der Fischbestände für Schiffe unter norwegischer Flagge
+    bzw. für die auf den Färöern registrierten Schiffe für 1979
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2227/79 af 9. oktober 1979 om ændring af
+    forordning (EØF) nr. 587/79 og (EØF) nr. 1178/79 vedrørende fastsættelse af
+    visse foranstaltninger for året 1979 til bevarelse og forvaltning af fiskeressourcerne,
+    som skal anvendes på fartøjer, som fører norsk flag, og på fartøjer, der
+    er indregistreret på Færøerne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2227/79 del Consiglio, del 9 ottobre 1979, che modifica
+    i regolamenti (CEE) n. 587/79 e (CEE) n. 1178/79 che dispongono per il 1979 talune
+    misure di conservazione e di gestione delle risorse della pesca da applicare rispettivamente
+    alle navi battenti bandiera della Norvegia e a quelle immatricolate nelle isole
+    Færøer
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2227/79 van de Raad van 9 oktober 1979 tot wijziging
+    van de Verordeningen (EEG) nr. 587/79 en (EEG) nr. 1178/79 waarin voor 1979 bepaalde
+    maatregelen zijn vervat voor de instandhouding en het beheer van de visbestanden,
+    die van toepassing zijn op respectievelijk vaartuigen die de vlag van Noorwegen
+    voeren en op de Faeröer geregistreerde vaartuigen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2227
+docidentifier:
+- content: EU Regulation 2227/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2227
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2227/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-10-09'
+- type: implemented
+  at: '1979-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0587
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1178
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

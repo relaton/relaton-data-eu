@@ -1,0 +1,112 @@
+---
+id: EURegulation3161970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 316/70 of the Commission of 20 February 1970 amending
+    Regulations (EEC) Nos 559/68, 2085/68 and 446/69 as regards document T 1/T 2 No
+    5 in Community trade in certain cereals and products processed from cereals and
+    from rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 316/70 de la Commission, du 20 février 1970, modifiant
+    les règlements (CEE) n° 559/68, n° 2085/68 et n° 446/69 en ce qui concerne
+    le document T 1/T 2 n° 5 dans certains échanges intracommunautaires dans le
+    secteur des céréales et des produits transformés à base de céréales et de
+    riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 316/70 der Kommission vom 20. Februar 1970 zur Änderung
+    der Verordnung (EWG) Nr. 559/68, Nr. 2085/68 und Nr. 446/69 hinsichtlich des Dokuments
+    T 1 / T 2 Nr. 5 in bestimmten Fällen des innergemeinschaftlichen Handelsverkehrs
+    mit Getreide und Getreide- und Reisverarbeitungserzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 316/70 af 20. februar 1970 om ændring
+    af forordningerne (EØF) nr. 559/68, nr. 2085/68 og nr. 446/69 for så vidt angår
+    dokumentet T 1/T 2 nr. 5 i visse tilfælde af samhandel inden for Fællesskabet
+    med korn og produkter forarbejdet på basis af korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 316/70 della Commissione, del 20 febbraio 1970, che
+    modifica i regolamenti (CEE) n. 559/68, n. 2085/68 e n. 446/69 per quanto concerne
+    il documento T 1/T 2 n. 5 in alcuni scambi intracomunitari nel settore dei cereali
+    e dei prodotti trasformati a base di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 316/70 van de Commissie van 20 februarie 1970 tot
+    wijziging van de Verordeningen (EEG) nr. 559/68, nr. 2085/68 en nr. 446/69 ten
+    aanzien van het document T 1/T 2 nr. 5 bij bepaalde vormen van intracommunautair
+    handelsverkeer in de sector granen en verwerkte produkten op basis van granen
+    en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0316
+docidentifier:
+- content: EU Regulation 316/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0316
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/316/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-20'
+- type: implemented
+  at: '1970-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0559
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R2085
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0446
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

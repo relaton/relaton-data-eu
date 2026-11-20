@@ -1,0 +1,96 @@
+---
+id: EURegulation24741976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2474/76 of 4 October 1976 concerning import
+    arrangements for certain textile products originating in the Republic of Korea
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2474/76 du Conseil, du 4 octobre 1976, relatif au
+    régime d'importation pour certains produits textiles originaires de la République
+    de Corée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2474/76 des Rates vom 4. Oktober 1976 über die Einfuhrregelung
+    für bestimmte Textilerzeugnisse mit Ursprung in der Republik Korea
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2474/76 af 4. oktober 1976 om en importordning
+    for visse tekstilvarer med oprindelse i republikken Korea
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2474/76 del Consiglio, del 4 ottobre 1976, relativo
+    al regime di importazione di taluni prodotti tessili originari della Repubblica
+    di Corea
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2474/76 van de Raad van 4 oktober 1976 betreffende
+    de invoerregeling voor bepaalde textielprodukten van oorsprong uit de Republiek
+    Korea
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2474
+docidentifier:
+- content: EU Regulation 2474/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2474
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2474/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-10-04'
+- type: implemented
+  at: '1976-10-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0277
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2175
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

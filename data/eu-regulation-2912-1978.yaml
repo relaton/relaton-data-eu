@@ -1,0 +1,94 @@
+---
+id: EURegulation29121978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2912/78 of 12 December 1978 amending Regulation
+    (EEC) No 2058/77 on the transfer of skimmed-milk powder to the Italian intervention
+    agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2912/78 de la Commission, du 12 décembre 1978, modifiant
+    le règlement (CEE) n° 2058/77 concernant le transfert de lait écrémé en poudre
+    à l' organisme d' intervention italien
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2912/78 der Kommission vom 12. Dezember 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2058/77 betreffend den Transfer von Magermilchpulver
+    zur italienischen Interventionsstelle
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2912/78 af 12. december 1978 om ændring
+    af forordning (EØF) nr. 2058/77 for så vidt angår overførsel af skummetmælkspulver
+    til det italienske interventionsorgan
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2912/78 della Commissione, del 12 dicembre 1978, che
+    modifica il regolamento (CEE) n. 2058/77 relativo al trasferimento di latte scremato
+    in polvere all' organismo d' intervento italiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2912/78 van de Commissie van 12 december 1978 tot
+    wijziging van Verordening (EEG) nr. 2058/77 betreffende de overdracht van magere-melkpoeder
+    aan het Italiaanse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2912
+docidentifier:
+- content: EU Regulation 2912/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2912
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2912/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-12-12'
+- type: implemented
+  at: '1978-12-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2058
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

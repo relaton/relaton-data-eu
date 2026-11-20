@@ -1,0 +1,72 @@
+---
+id: EUDecision1966675
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/675/CEE du Conseil du 24 novembre 1966, portant suspension
+    temporaire du droit du Tarif douanier commun applicable au dihydro-éthoxy-trimétylquinoléine
+  type: main
+- language: de
+  script: Latn
+  content: '66/675/EWG: Entscheidung des Rates vom 24. November 1966 über die zeitweilige
+    Aussetzung des Satzes des Gemeinsamen Zolltarifs für Dihydro-Äthoxy- Trimethylchinolin'
+  type: main
+- language: it
+  script: Latn
+  content: '66/675/CEE: Decisione del Consiglio, del 24 novembre 1966, relativa alla
+    sospensione temporanea del dazio della tariffa doganale comune applicabile alla
+    diidroetossitrimetilchinolina'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/675/EEG: Beschikking van de Raad van 24 november 1966 houdende tijdelijke
+    schorsing van het recht van het gemeenschappelijk douanetarief voor dihydroethoxy-
+    trimethylchinoline'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0675
+docidentifier:
+- content: EU Decision 1966/675
+  type: EU
+  primary: true
+- content: CELEX 31966D0675
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/675/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-24'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

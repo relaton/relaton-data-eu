@@ -1,0 +1,101 @@
+---
+id: EURegulation8751977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 875/77 of 26 April 1977 amending Regulations
+    (EEC) No 1961/75 and (EEC) No 3066/75 on the prohibition of the use of inward
+    processing arrangements in respect of skimmed-milk powder and butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 875/77 du Conseil, du 26 avril 1977, modifiant les
+    règlements (CEE) n° 1961/75 et (CEE) n° 3066/75 relatifs à l' exclusion du
+    régime de perfectionnement actif pour le lait écrémé en poudre et pour le
+    beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 875/77 des Rates vom 26. April 1977 zur Änderung
+    der Verordnungen (EWG) Nr. 1961/75 und Nr. 3066/75 über den Ausschluß von Magermilchpulver
+    und Butter vom aktiven Veredelungsverkehr
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 875/77 af 26. april 1977 om ændring af forordning
+    (EØF) nr. 1961/75 og (EØF) nr. 3066/75 om udelukkelse af skummetmælkspulver
+    og smør fra proceduren for aktiv forædling
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 875/77 del Consiglio, del 26 aprile 1977, che modifica
+    i regolamenti (CEE) n. 1961/75 e (CEE) n. 3066/75 relativi all' esclusione del
+    regime di perfezionamento attivo per il latte scremato in polvere e per il burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 875/77 van de Raad van 26 april 1977 houdende wijziging
+    van de Verordeningen (EEG) nr. 1961/75 en (EEG) nr. 3066/75 met betrekking tot
+    de uitsluiting van de regeling van het actieve veredelingsverkeer voor respectievelijk
+    magere-melkpoeder en boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0875
+docidentifier:
+- content: EU Regulation 875/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0875
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/875/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-04-26'
+- type: implemented
+  at: '1977-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1961
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3066
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

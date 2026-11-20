@@ -1,0 +1,99 @@
+---
+id: EURegulation19841982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1984/82 of 19 July 1982 amending Regulation
+    (EEC) No 1614/79 laying down special measures in respect of soya beans
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1984/82 du Conseil, du 19 juillet 1982, modifiant
+    le règlement (CEE) n° 1614/79 prévoyant des mesures spéciales pour les graines
+    de soja
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1984/82 des Rates vom 19. Juli 1982 zur Änderung
+    der Verordnung (EWG) Nr. 1614/79 über Sondermaßnahmen für Sojabohnen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1984/82 af 19. juli 1982 om ændring af forordning
+    (EØF) nr. 1614/79 om fastsættelse af særlige foranstaltninger for sojabønnerk
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 1984/82 τού Συμβουλίου
+    τής 19ης Ιουλίου 1982 περί τροποποιήσεως τού κανονισμού
+    (EOK) αριθ. 1614/79 περί προβλέψεως ειδικών μέτρων
+    γιά τούς σπόρους σόγιας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1984/82 del Consiglio, del 19 luglio 1982, che modifica
+    il regolamento (CEE) n. 1614/79 che prevede misure speciali per i semi di soian
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1984/82 van de Raad van 19 juli 1982 tot wijziging
+    van Verordening (EEG) nr. 1614/79 tot vaststelling van bijzondere maatregelen
+    voor sojabonenr
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R1984
+docidentifier:
+- content: EU Regulation 1984/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R1984
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/1984/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-07-19'
+- type: implemented
+  at: '1982-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1614
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

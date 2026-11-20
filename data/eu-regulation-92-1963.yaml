@@ -1,0 +1,92 @@
+---
+id: EURegulation921963
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 92/63/EEC of the Council of 30 July 1963 amending Article
+    1 of Regulation No 24 as regards the date for preparing a viticultural land register
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 92/63/CEE du Conseil, du 30 juillet 1963, modifiant l' article
+    premier du règlement n° 24 du Conseil en ce qui concerne la date d' établissement
+    du cadastre viticole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 92/63/EWG des Rats vom 30. Juli 1963 zur Änderung des Artikels
+    1 der Verordnung Nr. 24 des Rates hinsichtlich des Termins für die Einrichtung
+    des Weinbaukatasters
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 92/63/EØF af 30. juli 1963 om ændring af artikel
+    1 i Rådets forordning nr. 24 om tidspunktet for oprettelsen af vinavlsmatriklen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 92/63/CEE del Consiglio del 30 luglio 1963 che modifica
+    l' articolo 1 del regolamento n. 24 del Consiglio per quanto riguarda la data
+    d' istituzione del catasto viticolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening N° 92/63/EEG van de Raad van 30 juli 1963 tot wijziging van
+    artikel 1 van Verordening N° 24 van de Raad betreffende de datum van instelling
+    van het wijnbouwkadaster
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0092
+docidentifier:
+- content: EU Regulation 92/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0092
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/92/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-30'
+- type: implemented
+  at: '1963-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0024
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

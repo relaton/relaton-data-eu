@@ -1,0 +1,84 @@
+---
+id: EURegulation1431969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 143/69 de la Commission, du 25 janvier 1969, modifiant
+    pour la campagne sucrière 1968/1969 la date prévue pour la communication du
+    report d' une partie de la production de sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 143/69 der Kommission vom 25. Januar 1969 zur Änderung
+    des für die Mitteilung der Übertragung eines Teils der Zuckererzeugung vorgesehenden
+    Zeitpunkts für das Zuckerwirtschaftsjahr 1968/1969
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 143/69 της Επιτροπής,
+    της 25ης Ιανουαρίου 1969, που τροποποιεί για τη
+    ζαχαρική περίοδο 1968/1969 την προβλεφθείσα ημερομηνία
+    ανακοίνωσης της μεταφοράς ενός μέρους της
+    παραγωγής ζάχαρης
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 143/69 della Commissione, del 25 gennaio 1969, che
+    modifica per la campagna saccarifera 1968/1969 la data prevista per la comunicazione
+    del riporto di una parte della produzione di zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 143/69 van de Commissie van 25 januari 1969 tot wijziging,
+    voor het verkoopseizoen voor suiker 1968/1969, van de datum welke voorzien is
+    voor de mededeling van de overdracht van een deel van de suikerproduktie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0143
+docidentifier:
+- content: EU Regulation 143/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0143
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/143/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-01-25'
+- type: implemented
+  at: '1969-01-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

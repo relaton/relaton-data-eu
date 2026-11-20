@@ -1,0 +1,116 @@
+---
+id: EURegulation31581973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3158/73 of the Council of 19 November 1973 amending
+    Regulation Nos 134/67/EEC and 137/67/EEC on sluice-gate prices and the system
+    of 'pilot products and derived products' for pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3158/73 du Conseil, du 19 novembre 1973, modifiant
+    les règlements n° 134/67/CEE et 137/67/CEE relatifs aux prix d'écluse et au
+    système dit des "produits pilotes et dérivés" dans le secteur de la viande
+    de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3158/73 des Rates vom 19. November 1973 zur Änderung
+    der Verordnungen Nrn. 134/67/EWG und 137/67/EWG über die Einschleusungspreise
+    und über das sogenannte "System von Leit- und Folgeerzeugnissen" auf dem Schweinefleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3158/73 af 19. november 1973 om ændring
+    af forordningerne nr. 134/67/EØF og 137/67/EØF om slusepriser og om det såkaldte
+    system for »ledeprodukter og følgeprodukter« inden for svinekødssektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3158/73 del Consiglio, del 19 novembre 1973, che modifica
+    i regolamenti nn. 134/67/CEE e 137/67/CEE relativi ai prezzi limite e al sistema
+    detto «prodotti pilota e prodotti derivati» nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3158/73 van de Raad van 19 november 1973 tot wijziging
+    van Verordening nr. 134/67/EEG en Verordening nr. 137/67/EEG betreffende de sluisprijzen
+    en het zogenaamde stelsel van "hoofdprodukten en afgeleide produkten" in de sector
+    varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3158
+docidentifier:
+- content: EU Regulation 3158/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3158
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3158/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-11-19'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0134
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0137
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0001
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0001
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2658
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

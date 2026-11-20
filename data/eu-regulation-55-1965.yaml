@@ -1,0 +1,74 @@
+---
+id: EURegulation551965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 55/65/CEE du Conseil, du 12 avril 1965, relatif à l'écoulement
+    sur les marchés des États membres de fromages des types emmental, gruyère et
+    sbrinz ou du type cheddar ayant fait l'objet de mesures nationales d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 55/65/EWG des Rates vom 12. April 1965 über den Absatz
+    von Emmentaler, Greyerzer und Sbrinz- oder Cheddar-Käse, für den einzelstaatliche
+    Interventionsmaßnahmen getroffen wurden, auf dem Markt der Mitgliedstaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 55/65/CEE del Consiglio, del 12 aprile 1965, relativo allo
+    smercio dei mercati degli Stati membri dei formaggi dei tipi Emmental, Gruyère
+    e Sbrinz o del tipo Cheddar che sono stati oggetto di misure nazionali d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 55/65/EEG van de Raad van 12 april 1965 betreffende het
+    afzetten op de markt van de Lid-Staten van Emmentaler Gruyère- en Sbrinz- of
+    Cheddarkaas waarop nationale interventiemaatregelen zijn toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0055
+docidentifier:
+- content: EU Regulation 55/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0055
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/55/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-04-12'
+- type: implemented
+  at: '1965-04-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

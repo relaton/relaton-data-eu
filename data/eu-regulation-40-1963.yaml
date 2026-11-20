@@ -1,0 +1,69 @@
+---
+id: EURegulation401963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 40/63/CEE de la Commission, du 13 mai 1963, portant modification
+    des prix d'écluse intracommunautaires applicables aux porcs abattus et aux porcs
+    vivants importés en Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 40/63/EWG der Kommission vom 13. Mai 1963 zur Änderung
+    der innergemeinschaftlichen Einschleusungspreise für geschlachtete und für lebende
+    Schweine für Einfuhren nach Italien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 40/63/CEE della Commissione del 13 maggio 1963 che modifica
+    i prezzi limite intracomunitari per i suini vivi e i suini macellati importati
+    in Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 40/63/EEG van de Commissie van 13 mei 1963 houdende wijziging
+    van de intracommunautaire sluisprijzen voor geslachte en levende varkens bij invoer
+    in Italië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0040
+docidentifier:
+- content: EU Regulation 40/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0040
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/40/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-05-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

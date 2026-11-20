@@ -1,0 +1,70 @@
+---
+id: EURegulation13461972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1346/72 du Conseil, du 27 juin 1972, portant modification
+    du règlement (CEE) n° 950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1346/72 des Rates vom 27. Juni 1972 zur Änderung
+    der Verordnung (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1346/72 del Consiglio, del 27 giugno 1972, che modifica
+    il regolamento (CEE) n. 950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1346/72 van de Raad van 27 juni 1972 houdende wijziging
+    van Verordening (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1346
+docidentifier:
+- content: EU Regulation 1346/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1346
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1346/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-27'
+- type: implemented
+  at: '1972-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

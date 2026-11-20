@@ -1,0 +1,107 @@
+---
+id: EURegulation29221979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2922/79 of 20 December 1979 amending Regulations
+    (EEC) No 1508/76, (EEC) No 1514/76 and (EEC) No 1521/76 on imports of olive oil,
+    originating in Tunisia, Algeria and Morocco (1979/80)
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2922/79 du Conseil, du 20 décembre 1979, modifiant
+    les règlements (CEE) n° 1508/76, (CEE) n° 1514/76 et (CEE) n° 1521/76 relatifs
+    aux importations d' huile d' olive originaire de Tunisie, d' Algérie et du Maroc
+    (1979/1980)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2922/79 des Rates vom 20. Dezember 1979 zur Änderung
+    der Verordnungen (EWG) Nr. 1508/76, (EWG) Nr. 1514/76 und (EWG) Nr. 1521/76 über
+    die Einfuhren von Olivenöl mit Ursprung in Tunesien, Algerien und Marokko (1979/80)
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2922/79 af 20. december 1979 om ændring
+    af forordning (EØF) ne. 1508/76, (EØF) nr. 1514/76 og (EØF) nr. 1521/76 om
+    indførsel af olivenolie med oprindelse i Tunesien, Algeriet og Marokko (1979/80)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2922/79 del Consiglio, del 20 dicembre 1979, che modifica
+    i regolamenti (CEE) n. 1508/76, (CEE) n. 1514/76 e (CEE) n. 1521/76, relativi
+    alle importazioni di olio d' oliva originario della Tunisia, dell' Algeria e del
+    Marocco (1979/1980)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2922/79 van de Raad van 20 december 1979 tot wijziging
+    van de Verordeningen (EEG) nr. 1508/76, (EEG) nr. 1514/76 en (EEG) nr. 1521/76
+    betreffende de invoer van olijfolie van oorsprong uit Tunesië, Algerije en Marokko
+    (1979/1980)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2922
+docidentifier:
+- content: EU Regulation 2922/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2922
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2922/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-12-20'
+- type: implemented
+  at: '1979-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1508
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1514
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1521
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

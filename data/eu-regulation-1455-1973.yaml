@@ -1,0 +1,93 @@
+---
+id: EURegulation14551973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1455/73 of the Commission of 30 May 1973 amending Regulation
+    (EEC) No 133/73 as regards the period of validity of export licences for cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1455/73 de la Commission, du 30 mai 1973, modifiant
+    le règlement (CEE) n° 133/73 en ce qui concerne la durée de validité des certificats
+    d'exportation pour certaines céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1455/73 der Kommission vom 30. Mai 1973 zur Änderung
+    der Verordnung (EWG) Nr. 133/73 hinsichtlich der Gültigkeitsdauer der Ausfuhrlizenzen
+    für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1455/73 af 30. maj 1973 om ændring
+    af forordning (EØF) nr. 133/73 for så vidt angår gyldighedsperioden for eksportlicenser
+    for kornsorter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1455/73 della Commissione, del 30 maggio 1973, che
+    modifica il regolamento (CEE) n. 133/73 per quanto riguarda la durata di validità
+    dei titoli di esportazione nei settori dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1455/73 van de Commissie van 30 mei 1973 houdende
+    wijziging van Verordening (EEG) nr. 133/73 voor wat betreft de geldigheidsduur
+    van de uitvoercertificaten voor granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1455
+docidentifier:
+- content: EU Regulation 1455/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1455
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1455/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-05-30'
+- type: implemented
+  at: '1973-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0133
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

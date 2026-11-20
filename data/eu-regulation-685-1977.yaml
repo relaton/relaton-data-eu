@@ -1,0 +1,110 @@
+---
+id: EURegulation6851977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 685/77 of 30 March 1977 amending Regulations
+    (EEC) No 1896/73 and (EEC) No 582/76 as regards the coefficients used to calculate
+    buying-in prices for intervention beef in Ireland and Italy as regards the buying-in
+    prices for those products applicable in those Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 685/77 de la Commission, du 30 mars 1977, modifiant
+    le règlement (CEE) n° 1896/73 en ce qui concerne les coefficients servant au
+    calcul des prix d' achat de viande bovine à l' intervention en Irlande et en
+    Italie, ainsi que le règlement (CEE) n° 582/76 en ce qui concerne les prix d'
+    achat applicables dans ces États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 685/77 der Kommission vom 30. März 1977 zur Änderung
+    der Verordnung (EWG) Nr. 1896/73 in bezug auf die bei der Berechnung der Ankaufspreise
+    für Interventionen bei Rindfleisch in Irland und Italien zugrunde gelegten Koeffizienten
+    sowie der Verordnung (EWG) Nr. 582/76 in bezug auf die in diesen Mitgliedstaaten
+    anwendbaren Ankaufspreise
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 685/77 af 30. marts 1977 om ændring
+    af forordning (EØF) nr. 1896/73 og forordning (EØF) nr. 582/76 for så vidt
+    angår de koefficienter, der anvendes ved beregningen af opkøbsprisen for oksekød
+    ved intervention i Irland og Italien, samt de opkøbspriser, der anvendes i disse
+    medlemsstater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 685/77 della Commissione, del 30 marzo 1977, che modifica
+    il regolamento (CEE) n. 1896/73, per quanto concerne i coefficienti impiegati
+    per calcolare i prezzi d' acquisto delle carni bovine applicabili all' intervento
+    in Irlanda e in Italia, nonché il regolamento (CEE) n. 582/76, per quanto concerne
+    i prezzi d' acquisto applicabili in tali Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 685/77 van de Commissie van 30 maart 1977 tot wijziging
+    van Verordening (EEG) nr. 1896/73 ten aanzien van de coëfficiënten voor de berekening
+    van de interventie-aankoopprijzen voor rundvlees in Ierland en in Italië en van
+    Verordening (EEG) nr. 582/76 ten aanzien van de aankoopprijzen die in deze Lid-Staten
+    van toepassing zijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0685
+docidentifier:
+- content: EU Regulation 685/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0685
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/685/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-30'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0582
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EUDecision19611223
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission relative à l'octroi à la République fédérale
+    d'Allemagne d'un contingent tarifaire pour les déchets d'aluminium
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung der Kommission über die Gewährung eines Zollkontingents
+    an die Bundesrepublik Deutschland für Bearbeitungsabfälle aus Aluminium
+  type: main
+- language: it
+  script: Latn
+  content: Decisione della Commissione relativa alla concessione di un contingente
+    tariffario alla Repubblica Federale di Germania per i cascami di alluminio
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Commissie betreffende toekenning van een tariefcontingent
+    aan de Bondsrepubliek Duitsland voor resten van aluminium
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31961D1223P0321
+docidentifier:
+- content: EU Decision 1961/1223
+  type: EU
+  primary: true
+- content: CELEX 31961D1223P0321
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1961/1223/oj
+  type: ELI
+date:
+- type: issued
+  at: '1961-12-20'
+- type: implemented
+  at: '1962-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

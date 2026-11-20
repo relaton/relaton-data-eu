@@ -1,0 +1,127 @@
+---
+id: EURegulation1931982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 193/82 of 26 January 1982 laying down general
+    rules for transfers of quotas in the sugar sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 193/82 du Conseil, du 26 janvier 1982, arrêtant les
+    règles générales relatives aux transferts de quotas dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 193/82 des Rates vom 26. Januar 1982 zur Festlegung
+    der Grundregeln für die Übertragung von Quoten im Zuckersektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 193/82 af 26. januar 1982 om almindelige
+    regler for overførsel af kvoter i sukkersektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 193/82 του Συμβουλίου
+    της 26ης Ιανουαρίου 1982 για τη θέσπιση γενικών
+    κανόνων για τις μεταφορές ποσοστώσεων στον
+    τομέα της ζάχαρης
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 193/82, annettu 26 päivänä tammikuuta 1982,
+    sokerialan kiintiöiden siirtoja koskevista yleisistä säännöistä
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 193/82 del Consiglio, del 26 gennaio 1982, che adotta
+    le norme generali relative ai trasferimenti di quote nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 193/82 van de Raad van 26 januari 1982 houdende de
+    algemene voorschriften voor quota- overdrachten in de sector suiker
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 193/82 do Conselho, de 26 de Janeiro de 1982, que
+    adopta as regras gerais relativas às transferências de quotas no sector do açúcar
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) nº 193/82 del Consejo, de 26 de enero de 1982, por el
+    que se adoptan las normas generales relativas a las transferencias de cuotas en
+    el sector del azúcar
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 193/82 av den 26 januari 1982 om allmänna
+    bestämmelser för överföring av kvoter inom sockersektorn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R0193
+docidentifier:
+- content: EU Regulation 193/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R0193
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/193/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-01-26'
+- type: implemented
+  at: '1982-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0748
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3331
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

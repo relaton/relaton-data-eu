@@ -1,0 +1,74 @@
+---
+id: EURegulation13811969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1381/69 du Conseil, du 17 juillet 1969, fixant, pour
+    la campagne 1969/1970, les principaux centres d'intervention des graines oléagineuses
+    et les prix dérivés qui y sont applicables
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1381/69 des Rates vom 17. Juli 1969 zur Festsetzung
+    der Hauptinterventionsorte für Ölsaaten und der dort geltenden abgeleiteten
+    Interventionspreise für das Wirtschaftsjahr 1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1381/69 del Consiglio, del 17 luglio 1969, che fissa,
+    per la campagna 1969/1970, i principali centri d'intervento nel settore dei semi
+    oleosi e i prezzi d'intervento derivati applicabili in tali centri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1381/69 van de Raad van 17 juli 1969 houdende vaststelling
+    voor het verkoopseizoen 1969/1970 van de voornaamste interventiecentra voor oliehoudende
+    zaden en de daar geldende afgeleide interventieprijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1381
+docidentifier:
+- content: EU Regulation 1381/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1381
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1381/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-17'
+- type: implemented
+  at: '1969-07-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

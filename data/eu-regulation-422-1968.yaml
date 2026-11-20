@@ -1,0 +1,78 @@
+---
+id: EURegulation4221968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 422/68 du Conseil, du 5 avril 1968, établissant les
+    spécifications tarifaires relatives au mannitol et au sorbitol et déterminant
+    les éléments fixes applicables à ces marchandises ainsi que les quantités
+    de produits de base considérées comme étant entrées dans leur fabrication
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 422/68 des Rates vom 5. April 1968 zur Festlegung
+    der Zollspezifikationen für Mannit und Sorbit und zur Festsetzung der auf diese
+    Waren anwendbaren festen Teilbeträge sowie der Richtmengen der verarbeiteten
+    Grunderzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 422/68 del Consiglio, del 5 aprile 1968, che stabilisce
+    le specificazioni tariffarie relative alla mannite ed alla sorbite e che determina
+    gli elementi fissi applicabili a dette merci come pure i quantitativi di prodotti
+    di base che si considerano entrati nella loro fabbricazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 422/68 van de Raad van 5 april 1968 houdende vaststelling
+    van de tariefspecificaties voor mannitol en sorbitol, alsmede van de vaste elementen
+    die op deze goederen van toepassing zijn en van de hoeveelheden basisprodukten
+    die worden geacht bij de vervaardiging daarvan te zijn verwerkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0422
+docidentifier:
+- content: EU Regulation 422/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0422
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/422/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-05'
+- type: implemented
+  at: '1968-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

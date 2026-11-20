@@ -1,0 +1,99 @@
+---
+id: EURegulation24351970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2435/70 of the Council of 30 November 1970 amending
+    Regulations Nos 140/67/EEC and 365/67/EEC on rules for the advance fixing of levies
+    on cereals, rice and broken rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2435/70 du Conseil, du 30 novembre 1970, modifiant
+    les règlements" n° 140/67/CEE et n° 365/67/CEE relatifs aux règles de fixation
+    à l' avance des prélèvements applicables aux céréales, au riz et aux brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2435/70 des Rates vom 30. November 1970 zur Änderung
+    der Verordnungen Nr. 140/67/EWG und Nr. 365/67/EWG über die Regelung für die
+    vorherige Festsetzung der Abschöpfungen für Getreide, für Reis und Bruchreis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2435/70 af 30. november 1970 om ændring
+    af forordningerne nr. 140/67/EØF og nr. 365/67/EØF om reglerne vedrørende forudfastsættelse
+    af importafgifter for korn, ris og brudris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2435/70 del Consiglio, del 30 novembre 1970, che modifica
+    i regolamenti n. 140/67/CEE e n. 365/67/CEE relativi alle norme per la fissazione
+    in anticipo dei prelievi applicabili ai cereali, al riso e alle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2435/70 van de Raad van 30 november 1970 houdende
+    wijziging van de Verordeningen nr. 140/67/EEG en nr. 365/67/EEG betreffende de
+    regels inzake het vooraf vaststellen van de heffingen op granen, op rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2435
+docidentifier:
+- content: EU Regulation 2435/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2435
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2435/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-30'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0140
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0365
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

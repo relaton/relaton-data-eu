@@ -1,0 +1,69 @@
+---
+id: EURegulation741962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 74 de la Commission portant fixation du prix d'écluse pour
+    les oeufs dépourvus de leur coquille et les jaunes d'oeufs de volaille de basse-cour,
+    propres à des usages alimentaires, frais, conservés, séchés ou sucrés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 74 der Kommission über die Festsetzung des Einschleusungspreises
+    für Eier ohne Schale und Eigelb, von Hausgeflügel, genieDbar, frisch, haltbar
+    gemacht, getrocknet oder gezuckert
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 74 della Commissione relativo alla fissazione del prezzo
+    limite delle uova sgusciate e del giallo d'uova di volatili da cortile, atti ad
+    usi alimentari, freschi, conservati, essiccati o con aggiunta di zuccheri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 74 van de Commissie houdende vaststelling van de sluisprijs
+    voor eieren uit de schaal en eigeel, van pluimvee, geschikt voor menselijke consumptie,
+    vers, verduurzaamd, gedroogd of met toegevoegde suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0074
+docidentifier:
+- content: EU Regulation 74/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0074
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/74/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

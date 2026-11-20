@@ -1,0 +1,99 @@
+---
+id: EURegulation23321983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2332/83 of 16 August 1983 amending Regulation
+    (EEC) No 2006/80 determining the intervention centres for cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2332/83 de la Commission du 16 août 1983 modifiant
+    le règlement (CEE) no 2006/80 déterminant les centres d' intervention des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2332/83 der Kommission vom 16. August 1983 zur Änderung
+    der Verordnung (EWG) Nr. 2006/80 zur Festlegung der Interventionsorte für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2332/83 af 16. august 1983 om ændring
+    af forordning (EØF) nr. 2006/80 om fastsættelse af interventionscentrene for
+    korn
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2332/83 της Επιτροπής
+    της 16ης Αυγούστου 1983 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 2006/80 περί καθορισμού
+    των κέντρων παρεμβάσεως σιτηρών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2332/83 della Commissione del 16 agosto 1983 che modifica
+    il regolamento (CEE) n. 2006/80 che fissa i centri d' intervento per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2332/83 van de Commissie van 16 augustus 1983 tot
+    wijziging van Verordening (EEG) nr. 2006/80 houdende aanwijzing van de interventiecentra
+    voor granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R2332
+docidentifier:
+- content: EU Regulation 2332/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R2332
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/2332/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-08-16'
+- type: implemented
+  at: '1983-08-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R2006
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation21131972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2113/72 of the Commission of 3 October 1972 amending
+    Regulation (EEC) No 2637/70 as regards the special period of validity of export
+    licences for cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2113/72 de la Commission, du 3 octobre 1972, modifiant
+    le règlement (CEE) n° 2637/70 en ce qui concerne la durée de validité spéciale
+    des certificats d'exportation dans les secteurs des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2113/72 der Kommission vom 3. Oktober 1972 zur Änderung
+    der Verordnung (EWG) Nr. 2637/70 hinsichtlich der besonderen Gültigkeitsdauer
+    der Ausfuhrlizenzen für Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2113/72 af 3. oktober 1972 om ændring
+    af forordning (EØF) nr. 2637/70 for så vidt angår den særlige gyldighedsperiode
+    for eksportlicenser for korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2113/72 della Commissione, del 3 ottobre 1972, che
+    modifica il regolamento (CEE) n. 2637/70 per quanto riguarda la durata di validità
+    speciale dei titoli di esportazione nei settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2113/72 van de Commissie van 3 oktober 1972 houdende
+    wijziging van Verordening (EEG) nr. 2637/70 voor wat betreft de bijzondere geldigheidsduur
+    van de uitvoercertificaten in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2113
+docidentifier:
+- content: EU Regulation 2113/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2113
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-03'
+- type: implemented
+  at: '1972-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

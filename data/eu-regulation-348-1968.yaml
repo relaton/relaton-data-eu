@@ -1,0 +1,85 @@
+---
+id: EURegulation3481968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 348/68 du Conseil, du 27 mars 1968, rectifiant le
+    texte des règlements n° 128/67/CEE et 130/67/CEE dans les langues allemande
+    et néerlandaise en ce qui concerne l'appellation de certaines céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 348/68 des Rates vom 27. März 1968 zur Berichtigung
+    des Wortlauts der Verordnungen Nr. 128/67/EWG und Nr. 130/67/EWG in deutscher
+    und niederländischer Sprache hinsichtlich der Bezeichnung bestimmter Getreidearten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 348/68 del Consiglio, del 27 marzo 1968, che rettifica
+    il testo dei regolamenti n. 128/67/CEE e n. 130/67/CEE in lingua tedesca e olandese
+    per quanto concerne la denominazione di alcuni cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 348/68 van de Raad van 27 maart 1968 houdende verbetering
+    van de tekst in de Duitse en de Nederlandse taal van de Verordeningen nrs. 128/67/EEG
+    en 130/67/EEG voor wat betreft de benaming van bepaalde graansoorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0348
+docidentifier:
+- content: EU Regulation 348/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0348
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/348/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-03-27'
+- type: implemented
+  at: '1968-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0128
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0130
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

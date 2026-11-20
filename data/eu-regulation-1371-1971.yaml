@@ -1,0 +1,78 @@
+---
+id: EURegulation13711971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1371/71 de la Commission, du 30 juin 1971, relatif
+    à la définition de la notion de produits originaires pour l'application des
+    préférences tarifaires octroyées par la Communauté économique européenne
+    à certains produits de pays en voie de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1371/71 der Kommission vom 30. Juni 1971 über die
+    Begriffsbestimmung des Warenursprungs bei der Anwendung der von der Europäischen
+    Wirtschaftsgemeinschaft für bestimmte Waren aus Entwicklungsländern gewährten
+    Zollpräferenzen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1371/71 della Commissione, del 30 giugno 1971, relativo
+    alla definizione della nozione di prodotti originari per l'applicazione delle
+    preferenze tariffarie accordate dalla Comunità economica europea a taluni prodotti
+    di paesi in via di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1371/71 van de Commissie van 30 juni 1971 betreffende
+    de definitie van het begrip "produkten van oorsprong" voor de toepassing van tariefprodukten
+    die door de Europese Economische Gemeenschap voor bepaalde produkten uit ontwikkelingslanden
+    worden verleend
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1371
+docidentifier:
+- content: EU Regulation 1371/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1371
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1371/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-30'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

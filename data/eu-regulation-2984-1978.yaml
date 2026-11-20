@@ -1,0 +1,103 @@
+---
+id: EURegulation29841978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2984/78 of 17 November 1978 determining
+    Community methods for the analysis of wines and repealing Regulation (EEC) No
+    1539/71
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2984/78 de la Commission, du 17 novembre 1978, déterminant
+    des méthodes d' analyse communautaires applicables dans le secteur du vin et
+    abrogeant le règlement (CEE) n° 1539/71
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2984/78 der Kommission vom 17. November 1978 zur Bestimmung
+    gemeinsamer Analysemethoden für den Weinsektor und zur Aufhebung der Verordnung
+    (EWG) Nr. 1539/71
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2984/78 af 17. november 1978 om fastsættelse
+    af fælles analysemetoder for vin og om ophævelse af forordning (EØF) nr. 1539/71
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2984/78 τής Επιτροπής
+    τής 17ης Νοεμβρίου 1978 περί καθορισμού κοινοτικών
+    μεθόδων αναλύσεως πού εφαρμόζονται στόν οινικό
+    τομέα, καθώς καί περί καταργήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 1539/71
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2984/78 della Commissione, del 17 novembre 1978, che
+    determina i metodi di analisi comunitari da utilizzare nel settore del vino e
+    abroga il regolamento (CEE) n. 1539/71
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2984/78 van de Commissie van 17 november 1978 tot
+    vaststelling van de in de wijnsector toe te passen communautaire analysemethoden
+    en houdende intrekking van Verordening (EEG) nr. 1539/71
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2984
+docidentifier:
+- content: EU Regulation 2984/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2984
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2984/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-11-17'
+- type: implemented
+  at: '1979-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1539
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,83 @@
+---
+id: EURegulationNo20231975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2023/75 of the Commission of 1 August 1975 laying down
+    the protective measures applicable to the import of tomato concentrates
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2023/75 de la Commission, du 1er août 1975, arrêtant
+    les mesures de sauvegarde applicables à l'importation des concentrés de tomates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2023/75 der Kommission vom 1. August 1975 über Schutzmaßnahmen
+    bei der Einfuhr von Tomatenmark
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2023/75 af 1. august 1975 om fastsættelse
+    af de beskyttelsesforanstaltninger, der skal anvendes på indførsel af tomatkoncentrater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2023/75 della Commissione, del 1 agosto 1975, che
+    stabilisce le misure di salvaguardia applicabili all'importazione dei concentrati
+    di pomodori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2023/75 van de Commissie van 1 augustus 1975 houdende
+    vaststelling van vrijwaringsmaatregelen bij de invoer van tomatenpuree
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2023
+docidentifier:
+- content: EU Regulation No 2023/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2023
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2023/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-01'
+- type: implemented
+  at: '1975-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

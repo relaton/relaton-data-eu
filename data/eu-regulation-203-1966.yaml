@@ -1,0 +1,69 @@
+---
+id: EURegulation2031966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 203/66/CEE de la Commission, du 5 décembre 1966, modifiant
+    les montants supplémentaires pour les poules et poulets abattus et pour les moitiés
+    ou quarts de poules et poulets
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 203/66/EWG der Kommission vom 5. Dezember 1966 zur Änderung
+    der Zusatzbeträge für geschlachtete Hühner und für Hälften oder Viertel von
+    Hühnern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 203/66/CEE della Commissione, del 5 dicembre 1966, che modifica
+    gli importi supplementari applicabili alle galline e ai polli macellati e alle
+    metà o quarti di galline e polli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 203/66/EEG van de Commissie van 5 december 1966 houdende
+    wijziging van de extra-bedragen voor geslachte kippen en kuikens en voor helften
+    of vierendelen van kippen en kuikens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0203
+docidentifier:
+- content: EU Regulation 203/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0203
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/203/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

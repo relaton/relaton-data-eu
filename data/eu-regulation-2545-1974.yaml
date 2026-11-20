@@ -1,0 +1,94 @@
+---
+id: EURegulation25451974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2545/74 of the Commission of 4 October 1974 amending
+    Regulation (EEC) No 2494/74 introducing a countervailing charge on table grapes
+    originating in Bulgaria and Romania
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2545/74 de la Commission, du 4 octobre 1974, modifiant
+    le règlement (CEE) n° 2494/74 instituant une taxe compensatoire à l' importation
+    de raisins de table originaires de Bulgarie et de Roumanie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2545/74 der Kommission vom 4. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2494/74 zur Einführung einer Ausgleichsabgabe auf die
+    Einfuhr von Tafeltrauben mit Ursprung in Bulgarien und Rumänien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2545/74 af 4. oktober 1974 om ændring
+    af forordning (EØF) nr. 2494/74 om indførelse af en udligningsafgift ved indførsel
+    af druer til spisebrug med oprindelse i Bulgarien og Rumænien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2545/74 della Commissione, del 4 ottobre 1974, recante
+    modifica del regolamento (CEE) n. 2494/74 che istituisce una tassa di compensazione
+    all' importazione dell' uva da tavola originaria della Bulgaria e della Romania
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2545/74 van de Commissie van 4 oktober 1974 tot wijziging
+    van Verordening (EEG) nr. 2494/74 houdende instelling van een compenserende heffing
+    bij invoer van tafeldruiven van oorsprong uit Bulgarije en Roemenië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2545
+docidentifier:
+- content: EU Regulation 2545/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2545
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2545/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-04'
+- type: implemented
+  at: '1974-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2494
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

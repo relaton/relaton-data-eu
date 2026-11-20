@@ -1,0 +1,93 @@
+---
+id: EURegulation22491973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2249/73 of the Commission of 17 August 1973 fixing
+    the coefficients for calculating the levy on beef and veal other than frozen
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2249/73 de la Commission, du 17 août 1973, fixant
+    des coefficients servant au calcul du prélèvement et certaines définitions
+    des viandes autres que la viande bovine congelée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2249/73 der Kommission vom 17. August 1973 zur Festsetzung
+    der Koeffizienten für die Berechnung der Abschöpfungen und zur Festlegung bestimmter
+    Definitionen für Rindfleisch, ausgenommen gefrorenes Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2249/73 af 17. august 1973 om fastsættelse
+    af koefficienterne til beregning af importafgiften og visse definitioner af oksekød
+    undtagen frosset oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2249/73 della Commissione, del 17 agosto 1973, che
+    fissa coefficienti a fini di calcolo del prelievo e stabilisce alcune definizioni
+    per le carni diverse dalle carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2249/73 van de Commissie van 17 augustus 1973 tot
+    vaststelling van coëfficiënten voor de berekening van de heffing en van bepaalde
+    definities voor rundvlees, ander dan bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2249
+docidentifier:
+- content: EU Regulation 2249/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2249
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2249/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-08-17'
+- type: implemented
+  at: '1973-09-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1025
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

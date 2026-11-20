@@ -1,0 +1,97 @@
+---
+id: EURegulation21601970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2160/70 of the Commission of 27 October 1970 amending
+    Regulation (EEC) No 1579/70 laying down specific conditions for the export of
+    certain cheeses to Spain
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2160/70 de la Commission, du 27 octobre 1970, modifiant
+    le règlement (CEE) n° 1579/70 établissant des conditions particulières pour
+    l'exportation de certains fromages vers l'Espagne
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG ( EWG ) NR. 2160/70 DER KOMMISSION VOM 27. OKTOBER 1970 ZUR
+    AENDERUNG DER VERORDNUNG ( EWG ) NR. 1579/70 UEBER DIE FESTLEGUNG BESONDERER BEDINGUNGEN
+    FUER DIE AUSFUHR BESTIMMTER KAESESORTEN NACH SPANIEN
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 2160/70 της Επιτροπής,
+    της 27ης Οκτωβρίου 1970, περί τροποποίησης του
+    κανονισμού ( ΕΟΚ ) αριθ. 1579/70 που καθορίζει τις
+    ιδιαίτερες συνθήκες για την εξαγωγή ορισμένων
+    τυριών προς την Ισπανία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento ( CEE ) n. 2160/70 della Commissione, del 27 ottobre 1970,
+    che modifica il regolamento ( CEE ) n. 1579/70 che stabilisce condizioni particolari
+    per l' esportazione di alcuni formaggi verso la Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING ( EEG ) NR. 2160/70 VAN DE COMMISSIE VAN 27 OKTOBER 1970 TOT
+    WIJZIGING VAN VERORDENING ( EEG ) NR. 1579/70 HOUDENDE VASTSTELLING VAN DE BIJZONDERE
+    VOORWAARDEN VOOR DE UITVOER VAN BEPAALDE KAASSOORTEN NAAR SPANJE
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2160
+docidentifier:
+- content: EU Regulation 2160/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2160
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2160/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-27'
+- type: implemented
+  at: '1970-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1579
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

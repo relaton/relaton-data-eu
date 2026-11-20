@@ -1,0 +1,86 @@
+---
+id: EUDecision196573
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 65/73/CEE de la Commission, du 15 janvier 1965, portant nouvelle
+    modification de sa décision du 6 novembre 1964, autorisant la perception de taxes
+    compensatoires sur les importations dans la République française de chocolat
+    et de confiseries et préparations comportant du cacao ou du chocolat, sans liqueur
+    alcoolique, en provenance de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '65/73/EWG: Entscheidung der Kommission vom 15. Januar 1965 über eine
+    neue Änderung ihrer Entscheidung vom 6. November 1964 über die Erhebung von
+    Ausgleichsabgaben auf Einfuhren von Schokolade, Schokoladewaren und kakaohaltigen
+    oder schokoladehaltigen Zuckerwaren, nicht alkoholhaltig, aus verschiedenen Mitgliedstaaten
+    in die Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '65/73/CEE: Decisione della Commissione del 15 gennaio 1965 relativa ad
+    una nuova modifica della propria decisione del 6 novembre 1964 che autorizza la
+    riscossione di tasse di compensazione sulle importazioni nella Repubblica francese
+    di cioccolata, di dolciumi e di preparazioni contenenti cacao o cioccolata, senza
+    alcolici, in provenienza dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/73/EEG: Beschikking van de Commissie van 15 januari 1965 tot nieuwe
+    wijziging van haar beschikking van 6 november 1964, houdende machtiging tot het
+    leggen van compenserende heffingen op de invoer in de Franse Republiek van chocolade
+    en van suikerwerk en voedingsmiddelen met cacao of met chocolade, zonder likeur,
+    uit bepaalde Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0073
+docidentifier:
+- content: EU Decision 1965/73
+  type: EU
+  primary: true
+- content: CELEX 31965D0073
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/73/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0692
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,101 @@
+---
+id: EURegulation17921981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1792/81 of 30 June 1981 amending Regulation
+    (EEC) No 3438/80 as regards exports of lead waste and scrap
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1792/81 du Conseil, du 30 juin 1981, modifiant le
+    règlement (CEE) n° 3438/80 en ce qui concerne l' exportation de déchets et
+    débris de plomb
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1792/81 des Rates vom 30. Juni 1981 1981 zur Änderung
+    der Verordnung (EWG) Nr. 3438/80 hinsichtlich der Ausfuhr von Bearbeitungsabfällen
+    und Schrott aus Blei
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1792/81 af 30. juni 1981 om ændring af forordning
+    (EØF) nr. 3438/80 for så vidt angår udførsel af affald og skrot af bly
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1792/81 τού Συμβουλίου
+    τής 30ής Ιουνίου 1981 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 3438/80 όσον αφορά τίς εξαγωγές απορριμάτων
+    καί θραυσμάτων μολύβδου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1792/81 del Consiglio, del 30 giugno 1981, che modifica
+    il regolamento (CEE) n. 3438/80 per quanto riguarda l' esportazione di cascami
+    e rottami di piombo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1792/81 van de Raad van 30 juni 1981 tot wijziging
+    van Verordening (EEG) nr. 3438/80 voor wat betreft de uitvoer van resten en afvallen
+    van lood
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R1792
+docidentifier:
+- content: EU Regulation 1792/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R1792
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/1792/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-06-30'
+- type: implemented
+  at: '1981-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R3438
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

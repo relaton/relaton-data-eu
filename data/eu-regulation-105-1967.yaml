@@ -1,0 +1,72 @@
+---
+id: EURegulation1051967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 105/67/CEE du Conseil, du 31 mai 1967, modifiant le prix
+    de seuil applicable en Italie pour le beurre pendant la campagne 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 105/67/EWG des Rates vom 31. Mai 1967 zur Änderung des
+    in Italien während des Milchwirtschaftsjahres 1967/1968 geltenden Schwellenpreises
+    für Butter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 105/67/CEE del Consiglio, del 31 maggio 1967, che modifica
+    il prezzo di entrata del burro applicabile in Italia nella campagna 1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 105/67/EEG van de Raad van 31 mei 1967 tot wijziging van
+    de drempelprijs, van toepassing in Italië voor boter gedurende het melkprijsjaar
+    1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0105
+docidentifier:
+- content: EU Regulation 105/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0105
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/105/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-31'
+- type: implemented
+  at: '1967-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

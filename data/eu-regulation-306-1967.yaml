@@ -1,0 +1,74 @@
+---
+id: EURegulation3061967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 306/67/CEE du Conseil, du 14 juillet 1967, portant dispositions
+    complémentaires au règlement n° 124/67/CEE fixant le prix de base et le prix
+    d'achat pour les tomates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 306/67/EWG des Rates vom 14. Juli 1967 zur Ergänzung der
+    Verordnung Nr. 124/67/EWG zur Festsetzung des Grundpreises und des Ankaufspreises
+    für Tomaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 306/67/CEE del Consiglio, del 14 luglio 1967, relativo a
+    disposizioni complementari al regolamento n. 124/67/CEE che fissa il prezzo di
+    base ed il prezzo di acquisto per i pomodori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 306/67/EEG van de Raad van 14 juli 1967 tot aanvulling
+    van Verordening Nr. 124/67/EEG houdende vaststelling van de basisprijs en de aankoopprijs
+    voor tomaten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0306
+docidentifier:
+- content: EU Regulation 306/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0306
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/306/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-14'
+- type: implemented
+  at: '1967-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

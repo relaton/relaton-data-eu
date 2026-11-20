@@ -1,0 +1,104 @@
+---
+id: EURegulation7531972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 753/72 of the Commission of 13 April 1972 amending
+    Regulation (EEC) No 208/70 laying down detailed rules for the application of measures
+    to encourage the processing of oranges
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 753/72 de la Commission, du 13 avril 1972, modifiant
+    le règlement (CEE) n° 208/70 établissant les modalités d' application des
+    mesures visant à promouvoir la transformation des oranges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 753/72 der Kommission vom 13. April 1972 zur Änderung
+    der Verordnung (EWG) Nr. 208/70 mit Durchführungsbestimmungen zu den Maßnahmen
+    zur Förderung der Apfelsinenverarbeitung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 753/72 af 13. april 1972 om ændring
+    af forordning (EØF) nr. 208/70 om gennemførelsesbestemmelser angående foranstaltninger
+    til fremme af forarbejdning af appelsiner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 753/72 τής Επιτροπής
+    τής 13ης Απριλίου 1972 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 208/70 «περί θεσπίσεως λεπτομερειών
+    εφαρμογής τών μέτρων πού αποβλέπουν στήν προώθηση
+    τής μεταποιήσεως τών πορτοκαλιών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 753/72 della Commissione, del 13 aprile 1972, che
+    modifica il regolamento (CEE) n. 208/70 che stabilisce le modalità di applicazione
+    delle misure intese a promuovere la trasformazione delle arance
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 753/72 van de Commissie van 13 april 1972 houdende
+    wijziging van Verordening (EEG) nr. 208/70 houdende uitvoeringsbepalingen ter
+    zake van de maatregelen tot bevordering van het verwerken van sinaasappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0753
+docidentifier:
+- content: EU Regulation 753/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0753
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/753/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-04-13'
+- type: implemented
+  at: '1972-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0208
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,75 @@
+---
+id: EURegulation24311969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2431/69 de la Commission, du 5 décembre 1969, fixant
+    les coefficients d'adaptation à appliquer au prix d'achat prévu pour les mandarines
+    par le règlement (CEE) n° 2336/69 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2431/69 der Kommission vom 5. Dezember 1969 zur Festsetzung
+    der Anpassungskoeffizienten für den Ankaufspreis für Mandarinen nach Verordnung
+    (EWG) Nr. 2336/69 des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2431/69 della Commissione, del 5 dicembre 1969, che
+    fissa i coefficienti di adattamento da applicare al prezzo di acquisto previsto
+    per i mandarini dal regolamento (CEE) n. 2336/69 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2431/69 van de Commissie van 5 december 1969 houdende
+    vaststelling van de aanpassingscoëfficiënten die moeten worden toegepast op
+    de bij Verordening (EEG) nr. 2336/69 van de Raad voor mandarijnen vastgestelde
+    aankoopprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2431
+docidentifier:
+- content: EU Regulation 2431/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2431
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2431/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-05'
+- type: implemented
+  at: '1969-12-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

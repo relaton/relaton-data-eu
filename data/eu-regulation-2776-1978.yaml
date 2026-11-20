@@ -1,0 +1,94 @@
+---
+id: EURegulation27761978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2776/78 of 23 November 1978 amending for the
+    second time Regulation (EEC) No 1162/76 on measures designed to adjust wine-growing
+    potential to market requirements
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2776/78 du Conseil, du 23 novembre 1978, modifiant
+    pour la deuxième fois le règlement (CEE) n° 1162/76 portant des mesures visant
+    à adapter le potentiel viticole aux besoins du marché
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2776/78 des Rates vom 23. November 1978 zur zweiten
+    Änderung der Verordnung (EWG) Nr. 1162/76 über Maßnahmen zur Anpassung des
+    Weinbaupotentials an die Marktbedürfnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2776/78 af 23. november 1978 om anden ændring
+    af forordning (EØF) nr. 1162/76 om foranstaltninger med henblik på at tilpasse
+    vinproduktionskapaciteten til markedets behov
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2776/78 del Consiglio, del 23 novembre 1978, che modifica
+    per la seconda volta il regolamento (CEE) n. 1162/76 recante misure intese ad
+    adeguare il potenziale viticolo alle esigenze del mercato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2776/78 van de Raad van 23 november 1978 houdende
+    tweede wijziging van Verordening (EEG) nr. 1162/76 houdende maatregelen tot aanpassing
+    van het wijnbouwpotentieel aan de behoeften van de markt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2776
+docidentifier:
+- content: EU Regulation 2776/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2776
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2776/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-11-23'
+- type: implemented
+  at: '1978-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1162
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

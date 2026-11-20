@@ -1,0 +1,70 @@
+---
+id: EURegulation9261967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 926/67/CEE de la Commission, du 29 novembre 1967, fixant
+    la liste des marchés représentatifs à la production pour les oranges douces
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 926/67/EWG der Kommission vom 29. November 1967 zur Festsetzung
+    der Liste der repräsentativen Erzeugermärkte für Apfelsinen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 926/67/CEE della Commissione, del 29 novembre 1967, che
+    fissa l'elenco dei mercati rappresentativi alla produzione per le arance dolci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 926/67/EEG van de Commissie van 29 november 1967 houdende
+    vaststelling van de lijst van representatieve produktiemarkten voor zoete sinaasappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0926
+docidentifier:
+- content: EU Regulation 926/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0926
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/926/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-29'
+- type: implemented
+  at: '1967-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

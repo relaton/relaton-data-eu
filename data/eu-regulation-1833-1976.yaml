@@ -1,0 +1,93 @@
+---
+id: EURegulation18331976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1833/76 of 28 July 1976 amending Regulation
+    (EEC) No 1493/71 on price increases and reductions applicable to intervention
+    in cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1833/76 de la Commission, du 28 juillet 1976, modifiant
+    le règlement (CEE) n° 1493/71 relatif aux bonifications et réfactions à appliquer
+    lors de l' intervention dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1833/76 der Kommission vom 28. Juli 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1493/71 über die Zu- und Abschläge für Getreide bei
+    der Intervention
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1833/76 af 28. juli 1976 om ændring
+    af forordning (EØF) nr. 1493/71 om tillæg og fradrag ved intervention for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1833/76 della Commissione, del 28 luglio 1976, che
+    modifica il regolamento (CEE) n. 1493/71 relativo alle maggiorazioni e detrazioni
+    applicabili all' intervento nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1833/76 van de Commissie van 28 juli 1976 tot wijziging
+    van Verordening (EEG) nr. 1493/71 betreffende de bij interventie in de sector
+    granen toe te passen toeslagen en kortingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1833
+docidentifier:
+- content: EU Regulation 1833/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1833
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1833/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-28'
+- type: implemented
+  at: '1976-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1493
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

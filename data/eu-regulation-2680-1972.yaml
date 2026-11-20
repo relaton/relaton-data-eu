@@ -1,0 +1,108 @@
+---
+id: EURegulation26801972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2680/72 of the Council of 12 December 1972 amending
+    Regulation (EEC) No 816/70 laying down additional provisions for the common organisation
+    of the market in wine and Regulation (EEC) No 817/70 laying down special provisions
+    relating to quality wines produced in specified regions
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2680/72 du Conseil, du 12 décembre 1972, modifiant
+    le règlement (CEE) n° 816/70 portant dispositions complémentaires en matière
+    d' organisation commune du marché viti-vinicole ainsi que le règlement (CEE)
+    n° 817/70 établissant des dispositions particulières relatives aux vins de
+    qualité produits dans des régions déterminées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2680/72 des Rates vom 12. Dezember 1972 zur Änderung
+    der Verordnung (EWG) Nr. 816/70 zur Festlegung ergänzender Vorschriften für
+    die gemeinsame Marktorganisation für Wein sowie zur Änderung der Verordnung
+    (EWG) Nr. 817/70 zur Festlegung besonderer Vorschriften für Qualitätsweine bestimmter
+    Anbaugebiete
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2680/72 af 12. december 1972 om ændring
+    af forordning (EØF) nr. 816/70 om supplerende regler for den fælles markedsordning
+    for vin samt af forordning (EØF) nr. 817/70 om fastlæggelse af særlige regler
+    for kvalitetsvine fra bestemte dyrkningsområder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2680/72 del Consiglio, del 12 dicembre 1972, che modifica
+    il regolamento (CEE) n. 816/70 relativo a disposizioni complementari in materia
+    di organizzazione comune del mercato vitivinicolo, come pure il regolamento (CEE)
+    n. 817/70 che stabilisce disposizioni particolari relative ai vini di qualità
+    prodotti in regioni determinate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2680/72 van de Raad van 12 december 1972 tot wijziging
+    van Verordening (EEG) nr. 816/70 houdende aanvullende bepalingen inzake de gemeenschappelijke
+    ordening van de wijnmarkt en van Verordening (EEG) nr. 817/70 houdende vaststelling
+    van bijzondere bepalingen betreffende in bepaalde gebieden voortgebrachte kwaliteitswijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2680
+docidentifier:
+- content: EU Regulation 2680/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2680
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2680/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-12'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0817
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

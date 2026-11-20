@@ -1,0 +1,93 @@
+---
+id: EURegulation14061976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1406/76 of 18 June 1976 changing the security
+    for tender for the export of sugar referred to in Regulation (EEC) No 2101/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1406/76 de la Commission, du 18 juin 1976, modifiant
+    la caution d' adjudication visée au règlement (CEE) n° 2101/75 pour l' exportation
+    de sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1406/76 der Kommission vom 18. Juni 1976 zur Änderung
+    der in der Verordnung (EWG) Nr. 2101/75 genannten Ausschreibungskaution für die
+    Ausfuhr von Weißzucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1406/76 af 18. juni 1976 om ændring
+    af sikkerhedsstillelse ved licitation angivet i forordning (EØF) nr. 2101/75
+    for eksport af sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1406/76 della Commissione, del 18 giugno 1976, che
+    modifica la cauzione di gara di cui al regolamento (CEE) n. 2101/75 per l' esportazione
+    di zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1406/76 van de Commissie van 18 juni 1976 tot wijziging
+    van de in Verordening (EEG) nr. 2101/75 bedoelde inschrijvingswaarborg voor de
+    uitvoer van suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1406
+docidentifier:
+- content: EU Regulation 1406/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1406
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1406/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-18'
+- type: implemented
+  at: '1976-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2101
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

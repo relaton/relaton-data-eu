@@ -1,0 +1,77 @@
+---
+id: EUDecision1963319
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision du Conseil du 9 mai 1963, portant suspension temporaire du droit
+    du Tarif douanier commun applicable à l'huile d'olive autre que vierge
+  type: main
+- language: de
+  script: Latn
+  content: '63/319/EWG: Entscheidung des Rats vom 9. Mai 1963 über die zeitweilige
+    Aussetzung des Satzes des Gemeinsamen Zolltarifs für Olivenöl, ausgenommen Jungfernöl'
+  type: main
+- language: it
+  script: Latn
+  content: '63/319/CEE: Decisione del Consiglio del 9 maggio 1963 relativa alla sospensione
+    temporanea dei dazi della tariffa doganale comune sull''olio di oliva diverso
+    da quello vergine'
+  type: main
+- language: nl
+  script: Latn
+  content: '63/319/EEG: Beschikking van de Raad van 9 mei 1963 houdende tijdelijke
+    schorsing van het recht van het gemeenschappelijk douanetarief op olijfolie, andere
+    dan die verkregen bij de eerste persing als bedoeld in Aanvullende Aantekening
+    letter B'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963D0319
+docidentifier:
+- content: EU Decision 1963/319
+  type: EU
+  primary: true
+- content: CELEX 31963D0319
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1963/319/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-05-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963D0318
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

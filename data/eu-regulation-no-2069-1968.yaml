@@ -1,0 +1,67 @@
+---
+id: EURegulationNo20691968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2069/68 de la Commission, du 19 décembre 1968, fixant
+    le correctif applicable à la restitution pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2069/68 der Kommission vom 19. Dezember 1968 zur Festsetzung
+    der bei der Erstattung für Reis und Bruchreis anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2069/68 della Commissione, del 19 dicembre 1968, relativo
+    alla fissazione del correttivo applicabile alla restituzione per il riso e le
+    rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2069/68 van de Commissie van 19 december 1968 tot
+    vaststelling van de bij uitvoer van rijst en breukrijst op de restitutie toe te
+    passen correctiefactor
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R2069
+docidentifier:
+- content: EU Regulation No 2069/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R2069
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/2069/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation29291976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2929/76 of 29 November 1976 increasing the
+    Community tariff quota opened for 1976 for unwrought magnesium falling within
+    subheading 77.01 A of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2929/76 du Conseil, du 29 novembre 1976, portant augmentation
+    du volume du contingent tarifaire communautaire, ouvert pour l'année 1976, pour
+    le magnésium brut de la sous-position 77.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2929/76 des Rates vom 29. November 1976 zur Aufstockung
+    des für 1976 eröffneten Gemeinschaftszollkontingents für Rohmagnesium der Tarifstelle
+    77.01 A des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2929/76 af 29. november 1976 om forhøjelse
+    af det for 1976 åbnede fællesskabskontingent for ubearbejdet magnesium, henhørende
+    under pos. 77.01 A i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2929/76 del Consiglio, del 29 novembre 1976, relativo
+    all'aumento del volume del contingente tariffario comunitario aperto per il 1976
+    per il magnesio greggio della sottovoce 77.01 A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2929/76 van de Raad van 29 november 1976 houdende
+    verhoging van het communautaire tariefcontingent voor 1976 voor ruw magnesium
+    van onderverdeling 77.01 A van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2929
+docidentifier:
+- content: EU Regulation 2929/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2929
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2929/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-29'
+- type: implemented
+  at: '1976-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0126
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1630
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

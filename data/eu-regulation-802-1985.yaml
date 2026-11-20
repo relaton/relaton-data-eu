@@ -1,0 +1,110 @@
+---
+id: EURegulation8021985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 802/85 of 26 March 1985 amending for the second
+    time Regulation (EEC) No 4/85 laying down for 1985 certain measures for the conservation
+    and management of fishery resources applicable to vessels flying the flag of Norway
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 802/85 du Conseil du 26 mars 1985 portant deuxième
+    modification du règlement (CEE) no 4/85 fixant, pour l' année 1985, certaines
+    mesures de conservation et de gestion des ressources de pêche applicables aux
+    navires battant pavillon de la Norvège
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 802/85 des Rates vom 26. März 1985 zur zweiten Änderung
+    der Verordnung (EWG) Nr. 4/85 zur Festlegung von Maßnahmen zur Erhaltung und
+    Bewirtschaftung der Fischbestände gegenüber Schiffen unter norwegischer Flagge
+    für 1985
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 802/85 af 26. marts 1985 om anden ændring
+    af forordning (EØF) nr. 4/85 om fastsættelse for 1985 af visse foranstaltninger
+    til bevarelse og forvaltning af fiskeressourcerne, som skal finde anvendelse på
+    fartøjer, der fører norsk flag
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 802/85 του Συμβουλίου
+    της 26ης Μαρτίου 1985 για δεύτερη τροποποίηση
+    του κανονισμού (ΕΟΚ) αριθ. 4/85 περί καθορισμού,
+    για το 1985, ορισμένων μέτρων διατηρήσεως και
+    διαχειρίσεως των αλιευτικών πόρων που εφαρμόζονται
+    σε σκάφη υπό νορβηγική σημαία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 802/85 del Consiglio del 26 marzo 1985 recante seconda
+    modifica del regolamento (CEE) n. 4/85, che stabilisce per il 1985 talune misure
+    di conservazione e di gestione delle risorse ittiche da applicare alle navi battenti
+    bandiera norvegese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 802/85 van de Raad van 26 maart 1985 houdende tweede
+    wijziging van Verordening (EEG) nr. 4/85 tot vaststelling voor 1985 van bepaalde
+    maatregelen voor de instandhouding en het beheer van de visbestanden, van toepassing
+    op vaartuigen die de vlag van Noorwegen voeren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0802
+docidentifier:
+- content: EU Regulation 802/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0802
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/802/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-03-26'
+- type: implemented
+  at: '1985-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

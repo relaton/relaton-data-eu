@@ -1,0 +1,133 @@
+---
+id: EURegulation2361986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 236/86 of 3 February 1986 amending Regulations
+    (EEC) No 2189/85, (EEC) No 2607/85, (EEC) No 2390/85 and (EEC) No 2273/85 relating
+    to the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 236/86 de la Commission du 3 février 1986 modifiant
+    les règlements (CEE) n° 2189/85, (CEE) n° 2607/85, (CEE) n° 2390/85 et (CEE)
+    n° 2273/85 relatifs au secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 236/86 der Kommission vom 3. Februar 1986 zur Änderung
+    der Verordnungen (EWG) Nr. 2189/85, (EWG) Nr. 2607/85, (EWG) Nr. 2390/85 und (EWG)
+    Nr. 2273/85 für den Weinsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 236/86 af 3. februar 1986 om ændring
+    af forordning (EØF) nr. 2189/85, (EØF) nr. 2607/85, (EØF) nr. 2390/85 og (EØF)
+    nr. 2273/85 vedrørende vinsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 236/86 της Επιτροπής
+    της 3ης Φεβρουαρίου 1986 που τροποποιεί τους
+    κανονισμούς (ΕΟΚ) αριθ. 2189/85, (ΕΟΚ) αριθ. 2607/85,
+    (ΕΟΚ) αριθ. 2390/85 και (ΕΟΚ) αριθ. 2273/85 σχετικά με
+    τον αμπελοοινικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 236/86 della Commissione del 3 febbraio 1986 che modifica
+    i regolamenti (CEE) n. 2189/85, n. 2607/85, n. 2390/85 e n. 2273/85 relativi al
+    settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 236/86 van de Commissie van 3 februari 1986 houdende
+    wijziging van de Verordeningen (EEG) nr. 2189/85, (EEG) nr. 2607/85, (EEG) nr.
+    2390/85 en (EEG) nr. 2273/85 betreffende de wijnbouwsector
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 236/86 da Comissão de 3 de Fevereiro de 1986 que
+    altera os Regulamentos (CEE) n.° 2189/85, (CEE) n.° 2607/85, (CEE) n.° 2390/85
+    e (CEE) n.° 2273/85 relativos ao sector vitivinícola
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 236/86 de la Comisión de 3 de febrero de 1986 por
+    el que se modifican los Reglamentos (CEE) n° 2189/85, n° 2607/85, n° 2390/85
+    y n° 2273/85 relativos al sector vitivinícola
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R0236
+docidentifier:
+- content: EU Regulation 236/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R0236
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/236/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-02-03'
+- type: implemented
+  at: '1986-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R2189
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R2273
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R2390
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R2607
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

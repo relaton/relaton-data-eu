@@ -1,0 +1,104 @@
+---
+id: EURegulation1901980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 190/80 of 29 January 1980 amending Regulation
+    (EEC) No 1763/78 as regards the transfer of skimmed-milk powder to the Italian
+    intervention agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 190/80 du Conseil, du 29 janvier 1980, modifiant le
+    règlement (CEE) n° 1763/78 relatif au transfert de lait écrémé en poudre
+    à l' organisme d' intervention italien
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 190/80 des Rates vom 29. Januar 1980 zur Änderung
+    der Verordnung (EWG) Nr. 1763/78 betreffend den Transfer von Magermilchpulver
+    an die italienische Interventionsstelle
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 190/80 af 29. januar 1980 om ændring af
+    forordning (EØF) nr. 1763/78 for så vidt angår overførsel af skummetmælkspulver
+    til det italienske interventionsorgan
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 190/80 τού Συμβουλίου
+    τής 29ης Ιανουαρίου 1980 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1763/78 «περί τής μεταβιβάσεως
+    αποκορυφωμένου γάλακτος εις κόνιν στόν ιταλικό
+    οργανισμό παρεμβάσεως»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 190/80 del Consiglio, del 29 gennaio 1980, recante
+    modifica del regolamento (CEE) n. 1763/78 relativo al trasferimento di latte scremato
+    in polvere all' organismo d' intervento italiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 190/80 van de Raad van 29 januari 1980 tot wijziging
+    van Verordening (EEG) nr. 1763/78 met betrekking tot de overdracht van magere-melkpoeder
+    aan het Italiaanse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0190
+docidentifier:
+- content: EU Regulation 190/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0190
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/190/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-01-29'
+- type: implemented
+  at: '1980-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1763
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

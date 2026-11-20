@@ -1,0 +1,86 @@
+---
+id: EUDecision1967543
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 26 juillet 1967, relative à l'autorisation
+    du projet de nouveau point 7 de l'appendice aux "conditioni a tariffe per i trasporti
+    delle cose sulle F.S." des chemins de fer de l'État
+  type: main
+- language: de
+  script: Latn
+  content: '67/543/EWG: Entscheidung der Kommission vom 26. Juli 1967 über die Genehmigung
+    des Entwurfs für den neuen Punkt 7 des Anhangs zu den "Condizioni e tariffe per
+    i trasporti delle cose sulle FS" (Gütertarif) der italienischen Staatsbahnen'
+  type: main
+- language: it
+  script: Latn
+  content: '67/543/CEE: Decisione della Commissione, del 26 luglio 1967, relativa
+    all''autorizzazione del progetto del nuovo punto 7 dell''appendice alle «Condizioni
+    e tariffe per i trasporti delle cose sulle FS» delle Ferrovie italiane dello
+    Stato'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/543/EEG: Beschikking van de Commissie van 26 juli 1967 betreffende
+    machtiging inzake het ontwerp van een nieuw punt 7 van het Aanhangsel bij de "Condizioni
+    e tariffe per i trasporti delle cose sulle FS" van de Italiaanse staatsspoorwegen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0543
+docidentifier:
+- content: EU Decision 1967/543
+  type: EU
+  primary: true
+- content: CELEX 31967D0543
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/543/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-26'
+- type: implemented
+  at: '1967-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962D0207P1239
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962D0207P1239
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

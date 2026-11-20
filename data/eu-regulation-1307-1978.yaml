@@ -1,0 +1,94 @@
+---
+id: EURegulation13071978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1307/78 of 15 June 1978 amending Regulation
+    (EEC) No 1102/78 as regards protective measures applicable to imports of preserved
+    non-cultivated mushrooms
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1307/78 de la Commission, du 15 juin 1978, modifiant
+    le règlement (CEE) n° 1102/78 en ce qui concerne les mesures de sauvegarde applicables
+    aux importations des conserves de champignons non cultivés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1307/78 der Kommission vom 15. Juni 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1102/78 hinsichtlich der Schutzmaßnahmen bei der Einfuhr
+    bestimmter Pilzkonserven
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1307/78 af 15. juni 1978 om ændring
+    af forordning (EØF) nr. 1102/78 for så vidt angår beskyttelsesforanstaltningerne
+    over for indførsel af konserves af ikke-avlede svampe
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1307/78 della Commissione, del 15 giugno 1978, che
+    modifica il regolamento (CEE) n. 1102/78 per quanto concerne le misure di salvaguardia
+    applicabili alle importazioni di conserve di funghi non coltivati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1307/78 van de Commissie van 15 juni 1978 houdende
+    wijziging van Verordening (EEG) nr. 1102/78 met betrekking tot de vrijwaringsmaatregelen
+    voor de invoer van conserven van niet-gekweekte paddestoelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1307
+docidentifier:
+- content: EU Regulation 1307/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1307
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1307/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-15'
+- type: implemented
+  at: '1978-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1102
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

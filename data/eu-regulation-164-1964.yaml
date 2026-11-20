@@ -1,0 +1,69 @@
+---
+id: EURegulation1641964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 164/64/CEE de la Commission, du 29 octobre 1964, déterminant
+    les modalités d'octroi de la restitution à l'exportation vers les pays tiers
+    pour les produits transformés à base de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 164/64/EWG der Kommission vom 29. Oktober 1964 zur Festsetzung
+    der Durchführungsbestimmungen zur Gewährung der Erstattung bei der Ausfuhr nach
+    dritten Ländern für Verarbeitungserzeugnisse aus Getreide und aus Reis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 164/64/CEE della Commissione, nel 29 ottobre 1964, che definisce
+    le modalità di concessione della restituzione all'esportazione verso i paesi
+    terzi per i prodotti trasformati a base di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 164/64/EEG van de Commissie van 29 oktober 1964 tot vaststelling
+    van de wijze van toekenning van de restitutie bij uitvoer naar derde landen voor
+    op basis van granen en rijst verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0164
+docidentifier:
+- content: EU Regulation 164/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0164
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/164/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EUDecision196990
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: '69/90/CEE: Décision de la Commission, du 13 mars 1969, relative à une
+    procédure au titre de l'' article 85 du traité C.E.E. (IV/93 - Exposition européenne
+    de la machine-outil)'
+  type: main
+- language: de
+  script: Latn
+  content: '69/90/EWG: Entscheidung der Kommission vom 13. März 1969 über ein Verfahren
+    nach Artikel 85 des EWG-Vertrags (IV/93 - Europäische Werkzeugmaschinen-Ausstellungen)'
+  type: main
+- language: da
+  script: Latn
+  content: '69/90/EWG: Entscheidung der Kommission vom 13. März 1969 über ein Verfahren
+    nach Artikel 85 des EWG-Vertrags (IV/93 - Europäische Werkzeugmaschinen-Ausstellungen)
+    /* Den danske udgave er ikke til rådighed */'
+  type: main
+- language: it
+  script: Latn
+  content: '69/90/CEE: Decisione della Commissione, del 13 marzo 1969, relativa ad
+    una procedura ai sensi dell'' articolo 85 del trattato CEE (IV/93 - Esposizione
+    europea della macchina utensile)'
+  type: main
+- language: nl
+  script: Latn
+  content: '69/90/EEG: Beschikking van de Commissie van 13 maart 1969 inzake een procedure
+    op grond van artikel 85 van het E.E.G.-Verdrag (IV/93 - Europese Tentoonstellingen
+    van Werktuigmachines)'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969D0090
+docidentifier:
+- content: EU Decision 1969/90
+  type: EU
+  primary: true
+- content: CELEX 31969D0090
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1969/90/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-13'
+- type: implemented
+  at: '1962-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

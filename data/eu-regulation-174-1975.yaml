@@ -1,0 +1,96 @@
+---
+id: EURegulation1741975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 174/75 of the Council of 21 January 1975 extending
+    the period of validity of the guide prices for calves and adult bovine animals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 174/75 du Conseil, du 21 janvier 1975, prorogeant
+    la durée de validité des prix d'orientation des veaux et des gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 174/75 des Rates vom 21. Januar 1975 zur Verlängerung
+    der Geltungsdauer der Orientierungspreise für Kälber und ausgewachsene Rinder
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 174/75 af 21. januar 1975 om forlængelse
+    af gyldighedsperioden for orienteringspriserne for kalve og voksent kvæg
+  type: main
+- language: el
+  script: Grek
+  content: Ψήφισμα τού Συμβουλίου τής 26ης Νοεμβρίου
+    1974 περί κωδικοποιήσεως τών νομικών πράξεών
+    του
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 174/75 del Consiglio, del 21 gennaio 1975, che proroga
+    la durata di validità dei prezzi d'orientamento per i vitelli ed i bovini adulti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 174/75 van de Raad van 21 januari 1975 tot verlenging
+    van de geldigheidsduur van de oriëntatieprijzen voor kalveren en volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0174
+docidentifier:
+- content: EU Regulation 174/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0174
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/174/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-21'
+- type: implemented
+  at: '1975-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0667
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

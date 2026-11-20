@@ -1,0 +1,93 @@
+---
+id: EURegulation12141975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1214/75 of the Commission of 13 May 1975 amending Regulation
+    (EEC) No 1769/68 on air transport costs to be included in the value for customs
+    purposes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1214/75 de la Commission, du 13 mai 1975, modifiant
+    le règlement (CEE) n° 1769/68 relatif aux frais de transport aérien à incorporer
+    dans la valeur en douane
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1214/75 der Kommission vom 13. Mai 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1769/68 über die in den Zollwert einzubeziehenden Luftfrachtkosten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1214/75 af 13. maj 1975 om ændring
+    af forordning (EØF) nr. 1769/68 om de luftfragtomkostninger, der skal medregnes
+    i toldværdien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1214/75 della Commissione, del 13 maggio 1975, che
+    modifica il regolamento (CEE) n. 1769/68 relativo alle spese di trasporto aereo
+    da comprendere nel valore in dogana
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1214/75 van de Commissie van 13 mei 1975 tot wijziging
+    van Verordening (EEG) nr. 1769/68 betreffende de in de douanewaarde te begrijpen
+    luchtvrachtkosten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1214
+docidentifier:
+- content: EU Regulation 1214/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1214
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1214/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-13'
+- type: implemented
+  at: '1975-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1769
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

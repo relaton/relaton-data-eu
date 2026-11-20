@@ -1,0 +1,98 @@
+---
+id: EURegulation8881975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 888/75 of the Commission of 4 April 1975 amending Regulation
+    (EEC) No 610/75 on protective measures for certain beef and veal products falling
+    within subheading 16.02 B III b) 1 of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 888/75 de la Commission, du 4 avril 1975, modifiant
+    le règlement (CEE) n° 610/75 concernant des mesures de sauvegarde pour certains
+    produits du secteur de la viande bovine relevant de la sous-position 16.02B III
+    b) 1 du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 888/75 der Kommission vom 4. April 1975 zur Änderung
+    der Verordnung (EWG) Nr. 610/75 über Schutzmaßnahmen für bestimmte Erzeugnisse
+    des Rindfleischsektors der Tarifstelle 16.02 B III b) 1 des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 888/75 af 4. april 1975 om ændring
+    af forordning (EØF) nr. 610/75 om beskyttelsesforanstaltninger for visse produkter
+    inden for oksekødsektoren henhørende under pos. 16.02 B III b) 1 i den fælles
+    toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 888/75 della Commissione, del 4 aprile 1975, che modifica
+    il regolamento (CEE) n. 610/75, relativo a misure di salvaguardia per taluni prodotti
+    del settore delle carni bovine appartenenti alla sottovoce 16.02 B III b) 1 della
+    tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 888/75 van de Commissie van 4 april 1975 tot wijziging
+    van Verordening (EEG) nr. 610/75 betreffende vrijwaringsmaatregelen voor bepaalde
+    rundvleesprodukten van onderverdeling 16.02 B III b) 1 van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0888
+docidentifier:
+- content: EU Regulation 888/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0888
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/888/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-04'
+- type: implemented
+  at: '1975-04-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0610
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

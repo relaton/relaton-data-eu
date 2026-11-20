@@ -1,0 +1,76 @@
+---
+id: EURegulation18711969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1871/69 de la Commission, du 22 septembre 1969, relatif
+    à une adjudication permanente pour des matières grasses provenant du lait, destinées
+    à la fabrication de mélanges de graisses et détenues par les organismes d'intervention
+    allemand, français et néerlandais
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1871/69 der Kommission vom 22. September 1969 über
+    eine Dauerausschreibung von Milchfetten aus Beständen der deutschen, der französischen
+    und der niederländischen Interventionsstelle zur Herstellung von Fettmischungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1871/69 della Commissione, del 22 settembre 1969,
+    relativo ad un'asta permanente per materia grassa proveniente dal latte, destinata
+    alla fabbricazione di miscele di grassi e appartenente agli organismi d'intervento
+    tedesco, francese e olandese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1871/69 van de Commissie van 22 september 1969 betreffende
+    de permanente verkoop bij inschrijving van melkvet uit voorraden van het Duitse,
+    het Franse en het Nederlandse interventiebureau voor de vervaardiging van vetmengsels
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1871
+docidentifier:
+- content: EU Regulation 1871/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1871
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1871/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-09-22'
+- type: implemented
+  at: '1969-09-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

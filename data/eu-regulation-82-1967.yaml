@@ -1,0 +1,76 @@
+---
+id: EURegulation821967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 82/67/CEE du Conseil, du 18 avril 1967, différant l'application
+    des dispositions du règlement n° 160/66/CEE du Conseil en ce qui concerne les
+    marchandises relevant des positions 35.01 à et 35.01 C du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 82/67/EWG des Rates vom 18. April 1967 über die Zurückstellung
+    der Anwendung der Verordnung Nr. 160/66/EWG des Rates auf Waren der Tarifnummern
+    35.01 A und 35.01 C des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 82/67/CEE del Consiglio, del 18 aprile 1967, relativo al
+    rinvio dell'applicazione delle disposizioni del regolamento n. 160/66/ CEE del
+    Consiglio per quanto riguarda le merci comprese nelle voci 35.01 A e 35.01 C della
+    tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 82/67/EEG van de Raad van 18 april 1967 waarbij de toepassing
+    van de bepalingen van Verordening Nr. 160/66/EEG van de Raad op de onder de posten
+    35.01 A en 35.01 C van het gemeenschappelijk douanetarief vallende goederen wordt
+    uitgesteld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0082
+docidentifier:
+- content: EU Regulation 82/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0082
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/82/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-04-18'
+- type: implemented
+  at: '1967-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

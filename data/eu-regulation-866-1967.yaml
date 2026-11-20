@@ -1,0 +1,70 @@
+---
+id: EURegulation8661967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 866/67/CEE du Conseil, du 14 novembre 1967, fixant le prix
+    indicatif du riz décortiqué pour la campagne 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 866/67/EWG des Rates vom 14. November 1967 zur Festsetzung
+    des Richtpreises für geschälten Reis für das Wirtschaftsjahr 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 866/67/CEE del Consiglio, del 14 novembre 1967, che fissa
+    il prezzo indicativo del riso semigreggio per campagna 1968-1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 866/67/EEG van de Raad van 14 november 1967 tot vaststelling
+    van de richtprijs voor gedopte rijst voor het verkoopseizoen 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0866
+docidentifier:
+- content: EU Regulation 866/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0866
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/866/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-14'
+- type: implemented
+  at: '1968-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

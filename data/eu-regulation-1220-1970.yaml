@@ -1,0 +1,76 @@
+---
+id: EURegulation12201970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1220/70 du Conseil, du 29 juin 1970, modifiant le
+    règlement n° 116/67/CEE relatif à l'aide pour les graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1220/70 des Rates vom 29. Juni 1970 zur Änderung
+    der Verordnung Nr. 116/67/EWG über die Beihilfe für Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1220/70 del Consiglio, del 29 giugno 1970, che modifica
+    il regolamento n. 116/67/CEE relativo all'integrazione concessa per i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1220/70 van de Raad van 29 juni 1970 houdende wijziging
+    van Verordening nr. 116/67/EEG betreffende de steun voor oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1220
+docidentifier:
+- content: EU Regulation 1220/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1220
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1220/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0116
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

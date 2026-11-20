@@ -1,0 +1,100 @@
+---
+id: EURegulation27431977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2743/77 of 9 December 1977 amending Regulation
+    (EEC) No 2311/77 on the sale, at a price fixed in advance, of preserved beef held
+    by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2743/77 de la Commission, du 9 décembre 1977, portant
+    première modification du règlement (CEE) n° 2311/77 relatif à la vente à
+    prix fixé forfaitairement à l' avance de conserves de viande bovine détenues
+    par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2743/77 der Kommission vom 9. Dezember 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2311/77 über den Verkauf von Rindfleischkonserven aus
+    Beständen der Interventionsstellen zu im voraus festgesetztem Pauschpreis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2743/77 af 9. december 1977 om ændring
+    af forordningen (EØF) nr. 2311/77 om salg til en på forhånd fikseret pris af
+    oksekødkonserves, som interventionsorganerne ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2743/77 della Commissione, del 9 dicembre 1977, recante
+    modifica del regolamento (CEE) n. 2311/77 relativo alla vendita, ad un prezzo
+    fissato in anticipo, di conserve di carni bovine detenute dagli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2743/77 van de Commissie van 9 december 1977 houdende
+    wijziging van Verordening (EEG) nr. 2311/77 inzake de verkoop van rundvleesconserven
+    uit interventievoorraden tegen een vooraf forfaitair vastgestelde prijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2743
+docidentifier:
+- content: EU Regulation 2743/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2743
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2743/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-09'
+- type: implemented
+  at: '1977-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1294
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2311
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,90 @@
+---
+id: EURegulation9321974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 932/74 of the Commission of 19 April 1974 amending
+    the provisions of Regulation (EEC) No 2637/70 concerning beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 932/74 de la Commission, du 19 avril 1974, modifiant
+    les dispositions du règlement (CEE) n° 2637/70 concernant le secteur de la viande
+    bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 932/74 der Kommission vom 19. April 1974 zur Änderung
+    der Bestimmungen der Verordnung (EWG) Nr. 2637/70 betreffend den Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 932/74 af 19. april 1974 om ændring
+    af bestemmelserne i forordning (EØF) nr. 2637/70 vedrørende oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 932/74 della Commissione, del 19 aprile 1974, che
+    modifica le disposizioni del regolamento (CEE) n. 2637/70 per quanto concerne
+    il settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 932/74 van de Commissie van 19 april 1974 tot wijziging
+    van Verordening (EEG) nr. 2637/70 met betrekking tot de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0932
+docidentifier:
+- content: EU Regulation 932/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0932
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/932/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-19'
+- type: implemented
+  at: '1974-04-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

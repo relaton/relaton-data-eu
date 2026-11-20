@@ -1,0 +1,132 @@
+---
+id: EURegulation2031980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 203/80 of 30 January 1980 amending for the
+    10th time Regulation (EEC) No 2044/75 as regards export licences and certificates
+    for butter, butteroil and skimmed-milk powder, and amending Regulation (EEC) No
+    210/69
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 203/80 de la Commission, du 30 janvier 1980, portant
+    dixième modification du règlement (CEE) n° 2044/75 en ce qui concerne le certificat
+    d'exportation pour le beurre, le "butter oil" et le lait écrémé en poudre et
+    modifiant le règlement (CEE) n° 210/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 203/80 der Kommission vom 30. Januar 1980 zur zehnten
+    Änderung der Verordnung (EWG) Nr. 2044/75 hinsichtlich der Ausfuhrlizenz für
+    Butter, Butteroil und Magermilchpulver und zur Änderung der Verordnung (EWG)
+    Nr. 210/69
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 203/80 af 30. januar 1980 om tiende
+    ændring af forordning (EØF) nr. 2044/75 for så vidt angår eksportlicenser
+    for smør, butteroil og skummetmælkspulver og om ændring af forordning (EØF)
+    nr. 210/69
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 203/80 της Επιτροπής
+    της 30ής Ιανουαρίου 1980 περί δεύτερης τροποποίησης
+    του κανονισμού (ΕΟΚ) αριθ. 2044/75 όσον αφορά το
+    πιστοποιητικό εξαγωγής για το βούτυρο, το βουτυρέλαιο
+    και το αποκορυφωμένο γάλα σε σκόνη, και περί
+    τροποποίησης του κανονισμού (ΕΟΚ) αριθ. 210/69
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (ETY) N:o 203/80, annettu 30 päivänä tammikuuta 1980,
+    voin, voiöljyn ja rasvattoman maitojauheen vientitodistuksista annetun asetuksen
+    (ETY) N:o 2044/75 muuttamisesta kymmenennen kerran, sekä asetuksen (ETY) N:o
+    210/69 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 203/80 della Commissione, del 30 gennaio 1980, recante
+    decima modifica del regolamento (CEE) n. 2044/75 per quanto riguarda il titolo
+    di esportazione per il burro, il butteroil e il latte scremato in polvere e che
+    modifica il regolamento (CEE) n. 210/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 203/80 van de Commissie van 30 januari 1980 houdende
+    tiende wijziging van Verordening (EEG) nr. 2044/75 ten aanzien van de uitvoercertificaten
+    voor boter, butteroil en magere-melkpoeder en houdende wijziging van Verordening
+    (EEG) nr. 210/69
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EEG) nr 203/80 av den 30 januari 1980 om ändring
+    för tionde gången av förordning (EEG) nr 2044/75 vad avser exportlicenser för
+    smör, smörolja och skummjölkspulver och om ändring av förordning (EEG) nr
+    210/69
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0203
+docidentifier:
+- content: EU Regulation 203/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0203
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/203/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-01-30'
+- type: implemented
+  at: '1980-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0210
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2044
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation22151972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2215/72 de la Commission, du 19 octobre 1972, fixant
+    les prélèvements applicables aux céréales, aux farines et aux gruaux de semoules
+    de froment ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2215/72 der Kommission vom 19. Oktober 1972 zur Festsetzung
+    der auf Getreide, Mehle, GrobgrieD und FeingrieD von Weizen oder Roggen anwendbaren
+    Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2215/72 della Commissione, del 19 ottobre 1972, che
+    fissa i prelievi applicabili ai cereali e alle farine, alle semole e ai semolini
+    di frumento o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2215/72 van de Commissie van 19 oktober 1972 houdende
+    vaststelling van de heffingen die van toepassing zijn op granen en meel, gries
+    en griesmeel van tarwe of van rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2215
+docidentifier:
+- content: EU Regulation 2215/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2215
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2215/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

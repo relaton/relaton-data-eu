@@ -1,0 +1,91 @@
+---
+id: EURegulation29331979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2933/79 of 20 December 1979 extending Council
+    Regulation (EEC) No 3310/75 on agriculture in the Grand Duchy of Luxembourg
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2933/79 du Conseil, du 20 décembre 1979, prorogeant
+    le règlement (CEE) n° 3310/75 relatif à l' agriculture du grand-duché de Luxembourg
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2933/79 des Rates vom 20. Dezember 1979 zur Verlängerung
+    der Verordnung (EWG) Nr. 3310/75 über die Landwirtschaft des Großherzogtums
+    Luxemburg
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2933/79 af 20. december 1979 om forlængelse
+    af gyldighedsperioden for forordning (EØF) nr. 3310/75 om landbrug i storhertugdømmet
+    Luxembourg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2933/79 del Consiglio, del 20 dicembre 1979, che proroga
+    il regolamento (CEE) n. 3310/75 relativo all' agricoltura del Granducato del Lussemburgo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2933/79 van de Raad van 20 december 1979 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 3310/75 betreffende de landbouw
+    van het Groothertogdom Luxemburg
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2933
+docidentifier:
+- content: EU Regulation 2933/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2933
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2933/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-12-20'
+- type: implemented
+  at: '1980-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3310
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

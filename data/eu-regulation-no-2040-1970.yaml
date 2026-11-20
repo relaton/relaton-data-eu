@@ -1,0 +1,84 @@
+---
+id: EURegulationNo20401970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2040/70 de la Commission, du 12 octobre 1970, abrogeant
+    le règlement (CEE) n° 1695/70 de la Commission portant dérogation au règlement
+    n° 473/67/CEE en ce qui concerne la durée de validité des certificats d'importation
+    pour certaines céréales fourragères
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2040/70 der Kommission vom 12. Oktober 1970 zur Aufhebung
+    der Verordnung (EWG) Nr. 1695/70 der Kommission über eine Abweichung von der
+    Verordnung Nr. 473/67/EWG hinsichtlich der Geltungsdauer der Einfuhrlizenzen für
+    einige Futtergetreidearten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2040/70 della Commissione, del 12 ottobre 1970, che
+    abroga il regolamento (CEE) n. 1695/70 della Commissione recante deroga al regolamento
+    n. 473/67/CEE per quanto riguarda la durata di validità dei titoli d'importazione
+    per alcuni cereali da foraggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2040/70 van de Commissie van 12 oktober 1970 tot
+    intrekking van Verordening (EEG) nr. 1695/70 van de Commissie houdende afwijking
+    van Verordening nr. 473/67/EEG voor wat betreft de geldigheidsduur van de invoercertificaten
+    voor bepaalde voedergranen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2040
+docidentifier:
+- content: EU Regulation No 2040/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2040
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2040/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-12'
+- type: implemented
+  at: '1970-10-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1695
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

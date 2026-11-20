@@ -1,0 +1,86 @@
+---
+id: EURegulation101966
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation No 10/66/Euratom of 24 November 1966 modifying Article
+    95 of the Staff Regulations of officials of the European Atomic Energy Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 10/66/Euratom du Conseil, du 24 novembre 1966, portant modification
+    de l'article 95 du statut des fonctionnaires de la Communauté européenne de
+    l'énergie atomique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 10/66 Euratom, 198/66 EWG der Räte vom 24. November 1966
+    zur Änderung des Artikels 95 des Statuts der Beamten der Europäischen Wirtschaftsgemeinschaft
+    und der Europäischen Atomgemeinschaft
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 10/66/Euratom, 198/66/CEE dei Consigli del 24 novembre 1966
+    relativo alla modifica dell'articolo 95 dello statuto dei funzionari della Comunità
+    Economica Europea e della Comunità Europea dell'Energia Atomica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 10/66/Euratom, 198/66/EEG van de Raden van 24 november
+    1966 tot wijziging van artikel 95 van het Statuut van de ambtenaren van de Europese
+    Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0010
+docidentifier:
+- content: EU Regulation 10/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0010
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/10/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-24'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0011(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

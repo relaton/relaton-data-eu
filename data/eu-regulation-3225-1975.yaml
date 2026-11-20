@@ -1,0 +1,77 @@
+---
+id: EURegulation32251975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3225/75 of the Commission of 10 December 1975 fixing
+    additional amounts for poultrymeat products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 3225/75 de la Commission, du 10 décembre 1975, fixant
+    des montants supplémentaires pour les produits du secteur de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3225/75 der Kommission vom 10. Dezember 1975 zur Festsetzung
+    von Zusatzbeträgen für Erzeugnisse des Sektors Geflügelfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3225/75 af 10. december 1975 om fastsættelse
+    af tillægsafgifter for produkter af fjerkrækød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3225/75 della Commissione, del 10 dicembre 1975, che
+    fissa l'importo supplementare per i prodotti del settore del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3225/75 van de Commissie van 10 december 1975 houdende
+    vaststelling van extra bedragen voor produkten in de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3225
+docidentifier:
+- content: EU Regulation 3225/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3225
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3225/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-12-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

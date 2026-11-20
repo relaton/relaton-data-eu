@@ -1,0 +1,67 @@
+---
+id: EURegulation1301964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 130/64/CEE de la Commission, du 29 septembre 1964, modifiant
+    les règlements nos 77 et 96/64/CEE, en ce qui concerne les parties de volailles
+    de basse-cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 130/64/EWG der Kommission vom 29. September 1964 zur Änderung
+    der Verordnungen Nr. 77 und 96/64/EWG, Teile von Hausgeflügel betreffend
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 130/64/CEE della Commissione, del 29 settembre 1964, che
+    modifica i regolamenti nn. 77 e 96/64/CEE per quanto riguarda le parti di volatili
+    da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 130/64/EEG van de Commissie van 29 september 1964 houdende
+    wijziging van Verordeningen nos. 77 en 96/64/EEG, betreffende delen van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0130
+docidentifier:
+- content: EU Regulation 130/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0130
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/130/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation25771978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2577/78 of 30 October 1978 amending Regulation
+    (EEC) No 1846/78 allocating catch quotas among the Member States for vessels fishing
+    in Faroese waters
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2577/78 du Conseil, du 30 octobre 1978, modifiant
+    le règlement (CEE) n° 1846/78 répartissant les quotas de capture entre les
+    États membres pour les navires pêchant dans les eaux des îles Féroé
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2577/78 des Rates vom 30. Oktober 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1846/78 zur Aufteilung bestimmter Fangquoten fúr die
+    in den Gewássern der Fáróer fischenden Fischereifahrzeuge auf die Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2577/78 af 30. oktober 1978 om ændring af
+    forordning (EØF) nr. 1846/78 om fordeling af fangstkvoter mellem medlemsstaterne
+    for fartøjer, der udøver fiskeri i færøske farvande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2577/78 del Consiglio, del 30 ottobre 1978, che modifica
+    il regolamento (CEE) n. 1846/78 che assegna agli Stati membri alcuni contingenti
+    di catture per le navi che pescano nelle acque delle Færøer
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2577/78 van de Raad van 30 oktober 1978 tot wijziging
+    van Verordening (EEG) nr. 1846/78 houdende verdeling van vangstquota over de Lid-Staten
+    voor vaartuigen die in de wateren vissen van de Faeröer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2577
+docidentifier:
+- content: EU Regulation 2577/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2577
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2577/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-30'
+- type: implemented
+  at: '1978-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1846
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

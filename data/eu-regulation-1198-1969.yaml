@@ -1,0 +1,81 @@
+---
+id: EURegulation11981969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1198/69 du Conseil, du 26 juin 1969, portant ouverture,
+    répartition et mode de gestion d'un contingent tarifaire communautaire pour certains
+    avions à deux groupes turbo-propulseurs, d'un poids à vide supérieur à 3.000
+    kilogrammes, mais inférieur ou égal à 3.500 kilogrammes, de la position EX
+    88.02 B II b) du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1198/69 des Rates vom 26. Juni 1969 über die Eröffnung,
+    Aufteilung und Verwaltung eines Gemeinschaftszollkontingents für bestimmte Flugzeuge
+    mit zwei Triebwerken, mit einem Leergewicht von mehr als 3 000 kg, aber nicht
+    mehr als 3 500 kg, der Tarifnummer ex 88.02 B II b) des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1198/69 del Consiglio, del 26 giugno 1969, relativo
+    all'apertura, alla suddivisione ed alle modalità di gestione di un contingente
+    tariffario comunitario per taluni aeroplani a due gruppi turbopropulsori di peso
+    a vuoto superiore a 3.000 chilogrammi ma inferiore o pari a 3.500 chilogrammi,
+    della voce ex 88.02 B II b) della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1198/69 van de Raad van 26 juni 1969 betreffende
+    de opening, de verdeling en de wijze van beheer van een communautair tariefcontingent
+    voor bepaalde vliegtuigen met twee turbinestraalmotoren, met een leeggewicht van
+    meer dan 3.000 kilogram maar minder dan of gelijk aan 3.500 kilogram, van post
+    ex 88.02 B II b) van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1198
+docidentifier:
+- content: EU Regulation 1198/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1198
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1198/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-26'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

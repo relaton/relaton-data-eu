@@ -1,0 +1,102 @@
+---
+id: EURegulation2981978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 298/78 of 13 February 1978 amending Regulation
+    (EEC) No 3331/74 on the allocation and alteration of the basic quotas for sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 298/78 du Conseil, du 13 février 1978, modifiant
+    le règlement (CEE) n° 3331/74 relatif à l' attribution et à la modification
+    des quotas de base dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 298/78 des Rates vom 13. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 3331/74 über die Zuteilung und die Änderung der Grundquoten
+    für Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 298/78 af 13. februar 1978 om ændring af
+    forordning (EØF) nr. 3331/74 om tildeling og ændring af basiskvoterne for sukker
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 298/78 του Συμβουλίου
+    της 13ης Φεβρουαρίου 1978 περί τροποποιήσεως
+    του κανονισμού (ΕΟΚ) αριθ. 3331/74 «περί κατανομής
+    και τροποποιήσεως των βασικών ποσοστώσεων
+    στον τομέα της ζάχαρης»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 298/78 del Consiglio, del 13 febbraio 1978, che modifica
+    il regolamento (CEE) n. 3331/74 relativo all' assegnazione e alla modifica delle
+    quote di base nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 298/78 van de Raad van 13 februari 1978 tot wijziging
+    van Verordening (EEG) nr. 3331/74 betreffende de toekenning en de wijziging van
+    de basisquota in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0298
+docidentifier:
+- content: EU Regulation 298/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0298
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/298/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-13'
+- type: implemented
+  at: '1977-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3331
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

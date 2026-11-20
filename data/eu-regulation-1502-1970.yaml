@@ -1,0 +1,79 @@
+---
+id: EURegulation15021970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1502/70 de la Commission, du 27 juillet 1970, déterminant
+    les conditions d'admission dans la sous-position 01.02 à II b) 1 du tarif douanier
+    commun des vaches destinées à l'abattage immédiat et dont la viande est destinée
+    à la transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1502/70 der Kommission vom 27. Juli 1970 zur Festlegung
+    der Voraussetzungen für die Zulassung zu der Tarifstelle 01.02 A II b) 1 des
+    Gemeinsamen Zolltarifs von Kühen zum unverzüglichen Schlachten und zur Abgabe
+    des beim Schlachten anfallenden Fleisches an Verarbeitungsbetriebe
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1502/70 della Commissione, del 27 luglio 1970, che
+    stabilisce le condizioni di ammissione nella sottovoce 01.02 A II b) 1 della tariffa
+    doganale comune delle vacche destinate alla macellazione immediata, la cui carne
+    è destinata alla trasformazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1502/70 van de Commissie van 27 juli 1970 houdende
+    vaststelling van de voorwaarden en bepalingen voor de indeling onder post 01.02,
+    onderverdeling A II b) 1, van het gemeenschappelijk douanetarief van slachtkoeien,
+    bestemd om onmiddellijk te worden geslacht, en waarvan het vlees bestemd is voor
+    industriële verwerking
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1502
+docidentifier:
+- content: EU Regulation 1502/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1502
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1502/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-27'
+- type: implemented
+  at: '1970-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

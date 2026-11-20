@@ -1,0 +1,97 @@
+---
+id: EURegulation16811979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1681/79 of 1 August 1979 amending Regulation
+    (EEC) No 459/68 on protection against dumping or the granting of bounties or subsidies
+    by countries which are not members of the European Economic Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1681/79 du Conseil, du 1er août 1979, modifiant le
+    règlement (CEE) n° 459/68 relatif à la défense contre les pratiques de "dumping",
+    primes ou subventions de la part de pays non membres de la Communauté économique
+    européenne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1681/79 des Rates vom 1. August 1979 zur Änderung
+    der Verordnung (EWG) Nr. 459/68 über den Schutz gegen Praktiken von Dumping,
+    Prämien oder Subventionen aus nicht zur Europäischen Wirtschaftsgemeinschaft
+    gehörenden Ländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1681/79 af 1. august 1979 om ændring af
+    forordning (EØF) nr. 459/68 om beskyttelse mod dumping, præmier eller subventioner
+    fra lande, der ikke tilhører Det europæiske økonomiske Fællesskab
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1681/79 del Consiglio, del 1° agosto 1979, che modifica
+    il regolamento (CEE) n. 459/68 relativo alla difesa contro le pratiche di dumping,
+    premi o sovvenzioni da parte dei paesi non membri della Comunità economica europea
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1681/79 van de Raad van 1 augustus 1979 tot wijziging
+    van Verordening (EEG) nr. 459/68 betreffende beschermende maatregelen tegen de
+    toepassing van dumping en de toekenning van premies of subsidies door landen die
+    geen lid zijn van de Europese Economische Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1681
+docidentifier:
+- content: EU Regulation 1681/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1681
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1681/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-08-01'
+- type: implemented
+  at: '1979-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0459
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,130 @@
+---
+id: EURegulation10761978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1076/78 of 23 May 1978 on the communication
+    of information on raw tobacco
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1076/78 de la Commission, du 23 mai 1978, relatif
+    aux communications des données dans le secteur du tabac brut
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1076/78 der Kommission vom 23. Mai 1978 über die
+    Mitteilungen von Angaben im Rohtabaksektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1076/78 af 23. maj 1978 om meddelelse
+    af oplysning vedrørende råtobak
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1076/78 της Επιτροπής
+    της 23ης Μαΐου 1978 περί ανακοινώσεως στοιχείων
+    επί του ακατέργαστου καπνού
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (ETY) N:o 1076/78 annettu 23 päivänä toukokuuta 1978
+    tietojen toimittamisesta raakatupakka-alalla
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1076/78 della Commissione, del 23 maggio 1978, relativo
+    alle comunicazioni dei dati nel settore del tabacco greggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1076/78 van de Commissie van 23 mei 1978 inzake de
+    mededeling van gegevens in de sector ruwe tabak
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 1076/78 da Comissão, de 23 de Maio de 1978, relativo
+    às comunicações de dados no sector do tabaco em rama
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) nº 1076/78 de la Comisión, de 23 de mayo de 1978, relativo
+    a las comunicaciones de datos en el sector del tabaco crudo
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EEG) nr 1076/78 av den 23 maj 1978 om lämnande
+    av uppgifter om råtobak
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1076
+docidentifier:
+- content: EU Regulation 1076/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1076
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1076/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-23'
+- type: implemented
+  at: '1978-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2602
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1726
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1727
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

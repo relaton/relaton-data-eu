@@ -1,0 +1,80 @@
+---
+id: EURegulationNo20981968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2098/68 du Conseil, du 20 décembre 1968, modifiant
+    le règlement (CEE) n° 1043/68 en ce qui concerne les montants compensatoires
+    appliqués par les Pays-Bas dans les échanges de certains produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2098/68 des Rates vom 20. Dezember 1968 zur Änderung
+    der Verordnung (EWG) Nr. 1043/68 hinsichtlich der von den Niederlanden im Handel
+    mit bestimmten Milcherzeugnissen angewandten Ausgleichsbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2098/68 del Consiglio, del 20 dicembre 1968, che modifica
+    il regolamento (CEE) n. 1043/68 per quanto riguarda gli importi di compensazione
+    applicati dai Paesi Bassi negli scambi di alcuni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2098/68 van de Raad van 20 december 1968 houdende
+    wijziging van Verordening (EEG) nr. 1043/68 voor wat betreft de compenserende
+    bedragen die Nederland toepast in het handelsverkeer in bepaalde zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R2098
+docidentifier:
+- content: EU Regulation No 2098/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R2098
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/2098/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-20'
+- type: implemented
+  at: '1969-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1043
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

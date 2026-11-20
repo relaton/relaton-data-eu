@@ -1,0 +1,93 @@
+---
+id: EURegulation261964
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 26/64/EEC of the Commission of 28 February 1964 laying down
+    additional provisions for the preparation of the viticultural land register, for
+    its management and for keeping it up to date
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 26/64/CEE de la Commission, du 28 février 1964, portant
+    dispositions complémentaires sur l' établissement du cadastre viticole, son
+    exploitation et sa tenue à jour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 26/64/EWG der Kommission vom 28. Februar 1964 mit zusätzlichen
+    Vorschriften für die Einrichtung des Weinbaukatasters, seine Auswertung und laufende
+    Vervollständigung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning nr. 26/64/EØF af 28. februar 1964 om supplerende
+    bestemmelser angående vinavlsmatriklens oprettelse, benyttelse og ajourføring
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 26/64/CEE della Commissione del 28 febbraio 1964, relativo
+    a disposizioni complementari per l' istituzione del catasto viticolo, per la sua
+    utilizzazione ed il suo aggiornamento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening N° 26/64/EEG van de Commissie van 28 februari 1964 houdende
+    aanvullende bepalingen met betrekking tot de instelling, de exploitatie en de
+    bijwerking van het wijnbouwkadaster
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0026
+docidentifier:
+- content: EU Regulation 26/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0026
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/26/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-02-28'
+- type: implemented
+  at: '1964-04-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0143
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

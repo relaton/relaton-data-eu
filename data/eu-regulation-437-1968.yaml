@@ -1,0 +1,80 @@
+---
+id: EURegulation4371968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 437/68 du Conseil, du 9 avril 1968, modifiant le règlement
+    n° 111/64/CEE en ce qui concerne le prélèvement applicable aux importations
+    de certains produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 437/68 des Rates vom 9. April 1968 zur Änderung der
+    Verordnung Nr. 111/64/EWG in bezug auf die bei der Einfuhr bestimmter Milcherzeugnisse
+    zu erhebenden Abschöpfungsbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 437/68 del Consiglio, del 9 aprile 1968, che modifica
+    il regolamento n. 111/64/CEE per quanto riguarda i prelievi applicabili alle importazioni
+    di taluni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 437/68 van de Raad van 9 april 1968 tot wijziging
+    van Verordening nr. 111/64/EEG ter zake van de heffing die van toepassing is bij
+    de invoer van bepaalde zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0437
+docidentifier:
+- content: EU Regulation 437/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0437
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/437/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-09'
+- type: implemented
+  at: '1968-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0111
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

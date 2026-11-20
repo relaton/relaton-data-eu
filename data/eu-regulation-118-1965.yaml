@@ -1,0 +1,69 @@
+---
+id: EURegulation1181965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n118/65/CEE de la Commission, du 30 juillet 1965, prorogeant
+    la validité et modifiant le texte du règlement n 69/65/CEE concernant la vente
+    accélérée de stocks publics excédentaires de beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 118/65/EWG der Kommission vom 30. Juli 1965 zur Verlängerung
+    der Geltungsdauer und Änderung der Verordnung Nr. 69/65/ EWG über den beschleunigten
+    Absatz überschüssiger Butterbestände in staatlicher Lagerhaltung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 118/65/CEE della Commissione, del 30 luglio 1965, che proroga
+    la validità e modifica il regolamento n. 69/65/CEE relativo alla vendita accelerata
+    delle eccedenze di burro giacenti nei pubblici ammassi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 118/65/EEG van de Commissie van 30 juli 1965 houdende verlenging
+    en tekstwijziging van Verordening no. 69/65/EEG betreffende de versnelde afzet
+    van openbaar opgeslagen boteroverschotten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0118
+docidentifier:
+- content: EU Regulation 118/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0118
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/118/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

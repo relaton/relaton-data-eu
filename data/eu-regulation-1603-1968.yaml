@@ -1,0 +1,98 @@
+---
+id: EURegulation16031968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1603/68 of the Council of 15 October 1968 amending
+    Regulation No 359/67/EEC on the common organisation of the market in rice, with
+    regard to the method of fixing the corrective amount applicable to the refund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1603/68 du Conseil, du 15 octobre 1968, modifiant
+    le règlement n° 359/67/CEE portant organisation commune du marché du riz, en
+    ce qui concerne le mode de fixation du correctif s' appliquant à la restitution
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1603/68 des Rates vom 15. Oktober 1968 zur Änderung
+    der Verordnung Nr. 359/67/EWG über die gemeinsame Marktorganisation für Reis
+    in bezug auf das Verfahren für die Festsetzung des Berichtigungsbetrags für
+    die Erstattung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1603/68 af 15. oktober 1968 om ændring af
+    forordning nr. 359/67/EØF om den fælles markedsordning for ris for så vidt
+    angår fremgangsmåden ved fastsættelsen af det korrektionsbeløb, der kan anvendes
+    på restitutionen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1603/68 del Consiglio, del 15 ottobre 1968, che modifica
+    il regolamento n. 359/67/CEE, relativo all' organizzazione comune del mercato
+    del riso, per quanto concerne il modo di fissazione del correttivo che é applicato
+    alla restituzione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1603/68 van de Raad van 15 oktober 1968 tot wijziging
+    van Verordening nr. 359/67/EEG houdende een gemeenschappelijke ordening van de
+    rijstmarkt, met betrekking tot de wijze van vaststelling van de op de restitutie
+    toegepaste correctiefactor
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1603
+docidentifier:
+- content: EU Regulation 1603/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1603
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1603/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-15'
+- type: implemented
+  at: '1968-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0359
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

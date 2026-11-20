@@ -1,0 +1,96 @@
+---
+id: EURegulation17251972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (Euratom, ECSC, EEC) No 1725/72 of the Council of 1 August 1972
+    adjusting the weighting applicable to the remuneration of officials and other
+    servants of the European Communities employed in Switzerland
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom, CECA, CEE) n° 1725/72 du Conseil, du 1er août 1972,
+    portant adaptation du coefficient correcteur applicable aux rémunérations des
+    fonctionnaires et autres agents des Communautés européennes affectés en Suisse
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom, EGKS, EWG) Nr. 1725/72 des Rates vom 1. August 1972
+    zur Angleichung des Berichtigungskoeffizienten der auf die Dienstbezüge der in
+    der Schweiz beschäftigten Beamten und sonstigen Bediensteten der Europäischen
+    Gemeinschaften anwendbar ist
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (Euratom, EKSF, EØF) nr. 1725/72 af 1. august 1972
+    om tilpasning af justeringskoefficienten for vederlag til tjenestemænd og øvrige
+    ansatte i De europæiske Fællesskaber, der gør tjeneste i Schweiz
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom, CECA, CEE) n. 1725/72 del Consiglio, del 1° agosto
+    1972, relativo all' adeguamento del coefficiente correttore applicabile alle retribuzioni
+    dei funzionari e degli altri agenti delle Comunità europee in servizio in Svizzera
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom, EGKS, EEG) nr. 1725/72 van de Raad van 1 augustus
+    1972 houdende wijziging van de aanpassingscoëfficiënt voor de bezoldigingen
+    van de ambtenaren en de andere personeelsleden van de Europese Gemeenschappen
+    tewerkgesteld in Zwitserland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1725
+docidentifier:
+- content: EU Regulation 1725/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1725
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1725/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-08-01'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0600
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

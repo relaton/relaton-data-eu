@@ -1,0 +1,94 @@
+---
+id: EURegulation28541977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2854/77 of 20 December 1977 on the country
+    nomenclature for the external trade statistics of the Community and statistics
+    of trade between Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2854/77 de la Commission, du 20 décembre 1977, relatif
+    à la nomenclature des pays pour les statistiques du commerce extérieur de la
+    Communauté et du commerce entre ses États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2854/77 der Kommission vom 20. Dezember 1977 über
+    das Länderverzeichnis für die Statistik des Außenhandels der Gemeinschaft und
+    des Handels zwischen ihren Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2854/77 af 20. december 1977 om den
+    statistiske landefortegnelse for Fællesskabets udenrigshandel og for samhandelen
+    mellem dets medlemsstater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2854/77 della Commissione, del 20 dicembre 1977, relativo
+    alla nomenclatura dei paesi per le statistiche del commercio estero della Comunità
+    e del commercio tra gli Stati membri della stessa
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2854/77 van de Commissie van 20 december 1977 betreffende
+    de landennomenclatuur voor de statistieken van de buitenlandse handel van de Gemeenschap
+    en de handel tussen de Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2854
+docidentifier:
+- content: EU Regulation 2854/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2854
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2854/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-20'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1736
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

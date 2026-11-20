@@ -1,0 +1,104 @@
+---
+id: EURegulation10101983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1010/83 of 27 April 1983 laying down for 1983
+    certain measures for the conservation and management of fishery resources applicable
+    to vessels flying the flag of Sweden
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1010/83 du Conseil du 27 avril 1983 fixant, pour l'
+    année 1983, certaines mesures de conservation et de gestion des ressources de
+    pêche applicables aux navires battant pavillon de la Suède
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1010/83 des Rates vom 27. April 1983 zur Festlegung
+    von Maßnahmen zur Erhaltung und Bewirtschaftung der Fischbestände gegenüber
+    Schiffen unter schwedischer Flagge für 1983
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1010/83 af 27. april 1983 om fastsættelse
+    for 1983 af visse foranstaltninger til bevarelse og forvaltning af fiskeressourcerne,
+    som skal finde anvendelse på fartøjer, der fører svensk flag
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1010/83 του Συμβουλίου
+    της 27ης Απριλίου 1983 περί καθορισμού, για το
+    έτος 1983, ορισμένων μέτρων διατηρήσεως και διαχειρίσεως
+    των αλιευτικών πόρων που εφαρμόζονται σε σκάφη
+    υπό σουηδική σημαία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1010/83 del Consiglio del 27 aprile 1983 che stabilisce,
+    per il 1983, talune misure di conservazione e di gestione delle risorse ittiche
+    da applicare alle navi battenti bandiera della Svezia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1010/83 van de Raad van 27 april 1983 tot vaststelling
+    voor 1983 van bepaalde maatregelen voor de instandhouding en het beheer van de
+    visbestanden, van toepassing op vaartuigen die de vlag van Zweden voeren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1010
+docidentifier:
+- content: EU Regulation 1010/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1010
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1010/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-04-27'
+- type: implemented
+  at: '1983-01-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R0179
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

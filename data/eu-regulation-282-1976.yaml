@@ -1,0 +1,94 @@
+---
+id: EURegulation2821976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 282/76 of 10 February 1976 repealing Regulation
+    (EEC) No 249/74 discontinuing the periodic fixing of export refunds on white sugar
+    and raw sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 282/76 de la Commission, du 10 février 1976, abrogeant
+    le règlement (CEE) n° 249/74 portant suspension de la fixation périodique des
+    restitutions à l' exportation du sucre blanc et du sucre brut
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 282/76 der Kommission vom 10. Februar 1976 zur Aufhebung
+    der Verordnung (EWG) Nr. 249/74 zur Aussetzung der periodischen Festsetzung der
+    Ausfuhrerstattungen für Weißzucker und Rohzucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 282/76 af 10. februar 1976 om ophævelse
+    af forordning (EØF) nr. 249/74 om suspension af den periodiske fastsættelse
+    af eksportrestitutioner for hvidt sukker og råsukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 282/76 della Commissione, del 10 febbraio 1976, che
+    abroga il regolamento (CEE) n. 249/74 che sospende la fissazione periodica delle
+    restituzioni all' esportazione dello zucchero bianco e dello zucchero greggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 282/76 van de Commissie van 10 februari 1976 tot
+    intrekking van Verordening (EEG) nr. 249/74 houdende schorsing van de periodieke
+    vaststelling van de restituties bij uitvoer voor witte suiker en ruwe suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0282
+docidentifier:
+- content: EU Regulation 282/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0282
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/282/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-10'
+- type: implemented
+  at: '1976-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0249
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

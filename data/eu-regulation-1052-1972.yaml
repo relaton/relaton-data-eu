@@ -1,0 +1,78 @@
+---
+id: EURegulation10521972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1052/72 de la Commission, du 23 mai 1972, relatif
+    aux conditions d'octroi des indemnités compensatrices pour le froment tendre,
+    le seigle de qualité panifiable et le maïs en stock à la fin de la campagne
+    1971/1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1052/72 der Kommission vom 23. Mai 1972 über die
+    Bedingungen zur Gewährung einer Übergangsvergütung für die am Ende des Wirtschaftsjahres
+    1971/1972 vorhandenen Bestände an Weichweizen, zur Brotherstellung geeignetem
+    Roggen und Mais
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1052/72 della Commissione, del 23 maggio 1972, relativo
+    alle modalità di concessione delle indennità di compensazione per il frumento
+    tenero, la segala da panificazione e il granturco che si trovano in giacenza alla
+    fine della campagna 1971/1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1052/72 van de Commissie van 23 mei 1972 betreffende
+    de voorwaarden voor het toekennen van compenserende vergoedingen voor zachte tarwe,
+    broodrogge en maïs, die zich aan het einde van het verkoopseizoen 1971/1972 in
+    opslag bevinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1052
+docidentifier:
+- content: EU Regulation 1052/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1052
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1052/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-05-23'
+- type: implemented
+  at: '1972-05-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

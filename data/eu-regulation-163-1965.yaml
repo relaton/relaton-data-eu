@@ -1,0 +1,84 @@
+---
+id: EURegulation1631965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 163/65/CEE de la Commission, du 19 novembre 1965, portant
+    modification du règlement n° 99/65/CEE fixant les modalités d'application de
+    l'article 11 paragraphe 2 du règlement n° 23 relatif à l'organisation commune
+    des marchés des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 163/65/EWG der Kommission vom 19. November 1965 zur Änderung
+    der Verordnung Nr. 99/65/EWG betreffend die Festlegung von Durchführungsbestimmungen
+    für Artikel 11 Absatz (2) der Verordnung Nr. 23 über eine gemeinsame Marktorganisation
+    für Obst und Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 163/65/CEE della Commissione, del 19 novembre 1965, recante
+    modifica al regolamento n. 99/65/CEE che fissa le modalità di applicazione dell'articolo
+    11, paragrafo 2, del regolamento n. 23 relativo all'organizzazione comune dei
+    mercati degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 163/65/EEG van de Commissie van 19 november 1965 houdende
+    wijziging van Verordening Nr. 99/65/EEG inzake de wijze van toepassing van artikel
+    11, lid 2, van Verordening Nr. 23 met betrekking tot de gemeenschappelijke ordening
+    der markten voor groenten en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0163
+docidentifier:
+- content: EU Regulation 163/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0163
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/163/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-11-19'
+- type: implemented
+  at: '1965-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0099
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

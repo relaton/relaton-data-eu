@@ -1,0 +1,65 @@
+---
+id: EURegulation4061968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 406/68 de la Commission, du 4 avril 1968, portant fixation
+    des primes s'ajoutant aux prélèvements pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 406/68 der Kommission vom 4. April 1968 zur Festsetzung
+    der Prämien als Zuschlag zu den Abschöpfungen für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 406/68 della Commissione, del 4 aprile 1968, che fissa
+    i supplementi da aggiungere ai prelievi per il riso e le rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 406/68 van de Commissie van 4 april 1968 tot vaststelling
+    van de premies waarmede de heffingen voor rijst en breukrijst worden verhoogd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0406
+docidentifier:
+- content: EU Regulation 406/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0406
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/406/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,114 @@
+---
+id: EURegulation13921974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1392/74 of the Council of 4 June 1974 amending Regulation
+    (EEC) Nos 1408/71 and 574/72 on the application of social security schemes to
+    employed persons and their families moving within the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1392/74 du Conseil, du 4 juin 1974, modifiant les
+    règlements (CEE) n° 1408/71 et n° 574/72 concernant l' application des régimes
+    de sécurité sociale aux travailleurs salariés et à leur famille qui se déplacent
+    à l' intérieur de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1392/74 des Rates vom 4. Juni 1974 zur Änderung der
+    Verordnungen (EWG) Nr. 1408/71 und Nr. 574/72 über die Anwendung der Systeme
+    der sozialen Sicherheit auf Arbeitnehmer und deren Familien, die innerhalb der
+    Gemeinschaft zu- und abwandern.
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1392/74 af 4. juni 1974 om ændring af forordningerne
+    (EØF) nr. 1408/71 og nr. 574/72 om anvendelse af de sociale sikringsordninger
+    på arbejdstagere og deres familiemedlemmer, der flytter inden for Fællesskabet
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1392/74 τού Συμβουλίου
+    τής 4ης Ιουνίου 1974 περί τροποποιήσεως τών κανονισμών
+    (ΕΟΚ) αριθ. 1408/71 καί (ΕΟΚ) αριθ. 574/72 «περί εφαρμογής
+    τών συστημάτων κοινωνικής ασφαλίσεως στούς
+    μισθωτούς καί τίς οικογένειές τους πού διακινούνται
+    εντός τής Κοινότητος»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1392/74 del Consiglio, del 4 giugno 1974, che modifica
+    i regolamenti (CEE) n. 1408/71 e n. 574/72 relativi all' applicazione dei regimi
+    di sicurezza sociale ai lavoratori subordinati ed ai loro familiari che si spostano
+    all' interno della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1392/74 van de Raad van 4 juni 1974 tot wijziging
+    van de Verordeningen (EEG) nr. 1408/71 en nr. 574/72 inzake de toepassing van
+    de sociale zekerheidsregelingen op loontrekkenden en hun gezinnen die zich binnen
+    de Gemeenschap verplaatsen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1392
+docidentifier:
+- content: EU Regulation 1392/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1392
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1392/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-04'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1408
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0574
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

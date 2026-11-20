@@ -1,0 +1,91 @@
+---
+id: EURegulation11251974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1125/74 of the Council of 29 April 1974 amending Regulation
+    No 120/67/EEC on the common organization of the market in cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1125/74 du Conseil, du 29 avril 1974, modifiant le
+    règlement n° 120/67/CEE portant organisation commune des marchés dans le secteur
+    des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1125/74 des Rates vom 29. April 1974 zur Änderung
+    der Verordnung Nr. 120/67/EWG über die gemeinsame Marktorganisation für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1125/74 af 29. april 1974 om ændring af
+    forordning nr. 120/67/EØF om den fælles markedsordning for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1125/74 del Consiglio, del 29 aprile 1974, che modifica
+    il regolamento n. 120/67/CEE relativo all'organizzazione comune dei mercati nel
+    settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1125/74 van de Raad van 29 april 1974 tot wijziging
+    van Verordening nr. 120/67/EEG houdende een gemeenschappelijke ordening der markten
+    in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1125
+docidentifier:
+- content: EU Regulation 1125/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1125
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1125/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-29'
+- type: implemented
+  at: '1974-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

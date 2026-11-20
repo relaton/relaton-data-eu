@@ -1,0 +1,114 @@
+---
+id: EURegulation5781976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 578/76 of 15 March 1976 amending various
+    Commission Regulations concerning milk and milk products as a result of the increase
+    in the intervention prices
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 578/76 de la Commission, du 15 mars 1976, modifiant
+    plusieurs règlements de la Commission dans le secteur du lait et des produits
+    laitiers, suite à l' augmentation des prix d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 578/76 der Kommission vom 15. März 1976 zur Änderung
+    verschiedener Verordnungen der Kommission auf dem Sektor Milch und Milcherzeugnisse
+    infolge der Erhöhung der Interventionspreise
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 578/76 af 15. marts 1976 om ændring
+    af forskellige af Kommissionens forordninger vedrørende mælk og mejeriprodukter,
+    som følge af forhøjelsen af interventionspriserne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 578/76 della Commissione, del 15 marzo 1976, che modifica
+    vari regolamenti della Commissione nel settore del latte e dei prodotti lattiero-easeari,
+    in seguito all' aumento del prezzo d' intervento del burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 578/76 van de Commissie van 15 maart 1976 tot wijziging
+    van verschillende verordeningen van de Commissie in de sector melk en zuivelprodukten
+    als gevolg van de verhoging van de interventieprijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0578
+docidentifier:
+- content: EU Regulation 578/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0578
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/578/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-15'
+- type: implemented
+  at: '1976-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1365
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0232
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0602
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0750
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2247
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

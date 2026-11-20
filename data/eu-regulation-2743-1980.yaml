@@ -1,0 +1,97 @@
+---
+id: EURegulation27431980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2743/80 of 27 October 1980 amending Regulation
+    (EEC) No 1172/76 setting up a financial mechanism
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2743/80 du Conseil, du 27 octobre 1980, modifiant
+    le règlement (CEE) n° 1172/76 portant création d' un mécanisme financier
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2743/80 des Rates vom 27. Oktober 1980 zur Änderung
+    der Verordnung (EWG) Nr. 1172/76 zur Schaffung eines Finanzmechanismus
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2743/80 af 27. oktober 1980 om ændring af
+    forordning (EØF) nr. 1172/76 om indførelse af en finansiel mekanisme
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 2743/80 τού Συμβουλίου
+    τής 27ης Οκτωβρίου 1980 περί τροποποιήσεως τού
+    κανονισμού (EOK) αριθ. 1172/76 «περί δημιουργίας
+    δημοσιονομικού μηχανισμού»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2743/80 del Consiglio, del 27 ottobre 1980, che modifica
+    il regolamento (CEE) n. 1172/76 recante creazione di un meccanismo finanziario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2743/80 van de Raad van 27 oktober 1980 tot wijziging
+    van Verordening (EEG) nr. 1172/76 houdende instelling van een financieel mechanisme
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2743
+docidentifier:
+- content: EU Regulation 2743/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2743
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2743/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-10-27'
+- type: implemented
+  at: '1980-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1172
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

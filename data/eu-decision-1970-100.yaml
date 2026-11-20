@@ -1,0 +1,77 @@
+---
+id: EUDecision1970100
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 19 janvier 1970, autorisant la République
+    française à exclure du traitement communautaire la viande de l'espèce chevaline,
+    position Ex 02.01 A I du Tarif douanier commun, originaire des pays tiers et mise
+    en libre pratique dans les autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '70/100/EWG: Entscheidung der Kommission vom 19. Januar 1970 zur Ermächtigung
+    der Französischen Republik, Pferdefleisch (Tarifnummer ex 02.01 A I des Gemeinsamen
+    Zolltarifs) mit Ursprung in dritten Ländern, das sich in den übrigen Mitgliedstaaten
+    im freien Verkehr befindet, von der Gemeinschaftsbehandlung auszuschließen'
+  type: main
+- language: it
+  script: Latn
+  content: '70/100/CEE: Decisione della Commissione, del 19 gennaio 1970, che autorizza
+    la Repubblica francese a escludere dal trattamento comunitario le «carni della
+    specie equina», voce della tariffa doganale comune ex 02.01 A I, originarie dei
+    paesi terzi e immesse in libera pratica negli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '70/100/EEG: Beschikking van de Commissie van 19 januari 1970 waarbij de
+    Franse Republiek wordt gemachtigd om "vlees van paarden", van post ex 02.01 A
+    I van het gemeenschappelijk douanetarief, van oorsprong uit derde landen en in
+    de andere Lid-Staten in het vrije verkeer gebracht, van de communautaire behandeling
+    uit te sluiten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970D0100
+docidentifier:
+- content: EU Decision 1970/100
+  type: EU
+  primary: true
+- content: CELEX 31970D0100
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1970/100/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-01-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

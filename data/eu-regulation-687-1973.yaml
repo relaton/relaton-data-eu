@@ -1,0 +1,94 @@
+---
+id: EURegulation6871973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 687/73 of the Commission of 8 March 1973 amending Regulation
+    (EEC) No 1576/72 of 24 July 1972 on the differential amounts for colza and rape
+    seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 687/73 de la Commission, du 8 mars 1973, modifiant
+    le règlement (CEE) n° 1576/72 du 24 juillet 1972, relatif aux montants différentiels
+    pour les graines de colza et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 687/73 der Kommission vom 8. März 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1576/72 vom 24. Juli 1972 über die Differenzbeträge
+    für Raps- und Rübsensamen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 687/73 af 8. marts 1973 om ændring
+    af forordning (EØF) nr. 1576/72 af 24. juli 1972 om differencebeløbene for raps-
+    og rybsfrø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 687/73 della Commissione, dell' 8 marzo 1973, che
+    modifica il regolamento (CEE) n. 1576/72 del 24 luglio 1972, relativo agli importi
+    differenziali per i semi di colza e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 687/73 van de Commissie van 8 maart 1973 tot wijziging
+    van Verordening (EEG) nr. 1576/72 van 24 juli 1972 betreffende de differentiële
+    bedragen voor kool- en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0687
+docidentifier:
+- content: EU Regulation 687/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0687
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/687/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-08'
+- type: implemented
+  at: '1973-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1576
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

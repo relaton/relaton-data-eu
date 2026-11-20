@@ -1,0 +1,98 @@
+---
+id: EURegulation25141979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2514/79 of 12 November 1979 amending Regulation
+    (EEC) No 2840/78 on the tariff treatment of certain products intended for use
+    in the construction, maintenance and repair of aircraft
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2514/79 du Conseil, du 12 novembre 1979, modifiant
+    le règlement (CEE) n° 2840/78 relatif au traitement tarifaire applicable à
+    certains produits destinés à être utilisés pour la construction, l' entretien
+    et la réparation d' aérodynes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2514/79 des Rates vom 12. November 1979 zur Änderung
+    der Verordnung (EWG) Nr. 2840/78 über die zolltarifliche Behandlung bestimmter
+    Erzeugnisse, die zur Verwendung beim Bau, bei der Instandhaltung oder der Instandsetzung
+    von Luftfahrzeugen bestimmt sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2514/79 af 12. november 1979 om ændring
+    af forordning (EØF) nr. 2840/78 om toldmæssig behandling af visse varer bestemt
+    til brug ved bygning, vedligeholdelse og reparation af flyvemaskiner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2514/79 del Consiglio, del 12 novembre 1979, che modifica
+    il regolamento (CEE) n. 2840/78 relativo al trattamento tariffario applicabile
+    a taluni prodotti destinati ad essere utilizzati per la costruzione, manutenzione
+    e riparazione di aerodine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2514/79 van de Raad van 12 november 1979 tot wijziging
+    van Verordening (EEG) nr. 2840/78 inzake de toepassing van het tarief op bepaalde
+    produkten welke bestemd zijn om te worden gebruikt voor de bouw, het onderhoud
+    en de reparatie van vliegtoestellen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2514
+docidentifier:
+- content: EU Regulation 2514/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2514
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2514/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-11-12'
+- type: implemented
+  at: '1979-11-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2840
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

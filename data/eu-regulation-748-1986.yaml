@@ -1,0 +1,130 @@
+---
+id: EURegulation7481986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 748/86 of 10 March 1986 amending Regulations
+    (EEC) No 2915/79 and (EEC) No 1473/84 as regards the application of annual tariff
+    quotas for certain cheeses from Austria, Finland and Norway
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 748/86 du Conseil du 10 mars 1986 modifiant les règlements
+    (CEE) n° 2915/79 et (CEE) n° 1473/84 en ce qui concerne l' application des contingents
+    tarifaires annuels de certains fromages prévus pour l' Autriche, la Finlande
+    et la Norvège
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 748/86 des Rates vom 10. März 1986 zur Änderung
+    der Verordnungen (EWG) Nr. 2915/79 und (EWG) Nr. 1473/84 hinsichtlich der Anwendung
+    der für Österreich, Finnland und Norwegen vorgesehenen Zollkontingente für
+    bestimmte Käsesorten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 748/86 af 10. marts 1986 om ændring af forordning
+    (EØF) nr. 2915/79 og (EØF) nr. 1473/84 for så vidt angår anvendelsen af de
+    årlige toldkontingenter for visse oste, fastsat for Østrig, Finland og Norge
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 748/86 του Συμβουλίου
+    της 10ης Μαρτίου 1986 για την τροποποίηση των
+    κανονισμών (ΕΟΚ) αριθ. 2915/79 και (ΕΟΚ) αριθ. 1473/84
+    όσον αφορά την εφαρμογή ετήσιων δασμολογικών
+    ποσοστώσεων για ορισμένα τυριά, οι οποίες προβλέπονται
+    για την Αυστρία, τη Φινλανδία και τη Νορβηγία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 748/86 del Consiglio del 10 marzo 1986 che modifica
+    i regolamenti (CEE) n. 2915/79 e (CEE) n. 1473/84 per quanto concerne l' applicazione
+    dei contingenti tariffari annui di taluni formaggi previsti per l' Austria, la
+    Finlandia e la Norvegia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 748/86 van de Raad van 10 maart 1986 tot wijziging
+    van de Verordeningen (EEG) nr. 2915/79 en (EEG) nr. 1473/84 voor wat betreft de
+    toepassing van de voor Oostenrijk, Finland en Noorwegen vastgestelde jaarlijkse
+    tariefcontingenten voor bepaalde kaassoorten
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 748/86 do Conselho de 10 de Março de 1986 que altera
+    o Regulamento (CEE) n.° 2915/79 e n.° 1473/84 no que respeita à aplicação
+    dos contingentes pautais anuais para determinados queijos previstos para a Áustria,
+    a Finlândia e a Noruega
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 748/86 del Consejo de 10 de marzo de 1986 por el que
+    se modifican los Reglamentos (CEE) n° 2915/79 y (CEE) n° 1473/84 en lo que respecta
+    a la aplicación de los contingentes arancelarios anuales de determinados quesos
+    establecidos para Austria, Finlandia y Noruega
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R0748
+docidentifier:
+- content: EU Regulation 748/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R0748
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/748/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-03-10'
+- type: implemented
+  at: '1986-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2915
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31984R1473
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

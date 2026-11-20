@@ -1,0 +1,74 @@
+---
+id: EURegulation21091970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2109/70 du Conseil, du 20 octobre 1970, fixant les
+    prix indicatifs et le prix d'intervention pour l'huile d'olive, pour la campagne
+    de commercialisation 1970/1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2109/70 des Rates vom 20. Oktober 1970 zur Festsetzung
+    der Richtpreise und des Interventionspreises für Olivenöl für das Wirtschaftsjahr
+    1970/1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2109/70 del Consiglio, del 20 ottobre 1970, che fissa
+    i prezzi indicativi e il prezzo d'intervento dell'olio d'oliva per la campagna
+    di commercializzazione 1970/1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2109/70 van de Raad van 20 oktober 1970 houdende
+    vaststelling van de richtprijzen en de interventieprijs voor olijfolie voor het
+    verkoopseizoen 1970/1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2109
+docidentifier:
+- content: EU Regulation 2109/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2109
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2109/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-20'
+- type: implemented
+  at: '1970-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,104 @@
+---
+id: EURegulation4921983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 492/83 of 1 March 1983 correcting Regulation
+    (EEC) No 445/83 on the supply of common wheat flour to the Arab Republic of Egypt
+    as food aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 492/83 de la Commission, du 1er mars 1983, rectifiant
+    le règlement (CEE) n° 445/83 relatif à la livraison de farine de froment tendre
+    à la République arabe d'Égypte au titre de l'aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 492/83 der Kommission vom 1. März 1983 zur Berichtigung
+    der Verordnung (EWG) Nr. 445/83 über die Lieferung von Weichweizenmehl an die
+    Arabische Republik Ägypten im Rahmen der Nahrungsmittelhilfe
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 492/83 af 1. marts 1983 om berigtigelse
+    af forordning ( EØF ) nr. 445/83 om levering af mel af blød hvede til Den Arabiske
+    Republik Egypten som fødevarehjålp
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 492/83 της Επιτροπής
+    της 1ης Μαρτίου 1983 περί διορθώσεως του κανονισμού
+    (ΕΟΚ) αριθ. 445/83 περί παραδόσεως αλεύρου μαλακού
+    σίτου στην Αραβική Δημοκρατία της Αιγύπτου
+    βάσει της επισιτιστικής βοήθειας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 492/83 della Commissione, del 1 marzo 1983, che rettifica
+    il regolamento (CEE) n. 445/83 relativo alla fornitura di farina di frumento tenero
+    alla Repubblica Araba d'Egitto a titolo di aiuto alimentare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) Nr. 492/83 van de Commissie van 1 maart 1983 tot rectificatie
+    van Verordening (EEG) Nr. 445/83 inzake de levering van meel van zachte tarwe
+    aan de Arabische Republiek Egypte als voedselhulp
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0492
+docidentifier:
+- content: EU Regulation 492/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0492
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/492/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-03-01'
+- type: implemented
+  at: '1983-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R0445
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

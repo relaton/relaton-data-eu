@@ -1,0 +1,79 @@
+---
+id: EURegulation3601967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 360/67/CEE du Conseil du 25 juillet 1967 relatif au régime
+    d'importation et d'exportation de produits transformés à base de céréales
+    et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 360/67/EWG des Rates vom 25. Juli 1967 über die Regelung
+    für die Einfuhr und die Ausfuhr von Getreide- und Reisverarbeitungserzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 360/67/CEE del Consiglio, del 25 luglio 1967, relativo al
+    regime d'importazione e d'esportazione dei prodotti trasformati a base di cereali
+    e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 360/67/EEG van de Raad van 25 juli 1967 betreffende de
+    regeling voor de invoer en de uitvoer van de op basis van granen en rijst verwerkte
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0360
+docidentifier:
+- content: EU Regulation 360/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0360
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/360/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-25'
+- type: implemented
+  at: '1967-08-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0191
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

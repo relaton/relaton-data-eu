@@ -1,0 +1,73 @@
+---
+id: EURegulation23401971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2340/71 de la Commission, du 28 octobre 1971, fixant
+    les taux des restitutions applicables, à compter du 1er novembre 1971, à certains
+    produits des secteurs des céréales et du riz exportés sous forme de marchandises
+    ne relevant pas de l'annexe II du traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2340/71 der Kommission vom 28. Oktober 1971 zur Festsetzung
+    der ab 1. November 1971 geltenden Erstattungssätze bei der Ausfuhr bestimmter
+    Getreide- und Reiserzeugnisse in Form von nicht unter Anhang II des Vertrages
+    fallenden Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2340/71 della Commissione, del 28 ottobre 1971, che
+    fissa i tassi delle restituzioni applicabili, a decorrere dal 1 novembre 1971,
+    a taluni prodotti dei settori dei cereali e del riso esportati sotto forma di
+    merci non comprese nell'allegato II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2340/71 van de Commissie van 28 oktober 1971 houdende
+    vaststelling van de restituties die met ingang van 1 november 1971 worden toegepast
+    voor bepaalde produkten van de sector granen en de sector rijst, uitgevoerd in
+    de vorm van het in bijlage II van het Verdrag vermelde goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2340
+docidentifier:
+- content: EU Regulation 2340/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2340
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2340/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

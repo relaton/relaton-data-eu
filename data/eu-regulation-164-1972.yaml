@@ -1,0 +1,80 @@
+---
+id: EURegulation1641972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 164/72 de la Commission, du 25 janvier 1972, modifiant
+    certains montants compensatoires dans le secteur agricole fixés par le règlement
+    (CEE) n° 144/72
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 164/72 der Kommission vom 25. Januar 1972 zur Änderung
+    gewisser in der Landwirtschaft geltender und in der Verordnung (EWG) Nr. 144/72
+    festgesetzter Ausgleichsbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 164/72 della Commissione, del 25 gennaio 1972, che
+    modifica taluni importi di compensazione nel settore agricolo fissati dal regolamento
+    (CEE) n. 144/72
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 164/72 van de Commissie van 25 januari 1972 houdende
+    wijziging van bepaalde door Verordening (EEG) nr. 144/72 in de landbouwsector
+    vastgestelde compenserende bedragen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0164
+docidentifier:
+- content: EU Regulation 164/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0164
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/164/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-01-25'
+- type: implemented
+  at: '1972-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0144
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

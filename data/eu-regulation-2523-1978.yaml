@@ -1,0 +1,102 @@
+---
+id: EURegulation25231978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2523/78 of 27 October 1978 amending Regulations
+    (EEC) No 368/77 and (EEC) No 443/77 on the sale of skimmed-milk powder from public
+    stocks for use in feed for pigs and poultry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2523/78 de la Commission, du 27 octobre 1978, modifiant
+    les règlements (CEE) n° 368/77 et (CEE) n° 443/77 relatifs à la vente de lait
+    écrémé en poudre de stock public destiné à l' alimentation des porcs et des
+    volailles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2523/78 der Kommission vom 27. Oktober 1978 zur Änderung
+    der Verordnungen (EWG) Nr. 368/77 und (EWG) Nr. 443/77 über den Verkauf von Magermilchpulver
+    aus öffentlicher Lagerhaltung für Schweine und Geflügel
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2523/78 af 27. oktober 1978 om ændring
+    af forordning (EØF) nr. 368/77 og (EØF) nr. 443/77 om salg fra offentlige lagre
+    af skummetmælkspulver til svine- og fjerkræfoder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2523/78 della Commissione, del 27 ottobre 1978, che
+    modifica i regolamenti (CEE) n. 368/77 e (CEE) n. 443/77, relativi alla vendita
+    di latte scremato in polvere d' ammasso pubblico destinato all' alimentazione
+    dei suini e del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2523/78 van de Commissie van 27 oktober 1978 tot
+    wijziging van de Verordeningen (EEG) nr. 368/77 en (EEG) nr. 443/77 met betrekking
+    tot de verkoop van magere-melkpoeder uit openbare opslag bestemd voor voeder voor
+    varkens en pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2523
+docidentifier:
+- content: EU Regulation 2523/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2523
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2523/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-27'
+- type: implemented
+  at: '1978-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0368
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0443
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

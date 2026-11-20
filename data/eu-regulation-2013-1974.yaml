@@ -1,0 +1,77 @@
+---
+id: EURegulation20131974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2013/74 of the Commission of 30 July 1974 altering
+    Regulation (EEC) No 1994/74 for rice flour
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2013/74 de la Commission, du 30 juillet 1974, modifiant
+    le règlement (CEE) n 1994/74 pour la farine de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2013/74 der Kommission vom 30. Juli 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1994/74 für Mehl von Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2013/74 af 30. juli 1974 om ændring
+    af forordning (EØF) nr. 1994/74 for rismel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2013/74 della Commissione, del 30 luglio 1974, che
+    modifica il regolamento (CEE) n. 1994/74 per la farina di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2013/74 van de Commissie van 30 juli 1974 houdende
+    wijziging van Verordening (EEG) nr. 1994/74 voor rijstemeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2013
+docidentifier:
+- content: EU Regulation 2013/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2013
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2013/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

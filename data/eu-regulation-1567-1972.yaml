@@ -1,0 +1,105 @@
+---
+id: EURegulation15671972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1567/72 of the Council of 20 July 1972 extending Regulations
+    (EEC) Nos 2313/71 and 2823/71 partially and temporarily suspending Common Customs
+    Tariff duties applicable to wines originating in and coming from Algeria, Morocco,
+    Tunisia and Turkey
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1567/72 du Conseil, du 20 juillet 1972, prorogeant
+    les règlements (CEE)" n°s 2313/71 et 2823/71 portant suspension temporaire partielle
+    des droits du tarif douanier commun applicables aux vins originaires et en provenance
+    de l' Algérie, du Maroc, de la Tunisie et de la Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1567/72 des Rates vom 20. Juli 1972 zur Verlängerung
+    der Verordnungen (EWG) Nrn. 2313/71 und 2823/71 über die zeitweise teilweise
+    Aussetzung der Zollsätze des Gemeinsamen Zolltarifs für Wein mit Ursprung in
+    und Herkunft aus Algerien, Marokko, Tunesien und der Türkei
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1567/72 af 20. juli 1972 om forlængelse
+    af forordningerne (EØF) nr. 2313/71 og 2823/71 om midlertidig og delvis suspension
+    af satserne i den fælles toldtarif for vin, der har oprindelse i og kommer fra
+    Algeriet, Marokko, Tunesien og Tyrkiet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1567/72 del Consiglio, del 20 luglio 1972, che proroga
+    i regolamenti (CEE) nn. 2313/71 e 2823/71, recanti sospensione temporanea parziale
+    dei dazi della tariffa doganale comune applicabili ai vini originari e provenienti
+    dall' Algeria, dal Marocco, dalla Tunisia e dalla Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1567/72 van de Raad van 20 juli 1972 tot verlenging
+    van de Verordeningen (EEG) nrs. 2313/71 en 2823/71 houdende tijdelijke gedeeltelijke
+    schorsing van de rechten van het gemeenschappelijk douanetarief voor wijn van
+    oorsprong en herkomst uit Algerië, Marokko, Tunesië en Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1567
+docidentifier:
+- content: EU Regulation 1567/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1567
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1567/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-20'
+- type: implemented
+  at: '1972-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2313
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2823
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

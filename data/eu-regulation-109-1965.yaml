@@ -1,0 +1,105 @@
+---
+id: EURegulation1091965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 109/65/CEE du Conseil, du 30 juin 1965, modifiant et complétant
+    les règlements n° 3 et 4 concernant la sécurité sociale des travailleurs migrants
+    (versement des allocations familiales - simplification de la procédure de notification
+    des modifications apportées aux annexes - modification de diverses annexes)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 109/65/EWG des Rates vom 30. Juni 1965 zur Änderung und
+    Ergänzung der Verordnungen Nr. 3 und Nr. 4 über die soziale Sicherheit der Wanderarbeitnehmer
+    (Zahlung der Familienbeihilfen - Vereinfachung des Verfahrens zur Notifizierung
+    der an den Anhängen vorgenommenen Änderungen - Änderung verschiedener Anhänge)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 109/65/CEE del Consiglio, del 30 giugno 1965, che modifica
+    e completa i regolamenti nn. 3 e 4 per la sicurezza sociale dei lavoratori migranti
+    (Versamento degli assegni familiari - Semplificazione della procedura di notifica
+    delle modifiche apportate agli allegati - Modifica di vari allegati)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 109/65/EEG van de Raad van 30 juni 1965 tot wijziging en
+    aanvulling van de Verordeningen Nrs. 3 en 4 inzake de sociale zekerheid van migrerende
+    werknemers (Uitkering van de kinderbijslagen - Vereenvoudiging van de procedure
+    voor kennisgeving van wijzigingen in de bijlagen - Wijziging van verschillende
+    bijlagen)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0109
+docidentifier:
+- content: EU Regulation 109/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0109
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/109/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-30'
+- type: implemented
+  at: '1960-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0130
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0024
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0108
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

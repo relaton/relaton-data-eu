@@ -1,0 +1,96 @@
+---
+id: EURegulation22491975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2249/75 of the Commission of 29 August 1975 amending
+    for the first time Regulation (EEC) No 2042/75 on special detailed rules for the
+    application of the system of import and export licences for cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2249/75 de la Commission, du 29 août 1975, portant
+    première modification du règlement (CEE) n° 2042/75 relatif aux modalités
+    particulières d' application du régime des certificats d' importation et d'
+    exportation dans le secteur des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2249/75 der Kommission vom 29. August 1975 zur ersten
+    Änderung der Verordnung (EWG) Nr. 2042/75 über besondere Durchführungsvorschriften
+    für Einfuhr- und Ausfuhrlizenzen für Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2249/75 af 29. august 1975 om første
+    ændring af forordning (EØF) nr. 2042/75 om de særlige gennemførelsesbestemmelser
+    for ordningen med import- og eksportlicenser for korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2249/75 della Commissione, del 29 agosto 1975, recante
+    prima modifica del regolamento (CEE) n. 2042/75 che stabilisce le modalità particolari
+    di applicazione del regime dei titoli d' importazione e di esportazione nel settore
+    dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2249/75 van de Commissie van 29 augustus 1975 houdende
+    eerste wijziging van Verordening (EEG) nr. 2042/75 betreffende bijzondere uitvoeringsbepalingen
+    inzake het stelsel van invoer- en uitvoercertificaten in de sector granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2249
+docidentifier:
+- content: EU Regulation 2249/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2249
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2249/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-29'
+- type: implemented
+  at: '1975-08-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2042
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

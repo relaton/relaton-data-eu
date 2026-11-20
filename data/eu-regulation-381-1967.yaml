@@ -1,0 +1,87 @@
+---
+id: EURegulation3811967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation No 381/67/EEC of 28 July 1967, amending Regulation
+    No 243/67/EEC limiting the quantity of cereal that can be imported free of customs
+    charges under the rules of the inward processing system
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 381/67 de la Commission du 28 juillet 1967, modifiant
+    le règlement (CEE) n° 243/67 limitant la quantité de céréales importée en
+    franchise de prélèvement sous un régime de trafic de perfectionnement actif
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG NR. 381/67/EWG DER KOMMISSION VOM 28. JULI 1967 ZUR AENDERUNG
+    DER VERORDNUNG NR. 243/67/EWG ZUR BEGRENZUNG DER GETREIDEMENGEN, DIE UNTER EINER
+    REGELUNG DES AKTIVEN VEREDELUNGSVERKEHRS ABSCHOEPFUNGSFREI EINGEFUEHRT WERDEN
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO N. 381/67/CEE DELLA COMMISSIONE, DEL 28 LUGLIO 1967, CHE MODIFICA
+    IL REGOLAMENTO N. 243/67/CEE CHE LIMITA IL QUANTITATIVO DI CEREALI IMPORTATO IN
+    FRANCHIGIA DI PRELIEVO IN UN REGIME DI TRAFFICO DI PERFEZIONAMENTO ATTIVO
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING NO. 381/67/EEG VAN DE COMMISSIE VAN 28 JULI 1967 HOUDENDE WIJZIGING
+    VAN VERORDENING NO. 243/67/EEG HOUDENDE BEPERKING VAN DE HOEVEELHEID GRANEN DIE
+    MET VRIJSTELLING VAN DE HEFFING ZIJN INGEVOERD ONDER EEN STELSEL VAN ACTIEF VEREDELINGSVERKEER
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0381
+docidentifier:
+- content: EU Regulation 381/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0381
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/381/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-28'
+- type: implemented
+  at: '1967-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0243
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

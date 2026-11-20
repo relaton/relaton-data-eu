@@ -1,0 +1,65 @@
+---
+id: EURegulation5641972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 564/72 de la Commission, du 20 mars 1972, portant modification
+    des restitutions à l'exportation de certains produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 564/72 der Kommission vom 20. März 1972 zur Änderung
+    der für bestimmte Milcherzeugnisse anzuwendenden Erstattungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 564/72 della Commissione, del 20 marzo 1972, che modifica
+    le restituzioni all'esportazione di taluni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 564/72 van de Commissie van 20 maart 1972 houdende
+    wijziging van de restituties bij uitvoer van bepaalde zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0564
+docidentifier:
+- content: EU Regulation 564/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0564
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/564/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

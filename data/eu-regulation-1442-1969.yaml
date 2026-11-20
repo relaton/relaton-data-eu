@@ -1,0 +1,93 @@
+---
+id: EURegulation14421969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (Euratom, CECA, CEE) n° 1442/69 du Conseil du 23 juillet 1969
+    modifiant le règlement n° 422/67/CEE et 5/67/Euratom du Conseil, du 25 juillet
+    1967, portant fixation du régime pécuniaire du Président et des membres de
+    la Commission du Président, des juges, des avocats généraux et du greffier
+    de la Cour de Justice
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom, EGKS, EWG) Nr. 1442/69 des Rates vom 23. Juli 1969
+    zur Änderung der Verordnung Nr. 422/67/EWG und Nr. 5/67/Euratom des Rates vom
+    25. Juli 1967 über die Regelung der Amtsbezüge für den Präsidenten und die
+    Mitglieder der Kommission sowie für den Präsidenten, die Richter, die Generalanwälte
+    und den Kanzler des Gerichtshofes
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom, CECA, CEE) n. 1442/69 del Consiglio, del 23 luglio
+    1969, che modifica il regolamento n. 422/67/CEE, n. 5/67 Euratom del Consiglio,
+    del 25 luglio 1967, relativo alla fissazione del trattamento economico del Presidente
+    e dei membri della Commissione, del Presidente, dei giudici, degli avvocati generali
+    e del cancelliere della Corte di giustizia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom, EGKS, EEG) nr. 1442/69 van de Raad van 23 juli 1969
+    tot wijziging van Verordening nr. 422/67/EEG en nr. 5/67 Euratom van de Raad van
+    25 juli 1967 tot vaststelling van de geldelijke regeling voor de Voorzitter en
+    de leden van de Commissie, de President, de rechters en de griffier van, alsmede
+    de advocaten- generaal bij het Hof van Justitie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1442
+docidentifier:
+- content: EU Regulation 1442/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1442
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1442/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-23'
+- type: implemented
+  at: '1968-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0262
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0422
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

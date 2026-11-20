@@ -1,0 +1,114 @@
+---
+id: EURegulation15171979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1517/79 of 16 July 1979 amending Regulations
+    (EEC) No 1408/71 and (EEC) No 574/72 on the application of social security schemes
+    to employed persons and their families moving within the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1517/79 du Conseil, du 16 juillet 1979, modifiant
+    les règlements (CEE) n° 1408/71 et (CEE) n° 574/72 concernant l' application
+    des régimes de sécurité sociale aux travailleurs salariés et à leur famille
+    qui se déplacent à l' intérieur de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1517/79 des Rates vom 16. Juli 1979 zur Änderung
+    der Verordnungen (EWG) Nr. 1408/71 und Nr. 574/72 zur Anwendung der Systeme der
+    sozialen Sicherheit auf Arbeitnehmer und deres Familien, die innerhalb der Gemeinschaft
+    zu- und abwandern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1517/79 af 16. juli 1979 om ændring af forordning
+    (EØF) nr. 1408/71 og (EØF) nr. 574/72 om anvendelse af sociale sikringsordninger
+    på arbejdstagere og deres familiemedlemmer, der flytter inden for Fællesskabet
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1517/79 τού Συμβουλίου
+    τής 16ης Ιουλίου 1979 περί τροποποιήσεως τών κανονισμών
+    (ΕΟΚ) αριθ. 1408/71 καί (ΕΟΚ) αριθ. 574/72 «περί εφαρμογής
+    τών συστημάτων κοινωνικής ασφαλίσεως στούς
+    μισθωτούς καί τίς οικογένειές τους πού διακινούνται
+    εντός τής Κοινότητος»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1517/79 del Consiglio, del 16 luglio 1979, che modifica
+    il regolamento (CEE) n. 1408/71 e (CEE) n. 574/72 relativi all' applicazione dei
+    regimi di sicurezza sociale ai lavoratori subordinati e ai loro familiari che
+    si spostano all' interno della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1517/79 van de Raad van 16 juli 1979 tot wijziging
+    van de Verordeningen (EEG) nr. 1408/71 en (EEG) nr. 574/72 inzake de toepassing
+    van de sociale-zekerheidsregelingen op loontrekkenden en hun gezinnen, die zich
+    binnen de Gemeenschap verplaatsen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1517
+docidentifier:
+- content: EU Regulation 1517/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1517
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1517/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-16'
+- type: implemented
+  at: '1973-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1408
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0574
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,72 @@
+---
+id: EUDecision1966314
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/314/CEE du Conseil du 25 mai 1966, portant suspension totale
+    du droit du Tarif douanier commun applicable à la diosgénine, brute, de la position
+    Ex 38.19 Q
+  type: main
+- language: de
+  script: Latn
+  content: '66/314/EWG: Entscheidung des Rates vom 25. Mai 1966 über die vollständige
+    Aussetzung des Satzes des Gemeinsamen Zolltarifs für Diosgenin, roh, der Tarifnummer
+    ex 38.19 Q'
+  type: main
+- language: it
+  script: Latn
+  content: '66/314/CEE: Decisione del Consiglio, del 25 maggio 1966, relativa alla
+    sospensione totale del dazio della tariffa doganale comune applicabile alla diosgenina
+    greggia della voce ex 38.19 Q'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/314/EEG: Beschikking van de Raad van 25 mei 1966 houdende volledige
+    schorsing van het recht van het gemeenschappelijk douanetarief op diosgenine,
+    ex post 38.19 Q'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0314
+docidentifier:
+- content: EU Decision 1966/314
+  type: EU
+  primary: true
+- content: CELEX 31966D0314
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/314/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-05-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

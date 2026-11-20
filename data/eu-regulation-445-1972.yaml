@@ -1,0 +1,104 @@
+---
+id: EURegulation4451972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 445/72 of the Council of 29 February 1972 revoking
+    the limit on the period of application of Regulation (EEC) No 2864/71 as regards
+    levies on fresh milk
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 445/72 du Conseil, du 29 février 1972, supprimant
+    la limitation de la durée d' application du règlement (CEE) n° 2864/71 relatif
+    aux prélèvements applicables au lait frais
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 445/72 des Rates vom 29. Februar 1972 zur Aufhebung
+    der beschränkten Gültigkeitsdauer der Verordnung (EWG) Nr. 2864/71 über die
+    Abschöpfungen für frische Milch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 445/72 af 29. februar 1972 om ophævelse
+    af tidsbegrænsningen for anvendelsen af forordning (EØF) nr. 2864/71 om importafgifter
+    for frisk mælk
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 445/72 τού Συμβουλίου
+    τής 29ης Φεβρουαρίου 1972 περί καταργήσεως τού
+    περιορισμού τής διαρκείας τής εφαρμογής τού
+    κανονισμού (ΕΟΚ) αριθ. 2864/71 «περί τών εισφορών
+    πού εφαρμόζονται στό νωπό γάλα»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 445/72 del Consiglio, del 29 febbraio 1972, che sopprime
+    il limite della durata di applicazione del regolamento (CEE) n. 2864/71 relativo
+    ai prelievi applicabili al latte fresco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 445/72 van de Raad van 29 februari 1972 tot opheffing
+    van de beperking van de geldigheidsduur van Verordening (EEG) nr. 2864/71 betreffende
+    de heffingen voor verse melk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0445
+docidentifier:
+- content: EU Regulation 445/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0445
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/445/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-02-29'
+- type: implemented
+  at: '1972-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2864
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

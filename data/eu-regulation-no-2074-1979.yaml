@@ -1,0 +1,98 @@
+---
+id: EURegulationNo20741979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2074/79 of 25 September 1979 amending Regulation
+    (EEC) No 1785/79 on the temporary marketing during the 1979/80 milk year of reduced-price
+    butter for direct consumption in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2074/79 de la Commission, du 25 septembre 1979, portant
+    modification du règlement (CEE) n° 1785/79 relatif à l' écoulement temporaire
+    à prix réduit, au cours de la campagne laitière 1979/1980, de beurre destiné
+    à la consommation directe dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2074/79 der Kommission vom 25. September 1979 zur
+    Änderung der Verordnung (EWG) Nr. 1785/79 über die zeitweilige Verbilligung
+    von Butter für den Direktverbrauch in der Gemeinschaft im Milchwirtschaftsjahr
+    1979/80
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2074/79 af 25. september 1979 om ændring
+    af forordning (EØF) nr. 1785/79 om midlertidig afsætning til nedsat pris af
+    smør til direkte forbrug i Fællesskabet i mejeriåret 1979/1980
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2074/79 della Commissione, del 25 settembre 1979,
+    recante prima modifica del regolamento (CEE) n. 1785/79 relativo allo smercio
+    temporaneo a prezzo ridotto, durante la campagna 1979/1980, di burro destinato
+    al consumo diretto nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2074/79 van de Commissie van 25 september 1979 houdende
+    wijziging van Verordening (EEG) nr. 1785/79 betreffende de tijdelijke afzet tegen
+    verlaagde prijs, in het melkprijsjaar 1979/1980, van boter voor rechtstreekse
+    consumptie in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2074
+docidentifier:
+- content: EU Regulation No 2074/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2074
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2074/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-09-25'
+- type: implemented
+  at: '1979-09-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1785
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

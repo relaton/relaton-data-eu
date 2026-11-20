@@ -1,0 +1,70 @@
+---
+id: EURegulation8641967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 864/67/CEE du Conseil, du 14 novembre 1967, fixant les prix
+    dans le secteur des céréales pour la campagne 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 864/67/EWG des Rates vom 14. November 1967 zur Festsetzung
+    der Preise für Getreide für das Wirtschaftsjahr 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 864/67/CEE del Consiglio, del 14 novembre 1967, che fissa
+    i prezzi applicabili nel settore dei cereali per la campagna 1968-1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 864/67/EEG van de Raad van 14 november 1967 tot vaststelling
+    van de prijzen in de sector granen voor het verkoopseizoen 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0864
+docidentifier:
+- content: EU Regulation 864/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0864
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/864/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-14'
+- type: implemented
+  at: '1968-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

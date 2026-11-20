@@ -1,0 +1,70 @@
+---
+id: EUDecision1962220
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission relative à l'autorisation de suspension de
+    droits accordés à la République fédérale d'Allemagne (pamplemousses)
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung der Kommission über die Ermächtigung der Bundesrepublik
+    Deutschland zur Aussetzung eines Zollsatzes (Pampelmusen)
+  type: main
+- language: it
+  script: Latn
+  content: Decisione della Commissione che autorizza la Repubblica federale di Germania
+    a sospendere la riscossione di dazi doganali (Pompelmi)
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Commissie betreffende de aan de Bondsrepubliek Duitsland
+    verleende machtiging tot schorsing van rechten (pompelmoezen)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962D0220P1305
+docidentifier:
+- content: EU Decision 1962/220
+  type: EU
+  primary: true
+- content: CELEX 31962D0220P1305
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1962/220/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-02-19'
+- type: implemented
+  at: '1962-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

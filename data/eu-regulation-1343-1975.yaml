@@ -1,0 +1,82 @@
+---
+id: EURegulation13431975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1343/75 of the Commission of 26 May 1975 on the furnishing
+    of documents for the determination of value for customs purposes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1343/75 de la Commission, du 26 mai 1975, concernant
+    la fourniture de documents pour la détermination de la valeur en douane
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1343/75 der Kommission vom 26. Mai 1975 über zur
+    Ermittlung des Zollwerts vorzulegende Unterlagen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1343/75 af 26. maj 1975 om afgivelse
+    af dokumenter med henblik på fastsættelsen af toldværdien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1343/75 della Commissione, del 26 maggio 1975, concernente
+    la produzione di documenti per la determinazione del valore in dogana
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1343/75 van de Commissie van 26 mei 1975 inzake over
+    te leggen stukken voor de bepaling van de douanewaarde
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1343
+docidentifier:
+- content: EU Regulation 1343/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1343
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1343/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-26'
+- type: implemented
+  at: '1975-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

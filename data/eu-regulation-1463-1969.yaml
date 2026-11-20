@@ -1,0 +1,75 @@
+---
+id: EURegulation14631969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1463/69 du Conseil, du 23 juillet 1969, relatif aux
+    mesures de sauvegarde prévues à l'accord créant une association entre la Communauté
+    économique européenne et le Royaume du Maroc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1463/69 des Rates vom 23. Juli 1969 über die im Abkommen
+    zur Gründung einer Assoziation zwischen der Europäischen Wirtschaftsgemeinschaft
+    und dem Königreich Marokko vorgesehenen Schutzmaßnahmen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1463/69 del Consiglio, del 23 luglio 1969, relativo
+    alle misure di salvaguardia previste dall'Accordo che crea un'associazione tra
+    la Comunità economica europea e il Regno del Marocco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1463/69 van de Raad van 23 juli 1969 betreffende
+    de vrijwaringsmaatregelen bedoeld in de Overeenkomst waarbij een Associatie tot
+    stand wordt gebracht tussen de Europese Economische Gemeenschap en het Koninkrijk
+    Marokko
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1463
+docidentifier:
+- content: EU Regulation 1463/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1463
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1463/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-23'
+- type: implemented
+  at: '1969-08-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

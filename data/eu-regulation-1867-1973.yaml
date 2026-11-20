@@ -1,0 +1,100 @@
+---
+id: EURegulation18671973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1867/73 of the Commission of 11 July 1973 modifying
+    Regulation (EEC) No 1601/72 and prolonging until 15 August 1973 the date for the
+    delivery of alcohol obtained from the compulsory distillation of the by-products
+    of the vinification
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1867/73 de la Commission, du 11 juillet 1973, modifiant
+    le règlement (CEE) n° 1601/72 en prorogeant jusqu'au 15 août 1973 le délai
+    pour la livraison de l'alcool obtenu au titre de la distillation obligatoire des
+    sous-produits de la vinification
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1867/73 der Kommission vom 11. Juli 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1601/72 und zur Verlängerung der Frist für die Ablieferung
+    des aus der vorgeschriebenen Destillierung von Nebenerzeugnissen der Weinbereitung
+    gewonnenen Alkohols bis 15. August 1973
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1867/73 af 11. juli 1973 om ændring
+    af forordning (EØF) nr. 1601/72 ved at forlænge fristen for levering af alkohol,
+    der udvindes ved obligatorisk destillering af biprodukter fra vinfremstilling,
+    indtil 15. august 1973
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1867/73 della Commissione, dell'11 luglio 1973, che
+    modifica il regolamento (CEE) n. 1601/72 prorogando fino al 15 agosto 1973 il
+    termine di consegna dell'alcole ottenuto a titolo della distillazione obbligatoria
+    dei sottoprodotti della vinificazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1867/73 van de Commissie van 11 juli 1973 tot wijziging
+    van Verordening (EEG) nr. 1601/72 door de verlenging tot 15 augustus 1973 van
+    de termijn voor de levering van de alcohol verkregen bij de verplichte distillatie
+    van de bijprodukten van de wijnbereiding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1867
+docidentifier:
+- content: EU Regulation 1867/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1867
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1867/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-07-11'
+- type: implemented
+  at: '1973-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1601
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

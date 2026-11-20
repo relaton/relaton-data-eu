@@ -1,0 +1,93 @@
+---
+id: EURegulation14611972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1461/72 of the Commission of 10 July 1972 amending
+    Regulation No 633/67/EEC on the advance fixing of the export refund on cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1461/72 de la Commission, du 10 juillet 1972, modifiant
+    le règlement n° 633/67/CEE relatif à la préfixation de la restitution à l'
+    exportation des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1461/72 der Kommission vom 10. Juli 1972 zur Änderung
+    der Verordnung Nr. 633/67/EWG über die Vorausfestsetzung der Erstattung bei der
+    Ausfuhr von Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1461/72 af 10. juli 1972 om ændring
+    af forordning nr. 633/67/EØF om forudfastsættelse af eksportrestitution for
+    korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1461/72 della Commissione, del 10 luglio 1972, che
+    modifica il regolamento n. 633/67/CEE relativo alla fissazione in anticipo della
+    restituzione all' esportazione di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1461/72 van de Commissie van 10 juli 1972 houdende
+    wijziging van Verordening nr. 633/67/EEG betreffende het tevoren vaststellen van
+    de restitutie bij uitvoer van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1461
+docidentifier:
+- content: EU Regulation 1461/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1461
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1461/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-10'
+- type: implemented
+  at: '1972-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0633
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

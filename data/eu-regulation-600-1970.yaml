@@ -1,0 +1,94 @@
+---
+id: EURegulation6001970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 600/70 of the Commission of 31 March 1970 laying down
+    detailed rules for the application of Council Regulation (EEC) No 580/70 amending
+    the system of premiums for slaughtering cows
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 600/70 de la Commission, du 31 mars 1970, établissant
+    des modalités d'application du règlement (CEE) n° 580/70 du Conseil modifiant
+    le régime des primes à l'abattage des vaches
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 600/70 der Kommission vom 31. März 1970 zur Schaffung
+    von Durchführungsbestimmungen zu der Verordnung (EWG) Nr. 580/70 des Rates zur
+    Änderung der Prämienregelung für die Schlachtung von Kühen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 600/70 af 31. marts 1970 om fastsættelse
+    af gennemførelsesbestemmelser til Rådets forordning (EØF) nr. 580/70 om ændring
+    af præmieordningen for slagtning af køer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 600/70 della Commissione, del 31 marzo 1970, relativo
+    alle modalità di applicazione del regolamento (CEE) n. 580/70 del Consiglio che
+    modifica il regime di premi di macellazione delle vacche
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 600/70 van de Commissie van 31 maart 1970 houdende
+    vaststelling van de uitvoeringsbepalingen van Verordening (EEG) nr. 580/70 van
+    de Raad tot wijziging van het stelsel van premies voor het slachten van koeien
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0600
+docidentifier:
+- content: EU Regulation 600/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0600
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/600/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-31'
+- type: implemented
+  at: '1970-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2195
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

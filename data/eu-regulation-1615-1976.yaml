@@ -1,0 +1,103 @@
+---
+id: EURegulation16151976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1615/76 of 2 July 1976 amending Regulations
+    (EEC) No 883/76 and (EEC) No 884/76 with respect to the time limits for the submission
+    of applications for import licences for young bovine animals while protective
+    measures are in force
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1615/76 de la Commission, du 2 juillet 1976, portant
+    modification aux règlements (CEE) n 883/76 et (CEE) n° 884/76 en ce qui concerne
+    les délais pour le dépôt des demandes de certificat d'importation de jeunes
+    bovins pendant la période d'application des mesures de sauvegarde
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1615/76 der Kommission vom 2. Juli 1976 zur Änderung
+    der Verordnungen (EWG) Nrn. 883/76 und 884/76 bezüglich der Fristen für die
+    Beantragung von Einfuhrlizenzen für Jungrinder während der Anwendung der Schutzmaßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1615/76 af 2. juli 1976 om ændring
+    af forordning (EØF) nr. 883/76 og 884/76 for så vidt angår fristen for ansøgning
+    om importlicens for ungkvæg i den periode, hvor der anvendes beskyttelsesforanstaltninger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1615/76 della Commissione, del 2 luglio 1976, che
+    modifica i regolamenti (CEE) n. 883/76 e n. 884/76 per quanto riguarda i termini
+    di presentazione delle domande di titoli d'importazione di giovani bovini durante
+    il periodo d'applicazione delle misure di salvaguardia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1615/76 van de Commissie van 2 juli 1976 tot wijziging
+    van de Verordeningen (EEG) nrs. 883/76 en 884/76 inzake de termijnen voor de indiening
+    van aanvragen om invoercertificaten voor jonge runderen tijdens de toepassing
+    van de vrijwaringsmaatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1615
+docidentifier:
+- content: EU Regulation 1615/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1615
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1615/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-02'
+- type: implemented
+  at: '1976-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0883
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0884
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

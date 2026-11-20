@@ -1,0 +1,82 @@
+---
+id: EUDecision1964404
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* 64/404/EEC: Commission Decision of 30 June 1964 Fixing cif prices for cereals, flour, groats and meal */"
+  type: main
+- language: fr
+  script: Latn
+  content: '64/404/CEE: Décision de la Commission, du 30 juin 1964, portant fixation
+    des prix C.A.F. des céréales, farines, gruaux et semoules'
+  type: main
+- language: de
+  script: Latn
+  content: '64/404/EWG: Entscheidung der Kommission vom 30. Juni 1964 zur Festsetzung
+    der cif-Preise für Getreide, Mehl, Grobgrieß und Feingrieß'
+  type: main
+- language: da
+  script: Latn
+  content: '64/404/EØF: Kommissionens beslutning af 30. juni 1964 om fastsættelse
+    af cif-priser for korn, mel, grove og fine gryn'
+  type: main
+- language: it
+  script: Latn
+  content: '64/404/CEE: Decisione della Commissione, del 30 giugno 1964, relativa
+    alla determinazione dei prezzi cif dei cereali, delle farine, delle semole e dei
+    semolini'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/404/EEG: Beschikking van de Commissie van 30 juni 1964 houdende vaststelling
+    van de c.i.f.-prijzen voor granen, meel, grutten, gries en griesmeel'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0404
+docidentifier:
+- content: EU Decision 1964/404
+  type: EU
+  primary: true
+- content: CELEX 31964D0404
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/404/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-30'
+- type: implemented
+  at: '1964-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

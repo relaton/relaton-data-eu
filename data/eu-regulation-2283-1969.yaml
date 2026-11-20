@@ -1,0 +1,87 @@
+---
+id: EURegulation22831969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2283/69 de la Commission, du 17 novembre 1969, modifiant,
+    en ce qui concerne les subventions et montants compensatoires applicables au babeurre
+    en poudre, le règlement (CEE) n° 1667/69 relatif à certaines mesures à prendre
+    dans le secteur du lait et des produits laitiers à la suite de la dévaluation
+    du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2283/69 der Kommission vom 17. November 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1667/69 betreffend bestimmte Maßnahmen auf dem Sektor
+    Milch und Milcherzeugnisse infolge der Abwertung des französischen Franken hinsichtlich
+    der auf Buttermilchpulver anwendbaren Subventionen und Ausgleichsbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2283/69 della Commissione, del 17 novembre 1969, che
+    modifica, per quanto riguarda le sovvenzioni e gli importi di compensazione applicabili
+    al latticello in polvere, il regolamento (CEE) n. 1667/69 relativo a talune misure
+    da applicare nel settore del latte e dei prodotti lattiero-caseari in seguito
+    alla svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2283/69 van de Commissie van 17 november 1969 houdende
+    wijziging van Verordening (EEG) nr. 1667/69 betreffende ingevolge de devaluatie
+    van de Franse frank in de sector melk en zuivelprodukten te nemen maatregelen,
+    voor wat betreft de subsidies en compenserende bedragen die van toepassing zijn
+    op karnemelkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2283
+docidentifier:
+- content: EU Regulation 2283/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2283
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2283/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-17'
+- type: implemented
+  at: '1969-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1667
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

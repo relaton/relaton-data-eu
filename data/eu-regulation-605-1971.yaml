@@ -1,0 +1,92 @@
+---
+id: EURegulation6051971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 605/71 de la Commission, du 23 mars 1971, limitant
+    l'application des règlements (CEE) n° 1416/69 et n° 1417/69 concernant la vente
+    à prix réduit de beurre de stock public à certaines catégories de consommateurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 605/71 der Kommission vom 23. März 1971 zur Begrenzung
+    der Anwendbarkeit der Verordnungen (EWG) Nrn. 1416/69 und 1417/69 über den Verkauf
+    von Butter aus staatlicher Lagerhaltung zu herabgesetzten Preisen an bestimmte
+    Verbrauchergruppen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 605/71 della Commissione, del 23 marzo 1971, che limita
+    l'applicazione dei regolamenti (CEE) nn. 1416/69 e 1417/69 relativi alla vendita
+    di burro a prezzo ridotto a talune categorie di consumatori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 605/71 van de Commissie van 23 maart 1971 houdende
+    beperking van de toepassing van de Verordeningen (EEG) nrs. 1416/69 en 1417/69
+    betreffende de verkoop van boter uit openbare opslag tegen verminderde prijzen
+    aan bepaalde groepen consumenten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0605
+docidentifier:
+- content: EU Regulation 605/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0605
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/605/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-23'
+- type: implemented
+  at: '1971-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1416
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1417
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1416
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

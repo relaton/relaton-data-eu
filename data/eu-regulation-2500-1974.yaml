@@ -1,0 +1,98 @@
+---
+id: EURegulation25001974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2500/74 of the Council of 2 October 1974 amending Regulation
+    (EEC) No 1913/74 laying down general rules governing the distillation of table
+    wines of type A II during the period from 15 August 1974 to 31 October 1974
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2500/74 du Conseil, du 2 octobre 1974, modifiant le
+    règlement (CEE) n° 1913/74 établissant les règles générales relatives à
+    des opérations de distillation des vins de table du type A II pendant la période
+    du 15 août au 31 octobre 1974
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2500/74 des Rates vom 2. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1913/74 zur Festlegung der Grundregeln für die Destillation
+    von Tafelwein der Art A II in der Zeit vom 15. August 1974 bis zum 31. Oktober
+    1974
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2500/74 af 2. oktober 1974 om ændring af
+    forordning (EØF) 1913/74 om de almindelige regler for destillering af bordvin
+    af type A II i perioden fra den 15. august 1974 til den 31. oktober 1974
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2500/74 del Consiglio, del 2 ottobre 1974, recante
+    modifica del regolamento (CEE) n. 1913/74, che stabilisce le norme generali relative
+    ad operazioni di distillazione dei vini da pasto dal tipo A II durante il periodo
+    15 agosto-31 ottobre 1974
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2500/74 van de Raad van 2 oktober 1974 tot wijziging
+    van Verordening (EEG) nr. 1913/74 houdende vaststelling van de algemene regels
+    betreffende de distillatie van tafelwijn van de soort A II tijdens de periode
+    van 15 augustus 1974 tot en met 31 oktober 1974
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2500
+docidentifier:
+- content: EU Regulation 2500/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2500
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2500/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-02'
+- type: implemented
+  at: '1974-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1913
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

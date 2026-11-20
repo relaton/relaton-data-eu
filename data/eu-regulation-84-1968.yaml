@@ -1,0 +1,81 @@
+---
+id: EURegulation841968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 84/68 du Conseil, du 23 janvier 1968, modifiant l'annexe
+    II du règlement n° 83/67/CEE, en ce qui concerne certaines préparations alimentaires
+    relevant de la position 21.07 FI du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 84/68 des Rates vom 23. Januar 1968 zur Änderung
+    des Anhangs II der Verordnung Nr. 83/67/EWG in bezug auf unter die Tarifnummer
+    21.07 F I des Gemeinsamen Zolltarifs fallende Lebensmittelzubereitungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 84/68 del Consiglio, del 23 gennaio 1968, che modifica
+    l'allegato II del regolamento n. 83/67/CEE per quanto concerne talune preparazioni
+    alimentari della voce 21.07 F I della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 84/68 van de Raad van 23 januari 1968 houdende wijziging
+    van bijlage II van Verordening nr. 83/67/EEG, voor zover deze betrekking heeft
+    op bepaalde produkten voor menselijke consumptie van post 21.07 F I van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0084
+docidentifier:
+- content: EU Regulation 84/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0084
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/84/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-01-23'
+- type: implemented
+  at: '1968-01-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0083
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

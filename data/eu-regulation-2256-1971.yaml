@@ -1,0 +1,93 @@
+---
+id: EURegulation22561971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2256/71 of the Commission of 21 October 1971 amending
+    Regulation (EEC) No 2637/70 as regards advance fixing certificates for oilseeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2256/71 de la Commission, du 21 octobre 1971, modifiant
+    le règlement (CEE) n° 2637/70 en ce qui concerne les certificats de préfixation
+    dans le secteur des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2256/71 der Kommission vom 21. Oktober 1971 zur Änderung
+    der Verordnung (EWG) Nr. 2637/70 hinsichtlich Vorausfestsetzungsbescheinigungen
+    im Ölsaatensektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2256/71 af 21. oktober 1971 om ændring
+    af forordning (EØF) nr. 2637/70 hvad angår forudfastsættelsesattester vedrørende
+    afgifter eller restitutioner indenfor oliefrøsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2256/71 della Commissione, del 21 ottobre 1971, che
+    modifica il regolamento (CEE) n. 2637/70 per quanto riguarda i certificati di
+    fissazione anticipata nel settore dei semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2256/71 van de Commissie van 21 oktober 1971 tot
+    wijziging van Verordening (EEG) nr. 2637/70 met betrekking tot de voorfixatiecertificaten
+    in de sector oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2256
+docidentifier:
+- content: EU Regulation 2256/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2256
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2256/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-21'
+- type: implemented
+  at: '1971-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation21951977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2195/77 of 4 October 1977 amending Regulation
+    (EEC) No 2073/74 as regards the selling prices for certain beef held by intervention
+    agencies and postponing the qualifying date for the sale of certain meat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2195/77 de la Commission, du 4 octobre 1977, modifiant
+    le règlement (CEE) n° 2073/74 en ce qui concerne les prix de vente de certaines
+    viandes bovines détenues par les organismes d' intervention et reportant la date
+    de prise en charge de certaines viandes mises en vente
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2195/77 der Kommission vom 4. Oktober 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2073/74 hinsichtlich der Verkaufspreise von Rindfleisch
+    im Besitz der Interventionsstellen und des Übernahmetermins für zum Verkauf
+    angebotenes Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2195/77 af 4. oktober 1977 om ændring
+    af forordning (EØF) nr. 2073/74 for så vidt angår salgspriserne for visse former
+    for oksekød, som interventionsorganerne ligger inde med, og om forlængelse af
+    fristen for overtagelse af visse former for kød, der udbydes til salg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2195/77 della Commissione, del 4 ottobre 1977, che
+    modifica il regolamento (CEE) n. 2073/74 per quanto concerne i prezzi di vendita
+    di talune carni bovine detenute dagli organismi d' intervento e proroga la data
+    di presa in consegna di talune carni bovine messe in vendita
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2195/77 van de Commissie van 4 oktober 1977 houdende
+    wijziging van Verordening (EEG) nr. 2073/74 met betrekking tot de verkoopprijzen
+    van bepaalde soorten rundvlees die in het bezit zijn van de interventiebureaus
+    en wijziging van de uiterste datum van overname van vlees, dat te koop wordt aangeboden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2195
+docidentifier:
+- content: EU Regulation 2195/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2195
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2195/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-04'
+- type: implemented
+  at: '1977-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

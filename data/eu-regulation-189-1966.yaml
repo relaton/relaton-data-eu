@@ -1,0 +1,81 @@
+---
+id: EURegulation1891966
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 189/66/EEC of the Council of 24 November 1966 on glucose
+    and lactose
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 189/66/CEE du Conseil, du 24 novembre 1966, relatif au glucose
+    et au lactose
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 189/66/EWG des Rates vom 24. November 1966 betreffend Glukose
+    und Laktose
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 189/66/EØF af 24. november 1966 om glucose og lactose
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 189/66/CEE del Consiglio, del 24 novembre 1966, relativo
+    al glucosio ed al lattosio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening N° 189/66/EEG van de Raad van 24 november 1966 betreffende
+    glucose en lactose
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0189
+docidentifier:
+- content: EU Regulation 189/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0189
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/189/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-24'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

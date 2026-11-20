@@ -1,0 +1,94 @@
+---
+id: EURegulation25521974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2552/74 of the Commission of 4 October 1974 amending
+    the Annex to Regulation (EEC) No 1980/74 determining the quantity of potatoes
+    required for the manufacture of 100 kilogrammes of starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2552/74 de la Commission, du 4 octobre 1974, portant
+    modification de l' annexe du règlement (CEE) n° 1980/74 déterminant la quantité
+    de pommes de terre nécessaire à la fabrication de 100 kilogrammes de fécule
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2552/74 der Kommission vom 4. Oktober 1974 zur Änderung
+    der Anlage der Verordnung (EWG) Nr. 1980/74 zur Feststellung der zur Herstellung
+    von 100 kg Kartoffelstärke nötigen Menge Kartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2552/74 af 4. oktober 1974 om ændring
+    af bilaget til forordning (EØF) nr. 1980/74 om fastsættelse af den mængde kartofler,
+    der er nødvendig til fremstilling af 100 kg kartoffelstivelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2552/74 della Commissione, del 4 ottobre 1974, che
+    modifica l' allegato al regolamento (CEE) n. 1980/74 che determina la quantità
+    di patate necessaria per la fabbricazione di 100 chilogrammi di fecola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2552/74 van de Commissie van 4 oktober 1974 tot wijziging
+    van de bijlage van Verordening (EEG) nr. 1980/74 houdende bepaling van de hoeveelheid
+    aardappelen die nodig is voor de vervaardiging van 100 kg zetmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2552
+docidentifier:
+- content: EU Regulation 2552/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2552
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2552/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-04'
+- type: implemented
+  at: '1974-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1980
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

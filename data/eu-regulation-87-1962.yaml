@@ -1,0 +1,67 @@
+---
+id: EURegulation871962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 87 de la Commission relatif à l'établissement des modalités
+    d'application concernant les certificats d'importation et d'exportation pour les
+    céréales et les produits céréaliers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 87 der Kommission über den ErlaD von Durchführungsbestimmungen
+    zu den Einfuhr- und Ausfuhrlizenzen für Getreide und Getreideerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 87 della Commissione relativo all'adozione delle modalità
+    di applicazione per i titoli d'importazione e di esportazione per i cereali e
+    i prodotti derivati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 87 van de Commissie houdende uitvoeringsbepalingen met
+    betrekking tot de invoer- en uitvoercertificaten voor graan en graanprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0087
+docidentifier:
+- content: EU Regulation 87/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0087
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/87/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

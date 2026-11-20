@@ -1,0 +1,79 @@
+---
+id: EUDecision1964623
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/623/CEE de la Commission, du 26 octobre 1964, portant nouvelle
+    modification de sa décision du 20 décembre 1963, autorisant la République italienne
+    à adopter des mesures de sauvegarde pour le plomb brut et le zinc brut
+  type: main
+- language: de
+  script: Latn
+  content: '64/623/EWG: Entscheidung der Kommission vom 26. Oktober 1964 zur erneuten
+    Änderung der Entscheidung vom 20. Dezember 1963, mit der die Italienische Republik
+    ermächtigt wird, Schutzmaßnahmen für Rohblei und für Rohzink anzuwenden'
+  type: main
+- language: it
+  script: Latn
+  content: '64/623/CEE: Decisione della Commissione, del 26 ottobre 1964, che modifica
+    nuovamente la sua decisione del 20 dicembre 1963, con la quale ha accordato alla
+    Repubblica italiana misure di salvaguardia per il piombo e lo zinco greggi'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/623/EEG: Beschikking van de Commissie van 26 oktober 1964 tot verdere
+    wijziging van haar beschikking van 20 december 1963, waarbij de Italiaanse Republiek
+    wordt gemachtigd tot het nemen van vrijwaringsmaatregelen voor ruw lood en ruw
+    zink'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0623
+docidentifier:
+- content: EU Decision 1964/623
+  type: EU
+  primary: true
+- content: CELEX 31964D0623
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/623/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0053
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

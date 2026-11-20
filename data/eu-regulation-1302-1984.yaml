@@ -1,0 +1,104 @@
+---
+id: EURegulation13021984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1302/84 of 7 May 1984 amending Regulation (EEC)
+    No 2968/83 introducing a common measure for the acceleration of collective irrigation
+    operations in Greece
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1302/84 du Conseil du 7 mai 1984 modifiant le règlement
+    (CEE) no 2968/83 instituant une action commune en faveur de l' accélération
+    des opérations collectives d' irrigation en Grèce
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1302/84 des Rates vom 7. Mai 1984 zur Änderung der
+    Verordnung (EWG) Nr. 2968/83 über eine gemeinsame Maßnahme zur Beschleunigung
+    der kollektiven Bewässerungsarbeiten in Griechenland
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1302/84 af 7. maj 1984 om ændring af forordning
+    (EØF) nr. 2968/83 om en fælles foranstaltning til fremskyndelse af kunstig vanding
+    på kollektivt grundlag i Grækenland
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1302/84 του Συμβουλίου
+    της 7ης Μαΐου 1984 για την τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 2968/83 για τη θέσπιση κοινής ενέργειας
+    για την επιτάχυνση των συλλογικών αρδευτικών
+    έργων στην Ελλάδα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1302/84 del Consiglio del 7 maggio 1984 che modifica
+    il regolamento (CEE) n. 2968/83 che instaura un' azione comune a favore dell'
+    accelerazione delle operazioni collettive d' irrigazione in Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1302/84 van de Raad van 7 mei 1984 tot wijziging
+    van Verordening (EEG) nr. 2968/83 tot instelling van een gemeenschappelijke actie
+    voor versnelde uitvoering van de collectieve irrigatiewerkzaamheden in Griekenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R1302
+docidentifier:
+- content: EU Regulation 1302/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R1302
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/1302/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-05-07'
+- type: implemented
+  at: '1984-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R2968
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

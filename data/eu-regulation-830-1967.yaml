@@ -1,0 +1,70 @@
+---
+id: EURegulation8301967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 830/67/CEE de la Commission du 9 novembre 1967 relatif aux
+    modalités concernant l'aide pour l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 830/67/EWG der Kommission vom 9. November 1967 über Einzelheiten
+    betreffend die Beihilfe für Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 830/67/CEE della Commissione, del 9 novembre 1967, relativo
+    alle modalità riguardanti l'integrazione per l'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 830/67/EEG van de Commissie van 9 november 1967 betreffende
+    de regeling inzake de steun voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0830
+docidentifier:
+- content: EU Regulation 830/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0830
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/830/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-09'
+- type: implemented
+  at: '1967-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

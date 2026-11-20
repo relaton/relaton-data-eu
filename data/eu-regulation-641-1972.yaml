@@ -1,0 +1,68 @@
+---
+id: EURegulation6411972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 641/72 de la Commission, du 29 mars 1972, fixant les
+    restitutions à la production pour le sucre blanc utilisé dans l'industrie chimique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 641/72 der Kommission vom 29. März 1972 zur Festsetzung
+    der Erstattungen bei der Erzeugung für in der chemischen Industrie verwendeten
+    WeiDzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 641/72 della Commissione, del 29 marzo 1972, che fissa
+    le restituzioni alla produzione per lo zucchero bianco utilizzato dall'industria
+    chimica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 641/72 van de Commissie van 29 maart 1972 houdende
+    vaststelling van de restitutie bij de produktie voor de in de chemische industrie
+    gebruikte witte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0641
+docidentifier:
+- content: EU Regulation 641/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0641
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/641/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

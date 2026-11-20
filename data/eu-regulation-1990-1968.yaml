@@ -1,0 +1,75 @@
+---
+id: EURegulation19901968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1990/68 du Conseil, du 9 décembre 1968, fixant les
+    majorations mensuelles du prix indicatif de marché, du prix d'intervention et
+    du prix de seuil de l'huile d'olive pour la campagne de commercialisation 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1990/68 des Rates vom 9. Dezember 1968 zur Festsetzung
+    der monatlichen Zuschläge zum Marktrichtpreis, zum Interventionspreis und zum
+    Schwellenpreis für Olivenöl im Wirtschaftsjahr 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1990/68 del Consiglio, del 9 dicembre 1968, che fissa
+    le maggiorazioni mensili del prezzo indicativo di mercato, del prezzo d'intervento
+    e del prezzo d'entrata dell'olio d'oliva per la campagna di commercializzazione
+    1968/1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1990/68 van de Raad van 9 december 1968 tot vaststelling
+    van de maandelijkse verhogingen van de marktrichtprijs, de interventieprijs en
+    de drempelprijs van olijfolie voor het verkoopseizoen 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1990
+docidentifier:
+- content: EU Regulation 1990/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1990
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1990/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-09'
+- type: implemented
+  at: '1968-12-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

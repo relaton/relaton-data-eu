@@ -1,0 +1,116 @@
+---
+id: EURegulation21341980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2134/80 of 8 August 1980 amending Regulations
+    (EEC) No 2226/78 and (EEC) No 1379/80 as regards the beef products which may be
+    taken into intervention in certain Member States, and their coefficients
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2134/80 de la Commission, du 8 août 1980, modifiant
+    les règlements (CEE) n° 2226/78 et (CEE) n° 1379/80 en ce qui concerne les
+    produits du secteur de la viande bovine pouvant faire l' objet d' achats à l'
+    intervention dans certains États membres ainsi que leurs coefficients
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2134/80 der Kommission vom 8. August 1980 zur Änderung
+    der Verordnungen (EWG) Nr. 2226/78 und (EWG) Nr. 1379/80 hinsichtlich der Erzeugnisse
+    des Rindfleischsektors, die Gegenstand von Interventionskäufen in einigen Mitgliedstaaten
+    sein können, sowie ihrer Koeffizienten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2134/80 af 8. august 1980 om ændring
+    af forordning (EØF) nr. 2226/78 og (EØF) nr. 1379/80 for så vidt angår oksekødsprodukter,
+    der kan opkøbes ved intervention i visse medlemsstater samt koefficienterne for
+    disse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2134/80 της Επιτροπής
+    της 8ης Αυγούστου 1980 περί τροποποιήσεως των
+    κανονισμών (ΕΟΚ) αριθ. 2226/78 και (ΕΟΚ) αριθ. 1379/80
+    όσον αφορά τα προϊόντα του τομέα του βοείου
+    κρέατος που δύνανται να αποτελέσουν το αντικείμενο
+    αγορών κατά την παρέμβαση σε ορισμένα κράτη
+    μέλη, καθώς και των συντελεστών τους
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2134/80 della Commissione, dell' 8 agosto 1980, che
+    modifica i regolamenti (CEE) n. 2226/78 e (CEE) n. 1379/80 per quanto concerne
+    i prodotti del settore delle carni bovine che possono formare oggetto di acquisti
+    all' intervento in taluni Stati membri nonché i loro coefficienti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2134/80 van de Commissie van 8 augustus 1980 tot
+    wijziging van de Verordeningen (EEG) nr. 2226/78 en (EEG) nr. 1379/80 met betrekking
+    tot de produkten van de sector rundvlees die in bepaalde Lid-Staten door de interventiebureaus
+    kunnen worden aangekocht en de daarvoor geldende coëfficiënten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2134
+docidentifier:
+- content: EU Regulation 2134/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2134
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2134/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-08-08'
+- type: implemented
+  at: '1980-08-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2226
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1379
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

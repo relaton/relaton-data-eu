@@ -1,0 +1,89 @@
+---
+id: EURegulation27191972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2719/72 of the Council of 19 December 1972 amending
+    Article 1 of Regulation (EEC) No 542/69 on Community transit
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2719/72 du Conseil, du 19 décembre 1972, modifiant
+    l' article 1er du règlement (CEE) n° 542/69 relatif au transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2719/72 des Rates vom 19. Dezember 1972 zur Änderung
+    von Artikel 1 der Verordnung (EWG) Nr. 542/69 über das gemeinschaftliche Versandverfahren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2719/72 af 19. december 1972 om ændring
+    af artikel I i forordning (EØF) nr. 542/69 om ordning for fællesskabsforsendelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2719/72 del Consiglio, del 19 dicembre 1972, che modifica
+    l' articolo 1 del regolamento (CEE) n. 542/69 relativo al transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2719/72 van de Raad van 19 december 1972 houdende
+    wijziging van artikel 1 van Verordening (EEG) nr. 542/69 betreffende communautair
+    douanevervoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2719
+docidentifier:
+- content: EU Regulation 2719/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2719
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2719/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+- type: implemented
+  at: '1972-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0542
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

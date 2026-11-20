@@ -1,0 +1,94 @@
+---
+id: EURegulation9821979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 982/79 of 8 May 1979 amending Regulation (EEC)
+    No 2753/78 laying down general rules in respect of production aid for olive oil
+    for the 1978/79 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 982/79 du Conseil, du 8 mai 1979, modifiant le règlement
+    (CEE) n° 2753/78 arrêtant, pour la campagne 1978/1979, les règles générales
+    relatives à l' aide à la production d' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 982/79 des Rates vom 8. Mai 1979 zur Änderung der
+    Verordnung (EWG) Nr. 2753/78 über die allgemeinen Durchführungsvorschriften
+    für die Erzeugungsbeihilfe für Olivenöl für das Wirtschaftsjahr 1978/79
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 982/79 af 8. maj 1979 om ændring af forordning
+    (EØF) nr. 2753/78 om fastsættelse af almindelige bestemmelser vedrørende produktionsstøtte
+    for olivenolie for produktionsåret 1978/79
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 982/79 del Consiglio, dell' 8 maggio 1979, che modifica
+    il regolamento (CEE) n. 2753/78 che stabilisce, per la campagna 1978/1979, le
+    norme generali relative all' aiuto alla produzione di olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 982/79 van de Raad van 8 mei 1979 houdende wijziging
+    van Verordening (EEG) nr. 2753/78 tot vaststelling, voor het verkoopseizoen 1978/1979,
+    van de algemene voorschriften inzake de produktiesteun voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0982
+docidentifier:
+- content: EU Regulation 982/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0982
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/982/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-05-08'
+- type: implemented
+  at: '1979-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2753
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

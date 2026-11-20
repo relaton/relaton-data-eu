@@ -1,0 +1,73 @@
+---
+id: EURegulation28651972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2865/72 du Conseil, du 19 décembre 1972, portant
+    conclusion d'un accord entre la Communauté économique européenne et la République
+    arabe d'Égypte et arrêtant des dispositions pour son application
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2865/72 des Rates vom 19. Dezember 1972 über den
+    Abschluß eines Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und
+    der Arabischen Republik Ägypten sowie zur Festlegung von Durchführungsbestimmungen
+    zu diesem Abkommen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2865/72 del Consiglio, del 19 dicembre 1972, relativo
+    alla conclusione di un accordo tra la Comunità economica europea e la Repubblica
+    araba d'Egitto ed alle disposizioni per la sua applicazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2865/72 van de Raad van 19 december 1972 houdende
+    sluiting van een Overeenkomst tussen de Europese Economische Gemeenschap en de
+    Arabische Republiek Egypte en tot vaststelling van de uitvoeringsbepalingen daarvan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2865
+docidentifier:
+- content: EU Regulation 2865/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2865
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2865/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

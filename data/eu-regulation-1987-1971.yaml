@@ -1,0 +1,98 @@
+---
+id: EURegulation19871971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1987/71 of the Commission of 14 September 1971 amending
+    Regulation (EEC) No 1025/68 fixing the coefficients for calculating the levy on
+    beef and veal other than frozen, as regards certain definitions
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1987/71 de la Commission, du 14 septembre 1971, modifiant
+    le règlement (CEE) n° 1025/68 fixant des coefficients servant au calcul du prélèvement
+    pour les viandes bovines autres que la viande congelée en ce qui concerne certaines
+    définitions
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1987/71 der Kommission vom 14. September 1971 zur
+    Änderung der Verordnung (EWG) Nr. 1025/68 zur Festsetzung der Koeffizienten für
+    die Berechnung der Abschöpfung auf Rindfleisch, ausgenommen gefrorenes Rindfleisch,
+    betreffend gewisse Definitionen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1987/71 af 14. september 1971 om ændring
+    af forordning (EØF) nr. 1025/68 om fastsættelse af koefficienterne til beregning
+    af importafgift for oksekød med undtagelse af frosset oksekød, for så vidt
+    angår visse definitioner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1987/71 della Commissione, del 14 settembre 1971,
+    che modifica, per quanto riguarda alcune definizioni, il regolamento (CEE) n.
+    1025/68 che fissa i coefficienti per il calcolo del prelievo per le carni bovine
+    diverse dalla carne bovina congelata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1987/71 van de Commissie van 14 september 1971 houdende
+    wijziging van Verordening (EEG) nr. 1025/68 houdende vaststelling van de coëfficiënten
+    voor de berekening van de heffing op rundvlees ander dan bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1987
+docidentifier:
+- content: EU Regulation 1987/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1987
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1987/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-09-14'
+- type: implemented
+  at: '1971-09-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1025
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation15551971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1555/71 of the Council of 19 July 1971 amending Regulation
+    No 362/67/EEC as regards the yield from the processing of paddy rice into milled
+    rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1555/71 du Conseil, du 19 juillet 1971, modifiant
+    le règlement n° 362/67/CEE en ce qui concerne le rendement à l' usinage du
+    riz paddy en riz blanchi
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1555/71 des Rates vom 19. Juli 1971 zur Änderung
+    der Verordnung Nr. 362/67/EWG hinsichtlich der Ausbeute bei der Verarbeitung von
+    Rohreis zu vollständig geschliffenem Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1555/71 af 19. juli 1971 om ændring af forordning
+    nr. 362/67/EØF med hensyn til udbyttet ved forarbejdning af uafskallet ris til
+    sleben ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1555/71 del Consiglio, del 19 luglio 1971, che modifica
+    il regolamento n. 362/67/CEE per quanto riguarda la resa alla lavorazione del
+    risone in riso lavorato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1555/71 van de Raad van 19 juli 1971 houdende wijziging
+    van Verordening nr. 362/67/EEG ten aanzien van het rendement bij bewerking van
+    padie tot volwitte rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1555
+docidentifier:
+- content: EU Regulation 1555/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1555
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1555/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-19'
+- type: implemented
+  at: '1971-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0362
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

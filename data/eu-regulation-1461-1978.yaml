@@ -1,0 +1,101 @@
+---
+id: EURegulation14611978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (Euratom, ECSC, EEC) No 1461/78 of 26 June 1978 adjusting
+    the weightings applied to the remuneration and pensions of officials and other
+    servants of the European Communities
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom, CECA, CEE) n° 1461/78 du Conseil, du 26 juin 1978,
+    portant adaptation des coefficients correcteurs dont sont affectées les rémunérations
+    et pensions des fonctionnaires et autres agents des Communautés européennes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom, EGKS, EWG) Nr. 1461/78 des Rates vom 26. Juni 1978
+    zur Anpassung der Berichtigungskoeffizienten, die auf die Dienst- und Versorgungsbezüge
+    der Beamten und sonstigen Bediensteten der Europáischen Gemeinschaften angewendet
+    werden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (Euratom, EKSF, EØF) nr. 1461/78 af 26. juni 1978 om
+    tilpasning af justeringskoefficienterne for vederlag og pensioner til tjenestemænd
+    og øvrige ansatte i De europæiske Fællesskaber
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom, CECA, CEE) n. 1461/78 del Consiglio, del 26 giugno
+    1978, per l' adeguamento dei coefficienti correttori applicabili alle retribuzioni
+    ed alle pensioni dei funzionari e degli altri agenti delle Comunità europee
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom, EGKS, EEG) nr. 1461/78 van de Raad van 26 juni 1978
+    tot wijziging van de aanpassingscoëfficiënten welke van toepassing zijn op de
+    bezoldigingen en de pensioenen van de ambtenaren en andere personeelsleden van
+    de Europese Gemeenschappen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1461
+docidentifier:
+- content: EU Regulation 1461/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1461
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1461/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-26'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2859
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0260
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

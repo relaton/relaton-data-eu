@@ -1,0 +1,77 @@
+---
+id: EUDecision196728
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 67/28/CEE de la Commission, du 1er décembre 1966, portant octroi
+    d'un contingent tarifaire au Royaume des Pays-Bas pour le ferrochrome contenant
+    en poids 0,10 % ou moins de carbone et de 30 % exclus à 90 % inclus de chrome
+  type: main
+- language: de
+  script: Latn
+  content: '67/28/EWG: Entscheidung der Kommission vom 1. Dezember 1966 über die
+    Gewährung eines Zollkontingents für Ferrochrom mit einem Gehalt an Kohlenstoff
+    von 0,10 Gewichtshundertteilen oder weniger und an Chrom von mehr als 30 bis 90
+    Gewichtshundertteilen an das Königreich der Niederlande'
+  type: main
+- language: it
+  script: Latn
+  content: '67/28/CEE: Decisione della Commissione, del 1 dicembre 1966, relativa
+    alla concessione di un contingente tariffario al Regno dei Paesi Bassi per il
+    ferro-cromo contenente, in peso, lo 0,10 % o meno di carbonio e dal 30 % escluso
+    al 90% incluso di cromo'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/28/EEG: Beschikking van de Commissie van 1 december 1966 houdende toekenning
+    van een tariefcontingent aan het Koninkrijk der Nederlanden voor ferrochroom,
+    bevattende ten hoogste 0,10 gewichtspercent koolstof en meer dan 30 gewichtspercenten
+    doch niet meer dan 90 gewichtspercenten chroom'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0028
+docidentifier:
+- content: EU Decision 1967/28
+  type: EU
+  primary: true
+- content: CELEX 31967D0028
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/28/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-01'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

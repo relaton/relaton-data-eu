@@ -1,0 +1,78 @@
+---
+id: EURegulation28251971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2825/71 du Conseil, du 20 décembre 1971, portant
+    ouverture, répartition et mode de gestion de contingents tarifaires communautaires
+    pour le plomb d'oeuvre et le plomb brut autre que le plomb d'oeuvre des sous-positions
+    78.01 A I et A II du tarif douanier commun (année 1972)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2825/71 des Rates vom 20. Dezember 1971 über die
+    Eröffnung, Aufteilung und Verwaltung von Gemeinschaftszollkontingenten für Werkblei
+    und Rohblei außer Werkblei der Tarifstellen 78.01 A I und A II des Gemeinsamen
+    Zolltarifs (1972)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2825/71 del Consiglio, del 20 dicembre 1971, relativo
+    all'apertura, alla ripartizione e alle modalità di gestione di contingenti tariffari
+    comunitari per il piombo d'opera ed il piombo greggio diverso dal piombo d'opera
+    delle sottovoci 78.01 A I e A II della tariffa doganale comune (anno 1972)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2825/71 van de Raad van 20 december 1971 betreffende
+    de opening, de verdeling en de wijze van beheer van communautaire tariefcontingenten
+    voor werklood en ander ruw lood dan werklood van de onderverdelingen 78.01 A I
+    en A II van het gemeenschappelijk douanetarief (jaar 1972)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2825
+docidentifier:
+- content: EU Regulation 2825/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2825
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2825/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-20'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

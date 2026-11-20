@@ -1,0 +1,65 @@
+---
+id: EURegulation1551964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 155/64/CEE de la Commission, du 28 octobre 1964, concernant
+    l'application des prix franco frontière du beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 155/64/EWG der Kommission vom 28. Oktober 1964 über die
+    Anwendung der Frei-Grenze-Preise bei Butter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 155/64/CEE della Commissione, del 28 ottobre 1964, relativo
+    all'applicazione dei prezzi franco frontiera del burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 155/64/EEG van de Commissie van 28 oktober 1964 betreffende
+    de toepassing van de prijzen franco-grens voor boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0155
+docidentifier:
+- content: EU Regulation 155/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0155
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/155/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

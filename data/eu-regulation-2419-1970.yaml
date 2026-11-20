@@ -1,0 +1,83 @@
+---
+id: EURegulation24191970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2419/70 de la Commission, du 30 novembre 1970, fixant
+    en modifiant le règlement (CEE) n° 1437/70, le montant de l'aide au stockage
+    privé pour le vin de table pour la période allant du 1er décembre 1970 au 30
+    novembre 1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2419/70 der Kommission vom 30. November 1970 zur Festsetzung
+    der Höhe der Beihilfe für die private Lagerhaltung bei Tafelwein für den Zeitraum
+    vom 1. Dezember 1970 bis 30. November 1971 durch Änderung der Verordnung (EWG)
+    Nr. 1437/70
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2419/70 della Commissione, del 30 novembre 1970, che
+    fissa, modificando il regolamento (CEE) n. 1437/70, l'importo dell'aiuto al magazzinaggio
+    privato del vino da pasto per il periodo dal 1 dicembre 1970 al 30 novembre 1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2419/70 van de Commissie van 30 november 1970 houdende
+    wijziging van Verordening (EEG) nr. 1437/70 met het oog op de vaststelling van
+    de steun aan de particuliere opslag voor tafelwijn voor het tijdvak van 1 december
+    1970 tot en met 30 november 1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2419
+docidentifier:
+- content: EU Regulation 2419/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2419
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2419/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-30'
+- type: implemented
+  at: '1970-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1437
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

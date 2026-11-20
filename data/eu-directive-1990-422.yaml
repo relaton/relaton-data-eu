@@ -1,0 +1,125 @@
+---
+id: EUDirective1990422
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 90/422/EEC of 26 june 1990 amending Directive 64/432/EEC
+    as regards enzootic bovine leukosis
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 90/422/CEE du Conseil, du 26 juin 1990, modifiant la directive
+    64/432/CEE en ce qui concerne la leucose bovine enzootique
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 90/422/EWG des Rates vom 26. Juni 1990 zur Änderung der Richtlinie
+    64/432/EWG in bezug auf die enzootische rinderleukose
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 90/422/EØF af 26. juni 1990 om Ændring af direktiv 64/432/EØF
+    for så vidt angår enzootisk kvægleukose
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 90/422/ΕΟΚ του Συμβουλίου της 26ης Ιουνίου
+    1990 για την τροποποίηση της οδηγίας 64/432/ΕΟΚ
+    όσον αφορά την ενζωοτική λεύκωση των βοοειδών
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 90/422/ETY, annettu 26 päivänä kesäkuuta 1990,
+    direktiivin 64/432/ETY muuttamisesta nautaeläinten tarttuvan leukoosin osalta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 90/422/CEE del Consiglio, del 26 giugno 1990, che modifica la
+    Direttiva 64/432/CEE per quanto concerne la leucosi bovina enzootica
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 90/422/EEG van de Raad van 26 juni 1990 tot wijziging van Richtlijn
+    64/432/EEG ten aanzien van endemische runderleukose
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 90/422/CEE do Conselho, de 26 de Junho de 1990, que altera a
+    Directiva 64/432/CEE no que diz respeito a leucose bovina enzootica
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 90/422/CEE del Consejo, de 26 de junio de 1990, por la que se
+    modifica la Directiva 64/432/CEE en lo referente a la leucosis enzootica bovina
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 90/422/EEG av den 26 juni 1990 om ändring av direktiv
+    64/432/EEG i fråga om enzootisk bovin leukos
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31990L0422
+docidentifier:
+- content: EU Directive 1990/422
+  type: EU
+  primary: true
+- content: CELEX 31990L0422
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1990/422/oj
+  type: ELI
+date:
+- type: issued
+  at: '1990-06-26'
+- type: implemented
+  at: '1990-07-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964L0432
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988L0406
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

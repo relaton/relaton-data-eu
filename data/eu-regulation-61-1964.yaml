@@ -1,0 +1,70 @@
+---
+id: EURegulation611964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 61/64/CEE du Conseil, du 3 juin 1964, relatif à la définition
+    du beurre de première qualité au sens du règlement n° 13/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 61/64/EWG des Rates vom 3. Juni 1964 zur Definition von
+    Butter der ersten Qualität im Sinne der Verordnung Nr. 13/64/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 61/64/CEE del Consiglio, del 3 giugno 1964, relativo alla
+    definizione del burro di prima qualità ai sensi del regolamento n. 13/64/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 61/64/EEG van de Raad van 3 juni 1964 inzake de omschrijving
+    van boter van eerste kwaliteit in de zin van Verordening Nr. 13/64/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0061
+docidentifier:
+- content: EU Regulation 61/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0061
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/61/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-03'
+- type: implemented
+  at: '1964-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

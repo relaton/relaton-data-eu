@@ -1,0 +1,77 @@
+---
+id: EURegulation12051972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1205/72 de la Commission, du 8 juin 1972, modifiant
+    le taux de la restitution à l'exportation fixé à l'avance en ce qui concerne
+    certains produits agricoles exportés sous forme de certaines marchandises ne
+    relevant pas de l'annexe II du Traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1205/72 der Kommission vom 8. Juni 1972 zur Änderung
+    des im voraus festgesetzten Ausfuhrerstattungsbetrags für bestimmte landwirtschaftliche
+    Erzeugnisse, die in Form von bestimmten Waren ausgeführt werden, die nicht unter
+    Anhang II des Vertrages fallen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1205/72 della Commissione, dell'8 giugno 1972, che
+    modifica il tasso delle restituzioni all'esportazione fissato in anticipo per
+    certi prodotti agricoli esportati sotto forma di merci non comprese nell'allegato
+    II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1205/72 van de Commissie van 8 juni 1972 houdende
+    wijziging van de vooraf vastgestelde restituties bij uitvoer van bepaalde landbouwprodukten
+    in de vorm van bepaalde niet onder bijlage II van het Verdrag vallende goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1205
+docidentifier:
+- content: EU Regulation 1205/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1205
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1205/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-08'
+- type: implemented
+  at: '1972-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

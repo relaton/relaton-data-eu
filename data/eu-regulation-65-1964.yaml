@@ -1,0 +1,65 @@
+---
+id: EURegulation651964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 65/64/CEE de la Commission, du 16 juin 1964, fixant les prix
+    de référence pour les citrons
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 65/64/EWG der Kommission vom 16. Juni 1964 zur Festsetzung
+    von Referenzpreisen für Zitronen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 65/64/CEE della Commissione, del 16 giugno 1964, che fissa
+    i prezzi di riferimento per i limoni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 65/64/EEG van de Commissie van 16 juni 1964 houdende vaststelling
+    van de referentieprijzen voor citroenen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0065
+docidentifier:
+- content: EU Regulation 65/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0065
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/65/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

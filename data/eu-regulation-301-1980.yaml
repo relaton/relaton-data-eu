@@ -1,0 +1,96 @@
+---
+id: EURegulation3011980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 301/80 of 8 February 1980 amending, as regards
+    the issue in the beef and veal sector of export licences with advance fixing of
+    refunds, Regulation (EEC) No 571/78
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 301/80 de la Commission, du 8 février 1980, modifiant
+    le règlement (CEE) n° 571/78 en ce qui concerne la délivrance des certificats
+    d' exportation comportant une fixation à l' avance des restitutions dans le secteur
+    de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 301/80 der Kommission vom 8. Februar 1980 zur Änderung
+    der Verordnung (EWG) Nr. 571/78 bezüglich der Ausstellung der Ausfuhrlizenzen
+    mit Vorausfestsetzung der Erstattung auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 301/80 af 8. februar 1980 om ændring
+    af forordning (EØF) nr. 571/78 for så vidt angår udstedelse af eksportlicencer
+    med forudfastsættelse af restitutionerne for oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 301/80 della Commissione, dell' 8 febbraio 1980, recante
+    modifica del regolamento (CEE) n. 571/78 concernente il rilascio dei titoli di
+    esportazione implicanti la fissazione anticipata delle restituzioni nel settore
+    della carne bovina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 301/80 van de Commissie van 8 februari 1980 tot wijziging
+    van Verordening (EEG) nr. 571/78, ten aanzien van de afgifte van uitvoercertificaten
+    met vaststelling vooraf van de restitutie, in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0301
+docidentifier:
+- content: EU Regulation 301/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0301
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/301/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-02-08'
+- type: implemented
+  at: '1980-02-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R0571
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

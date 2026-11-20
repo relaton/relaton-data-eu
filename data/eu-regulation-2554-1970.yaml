@@ -1,0 +1,93 @@
+---
+id: EURegulation25541970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2554/70 of the Council of 15 December 1970 amending
+    Article 17 of Regulation No 136/66/EEC which deals with import and export licences
+    for oils and fats
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2554/70 du Conseil, du 15 décembre 1970, modifiant
+    l' article 17 du règlement n° 136/66/CEE, relatif aux certificats d' importation
+    et d' exportation dans le secteur des matières grasses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2554/70 des Rates vom 15. Dezember 1970 zur Änderung
+    des Einfuhr- und Ausfuhrlizenzen für Fette betreffenden Artikels 17 der Verordnung
+    Nr. 136/66/EWG
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2554/70 af 15. december 1970 om ændring
+    af artikel 17 i forordning nr. 136/66/EØF om import- og eksportlicenser for fedtstoffer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2554/70 del Consiglio, del 15 dicembre 1970, che modifica
+    l' articolo 17 del regolamento n. 136/66/CEE relativo ai titoli d' importazione
+    e d' esportazione nel settore delle materie grasse
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2554/70 van de Raad van 15 december 1970 houdende
+    wijziging van artikel 17 van Verordening nr. 136/66/EEG betreffende de in- en
+    uitvoercertificaten in de sector oliën en vetten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2554
+docidentifier:
+- content: EU Regulation 2554/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2554
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2554/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0136
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

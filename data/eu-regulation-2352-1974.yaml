@@ -1,0 +1,94 @@
+---
+id: EURegulation23521974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2352/74 of the Commission of 13 September 1974 amending
+    Regulation (EEC) No 2263/74 as regards certain conditions for the private storage
+    of pecorino romano cheese
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2352/74 de la Commission, du 13 septembre 1974, modifiant
+    le règlement (CEE) n° 2263/74 en ce qui concerne certaines conditions du stockage
+    privé du fromage pecorino romano
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2352/74 der Kommission vom 13. September 1974 zur
+    Änderung der Verordnung (EWG) Nr. 2263/74 hinsichtlich der Bedingungen für die
+    private Lagerhaltung der Käsesorte Pecorino romano
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2352/74 af 13. september 1974 om ændring
+    af forordning (EØF) nr. 2263/74 om visse betingelser for privat oplagring af
+    Pecorino-Romano-ost
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2352/74 della Commissione, del 13 settembre 1974,
+    che modifica il regolamento (CEE) n. 2263/74 per quanto riguarda alcune condizioni
+    dell'ammasso privato del Pecorino romano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2352/74 van de Commissie van 13 september 1974 houdende
+    wijziging van Verordening (EEG) nr. 2263/74 met betrekking tot bepaalde voorwaarden
+    voor de particuliere opslag van Pecorino romano-kaas
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2352
+docidentifier:
+- content: EU Regulation 2352/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2352
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2352/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-09-13'
+- type: implemented
+  at: '1974-09-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2263
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

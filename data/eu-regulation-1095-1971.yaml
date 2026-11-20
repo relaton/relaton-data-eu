@@ -1,0 +1,76 @@
+---
+id: EURegulation10951971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1095/71 de la Commission, du 27 mai 1971, relatif
+    à la constatation qu'il peut être donné suite aux demandes déposées en vue
+    de l'obtention des primes à la non-commercialisation du lait et des produits
+    laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1095/71 der Kommission vom 27. Mai 1971 zur Feststellung,
+    daß den zur Erlangung der Prämien für die Nichtvermarktung von Milch und Milcherzeugnissen
+    eingereichten Anträgen stattgegeben werden kann
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1095/71 della Commissione, del 27 maggio 1971, che
+    constata la possibilità di dar seguito alle domande presentate per ottenere i
+    premi alla non commercializzazione del latte e dei prodotti lattiero- caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1095/71 van de Commissie van 27 mei 1971 met betrekking
+    tot de constatering, dat gevolg gegeven kan worden aan de verzoeken die ter verkrijging
+    van premies voor het niet in de handel brengen van melk en zuivelprodukten werden
+    ingediend
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1095
+docidentifier:
+- content: EU Regulation 1095/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1095
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1095/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-27'
+- type: implemented
+  at: '1971-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

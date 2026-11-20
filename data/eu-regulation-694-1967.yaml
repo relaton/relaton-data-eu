@@ -1,0 +1,91 @@
+---
+id: EURegulation6941967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 694/67/EEC of the Commission of 10 October 1967 redefining
+    the destination zones for export refunds on cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 694/67/CEE de la Commission, du 10 octobre 1967, portant
+    nouvelle délimitation des zones de destination pour les restitutions à l' exportation
+    dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 694/67/EWG der Kommission vom 10. Oktober 1967 über eine
+    neue Begrenzung der Bestimmungszonen für die Ausfuhrerstattungen für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning nr. 694/67/EØF af 10. oktober 1967 om ny begrænsning
+    af destinationszonerene for eksportrestitutioner for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 694/67/CEE della Commissione, del 10 ottobre 1967, relativo
+    alla nuova delimitazione di alcune zone di destinazione delle restituzioni all'
+    esportazione nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 694/67/EEG van de Commissie van 10 oktober 1967 houdende
+    een nieuwe afbakening van de zones van bestemming voor de restituties bij uitvoer
+    in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0694
+docidentifier:
+- content: EU Regulation 694/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0694
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/694/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-10'
+- type: implemented
+  at: '1967-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0350
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

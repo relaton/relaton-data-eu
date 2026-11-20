@@ -1,0 +1,95 @@
+---
+id: EURegulation16011974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1601/74 of the Council of 29 April 1974 amending Regulation
+    (EEC) No 239/73 on the marketing price for sugar imported into the United Kingdom
+    under the terms of the Commonwealth Sugar Agreement
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1601/74 du Conseil, du 29 avril 1974, modifiant le
+    règlement (CEE) n° 239/73 relatif au prix d'écoulement du sucre importé au
+    Royaume-Uni dans le cadre de l'accord du Commonwealth sur le sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1601/74 des Rates vom 29. April 1974 zur Änderung
+    der Verordnung (EWG) Nr. 239/73 betreffend den Preis für den Absatz von im Rahmen
+    des Commonwealth-Zuckerabkommens in das Vereinigte Königreich eingeführtem Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1601/74 af 29. april 1974 om ændring af
+    forordning (EØF) nr. 239/73 om afsætningsprisen for sukker, indført i Det forenede
+    Kongerige, inden for rammerne af Commonwealth-aftalen om sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1601/74 del Consiglio, del 29 aprile 1974, che modifica
+    il regolamento (CEE) n. 239/73 relativo al prezzo di smercio dello zucchero importato
+    nel Regno Unito nell'ambito dell'accordo del Commonwealth sullo zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1601/74 van de Raad van 29 april 1974 tot wijziging
+    van Verordening (EEG) nr. 239/73 betreffende de prijs voor de afzet van suiker
+    die in het Verenigd Koninkrijk wordt ingevoerd in het kader van de Suikerovereenkomst
+    van het Gemenebest
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1601
+docidentifier:
+- content: EU Regulation 1601/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1601
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1601/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-29'
+- type: implemented
+  at: '1974-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0239
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

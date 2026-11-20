@@ -1,0 +1,94 @@
+---
+id: EURegulation26131970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2613/70 of the Council of 15 December 1970 amending
+    Annex I to Regulation (EEC) No 865/68 in respect of certain products falling within
+    sub-heading No 20.07 A of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2613/70 du Conseil, du 15 décembre 1970, modifiant
+    l' annexe I du règlement (CEE) n° 865/68 en ce qui concerne certains produits
+    de la sous-position 20.07 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2613/70 des Rates vom 15. Dezember 1970 zur Änderung
+    des Anhangs I der Verordnung (EWG) Nr. 865/68 in bezug auf bestimmte Erzeugnisse
+    der Tarifstelle 20.07 A des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 2613/70/EØF af 15. december 1970 om ændring af
+    bilag I til forordning nr. 865/68/EØF med hensyn til visse varer under position
+    20.07 A i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2613/70 del Consiglio, del 15 dicembre 1970, che modifica
+    l' allegato I del regolamento (CEE) n. 865/68 per quanto concerne alcuni prodotti
+    della sottovoce 20.07 A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2613/70 van de Raad van 15 december 1970 tot wijziging
+    van bijlage I van Verordening (EEG) nr. 865/68 voor wat bepaalde produkten van
+    onderverdeling 20.07 A van het gemeenschappelijk douanetarief betreft
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2613
+docidentifier:
+- content: EU Regulation 2613/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2613
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2613/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+- type: implemented
+  at: '1971-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0865
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

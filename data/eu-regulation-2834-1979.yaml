@@ -1,0 +1,104 @@
+---
+id: EURegulation28341979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2834/79 of 14 December 1979 amending the
+    moisture rate and the date of the award of the contract laid down in Regulations
+    (EEC) No 2698/79 and (EEC) No 2699/79 for the mobilization of common wheat flour
+    as food aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2834/79 de la Commission, du 14 décembre 1979, modifiant
+    le taux d' humidité et la date d' adjudication prévus par les règlements (CEE)
+    n° 2698/79 et (CEE) n° 2699/79 pour la mobilisation de farine de froment tendre
+    à titre d' aide
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2834/79 der Kommission vom 14. Dezember 1979 zur Änderung
+    des Feuchtigkeitsgehalts und des Ausschreibungsdatums, die in den Verordnungen
+    (EWG) Nr. 2698/79 und (EWG) Nr. 2699/79 für die Bereitstellung von Weichweizenmehl
+    im Rahmen der Nahrungsmittelhilfe vorgesehen sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2834/79 af 14. december 1979 om ændring
+    af fugtighedsgrad og licitationsdato i forordning (EØF) nr. 2698/79 og (EØF)
+    nr. 2699/79 vedrørende tilvejebringelse af blød hvede som fødevarehjælp
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2834/79 della Commissione, del 14 dicembre 1979, che
+    modifica il tasso di umidità e la data della gara di cui ai regolamenti (CEE)
+    n. 2698/79 e (CEE) n. 2699/79 per la mobilitazione di farina di frumento tenero
+    a titolo di aiuto alimentare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2834/79 van de Commissie van 14 december 1979 tot
+    wijziging van het vochtgehalte en de inschrijvingsdatum als bedoeld in de Verordeningen
+    (EEG) nr. 2698/79 en (EEG) nr. 2699/79 inzake de beschikbaarstelling van meel
+    van zachte tarwe als voedselhulp
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2834
+docidentifier:
+- content: EU Regulation 2834/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2834
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2834/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-12-14'
+- type: implemented
+  at: '1979-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2698
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2699
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

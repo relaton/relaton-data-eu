@@ -1,0 +1,105 @@
+---
+id: EURegulation13141980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1314/80 of 28 May 1980 amending Annex IV to
+    Regulation (EEC) No 516/77 on the common organization of the market in products
+    processed from fruit and vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1314/80 du Conseil, du 28 mai 1980, modifiant l' annexe
+    IV du règlement (CEE) n° 516/77 portant organisation commune des marchés dans
+    le secteur des produits transformés à base de fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1314/80 des Rates vom 28. Mai 1980 zur Änderung von
+    Anhang IV der Verordnung (EWG) Nr. 516/77 über die gemeinsame Marktorganisation
+    für Verarbeitungserzeugnisse aus Obst und Gemüse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1314/80 af 28. maj 1980 om ændring af bilag
+    IV til forordning (EØF) nr. 516/77 om den fælles markedsordning for produkter
+    forarbejdet på basis af frugt og grønsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1314/80 τού Συμβουλίου
+    τής 28ης Μαΐου 1980 περί τροποποιήσεως τού παραρτήματος
+    τού κανονισμού (ΕΟΚ) αριθ. 516/77 «περί κοινής
+    οργανώσεως αγοράς στόν τομέα τών μεταποιημένων
+    οπωροκηπευτικών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1314/80 del Consiglio, del 28 maggio 1980, che modifica
+    l' allegato IV del regolamento (CEE) n. 516/77 relativo all' organizzazione comune
+    dei mercati nel settore dei prodotti trasformati a base di ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1314/80 van de Raad van 28 mei 1980 tot wijziging
+    van bijlage IV van Verordening (EEG) nr. 516/77 houdende een gemeenschappelijke
+    ordening der markten in de sector van op basis van groenten en fruit verwerkte
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1314
+docidentifier:
+- content: EU Regulation 1314/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1314
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1314/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-05-28'
+- type: implemented
+  at: '1980-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0516
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

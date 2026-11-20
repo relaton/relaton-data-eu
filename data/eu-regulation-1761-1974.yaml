@@ -1,0 +1,94 @@
+---
+id: EURegulation17611974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1761/74 of the Council of 27 June 1974 amending Council
+    Regulation (EEC) No 2397/71 of 8 November 1971 on aid which may qualify for assistance
+    from the European Social Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1761/74 du Conseil, du 27 juin 1974, modifiant le
+    règlement (CEE) n° 2397/71 relatif aux aides susceptibles de faire l' objet
+    d' un concours du Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1761/74 des Rates vom 27. Juni 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2397/71 über die Beihilfen, zu denen Zuschüsse aus
+    dem Europäischen Sozialfonds gewährt werden können
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning nr. 1761/74 af 27. juni 1974 om ændring af forordning
+    (EØF) nr. 2397/71 om de ydelser, hvortil Den europæiske Socialfond kan give
+    tilskud
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1761/74 del Consiglio, del 27 giugno 1974, che modifica
+    il regolamento (CEE) n. 2397/71 relativo alle provvidenze per le quali é previsto
+    il contributo del Fondo sociale europeo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1761/74 van de Raad van 27 juni 1974 tot wijziging
+    van Verordening (EEG) nr. 2397/71 betreffende de vormen van steun die in aanmerking
+    kunnen komen voor bijstand van het Europees Sociaal Fonds
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1761
+docidentifier:
+- content: EU Regulation 1761/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1761
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1761/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-27'
+- type: implemented
+  at: '1974-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2397
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

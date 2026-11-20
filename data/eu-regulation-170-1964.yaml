@@ -1,0 +1,71 @@
+---
+id: EURegulation1701964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 170/64/CEE de la Commission, du 30 octobre 1964, prévoyant
+    des mesures en ce qui concerne les certificats d'importation et d'exportation
+    ainsi que la fixation à l'avance du prélèvement et de la restitution pour certaines
+    catégories d'aliments composés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 170/64/EWG der Kommission vom 30. Oktober 1964 über die
+    Einfuhr- und Ausfuhrlizenzen sowie über die Vorausfestsetzung der Abschöpfungs-
+    und Erstattungsbeträge für bestimmte Mischfutterarten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 170/64/CEE della Commissione, del 30 ottobre 1964, recante
+    disposizioni concernenti i titoli di importazione e di esportazione, nonché la
+    fissazione in via anticipata del prelievo e della restituzione per alcune categorie
+    di alimenti composti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 170/64/EEG van de Commissie van 30 oktober 1964 houdende
+    maatregelen inzake invoer- en uitvoercertificaten, alsmede vaststelling vooraf
+    van de heffing en de restitutie voor bepaalde soorten mengvoeders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0170
+docidentifier:
+- content: EU Regulation 170/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0170
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/170/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

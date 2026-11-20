@@ -1,0 +1,74 @@
+---
+id: EURegulation16091971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1609/71 de la Commission, du 26 juillet 1971, déterminant
+    les centres de commercialisation du riz, autres qu'Arles et Vercelli, pour la
+    campagne 1971/1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1609/71 der Kommission vom 26. Juli 1971 zur Bestimmung
+    der Handelsplätze für Reis, außer Arles und Vercelli, für das Wirtschaftsjahr
+    1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1609/71 della Commissione, del 26 luglio 1971, che
+    determina i centri di commercializzazione del riso diversi da Arles e Vercelli
+    per la campagna 1971/1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1609/71 van de Commissie van 26 juli 1971 houdende
+    vaststelling van de andere commercialisatiecentra voor rijst dan Arles en Vercelli,
+    voor het verkoopseizoen 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1609
+docidentifier:
+- content: EU Regulation 1609/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1609
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1609/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

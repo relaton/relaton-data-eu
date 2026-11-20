@@ -1,0 +1,84 @@
+---
+id: EUDecision1964255
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission 64/255/CEE, du 2 avril 1964, portant modification
+    de sa décision du 28 novembre 1963, autorisant la perception de taxes compensatoires
+    à l'importation, dans la République française, de glucose (dextrose) en provenance
+    de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '64/255/EWG: Entscheidung der Kommission vom 2. April 1964 zur Änderung
+    ihrer Entscheidung vom 28. November 1963 über die Erhebung einer Ausgleichsabgabe
+    bei der Einfuhr von Glukose (Dextrose) aus verschiedenen Mitgliedstaaten in die
+    Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '64/255/CEE: Decisione della Commissione, del 2 aprile 1964, che modifica
+    la decisione della Commissione del 28 novembre 1963, con cui si autorizza la riscossione
+    di tasse di compensazione all''importazione nella Repubblica francese di glucosio
+    (destrosio) in provenienza da taluni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/255/EEG: Beschikking van de Commissie van 2 april 1964 tot wijziging
+    van haar beschikking van 28 november 1963 houdende machtiging tot het leggen van
+    compenserende heffingen op de invoer in de Franse Republiek van glucose (dextrose)
+    uit bepaalde Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0255
+docidentifier:
+- content: EU Decision 1964/255
+  type: EU
+  primary: true
+- content: CELEX 31964D0255
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/255/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-04-02'
+- type: implemented
+  at: '1964-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963D0664
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

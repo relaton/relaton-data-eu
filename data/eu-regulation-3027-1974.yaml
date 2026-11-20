@@ -1,0 +1,91 @@
+---
+id: EURegulation30271974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3027/74 of the Commission of 29 November 1974 amending
+    Annex II to Regulation (EEC) No 1896/73 as regards the section relating to the
+    United Kingdom
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3027/74 de la Commission, du 29 novembre 1974, modifiant
+    l' annexe II du règlement (CEE) n° 1896/73 en ce qui concerne le Royaume-Uni
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3027/74 der Kommission vom 29. November 1974 zur Änderung
+    des Anhangs II der Verordnung (EWG) Nr. 1896/73 in bezug auf das Vereinigte Königreich
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3027/74 af 29. november 1974 om ændring
+    af bilag II til forordning (EØF) nr. 1896/73 for så vidt angår Det forenede
+    Kongerige
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3027/74 della Commissione, del 29 novembre 1974, che
+    modifica il regolamento (CEE) n. 1896/73 per quanto concerne il Regno Unito
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3027/74 van de Commissie van 29 november 1974 houdende
+    wijziging van bijlage II van Verordening (EEG) nr. 1896/73 met betrekking tot
+    het Verenigd Koninkrijk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3027
+docidentifier:
+- content: EU Regulation 3027/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3027
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3027/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-29'
+- type: implemented
+  at: '1974-12-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

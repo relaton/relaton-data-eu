@@ -1,0 +1,83 @@
+---
+id: EUDecision1971395
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 30 novembre 1971, portant publication de
+    la version actuelle de l'annexe du règlement (CEE) n° 109/70 du Conseil aux
+    importations de pays à commerce d'état
+  type: main
+- language: de
+  script: Latn
+  content: '71/395/EWG: Beschluß der Kommission vom 30. November 1971 zur Bekanntmachung
+    der geltenden Fassung des Anhangs der Verordnung (EWG) Nr. 109/70 des Rates vom
+    19. Dezember 1969 zur Festlegung einer gemeinsamen Regelung für die Einfuhr aus
+    Staatshandelsländern'
+  type: main
+- language: it
+  script: Latn
+  content: '71/395/CEE: Decisione della Commissione, del 30 novembre 1971, recante
+    pubblicazione della versione attuale dell''allegato al regolamento (CEE) n. 109/70
+    del Consiglio, del 19 dicembre 1969, che istituisce un regime comune applicabile
+    alle importazioni dai paesi a commercio di Stato'
+  type: main
+- language: nl
+  script: Latn
+  content: '71/395/EEG: Besluit van de Commissie van 30 november 1971 houdende bekendmaking
+    van de geldige versie van de bijlage bij Verordening (EEG) nr. 109/70 van de Raad
+    van 19 december 1969 houdende totstandbrenging van een gemeenschappelijke regeling
+    voor de invoer uit landen met staatshandel'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971D0395
+docidentifier:
+- content: EU Decision 1971/395
+  type: EU
+  primary: true
+- content: CELEX 31971D0395
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1971/395/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-30'
+- type: implemented
+  at: '1971-11-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0109
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,136 @@
+---
+id: EURegulation16792000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1679/2000 of 28 July 2000 amending Regulation
+    (EEC) No 1609/88 as regards the latest date by which butter must have been taken
+    into storage in order to be sold pursuant to Regulations (EEC) No 3143/85 and
+    (EC) No 2571/97
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1679/2000 de la Commission du 28 juillet 2000 modifiant
+    le règlement (CEE) n° 1609/88 en ce qui concerne la date limite d'entrée en
+    stock du beurre vendu au titre des règlements (CEE) n° 3143/85 et (CE) n° 2571/97
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1679/2000 der Kommission vom 28. Juli 2000 zur Änderung
+    der Verordnung (EWG) Nr. 1609/88 hinsichtlich des letzten Termins für die Einlagerung
+    der gemäß den Verordnungen (EWG) Nr. 3143/85 und (EG) Nr. 2571/97 zu verkaufenden
+    Butter
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1679/2000 af 28. juli 2000 om ændring
+    af forordning (EØF) nr. 1609/88 for så vidt angår fristen for indlagring af
+    smør, der sælges i henhold til forordning (EØF) nr. 3143/85 og (EF) nr. 2571/97
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1679/2000 της Επιτροπής,
+    της 28ης Ιουλίου 2000, για τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 1609/88 όσον αφορά την ημερομηνία εισόδου
+    σε απόθεμα του βουτύρου που πωλείται βάσει
+    των κανονισμών (ΕΟΚ) αριθ. 3143/85 και (ΕΚ) αριθ.
+    2571/97
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1679/2000, annettu 28 päivänä heinäkuuta
+    2000, asetusten (ETY) N:o 3143/85 ja (EY) N:o 2571/97 nojalla myydyn voin viimeisestä
+    varastoonsaapumispäivästä annetun asetuksen (ETY) N:o 1609/88 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1679/2000 della Commissione, del 28 luglio 2000, che
+    modifica il regolamento (CEE) n. 1609/88 in ordine alla data entro la quale deve
+    essere entrato all'ammasso il burro venduto a norma dei regolamenti (CEE) n. 3143/85
+    e (CE) n. 2571/97
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1679/2000 van de Commissie van 28 juli 2000 tot wijziging
+    van Verordening (EEG) nr. 1609/88 wat betreft de uiterste datum voor de inslag
+    van de boter die op grond van Verordeningen (EEG) nr. 3143/85 en (EG) 2571/97
+    wordt verkocht
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 1679/2000 da Comissão, de 28 de Julho de 2000, que
+    altera o Regulamento (CEE) n.° 1609/88 no que diz respeito à data-limite de
+    entrada em armazém da manteiga vendida ao abrigo dos Regulamentos (CEE) n.°
+    3143/85 e (CE) n.° 2571/97
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1679/2000 de la Comisión, de 28 de julio de 2000,
+    por el que se modifica el Reglamento (CEE) n° 1609/88 en lo referente a la fecha
+    límite de entrada en almacén de la mantequilla vendida en virtud de los Reglamentos
+    (CEE) n° 3143/85 y (CE) n° 2571/97
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1679/2000 av den 28 juli 2000 om ändring
+    av förordning (EEG) nr 1609/88 vad avser tidsfristen för inlagring av smör
+    som säljs i enlighet med förordningarna (EEG) nr 3143/85 och (EG) nr 2571/97
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R1679
+docidentifier:
+- content: EU Regulation 1679/2000
+  type: EU
+  primary: true
+- content: CELEX 32000R1679
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2000/1679/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-07-08'
+- type: implemented
+  at: '2000-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R1609
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

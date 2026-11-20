@@ -1,0 +1,90 @@
+---
+id: EURegulation10791971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1079/71 of the Council of 25 May 1971 amending Articles
+    35 and 48 of Regulation (EEC) No 542/69 on Community transit
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1079/71 du Conseil, du 25 mai 1971, modifiant les
+    articles 35 et 48 du règlement (CEE) n° 542/69 relatif au transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1079/71 des Rates vom 25. Mai 1971 zur Änderung der
+    Artikel 35 und 48 der Verordnung (EWG) Nr. 542/69 über das gemeinschaftliche
+    Versandverfahren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1079/71 af 25. maj 1971 om ændring af artiklerne
+    35 og 48 i forordning (EØF) nr. 542/69 om fællesskabsforsendelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1079/71 del Consiglio, del 25 maggio 1971, che modifica
+    gli articoli 35 e 48 del regolamento (CEE) n. 542/69 relativo al transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1079/71 van de Raad van 25 mei 1971 tot wijziging
+    van de artikelen 35 en 48 van Verordening (EEG) nr. 542/69 betreffende communautair
+    douanevervoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1079
+docidentifier:
+- content: EU Regulation 1079/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1079
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1079/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-25'
+- type: implemented
+  at: '1971-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0542
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

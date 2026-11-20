@@ -1,0 +1,94 @@
+---
+id: EURegulation23931974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2393/74 of the Commission of 19 September 1974 amending
+    Regulation (EEC) No 2121/74 on the supplies of butteroil as food aid to the World
+    Food Programme
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2393/74 de la Commission, du 19 septembre 1974, modifiant
+    le règlement (CEE) n° 2121/74 relatif aux fournitures de butteroil au titre
+    de l'aide alimentaire au programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2393/74 der Kommission vom 19. September 1974 zur
+    Änderung der Verordnung (EWG) Nr. 2121/74 über die Lieferung von butteroil im
+    Rahmen der Nahrungsmittelhilfe an das Welternährungsprogramm
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2393/74 af 19. september 1974 om ændring
+    af forordning (EØF) nr. 2121/74 om levering af butteroil som fødevarehjælp
+    til Verdensfødevareprogrammet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2393/74 della Commissione, del 19 settembre 1974,
+    che modifica il regolamento (CEE) n. 2121/74 relativo alle forniture di butteroil
+    a titolo di aieto alimentare al Programma alimentare mondiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2393/74 van de Commissie van 19 september 1974 houdende
+    wijziging van Verordening (EEG) nr. 2121/74 met betrekking tot de levering van
+    butteroil als voedselhulp aan het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2393
+docidentifier:
+- content: EU Regulation 2393/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2393
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2393/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-09-19'
+- type: implemented
+  at: '1974-09-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2121
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

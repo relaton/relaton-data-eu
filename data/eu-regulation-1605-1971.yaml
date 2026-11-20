@@ -1,0 +1,99 @@
+---
+id: EURegulation16051971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1605/71 of the Commission of 26 July 1971 amending,
+    as regards cereals, Regulation (EEC) No 2637/70 on special detailed rules for
+    the application of the system of import and export licences and advance fixing
+    certificates
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1605/71 de la Commission, du 26 juillet 1971, modifiant
+    le règlement (CEE) n° 2637/70 portant modalités particulières d' application
+    du régime des certificats d' importation, d' exportation et de préfixation en
+    ce qui concerne le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1605/71 der Kommission vom 26. Juli 1971 zur Änderung,
+    für den Sektor Getreide, der Verordnung (EWG) Nr. 2637/70 über besondere Durchführungsvorschriften
+    für Einfuhr- und Ausfuhrlizenzen sowie Vorausfestsetzungsbescheinigungen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1605/71 af 26. juli 1971 om ændring
+    af forordning (EØF) nr. 2637/70 om de særlige regler for gennemførelsesbestemmelser
+    for ordningen med import- og eksportlicenser og forudfastsættelsesattester med
+    hensyn til kornsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1605/71 della Commissione, del 26 luglio 1971, recante
+    modifica al regolamento (CEE) n. 2637/70 che stabilisce modalità particolari
+    di applicazione per il regime dei titoli d' importazione, di esportazione e dei
+    certificati di fissazione anticipata, per quanto concerne il regime dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1605/71 van de Commissie van 26 juli 1971 tot wijziging
+    van Verordening (EEG) nr. 2637/70 houdende bijzondere uitvoeringsbepalingen inzake
+    het stelsel van invoer-, uitvoer- en voorfixatiecertificaten voor landbouwprodukten
+    ten aanzien van de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1605
+docidentifier:
+- content: EU Regulation 1605/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1605
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1605/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

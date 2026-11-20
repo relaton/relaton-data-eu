@@ -1,0 +1,80 @@
+---
+id: EURegulation11681972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1168/72 de la Commission, du 5 juin 1972, abrogeant
+    le règlement (CEE) n° 673/72 relatif à la perception d'une taxe à l'exportation
+    destinée à limiter l'exportation de lait écrémé en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1168/72 der Kommission vom 5. Juni 1972 zur Aufhebung
+    der Verordnung (EWG) Nr. 673/72 über die Erhebung einer Ausfuhrabgabe zur Beschränkung
+    der Ausfuhr von Magermilchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1168/72 della Commissione, del 5 giugno 1972, che
+    abroga il regolamento (CEE) n. 673/72 relativo alla riscossione di una tassa all'esportazione
+    destinata a limitare l'esportazione di latte scremato in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1168/72 van de Commissie van 5 juni 1972 houdende
+    intrekking van Verordening (EEG) nr. 673/72 met betrekking tot de toepassing van
+    een heffing bij uitvoer ter beperking van de uitvoer van magere- melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1168
+docidentifier:
+- content: EU Regulation 1168/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1168
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1168/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-05'
+- type: implemented
+  at: '1972-06-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0673
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

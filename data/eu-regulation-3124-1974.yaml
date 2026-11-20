@@ -1,0 +1,99 @@
+---
+id: EURegulation31241974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3124/74 of the Commission of 11 December 1974 amending
+    Regulation (EEC) No 1770/72 on detailed rules of application relating to the additional
+    conditions with which imported wines for direct human consumption have to comply
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3124/74 de la Commission, du 11 décembre 1974, modifiant
+    le règlement (CEE) n° 1770/72 portant modalités d' application relatives aux
+    conditions supplémentaires auxquelles doivent répondre les vins importés des
+    pays tiers destinés à la consommation humaine directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3124/74 der Kommission vom 11. Dezember 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1770/72 über Durchführungsbestimmungen zu den zusätzlichen
+    Bedingungen, denen aus Drittländern eingeführter Wein für den unmittelbaren
+    menschlichen Verbrauch entsprechen muß
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3124/74 af 11. december 1974 om ændring
+    af forordning (EØF) nr. 1770/72 om gennemførelsesbestemmelser til de yderligere
+    betingelser, som skal opfyldes af vin, der fra tredjelande er indført til direkte
+    menneskeligt forbrug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3124/74 della Commissione, dell' 11 dicembre 1974,
+    che modifica il regolamento (CEE) n. 1770/72, recante modalità relative alle
+    condizioni supplementari cui devono rispondere i vini importati dai paesi terzi
+    destinati al consumo umano diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3124/74 van de Commissie van 11 december 1974 tot
+    wijziging van Verordening (EEG) nr. 1770/72 betreffende de nadere voorwaarden
+    waaraan uit derde landen ingevoerde wijn voor rechtstreekse menselijke consumptie
+    moet voldoen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3124
+docidentifier:
+- content: EU Regulation 3124/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3124
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3124/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-11'
+- type: implemented
+  at: '1974-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1770
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

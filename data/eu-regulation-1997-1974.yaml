@@ -1,0 +1,92 @@
+---
+id: EURegulation19971974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1997/74 of the Council of 29 July 1974 amending Regulation
+    No 139/67/EEC on the fixing and granting of export refunds on cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1997/74 du Conseil, du 29 juillet 1974, modifiant
+    le règlement n° 139/67/CEE en ce qui concerne la fixation et l'octroi des restitutions
+    à l'exportation dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1997/74 des Rates vom 29. Juli 1974 zur Änderung
+    der Verordnung Nr. 139/67/EWG betreffend die Festsetzung und Gewährung von Erstattungen
+    bei der Ausfuhr von Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1997/74 af 29. juli 1974 om ændring af forordning
+    nr. 139/67 om fastsættelse og ydelse af eksportrestitutioner for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1997/74 del Consiglio, del 29 luglio 1974, che modifica
+    il regolamento n. 139/67/CEE per quanto concerne la fissazione e la concessione
+    delle restituzioni all'esportazione nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1997/74 van de Raad van 29 juli 1974 tot wijziging
+    van Verordening (EEG) nr. 139/67/EEG betreffende de vaststelling en de toekenning
+    van restituties bij uitvoer in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1997
+docidentifier:
+- content: EU Regulation 1997/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1997
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1997/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-29'
+- type: implemented
+  at: '1974-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0139
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

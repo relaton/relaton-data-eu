@@ -1,0 +1,97 @@
+---
+id: EURegulation21301980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2130/80 of 5 August 1980 amending Regulation
+    (EEC) No 950/68 on the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2130/80 du Conseil, du 5 août 1980, modifiant le
+    règlement (CEE) n° 950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2130/80 des Rates vom 5. August 1980 zur Änderung
+    der Verordnung (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2130/80 af 5. august 1980 om ændring af
+    forordning (EØF) nr. 950/68 om den fælles toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2130/80 τού Συμβουλίου
+    τής 5ης Αυγούστου 1980 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 950/68 «περί τού Κοινού
+    Δασμολογίου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2130/80 del Consiglio, del 5 agosto 1980, che modifica
+    il regolamento (CEE) n. 950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2130/80 van de Raad van 5 augustus 1980 tot wijziging
+    van Verordening (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2130
+docidentifier:
+- content: EU Regulation 2130/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2130
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2130/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-08-05'
+- type: implemented
+  at: '1980-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R3000
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

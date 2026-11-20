@@ -1,0 +1,80 @@
+---
+id: EUDecision1968331
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 68/331/CEE de la Commission, du 21 juin 1968, portant augmentation
+    du volume du contingent tarifaire octroyé à la République fédérale d'Allemagne
+    pour les vins rouges naturels de raisins frais, destinés au coupage (position
+    Ex 22.05 B)
+  type: main
+- language: de
+  script: Latn
+  content: '68/331/EWG: Entscheidung der Kommission vom 21. Juni 1968 über die Erhöhung
+    des der Bundesrepublik Deutschland gewährten Zollkontingents für roten Naturwein
+    aus frischen Weintrauben, zum Verschneiden (Tarifnr. ex 22.05 B)'
+  type: main
+- language: it
+  script: Latn
+  content: '68/331/CEE: Decisione della Commissione, del 21 giugno 1968, relativa
+    all''aumento del volume del contingente tariffario concesso alla Repubblica federale
+    di Germania per i vini rossi naturali, di uve fresche, destinati al taglio (voce
+    ex 22.05 B)'
+  type: main
+- language: nl
+  script: Latn
+  content: '68/331/EEG: Beschikking van de Commissie van 21 juni 1968 houdende verhoging
+    van het aan de Bondsrepubliek Duitsland toegekende tariefcontingent voor natuurlijke
+    rode wijn van verse druiven, bestemd voor versnijding (post ex 22.05 B)'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968D0331
+docidentifier:
+- content: EU Decision 1968/331
+  type: EU
+  primary: true
+- content: CELEX 31968D0331
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1968/331/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967D0112
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

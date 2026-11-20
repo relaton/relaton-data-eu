@@ -1,0 +1,115 @@
+---
+id: EURegulation21974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC, Euratom, ECSC) No 2/74 of the Council of 28 December 1973
+    adjusting the remuneration and pensions of officials and other servants of the
+    European Economic Communities and the weightings applied thereto
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE, Euratom, CECA) n° 2/74 du Conseil, du 28 décembre 1973,
+    portant adaptation des rémunérations et des pensions des fonctionnaires et autres
+    agents des Communautés européennes ainsi que des coefficients correcteurs dont
+    sont affectés ces rémunérations et pensions
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG, Euratom, EGKS) Nr. 2/74 des Rates vom 28. Dezember 1973
+    zur Angleichung der Dienst- und Versorgungsbezüge der Beamten der Europäischen
+    Gemeinschaften und der sonstigen Bediensteten dieser Gemeinschaften sowie der
+    Berichtigungskoeffizienten, die auf diese Dienst- und Versorgungsbezüge anwendbar
+    sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF, Euratom, EKSF) nr. 2/74 af 28. december 1973
+    om tilpasning af vederlag og pensioner til tjenestemænd og øvrige ansatte i
+    De europæiske Fællesskaber samt af justeringskoefficienterne for disse vederlag
+    og pensioner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE, Euratom, CECA) n. 2/74 del Consiglio, del 28 dicembre
+    1973, relativo all'adeguamento delle retribuzioni e delle pensioni dei funzionari
+    e degli altri agenti delle Comunità europee, nonché dei coefficienti correttori
+    applicabili a tali retribuzioni e pensioni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG, Euratom, EGKS) nr. 2/74 van de Raad van 28 december 1973
+    houdende aanpassing van de bezoldigingen en de pensioenen van de ambtenaren en
+    andere personeelsleden der Europese Gemeenschappen, alsmede van de aanpassingscoëfficiënten
+    welke van toepassing zijn op deze bezoldigingen en pensioenen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0002
+docidentifier:
+- content: EU Regulation 2/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0002
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-12-28'
+- type: implemented
+  at: '1973-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1301
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2188
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(02)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

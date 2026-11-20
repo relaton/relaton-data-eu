@@ -1,0 +1,96 @@
+---
+id: EURegulation13811976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1381/76 of 16 June 1976 amending for the sixth
+    time Regulation (EEC) No 2042/75 on special detailed rules for the application
+    of the system of import and export licences for cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1381/76 du Conseil, du 16 juin 1976, portant sixième
+    modification du règlement (CEE) n° 2042/75 relatif aux modalités particulières
+    d' application du régime des certificats d' importation et d' exportation dans
+    le secteur des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1381/76 des Rates vom 16. Juni 1976 zur sechsten Änderung
+    der Verordnung (EWG) Nr. 2042/75 über besondere Durchführungsvorschriften für
+    Einfuhr- und Ausfuhrlizenzen für Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1381/76 af 16. juni 1976 om sjette ændring
+    af forordning (EØF) nr. 2042/75 om de særlige gennemførelsesbestemmelser for
+    ordningen med import- og eksportlicenser for korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1381/76 del Consiglio, del 16 giugno 1976, recante
+    sesta modifica del regolamento (CEE) n. 2042/75, che stabilisce le modalità particolari
+    di applicazione del regime dei titoli d' importazione e d' esportazione nel settore
+    dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1381/76 van de Raad van 16 juni 1976 houdende zesde
+    wijziging van Verordening (EEG) nr. 2042/75 houdende bijzondere uitvoeringsbepalingen
+    inzake het stelsel van invoer- en uitvoercertificaten in de sector granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1381
+docidentifier:
+- content: EU Regulation 1381/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1381
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1381/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-16'
+- type: implemented
+  at: '1976-06-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2042
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

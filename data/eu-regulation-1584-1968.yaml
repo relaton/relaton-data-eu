@@ -1,0 +1,69 @@
+---
+id: EURegulation15841968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1584/68 de la Commission, du 10 octobre 1968, fixant
+    les prélèvements à l'importation de veaux et de gros bovins, ainsi que de viandes
+    bovines autres que les viandes congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1584/68 der Kommission vom 10. Oktober 1968 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Kälbern und ausgewachsenen Rindern sowie
+    von Rindfleisch ausgenommen gefrorenes Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1584/68 della Commissione, del 10 ottobre 1968, che
+    fissa i prelievi all'importazione di vitelli e di bovini adulti nonché di carni
+    bovine diverse da quelle congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1584/68 van de Commissie van 10 oktober 1968 houdende
+    vaststelling van de heffingen bij de invoer van kalveren en volwassen runderen
+    en van ander dan bevroren vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1584
+docidentifier:
+- content: EU Regulation 1584/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1584
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1584/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

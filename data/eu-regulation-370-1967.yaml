@@ -1,0 +1,82 @@
+---
+id: EURegulation3701967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 370/67/CEE du Conseil, du 25 juillet 1967, modifiant le
+    règlement n° 215/66/CEE en ce qui concerne la restitution à accorder lors de
+    l'exportation d'aliments composés à base de produits laitiers vers les pays
+    tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 370/67/EWG des Rates vom 25. Juli 1967 zur Änderung der
+    Verordnung Nr. 215/66/EWG bezüglich der bei der Ausfuhr von Milch-Mischfuttermitteln
+    nach dritten Ländern zu gewährenden Erstattung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 370/67/CEE del Consiglio, del 25 luglio 1967, che modifica
+    il regolamento n. 215/66/CEE per quanto riguarda la restituzione da accordare
+    all'esportazione di alimenti composti a base di prodotti lattiero-caseari verso
+    i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 370/67/EEG van de Raad van 25 juli 1967 houdende wijziging
+    van Verordening Nr. 215/66/EEG met betrekking tot de bij de uitvoer naar derde
+    landen van mengvoeders op basis van zuivelprodukten te verlenen restitutie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0370
+docidentifier:
+- content: EU Regulation 370/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0370
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/370/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-25'
+- type: implemented
+  at: '1967-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0215
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation24341970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2434/70 of the Council of 30 November 1970 amending
+    Regulations No 120/67/EEC and No 359/67/EEC on the common organisation of the
+    markets in cereals and rice respectively
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2434/70 du Conseil, du 30 novembre 1970, modifiant
+    les règlements n° 120/67/CEE et n° 359/67/CEE portant organisation commune
+    des marchés respectivement dans les secteurs des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2434/70 des Rates vom 30. November 1970 zur Änderung
+    der Verordnungen Nr. 120/67/EWG und Nr. 359/67/EWG über die gemeinsame Marktorganisation
+    für Getreide und für Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2434/70 af 30. november 1970 om ændring
+    af forordningerne nr. 120/67/EØF og nr. 359/67/EØF om den fælles markedsordning
+    for henholdsvis korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2434/70 del Consiglio, del 30 novembre 1970, che modifica
+    i regolamenti n. 120/67/CEE e n. 359/67/CEE relativi all' organizzazione comune
+    dei mercati nei settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2434/70 van de Raad van 30 november 1970 houdende
+    wijziging van de Verordeningen nr. 120/67/EEG en nr. 359/67/EEG houdende een gemeenschappelijke
+    ordening der markten in de sector granen en de sector rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2434
+docidentifier:
+- content: EU Regulation 2434/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2434
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2434/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-30'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0359
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

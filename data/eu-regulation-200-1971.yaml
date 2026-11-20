@@ -1,0 +1,66 @@
+---
+id: EURegulation2001971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 200/71 de la Commission, du 29 janvier 1971, modifiant
+    le correctif applicable à la restitution pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 200/71 der Kommission vom 29. Januar 1971 zur Änderung
+    der bei der Erstattung für Reis und Bruchreis anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 200/71 della Commissione, del 29 gennaio 1971, che
+    modifica il correttivo applicabile alla restituzione per il riso e le rotture
+    di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 200/71 van de Commissie van 29 januari 1971 tot wijziging
+    van de bij uitvoer van rijst en breukrijst op de restitutie toe te passen correctiefactor
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0200
+docidentifier:
+- content: EU Regulation 200/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0200
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/200/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EURegulation4091967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 409/67/CEE du Conseil, du 28 juillet 1967, relatif au concours
+    du Fonds européen d'orientation et de garantie agricole, section orientation
+    pour l'année
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 409/67/EWG des Rates vom 28. Juli 1967 über die Beteiligung
+    des Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft, Abteilung
+    Ausrichtung, für das Jahr 1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 409/67/CEE del Consiglio, del 28 luglio 1967, relativo al
+    concorso del Fondo europeo agricolo di orientamento e di garanzia, sezione orientamento,
+    per il 1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 409/67/EEG van de Raad van 28 juli 1967 betreffende de
+    bijstand van het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling
+    Oriëntatie, voor het jaar 1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0409
+docidentifier:
+- content: EU Regulation 409/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0409
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/409/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-23'
+- type: implemented
+  at: '1967-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

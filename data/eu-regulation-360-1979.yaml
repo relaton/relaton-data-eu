@@ -1,0 +1,100 @@
+---
+id: EURegulation3601979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 360/79 of 20 February 1979 amending Regulation
+    (EEC) No 3088/78 in respect of the periods of application for the 1978/79 marketing
+    year of the representative market prices and of the threshold prices for olive
+    oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 360/79 du Conseil, du 20 février 1979, modifiant
+    le règlement (CEE) n° 3088/78 en ce qui concerne, pour la campagne de commercialisation
+    1978/1979, les périodes d' application des prix représentatifs de marché et
+    des prix de seuil de l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 360/79 des Rates vom 20. Februar 1979 zur Änderung
+    der Verordnung (EWG) Nr. 3088/78 hinsichtlich der Zeiträume der Anwendung der
+    repräsentativen Marktpreise und der Schwellenpreise für Olivenöl im Wirtschaftsjahr
+    1978/79
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 360/79 af 20. februar 1979 om ændring af
+    forordning (EØF) nr. 3088/78 for så vidt angår anvendelsesperioderne for de
+    repræsentative markedspriser og tærskelpriserne for olivenolie for produktionsåret
+    1978/79
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 360/79 del Consiglio, del 20 febbraio 1979, che modifica
+    il regolamento (CEE) n. 3088/78 per quanto riguarda, per la campagna di commercializzazione
+    1978/1979, i periodi di applicazione dei prezzi rappresentativi di mercato e dei
+    prezzi di entrata dell' olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 360/79 van de Raad van 20 februari 1979 tot wijziging
+    van Verordening (EEG) nr. 3088/78 voor wat betreft de perioden waarin, voor het
+    verkoopseizoen 1978/1979, de representatieve marktprijzen en de drempelprijzen
+    voor olijfolie van toepassing zijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0360
+docidentifier:
+- content: EU Regulation 360/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0360
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/360/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-02-20'
+- type: implemented
+  at: '1979-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R3088
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

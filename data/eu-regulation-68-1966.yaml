@@ -1,0 +1,81 @@
+---
+id: EURegulation681966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 68/66/CEE du Conseil, du 14 juin 1966, portant prorogation
+    de certains délais concernant le concours du Fonds européen d'orientation et
+    de garantie agricole, section orientation, pour l'année 1965
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 68/66/EWG des Rates vom 14. Juni 1966 zur Verlängerung
+    einzelner Fristen für die Gewährung von Zuschüssen aus dem Europäischen Ausrichtungs-
+    und Garantiefonds für die Landwirtschaft, Abteilung Ausrichtung, für das Jahr
+    1965
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 68/66/CEE del Consiglio, del 14 giugno 1966, relativo alla
+    proroga di alcuni termini per quanto concerne il concorso del Fondo europeo agricolo
+    di orientamento e di garanzia, sezione orientamento, per l'anno 1965
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 68/66/EEG van de Raad van 14 juni 1966 houdende verlenging
+    van bepaalde termijnen met betrekking tot de bijstand van het Europees Oriëntatie-
+    en Garantiefonds voor de Landbouw, sectie Oriëntatie, voor het voor 1965
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0068
+docidentifier:
+- content: EU Regulation 68/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0068
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/68/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-14'
+- type: implemented
+  at: '1966-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

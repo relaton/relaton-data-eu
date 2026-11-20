@@ -1,0 +1,95 @@
+---
+id: EURegulation24771975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2477/75 of the Commission of 29 September 1975 providing
+    for greater flexibility in the arrangements governing the issue of import licences
+    (EXIM) laid down in Regulation (EEC) No 1090/75 in respect of the market in beef
+    and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2477/75 de la Commission, du 29 septembre 1975, assouplissant
+    le régime de délivrance de certificats d' importation (EXIM) établi par le
+    règlement (CEE) n° 1090/75 dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2477/75 der Kommission vom 29. September 1975 zur
+    Auflockerung des mit der Verordnung (EWG) Nr. 1090/75 über den Rindfleischsektor
+    eingeführten Einfuhrlizenzensystems (EXIM)
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2477/75 af 29. september 1975 om lempelse
+    af den ordning med udstedelse af importlicenser (EXIM), der er fastsat ved forordning
+    (EØF) nr. 1090/75 inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2477/75 della Commissione, del 29 settembre 1975,
+    che tempera il regime di rilascio dei titoli d' importazione (EXIM) istituito
+    dal regolamento (CEE) n. 1090/75 nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2477/75 van de Commissie van 29 september 1975 tot
+    versoepeling van de bij Verordening (EEG) nr. 1090/75 in de sector rundvlees ingestelde
+    regeling voor de afgifte van invoercertificaten (EXIM)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2477
+docidentifier:
+- content: EU Regulation 2477/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2477
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2477/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-09-29'
+- type: implemented
+  at: '1975-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1090
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

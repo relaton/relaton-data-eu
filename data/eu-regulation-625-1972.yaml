@@ -1,0 +1,73 @@
+---
+id: EURegulation6251972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 625/72 de la Commission, du 28 mars 1972, prorogeant
+    la durée de validité de certains certificats d'importation dans le secteur de
+    la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 625/72 der Kommission vom 28. März 1972 zur Verlängerung
+    der Gültigkeitsdauer bestimmter Einfuhrlizenzen auf dem Rindfleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 625/72 della Commissione, del 28 marzo 1972, che proroga
+    la durata di validità di alcuni titoli d'importazione nel settore delle carni
+    bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 625/72 van de Commissie van 28 maart 1972 houdende
+    verlenging van de geldigheidsduur van bepaalde invoercertificaten in de sector
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0625
+docidentifier:
+- content: EU Regulation 625/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0625
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/625/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-28'
+- type: implemented
+  at: '1972-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

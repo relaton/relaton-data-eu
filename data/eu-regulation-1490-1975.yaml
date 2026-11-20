@@ -1,0 +1,100 @@
+---
+id: EURegulation14901975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1490/75 of the Commission of 11 June 1975 amending
+    Regulation (EEC) No 1150/70 on the place of introduction within the meaning of
+    Article 6 (2) of Council Regulation (EEC) No 803/68 on the valuation of goods
+    for customs purposes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1490/75 de la Commission, du 11 juin 1975, modifiant
+    le règlement (CEE) n° 1150/70 relatif au lieu d' introduction à prendre en
+    considération en vertu de l' article 6 paragraphe 2 du règlement (CEE) n° 803/68
+    du Conseil relatif à la valeur en douane des marchandises
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1490/75 der Kommission vom 11. Juni 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1150/70 über den maßgebenden Ort des Verbringens nach
+    Artikel 6 Absatz 2 der Verordnung (EWG) Nr. 803/68 des Rates über den Zollwert
+    der Waren
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1490/75 af 11. juni 1975 om ændring
+    af Kommissionens forordning (EØF) nr. 1150/70 af 18. juni 1970 om fastsættelse
+    af indførselsstedet efter artikel 6, stk. 2, i Rådets forordning (EØF) nr.
+    803/68 om varers toldværdi
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1490/75 della Commissione, dell' 11 giugno 1975, che
+    modifica il regolamento (CEE) n. 1150/70 relativo al luogo di introduzione da
+    prendere in considerazione ai sensi dell' articolo 6, paragrafo 2, del regolamento
+    (CEE) n. 803/68 del Consiglio, relativo al valore in dogana delle merci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1490/75 van de Commissie van 11 juni 1975 tot wijziging
+    van Verordening (EEG) nr. 1150/70 betreffende de plaats van binnenkomst in aanmerking
+    te nemen overeenkomstig artikel 6, lid 2, van Verordening (EEG) nr. 803/68 van
+    de Raad inzake de douanewaarde van de goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1490
+docidentifier:
+- content: EU Regulation 1490/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1490
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1490/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-06-11'
+- type: implemented
+  at: '1975-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1150
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

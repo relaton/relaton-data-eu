@@ -1,0 +1,90 @@
+---
+id: EURegulation12981978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1298/78 of 6 June 1978 amending Regulation
+    (EEC) No 1111/77 laying down common provisions for isoglucose
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1298/78 du Conseil, du 6 juin 1978, modifiant le règlement
+    (CEE) n° 1111/77 établissant des dispositions communes pour l' isoglucose
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1298/78 des Rates vom 6. Juni 1978 zur Änderung der
+    Verordnung (EWG) Nr. 1111/77 zur Einführung gemeinsamer Vorschriften für Isoglukose
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1298/78 af 6. juni 1978 om ændring af forordning
+    (EØF) nr. 1111/77 om indførelse af fælles bestemmelser for isoglucose
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1298/78 del Consiglio, del 6 giugno 1978, recante
+    modifica del regolamento (CEE) n. 1111/77 che stabilisce disposizioni comuni per
+    l' isoglucosio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1298/78 van de Raad van 6 juni 1978 houdende wijziging
+    van Verordening (EEG) nr. 1111/77 tot vaststelling van de gemeenschappelijke bepalingen
+    voor isoglucose
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1298
+docidentifier:
+- content: EU Regulation 1298/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1298
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1298/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-06'
+- type: implemented
+  at: '1978-06-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1111
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

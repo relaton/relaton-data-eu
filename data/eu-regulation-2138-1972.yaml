@@ -1,0 +1,97 @@
+---
+id: EURegulation21381972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2138/72 of the Council of 3 October 1972 amending Regulation
+    (EEC) No 823/68 determining the groups of products and the special provisions
+    for calculating levies on milk and milk products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2138/72 du Conseil, du 3 octobre 1972, modifiant le
+    règlement (CEE)" n° 823/68 déterminant les groupes de produits et les dispositions
+    spéciales relatives au calcul des prélèvements dans le secteur du lait et des
+    produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2138/72 des Rates vom 3. Oktober 1972 zur Änderung
+    der Verordnung (EWG) Nr. 823/68 zur Festlegung der Erzeugnisgruppen und der besonderen
+    Vorschriften für die Berechnung der Abschöpfungen für Milch und Milcherzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2138/72 af 3. oktober 1972 om ændring af
+    forordning (EØF) nr. 823/68, der fastsætter produktgrupper, og af de særlige
+    regler om beregning af afgifter for mælk og mejeriprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2138/72 del Consiglio, del 3 ottobre 1972, che modifica
+    il regolamento (CEE) n. 823/68 che determina i gruppi dei prodotti e le disposizioni
+    speciali relative al calcolo dei prelievi nel settore del latte e dei prodotti
+    lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2138/72 van de Raad van 3 oktober 1972 tot wijziging
+    van Verordening (EEG) nr. 823/68 houdende vaststelling van de produktengroepen
+    en de bijzondere voorschriften betreffende de berekening van de heffingen in de
+    sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2138
+docidentifier:
+- content: EU Regulation 2138/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2138
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2138/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-03'
+- type: implemented
+  at: '1972-10-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0823
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

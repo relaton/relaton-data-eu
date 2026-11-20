@@ -1,0 +1,70 @@
+---
+id: EURegulation26971971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2697/71 de la Commission, du 17 décembre 1971, relatif
+    aux modalités concernant les importations des huiles d'olive du Maroc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2697/71 der Kommission vom 17. Dezember 1971 über
+    die Einzelheiten betreffend die Einfuhr von Olivenöl aus Marokko
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2697/71 della Commissione, del 17 dicembre 1971, relativo
+    alle modalità concernenti le importazioni degli oli d'oliva dal Marocco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2697/71 van de Commissie van 17 december 1971 betreffende
+    de nadere regeling van de invoer van olijfolie uit Marokko
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2697
+docidentifier:
+- content: EU Regulation 2697/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2697
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2697/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-17'
+- type: implemented
+  at: '1971-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

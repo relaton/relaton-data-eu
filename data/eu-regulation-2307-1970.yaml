@@ -1,0 +1,112 @@
+---
+id: EURegulation23071970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2307/70 of the Council of 10 November 1970 amending,
+    as regards certain cheeses, Regulation (EEC) No 823/68 determining the groups
+    of products and the special provisions for calculating levies on milk and milk
+    products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2307/70 du Conseil, du 10 novembre 1970, modifiant,
+    notamment en ce qui concerne certains fromages, le règlement (CEE) n° 823/68
+    déterminant les groupes de produits et les dispositions spéciales relatives
+    au calcul des prélèvements dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2307/70 des Rates vom 10. November 1970 zur Änderung
+    der Verordnung (EWG) Nr. 823/68 zur Festlegung der Erzeugnisgruppen und der besonderen
+    Vorschriften für die Berechnung der Abschöpfungen für Milch und Milcherzeugnisse
+    insbesondere hinsichtlich bestimmter Käsesorten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2307/70 af 10. november 1970 om ændring,
+    særlig for så vidt angår visse ostesorter, af forordning (EØF) nr. 823/68
+    om fastlæggelse af varegrupper og de særlige regler for beregning af importafgifter
+    for mælk og mejeriprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2307/70 τού Συμβουλίου
+    τής 10ης Νοεμβρίου 1970 περί τροποποιήσεως, ιδίως
+    ως πρός ορισμένους τυρούς, τού κανονισμού (ΕΟΚ)
+    αριθ. 823/68 «περί προσδιορισμού τών ομάδων προϊόντων
+    καί τών ειδικών διατάξεων γιά τόν υπολογισμό
+    τών εισφορών στόν τομέα τού γάλακτος καί τών
+    γαλακτοκομικών προϊόντων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2307/70 del Consiglio, del 10 novembre 1970, che modifica
+    in particolare per alcuni formaggi il regolamento (CEE) n. 823/68 che determina
+    i gruppi dei prodotti e le disposizioni speciali relative al calcolo dei prelievi
+    nel settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2307/70 van de Raad van 10 november 1970 tot wijziging,
+    in het bijzonder wat bepaalde kaassoorten betreft, van Verordening (EEG) nr. 823/68
+    houdende vaststelling van de produktengroepen en de bijzondere voorschriften betreffende
+    de berekening van de heffingen in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2307
+docidentifier:
+- content: EU Regulation 2307/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2307
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2307/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-10'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0823
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

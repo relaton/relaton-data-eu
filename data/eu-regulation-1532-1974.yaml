@@ -1,0 +1,94 @@
+---
+id: EURegulation15321974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1532/74 of the Council of 17 June 1974 amending Regulation
+    (EEC) No 816/70 as regards the rules on the total maximum sulphur dioxide content
+    of wine and the definition of liqueur wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1532/74 du Conseil, du 17 juin 1974, modifiant le
+    règlement (CEE) n° 816/70 en ce qui concerne les règles relatives à la teneur
+    maximale en anhydride sulfureux du vin et la définition du vin de liqueur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1532/74 des Rates vom 17. Juni 1974 zur Änderung
+    der Verordnung (EWG) Nr. 816/70 in bezug auf die Regeln betreffend den Höchstgehalt
+    an Schwefeldioxid und die Definition von Likörwein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1532/74 af 17. juni 1974 om ændring af forordning
+    (EØF) nr. 816/70 for så vidt angår reglerne for maksimumsindholdet af svovldioxyd
+    i vin og definitionen af hedvin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1532/74 del Consiglio, del 17 giugno 1974, che modifica
+    il regolamento (CEE) n. 816/70 per quanto riguarda le norme relative al tenore
+    massimo in anidride solforosa del vino e la definizione del vino liquoroso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1532/74 van de Raad van 17 juni 1974 tot wijziging
+    van Verordening (EEG) nr. 816/70 met betrekking tot de voorschriften betreffende
+    het maximumgehalte aan zwaveldioxyde van wijn en de definitie van likeurwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1532
+docidentifier:
+- content: EU Regulation 1532/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1532
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1532/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-17'
+- type: implemented
+  at: '1974-06-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

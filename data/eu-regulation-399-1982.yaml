@@ -1,0 +1,104 @@
+---
+id: EURegulation3991982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 399/82 of 23 February 1982 amending Regulation
+    (EEC) No 352/82 on the supply of common wheat flour for the International Committee
+    of the Red Cross as food aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 399/82 de la Commission, du 23 février 1982, modifiant
+    le règlement (CEE) n° 352/82 relatif à la livraison de farine de froment tendre
+    au Comité international de la Croix-Rouge au titre de l' aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 399/82 der Kommission vom 23. Februar 1982 zur Änderung
+    der Verordnung (EWG) Nr. 352/82 über die Lieferung von Weichweizenmehl an das
+    Internationale Komitee vom Roten Kreuz im Rahmen der Nahrungsmittelhilfe
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 399/82 af 23. februar 1982 om ændring
+    af forordning (EØF) nr. 352/82 om levering af mel af blød hvede til Den internationale
+    Røde Kors Komité som fødevarehjælp
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 399/82 τής Επιτροπής τής
+    23ης Φεβρουαρίου 1982 περί τροποποιήσεως τού
+    κανονισμού (EOK) αριθ. 352/82 περί τής παραδόσεως
+    αλεύρου μαλακού σίτου στή Διεθνή Επιτροπή
+    Ερυθρού Σταυρού βάσει τής επισιτιστικής βοήθειας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 399/82 della Commissione, del 23 febbraio 1982, che
+    modifica il regolamento (CEE) n. 352/82 relativo alla fornitura di farina di frumento
+    tenero al Comitato internazionale della Croce Rossa a titolo di aiuto alimentare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 399/82 van de Commissie van 23 februari 1982 tot
+    wijziging van Verordening (EEG) nr. 352/82 inzake de levering van meel van zachte
+    tarwe voor het Internationaal Comité van het Rode Kruis als voedselhulp
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R0399
+docidentifier:
+- content: EU Regulation 399/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R0399
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/399/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-02-23'
+- type: implemented
+  at: '1982-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R0352
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

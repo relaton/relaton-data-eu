@@ -1,0 +1,96 @@
+---
+id: EURegulation14381970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1438/70 of the Commission of 20 July 1970 amending
+    Regulation (EEC) No 2403/69 on special conditions for granting export refunds
+    on certain pigmeat products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1438/70 de la Commission, du 20 juillet 1970, portant
+    modification du règlement (CEE) n° 2403/69 relatif aux conditions particulières
+    en ce qui concerne l' octroi des restitutions à l' exportation de certains produits
+    dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1438/70 der Kommission vom 20. Juli 1970 zur Änderung
+    der Verordnung (EWG) Nr. 2403/69 über besondere Bedingungen für die Gewährung
+    der Erstattung bei der Ausfuhr bestimmter Erzeugnisse des Sektors Schweinefleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1438/70 af 20. juli 1970 om ændring
+    af forordning (EØF) nr. 2403/69 om særlige betingelser for ydelse af eksportrestitution
+    for visse produkter inden for svinekødssektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1438/70 della Commissione, del 20 luglio 1970, che
+    modifica il regolamento (CEE) n. 2403/69 relativo alle condizioni particolari
+    per quanto concerne la concessione delle restituzioni all' esportazione di taluni
+    prodotti nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1438/70 van de Commissie van 20 juli 1970 tot wijziging
+    van Verordening (EEG) nr. 2403/69 houdende bijzondere voorwaarden voor de toekenning
+    van restituties bij de uitvoer van bepaalde produkten van de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1438
+docidentifier:
+- content: EU Regulation 1438/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1438
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1438/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-20'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2403
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

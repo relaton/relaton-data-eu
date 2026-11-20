@@ -1,0 +1,128 @@
+---
+id: EURegulation8112000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EC) No 811/2000 of 17 April 2000 amending Regulation
+    (EC) No 1577/96 introducing a specific measure in respect of certain grain legumes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) nº 811/2000 du Conseil, du 17 avril 2000, modifiant le
+    règlement (CE) nº 1577/96 portant une mesure spécifique en faveur de certaines
+    légumineuses à grains
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 811/2000 des Rates vom 17. April 2000 zur Änderung
+    der Verordnung (EG) Nr. 1577/96 zur Festlegung einer Sondermaßnahme zugunsten
+    bestimmter Körnerleguminosen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EF) nr. 811/2000 af 17. april 2000 om ændring af forordning
+    (EF) nr. 1577/96 om indførelse af en særlig støtte for visse bælgplanter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 811/2000 του Συμβουλίου,
+    της 17ης Απριλίου 2000, για την τροποποίηση του
+    κανονισμού (ΕΚ) αριθ. 1577/96 για τη θέσπιση ειδικού
+    μέτρου υπέρ ορισμένων οσπριοειδών
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (EY) N:o 811/2000, annettu 17 päivänä huhtikuuta 2000,
+    tiettyjä palkoviljoja koskevasta erityistoimenpiteestä annetun asetuksen (EY)
+    N:o 1577/96 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 811/2000 del Consiglio, del 17 aprile 2000, recante
+    modifica del regolamento (CE) n. 1577/96 che istituisce una misura specifica a
+    favore di alcuni legumi da granella
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 811/2000 van de Raad van 17 april 2000 houdende wijziging
+    van Verordening (EG) nr. 1577/96 tot invoering van een bijzondere maatregel voor
+    bepaalde zaaddragende leguminosen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.o 811/2000 do Conselho, de 17 de Abril de 2000, que
+    altera o Regulamento (CE) n.o 1577/96 que institui uma medida específica a favor
+    de determinadas leguminosas para grão
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) nº 811/2000 del Consejo, de 17 de abril de 2000, que modifica
+    el Reglamento (CE) nº 1577/96 por el que se establece una medida específica
+    en favor de determinadas leguminosas de grano
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EG) nr 811/2000 av den 17 april 2000 om ändring av
+    förordning (EG) nr 1577/96 om en särskild åtgärd för vissa trindsädesslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R0811
+docidentifier:
+- content: EU Regulation 811/2000
+  type: EU
+  primary: true
+- content: CELEX 32000R0811
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2000/811/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-04-17'
+- type: implemented
+  at: '2000-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31996R1577
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

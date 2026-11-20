@@ -1,0 +1,112 @@
+---
+id: EURegulation27801972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2780/72 of the Commission of 22 December 1972 amending
+    Regulation No 184/66/EEC of the Commission of 21 November 1966 concerning the
+    collection, verification and forwarding of accountancy data obtained for the purpose
+    of determining incomes of agricultural holdings
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2780/72 de la Commission, du 22 décembre 1972, modifiant
+    le règlement n° 184/66/CEE de la Commission, du 21 novembre 1966, relatif à
+    la collecte, la vérification et la transmission des données comptables recueillies
+    en vue de la constatation des revenus dans les exploitations agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2780/72 der Kommission vom 22. Dezember 1972 zur Änderung
+    der Verordnung Nr. 184/66/EWG der Kommission vom 21. November 1966 über die Sammlung,
+    Prüfung und Weiterleitung der Buchführungsdaten zum Zweck der Feststellung der
+    Einkommen in den landwirtschaftlichen Betrieben
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2780/72 af 22. december 1972 om ændring
+    af Kommissionens forordning nr. 184/66/EØF af 21. november 1966 vedrørende indsamling,
+    efter prøvning og fremsendelse af regnskabsmæssige data til konstatering af
+    indkomsterne i landbrugsbedrifter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2780/72 τής Επιτροπής
+    τής 22ας Δεκεμβρίου 1972 περί τροποποιήσεως τού
+    κανονισμού αριθ. 184/66/ΕΟΚ τής Επιτροπής τής
+    21ης Νοεμβρίου 1966 «περί τής συλλογής, επαληθεύσεως
+    καί διαβιβάσεως τών συλλεγέντων λογιστικών
+    στοιχείων πρός τό σκοπό τής διαπιστώσεως τών
+    εισοδημάτων στίς γεωργικές εκμεταλλεύσεις»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2780/72 della Commissione, del 22 dicembre 1972, che
+    modifica il regolamento n. 184/66/CEE della Commissione, del 21 novembre 1966,
+    relativo alla raccolta, alla verifica e alla trasmissione dei dati contabili,
+    raccolti ai fini della costatazione dei redditi nelle aziende agricole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2780/72 van de Commissie van 22 december 1972 tot
+    wijziging van Verordening nr. 184/66/EEG van de Commissie van 21 november 1966
+    met betrekking tot het verzamelen, de controle en het overmaken van de boekhoudkundige
+    gegevens, verkregen ten behoeve van het constateren van de inkomens van de landbouwbedrijven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2780
+docidentifier:
+- content: EU Regulation 2780/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2780
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2780/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-22'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0184
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

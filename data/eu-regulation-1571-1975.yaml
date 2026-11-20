@@ -1,0 +1,94 @@
+---
+id: EURegulation15711975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1571/75 of the Commission of 23 June 1975 supplementing
+    Regulation (EEC) No 964/75 specifying the varieties of Lolium perenne L. to be
+    regarded as 'late', 'medium-late' and 'early'
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1571/75 de la Commission, du 23 juin 1975, complétant
+    le règlement (CEE) n° 964/75 fixant la liste des variétés tardives, mi-tardives
+    et précoces de lolium perenne L
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1571/75 der Kommission vom 23. Juni 1975 zur Ergänzung
+    der Verordnung (EWG) Nr. 964/75 zur Festsetzung der Liste der späten, mittelspäten
+    und frühen Sorten von Lolium perenne L
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1571/75 af 23. juni 1975 om tillæg
+    til forordning (EØF) nr. 964/75 om fastsættelse af listen over sildige, halvsildige
+    og tidlige sorter af Lolium perenne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1571/75 della Commissione, del 23 giugno 1975, che
+    completa il regolamento (CEE) n. 964/75 che stabilisce l'elenco delle varietà
+    tardive, medio-tardive e precoci di Lolium perenne L
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1571/75 van de Commissie van 23 juni 1975 tot aanvulling
+    van Verordening (EEG) nr. 964/75 houdende vaststelling van de lijst van late,
+    halflate en vroege rassen van Lolium perenne L
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1571
+docidentifier:
+- content: EU Regulation 1571/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1571
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1571/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-06-23'
+- type: implemented
+  at: '1975-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0964
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation1071966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 107/66/CEE de la Commission, du 27 juillet 1966, portant prorogation,
+    pour la campagne 1966/1967, du règlement n 113/65/CEE relatif aux majorations
+    mensuelles des prix indicatifs et d'intervention du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 107/66/EWG der Kommission vom 27. Juli 1966 zur Verlängerung,
+    für das Wirtschaftsjahr 1966/1967, der Verordnung Nr. 113/ 65/EWG zur Festsetzung
+    der monatlichen Steigerungsbeträge bei den Richt- und Interventionspreisen für
+    Reis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 107/66/CEE della Commissione, del 27 luglio 1966, che proroga
+    per la campagna 1966/1967 il regolamento n. 113/65/CEE relativo alle maggiorazioni
+    mensili dei prezzi indicativi e d'intervento del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 107/66/EEG van de Commissie van 27 juli 1966 houdende verlenging,
+    voor het verkoopseizoen 1966/1967, van Verordening no. 113/ 65/EEG betreffende
+    de maandelijkse verhogingen van de richt- en interventieprijzen voor rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0107
+docidentifier:
+- content: EU Regulation 107/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0107
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/107/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation361962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 36 du Conseil relatif à la détermination de la quantité
+    de céréales fourragères nécessaire pour la production d'un kilogramme d'oeufs
+    de poule en coquille destinés à la consommation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 36 des Rats über die Festsetzung der Futtergetreidemenge,
+    die zur Erzeugung von einem Kilogramm zum Verbrauch bestimmter Hühnereier in
+    der Schale erforderlich ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 36 del Consiglio relativo alla determinazione del quantitativo
+    di cereali da foraggio necessario per la produzione di un chilogrammo di uova
+    in guscio di gallina destinate al consumo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 36 van de Raad betreffende de vaststelling van de hoeveelheid
+    voedergranen, vereist voor de produktie van een kilogram kippeëieren in de schaal
+    die bestemd zijn voor consumptie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0036
+docidentifier:
+- content: EU Regulation 36/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0036
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/36/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-05-29'
+- type: implemented
+  at: '1962-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

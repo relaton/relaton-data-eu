@@ -1,0 +1,66 @@
+---
+id: EURegulation26581970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2658/70 de la Commission, du 29 décembre 1970, fixant
+    les prélèvements à l'importation dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2658/70 der Kommission vom 29. Dezember 1970 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Milch und Milcherzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2658/70 della Commissione, del 29 dicembre 1970, che
+    fissa i prelievi all'importazione applicabili nel settore del latte e dei prodotti
+    lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2658/70 van de Commissie van 29 december 1970 houdende
+    vaststelling van de invoerheffingen in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2658
+docidentifier:
+- content: EU Regulation 2658/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2658
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2658/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

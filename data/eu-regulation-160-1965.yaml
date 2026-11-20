@@ -1,0 +1,80 @@
+---
+id: EURegulation1601965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 160/65/CEE du Conseil, du 15 juin 1965, portant modification
+    du règlement n° 63 du Conseil fixant le régime pécuniaire des membres de la
+    Commission
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 160/65/EWG des Rates vom 15. Juni 1965 zur Änderung der
+    Verordnung Nr. 63 des Rates über die Regelung der Amtsbezüge für die Mitglieder
+    der Kommission
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 160/65/CEE del Consiglio, del 15 giugno 1965, che modifica
+    il regolamento n. 63 del Consiglio relativo alla fissazione del trattamento economico
+    dei membri della Commissione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 160/65/EEG van de Raad van 15 juni 1965 houdende wijziging
+    van Verordening Nr. 63 van de Raad tot vaststelling van de geldelijke regeling
+    voor de leden van de Commissie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0160
+docidentifier:
+- content: EU Regulation 160/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0160
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/160/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-15'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0063
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

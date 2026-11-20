@@ -1,0 +1,73 @@
+---
+id: EURegulation9971967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 997/67/CEE de la Commission, du 14 décembre 1967, relatif
+    aux certificats pour les produits transformés à base de fruits et légumes bénéficiant
+    du régime de fixation à l'avance des prélèvements ou des restitutions au titre
+    du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 997/67/EWG der Kommission vom 14. Dezember 1967 über die
+    Lizenzen für Verarbeitungserzeugnisse aus Obst und Gemüse, welche unter die
+    Regelung der Vorausfestsetzung der Abschöpfungen und Erstattungen für Zucker
+    fallen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 997/67/CEE della Commissione, del 14 dicembre 1967, relativo
+    ai titoli per i prodotti trasformati a base di ortofrutticoli che beneficiano
+    del regime di determinazione anticipata dei prelievi o delle restituzioni per
+    lo zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 997/67/EEG van de Commissie van 14 december 1967 met betrekking
+    tot de certificaten voor op basis van groenten en fruit verwerkte produkten, welke
+    vallen onder de regeling inzake het van tevoren vaststellen van de heffingen of
+    restituties voor suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0997
+docidentifier:
+- content: EU Regulation 997/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0997
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/997/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

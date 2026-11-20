@@ -1,0 +1,94 @@
+---
+id: EURegulation30711973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3071/73 of the Commission of 13 November 1973 amending
+    Regulation (EEC) No 2537/72 on invitations to tender for the supply of butteroil
+    for the World Food Programme
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3071/73 de la Commission, du 13 novembre 1973, modifiant
+    le règlement (CEE) n° 2537/72 relatif aux adjudications pour la fourniture de
+    butteroil destiné au Programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3071/73 der Kommission vom 13. November 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2537/72 über Ausschreibungen zur Lieferung von Butteroil
+    an das Welternährungsprogramm
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3071/73 af 13. november 1973 om ændring
+    af forordning (EØF) nr. 2537/72 om licitation til fremskaffelse af butteroil
+    bestemt til Verdensfødevareprogrammet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3071/73 della Commissione, del 13 novembre 1973, che
+    modifica il regolamento (CEE) n. 2537/72 relativo a bandi di gara per la fornitura
+    di butteroil destinato al Programma alimentare mondiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3071/73 van de Commissie van 13 november 1973 houdende
+    wijziging van Verordening (EEG) nr. 2537/72 betreffende inschrijvingen voor de
+    levering van butteroil bestemd voor het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3071
+docidentifier:
+- content: EU Regulation 3071/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3071
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3071/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-11-13'
+- type: implemented
+  at: '1973-11-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2537
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

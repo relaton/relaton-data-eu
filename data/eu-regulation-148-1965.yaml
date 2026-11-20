@@ -1,0 +1,72 @@
+---
+id: EURegulation1481965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 148/65/CEE du Conseil, du 27 octobre 1965, portant prorogation
+    de la validité du règlement n 88/65/CEE du Conseil relatif aux restitutions
+    à l'exportation vers les pays tiers dans les secteurs de la viande de porc, des
+    oeufs et de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 148/65/EWG des Rates vom 27. Oktober 1965 zur Verlängerung
+    der Geltungsdauer der Verordnung Nr. 88/65/EWG des Rates betreffend die Erstattungen
+    bei der Ausfuhr von Schweinefleisch, Eiern und Geflügelfleisch in dritte Länder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 148/65/CEE del Consiglio, del 27 ottobre 1965, che proroga
+    la validità del regolamento n. 88/65/CEE del Consiglio relativo alle restituzioni
+    all'esportazione verso i paesi terzi nei settori delle carni suine, delle uova
+    e del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 148/65/EEG van de Raad van 27 oktober 1965 houdende verlenging
+    van de geldigheidsduur van Verordening no. 88/65/EEG van de Raad met betrekking
+    tot de restituties bij uitvoer naar derde landen in de sectoren varkensvlees,
+    eieren en slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0148
+docidentifier:
+- content: EU Regulation 148/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0148
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/148/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

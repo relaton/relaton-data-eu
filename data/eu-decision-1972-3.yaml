@@ -1,0 +1,74 @@
+---
+id: EUDecision19723
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision du Conseil du 20 décembre 1971, prorogeant le régime des prix
+    minima
+  type: main
+- language: de
+  script: Latn
+  content: '72/3/EWG: Entscheidung des Rates vom 20. Dezember 1971 zur Verlängerung
+    der Mindestpreisregelung'
+  type: main
+- language: it
+  script: Latn
+  content: '72/3/CEE: Decisione del Consiglio, del 20 dicembre 1971, che proroga il
+    regime dei prezzi minimi'
+  type: main
+- language: nl
+  script: Latn
+  content: '72/3/EEG: Beschikking van de Raad van 20 december 1971 tot verlenging
+    van de regeling betreffende de minimumprijzen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972D0003
+docidentifier:
+- content: EU Decision 1972/3
+  type: EU
+  primary: true
+- content: CELEX 31972D0003
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1972/3/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969D0500
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

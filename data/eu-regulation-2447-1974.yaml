@@ -1,0 +1,95 @@
+---
+id: EURegulation24471974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2447/74 of the Commission of 27 September 1974 amending
+    Regulation (EEC) No 2637/70 as regards the application of the systems of import
+    and export licences in the olive oil sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2447/74 de la Commission, du 27 septembre 1974, modifiant
+    le règlement (CEE) n° 2637/70 en ce qui concerne l' application du régime des
+    certificats d' importation et d' exportation dans le secteur de l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2447/74 der Kommission vom 27. September 1974 zur
+    Änderung der Verordnung (EWG) Nr. 2637/70 hinsichtlich der Erteilung von Einfuhr-
+    und Ausfuhrlizenzen im Olivenölsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2447/74 af 27. september 1974 om ændring
+    af forordning (EØF) nr. 2637/70 for så vidt angår anvendelse af ordningen med
+    importlicenser og eksportlicenser inden for olivenoliesektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2447/74 della Commissione, del 27 settembre 1974,
+    che modifica il regolamento (CEE) n. 2637/70 per quanto concerne l' applicazione
+    del regime dei certificati d' importazione e d' esportazione nel settore dell'
+    olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2447/74 van de Commissie van 27 september 1974 houdende
+    wijziging van Verordening (EEG) nr. 2637/70 ten aanzien van de toepassing van
+    het stelsel van invoer- en uitvoercertificaten in de sector olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2447
+docidentifier:
+- content: EU Regulation 2447/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2447
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2447/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-09-27'
+- type: implemented
+  at: '1974-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

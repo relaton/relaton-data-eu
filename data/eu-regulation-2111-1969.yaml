@@ -1,0 +1,74 @@
+---
+id: EURegulation21111969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2111/69 du Conseil, du 28 octobre 1969, prorogeant,
+    pour la République fédérale d'Allemagne, la période de suspension visée à
+    l'article 4 du règlement (CEE) n° 653/68
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2111/69 des Rates vom 28. Oktober 1969 über die Verlängerung
+    der in Artikel 4 der Verordnung (EWG) Nr. 653/68 genannten Zeit der Aussetzung
+    für die Bundesrepublik Deutschland
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2111/69 del Consiglio, del 28 ottobre 1969, che proroga
+    per la Repubblica federale di Germania il periodo di sospensione di cui all'articolo
+    4 del regolamento (CEE) n. 653/68
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2111/69 van de Raad van 28 oktober 1969 houdende
+    verlenging voor de Bondsrepubliek Duitsland van de in artikel 4 van Verordening
+    (EEG) nr. 653/68 bedoelde schorsingsperiode
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2111
+docidentifier:
+- content: EU Regulation 2111/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2111
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2111/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-28'
+- type: implemented
+  at: '1969-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

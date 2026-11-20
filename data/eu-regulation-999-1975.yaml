@@ -1,0 +1,111 @@
+---
+id: EURegulation9991975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 999/75 of the Commission of 17 April 1975 amending
+    the terms of the invitations to tender in the sugar sector referred to in Regulations
+    (EEC) No 314/75, (EEC) No 557/75, (EEC) No 558/75 and (EEC) No 630/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 999/75 de la Commission, du 17 avril 1975, portant
+    modification des conditions des adjudications dans le secteur du sucre visées
+    aux règlements (CEE) n° 314/75, (CEE) n° 557/75, (CEE) n° 558/75 et (CEE)
+    n° 630/75
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 999/75 der Kommission vom 17. April 1975 zur Änderung
+    der Ausschreibungsbedingungen im Zuckersektor, die in den Verordnungen (EWG) Nr.
+    314/75, (EWG) Nr. 557/75, (EWG) Nr. 558/75 und (EWG) Nr. 630/75 genannt sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 999/75 af 17. april 1975 om ændring
+    af bestemmelserne for sukkerlicitationerne anført i forordningerne (EØF) nr.
+    314/75 (EØF) nr. 557/75, (EØF) nr. 558/75 og (EØF) nr. 630/75
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 999/75 della Commissione, del 17 aprile 1975, che
+    modifica le modalità delle gare nel settore dello zucchero di cui ai regolamenti
+    (CEE) n. 314/75, (CEE) n. 557/75, (CEE) n. 558/75 e (CEE) n. 630/75
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 999/75 van de Commissie van 17 april 1975 tot wijziging
+    van de bepalingen van de inschrijvingen in de sector suiker, vastgesteld in de
+    Verordeningen (EEG) nr. 314/75, (EEG) nr. 557/75, (EEG) nr. 558/75 en (EEG) nr.
+    630/75
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0999
+docidentifier:
+- content: EU Regulation 999/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0999
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/999/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-17'
+- type: implemented
+  at: '1975-04-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0314
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0557
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0558
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0630
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

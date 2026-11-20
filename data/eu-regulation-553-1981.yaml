@@ -1,0 +1,113 @@
+---
+id: EURegulation5531981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 553/81 of 12 February 1981 on certificates
+    of origin and applications for such certificates
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 553/81 de la Commission, du 12 février 1981, portant
+    sur le certificat d' origine et la demande y relative
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 553/81 der Kommission vom 12. Februar 1981 über das
+    Ursprungszeugnis und den Antrag hierzu
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 553/81 af 12. februar 1981 om oprindelsescertifikater
+    og ansøgninger herom
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 553/81 τής Επιτροπής
+    τής 12ης Φεβρουαρίου 1981 περί πιστοποιητικού
+    καταγωγής καί τής σχετικής αιτήσεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 553/81 della Commissione, del 12 febbraio 1981, riguardante
+    il certificato di origine e la relativa domanda
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 553/81 van de Commissie van 12 februari 1981 met
+    betrekking tot het certificaat van oorsprong en de daarbij behorende aanvraag
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 553/81 da Comissão, de 12 de Fevereiro de 1981,
+    relativo ao certificado de origem e respectivo pedido
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 553/81 de la Comisión, de 12 de febrero de 1981,
+    sobre el certificado de origen y su solicitud
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0553
+docidentifier:
+- content: EU Regulation 553/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0553
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/553/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-02-12'
+- type: implemented
+  at: '1981-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0582
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0518
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

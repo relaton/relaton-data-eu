@@ -1,0 +1,65 @@
+---
+id: EURegulation15931970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1593/70 de la Commission, du 5 août 1970, fixant les
+    restitutions à l'exportation de certains produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1593/70 der Kommission vom 5. August 1970 zur Festsetzung
+    der für bestimmte Milcherzeugnisse anzuwendenden Erstattungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1593/70 della Commissione, del 5 agosto 1970, che
+    fissa le restituzioni all'esportazione di taluni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1593/70 van de Commissie van 5 augustus 1970 houdende
+    vaststelling van de restituties bij uitvoer van bepaalde zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1593
+docidentifier:
+- content: EU Regulation 1593/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1593
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1593/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-08-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

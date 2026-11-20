@@ -1,0 +1,109 @@
+---
+id: EURegulation4501985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 450/85 of 21 February 1985 fixing the special
+    rates for converting the free-at-frontier reference prices of imported liqueur
+    wines into national currency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 450/85 de la Commission du 21 février 1985 fixant
+    les taux spéciaux pour la conversion en monnaie nationale des prix franco frontière
+    de référence des vins de liqueur importés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 450/85 der Kommission vom 21. Februar 1985 zur Festsetzung
+    der Sonderkurse zur Umrechnung der Referenzpreise frei Grenze für eingeführte
+    Likörweine in Landeswährung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 450/85 af 21. februar 1985 om fastsættelse
+    af de særlige kurser til omregning til national valuta af referencepriserne franko
+    grænse for indført hedvin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 450/85 της Επιτροπής
+    της 21ης Φεβρουαρίου 1985 περί καθορισμού των
+    ειδικών συντελεστών μετατροπής σε εθνικό νόμισμα
+    των τιμών αναγωγής «ελεύθερο στα σύνορα» των
+    εισαγομένων vins de liqueur
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 450/85 della Commissione del 21 febbraio 1985 che
+    stabilisce i tassi speciali per la conversione in moneta nazionale dei prezzi
+    franco frontiera di riferimento dei vini liquorosi importati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 450/85 van de Commissie van 21 februari 1985 houdende
+    vaststelling van de bijzondere koersen voor de omrekening in nationale munteenheid
+    van de referentieprijzen franco grens voor ingevoerde likeurwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0450
+docidentifier:
+- content: EU Regulation 450/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0450
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/450/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-02-21'
+- type: implemented
+  at: '1985-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31984R2439
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1393
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

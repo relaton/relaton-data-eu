@@ -1,0 +1,99 @@
+---
+id: EURegulation2181973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 218/73 of the Commission of 29 January 1973 on the
+    calculation of the import price and the special import price for calves and adult
+    bovine animals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 218/73 de la Commission, du 29 janvier 1973, relatif
+    au calcul du prix à l'importation et à l'établissement du prix spécial à
+    l'importation pour les veaux et pour les gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 218/73 der Kommission vom 29. Januar 1973 zur Berechnung
+    des Einfuhrpreises und zur Festsetzung des besonderen Einfuhrpreises für Kälber
+    und ausgewachsene Rinder
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 218/73 af 29. januar 1973 om beregning
+    af importprisen og om fastsættelse af den særlige importpris for kalve og for
+    voksent kvæg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 218/73 della Commissione, del 29 gennaio 1973, relativo
+    al calcolo del prezzo all'importazione ed alla determinazione del prezzo speciale
+    all'importazione per i vitelli ed i bovini adulti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 218/73 van de Commissie van 29 januari 1973 betreffende
+    de berekening van de prijs bij invoer en de vaststelling van de bijzondere prijs
+    bij invoer voor kalveren en voor volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0218
+docidentifier:
+- content: EU Regulation 218/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0218
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/218/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-29'
+- type: implemented
+  at: '1973-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1024
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1026
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,104 @@
+---
+id: EURegulation28651975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2865/75 of the Commission of 31 October 1975 on the
+    adjustment of the subsidies granted under Regulations (EEC) No 3062/74, (EEC)
+    No 557/75 and (EEC) No 558/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2865/75 de la Commission, du 31 octobre 1975, concernant
+    l' adaptation des subventions accordées conformément aux règlements (CEE) n°
+    3062/74, (CEE) n° 557/75 et (CEE) n° 558/75
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2865/75 der Kommission vom 31. Oktober 1975 über
+    die zur Anpassung der gemäß den Verordnungen (EWG) Nr. 3062/74, (EWG) Nr. 557/75
+    und (EWG) Nr. 558/75 gewährten Subventionen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2865/75 af 31. oktober 1975 om tilpasning
+    af de tilskud, der ydes i henhold til forordning (EØF) nr. 3062/74, (EØF) nr.
+    557/75 og (EØF) nr. 558/75
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2865/75 della Commissione, del 31 ottobre 1975, relativo
+    alle sovvenzioni accordate a norma dei regolamenti (CEE) n. 3062/74, (CEE) n.
+    557/75 e (CEE) n. 558/75
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2865/75 van de Commissie van 31 oktober 1975 over
+    de aanpassing van de krachtens de Verordeningen (EEG) nr. 3062/74, (EEG) nr. 557/75
+    en (EEG) nr. 558/75 toegekende subsidies
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2865
+docidentifier:
+- content: EU Regulation 2865/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2865
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2865/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-31'
+- type: implemented
+  at: '1975-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3062
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0557
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0558
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

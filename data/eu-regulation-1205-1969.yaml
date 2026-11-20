@@ -1,0 +1,97 @@
+---
+id: EURegulation12051969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1205/69 of the Council of 26 June 1969 amending Regulation
+    No 131/67/EEC as regards the rules for deriving intervention prices and for determining
+    marketing centres for cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1205/69 du Conseil, du 26 juin 1969, modifiant le
+    règlement n° 131/67/CEE en ce qui concerne les règles applicables pour la dérivation
+    des prix d' intervention et la détermination des centres de commercialisation
+    dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1205/69 des Rates vom 26. Juni 1969 zur Änderung
+    der Verordnung Nr. 131/67/EWG hinsichtlich der Regeln für die Ableitung der Interventionspreise
+    und die Bestimmung der Handelsplätze für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1205/69 af 26. juni 1969 om ændring af forordning
+    nr. 131/67/EØF for så vidt angår reglerne for afledning af interventionspriserne
+    og for fastsættelse af bestemte handelscentre for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1205/69 del Consiglio, del 26 giugno 1969, che modifica
+    il regolamento n. 131/67/CEE per quanto concerne le norme applicabili per la derivazione
+    dei prezzi d' intervento e per la determinazione dei centri di commercializzazione
+    nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1205/69 van de Raad van 26 juni 1969 houdende wijziging
+    van Verordening nr. 131/67/EEG voor wat betreft de voorschriften voor het berekenen
+    van de afgeleide interventieprijzen en het aanwijzen van de commercialisatiecentra
+    in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1205
+docidentifier:
+- content: EU Regulation 1205/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1205
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1205/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-26'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0131
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

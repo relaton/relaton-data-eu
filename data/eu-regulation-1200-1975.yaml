@@ -1,0 +1,82 @@
+---
+id: EURegulation12001975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1200/75 of the Commission of 7 May 1975 fixing the
+    refunds applicable to cereals and wheat or rye flour groats and meal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1200/75 de la Commission, du 7 mai 1975, fixant les
+    restitutions applicables aux céréales, aux farines et aux gruaux et semoules
+    de froment ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1200/75 der Kommission vom 7. Mai 1975 zur Festsetzung
+    der für Getreide, Mehle, Grobgrieß und Feingrieß von Weizen oder Roggen anzuwendenden
+    Erstattungen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1200/75 af 7. maj 1975 om fastsættelse
+    af restitutioner for korn, visse kategorier mel, grove gryn og fine gryn af hvede
+    eller rug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1200/75 della Commissione, del 7 maggio 1975, che
+    fissa le restituzioni per i cereali e le farine, le semole e i semolini di frumento
+    o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1200/75 van de Commissie van 7 mei 1975 houdende
+    vaststelling van de restituties die van toepassing zijn op granen en bepaalde
+    soorten van meel, gries en griesmeel van tarwe of van rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1200
+docidentifier:
+- content: EU Regulation 1200/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1200
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1200/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

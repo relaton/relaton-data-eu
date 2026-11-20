@@ -1,0 +1,94 @@
+---
+id: EURegulation8691977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 869/77 of 26 April 1977 fixing the guide price
+    and the intervention price for adult bovine animals for the 1977/78 marketing
+    year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 869/77 du Conseil, du 26 avril 1977, fixant, pour
+    la campagne de commercialisation 1977/1978, le prix d' orientation et le prix
+    d' intervention des gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 869/77 des Rates vom 26. April 1977 zur Festsetzung
+    des Orientierungspreises und des Interventionspreises für ausgewachsene Rinder
+    für das Wirtschaftsjahr 1977/1978
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 869/77 af 26. april 1977 om fastsættelse
+    af produktionsåret 1977/1978 af orienterings- og interventionsprisen for voksent
+    kvæg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 869/77 del Consiglio, del 26 aprile 1977, che fissa
+    il prezzo d' orientamento e il prezzo d' intervento dei bovini adulti per la campagna
+    di commercializzazione 1977/1978
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 869/77 van de Raad van 26 april 1977 tot vaststelling
+    van de oriëntatieprijs en de interventieprijs voor volwassen runderen voor het
+    verkoopseizoen 1977/1978
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0869
+docidentifier:
+- content: EU Regulation 869/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0869
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/869/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-04-26'
+- type: implemented
+  at: '1977-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0649
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

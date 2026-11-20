@@ -1,0 +1,102 @@
+---
+id: EURegulation10701974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1070/74 of the Council of 29 April 1974 amending Regulation
+    (EEC) No 224/73 laying down general rules concerning the components designed to
+    ensure, within the cereals and rice sectors, the protection of the processing
+    industry, and fixing those components in respect of the new Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1070/74 du Conseil, du 29 avril 1974, modifiant le
+    règlement (CEE) n° 224/73 déterminant les règles générales relatives aux
+    éléments destinés à assurer dans le secteur des céréales et du riz, la protection
+    de l'industrie de transformation et fixant ceux pour les nouveaux États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1070/74 des Rates vom 29. April 1974 zur Änderung
+    der Verordnung (EWG) Nr. 224/73 zur Festlegung der Grundregeln für den Bestandteil
+    zum Schutz der Verarbeitungsindustrie auf dem Getreide- und Reissektor und zur
+    Festsetzung dieses Bestandteils für die neuen Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1070/74 af 29. april 1974 om ændring af
+    forordning (EØF) nr. 224/73 om fastlæggelse af de almindelige regler vedrørende
+    de elementer, der for korn og ris har til formål at sikre beskyttelsen af forarbejdningsindustrien,
+    og om fastsættelse af disse elementer for de nye medlemsstater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1070/74 del Consiglio, del 29 aprile 1974, recante
+    modifica del regolamento (CEE) n. 224/73 che determina le norme generali relative
+    agli elementi destinati ad assicurare, nel settore dei cereali e del riso, la
+    protezione dell'industria di trasformazione e che fissa i suddetti elementi per
+    i nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1070/74 van de Raad van 29 april 1974 tot wijziging
+    van Verordening (EEG) nr. 224/73 houdende bepaling van de algemene regels betreffende
+    de elementen die dienen om in de sector granen en rijst de bescherming van de
+    verwerkende industrie te verzekeren, en vaststelling van genoemde elementen voor
+    de nieuwe Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1070
+docidentifier:
+- content: EU Regulation 1070/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1070
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1070/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-29'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0224
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

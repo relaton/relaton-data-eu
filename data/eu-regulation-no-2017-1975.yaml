@@ -1,0 +1,77 @@
+---
+id: EURegulationNo20171975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2017/75 of the Commission of 1 August 1975 fixing the
+    import levies on olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2017/75 de la Commission, du 1er août 1975, fixant
+    les prélèvements à l'importation dans le secteur de l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2017/75 der Kommission vom 1. August 1975 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2017/75 af 1. august 1975 om fastsættelse
+    af importafgifter for olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2017/75 della Commissione, del 1 agosto 1975, che
+    fissa i prelievi all'importazione nel settore dell'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2017/75 van de Commissie van 1 augustus 1975 houdende
+    vaststelling van de heffingen bij invoer in de sector olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2017
+docidentifier:
+- content: EU Regulation No 2017/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2017
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2017/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

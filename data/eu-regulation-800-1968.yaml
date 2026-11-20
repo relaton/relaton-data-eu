@@ -1,0 +1,74 @@
+---
+id: EURegulation8001968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 800/68 du Conseil, du 27 juin 1968 relatif au régime
+    applicable aux produits transformés à base de céréales et de riz originaires
+    des États africains et malgache associés ou des pays et territoire d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 800/68 des Rates vom 27. Juni 1968 über die Regelung
+    für Getreide- und Reisverarbeitungserzeugnisse mit Ursprung in den assoziierten
+    afrikanischen Staaten und Madagaskar oder den überseeischen Ländern und Gebieten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 800/68 del Consiglio, del 27 giugno 1968, relativo
+    al regime applicabile ai prodotti trasformati a base di cereali e di riso originari
+    degli Stati africani e malgascio associati o dei paesi e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 800/68 van de Raad van 27 juni 1968 betreffende de
+    regeling voor op basis van granen en rijst verwerkte produkten van oorsprong uit
+    de geassocieerde Afrikaanse staten en Madagaskar of de landen en gebieden overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0800
+docidentifier:
+- content: EU Regulation 800/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0800
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/800/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-27'
+- type: implemented
+  at: '1968-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

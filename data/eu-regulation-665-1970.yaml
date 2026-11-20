@@ -1,0 +1,65 @@
+---
+id: EURegulation6651970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 665/70 de la Commission, du 10 avril 1970, abrogeant
+    les montants supplémentaires pour les volailles vivantes et abattues
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 665/70 der Kommission vom 10. April 1970 zur Aufhebung
+    der Zusatzbeträge für lebendes und geschlachtetes Geflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 665/70 della Commissione, del 10 aprile 1970, che
+    abroga gli importi supplementari per il pollame vivo e per il pollame macellato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 665/70 van de Commissie van 10 april 1970 houdende
+    afschaffing van extra bedragen voor levend en geslacht pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0665
+docidentifier:
+- content: EU Regulation 665/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0665
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/665/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation28791973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2879/73 of the Council of 22 October 1973 amending
+    Regulation (EEC) No 234/73 fixing the amounts applicable as compensatory amounts
+    for pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2879/73 du Conseil, du 22 octobre 1973, modifiant
+    le règlement (CEE) n° 234/73 en vue de la fixation des montants applicables
+    au titre des montants compensatoires dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2879/73 des Rates vom 22. Oktober 1973 zur Änderung
+    der Verordnung (EWG) Nr. 234/73 hinsichtlich der Festsetzung der als Ausgleichsbeträge
+    auf dem Schweinefleichsektor anwendbaren Beträge
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2879/73 af 22. oktober 1973 om ændring af
+    forordning (EØF) nr. 234/73 med henblik på fastsættelse af udligningsbeløb
+    for svinekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2879/73 del Consiglio, del 22 ottobre 1973, che modifica
+    il regolamento (CEE) n. 234/73 ai fini della fissazione degli importi applicabili
+    a titolo di importi compensativi nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2879/73 van de Raad van 22 oktober 1973 tot wijziging
+    van Verordening (EEG) nr. 234/73 voor wat betreft de vaststelling van de bedragen
+    die gelden als compenserende bedragen in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2879
+docidentifier:
+- content: EU Regulation 2879/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2879
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2879/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-22'
+- type: implemented
+  at: '1973-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0234
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

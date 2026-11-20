@@ -1,0 +1,81 @@
+---
+id: EUDecision1966492
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/492/CEE de la Commission, du 29 juillet 1966, portant nouvelle
+    modification de sa décision du 18 mai 1966 autorisant la perception de taxes
+    compensatoires sur les importations, en République française, de produits de
+    la biscuiterie en provenance de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/492/EWG: Entscheidung der Kommission vom 29. Juli 1966 zur erneuten
+    Änderung ihrer Entscheidung vom 18. Mai 1966 zur Erhebung von Ausgleichsabgaben
+    auf Einfuhren von feinen Backwaren aus verschiedenen Mitgliedstaaten in die Französische
+    Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '66/492/CEE: Decisione della Commissione, del 29 luglio 1966, che modifica
+    ulteriormente la decisione del 18 maggio 1966 che autorizza la riscossione di
+    tasse di compensazione all''importazione, nella Repubblica francese, di prodotti
+    della biscotteria in provenienza da taluni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/492/EEG: Beschikking van de Commissie van 29 juli 1966 tot nieuwe wijziging
+    van haar beschikking van 18 mei 1966 houdende machtiging tot het leggen van compenserende
+    heffingen op de invoer in de Franse Republiek van biscuits uit bepaalde Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0492
+docidentifier:
+- content: EU Decision 1966/492
+  type: EU
+  primary: true
+- content: CELEX 31966D0492
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/492/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0366
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

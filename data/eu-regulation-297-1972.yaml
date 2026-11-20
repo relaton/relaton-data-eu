@@ -1,0 +1,66 @@
+---
+id: EURegulation2971972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 297/72 de la Commission, du 10 février 1972, fixant
+    les primes s'ajoutant aux prélèvements pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 297/72 der Kommission vom 10. Februar 1972 zur Festsetzung
+    der Prämien als Zuschlag zu den Abschöpfungen für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 297/72 della Commissione, del 10 febbraio 1972, che
+    fissa i supplementi da aggiungere ai prelievi per il riso e le rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 297/72 van de Commissie van 10 februari 1972 tot
+    vaststelling van de premies waarmede de heffingen voor rijst en breukrijst worden
+    verhoogd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0297
+docidentifier:
+- content: EU Regulation 297/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0297
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/297/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

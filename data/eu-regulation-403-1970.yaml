@@ -1,0 +1,76 @@
+---
+id: EURegulation4031970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 403/70 du Conseil, du 3 mars 1970, portant suspension
+    temporaire des droits autonomes du tarif douanier commun sur l'essence de térébenthine
+    de la sous-position 38.07 à et sur les colophanes de la sous-position 38.07 A
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 403/70 des Rates vom 3. März 1970 über die zeitweilige
+    Aussetzung der autonomen Zollsätze des Gemeinsamen Zolltarifs für Balsamterpentinöl
+    der Tarifstelle 38.07 A und für Kolophonium der Tarifstelle 38.08 A
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 403/70 del Consiglio, del 3 marzo 1970, recante sospensione
+    temporanea dei dazi autonomi della tariffa doganale comune applicabili all'essenza
+    di trementina della sottovoce 38.07 A ed alle colofonie della sottovoce 38.08
+    A
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 403/70 van de Raad van 3 maart 1970 houdende tijdelijke
+    schorsing van de autonome rechten van het gemeenschappelijk douanetarief voor
+    terpentijnolie van onderverdeling 38.07 A enerzijds en voor vioolhars van onderverdeling
+    38.08 A anderzijds
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0403
+docidentifier:
+- content: EU Regulation 403/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0403
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/403/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-03'
+- type: implemented
+  at: '1970-03-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

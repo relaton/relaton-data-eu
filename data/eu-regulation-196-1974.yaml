@@ -1,0 +1,94 @@
+---
+id: EURegulation1961974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 196/74 of the Council of 25 January 1974 temporarily
+    modifying the conditions for the triggering of intervention measures on the market
+    in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 196/74 du Conseil, du 25 janvier 1974, modifiant temporairement
+    les conditions de déclenchement des mesures d'intervention dans le secteur de
+    la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 196/74 des Rates vom 25. Januar 1974 zur vorübergehenden
+    Änderung der Bedingungen für die Auslösung der Interventionsmaßnahmen auf
+    dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 196/74 af 25. januar 1974 om midlertidig
+    ændring af betingelserne for udløsning af interventionsforanstaltninger for
+    oksekød.
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 196/74 del Consiglio, del 25 gennaio 1974, che modifica
+    temporaneamente le condizioni di applicazione delle misure di intervento nel settore
+    delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 196/74 van de Raad van 25 januari 1974 tot tijdelijke
+    wijziging van de voorwaarden voor de toepassing van de interventiemaatregelen
+    in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0196
+docidentifier:
+- content: EU Regulation 196/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0196
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/196/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-01-25'
+- type: implemented
+  at: '1974-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1302
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

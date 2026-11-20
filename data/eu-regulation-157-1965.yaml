@@ -1,0 +1,71 @@
+---
+id: EURegulation1571965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 157/65/CEE de la Commission, du 11 novembre 1965, portant,
+    pour le premier trimestre 1966, adaptation et fixation des prix d'écluse et fixation
+    des prélèvements envers les pays tiers dans le secteur des oeufs et volailles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 157/65/EWG der Kommission vom 11. November 1965 über die
+    Anpassung und Festsetzung der Einschleusungspreise und die Festsetzung der Abschöpfungsbeträge
+    gegenüber dritten Ländern im Bereich der Eier- und Geflügelwirtschaft für
+    das 1. Vierteljahr 1966
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 157/65/CEE della Commissione, dell'11 novembre 1965, che
+    adatta e fissa per il primo trimestre 1966 i prezzi limite e che fissa i prelievi
+    nei confronti dei paesi terzi nel settore delle uova e del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 157/65/EEG van de Commissie van 11 november 1965 houdende
+    aanpassing en vaststelling van de sluisprijzen en de vaststelling van de heffingen
+    ten opzichte van derde landen in de sector eieren en slachtpluimvee voor het eerste
+    kwartaal 1966
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0157
+docidentifier:
+- content: EU Regulation 157/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0157
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/157/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-11-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

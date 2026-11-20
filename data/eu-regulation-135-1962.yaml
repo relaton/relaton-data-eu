@@ -1,0 +1,72 @@
+---
+id: EURegulation1351962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 135 de la Commission relatif à la fixation d'un montant
+    supplémentaire pour les importations de poules et poulets abattus en provenance
+    de pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 135 der Kommission über die Festsetzung eines Zusatzbetrages
+    für Einfuhren von geschlachteten Hühnern aus dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 135 della Commissione relativo alla determinazione di un
+    importo supplementare all'importazione di galline e di polli macellati in provenienza
+    dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 135 van de Commissie tot vaststelling van een extra-bedrag
+    voor de invoer van geslachte kippen uit derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0135
+docidentifier:
+- content: EU Regulation 135/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0135
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/135/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-11-07'
+- type: implemented
+  at: '1962-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

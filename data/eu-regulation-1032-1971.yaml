@@ -1,0 +1,84 @@
+---
+id: EURegulation10321971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1032/71 de la Commission, du 19 mai 1971, modifiant
+    le règlement (CEE) n° 1006/71 en ce qui concerne la teneur en protéine des
+    semoules de froment dur mises en adjudication dans le cadre d'une action communautaire
+    au titre de l'aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1032/71 der Kommission vom 19. Mai 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1006/71 betreffend den Proteingehalt von Hartweizengrieß,
+    der im Rahmen einer Gemeinschaftsaktion als Nahrungsmittelhilfe ausgeschrieben
+    wurde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1032/71 della Commissione, del 19 maggio 1971, che
+    modifica il regolamento (CEE) n. 1006/71 per quanto riguarda il tenore in proteine
+    dei semolini di frumento duro messi in aggiudicazione nel quadro di un'azione
+    comunitaria a titolo di aiuti alimentari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1032/71 van de Commissie van 19 mei 1971 houdende
+    wijziging van Verordening (EEG) nr. 1006/71 voor wat betreft het proteïnegehalte
+    van gries en griesmeel van durum tarwe waarvoor in het kader van een communautaire
+    actie voor voedselhulp een inschrijving wordt gehouden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1032
+docidentifier:
+- content: EU Regulation 1032/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1032
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1032/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-19'
+- type: implemented
+  at: '1971-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1006
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

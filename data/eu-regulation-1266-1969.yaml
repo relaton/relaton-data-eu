@@ -1,0 +1,82 @@
+---
+id: EURegulation12661969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1266/69 de la Commission, du 1er juillet 1969, modifiant
+    le règlement (CEE) n° 782/68 en ce qui concerne les procédures d'arbitrage
+    lors d'un différend portant sur la qualité du sucre acheté par les organismes
+    d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1266/69 der Kommission vom 1. Juli 1969 zur Änderung
+    der Verordnung (EWG) Nr. 782/68 betreffend die Schiedsverfahren bei Meinungsverschiedenheiten
+    über die Qualität des durch die Interventionsstellen gekauften Zuckers
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1266/69 della Commissione, del 1 luglio 1969, che
+    modifica il regolamento (CEE) n. 782/68 per quanto riguarda le procedure d'arbitrato
+    in caso di una controversia relativa alla qualità dello zucchero acquistato dagli
+    organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1266/69 van de Commissie van 1 juli 1969 tot wijziging
+    van Verordening (EEG) nr. 782/68 voor wat betreft de arbitrageprocedures bij een
+    geschil over de kwaliteit van suiker welke door de interventiebureaus werd gekocht
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1266
+docidentifier:
+- content: EU Regulation 1266/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1266
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1266/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-01'
+- type: implemented
+  at: '1969-07-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0782
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

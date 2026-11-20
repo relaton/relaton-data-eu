@@ -1,0 +1,94 @@
+---
+id: EURegulation10201976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1020/76 of 29 April 1976 amending Regulation
+    (EEC) No 557/76 as regards the exchange rate to be applied to the Italian lira
+    in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1020/76 du Conseil, du 29 avril 1976, modifiant le
+    règlement (CEE) n° 557/76 en ce qui concerne le taux de change à appliquer
+    pour la lire italienne dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1020/76 des Rates vom 29. April 1976 zur Änderung
+    der Verordnung (EWG) Nr. 557/76 hinsichtlich des in der Landwirtschaft anzuwendenden
+    Umrechnungskurses für die italienische Lira
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1020/76 af 29. april 1976 om ændring af
+    forordning (EØF) nr. 557/76 af 15. marts 1976 for så vidt angår den omregningskurs,
+    der inden for landbrugssektoren skal anvendes for den italienske lire
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1020/76 del Consiglio, del 29 aprile 1976, che modifica
+    il regolamento (CEE) n. 557/76 per quanto riguarda il tasso di cambio da applicare
+    nel settore agricolo per la lira italiana
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1020/76 van de Raad van 29 april 1976 tot wijziging
+    van Verordening (EEG) nr. 557/76 voor wat betreft de in de landbouwsector voor
+    de Italiaanse lire toe te passen wisselkoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1020
+docidentifier:
+- content: EU Regulation 1020/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1020
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1020/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-04-29'
+- type: implemented
+  at: '1976-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0557
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

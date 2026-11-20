@@ -1,0 +1,80 @@
+---
+id: EURegulation9671968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 967/68 du Conseil, du 15 juillet 1968, modifiant le
+    règlement n° 158/66/CEE concernant l'application des normes de qualité aux
+    fruits et légumes commercialisés à l'intérieur de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 967/68 des Rates vom 15. Juli 1968 zur Änderung der
+    Verordnung Nr. 158/66/EWG über die Anwendung der Qualitätsnormen auf Obst und
+    Gemüse, das innerhalb der Gemeinschaft in den Verkehr gebracht wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 967/68 del Consiglio, del 15 luglio 1968, che modifica
+    il regolamento n. 158/66/CEE relativo all'applicazione delle norme di qualità
+    agli ortofrutticoli commercializzati all'interno della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 967/68 van de Raad van 15 juli 1968 houdende wijziging
+    van Verordening nr. 158/66/EEG betreffende de toepassing van de kwaliteitsnormen
+    op groenten en fruit die binnen de Gemeenschap in de handel worden gebracht
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0967
+docidentifier:
+- content: EU Regulation 967/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0967
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/967/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-15'
+- type: implemented
+  at: '1968-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0158
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

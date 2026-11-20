@@ -1,0 +1,66 @@
+---
+id: EURegulation1101963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 110/63/CEE de la Commission, du 2 octobre 1963, fixant un
+    montant supplémentaire pour les oeufs dépourvus de leur coquille et les jaunes
+    d'oeufs de volailles de basse-cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 110/63/EWG der Kommission vom 2. Oktober 1963 über die
+    Festsetzung eines Zusatzbetrags für Eier ohne Schale und Eigelb von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 110/63/CEE della Commissione del 2 ottobre 1963 che fissa
+    un importo supplementare per le uova sgusciate ed il giallo di uova di volatili
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 110/63/EEG van de Commissie van 2 oktober 1963 tot vaststelling
+    van een extra-bedrag voor eieren uit de schaal en eigeel, van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0110
+docidentifier:
+- content: EU Regulation 110/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0110
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/110/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

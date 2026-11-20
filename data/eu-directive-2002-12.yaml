@@ -1,0 +1,140 @@
+---
+id: EUDirective200212
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Directive 2002/12/EC of the European Parliament and of the Council of 5
+    March 2002 amending Council Directive 79/267/EEC as regards the solvency margin
+    requirements for life assurance undertakings
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 2002/12/CE du Parlement européen et du Conseil du 5 mars 2002
+    modifiant la directive 79/267/CEE du Conseil en ce qui concerne l'exigence de
+    marge de solvabilité des entreprises d'assurance vie
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 2002/12/EG des Europäischen Parlaments und des Rates vom 5.
+    März 2002 zur Änderung der Richtlinie 79/267/EWG des Rates hinsichtlich der
+    Bestimmungen über die Solvabilitätsspanne für Lebensversicherungsunternehmen
+  type: main
+- language: da
+  script: Latn
+  content: Europa-Parlamentets og Rådets direktiv 2002/12/EF af 5. marts 2002 om
+    ændring af Rådets direktiv 79/267/EØF for så vidt angår krav til solvensmargen
+    for livsforsikringsselskaber
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 2002/12/ΕΚ του Ευρωπαϊκού Κοινοβουλίου
+    και του Συμβουλίου, της 5ης Μαρτίου 2002, για την
+    τροποποίηση της οδηγίας 79/267/ΕΟΚ του Συμβουλίου
+    όσον αφορά τις απαιτήσεις περιθωρίου φερεγγυότητας
+    για τις επιχειρήσεις ασφάλισης ζωής
+  type: main
+- language: fi
+  script: Latn
+  content: Euroopan parlamentin ja neuvoston direktiivi 2002/12/EY, annettu 5 päivänä
+    maaliskuuta 2002, neuvoston direktiivin 79/267/ETY muuttamisesta henkivakuutusyrityksiä
+    koskevien solvenssimarginaalivaatimusten osalta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 2002/12/CE del Parlamento europeo e del Consiglio, del 5 marzo
+    2002, che modifica la direttiva 79/267/CEE del Consiglio per quanto riguarda il
+    margine di solvibilità delle imprese di assicurazione sulla vita
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlĳn 2002/12/EG van het Europees Parlement en de Raad van 5 maart
+    2002 tot wĳziging van Richtlĳn 79/267/EEG van de Raad op het gebied van de solvabiliteitsmargevereisten
+    voor levensverzekeringsondernemingen
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 2002/12/CE do Parlamento Europeu e do Conselho, de 5 de Março
+    de 2002, que altera a Directiva 79/267/CEE do Conselho relativamente aos requisitos
+    em matéria de margem de solvência aplicáveis às empresas de seguro de vida
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 2002/12/CE del Parlamento Europeo y del Consejo, de 5 de marzo
+    de 2002, por la que se modifica la Directiva 79/267/CEE del Consejo en lo que
+    respecta a los requisitos del margen de solvencia de las empresas de seguros de
+    vida
+  type: main
+- language: sv
+  script: Latn
+  content: Europaparlamentets och rådets direktiv 2002/12/EG av den 5 mars 2002 om
+    ändring av rådets direktiv 79/267/EEG när det gäller solvensmarginalkraven
+    för livförsäkringsföretag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0012
+docidentifier:
+- content: EU Directive 2002/12
+  type: EU
+  primary: true
+- content: CELEX 32002L0012
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/2002/12/oj
+  type: ELI
+date:
+- type: issued
+  at: '2002-03-05'
+- type: implemented
+  at: '2002-03-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Parliament
+    abbreviation:
+      content: EP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979L0267
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EURegulation17911969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1791/69 de la Commission, du 10 septembre 1969, relatif
+    à la diminution du montant compensatoire, applicable dans les secteurs des céréales
+    et du riz à certaines exportations françaises vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1791/69 der Kommission vom 10. September 1969 über
+    die Verringerung des Ausgleichsbetrags bei bestimmten französischen Ausfuhren
+    von Getreide und Reis nach dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1791/69 della Commissione, del 10 settembre 1969,
+    relativo alla diminuzione dell'importo di compensazione applicabile nel settore
+    dei cereali e del riso ad alcune esportazioni francesi verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1791/69 van de Commissie van 10 september 1969 houdende
+    vermindering van het compenserende bedrag dat van toepassing is in de sectoren
+    granen en rijst voor bepaalde uitvoer van Frankrijk naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1791
+docidentifier:
+- content: EU Regulation 1791/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1791
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1791/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-09-10'
+- type: implemented
+  at: '1969-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1670
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

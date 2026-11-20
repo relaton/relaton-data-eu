@@ -1,0 +1,91 @@
+---
+id: EURegulation8671967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 867/67/EEC of the Council of 14 November 1967 amending Regulation
+    No 362/67/EEC laying down standard qualities for rice and broken rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 867/67/CEE du Conseil, du 14 novembre 1967, portant modification
+    du règlement n° 362/67/CEE fixant les qualités type du riz et des brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 867/67/EWG des Rates vom 14. November 1967 zur Änderung
+    der Verordnung Nr. 362/67/EWG zur Festlegung der Standardqualitäten für Reis
+    und Bruchreis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 867/67/EØF af 14. november 1967 om ændring af
+    forordning nr. 362/67/EØF om fastlæggelse af standardkvaliteter for ris og brudris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 867/67/CEE del Consiglio, del 14 novembre 1967, che modifica
+    il regolamento n. 362/67/CEE relativo alla fissazione delle qualità tipo del
+    riso e delle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 867/67/EEG van de Raad van 14 november 1967 tot wijziging
+    van Verordening nr. 362/67/EEG houdende vaststelling van de standaardkwaliteiten
+    voor rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0867
+docidentifier:
+- content: EU Regulation 867/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0867
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/867/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-14'
+- type: implemented
+  at: '1968-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0362
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,95 @@
+---
+id: EURegulation23201976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2320/76 of 24 September 1976 amending Regulation
+    (EEC) No 1993/75 laying down detailed rules for the application of the system
+    of compensatory amounts for tomato concentrates
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2320/76 de la Commission, du 24 septembre 1976, modifiant
+    le règlement (CEE) n° 1993/75 de la Commission, portant modalités d' application
+    du régime des montants compensatoires pour les concentrés de tomates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2320/76 der Kommission vom 24. September 1976 zur
+    Änderung der Verordnung (EWG) Nr. 1993/75 über die Durchführungsbestimmungen
+    für das System von Ausgleichsabgaben für Tomatenmark
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2320/76 af 24. september 1976 om ændring
+    af Kommissionens forordning (EØF) nr. 1993/75 om nærmere bestemmelser af ordningen
+    med udligningsbeløb for tomatkoncentrater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2320/76 della Commissione, del 24 settembre 1976,
+    che modifica il regolamento (CEE) n. 1993/75 della Commissione relativo a modalità
+    di applicazione del regime degli importi compensativi per i concentrati di pomodoro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2320/76 van de Commissie van 24 september 1976 tot
+    wijziging van Verordening (EEG) nr. 1993/75 van de Commissie houdende omschrijving
+    van de toepassingsmodaliteiten van het regime van de compenserende bedragen voor
+    tomatenpuree
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2320
+docidentifier:
+- content: EU Regulation 2320/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2320
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2320/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-09-24'
+- type: implemented
+  at: '1976-09-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1993
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

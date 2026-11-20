@@ -1,0 +1,128 @@
+---
+id: EURegulation21011991
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2101/91 of 17 July 1991 amending Regulations
+    (EEC) No 646/86, (EEC) No 2267/90 and (EEC) No 1641/91 as regards the calculation
+    of the alcoholic strength by volume of certain wine sector products
+  type: main
+- language: fr
+  script: Latn
+  content: 'RÈGLEMENT (CEE) No 2101/91 DE LA COMMISSION du 17 juillet 1991 modifiant
+    les règlements (CEE) no 646/86, (CEE) no 2267/90 et (CEE) no 1641/91 en ce qui
+    concerne le calcul du titre alcoométrique volumique de certains produits viti-vinicoles
+    #'
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 2101/91 DER KOMMISSION vom 17. Juli 1991 zur Änderung
+    der Verordnungen (EWG) Nr. 646/86, (EWG) Nr. 2267/90 und (EWG) Nr. 1641/91 hinsichtlich
+    der Berechnung des Alkoholgehalts bestimmter Weinbauerzeugnisse in % vol #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2101/91 af 17. juli 1991 om ændring
+    af forordning (EØF) nr. 646/86, (EØF) nr. 2267/90 og (EØF) nr. 1641/91 for
+    så vidt angår beregningen af alkoholindholdet udtrykt i volumen for visse vinprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2101/91 της Επιτροπής
+    της 17ης Ιουλίου 1991 περί τροποποιήσεως των κανονισμών
+    (ΕΟΚ) αριθ. 646/86, (ΕΟΚ) αριθ. 2267/90 και (ΕΟΚ) αριθ.
+    1641/91 όσον αφορά τον υπολογισμό του κατ' όγκον
+    αλκοολικού τίτλου
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 2101/91 DELLA COMMISSIONE del 17 luglio 1991 che
+    modifica i regolamenti (CEE) n. 646/88, (CEE) n. 2267/90 e (CEE) n. 1641/91 per
+    quanto riguarda il calcolo del titolo alcolometrico volumico di taluni prodotti
+    vitivinicoli #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 2101/91 VAN DE COMMISSIE van 17 juli 1991 tot wijziging
+    van de Verordeningen (EEG) nr. 646/86, (EEG) nr. 2267/90 en (EEG) nr. 1641/91
+    ten aanzien van de berekening van het alcoholvolumegehalte van bepaalde wijnbouwprodukten
+    #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) No 2101/91 DA COMISSÃO de 17 de Julho de 1991 que altera
+    os Regulamentos (CEE) no 646/86, (CEE) no 2267/90 e (CEE) no 1641/91, no que se
+    refere ao cálculo do título alcoométrico volúmico de determinados produtos
+    vitivinícolas #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 2101/91 DE LA COMISIÓN de 17 de julio de 1991 por
+    el que se modifican los Reglamentos (CEE) no 646/86, (CEE) no 2267/90 y (CEE)
+    no 1641/91 en lo que respecta al cálculo del grado alcohólico volumétrico de
+    determinados productos vitivinícolas #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991R2101
+docidentifier:
+- content: EU Regulation 2101/1991
+  type: EU
+  primary: true
+- content: CELEX 31991R2101
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1991/2101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1991-07-17'
+- type: implemented
+  at: '1991-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31986R0646
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31990R2267
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

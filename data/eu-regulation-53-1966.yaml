@@ -1,0 +1,76 @@
+---
+id: EURegulation531966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 4/66/Euratom, 53/66/CEE des Conseils, du 5 mai 1966, portant
+    modification du règlement sur l'impôt communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 4/66/Euratom, 53/66/EWG der Räte vom 5. Mai 1966 zur Änderung
+    der Verordnung über die Gemeinschaftssteuer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 4/66/Euratom, 53/66/CEE dei Consigli, del 5 maggio 1966,
+    che modifica il regolamento sull'imposta comunitaria
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 4/66/Euratom, 53/66/EEG van de Raden van 5 mei 1966 tot
+    wijziging van de verordening inzake de Gemeenschapsbelasting
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0053
+docidentifier:
+- content: EU Regulation 53/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0053
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/53/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-05-05'
+- type: implemented
+  at: '1966-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0032
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

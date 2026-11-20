@@ -1,0 +1,74 @@
+---
+id: EURegulation13521971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1352/71 de la Commission, du 28 juin 1971, fixant
+    pour la campagne sucrière 1971/1972, les prélèvements sur les betteraves et
+    les cannes à sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1352/71 der Kommission vom 28. Juni 1971 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Zuckerrüben und Zuckerrohr für das Zuckerwirtschaftsjahr
+    1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1352/71 della Commissione, del 28 giugno 1971, che
+    fissa per la campagna saccarifera 1971/1972 i prelievi all'importazione per le
+    barbabietole e le canne da zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1352/71 van de Commissie van 28 juni 1971 houdende
+    vaststelling van de heffingen bij invoer voor suikerbieten en suikerriet voor
+    het verkoopseizoen voor suiker 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1352
+docidentifier:
+- content: EU Regulation 1352/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1352
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1352/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-28'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

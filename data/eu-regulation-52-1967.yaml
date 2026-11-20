@@ -1,0 +1,76 @@
+---
+id: EURegulation521967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 52/67/CEE de la Commission, du 17 mars 1967, relatif aux
+    demandes de remboursement au titre du FEOGA, section garantie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 52/67/EWG der Kommission vom 17. März 1967 über die Anträge
+    auf Rückvergütung für den EAGFL, Abteilung Garantie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 52/67/CEE della Commissione, del 17 marzo 1967, relativo
+    alle domande di rimborso a titolo del FEAOG, sezione garanzia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 52/67/EEG van de Commissie van 17 maart 1967 betreffende
+    de verzoeken om vergoeding door het EOGFL, afdeling Garantie.
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0052
+docidentifier:
+- content: EU Regulation 52/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0052
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/52/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-17'
+- type: implemented
+  at: '1967-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0098
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

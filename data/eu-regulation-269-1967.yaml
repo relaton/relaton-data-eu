@@ -1,0 +1,77 @@
+---
+id: EURegulation2691967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 269/67/CEE de la Commission du 30 juin 1967 portant détermination
+    de la taxe et de la subvention applicables à titre transitoire, aux échanges
+    d'aliments composés à base de céréales entre l'Italie et les autres États
+    membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 269/67/EWG der Kommission vom 30. Juni 1967 über die Festsetzung
+    der Abgabe und der Subvention, die vorübergehend auf den Handel mit Getreidemischfutter
+    zwischen Italien und den übrigen Mitgliedstaaten anzuwenden sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 269/67/CEE della Commissione, del 30 giugno 1967, relativo
+    alla determinazione della tassa e della sovvenzione applicabili, a titolo transitorio,
+    agli scambi di alimenti composti a base di cereali tra l'Italia e gli altri Stati
+    membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 269/67/EEG van de Commissie van 30 juni 1967 houdende vaststelling
+    van de heffing en de subsidie die bij wijze van overgangsmaatregel gelden voor
+    het handelsverkeer in mengvoeders op basis van granen tussen Italië en de overige
+    Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0269
+docidentifier:
+- content: EU Regulation 269/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0269
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/269/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

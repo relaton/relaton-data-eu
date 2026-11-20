@@ -1,0 +1,94 @@
+---
+id: EURegulation3801977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 380/77 of 24 February 1977 amending Regulation
+    (EEC) No 677/76 laying down detailed rules for the application of the system for
+    compulsory purchase of skimmed-milk powder
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 380/77 de la Commission, du 24 février 1977, modifiant
+    le règlement (CEE) n° 677/76 portant certaines modalités d' application du
+    régime d' achat obligatoire de lait écrémé en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 380/77 der Kommission vom 24. Februar 1977 zur Änderung
+    der Verordnung (EWG) Nr. 677/76 über Durchführungsbestimmungen zur Verpflichtung
+    zum Kauf von Magermilchpulver
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 380/77 af 24. februar 1977 om ændring
+    af forordning (EØF) nr. 677/76 om visse gennemførelsesbestemmelser for ordningen
+    vedrørende obligatorisk opkøb af skummetmælkspulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 380/77 della Commissione, del 24 febbraio 1977, che
+    modifica il regolamento (CEE) n. 677/76 recante talune modalità di applicazione
+    del regime di acquisto obbligatorio di latte scremato in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 380/77 van de Commissie van 24 februari 1977 tot
+    wijziging van Verordening (EEG) nr. 677/76 houdende uitvoeringsbepalingen betreffende
+    de regeling inzake de verplichte aankoop van magere-melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0380
+docidentifier:
+- content: EU Regulation 380/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0380
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/380/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-24'
+- type: implemented
+  at: '1977-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0677
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

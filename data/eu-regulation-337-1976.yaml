@@ -1,0 +1,94 @@
+---
+id: EURegulation3371976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 337/76 of 17 February 1976 temporarily including
+    butteroil in the list of processed products covered by the system of advance payment
+    of refunds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 337/76 de la Commission, du 17 février 1976, introduisant
+    temporairement le butteroil dans la liste des produits transformés auxquels s'applique
+    le régime de paiement à l'avance des restitutions
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 337/76 der Kommission vom 17. Februar 1976 zur vorübergehenden
+    Wiederaufnahme von Butteroil in die Liste der Verarbeitungserzeugnisse, auf die
+    die Vorauszahlungsregelung der Erstattungen angewandt wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 337/76 af 17. februar 1976 om midlertidig
+    opførelse af butteroil på listen over forarbejdede produkter, for hvilke ordningen
+    med forudbetaling af restitutioner gælder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 337/76 della Commissione, del 17 febbraio 1976, che
+    aggiunge temporaneamente il butteroil alla lista dei prodotti trasformati ai quali
+    si applica il regime di pagamento in anticipo delle restituzioni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 337/76 van de Commissie van 17 februari 1976 houdende
+    tijdelijke plaatsing van butteroil op de lijst van verwerkte produkten waarvoor
+    het stelsel van vooruitbetaling van de restituties wordt toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0337
+docidentifier:
+- content: EU Regulation 337/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0337
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/337/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-17'
+- type: implemented
+  at: '1976-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0441
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

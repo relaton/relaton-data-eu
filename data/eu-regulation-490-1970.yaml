@@ -1,0 +1,79 @@
+---
+id: EURegulation4901970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 490/70 du Conseil, du 17 mars 1970, prolongeant le
+    délai fixé par l'article 12 paragraphe 3 deuxième alinéa du règlement n°
+    130/66/CEE relatif au financement de la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 490/70 des Rates vom 17. März 1970 über die Verlängerung
+    der Frist in Artikel 12 Absatz 3 Unterabsatz 2 der Verordnung Nr. 130/66/EWG über
+    die Finanzierung der gemeinsamen Agrarpolitik
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 490/70 del Consiglio, del 17 marzo 1970, relativo
+    alla proroga del termine fissato nell'articolo 12, paragrafo 3, secondo comma,
+    del regolamento n. 130/66/CEE relativo al finanziamento della politica agricola
+    comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 490/70 van de Raad van 17 maart 1970 houdende verlenging
+    van de termijn, vastgesteld in artikel 12, lid 3, tweede alinea, van Verordening
+    nr. 130/66/EEG betreffende de financiering van het gemeenschappelijk landbouwbeleid
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0490
+docidentifier:
+- content: EU Regulation 490/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0490
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/490/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0130
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

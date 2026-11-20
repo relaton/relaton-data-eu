@@ -1,0 +1,94 @@
+---
+id: EUDecision1975210
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '75/210/EEC: Council Decision of 27 March 1975 on unilateral import arrangements
+    in respect of state-trading countries'
+  type: main
+- language: fr
+  script: Latn
+  content: '75/210/CEE: Décision du Conseil, du 27 mars 1975, relative aux régimes
+    autonomes d'' importation à l'' égard des pays à commerce d'' État'
+  type: main
+- language: de
+  script: Latn
+  content: '75/210/EWG: Entscheidung des Rates vom 27. März 1975 betreffend die autonomen
+    Einfuhrregelungen gegenüber Staatshandelsländern'
+  type: main
+- language: da
+  script: Latn
+  content: '75/210/EØF: Rådets Beslutning af 27. marts 1975 om de autonome ordninger
+    for indførsel fra statshandelslande'
+  type: main
+- language: el
+  script: Grek
+  content: '75/210/EOK: Απόφαση τού Συμβουλίου τής 27ης Μαρτίου
+    1975 περί τών αυτονόμων καθεστώτων εισαγωγής
+    έναντι χωρών κρατικού εμπορίου'
+  type: main
+- language: it
+  script: Latn
+  content: '75/210/CEE: Decisione del Consiglio, del 27 marzo 1975, relativa ai regimi
+    autonomi d'' importazione nei confronti dei paesi a commercio di Stato'
+  type: main
+- language: nl
+  script: Latn
+  content: '75/210/EEG: Beschikking van de Raad van 27 maart 1975 betreffende de autonome
+    invoerregelingen ten opzichte van de landen met staatshandel'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975D0210
+docidentifier:
+- content: EU Decision 1975/210
+  type: EU
+  primary: true
+- content: CELEX 31975D0210
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1975/210/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974D0652
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

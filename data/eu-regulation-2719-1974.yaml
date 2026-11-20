@@ -1,0 +1,94 @@
+---
+id: EURegulation27191974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2719/74 of the Commission of 25 October 1974 amending
+    Regulation (EEC) No 1895/74 following the fixing of a new representative rate
+    for the Italian lira
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2719/74 de la Commission, du 25 octobre 1974, modifiant
+    le règlement (CEE) n° 1895/74 à la suite de la fixation d'un nouveau taux représentatif
+    pour la lire italienne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2719/74 der Kommission vom 25. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1895/74 infolge der Festsetzung eines neuen repräsentativen
+    Umrechnungskurses für die italienische Lira
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2719/74 af 25. oktober 1974 om ændring
+    af forordning (EØF) nr. 1895/74 som følge af fastsættelse af en ny repræsentativ
+    kurs for den italienske lire
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2719/74 della Commissione, del 25 ottobre 1974, che
+    modifica il regolamento (CEE) n. 1895/74 in seguito alla fissazione di un nuovo
+    tasso rappresentativo per la lira italiana
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2719/74 van de Commissie van 25 oktober 1974 tot
+    wijziging van Verordening (EEG) nr. 1895/74 naar aanleiding van de vaststelling
+    van een nieuwe representatieve koers voor de Italiaanse lire
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2719
+docidentifier:
+- content: EU Regulation 2719/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2719
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2719/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-25'
+- type: implemented
+  at: '1974-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1895
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

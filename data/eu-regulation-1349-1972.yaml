@@ -1,0 +1,90 @@
+---
+id: EURegulation13491972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1349/72 of the Council of 27 June 1972 on the production
+    and marketing of eggs for hatching and of farmyard poultry chicks
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1349/72 du Conseil, du 27 juin 1972, concernant la
+    production et la commercialisation des oeufs à couver et des poussins de volailles
+    de basse-cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1349/72 des Rates vom 27. Juni 1972 über die Erzeugung
+    von und den Verkehr mit Bruteiern und Küken von Hausgeflügel
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 1349/72 af 27. juni 1972 om produktion og afsætning
+    af rugeæg og kyllinger af fjerkræ
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1349/72 del Consiglio, del 27 giugno 1972, relativo
+    alla produzione e alla commercializzazione di uova da cova e pulcini di volatili
+    da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1349/72 van de Raad van 27 juni 1972 betreffende
+    de produktie van en de handel in broedeieren en kuikens van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1349
+docidentifier:
+- content: EU Regulation 1349/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1349
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1349/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-27'
+- type: implemented
+  at: '1972-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0129
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

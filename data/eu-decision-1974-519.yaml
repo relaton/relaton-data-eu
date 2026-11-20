@@ -1,0 +1,104 @@
+---
+id: EUDecision1974519
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '74/519/EEC: Commission Decision of 18 October 1974 extending the list
+    of agricultural products in respect of which security need not be lodged for the
+    purpose of importation into Italy ''inter alia'''
+  type: main
+- language: fr
+  script: Latn
+  content: '74/519/CEE: Décision de la Commission, du 18 octobre 1974, portant notamment
+    élargissement de la liste des produits agricoles non soumis au régime du dépôt
+    valable à l'' importation en Italie'
+  type: main
+- language: de
+  script: Latn
+  content: '74/519/EWG: Entscheidung der Kommission vom 18. Oktober 1974 zur Erweiterung
+    der Liste der landwirtschaftlichen Erzeugnisse, die bei der Einfuhr nach Italien
+    nicht der Depotregelung unterliegen'
+  type: main
+- language: da
+  script: Latn
+  content: '74/519/EØF: Kommissionens Beslutning af 18. oktober 1974 om udvidelse
+    af listen over landbrugsprodukter, som ikke er omfattet af den depositumsordning,
+    som gælder ved indførsel til Italien'
+  type: main
+- language: it
+  script: Latn
+  content: '74/519/CEE: Decisione della Commissione, del 18 ottobre 1974, che, in
+    particolare, include nuovi prodotti nell'' elenco dei prodotti agricoli non soggetti
+    al regime di cauzionamento applicato all'' importazione in Italia'
+  type: main
+- language: nl
+  script: Latn
+  content: '74/519/EEG: Beschikking van de Commissie van 18 oktober 1974 houdende
+    met name uitbreiding van de lijst van landbouwprodukten welke niet vallen onder
+    het bij invoer in Italië geldende depositostelsel'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974D0519
+docidentifier:
+- content: EU Decision 1974/519
+  type: EU
+  primary: true
+- content: CELEX 31974D0519
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1974/519/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-18'
+- type: implemented
+  at: '1974-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974D0291
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974D0317
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974D0386
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

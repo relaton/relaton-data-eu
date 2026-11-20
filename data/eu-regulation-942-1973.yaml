@@ -1,0 +1,94 @@
+---
+id: EURegulation9421973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 942/73 of the Commission of 6 April 1973 postponing
+    the application of Regulation (EEC) No 1770/72 and making a temporary derogation
+    from Regulation (EEC) No 1769/72
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 942/73 de la Commission, du 6 avril 1973, reportant
+    la date de mise en application du règlement (CEE) n° 1770/72 et dérogeant transitoirement
+    au règlement (CEE) n° 1769/72
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 942/73 der Kommission vom 6. April 1973 zur Verschiebung
+    des Zeitpunkts der Anwendung der Verordnung (EWG) Nr. 1770/72 und zur vorübergehenden
+    Abweichung von der Verordnung (EWG) Nr. 1769/72
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 942/73 af 6. april 1973 om udsættelse
+    af tidspunktet for ikrafttrædelsen af forordning (EØF) nr. 1770/72 og om midlertidig
+    ændring af forordning (EØF) nr. 1769/72
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 942/73 della Commissione, del 6 aprile 1973, recante
+    rinvio della data di applicazione del regolamento (CEE) n. 1770/72, nonché deroga
+    transitoria al regolamento (CEE) n. 1769/72
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 942/73 van de Commissie van 6 april 1973 houdende
+    uitstel van de datum voor de tenuitvoerlegging van Verordening (EEG) nr. 1770/72
+    en houdende tijdelijke afwijking van Verordening (EEG) nr. 1769/72
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0942
+docidentifier:
+- content: EU Regulation 942/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0942
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/942/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-06'
+- type: implemented
+  at: '1973-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1770
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

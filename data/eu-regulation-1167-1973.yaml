@@ -1,0 +1,102 @@
+---
+id: EURegulation11671973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1167/73 of the Commission of 2 May 1973 extending Regulations
+    (EEC) Nos 368/73 and 621/73 of the Commission as regards the standard method of
+    denaturing common wheat in Denmark, Ireland and the United Kingdom
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1167/73 de la Commission, du 2 mai 1973, prorogeant
+    les règlements (CEE) n° 368/73 et n 621/73 de la Commission en ce qui concerne
+    la méthode de référence pour la dénaturation du froment tendre au Danemark,
+    en Irlande et au Royaume-Uni
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1167/73 der Kommission vom 2. Mai 1973 zur Verlängerung
+    der Verordnungen (EWG) Nr. 368/73 und 621/73 der Kommission hinsichtlich des Richtverfahrens
+    zur Denaturierung von Weichweizen in Dänemark, Irland und im Vereinigten Königreich
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1167/73 af 2. maj 1973 om forlængelse
+    af Kommissionens forordning (EØF) nr. 368/73 og nr. 621/73 angående referencemetoden
+    til denaturering af blød hvede i Danmark, Irland og Det forenede Kongerige
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1167/73 della Commissione, del 2 maggio 1973, che
+    proroga i regolamenti (CEE) n. 368/73 e n. 621/73 della Commissione, per quanto
+    riguarda il metodo di riferimento per la denaturazione del frumento tenero in
+    Danimarca, in Irlanda e nel Regno Unito
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1167/73 van de Commissie van 2 mei 1973 houdende
+    verlenging van de geldigheidsduur van de Verordeningen (EEG) nr. 368/73 en nr.
+    621/73 van de Commissie voor wat betreft de referentiemethode voor de denaturering
+    van zachte tarwe in Denemarken, Ierland en het Verenigd Koninkrijk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1167
+docidentifier:
+- content: EU Regulation 1167/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1167
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1167/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-05-02'
+- type: implemented
+  at: '1973-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0368
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0621
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

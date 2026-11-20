@@ -1,0 +1,83 @@
+---
+id: EURegulation4751967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 475/67/CEE de la Commission du 21 août 1967 relatif aux
+    modalités de calcul du prélèvement applicable aux produits transformés à
+    base de céréales et de riz et à la préfixation du prélèvement pour certains
+    d'entre eux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 475/67/EWG der Kommission vom 21. August 1967 über die
+    Einzelheiten der Berechnung der Abschöpfung für Verarbeitungserzeugnisse aus
+    Getreide und Reis und zur vorherigen Festsetzung der Abschöpfung für einige
+    dieser Erzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 475/67/CEE della Commissione, del 21 agosto 1967, relativo
+    alle modalità di calcolo del prelievo applicabile ai prodotti trasformati a base
+    di cereali e di riso e alla fissazione anticipata del prelievo per taluni di questi
+    prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 475/67/EEG van de Commissie van 21 augustus 1967 betreffende
+    de wijze waarop de heffing voor de op basis van granen en rijst verwerkte produkten
+    wordt berekend en voor enkele daarvan van tevoren wordt vastgesteld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0475
+docidentifier:
+- content: EU Regulation 475/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0475
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/475/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-21'
+- type: implemented
+  at: '1967-08-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0229
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

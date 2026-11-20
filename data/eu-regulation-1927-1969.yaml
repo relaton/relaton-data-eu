@@ -1,0 +1,66 @@
+---
+id: EURegulation19271969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1927/69 de la Commission, du 29 septembre 1969, fixant
+    les prélèvements à l'importation dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1927/69 der Kommission vom 29. September 1969 zur
+    Festsetzung der Abschöpfungen bei der Einfuhr von Milch und Milcherzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1927/69 della Commissione, del 29 settembre 1969,
+    che fissa i prelievi all'importazione applicabili nel settore del latte e dei
+    prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1927/69 van de Commissie van 29 september 1969 houdende
+    vaststelling van de invoerheffingen in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1927
+docidentifier:
+- content: EU Regulation 1927/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1927
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1927/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

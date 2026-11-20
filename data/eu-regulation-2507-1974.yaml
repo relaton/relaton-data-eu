@@ -1,0 +1,93 @@
+---
+id: EURegulation25071974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2507/74 of the Council of 2 October 1974 amending Regulation
+    (EEC) No 2108/70 determining the Community scale for grading pig carcases
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2507/74 du Conseil, du 2 octobre 1974, modifiant le
+    règlement (CEE) n° 2108/70 portant détermination de la grille communautaire
+    de classement des carcasses de porcs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2507/74 des Rates vom 2. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2108/70 zur Bestimmung des gemeinschaftlichen Handelsklassenschemas
+    für Schweinehälften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2507/74 af 2. oktober 1974 om ændring af
+    forordning (EØF) nr. 2108/70 om fastsættelse af Fællesskabets handelsklasseskema
+    for svinekroppe
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2507/74 del Consiglio, del 2 ottobre 1974, che modifica
+    il regolamento (CEE) n. 2108/70 che determina la tabella comunitaria di classificazione
+    delle carcasse di suino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2507/74 van de Raad van 2 oktober 1974 tot wijziging
+    van Verordening (EEG) nr. 2108/70 tot vaststelling van het communautaire indelingsschema
+    voor geslachte varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2507
+docidentifier:
+- content: EU Regulation 2507/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2507
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2507/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-02'
+- type: implemented
+  at: '1974-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2108
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

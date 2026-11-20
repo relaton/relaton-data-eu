@@ -1,0 +1,94 @@
+---
+id: EURegulation25151974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2515/74 of the Commission of 3 October 1974 amending
+    Regulation (EEC) No 320/73 for the fourth time as regards the list of representative
+    markets for adult bovine animals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2515/74 de la Commission, du 3 octobre 1974, portant
+    quatrième modification du règlement (CEE) n° 320/73 en ce qui concerne la liste
+    des marchés représentatifs des gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2515/74 der Kommission vom 3. Oktober 1974 zur vierten
+    Änderung der Verordnung (EWG) Nr. 320/73 über die Liste der repräsentativen
+    Märkte für ausgewachsene Rinder
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2515/74 af 3. oktober 1974 om fjerde
+    ændring af forordning (EØF) nr. 320/73 vedrørende listen over de repræsentative
+    markeder for voksent kvæg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2515/74 della Commissione, del 3 ottobre 1974, recante
+    quarta modifica del regolamento (CEE) n. 320/73 per quanto concerne l'elenco dei
+    mercati rappresentativi per i bovini adulti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2515/74 van de Commissie van 3 oktober 1974 houdende
+    vierde wijziging van Verordening (EEG) nr. 320/73 met betrekking tot de lijst
+    van de representatieve markten voor volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2515
+docidentifier:
+- content: EU Regulation 2515/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2515
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2515/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-03'
+- type: implemented
+  at: '1974-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

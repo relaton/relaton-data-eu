@@ -1,0 +1,134 @@
+---
+id: EURegulation1921968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 192/68 of the Commission of 16 February 1968 supplementing
+    Regulations Nos 282/67/EEC and 284/67/EEC on oil seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 192/68 de la Commission, du 16 février 1968, complétant
+    les règlements n°s 282/67/CEE et 284/67/CEE relatifs aux graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 192/68 der Kommission vom 16. Februar 1968 zur Ergänzung
+    der Verordnungen Nr. 282/67/EWG und Nr. 284/67/EWG betreffend Ölsaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 192/68 af 16. februar 1968 om supplering
+    af forordningerne nr. 282/67/EØF og 284/67/EØF om olieholdige frø
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 192/68 της Επιτροπής
+    της 16ης Φεβρουαρίου 1968 περί συμπληρώσεως των
+    κανονισμών αριθ. 282/67/ΕΟΚ και 284/67/ΕΟΚ περί των
+    ελαιούχων σπόρων
+  type: main
+- language: fi
+  script: Latn
+  content: KOMISSION ASETUS (ETY) N:o 192/68, annettu 16 päivänä helmikuuta 1968,
+    öljysiemeniä koskevien asetusten N:o 282/67/ETY ja 284/67/ETY täydentämisestä
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 192/68 della Commissione, del 16 febbraio 1968, che
+    completa i regolamenti n. 282/67/CEE e 284/67/CEE relativi ai semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 192/68 van de Commissie van 16 februari 1968 houdende
+    aanvulling van de Verordeningen nrs. 282/67/EEG en 284/67/EEG betreffende oliehoudende
+    zaden
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 192/68 da Comissão, de 16 de Fevereiro de 1968,
+    que completa os Regulamentos n.° 282/67/CEE e n.° 284/67/CEE relativos às sementes
+    oleaginosas
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 192/68 de la Comisión, de 16 de febrero de 1968,
+    por el que se completan los Reglamentos n° 282/67/CEE y 284/67/CEE relativos
+    a las semillas oleaginosas
+  type: main
+- language: sv
+  script: Latn
+  content: KOMMISSIONENS FÖRORDNING (EEG) nr 192/68 av den 16 februari 1968 om komplettering
+    av förordningarna nr 282/67/EEG och 284/67/EEG om oljeväxtfrö
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0192
+docidentifier:
+- content: EU Regulation 192/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0192
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/192/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-02-16'
+- type: implemented
+  at: '1968-02-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0687
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0282
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0284
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

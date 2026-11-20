@@ -1,0 +1,108 @@
+---
+id: EURegulation5101983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 510/83 of 3 March 1983 amending Regulation
+    (EEC) No 3172/82 fixing the buying-in prices for hindquarters of beef
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 510/83 de la Commission du 3 mars 1983 modifiant le
+    règlement (CEE) no 3172/82 fixant les prix d' achat à l' intervention de quartiers
+    arrière dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 510/83 der Kommission vom 3. März 1983 zur Änderung
+    der Verordnung (EWG) Nr. 3172/82 zur Festsetzung der Ankaufspreise bei Interventionen
+    für Hinterviertel auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 510/83 af 3. marts 1983 om ændring
+    af forordning (EØF) nr. 3172/82 om fastsættelse af interventionsopkøbspriserne
+    for bagfjerdinger inden for oksekødsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 510/83 της Επιτροπής
+    της 3ης Μαρτίου 1983 για τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 3172/82 για τον καθορισμό των τιμών
+    αγοράς στην παρέμβαση των οπισθίων τεταρτημορίων
+    στον τομέα του βοείου κρέατος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 510/83 della Commissione del 3 marzo 1983 che modifica
+    il regolamento (CEE) n. 3172/82 che fissa i prezzi d' acquisto dei quarti posteriori
+    applicabili all' intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 510/83 van de Commissie van 3 maart 1983 tot wijziging
+    van Verordening (EEG) nr. 3172/82 tot vaststelling van de aankoopprijzen bij interventiemaatregelen
+    voor achtervoeten in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0510
+docidentifier:
+- content: EU Regulation 510/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0510
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/510/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-03-03'
+- type: implemented
+  at: '1983-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R3172
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R3272
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EURegulation6261970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 626/70 de la Commission, du 4 avril 1970, modifiant
+    le règlement (CEE) n° 1666/69 en ce qui concerne les subventions et montants
+    compensatoires dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 626/70 der Kommission vom 4. April 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1666/69 hinsichtlich der Subventionen und Ausgleichsbeträge
+    auf dem Rindfleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 626/70 della Commissione, del 4 aprile 1970, che modifica
+    il regolamento (CEE) n. 1666/69 per quanto riguarda le sovvenzioni e gli importi
+    di compensazione nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 626/70 van de Commissie van 4 april 1970 houdende
+    wijziging van Verordening (EEG) nr. 1666/69 met betrekking tot de subsidies en
+    compenserende bedragen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0626
+docidentifier:
+- content: EU Regulation 626/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0626
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/626/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-04'
+- type: implemented
+  at: '1970-04-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1666
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

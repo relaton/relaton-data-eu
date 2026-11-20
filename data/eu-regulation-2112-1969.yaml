@@ -1,0 +1,94 @@
+---
+id: EURegulation21121969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2112/69 of the Council of 28 October 1969 amending
+    Regulation No 213/67/EEC laying down the list of representative markets for pigmeat
+    in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2112/69 du Conseil, du 28 octobre 1969 modifiant le
+    règlement n° 213/67/CEE établissant la liste des marchés représentatifs pour
+    le secteur de la viande de porc dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2112/69 des Rates vom 28. Oktober 1969 zur Änderung
+    der Verordnung Nr. 213/67/EWG des Rates zur Festsetzung des Verzeichnisses der
+    repräsentativen Märkte für den Schweinefleischsektor in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2112/69 af 28. oktober 1969 om ændring af
+    Rådets forordning nr. 213/67/EØF om oprettelse af fortegnelsen over de repræsentative
+    markeder for svinekød inden for Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2112/69 del Consiglio, del 28 ottobre 1969, che modifica
+    il regolamento n. 213/67/CEE che stabilisce l' elenco dei mercati rappresentativi
+    per il settore delle carni suine nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2112/69 van de Raad van 28 oktober 1969 houdende
+    wijziging van Verordening nr. 213/67/EEG tot vaststelling van de lijst van de
+    representatieve markten voor de sector varkensvlees in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2112
+docidentifier:
+- content: EU Regulation 2112/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2112
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2112/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-28'
+- type: implemented
+  at: '1969-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0213
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

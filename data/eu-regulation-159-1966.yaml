@@ -1,0 +1,79 @@
+---
+id: EURegulation1591966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 159/66/CEE du Conseil, du 25 octobre 1966, portant dispositions
+    complémentaires pour l'organisation commune des marchés dans le secteur des
+    fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 159/66/EWG des Rates vom 25. Oktober 1966 mit zusätzlichen
+    Vorschriften für die gemeinsame Marktorganisation für Obst und Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 159/66/CEE del Consiglio, del 25 ottobre 1966, relativo
+    a disposizioni complementari per l'organizzazione comune dei mercati nel settore
+    degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 159/66/EEG van de Raad van 25 oktober 1966 houdende aanvullende
+    bepalingen inzake de gemeenschappelijke ordening der markten in de sector groenten
+    en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0159
+docidentifier:
+- content: EU Regulation 159/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0159
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/159/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-25'
+- type: implemented
+  at: '1966-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0023
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

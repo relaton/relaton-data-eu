@@ -1,0 +1,69 @@
+---
+id: EURegulation4501972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 450/72 de la Commission, du 2 mars 1972, fixant les
+    restitutions applicables aux céréales, aux farines et aux gruaux et semoules
+    de froment ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 450/72 der Kommission vom 2. März 1972 zur Festsetzung
+    der auf Getreide, Mehle, GrobgrieD und FeingrieD von Weizen oder Roggen anzuwendenden
+    Erstattungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 450/72 della Commissione, del 2 marzo 1972, che fissa
+    le restituzioni per i cereali e le farine, semole e semolini di frumento o di
+    segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 450/72 van de Commissie van 2 maart 1972 houdende
+    vaststelling van de restituties die van toepassing zijn op granen en meel, gries
+    en griesmeel van tarwe of van rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0450
+docidentifier:
+- content: EU Regulation 450/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0450
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/450/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

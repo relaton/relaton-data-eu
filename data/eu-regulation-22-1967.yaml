@@ -1,0 +1,73 @@
+---
+id: EURegulation221967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 22/67/CEE de la Commission, du 6 février 1967, fixant le
+    volume de la consommation totale annuelle de l'industrie pour les besoins intérieurs,
+    dans le secteur du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 22/67/EWG der Kommission vom 6. Februar 1967 zur Bestimmung
+    des jährlichen Gesamtverbrauchs der reisverarbeitenden Industrie für den Inlandsbedarf
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 22/67/CEE della Commissione, del 6 febbraio 1967, che fissa
+    il volume del consumo annuo totale dell'industria per il fabbisogno interno nel
+    settore del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 22/67/EEG van de Commissie van 6 februari 1967 houdende
+    vaststelling van het totale jaarlijkse verbruik van de industrie voor de voorziening
+    in de binnenlandse behoeften in de sector rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0022
+docidentifier:
+- content: EU Regulation 22/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0022
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/22/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-02-06'
+- type: implemented
+  at: '1967-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

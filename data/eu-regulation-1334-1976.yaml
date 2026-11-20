@@ -1,0 +1,99 @@
+---
+id: EURegulation13341976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1334/76 of 9 June 1976 amending Regulation
+    (EEC) No 588/76 on detailed rules for the distillation of table wines for which
+    the distillation contract must be approved before 15 April 1976
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1334/76 de la Commission, du 9 juin 1976, modifiant
+    le règlement (CEE) n° 588/76 relatif aux modalités d' application des opérations
+    de distillation des vins de table dont le contrat de distillation doit être agréé
+    avant le 15 avril 1976
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1334/76 der Kommission vom 9. Juni 1976 zur Änderung
+    der Verordnung (EWG) Nr. 588/76 mit Durchführungsvorschriften für die Destillation
+    von Tafelweinen, deren Destillationsvertrag vor dem 15. April 1976 genehmigt werden
+    muß
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1334/76 af 9. juni 1976 om ændring
+    af forordning (EØF) nr. 588/76 om de gennemførelsesbestemmelser for destillation
+    af bordvine, hvorom der skal afsluttes destillationskontrakt inden den 15. april
+    1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1334/76 della Commissione, del 9 giugno 1976, che
+    modifica il regolamento (CEE) n. 588/76 relativo alle modalità di applicazione
+    delle operazioni di distillazione dei vini da pasto il cui contratto di distillazione
+    deve essere approvato prima del 15 aprile 1976
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1334/76 van de Commissie van 9 juni 1976 tot wijziging
+    van Verordening (EEG) nr. 588/76 houdende uitvoeringsbepalingen inzake de distillatie
+    van tafelwijn waarvoor het distillatiecontract moet worden goedgekeurd vóór
+    15 april 1976
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1334
+docidentifier:
+- content: EU Regulation 1334/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1334
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1334/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-09'
+- type: implemented
+  at: '1976-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0588
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EURegulation541962
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* Regulation No 54 of the Council on the criteria for fixing the scale of premiums applicable to imports of cereals from third countries */"
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 54 du Conseil relatif aux critères de fixation du barème
+    des primes applicables aux importations de céréales en provenance des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 54 des Rats über die Kriterien für die Festlegung der
+    Prämiensätze bei Getreideeinfuhren aus dritten Ländern
+  type: main
+- language: da
+  script: Latn
+  content: "/* Rådets forordning nr. 54 om kriterierne for fastsættelse af skalaen over præmier ved import af korn fra tredjelande */"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 54 del Consiglio relativo ai criteri di fissazione dei supplementi
+    applicabili alle importazioni di cereali in provenienza dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 54 van de Raad, betreffende de criteria voor de vaststelling
+    van de premieschaal geldend bij de invoer van granen uit derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0054
+docidentifier:
+- content: EU Regulation 54/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0054
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/54/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-06-30'
+- type: implemented
+  at: '1962-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

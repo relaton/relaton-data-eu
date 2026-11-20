@@ -1,0 +1,104 @@
+---
+id: EURegulation12021981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1202/81 of 5 May 1981 amending Regulation
+    (EEC) No 1204/72 laying down detailed rules for the application of the subsidy
+    system for oilseeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1202/81 de la Commission, du 5 mai 1981, modifiant
+    le règlement (CEE) n° 1204/72 portant modalités d' application du régime de
+    l' aide pour les graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1202/81 der Kommission vom 5. Mai 1981 zur Änderung
+    der Verordnung (EWG) Nr. 1204/72 über Durchführungsbestimmungen zur Beihilferegelung
+    für Ölsaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1202/81 af 5. maj 1981 om ændring
+    af forordning (EØF) nr. 1204/72 om gennemførelsesbestemmelser til støtteordningen
+    for olieholdige frø
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1202/81 τής Επιτροπής
+    τής 5ης Μαΐου 1981 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 1204/72 «περί λεπτομερειών εφαρμογής
+    τού καθεστώτος τής ενισχύσεως γιά τούς ελαιούχους
+    σπόρους»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1202/81 della Commissione, del 5 maggio 1981, che
+    modifica il regolamento (CEE) n. 1204/72, che stabilisce le modalità di applicazione
+    del regime d' integrazione per i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1202/81 van de Commissie van 5 mei 1981 tot wijziging
+    van Verordening (EEG) nr. 1204/72 houdende uitvoeringsbepalingen inzake de steunregeling
+    voor oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R1202
+docidentifier:
+- content: EU Regulation 1202/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R1202
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/1202/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-05-05'
+- type: implemented
+  at: '1981-05-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1204
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

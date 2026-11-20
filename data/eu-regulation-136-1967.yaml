@@ -1,0 +1,74 @@
+---
+id: EURegulation1361967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 136/67/CEE du Conseil, du 13 juin 1967, prorogeant le règlement
+    n° 142/64/CEE en ce qui concerne la restitution à la production pour les brisures
+    de riz utilisées pour la fabrication de l'amidon et du quellmehl
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 136/67/EWG des Rates vom 13. Juni 1967 zur Verlängerung
+    der Verordnung Nr. 142/64/EWG betreffend die Erstattung bei der Erzeugung für
+    Bruchreis, der zur Herstellung von Stärke und Quellmehl bestimmt ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 136/67/CEE del Consiglio, del 13 giugno 1967, che proroga
+    il regolamento n. 142/64/CEE per quanto riguarda la restituzione alla produzione
+    per le rotture di riso utilizzate nella fabbricazione dell'amido e del quellmehl
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 136/67/EEG van de Raad van 13 juni 1967 tot verlenging
+    van Verordening Nr. 142/64/EEG voor wat betreft de restitutie bij de produktie
+    voor breukrijst, gebruikt in de zetmeel- en Quellmeelindustrie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0136
+docidentifier:
+- content: EU Regulation 136/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0136
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/136/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-13'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

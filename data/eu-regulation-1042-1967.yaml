@@ -1,0 +1,81 @@
+---
+id: EURegulation10421967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 1042/67/CEE du Conseil, du 21 décembre 1967, prorogeant
+    la durée de validité des règlements n° 214/67/CEE et 407/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 1042/67/EWG des Rates vom 21. Dezember 1967 zur Verlängerung
+    der Geltungsdauer der Verordnungen Nr. 214/67/EWG und Nr. 407/67/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 1042/67/CEE del Consiglio, del 21 dicembre 1967, che proroga
+    i regolamenti n. 214/67/CEE e n. 407/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 1042/67/EEG van de Raad van 21 december 1967 tot verlenging
+    van de geldigheidsduur van Verordening Nr. 214/67/EEG en van Verordening Nr. 407/67/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R1042
+docidentifier:
+- content: EU Regulation 1042/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R1042
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/1042/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-21'
+- type: implemented
+  at: '1967-12-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0214
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0407
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

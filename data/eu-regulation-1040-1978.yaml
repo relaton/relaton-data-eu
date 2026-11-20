@@ -1,0 +1,90 @@
+---
+id: EURegulation10401978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1040/78 of 22 May 1978 amending Regulation
+    (EEC) No 880/77 on the granting of a consumer subsidy for butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1040/78 du Conseil, du 22 mai 1978, modifiant le règlement
+    (CEE) n° 880/77 relatif à l' octroi d' une aide à la consommation de beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1040/78 des Rates vom 22. Mai 1978 zur Änderung der
+    Verordnung (EWG) Nr. 880/77 über die Gewährung einer Beihilfe für den Butterverbrauch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1040/78 af 22. maj 1978 om ændring af forordning
+    (EØF) nr. 880/77 om støtte til forbruget af smør
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1040/78 del Consiglio, del 22 maggio 1978, che modifica
+    il regolamento (CEE) n. 880/77, relativo alla concessione di un aiuto a favore
+    del consumo di burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1040/78 van de Raad van 22 mei 1978 tot wijziging
+    van Verordening (EEG) nr. 880/77 inzake toekenning van steun bij de consumptie
+    van boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1040
+docidentifier:
+- content: EU Regulation 1040/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1040
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1040/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-22'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0880
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

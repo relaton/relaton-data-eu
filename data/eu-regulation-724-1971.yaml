@@ -1,0 +1,90 @@
+---
+id: EURegulation7241971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 724/71 of the Council of 30 March 1971 including further
+    products in the list given in Annex I to Regulation (EEC) No 1025/70
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 724/71 du Conseil, du 30 mars 1971, portant inclusion
+    de nouveaux produits dans la liste figurant à l' annexe l du règlement (CEE)
+    n° 1025/70
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 724/71 des Rates vom 30. März 1971 zur Aufnahme weiterer
+    Waren in die im Anhang I der Verordnung (EWG) Nr. 1025/70 aufgeführte Liste
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 724/71/EØF af 30. marts 1971 om optagelse af yderligere
+    varer på den i bilag I til forordning nr. 1025/70/EØF opførte liste
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 724/71 del Consiglio, del 30 marzo 1971, relativo
+    all' inclusione di nuovi prodotti nell' elenco di cui all' allegato I del regolamento
+    (CEE) n. 1025/70
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 724/71 van de Raad van 30 maart 1971 houdende opname
+    van nieuwe produkten op de lijst van bijlage I van Verordening (EEG) nr. 1025/70
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0724
+docidentifier:
+- content: EU Regulation 724/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0724
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/724/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-30'
+- type: implemented
+  at: '1971-04-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1025
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

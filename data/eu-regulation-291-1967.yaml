@@ -1,0 +1,70 @@
+---
+id: EURegulation2911967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 291/67/CEE de la Commission, du 12 juillet 1967, fixant
+    la liste des marchés représentatifs à la production pour les poires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 291/67/EWG der Kommission vom 12. Juli 1967 zur Festsetzung
+    der Liste der repräsentativen Erzeugermärkte für Birnen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 291/67/CEE della Commissione, del 12 luglio 1967, che fissa
+    l'elenco dei mercati rappresentativi alla produzione per le pere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 291/67/EEG van de Commissie van 12 juli 1967 houdende vaststelling
+    van de lijst van representatieve produktiemarkten voor peren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0291
+docidentifier:
+- content: EU Regulation 291/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0291
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/291/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-12'
+- type: implemented
+  at: '1967-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

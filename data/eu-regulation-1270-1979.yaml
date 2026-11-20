@@ -1,0 +1,98 @@
+---
+id: EURegulation12701979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1270/79 of 25 June 1979 extending Regulation
+    (EEC) No 1078/77 introducing a system of premiums for the non-marketing of milk
+    and milk products and for the conversion of dairy herds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1270/79 du Conseil, du 25 juin 1979, prorogeant le
+    règlement (CEE) n° 1078/77 instituant un régime de primes de non-commercialisation
+    du lait et des produits laitiers et de reconversion de troupeaux bovins à orientation
+    laitière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1270/79 des Rates vom 25. Juni 1979 zur Verlängerung
+    der Geltungsdauer der Verordnung (EWG) Nr. 1078/77 zur Einführung einer Prämienregelung
+    für die Nichtvermarktung von Milch und Milcherzeugnissen und die Umstellung der
+    Milchkuhbestände
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1270/79 af 25. juni 1979 om forlængelse
+    af forordning (EØF) nr. 1078/77 om indførelse af en præmieordning for ikke-markedsføring
+    af mælk og mejeriprodukter og for omstilling af malkekvægsbesætninger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1270/79 del Consiglio, del 25 giugno 1979, che proroga
+    il regolamento (CEE) n. 1078/77, che istituisce un regime di premi per la non
+    commercializzazione del latte e dei prodotti lattiero-caseari e per la riconversione
+    di mandrie bovine ad orientamento lattiero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1270/79 van de Raad van 25 juni 1979 tot verlenging
+    van Verordening (EEG) nr. 1078/77 tot invoering van een stelsel van premies voor
+    het niet in de handel brengen van melk en zuivelprodukten en voor de omschakeling
+    van het melkveebestand
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1270
+docidentifier:
+- content: EU Regulation 1270/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1270
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1270/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-06-25'
+- type: implemented
+  at: '1979-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1078
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

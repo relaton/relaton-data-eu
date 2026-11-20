@@ -1,0 +1,94 @@
+---
+id: EUDecision1974348
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Third Council Decision of 27 June 1974 on the equivalence of field inspections
+    carried out in third countries on seed-producing crops
+  type: main
+- language: fr
+  script: Latn
+  content: Troisième Décision du Conseil du 27 juin 1974, concernant l'équivalence
+    des inspections sur pied des cultures productrices de semences, effectuées dans
+    des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Dritte Entscheidung des Rates vom 27. Juni 1974 über die Gleichstellung
+    von Feldbesichtigungen von Saatgutvermehrungsbeständen in dritten Ländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets tredje Beslutning af 27. juni 1974 om ligestilling af markinspektioner
+    af frøproduktionskulturer i tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Terza decisione del Consiglio, del 27 giugno 1974, relativa all'equivalenza
+    delle ispezioni in campo delle colture di sementi effettuate in paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Derde beschikking van de Raad van 27 juni 1974 betreffende de gelijkstelling
+    van in derde landen verrichte keuringen op het veld van daarop voortgebracht zaaizaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974D0348
+docidentifier:
+- content: EU Decision 1974/348
+  type: EU
+  primary: true
+- content: CELEX 31974D0348
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1974/348/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-27'
+- type: implemented
+  at: '1974-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0292
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973D0086
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,87 @@
+---
+id: EURegulation921972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 92/72 de la Commission, du 13 janvier 1972, relatif
+    à la suspension des adjudications permanentes en matière d'exportation de sucre
+    blanc et de sucre brut de betterave visées respectivement aux règlements (CEE)
+    n° 1734/70 et (CEE) n 258/71
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 92/72 der Kommission vom 13. Januar 1972 zur vorübergehenden
+    Aussetzung der in den Verordnungen (EWG) Nr. 1734/70 und (EWG) Nr. 258/71 vorgesehenen
+    Dauerausschreibungen für die Ausfuhr von Weißzucker und Rübenrohzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 92/72 della Commissione, del 13 gennaio 1972, relativo
+    alla sospensione delle gare permanenti in materia di esportazione di zucchero
+    bianco e di zucchero greggio di barbabietole di cui rispettivamente al regolamento
+    (CEE) n. 1734/70 e al regolamento (CEE) n. 258/71
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 92/72 van de Commissie van 13 januari 1972 tot schorsing
+    van de in de Verordeningen (EEG) nr. 1734/70 en (EEG) nr. 258/71 bedoelde permanente
+    openbare inschrijvingen voor de uitvoer van witte suiker en van ruwe beetwortelsuiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0092
+docidentifier:
+- content: EU Regulation 92/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0092
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/92/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-01-13'
+- type: implemented
+  at: '1972-01-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1734
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0258
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

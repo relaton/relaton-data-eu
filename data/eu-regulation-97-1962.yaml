@@ -1,0 +1,67 @@
+---
+id: EURegulation971962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 97 de la Commission relatif à l'incidence de l'octroi d'une
+    restitution à la production sur le régime des amidons, des fécules et du gluten
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 97 der Kommission über die Auswirkung der Gewährung einer
+    Erstattung bei der Erzeugung auf die Regelung für Stärke und Kleber
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 97 della Commissione relativo all'incidenza della concessione
+    di una restituzione alla produzione sul regime degli amidi, delle fecole e del
+    glutine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 97 van de Commissie betreffende het effect dat de toekenning
+    van een restitutie bij de produktie heeft ten aanzien van de produkten zetmeel
+    en gluten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0097
+docidentifier:
+- content: EU Regulation 97/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0097
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/97/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

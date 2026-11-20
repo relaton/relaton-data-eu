@@ -1,0 +1,65 @@
+---
+id: EURegulation1331964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 133/64/CEE de la Commission, du 30 septembre 1964, relatif
+    à la fixation d'un montant supplémentaire pour les oeufs de volailles en coquille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 133/64/EWG der Kommission vom 30. September 1964 über die
+    Festsetzung eines Zusatzbetrages für Eier in der Schale von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 133/64/CEE della Commissione, del 30 settembre 1964, che
+    fissa l'importo supplementare per le uova in guscio di volatili
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 133/64/EEG van de Commissie van 30 september 1964 houdende
+    vaststelling van een extra-bedrag voor eieren in de schaal van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0133
+docidentifier:
+- content: EU Regulation 133/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0133
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/133/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

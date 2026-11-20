@@ -1,0 +1,73 @@
+---
+id: EURegulation561965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 56/65/CEE du Conseil, du 12 avril 1965, relatif à la restitution
+    applicable dans les échanges intracommunautaires de fromages des types emmental,
+    gruyère et sbrinz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 56/65/EWG des Rates vom 12. April 1965 über die Erstattung
+    für Emmentaler, Greyerzer und Sbrinz-Käse im innergemeinschaftlichen Handel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 56/65/CEE del Consiglio, del 12 aprile 1965, relativo alla
+    restituzione applicabile negli scambi intracomunitari di formaggi dei tipi Emmental,
+    Gruyère, e Sbrinz
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 56/65/EEG van de Raad van 12 april 1965 betreffende de
+    restitutie die in het intracommunautaire handelsverkeer in Emmentaler-, Gruyère-
+    en Sbrinzkaas van toepassing is
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0056
+docidentifier:
+- content: EU Regulation 56/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0056
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/56/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-04-12'
+- type: implemented
+  at: '1965-04-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,89 @@
+---
+id: EURegulation1881967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 188/67/CEE du Conseil, du 27 juin 1967, prorogeant les règlements
+    n° 113/66/CEE, n 226/66/CEE et n° 57/67/CEE en ce qui concerne le régime spécial
+    relatif au calcul du prélèvement des fromages fondus et des laits spéciaux
+    "pour nourrissons"
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 188/67/EWG des Rates vom 27. Juni 1967 zur Verlängerung
+    der Verordnungen Nr. 113/66/EWG, Nr. 226/66/EWG und Nr. 57/67/EWG in bezug auf
+    die Sonderregelung für die Berechnung des Abschöpfungsbetrags für Schmelzkäse
+    und Schmelzkäsezubereitungen und Milch zur Ernährung von Säuglingen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 188/67/CEE del Consiglio, del 27 giugno 1967, che proroga
+    i regolamenti n. 113/66/CEE, n. 226/66/CEE e n. 57/67/CEE per quanto concerne
+    il regime speciale relativo al calcolo del prelievo per i formaggi fusi e per
+    alcuni tipi speciali di latte detti «per l'alimentazione dei lattanti»
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 188/67/EEG van de Raad van 27 juni 1967 houdende verlenging
+    van Verordeningen Nr. 113/66/EEG, Nr. 226/66/EEG en Nr. 57/67/EEG met betrekking
+    tot de speciale regeling betreffende de berekening van de heffing op smeltkaas
+    en bijzondere melk voor zuigelingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0188
+docidentifier:
+- content: EU Regulation 188/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0188
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/188/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0226
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0057
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

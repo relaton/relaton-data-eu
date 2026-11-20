@@ -1,0 +1,91 @@
+---
+id: EURegulation341964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 34/64/CEE du Conseil, du 25 mars 1964, modifiant la liste
+    des produits en ce qui concerne certains produits à base de viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 34/64/EWG des Rats vom 25. März 1964 zur Änderung des
+    Warenverzeichnisses für einige Schweinefleischerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 34/64/CEE del Consiglio, del 25 marzo 1964, relativo alla
+    modifica dell'elenco dei prodotti per alcuni prodotti a base di carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 34/64/EEG van de Raad van 25 maart 1964 tot wijziging van
+    de lijst van produkten voor sommige varkensvleesprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0034
+docidentifier:
+- content: EU Regulation 34/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0034
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/34/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-03-25'
+- type: implemented
+  at: '1964-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0155
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0085
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0086
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0087
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

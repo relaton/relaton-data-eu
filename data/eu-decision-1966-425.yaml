@@ -1,0 +1,76 @@
+---
+id: EUDecision1966425
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/425/CEE de la Commission, du 27 juin 1966, autorisant la République
+    italienne à adopter des mesures de sauvegarde pour le sulfure de carbone
+  type: main
+- language: de
+  script: Latn
+  content: '66/425/EWG: Entscheidung der Kommission vom 27. Juni 1966, mit der der
+    Italienischen Republik die Genehmigung zur Anwendung einer Schutzmaßnahme für
+    Schwefelkohlenstoff erteilt wird'
+  type: main
+- language: it
+  script: Latn
+  content: '66/425/CEE: Decisione della Commissione, del 27 giugno 1966, che autorizza
+    la Repubblica italiana ad adottare una misura di salvaguardia per il solfuro di
+    carbonio'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/425/EEG: Beschikking van de Commissie van 27 juni 1966 waarbij de Italiaanse
+    Republiek wordt gemachtigd vrijwaringsmaatregelen te nemen voor zwavelkoolstof'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0425
+docidentifier:
+- content: EU Decision 1966/425
+  type: EU
+  primary: true
+- content: CELEX 31966D0425
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/425/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0031
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EURegulation9011973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 901/73 of the Commission of 2 April 1973 amending Regulation
+    (EEC) No 2474/72 on the sale at reduced prices of intervention butter for direct
+    consumption in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 901/73 de la Commission, du 2 avril 1973, modifiant
+    le règlement (CEE) n° 2474/72 relatif à l' écoulement à prix réduit de beurre
+    d' intervention destiné à la consommation directe dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 901/73 der Kommission vom 2. April 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2474/72 über den Absatz von Butter zu herabgesetzten
+    Preisen aus den Beständen der Interventionsstellen für den direkten Verbrauch
+    in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 901/73 af 2. april 1973 om ændring
+    af forordning (EØF) nr. 2474/72 om afsætning til nedsatte priser af interventionssmør,
+    bestemt til umiddelbart forbrug inden for Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 901/73 della Commissione, del 2 aprile 1973, che modifica
+    il regolamento (CEE) n. 2474/72 relativo allo smaltimento a prezzo ridotto di
+    burro di ammasso comunitario destinato al consumo diretto nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 901/73 van de Commissie van 2 april 1973 houdende
+    wijziging van Verordening (EEG) nr. 2474/72 met betrekking tot de afzet van de
+    interventieboter tegen verlaagde prijs bestemd voor onmiddellijk verbruik in de
+    Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0901
+docidentifier:
+- content: EU Regulation 901/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0901
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/901/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-02'
+- type: implemented
+  at: '1973-04-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2474
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

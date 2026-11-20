@@ -1,0 +1,71 @@
+---
+id: EURegulation4361968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 436/68 de la Commission, du 9 avril 1968, modifiant
+    le règlement n° 158/64/CEE afin de tenir compte de l'incidence, sur les prix
+    de certains produits laitiers, des changements du régime de taxation intervenus
+    en Belgique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 436/68 der Kommission vom 9. April 1968 zur Änderung
+    der Verordnung Nr. 158/64/EWG, um der Auswirkung der Änderung des Steuersystems
+    in Belgien auf die Preise bestimmter Micherzeugnisse Rechnung zu tragen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 436/68 della Commissione, del 9 aprile 1968, che modifica
+    il regolamento n. 158/64/CEE per tener conto dell'incidenza, sui prezzi di alcuni
+    prodotti lattiero-caseari, dei cambiamenti del regime fiscale istituito in Belgio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 436/68 van de Commissie van 9 april 1968 tot wijziging
+    van Verordening nr. 158/64/EEG ten einde rekening te houden met de invloed, op
+    de prijzen van bepaalde zuivelprodukten, van de wijzigingen van het belastingstelsel
+    die in België zijn ingevoerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0436
+docidentifier:
+- content: EU Regulation 436/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0436
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/436/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

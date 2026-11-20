@@ -1,0 +1,84 @@
+---
+id: EURegulation4071967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 407/67/CEE du Conseil, du 25 juillet 1967, modifiant le
+    règlement n° 214/67/CEE établissant les dispositions particulières applicables
+    aux marchandises relevant du règlement n° 160/66/CEE qui font l'objet d'échanges
+    entre les États membres et la Grèce
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 407/67/EWG des Rates vom 25. Juli 1967 zur Änderung der
+    Verordnung Nr. 214/67/EWG zur Festlegung der Sonderbestimmungen für Waren, die
+    unter die Verordnung Nr. 160/66/EWG fallen und zwischen den Mitgliedstaaten und
+    Griechenland gehandelt werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 407/67/CEE del Consiglio, del 25 luglio 1967, che modifica
+    il regolamento n. 214/67/CEE relativo all'adozione delle disposizioni particolari
+    applicabili alle merci soggette al regolamento n. 160/66/CEE oggetto di scambi
+    tra gli Stati membri e la Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 407/67/EEG van de Raad van 25 juli 1967 tot wijziging van
+    Verordening Nr. 214/67/EEG houdende vaststelling van de speciale voorschriften
+    betreffende de onder Verordening Nr. 160/66/EEG vallende produkten in het handelsverkeer
+    tussen de Lid-Staten en Griekenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0407
+docidentifier:
+- content: EU Regulation 407/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0407
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/407/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-25'
+- type: implemented
+  at: '1967-08-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0214
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

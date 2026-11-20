@@ -1,0 +1,100 @@
+---
+id: EURegulation1011974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 101/74 of the Commission of 15 January 1974 altering
+    the minimum selling price fixed by Regulation (EEC) Nos 1282/72 and 1717/72 on
+    the sale of butter at a reduced price
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 101/74 de la Commission, du 15 janvier 1974, modifiant
+    le prix minimum de vente prévu par les règlements (CEE) n°s 1282/72 et 1717/72
+    relatifs à la vente de beurre à prix réduit
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 101/74 der Kommission vom 15. Januar 1974 zur Änderung
+    des in den Verordnungen (EWG) Nr. 1282/72 und Nr. 1717/72 über den Verkauf von
+    Butter zu herabgesetzten Preisen vorgesehenen Mindestverkaufspreises
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 101/74 af 15. januar 1974 om ændring
+    af den mindstesalgspris, der er fastsat ved forordningerne (EØF) nr. 1282/72
+    og 1717/72 vedrørende salg af smør til nedsat pris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 101/74 della Commissione, del 15 gennaio 1974, che
+    modifica il prezzo minimo di vendita previsto dai regolamenti (CEE) n. 1282/72
+    e n. 1717/72 relativi alla vendita di burro a prezzo ridotto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 101/74 van de Commissie van 15 januari 1974 houdende
+    wijziging van de minimumverkoopprijs, vastgesteld bij de Verordeningen (EEG) nr.
+    1282/72 en nr. 1717/72 met betrekking tot de verkoop van boter tegen verlaagde
+    prijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0101
+docidentifier:
+- content: EU Regulation 101/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0101
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-01-15'
+- type: implemented
+  at: '1974-01-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1282
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1717
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

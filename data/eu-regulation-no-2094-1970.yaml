@@ -1,0 +1,98 @@
+---
+id: EURegulationNo20941970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (Euratom) No 2094/70 of the Council of 20 October 1970 amending
+    the conditions governing remuneration and social security for establishment staff
+    of the Joint Nuclear Research Centre employed in the Federal Republic of Germany
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom) n° 2094/70 du Conseil, du 20 octobre 1970, modifiant
+    les conditions applicables en matière de rémunération et de sécurité sociale
+    aux agents d'établissement du Centre commun de recherches nucléaires affectés
+    en République fédérale d'Allemagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom) Nr. 2094/70 des Rates vom 20. Oktober 1970 zur Änderung
+    der Regelung der Bezüge und der sozialen Sicherheit der Atomanlagenbediensteten
+    der Gemeinsamen Kernforschungsstelle, die in der Bundesrepublik Deutschland dienstlich
+    verwendet werden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EURATOM) nr. 2094/70 af 20. oktober 1970 om ændring
+    af reglerne for vederlag og social sikring for ansatte ved anlæg under Det fælles
+    Atomforskningscenter, der gør tjeneste i Forbundsrepublikken Tyskland
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom) n. 2094/70 del Consiglio, del 20 ottobre 1970, che
+    modifica le condizioni applicabili in materia di retribuzione e di sicurezza sociale
+    agli agenti degli stabilimenti del Centro comune di ricerche nucleari che prestano
+    servizio nella Repubblica federale di Germania
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom) nr. 2094/70 van de Raad van 20 oktober 1970 tot wijziging
+    van de regeling inzake de bezoldiging en de sociale zekerheid van de functionarissen,
+    verbonden aan een inrichting van het Gemeenschappelijk Centrum voor Onderzoek
+    op het gebied van de Kernenergie, en tewerkgesteld in de Bondsrepubliek Duitsland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2094
+docidentifier:
+- content: EU Regulation No 2094/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2094
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2094/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-20'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0009(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

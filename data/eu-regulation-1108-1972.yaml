@@ -1,0 +1,81 @@
+---
+id: EURegulation11081972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1108/72 de la Commission, du 30 mai 1972, modifiant
+    le règlement (CEE) n° 625/72 en ce qui concerne la prorogation de la durée
+    de validité de certains certificats d'importation dans le secteur de la viande
+    bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1108/72 der Kommission vom 30. Mai 1972 zur Änderung
+    der Verordnung (EWG) Nr. 625/72 hinsichtlich der Verlängerung der Gültigkeitsdauer
+    bestimmter Einfuhrlizenzen auf dem Rindfleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1108/72 della Commissione, del 30 maggio 1972, che
+    modifica il regolamento (CEE) n. 625/72 per ciò che concerne la proroga della
+    durata di validità di alcuni titoli d'importazione nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1108/72 van de Commissie van 30 mei 1972 houdende
+    wijziging van Verordening (EEG) nr. 625/72 houdende verlenging van de geldigheidsduur
+    van bepaalde invoercertificaten in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1108
+docidentifier:
+- content: EU Regulation 1108/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1108
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1108/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-05-30'
+- type: implemented
+  at: '1972-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0625
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

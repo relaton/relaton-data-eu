@@ -1,0 +1,94 @@
+---
+id: EURegulation17551968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1755/68 of the Council of 5 November 1968 amending
+    Regulation No 973/67/EEC with regard to the description for tariff purposes of
+    citrus fruit originating in and exported from Turkey
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1755/68 du Conseil, du 5 novembre 1968, modifiant
+    le règlement n° 973/67/CEE en ce qui concerne la désignation tarifaire des
+    agrumes originaires et en provenance de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1755/68 des Rates vom 5. November 1968 zur Änderung
+    der Verordnung Nr. 973/67/EWG, soweit sie die Zolltarifbezeichnung von Zitrusfrüchten
+    mit Ursprung in und Herkunft aus der Türkei betrifft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1755/68 af 5. november 1968 om ændring af
+    forordning nr. 973/67/EØF hvad angår varebeskrivelsen i den fælles toldtarif
+    for citrusfrugter med oprindelse i og kommende fra Tyrkiet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1755/68 del Consiglio, del 5 novembre 1968, che modifica
+    il regolamento n. 973/67/CEE per quanto concerne la designazione tariffaria degli
+    agrumi originari della Turchia e provenienti da tale paese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1755/68 van de Raad van 5 november 1968 houdende
+    wijziging van Verordening nr. 973/67/EEG voor wat betreft de tariefomschrijving
+    van citrusvruchten van oorsprong en herkomst uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1755
+docidentifier:
+- content: EU Regulation 1755/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1755
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1755/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-11-05'
+- type: implemented
+  at: '1968-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0973
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

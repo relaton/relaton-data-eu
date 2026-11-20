@@ -1,0 +1,104 @@
+---
+id: EURegulation5571975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 557/75 of the Commission of 4 March 1975 on a standing
+    invitation to tender to determine subsidies on the importation of white and raw
+    sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 557/75 de la Commission, du 4 mars 1975, concernant
+    une adjudication permanente pour la détermination de subventions à l'importation
+    de sucre blanc et brut
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 557/75 der Kommission vom 4. März 1975 über eine
+    Dauerausschreibung zur Festsetzung der Subventionen bei der Einfuhr von Weißzucker
+    und Rohzucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 557/75 af 4. marts 1975 om en løbende
+    licitation med henblik på fastlæggelse af tilskud ved indførsel af hvidt sukker
+    og råsukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 557/75 della Commissione, del 4 marzo 1975, relativo
+    ad una gara permanente per la determinazione di sovvenzioni all'importazione di
+    zucchero bianco e greggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 557/75 van de Commissie van 4 maart 1975 inzake een
+    permanente inschrijving voor de vaststelling van invoersubsidie voor witte en
+    ruwe suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0557
+docidentifier:
+- content: EU Regulation 557/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0557
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/557/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-04'
+- type: implemented
+  at: '1975-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3062
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0314
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

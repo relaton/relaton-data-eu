@@ -1,0 +1,95 @@
+---
+id: EURegulation8221975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 822/75 of the Council of 25 March 1975 extending the
+    period of validity of Regulation (EEC) No 377/74 making temporary provision for
+    private storage aids for boned or boneless meat in the beef and veal sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 822/75 du Conseil, du 25 mars 1975, prorogeant la
+    durée de validité du règlement (CEE) n° 377/74 permettant temporairement l'octroi
+    d'aides au stockage privé pour des viandes bovines désossées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 822/75 des Rates vom 25. März 1975 zur Verlängerung
+    der Gültigkeitsdauer der Verordnung (EWG) Nr. 377/74 über die vorübergehende
+    Möglichkeit zur Gewährung von Beihilfen zur privaten Lagerhaltung für entbeintes
+    Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 822/75 af 25. marts 1975 om forlængelse
+    af gyldighedsperioden for forordning (EØF) nr. 377/74 om midlertidig tilladelse
+    til at yde støtte til privat oplagring af udbenet kød inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 822/75 del Consiglio, del 25 marzo 1975, recante proroga
+    della validità del regolamento (CEE) n. 377/74, che permette temporaneamente
+    la concessione di aiuti all'ammasso privato per carni bovine disossate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 822/75 van de Raad van 25 maart 1975 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 377/74 betreffende de mogelijkheid
+    tijdelijk steun aan de particuliere opslag voor rundvlees zonder been te verlenen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0822
+docidentifier:
+- content: EU Regulation 822/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0822
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/822/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-25'
+- type: implemented
+  at: '1975-04-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0377
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

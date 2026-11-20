@@ -1,0 +1,97 @@
+---
+id: EURegulation31101976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3110/76 of 20 December 1976 authorizing
+    the supply to the processing industries of oranges withdrawn from the market,
+    laying down the conditions for such supply and amending Regulation (EEC) No 1687/76
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3110/76 de la Commission, du 20 décembre 1976, autorisant
+    la cession aux industries de transformation d' oranges retirées du marché, fixant
+    les conditions de cette cession et modifiant le règlement (CEE) n° 1687/76
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3110/76 der Kommission vom 20. Dezember 1976 zur Ermächtigung
+    der Abgabe von aus dem Markt genommenen Süßorangen an die verarbeitende Industrie,
+    zur Regelung der Abgabebedingungen und zur Änderung der Verordnung (EWG) Nr.
+    1687/76
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3110/76 af 20. december 1976 om tilladelse
+    til overdragelse til forarbejdningsindustrierne af appelsiner, der er trukket
+    tilbage fra markedet, og om fastsættelse af betingelserne for denne overdragelse,
+    ændret ved forordning (EØF) nr. 1687/76
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3110/76 della Commissione, del 20 dicembre 1976, che
+    autorizza la cessione all' industria di trasformazione di arance ritirate dal
+    mercato fissa le relative modalità e modifica il regolamento (CEE) n. 1687/76
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3110/76 van de Commissie van 20 december 1976 houdende
+    machtiging tot levering van uit de markt genomen sinaasappelen aan de verwerkende
+    industrie, tevens houdende vaststelling van de leveringsvoorwaarden en wijzigend
+    Verordening (EEG) nr. 1687/76
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R3110
+docidentifier:
+- content: EU Regulation 3110/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R3110
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/3110/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-20'
+- type: implemented
+  at: '1976-12-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1687
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

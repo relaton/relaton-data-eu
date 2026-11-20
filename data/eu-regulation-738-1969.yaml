@@ -1,0 +1,81 @@
+---
+id: EURegulation7381969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 738/69 du Conseil, du 22 avril 1969, modifiant le
+    règlement (CEE) n° 324/69 du Conseil, du 21 février 1969, autorisant l'Italie
+    à appliquer des mesures particulières d'intervention sur le marché des oranges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 738/69 des Rates vom 22. April 1969 zur Änderung
+    der Verordnung (EWG) Nr. 324/69 des Rates vom 21. Februar 1969, mit der Italien
+    ermächtigt wird, besondere Interventionsmaßnahmen auf dem Orangenmarkt anzuwenden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 738/69 del Consiglio, del 22 aprile 1969, recante
+    modifica del regolamento (CEE) n. 324/69 del Consiglio, del 21 febbraio 1969,
+    che autorizza l'Italia ad applicare misure particolari d'intervento sul mercato
+    delle arance
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 738/69 van de Raad van 22 april 1969 tot wijziging
+    van Verordening (EEG) nr. 324/69 van de Raad van 21 februari 1969, waarbij Italië
+    wordt gemachtigd bijzondere interventiemaatregelen te treffen op de sinaasappelmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0738
+docidentifier:
+- content: EU Regulation 738/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0738
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/738/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-22'
+- type: implemented
+  at: '1969-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0324
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

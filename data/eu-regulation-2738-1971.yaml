@@ -1,0 +1,78 @@
+---
+id: EURegulation27381971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2738/71 de la Commission, du 22 décembre 1971, portant
+    application du droit du tarif douanier commun aux importations de mandarines,
+    satsumas, clémentines, tangerines et autres hybrides similaires d'agrumes originaires
+    de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2738/71 der Kommission vom 22. Dezember 1971 zur Anwendung
+    des Gemeinsamen Zolltarifs auf Einfuhren von Mandarinen, Satsumas, Clementinen,
+    Tangerinen und sonstigen ähnlichen Hybriden von Zitrusfrüchten mit Ursprung
+    in der Türkei
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2738/71 della Commissione, del 22 dicembre 1971, relativo
+    all'applicazione del dazio della tariffa doganale comune alle importazioni di
+    mandarini, satsuma, clementine, tangerini e altri ibridi similari di agrumi originari
+    della Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2738/71 van de Commissie van 22 december 1971 houdende
+    toepassing van het recht van het gemeenschappelijk douanetarief op de invoer van
+    mandarijnen, satsuma's, clementines, tangerines en andere dergelijke kruisingen
+    van citrusvruchten van oorsprong uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2738
+docidentifier:
+- content: EU Regulation 2738/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2738
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2738/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-22'
+- type: implemented
+  at: '1971-12-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

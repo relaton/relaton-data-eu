@@ -1,0 +1,74 @@
+---
+id: EURegulation921968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 92/68 du Conseil, du 23 janvier 1968, relatif au contingent
+    tarifaire communautaire de 22.000 tonnes de viande bovine congelée, de la position
+    EX 02.01 à II du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 92/68 des Rates vom 23. Januar 1968 über das Gemeinschaftszollkontingent
+    von 22 000 Tonnen Gefrierfleisch von Rindern der Tarifnummer ex 02.01 A II des
+    Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 92/68 del Consiglio, del 23 gennaio 1968, relativo
+    al contingente tariffario comunitario di 22.000 tonnellate di carni bovine congelate
+    della voce ex 02.01 A II della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 92/68 van de Raad van 23 januari 1968 betreffende
+    het communautair tariefcontingent van 22.000 ton bevroren rundvlees van post ex
+    02.01 A II van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0092
+docidentifier:
+- content: EU Regulation 92/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0092
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/92/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-01-23'
+- type: implemented
+  at: '1968-01-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

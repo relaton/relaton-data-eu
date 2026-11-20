@@ -1,0 +1,77 @@
+---
+id: EUDecision1968123
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision du Conseil du 20 février 1968, relative à la définition de
+    la notion de "produits originaires"
+  type: main
+- language: de
+  script: Latn
+  content: '68/123/EWG: Entscheidung des Rates vom 20. Februar 1968 zur Änderung
+    der Anlagen II und III der Entscheidung des Rates vom 5. Mai 1966 über die Begriffsbestimmung
+    für "Erzeugnisse mit Ursprung in" oder "Ursprungserzeugnisse"'
+  type: main
+- language: it
+  script: Latn
+  content: '68/123/CEE: Decisione del Consiglio, del 20 febbraio 1968, che modifica
+    gli allegati II e III della decisione del Consiglio del 5 maggio 1966 relativa
+    alla definizione della nozione di «prodotti originari»'
+  type: main
+- language: nl
+  script: Latn
+  content: '68/123/EEG: Beschikking van de Raad van 20 februari 1968 tot wijziging
+    van de bijlagen II en III van de beschikking van de Raad van 5 mei 1966 met betrekking
+    tot de definitie van het begrip "produkten van oorsprong"'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968D0123
+docidentifier:
+- content: EU Decision 1968/123
+  type: EU
+  primary: true
+- content: CELEX 31968D0123
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1968/123/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-02-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0303
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation581964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 58/64/CEE, 2/64/Euratom des Conseils du 21 mai 1964 portant
+    adaptation de certains coefficients correcteurs dont sont affectées les rémunérations
+    et les pensions des fonctionnaires
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG NR. 58/64/EWG, NR. 2/64/EURATOM DER RAETE VOM 21. MAI 1964 ZUR
+    ANGLEICHUNG BESTIMMTER BERICHTIGUNGSKOEFFIZIENTEN FUER DIE DIENST- UND VERSORGUNGSBEZUEGE
+    DER BEAMTEN
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO N. 58/64/CEE, 2/64/EURATOM DEI CONSIGLI, DEL 21 MAGGIO 1964,
+    RELATIVO ALL' ADEGUAMENTO DI TALUNI COEFFICIENTI CORRETTORI ATTRIBUITI ALLE RETRIBUZIONI
+    E ALLE PENSIONI DEI FUNZIONARI
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING NO. 58/64/EEG, 2/64/EURATOM VAN DE RADEN VAN 21 MEI 1964 TOT
+    WIJZIGING VAN BEPAALDE AANPASSINGSCOEFFICIENTEN DIE OP DE BEZOLDIGING EN DE PENSIOENEN
+    VAN DE AMBTENAREN WORDEN TOEGEPAST
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0058
+docidentifier:
+- content: EU Regulation 58/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0058
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/58/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-05-21'
+- type: implemented
+  at: '1964-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

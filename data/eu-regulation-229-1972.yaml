@@ -1,0 +1,94 @@
+---
+id: EURegulation2291972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* Commission Regulation (EEC) No 229/72 of 28 January 1972 establishing the rules of operation of the European Development Fund */"
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 229/72 de la Commission, du 28 janvier 1972, déterminant
+    les modalités de fonctionnement du Fonds européen de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 229/72 der Kommission vom 28. Januar 1972 zur Regelung
+    der Arbeitsweise des Europäischen Entwicklungsfonds
+  type: main
+- language: da
+  script: Latn
+  content: "/* Kommissionens forordning (EØF) nr. 229/72 af 28. januar 1972 om nærmere bestemmelser for Den europæiske Udviklingsfonds virksomhed */"
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 229/72 της Επιτροπής της
+    28ης Ιανουαρίου 1972 περί προσδιορισμού των λεπτομερειών
+    της λειτουργίας του Ευρωπαϊκού Ταμείου Αναπτύξεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 229/72 della Commissione, del 28 gennaio 1972, che
+    stabilisce le modalità di funzionamento del FES
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 229/72 van de Commissie van 28 januari 1972 tot vaststelling
+    van de werkingswijze van het Europees Ontwikkelingsfonds
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) nº 229/72 de la Comisión, de 28 de enero de 1972, por
+    el que se determinan las modalidades de funcionamiento del Fondo Europeo de Desarrollo
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0229
+docidentifier:
+- content: EU Regulation 229/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0229
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/229/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-01-28'
+- type: implemented
+  at: '1972-02-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

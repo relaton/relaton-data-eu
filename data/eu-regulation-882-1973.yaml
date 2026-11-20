@@ -1,0 +1,96 @@
+---
+id: EURegulation8821973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 882/73 of the Council of 26 March 1973 amending for
+    the fifth time Regulation (EEC) No 1599/71 laying down additional conditions with
+    which imported wines for direct human consumption must comply
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 882/73 du Conseil, du 26 mars 1973, portant 5e modification
+    du règlement (CEE) n° 1599/71 fixant les conditions supplémentaires auxquelles
+    doivent répondre les vins importés destinés à la consommation humaine directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 882/73 des Rates vom 26. März 1973 zur fünften Änderung
+    der Verordnung (EWG) Nr. 1599/71 zur Festsetzung zusätzlicher Bedingungen, denen
+    eingeführter Wein, der zum unmittelbaren menschlichen Verbrauch bestimmt ist,
+    entsprechen muß
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 882/73 af 26. marts 1973 om den femte ændring
+    af forordning (EØF) nr. 1559/71 om fastsættelse af yderligere betingelser, som
+    indført vin, der er bestemt til direkte menneskeligt forbrug, skal opfylde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 882/73 del Consiglio, del 26 marzo 1973, relativo
+    alla 5a modifica del regolamento (CEE) n. 1599/71, che fissa le condizioni supplementari
+    cui devono rispondere i vini importati destinati al consumo umano diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 882/73 van de Raad van 26 maart 1973 houdende vijfde
+    wijziging van Verordening (EEG) nr. 1599/71 van de Raad tot vaststelling van nadere
+    voorwaarden waaraan ingevoerde wijn die is bestemd voor rechtstreekse menselijke
+    consumptie, moet beantwoorden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0882
+docidentifier:
+- content: EU Regulation 882/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0882
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/882/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-26'
+- type: implemented
+  at: '1973-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1599
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

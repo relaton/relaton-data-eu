@@ -1,0 +1,73 @@
+---
+id: EURegulation24231972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2423/72 de la Commission, du 21 novembre 1972, modifiant
+    le règlement (CEE) n 979/72 en ce qui concerne les montants compensatoires applicables,
+    à la suite des événements monétaires, pour certains produits laitiers ainsi
+    que pour certaines marchandises obtenues à partir de ces produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2423/72 der Kommission vom 21. November 1972 zur Änderung
+    der Verordnung (EWG) Nr. 979/72 hinsichtlich der Ausgleichsabgaben, die im AnschluD
+    an die Währungsereignisse für bestimmte Milcherzeugnisse und aus diesen gewonnene
+    Waren anzuwenden sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2423/72 della Commissione, del 21 novembre 1972, che
+    modifica il regolamento (CEE) n. 979/72 per quanto concerne gli importi di compensazione
+    applicabili, per taluni prodotti lattiero-caseari e per alcune merci ottenute
+    da tali prodotti, in seguito agli avvenimenti monetari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2423/72 van de Commissie van 21 november 1972 houdende
+    wijziging van Verordening (EEG) nr. 979/72 betreffende de compenserende bedragen
+    die ten gevolge van de monetaire toestand van toepassing zijn op enkele zuivelprodukten
+    alsmede op enkele goederen welke zijn verkregen door verwerking van deze produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2423
+docidentifier:
+- content: EU Regulation 2423/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2423
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2423/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

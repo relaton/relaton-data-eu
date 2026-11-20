@@ -1,0 +1,65 @@
+---
+id: EURegulation8621971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 862/71 de la Commission, du 27 avril 1971, fixant les
+    prix d'écluse et les prélèvements dans le secteur de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 862/71 der Kommission vom 27. April 1971 zur Festsetzung
+    der Einschleusungspreise und Abschöpfungen für Geflügelfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 862/71 della Commissione, del 27 aprile 1971, che
+    fissa i prezzi limite e i prelievi per il pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 862/71 van de Commissie van 27 april 1971 houdende
+    vaststelling van de sluisprijzen en de heffingen in de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0862
+docidentifier:
+- content: EU Regulation 862/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0862
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/862/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

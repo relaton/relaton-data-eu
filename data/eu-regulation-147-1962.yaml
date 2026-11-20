@@ -1,0 +1,100 @@
+---
+id: EURegulation1471962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 147 du Conseil modifiant les règlements n 33, 35, 40, 41
+    et 44 du Conseil en ce qui concerne la description de l'un des modes de préparation
+    des poules et poulets abattus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 147 des Rats zur Änderung der Verordnungen Nr. 33, 35,
+    40, 41 und 44 des Rats in bezug auf die Beschreibung einer der Zubereitungsarten
+    für geschlachtete Hühner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 147 del Consiglio che modifica i regolamenti nn. 33, 34,
+    40, 41 e 44 del Consiglio per quanto riguarda la descrizione di un tipo di presentazione
+    per polli e galline macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 147 van de Raad tot wijziging van de Verordeningen Nrs.
+    33, 35, 40, 41 en 44 van de Raad inzake de omschrijving van een van de bewerkingsvormen
+    van geslachte kuikens en kippen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0147
+docidentifier:
+- content: EU Regulation 147/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0147
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/147/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-12-04'
+- type: implemented
+  at: '1962-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0033
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0035
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0040
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0041
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0044
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

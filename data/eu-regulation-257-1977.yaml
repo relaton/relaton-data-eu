@@ -1,0 +1,104 @@
+---
+id: EURegulation2571977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 257/77 of 4 February 1977 correcting Regulations
+    (EEC) No 1896/73 and (EEC) No 582/76 as regards beef which may be bought into
+    intervention in Ireland, and coefficients in the beef sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 257/77 de la Commission, du 4 février 1977, rectifiant
+    les règlements (CEE) n° 1896/73 et (CEE) n° 582/76 en ce qui concerne les produits
+    pouvant faire l' objet d' achats à l' intervention en Irlande ainsi que leurs
+    coefficients dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 257/77 der Kommission vom 4. Februar 1977 zur Berichtigung
+    der Verordnungen (EWG) Nr. 1896/73 und (EWG) Nr. 582/76 bezüglich der Erzeugnisse
+    des Rindfleischsektors, die Gegenstand von Interventionskäufen in Irland sein
+    können, sowie ihrer Koeffizienten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 257/77 af 4. februar 1977 om berigtigelse
+    af forordningerne (EØF) nr. 1896/73 og (EØF) nr. 582/76 for så vidt angår
+    de oksekødsprodukter, der kan opkøbes ved intervention i Irland, samt disses
+    koefficienter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 257/77 della Commissione, del 4 febbraio 1977, che
+    rettifica i regolamenti (CEE) n. 1896/73 e (CEE) n. 582/76 per quanto riguarda
+    i prodotti che possono formare oggetto di acquisti all' intervento in Irlanda
+    e i relativi coefficienti nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 257/77 van de Commissie van 4 februari 1977 houdende
+    rectificatie van de Verordeningen (EEG) nr. 1896/73 en (EEG) nr. 582/76 met betrekking
+    tot de produkten die in Ierland in de rundvleessector door de interventiebureaus
+    mogen worden gekocht en de daarvoor geldende coëfficiënten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0257
+docidentifier:
+- content: EU Regulation 257/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0257
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/257/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-04'
+- type: implemented
+  at: '1977-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0582
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

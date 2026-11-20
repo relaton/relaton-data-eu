@@ -1,0 +1,110 @@
+---
+id: EURegulation28361977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2836/77 of 19 December 1977 amending with
+    effect from 1 January 1978 for Ireland and the United Kingdom the selling prices
+    laid down in Regulations (EEC) No 2036/74, (EEC) No 2073/74 and (EEC) No 2320/74
+    for beef
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2836/77 de la Commission, du 19 décembre 1977, modifiant
+    à partir du 1er janvier 1978, pour l' Irlande et pour le Royaume-Uni, les prix
+    de vente visés aux règlements (CEE) n° 2036/74, (CEE) n° 2073/74 et (CEE)
+    n° 2320/74 dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2836/77 der Kommission vom 19. Dezember 1977 zur Änderung
+    der in den Verordnungen (EWG) Nr. 2036/74, (EWG) Nr. 2073/74 und (EWG) Nr. 2320/74
+    genannten Verkaufspreise auf dem Rindfleischsektor für Irland und für das Vereinigte
+    Königreich ab 1. Januar 1978
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2836/77 af 19. december 1977 om ændring
+    fra den 1. januar 1978 af de i forordning (EØF) nr. 2036/74, (EØF) nr. 2073/74
+    og (EØF) nr. 2320/74 anførte salgspriser inden for oksekødsektoren for så
+    vidt angår Irland og Det forenede Kongerige
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2836/77 della Commissione, del 19 dicembre 1977, che
+    modifica per l' Irlanda e il Regno Unito, a decorrere dal 1° gennaio 1978, i
+    prezzi di vendita previsti dai regolamenti (CEE) n. 2036/74, (CEE) n. 2073/74
+    e (CEE) n. 2320/74 nel settore della carne bovina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2836/77 van de Commissie van 19 december 1977 tot
+    wijziging met ingang van 1 januari 1978 van de in de Verordeningen (EEG) nrs.
+    2036/74, 2073/74 en 2320/74 bedoelde verkoopprijzen in de sector rundvlees voor
+    Ierland en het Verenigd Koninkrijk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2836
+docidentifier:
+- content: EU Regulation 2836/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2836
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2836/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-19'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2036
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

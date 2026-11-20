@@ -1,0 +1,69 @@
+---
+id: EURegulation981965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 98/65/CEE de la Commission, du 2 juillet 1965, modifiant le
+    règlement n 96/63/CEE portant fixation du montant supplémentaire dans le domaine
+    de la viande porcine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 98/65/EWG der Kommission vom 2. Juli 1965 zur Änderung
+    der Verordnung Nr. 96/63/EWG über die Festsetzung des Zusatzbetrags im Bereich
+    des Schweinefleischs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 98/65/CEE della Commissione, del 2 luglio 1965, che modifica
+    il regolamento n. 96/63/CEE relativo alla determinazione dell'importo supplementare
+    nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 98/65/EEG van de Commissie, van 2 juli 1965, houdende wijziging
+    van Verordening no. 96/63/EEG betreffende de vaststelling van de extra-bedragen
+    in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0098
+docidentifier:
+- content: EU Regulation 98/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0098
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/98/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-07-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

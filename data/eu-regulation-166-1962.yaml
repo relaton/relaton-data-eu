@@ -1,0 +1,89 @@
+---
+id: EURegulation1661962
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* Council Regulations Nos 166 (EEC) and 15 (EAEC) of 18 December 1962 establishing the list of social security benefits and family allowances which must be deducted from the taxable amount used in calculating the Community tax on remuneration */"
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 166 (C.E.E.), n° 15 (C.E.E.A.) des Conseils, du 18 décembre
+    1962, fixant la liste des prestations et allocations de caractère familial ou
+    social qui doivent être déduites de la base imposable servant au calcul de l'
+    impôt établi au profit des Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 166 (EWG), Nr. 15 (EAG) der Räte vom 18. Dezember 1962
+    zur Aufstellung der Liste der Leistungen und Zulagen, die im Hinblick auf die
+    Familie gewährt werden oder die sozialer Art sind und die von der Besteuerungsgrundlage
+    für die Berechnung der zugunsten der Gemeinschaften eingeführten Steuer abgezogen
+    werden müssen
+  type: main
+- language: da
+  script: Latn
+  content: "/* Rådets forordning nr. 166 (EØF), nr. 15 (EURATOM) af 18. december 1962 om fastsættelse af listen over de ydelser og tilskud af familiemæssig eller social art, som fratrækkes det beskatningsgrundlag, der tjener til beregning af skat til Fællesskaberne */"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 116 (C.E.E.), n. 15 (C.E.E.A.) dei Consigli, del 18 dicembre
+    1962, relativo all' elenco delle prestazioni e degli assegni di carattere familiare
+    e sociale che devono essere dedotti dalla base imponibile sulla quale è calcolata
+    l' imposta stabilita a profitto delle Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 166 (E.E.G.), nr. 15 (E.G.A.) van de Raden van 18 december
+    1962 tot vaststelling van de lijst van gezinsuitkeringen en -toelagen en uitkeringen
+    en toelagen van sociale aard, af te trekken van de belastbare grondslag die dient
+    voor de berekening van de belasting ten bate van de Gemeenschappen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0166
+docidentifier:
+- content: EU Regulation 166/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0166
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/166/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-12-18'
+- type: implemented
+  at: '1963-01-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

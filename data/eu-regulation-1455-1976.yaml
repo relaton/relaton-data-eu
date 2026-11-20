@@ -1,0 +1,94 @@
+---
+id: EURegulation14551976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1455/76 of 23 June 1976 amending for the
+    third time Regulation (EEC) No 2805/73 as regards the maximum sulphur dioxide
+    content of certain white quality wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1455/76 de la Commission, du 23 juin 1976, modifiant
+    pour la troisième fois le règlement (CEE) n° 2805/73 en ce qui concerne les
+    doses maximales en anhydride sulfureux de certains vins blancs de qualité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1455/76 der Kommission vom 23. Juni 1976 zur dritten
+    Änderung der Verordnung (EWG) Nr. 2805/73 hinsichtlich des Höchstgehalts an
+    schwefeliger Säure für einige weiße Qualitätsweine
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1455/76 af 23. juni 1976 om tredje
+    ændring af forordning (EØF) nr. 2805/73 for så vidt angår maksimumsindholdet
+    af svovldioxyd i visse hvide kvalitetsvine
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1455/76 della Commissione, del 23 giugno 1976, recante
+    terza modifica del regolamento (CEE) n. 2805/73 per quanto concerne le dosi massime
+    di anidride solforosa di certi vini bianchi di qualità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1455/76 van de Commissie van 23 juni 1976 houdende
+    derde wijziging van Verordening (EEG) nr. 2805/73 met betrekking tot het maximumgehalte
+    aan zwaveldioxyde in bepaalde witte kwaliteitswijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1455
+docidentifier:
+- content: EU Regulation 1455/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1455
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1455/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-23'
+- type: implemented
+  at: '1976-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2805
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

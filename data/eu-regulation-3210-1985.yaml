@@ -1,0 +1,118 @@
+---
+id: EURegulation32101985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3210/85 of 15 November 1985 on the sale
+    at prices fixed at a standard rate in advance of certain beef from intervention
+    stocks for processing in the Community, repealing Regulation (EEC) No 2622/85
+    and amending Regulation (EEC) No 2182/77
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3210/85 de la Commission, du 15 novembre 1985, relatif
+    à la vente à prix fixé forfaitairement à l'avance, en vue de leur transformation
+    dans la Communauté, de certaines viandes bovines provenant des stocks d'intervention,
+    abrogeant le règlement (CEE) n° 2622/85 et modifiant le règlement (CEE) n°
+    2182/77
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3210/85 der Kommission vom 15. November 1985 über
+    den Verkauf von bestimmtem Interventionsrindfleisch, das zur Verarbeitung in der
+    Gemeinschaft bestimmt ist, zu pauschal im voraus festgesetzten Preisen, zur Aufhebung
+    der Verordnung (EWG) Nr. 2622/85 und zur Änderung der Verordnung (EWG) N r. 2182/77
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3210/85 af 15. november 1985 om salg
+    til forudfastsatte priser af visse former for oksekød fra interventionslagrene
+    med henblik på forarbejdning i Fællesskabet, om ophævelse af forordning (EØF)
+    nr. 2622/85 og om ændring af forordning (EØF) nr. 2182/77
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3210/85 της Επιτροπής
+    της 15ης Νοεμβρίου 1985 περί πωλήσεως, σε προκαθορισμένη
+    κατ' αποκοπή τιμή, ενοψει της μεταποιήσεώς
+    τους εντός της Κοινοτητας, ορισμένων βοείων
+    κρεάτων που προέρχονται από αποθέματα οργανισμών
+    παρεμβάσεως, περί καταργήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 2622/85 και τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 2182/77
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3210/85 della Commissione, del 15 novembre 1985, relativo
+    alla vendita, a prezzi fissati forfettariamente in anticipo, di talune carni bovine
+    provenienti dalle scorte d'intervento e destinate alla trasformazione nella Comunità,
+    recante abrogazione del regolamento (CEE) n. 2622/85 e che modifica il regolamento
+    (CEE) n. 2182/77
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3210/85 van de Commissie van 15 november 1985 inzake
+    de verkoop, tegen vooraf forfaitair vastgestelde prijzen, voor verwerking in de
+    Gemeenschap, van rundvlees uit de voorraden van de interventiebureaus, houdende
+    intrekking van Verordening (EEG) nr. 2622/85 en houdende wijziging van Verordening
+    (EEG) nr. 2182/77
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R3210
+docidentifier:
+- content: EU Regulation 3210/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R3210
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/3210/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-11-15'
+- type: implemented
+  at: '1985-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R2622
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2182
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

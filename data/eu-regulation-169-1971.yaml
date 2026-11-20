@@ -1,0 +1,74 @@
+---
+id: EURegulation1691971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 169/71 du Conseil, du 26 janvier 1971, portant fixation
+    du prix à la production communautaire pour les thons destinés à l'industrie
+    de la conserve pour la période du 1er février au 31 décembre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 169/71 des Rates vom 26. Januar 1971 zur Festsetzung
+    des gemeinschaftlichen Produktionspreises für Thunfische, die für die Konservenindustrie
+    bestimmt sind, für die Zeit vom 1. Februar bis 31. Dezember 1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 169/71 del Consiglio, del 26 gennaio 1971, che fissa
+    il prezzo alla produzione comunitaria per i tonni destinati all'industria conserviera
+    per il periodo dal 1 febbraio al 31 dicembre 1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 169/71 van de Raad van 26 januari 1971 houdende vaststelling
+    van de communautaire produktieprijs voor tonijn, bestemd voor de conservenindustrie,
+    voor het tijdvak van 1 februari tot en met 31 december 1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0169
+docidentifier:
+- content: EU Regulation 169/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0169
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/169/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-26'
+- type: implemented
+  at: '1971-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

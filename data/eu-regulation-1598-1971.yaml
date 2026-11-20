@@ -1,0 +1,94 @@
+---
+id: EURegulation15981971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1598/71 of the Council of 19 July 1971 amending Regulation
+    (EEC) No 1093/70 as regards the list of products in the wine sector to which alcohol
+    may be added
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1598/71 du Conseil, du 19 juillet 1971, modifiant
+    le règlement (CEE)" n° 1093/70 en ce qui concerne la liste des produits relevant
+    du secteur viti-vinicole auxquels l' adjonction d' alcool est permise
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1598/71 des Rates vom 19. Juli 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1093/70 hinsichtlich der Liste der Erzeugnisse des Weinsektors,
+    denen Alkohol zugesetzt werden darf
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1598/71 af 19. juli 1971 om ændring af forordning
+    (EØF) nr. 1093/70 for så vidt angår fortegnelsen over varer inden for vinsektoren,
+    for hvilke tilsætning af alkohol er tilladt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1598/71 del Consiglio, del 19 luglio 1971, che modifica
+    il regolamento (CEE) n. 1093/70 per quanto riguarda l' elenco dei prodotti del
+    settore vitivinicolo per i quali è ammessa l' aggiunta di alcole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1598/71 van de Raad van 19 juli 1971 tot wijziging
+    van Verordening (EEG) nr. 1093/70 ten aanzien van de lijst van tot de wijnsector
+    behorende produkten waaraan alcohol mag worden toegevoegd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1598
+docidentifier:
+- content: EU Regulation 1598/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1598
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1598/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-19'
+- type: implemented
+  at: '1971-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1093
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,85 @@
+---
+id: EURegulation4191968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 419/68 du Conseil, du 5 avril 1968, modifiant et complétant
+    certaines dispositions des règlements n° 3 et 4 concernant la sécurité sociale
+    des travailleurs migrants
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 419/68 des Rates vom 5. April 1968 zur Änderung und
+    Ergänzung einiger Bestimmungen der Verordnungen Nr. 3 und Nr. 4 über die soziale
+    Sicherheit der Wanderarbeitnehmer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 419/68 del Consiglio, del 5 aprile 1968, che modifica
+    ed integra alcune disposizioni dei regolamenti nn. 3 e 4 sulla sicurezza sociale
+    dei lavoratori migranti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 419/68 van de Raad van 5 april 1968 tot wijziging
+    en aanvulling van sommige bepalingen van de Verordeningen nr. 3 en nr. 4 inzake
+    de sociale zekerheid van migrerende werknemers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0419
+docidentifier:
+- content: EU Regulation 419/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0419
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/419/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-05'
+- type: implemented
+  at: '1965-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

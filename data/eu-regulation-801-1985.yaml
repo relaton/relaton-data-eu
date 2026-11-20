@@ -1,0 +1,97 @@
+---
+id: EURegulation8011985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 801/85 of 26 March 1985 allocating, for 1985,
+    Community catch quotas in Greenland waters
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 801/85 du Conseil du 26 mars 1985 allouant, pour 1985,
+    les quotas de capture de la Communauté dans les eaux du Groenland
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 801/85 des Rates vom 26. März 1985 zur Aufteilung
+    der Fangquoten der Gemeinschaft in den grönländischen Gewässern im Jahr 1985
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 801/85 af 26. marts 1985 om fordelingen af
+    Fællesskabets fangstkvoter i grønlandske farvande for 1985
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 801/85 του Συμβουλίου
+    της 26ης Μαρτίου 1985 για τον καθορισμό, για το
+    1985, των ποσοστώσεων αλιείας της Κοινότητας
+    στα ύδατα της Γροιλανδίας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 801/85 del Consiglio del 26 marzo 1985 che ripartisce
+    per il 1985 i contingenti di cattura comunitari nelle acque della Groenlandia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 801/85 van de Raad van 26 maart 1985 houdende verdeling
+    voor 1985 van de vangstquota van de Gemeenschap in de wateren van Groenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0801
+docidentifier:
+- content: EU Regulation 801/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0801
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/801/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-03-26'
+- type: implemented
+  at: '1985-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R0002
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

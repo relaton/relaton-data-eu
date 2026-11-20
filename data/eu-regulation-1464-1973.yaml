@@ -1,0 +1,90 @@
+---
+id: EURegulation14641973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1464/73 of the Commission of 30 May 1973 on detailed
+    rules for applying the differential amounts for colza and rape seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1464/73 de la Commission, du 30 mai 1973, portant
+    modalités d'application des montants différentiels pour les graines de colza
+    et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1464/73 der Kommission vom 30. Mai 1973 zur Änderung
+    der Differenzbeträge für Raps- und Rübsensamen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1464/73 af 30. maj 1973 om differencebeløbene
+    for raps- og rybsfrø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1464/73 della Commissione, del 30 maggio 1973, recante
+    modalità d'applicazione degli importi differenziali per i semi di colza e di
+    ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1464/73 van de Commissie van 30 mei 1973 houdende
+    uitvoeringsbepalingen inzake de differentiële bedragen voor kool- en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1464
+docidentifier:
+- content: EU Regulation 1464/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1464
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1464/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-05-30'
+- type: implemented
+  at: '1973-06-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1576
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,89 @@
+---
+id: EUDirective1976872
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 76/872/EEC of 16 November 1976 amending Directive 75/432/EEC
+    on aid to shipbuilding
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 76/872/CEE du Conseil, du 16 novembre 1976, modifiant la directive
+    75/432/CEE concernant les aides à la construction navale
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 76/872/EWG des Rates von 16 November 1976 Zur Änderung der
+    Richtlinie 75/432/EWG betreffend die Beihilfen für den Schiffbau
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 76/872/EØF af 16. november 1976 om ændring af direktiv
+    75/432/EØF om støtte til forædling for visse varer med oprindelse i EFTA-landene
+    og skibsbygningsindustrien på Færøerne
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 76/872/CEE del Consiglio, del 16 novembre 1976, che modifica
+    la direttiva 75/432/CEE relativa gli aiuti alla costruzione navale
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 76/872/EEG van de Raad van 16 november 1976 tot wijziging van
+    Richtlijn 75/432/EEG betreffende de steunverlening aan de scheepsbouw
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976L0872
+docidentifier:
+- content: EU Directive 1976/872
+  type: EU
+  primary: true
+- content: CELEX 31976L0872
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1976/872/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-16'
+- type: implemented
+  at: '1976-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975L0432
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

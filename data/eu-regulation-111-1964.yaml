@@ -1,0 +1,70 @@
+---
+id: EURegulation1111964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 111/64/CEE du Conseil, du 30 juillet 1964, portant constitution
+    de groupes de produits dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 111/64/EWG des Rates vom 30. Juli 1964 über die Gruppenbildung
+    auf dem Gebiet der Milch und Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 111/64/CEE del Consiglio, del 30 luglio 1964, relativo alla
+    costituzione di gruppi di prodotti nel settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 111/64/EEG van de Raad van 30 juli 1964 houdende het vormen
+    van groepen van produkten in de zuivelsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0111
+docidentifier:
+- content: EU Regulation 111/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0111
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/111/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-30'
+- type: implemented
+  at: '1964-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

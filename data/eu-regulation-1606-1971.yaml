@@ -1,0 +1,98 @@
+---
+id: EURegulation16061971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1606/71 of the Commission of 26 July 1971 altering
+    certain processing coefficients in the Annex to Regulation (EEC) No 1052/68 on
+    the import and export system for products processed from cereals and from rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1606/71 de la Commission, du 26 juillet 1971, modifiant
+    certains coefficients de transformation de l' annexe du règlement (CEE) n° 1052/68
+    relatif au régime d' importation et d' exportation des produits transformés
+    à base de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1606/71 der Kommission vom 26. Juli 1971 zur Änderung
+    einiger Verarbeitungskoeffizienten in der Anlage der Verordnung (EWG) Nr. 1052/68
+    über die Regelung für die Einfuhr und die Ausfuhr von Getreide- und Reisverarbeitungserzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1606/71 af 26. juli 1971 om ændring
+    af visse forarbejdningskoefficienter i bilaget til forordning (EØF) nr. 1052/68
+    om ordningen vedrørende indførsel og udførsel af produkter forarbejdet på
+    basis af korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1606/71 della Commissione, del 26 luglio 1971, che
+    modifica alcuni coefficienti di trasformazione dell' allegato del regolamento
+    (CEE) n. 1052/68 relativo al regime d' importazione e d' esportazione dei prodotti
+    trasformati a base di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1606/71 van de Commissie van 26 juli 1971 tot wijziging
+    van bepaalde verwerkingscoëfficiënten van de bijlage van Verordening (EEG) nr.
+    1052/68 betreffende de regeling voor de invoer en de uitvoer van op basis van
+    granen en rijst verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1606
+docidentifier:
+- content: EU Regulation 1606/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1606
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1606/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1052
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

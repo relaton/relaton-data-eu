@@ -1,0 +1,65 @@
+---
+id: EURegulation1961972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 196/72 de la Commission, du 28 janvier 1972, fixant
+    les prix d'écluse et les prélèvements dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 196/72 der Kommission vom 28. Januar 1972 zur Festsetzung
+    der Einschleusungspreise und Abschöpfungen für Schweinefleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 196/72 della Commissione, del 28 gennaio 1972, che
+    fissa i prezzi limite ed i prelievi nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 196/72 van de Commissie van 28 januari 1972 houdende
+    vaststelling van de sluisprijzen en heffingen in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0196
+docidentifier:
+- content: EU Regulation 196/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0196
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/196/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-01-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

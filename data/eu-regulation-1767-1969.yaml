@@ -1,0 +1,80 @@
+---
+id: EURegulation17671969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1767/69 de la Commission, du 5 septembre 1969, modifiant
+    le règlement (CEE) n° 1470/68 en ce qui concerne la détermination de la teneur
+    en huile des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1767/69 der Kommission vom 5. September 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1470/68 in bezug auf die Bestimmung des Ölgehalts von
+    Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE)n. 1767/69 della Commissione, del 5 settembre 1969, che
+    modifica il regolamento (CEE) n. 1470/68 per quanto riguarda la determinazione
+    del tenore in olio dei semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1767/69 van de Commissie van 5 september 1969 houdende
+    wijziging van Verordening (EEG) nr. 1470/68 met betrekking tot de bepaling van
+    het oliegehalte van oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1767
+docidentifier:
+- content: EU Regulation 1767/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1767
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1767/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-09-05'
+- type: implemented
+  at: '1969-09-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1470
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

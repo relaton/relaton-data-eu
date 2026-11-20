@@ -1,0 +1,102 @@
+---
+id: EURegulation4261977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 426/77 of 14 February 1977 repealing Regulations
+    (EEC) No 888/68, (EEC) No 990/68 and (EEC) No 752/74 concerning the beef and veal
+    sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 426/77 du Conseil, du 14 février 1977, abrogeant
+    les règlements (CEE) n° 888/68, (CEE) n 990/68 et (CEE) n° 752/74 concernant
+    le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 426/77 des Rates vom 14. Februar 1977 zur Aufhebung
+    der Verordnungen (EWG) Nr. 888/68, Nr. 990/68 und Nr. 752/74 betreffend den Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 426/77 af 14. februar 1977 om ophævelse
+    af forordning (EØF) nr. 888/68, (EØF) nr. 990/68 og (EØF) nr. 752/74 om oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 426/77 del Consiglio, del 14 febbraio 1977, che abroga
+    i regolamenti (CEE) n. 888/68, (CEE) n. 990/68 e (CEE) n. 752/74 concernenti il
+    settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 426/77 van de Raad van 14 februari 1977 tot intrekking
+    van de Verordeningen (EEG) nr. 888/68, (EEG) nr. 990/68 en (EEG) nr. 752/74 betreffende
+    de rundvleessector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0426
+docidentifier:
+- content: EU Regulation 426/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0426
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/426/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-14'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0888
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0990
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0752
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

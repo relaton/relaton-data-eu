@@ -1,0 +1,71 @@
+---
+id: EURegulation561966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 56/66/CEE de la Commission, du 23 mai 1966, relatif au calcul
+    du montant maximum des restitutions à l'exportation de produits laitiers vers
+    les pays tiers et portant abrogation des règlements ns 41/65/CEE et 42/65/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 56/66/EWG der Kommission vom 23. Mai 1966 zur Errechnung
+    der Höchstbeträge der Erstattung bei der Ausfuhr von Milcherzeugnissen nach
+    dritten Ländern und zur Aufhebung der Verordnungen Nr. 41/65/EWG und Nr. 42/65/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 56/66/CEE della Commissione, del 23 maggio 1966, relativo
+    al calcolo degli importi massimi della restituzione all'esportazione verso i paesi
+    terzi dei prodotti lattiero-caseari e all'abrogazione dei regolamenti nn. 41/65/CEE
+    e 42/65/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 56/66/EEG van de Commissie van 23 mei 1966 betreffende
+    de berekening van de maximumbedragen van de restituties bij de uitvoer van zuivelprodukten
+    naar derde landen en houdende intrekking van Verordeningen no. 41/65/EEG en no.
+    42/65/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0056
+docidentifier:
+- content: EU Regulation 56/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0056
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/56/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

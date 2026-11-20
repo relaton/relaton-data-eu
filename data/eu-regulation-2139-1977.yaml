@@ -1,0 +1,92 @@
+---
+id: EURegulation21391977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2139/77 of 27 September 1977 amending Regulation
+    (EEC) No 2742/75 on production refunds in the cereals and rice sectors
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2139/77 du Conseil, du 27 septembre 1977, modifiant
+    le règlement (CEE) n° 2742/75 relatif aux restitutions à la production dans
+    le secteur des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2139/77 des Rates vom 27. September 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2742/75 über die Erstattungen bei der Erzeugung für
+    Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2139/77 af 27. september 1977 om ændring
+    af forordning (EØF) nr. 2742/75 om produktionsrestitutioner i korn- og rissektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2139/77 del Consiglio, del 27 settembre 1977, che
+    modifica il regolamento (CEE) n. 2742/75 relativo alle restituzioni alla produzione
+    nei settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2139/77 van de Raad van 27 september 1977 houdende
+    wijziging van Verordening (EEG) nr. 2742/75 inzake de restituties bij de produktie
+    in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2139
+docidentifier:
+- content: EU Regulation 2139/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2139
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2139/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-09-27'
+- type: implemented
+  at: '1977-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2742
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

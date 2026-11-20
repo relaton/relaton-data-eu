@@ -1,0 +1,98 @@
+---
+id: EURegulation21961977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2196/77 of 4 October 1977 amending Regulation
+    (EEC) No 1089/77 on detailed rules of application for granting special aid for
+    skimmed milk for use as feed for animals other than young calves
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2196/77 de la Commission, du 4 octobre 1977, modifiant
+    le règlement (CEE) n° 1089/77 relatif aux modalités d' application d' une aide
+    spéciale pour le lait écrémé destiné à l' alimentation des animaux à l'
+    exclusion des jeunes veaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2196/77 der Kommission vom 4. Oktober 1977 zur Änderung
+    der Verordnung (EWG) Nr. 1089/77 über die Durchführungsbestimmungen für eine
+    Sonderbeihilfe für Magermilch zur Fütterung von Tieren mit Ausnahme von jungen
+    Kälbern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2196/77 af 4. oktober 1977 om ændring
+    af forordning (EØF) nr. 1089/77 om gennemførelsesbestemmelser for en særlig
+    støtte til skummetmælk, der er bestemt til foder til andre dyr end unge kalve
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2196/77 della Commissione, del 4 ottobre 1977, che
+    modifica il regolamento (CEE) n. 1089/77 relativo alle modalità di applicazione
+    di un aiuto speciale per il latte scremato destinato all' alimentazione degli
+    animali, esclusi i giovani vitelli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2196/77 van de Commissie van 4 oktober 1977 tot wijziging
+    van Verordening (EEG) nr. 1089/77 houdende uitvoeringsbepalingen betreffende een
+    speciale steun voor ondermelk bestemd voor voederdoeleinden, behalve voor jonge
+    kalveren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2196
+docidentifier:
+- content: EU Regulation 2196/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2196
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2196/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-04'
+- type: implemented
+  at: '1977-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1089
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

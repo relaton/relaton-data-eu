@@ -1,0 +1,100 @@
+---
+id: EUDecision1983180
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '83/180/EEC: Commission Decision of 7 April 1983 repealing Decision 82/826/EEC
+    concerning certain protection measures against classical swine fever'
+  type: main
+- language: fr
+  script: Latn
+  content: '83/180/CEE: Décision de la Commission du 7 avril 1983 abrogeant la décision
+    82/826/CEE relative à certaines mesures de protection contre la peste porcine
+    classique'
+  type: main
+- language: de
+  script: Latn
+  content: '83/180/EWG: Entscheidung der Kommission vom 7. April 1983 zur Aufhebung
+    der Entscheidung 82/826/EWG über Schutzmaßnahmen gegen die klassische Schweinepest'
+  type: main
+- language: da
+  script: Latn
+  content: '83/180/EØF: Kommissionens beslutning af 7. april 1983 om ophævelse af
+    beslutning 82/826/EØF om visse beskyttelsesforanstaltninger mod klassisk svinepest'
+  type: main
+- language: el
+  script: Grek
+  content: '83/180/ΕΟΚ: Απόφαση της Επιτροπής της 7ης Απριλίου
+    1983 που καταργεί την απόφαση 82/826/ΕΟΚ όσον αφορά
+    ορισμένα μέτρα προστασίας κατά της κλασικής
+    πανώλης των χοίρων'
+  type: main
+- language: it
+  script: Latn
+  content: '83/180/CEE: Decisione della Commissione del 7 aprile 1983 che revoca la
+    decisione 82/826/CEE relativa a talune misure di protezione contro la peste suina
+    classica'
+  type: main
+- language: nl
+  script: Latn
+  content: '83/180/EEG: Beschikking van de Commissie van 7 april 1983 tot intrekking
+    van Beschikking 82/826/EEG betreffende beschermende maatregelen tegen de verspreiding
+    van klassieke varkenspest'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983D0180
+docidentifier:
+- content: EU Decision 1983/180
+  type: EU
+  primary: true
+- content: CELEX 31983D0180
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1983/180/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-04-07'
+- type: implemented
+  at: '1983-04-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982D0826
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

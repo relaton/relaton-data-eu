@@ -1,0 +1,88 @@
+---
+id: EURegulation26301975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2630/75 of the Commission of 16 October 1975 on the
+    boning of beef bought-in by the intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2630/75 de la Commission, du 16 octobre 1975, relatif
+    au désossage des viandes bovines prises en charge par les organismes d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2630/75 der Kommission vom 16. Oktober 1975 über
+    das Entbeinen des von den Interventionsstellen übernommenen Rindfleisches
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2630/75 af 16. oktober 1975 om udbening
+    af oksekød, der er overtaget af interventionsorganerne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2630/75 della Commissione, del 16 ottobre 1975, relativo
+    al disossamento delle carni bovine prese in consegna dagli organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2630/75 van de Commissie van 16 oktober 1975 betreffende
+    het uitbenen van door de interventiebureaus overgenomen rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2630
+docidentifier:
+- content: EU Regulation 2630/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2630
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2630/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-16'
+- type: implemented
+  at: '1975-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1315
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,98 @@
+---
+id: EURegulation2591975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 259/75 of the Commission of 31 January 1975 amending
+    Regulation (EEC) No 2778/74 as concerns the equivalence for the purposes of boning
+    in connection with private storage contracts and boned beef
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 259/75 de la Commission, du 31 janvier 1975, modifiant
+    le règlement (CEE) n° 2778/74 en ce qui concerne l' équivalence entre viandes
+    bovines non désossées et désossées dans le cadre d' un contrat de stockage
+    privé
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 259/75 der Kommission vom 31. Januar 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2778/74 über das Verhältnis zwischen nicht entbeintem
+    und entbeintem Rindfleisch im Rahmen eines Vertrages über private Lagerhaltung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 259/75 af 31. januar 1975 om ændring
+    af forordning (EØF) nr. 2778/74 for så vidt angår ækvivalensen mellem ikke
+    udbenet oksekød og udbenet oksekød inden for rammerne af en kontrakt om privat
+    oplagring
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 259/75 della Commissione, del 31 gennaio 1975, che
+    modifica il regolamento (CEE) n. 2778/74 per quanto concerne la corrispondenza
+    fra carni bovine non disossate e disossate nel quadro di un contratto di ammasso
+    privato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 259/75 van de Commissie van 31 januari 1975 houdende
+    wijziging van Verordening (EEG) nr. 2778/74 met betrekking tot de gelijkwaardigheid
+    van een hoeveelheid rundvlees, met been, ten opzichte van een hoeveelheid uitgebeend
+    rundvlees in het raam van een contract voor particuliere opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0259
+docidentifier:
+- content: EU Regulation 259/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0259
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/259/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-31'
+- type: implemented
+  at: '1975-02-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2778
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

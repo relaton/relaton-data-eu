@@ -1,0 +1,99 @@
+---
+id: EURegulation25131979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2513/79 of 12 November 1979 increasing the
+    Community tariff quota opened for 1979 for unwrought magnesium falling within
+    subheading 77.01 A of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2513/79 du Conseil, du 12 novembre 1979, portant augmentation
+    du volume du contingent tarifaire communautaire, ouvert pour l' année 1979, pour
+    le magnésium brut de la sous-position 77.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2513/79 des Rates vom 12. November 1979 zur Aufstockung
+    des für 1979 eröffneten Gemeinschaftszollkontingents für Rohmagnesium der Tarifstelle
+    77.01 A des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2513/79 af 12. november 1979 om forhøjelse
+    af det for 1979 åbnede fællesskabstoldkontingent for ubearbejdet magnesium henhørende
+    under pos. 77.01 A i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2513/79 del Consiglio, del 12 novembre 1979, relativo
+    all' aumento del volume del contingente tariffario comunitario aperto per il 1979
+    per il magnesio greggio della sottovoce 77.01 A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2513/79 van de Raad van 12 november 1979 houdende
+    verhoging van het communautaire tariefcontingent voor 1979 voor ruw magnesium
+    van onderverdeling 77.01 A van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2513
+docidentifier:
+- content: EU Regulation 2513/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2513
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2513/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-11-12'
+- type: implemented
+  at: '1979-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2919
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1385
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

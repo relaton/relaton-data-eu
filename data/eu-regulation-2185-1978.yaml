@@ -1,0 +1,95 @@
+---
+id: EURegulation21851978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2185/78 of 19 September 1978 extending the
+    period of validity of Regulation (EEC) No 2862/77 on levies applicable to imports
+    of certain adult bovine animals and beef from Yugoslavia
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2185/78 du Conseil, du 19 septembre 1978, prorogeant
+    le règlement (CEE) n° 2862/77 concernant les prélèvements applicables aux
+    importations de certains gros bovins et de leurs viandes en provenance de Yougoslavie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2185/78 des Rates vom 19. September 1978 zur Verlängerung
+    der Geltungsdauer der Verordnung (EWG) Nr. 2862/77 über die Abschöpfungen, die
+    bei der Einfuhr von bestimmten ausgewachsenen Rindern und Fleisch von solchen
+    aus Jugoslawien anzuwenden sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2185/78 af 19. september 1978 om forlængelse
+    af forordning (EØF) nr. 2862/77 om importafgifter for visse former for voksent
+    kvæg og oksekød fra Jugoslavien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2185/78 del Consiglio, del 19 settembre 1978, che
+    proroga il regolamento (CEE) n. 2862/77 concernente i prelievi applicabili alle
+    importazioni di alcuni bovini adulti e delle loro carni in provenienza dalla Iugoslavia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2185/78 van de Raad van 19 september 1978 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 2862/77 inzake de heffingen bij
+    invoer van bepaalde volwassen runderen en vlees daarvan uit Joegoslavië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2185
+docidentifier:
+- content: EU Regulation 2185/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2185
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2185/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-09-19'
+- type: implemented
+  at: '1978-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2862
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

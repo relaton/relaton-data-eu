@@ -1,0 +1,85 @@
+---
+id: EURegulation5461971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 546/71 de la Commission, du 15 mars 1971, rectifiant
+    les montants compensatoires perçus à l'exportation par la France, conformément
+    au règlement (CEE) n° 1670/69, relatif à certaines mesures à prendre dans
+    les secteurs des céréales et du riz à la suite de la dévaluation du franc
+    français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 546/71 der Kommission vom 15. März 1971 zur Berichtigung
+    der bei der Ausfuhr durch Frankreich gemäß der Verordnung (EWG) Nr. 1670/69
+    über bestimmte Maßnahmen auf den Sektoren Getreide und Reis infolge der Abwertung
+    des französischen Franken erhobenen Ausgleichsbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 546/71 della Commissione, del 15 marzo 1971, che rettifica
+    gli importi di compensazione riscossi dalla Francia all'esportazione in conformità
+    del regolamento (CEE) n. 1670/69 relativo a talune misure da adottare nei settori
+    dei cereali e del riso in seguito alla svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 546/71 van de Commissie van 15 maart 1971 ter correctie
+    van de door Frankrijk volgens Verordening (EEG) nr. 1670/69 betreffende ingevolge
+    de devaluatie van de Franse frank in de sectoren granen en rijst te nemen maatregelen
+    bij uitvoer geïnde compenserende bedragen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0546
+docidentifier:
+- content: EU Regulation 546/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0546
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/546/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-15'
+- type: implemented
+  at: '1971-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1670
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

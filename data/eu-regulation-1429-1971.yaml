@@ -1,0 +1,92 @@
+---
+id: EURegulation14291971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1429/71 of the Council of 2 July 1971 amending Regulation
+    (EEC) No 1025/70 establishing common rules for imports from third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1429/71 du Conseil, du 2 juillet 1971, modifiant le
+    règlement (CEE)" n° 1025/70 portant établissement d' un régime commun applicable
+    aux importations de pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1429/71 des Rates vom 2. Juli 1971 zur Änderung der
+    Verordnung (EWG) Nr. 1025/70 zur Festlegung einer gemeinsamen Regelung für die
+    Einfuhr aus dritten Ländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1429/71 af 2. juli 1971 om ændring af forordning
+    nr. 1025/70/EØF om fastlæggelse af en fælles ordning for indførslen fra tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1429/71 del 2 luglio 1971, che modifica il regolamento
+    (CEE) n. 1025/70 che istituisce un regime comune applicabile alle importazioni
+    da paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1429/71 van de Raad van 2 juli 1971 tot wijziging
+    van Verordening (EEG) nr. 1025/70 houdende de totstandbrenging van een gemeenschappelijke
+    regeling voor de invoer uit derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1429
+docidentifier:
+- content: EU Regulation 1429/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1429
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1429/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-02'
+- type: implemented
+  at: '1971-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1025
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

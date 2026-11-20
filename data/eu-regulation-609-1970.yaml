@@ -1,0 +1,67 @@
+---
+id: EURegulation6091970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 609/70 de la Commission, du 1er avril 1970, fixant les
+    restitutions à l'exportation pour le sucre blanc et le sucre brut en l'état
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 609/70 der Kommission vom 1. April 1970 zur Festsetzung
+    der Erstattung bei der Ausfuhr in unverändertem Zustand für WeiDzucker und Rohzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 609/70 della Commissione, del 1 aprile 1970, che fissa
+    le restituzioni all'esportazione per lo zucchero bianco e per lo zucchero greggio
+    allo stato naturale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 609/70 van de Commissie van 1 april 1970 houdende
+    vaststelling van de restituties bij de uitvoer van witte en ruwe suiker in onveranderde
+    vorm
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0609
+docidentifier:
+- content: EU Regulation 609/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0609
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/609/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

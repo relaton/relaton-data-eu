@@ -1,0 +1,94 @@
+---
+id: EURegulation24861969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2486/69 of the Council of 9 December 1969 amending
+    Regulation (EEC) No 765/68 as regards the tariff headings for certain products
+    of the chemical industry manufactured from sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2486/69 du Conseil, du 9 décembre 1969, modifiant
+    le règlement (CEE) n° 765/68 en ce qui concerne la position tarifaire de certains
+    produits de l' industrie chimique fabriqués à partir de sucres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2486/69 des Rates vom 9. Dezember 1969 zur Änderung
+    der Verordnung (EWG) Nr. 765/68 in bezug auf die Tarifnummer einiger auf Zuckerbasis
+    hergestellter Erzeugnisse der chemischen Industrie
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2486/69 af 9. december 1969 om ændring af
+    forordning (EØF) nr. 765/68 med hensyn til toldposition for visse af den kemiske
+    industris produkter fremstillet på basis af sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2486/69 del Consiglio, del 9 dicembre 1969, che modifica
+    il regolamento (CEE) n. 765/68 per quanto riguarda la voce tariffaria di taluni
+    prodotti dell' industria chimica fabbricati con zuccheri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2486/69 van de Raad van 9 december 1969 tot wijziging
+    van Verordening (EEG) nr. 765/68 voor wat betreft de tariefposten van bepaalde
+    uit suiker vervaardigde produkten van de chemische industrie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2486
+docidentifier:
+- content: EU Regulation 2486/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2486
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2486/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-09'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0765
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

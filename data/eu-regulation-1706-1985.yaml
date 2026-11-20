@@ -1,0 +1,102 @@
+---
+id: EURegulation17061985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1706/85 of 21 June 1985 amending Regulation
+    (EEC) No 1477/85 adopting exceptional support measures for the market in pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1706/85 de la Commission du 21 juin 1985 portant modification
+    du règlement (CEE) no 1477/85 arrêtant des mesures exceptionnelles de soutien
+    du marché dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1706/85 der Kommission vom 21. Juni 1985 zur Änderung
+    der Verordnung (EWG) Nr. 1477/85 über Sondermaßnahmen zur Stützung des Schweinefleischmarktes
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1706/85 af 21. juni 1985 om ændring
+    af forordning (EØF) nr. 1477/85 om undtagelsesforanstaltninger til støtte for
+    markedet for svinekød
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1706/85 της Επιτροπής
+    της 21ης Ιουνίου 1985 για τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 1477/85 που θεσπίζει εξαιρετικά μέτρα
+    στηρίξεως της αγοράς στον τομέα του χοιρείου
+    κρέατος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1706/85 della Commissione del 21 giugno 1985 che modifica
+    il regolamento (CEE) n. 1477/85 che stabilisce misure eccezionali di sostegno
+    del mercato nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1706/85 van de Commissie van 21 juni 1985 houdende
+    wijziging van Verordening (EEG) nr. 1477/85 tot vaststelling van buitengewone
+    maatregelen ter ondersteuning van de markt in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R1706
+docidentifier:
+- content: EU Regulation 1706/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R1706
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/1706/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-06-21'
+- type: implemented
+  at: '1985-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R1477
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

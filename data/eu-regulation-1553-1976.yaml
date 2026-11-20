@@ -1,0 +1,100 @@
+---
+id: EURegulation15531976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1553/76 of 29 June 1976 extending the term
+    of validity of Regulation (EEC) No 1267/69 laying down special provisions applicable
+    to imports into the Community from Greece of goods coming under Regulation (EEC)
+    No 1059/69
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1553/76 du Conseil, du 29 juin 1976, prorogeant la
+    durée de validité du règlement (CEE) n° 1267/69 fixant les dispositions particulières
+    applicables lors de l'importation dans la Communauté, en provenance de Grèce,
+    des marchandises relevant du règlement (CEE) n° 1059/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1553/76 des Rates vom 29. Juni 1976 zur Verlängerung
+    der Geltungsdauer der Verordnung (EWG) Nr. 1267/69 zur Festlegung der Sonderbestimmungen,
+    die bei der Einfuhr von unter die Verordnung (EWG) Nr. 1059/69 fallenden Waren
+    aus Griechenland in die Gemeinschaft anwendbar sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1553/76 af 29. juni 1976 om forlængelse
+    af gyldighedsperioden for forordning (EØF) nr. 1267/69 om fastsættelse af særlige
+    bestemmelser for indførsel i Fællesskabet af varer fra Grækenland, som henhører
+    under forordning (EØF) nr. 1059/69
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1553/76 del Consiglio, del 29 giugno 1976, che proroga
+    la durata di validità del regolamento (CEE) n. 1267/69 che fissa le disposizioni
+    particolari applicabili all'importazione nella Comunità di merci soggette al
+    regolamento (CEE) n. 1059/69 e provenienti dalla Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1553/76 van de Raad van 29 juni 1976 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 1267/69 houdende vaststelling
+    van de speciale voorschriften die van toepassing zijn bij de invoer in de Gemeenschap
+    van onder Verordening (EEG) nr. 1059/69 vallende goederen van oorsprong uit Griekenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1553
+docidentifier:
+- content: EU Regulation 1553/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1553
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1553/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-29'
+- type: implemented
+  at: '1976-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1267
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

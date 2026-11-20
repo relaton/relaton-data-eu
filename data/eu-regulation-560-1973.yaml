@@ -1,0 +1,94 @@
+---
+id: EURegulation5601973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 560/73 of the Council of 26 February 1973 amending
+    Regulation (EEC) No 222/73 on the exchange rates to be applied in agriculture
+    for the currencies of the new Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 560/73 du Conseil, du 26 février 1973, modifiant
+    le règlement (CEE) n° 222/73 relatif aux taux de conversion à appliquer dans
+    le secteur agricole pour les monnaies des nouveaux États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 560/73 des Rates vom 26. Februar 1973 zur Änderung
+    der Verordnung (EWG) Nr. 222/73 über die auf dem Agrarsektor für die Währungen
+    der neuen Mitgliedstaaten anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 560/73 af 26. februar 1973 om ændring af
+    forordning (EØF) nr. 222/73 om de omregningskurser, der for valutaerne i de nye
+    medlemsstater skal anvendes inden for landbrugssektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 560/73 del Consiglio, del 26 febbraio 1973, che modifica
+    il regolamento (CEE) n. 222/73 relativo ai tassi di cambio da applicare nel settore
+    agricolo per le monete dei nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 560/73 van de Raad van 26 februari 1973 tot wijziging
+    van Verordening (EEG) nr. 222/73 betreffende de omrekeningskoersen die in de landbouwsector
+    moeten worden aangehouden voor de munteenheden van de nieuwe Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0560
+docidentifier:
+- content: EU Regulation 560/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0560
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/560/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-02-26'
+- type: implemented
+  at: '1973-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0222
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

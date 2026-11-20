@@ -1,0 +1,105 @@
+---
+id: EURegulation32211981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3221/81 of 11 November 1981 amending for
+    the third time Regulation (EEC) No 3314/80 as regards the selling price of skimmed-milk
+    powder for feed for calves
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3221/81 de la Commission, du 11 novembre 1981, portant
+    troisième modification du règlement (CEE) n° 3314/80 en ce qui concerne le
+    prix de vente du lait écrémé en poudre destiné à l' alimentation des veaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3221/81 der Kommission vom 11. November 1981 zur dritten
+    Änderung der Verordnung (EWG) Nr. 3314/80 hinsichtlich des Verkaufspreises für
+    Magermilchpulver zur Kälberfütterung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3221/81 af 11. november 1981 om tredje
+    ændring af forordning (EØF) nr. 3314/80 for så vidt angår salgsprisen for
+    skummetmælkspulver til kalvefoder
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3221/81 τής Επιτροπής
+    τής 11ης Νοεμβρίου 1981 περί τής τρίτης τροποποιήσεως
+    τού κανονισμού (EOK) αριθ. 3314/80 περί τής τιμής
+    πωλήσεως αποκορυφωμένου γάλακτος σέ σκόνη
+    πού προορίζεται γιά τή διατροφή βοών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3221/81 della Commissione, dell' 11 novembre 1981,
+    recante terza modifica del regolamento (CEE) n. 3314/80 per quanto concerne i
+    termini relativi alla vendita di latte scremato in polvere destinato all' alimentazione
+    dei vitelli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3221/81 van de Commissie van 11 november 1981 houdende
+    derde wijziging van Verordening (EEG) nr. 3314/80 voor wat de verkoopprijs betreft
+    van magere-melkpoeder bestemd voor vervoedering aan kalveren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R3221
+docidentifier:
+- content: EU Regulation 3221/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R3221
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/3221/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-11-11'
+- type: implemented
+  at: '1981-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R3314
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

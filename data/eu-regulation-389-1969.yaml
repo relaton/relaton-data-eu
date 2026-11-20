@@ -1,0 +1,84 @@
+---
+id: EURegulation3891969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 389/69 de la Commission, du 28 février 1969, complétant
+    le règlement (CEE) n° 774/68 notamment afin d'établir pour les sirops les modalités
+    d'application pour le système de compensation des frais de stockage dans le secteur
+    du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 389/69 der Kommission vom 28. Februar 1969 zur Ergänzung
+    der Verordnung (EWG) Nr. 774/68 insbesondere betreffend Durchführungsbestimmungen
+    für die Einbeziehung von Sirupen in das System der Vergütung von Lagerkosten
+    für Zucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 389/69 della Commissione, del 28 febbraio 1969, che
+    completa il regolamento (CEE) n. 774/68 particolarmente al fine di stabilire per
+    gli sciroppi le modalità d'applicazione per il sistema di compenso delle spese
+    di magazzinaggio nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 389/69 van de Commissie van 28 februari 1969 tot
+    aanvulling van Verordening (EEG) nr. 774/68, met name ten einde voor stropen de
+    uitvoeringsbepalingen vast te stellen voor het systeem van compensatie van opslagkosten
+    in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0389
+docidentifier:
+- content: EU Regulation 389/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0389
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/389/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-02-28'
+- type: implemented
+  at: '1969-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0774
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

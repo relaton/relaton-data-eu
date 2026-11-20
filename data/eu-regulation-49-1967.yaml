@@ -1,0 +1,73 @@
+---
+id: EURegulation491967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 49/67/CEE du Conseil, du 7 mars 1967, relatif au contingent
+    tarifaire communautaire de 20.000 têtes de génisses et de vaches de certaines
+    races de montagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 49/67/EWG des Rates vom 7. März 1967 über das Gemeinschaftszollkontingent
+    von 20 000 Stück Färsen und Kühen bestimmter Höhenrassen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 49/67/CEE del Consiglio, del 7 marzo 1967, relativo al contingente
+    tariffario comunitario di 20.000 capi di giovenche e vacche di alcune razze di
+    montagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 49/67/EEG van de Raad van 7 maart 1967 betreffende het
+    communautaire tariefcontingent van 20.000 stuks vaarzen en koeien van bepaalde
+    bergrassen.
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0049
+docidentifier:
+- content: EU Regulation 49/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0049
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/49/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-07'
+- type: implemented
+  at: '1967-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,107 @@
+---
+id: EURegulation20011985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2001/85 of 16 July 1985 amending Regulation
+    (EEC) No 1943/81 on a common measure to improve the processing and marketing conditions
+    in the cattlefeed sector in Northern Ireland
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2001/85 du Conseil du 16 juillet 1985 modifiant le
+    règlement (CEE) no 1943/81 concernant une action commune pour l' amélioration
+    des conditions de transformation et de commercialisation dans le secteur des aliments
+    du bétail en Irlande du Nord
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2001/85 des Rates vom 16. Juli 1985 zur Änderung
+    der Verordnung (EWG) Nr. 1943/81 über eine gemeinsame Maßnahme zur Verbesserung
+    der Verarbeitungs- und Vermarktungsbedingungen im Futtermittelsektor in Nordirland
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2001/85 af 16. juli 1985 om ændring af forordning
+    (EØF) nr. 1943/81 om en fælles foranstaltning til forbedring af vilkårene for
+    forarbejdning og afsætning af foder i Nordirland
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2001/85 του Συμβουλίου
+    της 16ης Ιουλίου 1985 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 1943/81 περί κοινής δράσης
+    για τη βελτίωση των όρων μεταποίησης και εμπορίας
+    στον τομέα των ζωοτροφών στη Βόρεια Ιρλανδία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2001/85 del Consiglio del 16 luglio 1985 che modifica
+    il regolamento (CEE) n. 1943/81 relativo ad un' azione comune per il miglioramento
+    delle condizioni di trasformazione e di commercializzazione nel settore degli
+    alimenti per animali nell' Irlanda del Nord
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2001/85 van de Raad van 16 juli 1985 tot wijziging
+    van Verordening (EEG) nr. 1943/81 betreffende een gemeenschappelijke actie ter
+    verbetering van de voorwaarden voor de verwerking en de afzet in de sector veevoeder
+    in Noord-Ierland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R2001
+docidentifier:
+- content: EU Regulation 2001/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R2001
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/2001/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-07-16'
+- type: implemented
+  at: '1985-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R1943
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

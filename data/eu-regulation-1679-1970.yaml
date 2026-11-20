@@ -1,0 +1,70 @@
+---
+id: EURegulation16791970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1679/70 de la Commission, du 18 août 1970, relatif
+    aux vins en provenance du Maroc ou de la Tunisie, importés en France
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1679/70 der Kommission vom 18. August 1970 über nach
+    Frankreich eingeführte Weine mit Herkunft aus Marokko oder Tunesien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1679/70 della Commissione, del 18 agosto 1970, relativo
+    ai vini importati in Francia in provenienza dal Marocco o dalla Tunisia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1679/70 van de Commissie van 18 augustus 1970 betreffende
+    in Frankrijk ingevoerde wijn uit Marokko of Tunesië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1679
+docidentifier:
+- content: EU Regulation 1679/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1679
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1679/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-08-18'
+- type: implemented
+  at: '1970-08-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

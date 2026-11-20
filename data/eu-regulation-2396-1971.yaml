@@ -1,0 +1,101 @@
+---
+id: EURegulation23961971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2396/71 of the Council of 8 November 1971 implementing
+    the Council Decision of 1 February 1971 on the reform of the European Social Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2396/71 du Conseil, du 8 novembre 1971, portant application
+    de la décision du Conseil, du 1er février 1971, concernant la réforme du Fonds
+    social européen
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2396/71 des Rates vom 8. November 1971 zur Durchführung
+    des Beschlusses des Rates vom 1. Februar 1971 über die Reform des Europäischen
+    Sozialfonds
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2396/71 af 8. november 1971 om gennemførelsen
+    af Rådets afgørelse af 1. februar 1971 om reformen af Den europæiske Socialfond
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2396/71 τού Συμβουλίου
+    τής 8ης Νοεμβρίου 1971 περί εφαρμογής τής αποφάσεως
+    τού Συμβουλίου τής 1ης Φεβρουαρίου 1971 «περί
+    αναμορφώσεως τού Ευρωπαϊκού Κοινωνικού Ταμείου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2396/71 del Consiglio, dell' 8 novembre 1971, recante
+    applicazione della decisione del Consiglio del 1° febbraio 1971 relativa alla
+    riforma del Fondo sociale europeo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2396/71 van de Raad van 8 november 1971 ter uitvoering
+    van het besluit van de Raad van 1 februari 1971 betreffende de hervorming van
+    het Europees Sociaal Fonds
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2396
+docidentifier:
+- content: EU Regulation 2396/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2396
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2396/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-08'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31960R0009
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

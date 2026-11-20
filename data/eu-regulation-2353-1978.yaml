@@ -1,0 +1,94 @@
+---
+id: EURegulation23531978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2353/78 of 9 October 1978 closing the invitation
+    to tender for the purpose of determining premiums for white sugar for feeding
+    to bees referred to in Regulation (EEC) No 1320/77
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2353/78 de la Commission du 9 octobre 1978 clôturant
+    l'adjudication pour la détermination de primes pour du sucre blanc destiné à
+    l'alimentation des abeilles visée au règlement (CEE) n° 1320/77
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2353/78 der Kommission vom 9. Oktober 1978 zur Einstellung
+    der Ausschreibung zur Bestimmung der Prämien für Weißzucker zur Bienenfütterung
+    gemäß der Verordnung (EWG) Nr. 1320/77
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2353/78 af 9. oktober 1978 om lukning
+    af licitation til fastsættelse af præmier for hvidt sukker bestemt til foder
+    til bier, omhandlet i forordning (EØF) nr. 1320/77
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2353/78 della Commissione, del 9 ottobre 1978, che
+    chiude la gara per la determinazione di premi per lo zucchero bianco destinato
+    all'alimentazione delle api di cui al regolamento (CEE) n. 1320/77
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2353/78 van de Commissie van 9 oktober 1978 tot sluiting
+    van de openbare inschrijving voor de vaststelling van de premies voor witte suiker
+    bestemd voor de bijenvoeding krachtens Verordening (EEG) nr. 1320/77
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2353
+docidentifier:
+- content: EU Regulation 2353/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2353
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2353/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-09'
+- type: implemented
+  at: '1978-10-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

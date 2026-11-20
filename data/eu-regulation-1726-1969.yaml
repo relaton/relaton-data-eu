@@ -1,0 +1,80 @@
+---
+id: EURegulation17261969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1726/69 de la Commission, du 29 août 1969, modifiant
+    le règlement (CEE) n° 1667/69 en ce qui concerne la diminution de l'aide à
+    VERSER par la France pour le lait écrémé en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1726/69 der Kommission vom 29. August 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1667/69 hinsichtlich der Senkung der von Frankreich zu
+    zahlenden Beihilfe für Magermilchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1726/69 della Commissione, del 29 agosto 1969, che
+    modifica il regolamento (CEE) n. 1667/69 per quanto concerne la diminuzione degli
+    aiuti da erogare dalla Francia per il latte scremato in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1726/69 van de Commissie van 29 augustus 1969 tot
+    wijziging van Verordening (EEG) nr. 1667/69 betreffende de vermindering van de
+    door Frankrijk te storten steun voor magere-melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1726
+docidentifier:
+- content: EU Regulation 1726/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1726
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1726/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-08-29'
+- type: implemented
+  at: '1969-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1667
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

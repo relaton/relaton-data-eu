@@ -1,0 +1,72 @@
+---
+id: EURegulationNo20531969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2053/69 du Conseil, du 17 octobre 1969, relatif à
+    l'organisation d'une enquête sur les salaires dans le commerce de détail, les
+    banques et les entreprises d'assurances
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2053/69 des Rates vom 17. Oktober 1969 über die Durchführung
+    einer Lohnerhebung im Einzelhandel, im Bank- und im Versicherungsgewerbe
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2053/69 del Consiglio, del 17 ottobre 1969, relativo
+    all'organizzazione di un'inchiesta sulle retribuzioni nel commercio al minuto,
+    nelle banche e nelle imprese di assicurazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2053/69 van de Raad van 17 oktober 1969 betreffende
+    de organisatie van een loonenquête bij de kleinhandel, de banken en de verzekeringsbedrijven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2053
+docidentifier:
+- content: EU Regulation No 2053/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2053
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2053/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-17'
+- type: implemented
+  at: '1969-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

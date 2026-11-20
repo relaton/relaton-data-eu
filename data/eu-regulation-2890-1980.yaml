@@ -1,0 +1,105 @@
+---
+id: EURegulation28901980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2890/80 of 6 November 1980 amending Regulation
+    (EEC) No 1379/80 as regards the beef products which may be taken into intervention
+    in certain Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2890/80 de la Commission, du 6 novembre 1980, modifiant
+    le règlement (CEE) n° 1379/80 en ce qui concerne les produits du secteur de
+    la viande bovine pouvant faire l' objet d' achats à l' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2890/80 der Kommission vom 6. November 1980 zur Änderung
+    der Verordnung (EWG) Nr. 1379/80 hinsichtlich der Erzeugnisse des Rindfleischsektors,
+    die Gegenstand von Interventionskäufen sein können
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2890/80 af 6. november 1980 om ændring
+    af forordning (EØF) nr. 1379/80 for så vidt angår oksekødsprodukter, der kan
+    opkøbes ved intervention
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 2890/80 της Επιτροπής
+    της 6ης Νοεμβρίου 1980 περί τροποποιήσεως του
+    κανονισμού (EOK) αριθ. 1379/80 για τα προϊόντα του
+    τομέα του βοείου κρέατος που δύναται να αποτελέσει
+    αντικείμενο αγορών κατά την παρέμβαση σε ορισμένα
+    κράτη μέλη
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2890/80 della Commissione, del 6 novembre 1980, che
+    modifica il regolamento (CEE) n. 1379/80 per quanto concerne i prodotti del settore
+    delle carni bovine che possono formare oggetto di acquisti all' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2890/80 van de Commissie van 6 november 1980 tot
+    wijziging van Verordening (EEG) nr. 1379/80 ten aanzien van de produkten van de
+    sector rundvlees die door de interventiebureaus kunnen worden aangekocht
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2890
+docidentifier:
+- content: EU Regulation 2890/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2890
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2890/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-11-06'
+- type: implemented
+  at: '1980-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1379
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

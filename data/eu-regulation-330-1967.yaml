@@ -1,0 +1,69 @@
+---
+id: EURegulation3301967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 330/67/CEE de la Commission, du 20 juillet 1967, modifiant
+    le règlement n 232/67/CEE portant fixation de la restitution à l'exportation
+    dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 330/67/EWG der Kommission vom 20. Juli 1967 zur Änderung
+    der Verordnung Nr. 232/67/EWG zur Festsetzung der Erstattung bei der Ausfuhr auf
+    dem Schweinefleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 330/67/CEE della Commissione, del 20 luglio 1967, che modifica
+    il regolamento n. 232/67/CEE che determina la restituzione all'esportazione nel
+    settore della carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 330/67/EEG van de Commissie van 20 juli 1967 houdende wijziging
+    der Verordening no. 232/67/EEG houdende vaststelling van de restitutie bij export
+    in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0330
+docidentifier:
+- content: EU Regulation 330/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0330
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/330/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

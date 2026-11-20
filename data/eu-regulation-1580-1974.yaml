@@ -1,0 +1,94 @@
+---
+id: EURegulation15801974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1580/74 of the Commission of 24 June 1974 completing
+    Regulation (EEC) No 3280/73 on accession compensatory amounts for cereals and
+    rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1580/74 de la Commission du 24 juin 1974, complétant
+    le règlement (CEE) n° 3280/73 relatif aux montants compensatoires adhésion
+    dans le secteur des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1580/74 der Kommission vom 24. Juni 1974 zur Vervollständigung
+    der Verordnung (EWG) Nr. 3280/73 über die Beitrittsausgleichsbeträge im Getreide-
+    und Reissektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1580/74 af 24. juni 1974 om et supplerende
+    regulativ til Kommissionens forordning (EØF) nr. 3280/73 vedrørende monetær
+    udligning i forbindelse med korn- og rissektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1580/74 della Commissione, del 24 giugno 1974, che
+    completa il regolamento (CEE) n. 3280/73 relativo agli importi compensativi adesione
+    nel settore dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1580/74 van de Commissie van 24 juni 1974 tot aanvulling
+    van Verordening (EEG) nr. 3280/73 betreffende de compenserende bedragen ,,toetreding'
+    ' voor granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1580
+docidentifier:
+- content: EU Regulation 1580/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1580
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1580/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-24'
+- type: implemented
+  at: '1974-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3280
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

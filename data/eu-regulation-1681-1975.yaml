@@ -1,0 +1,98 @@
+---
+id: EURegulation16811975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1681/75 of the Commission of 27 June 1975 concerning
+    the issue of import licences, during the period of application of protective measures,
+    for products originating in Botswana, Kenya, Madagascar and Swaziland
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1681/75 de la Commission, du 27 juin 1975, concernant
+    la délivrance des certificats d'importation de produits du secteur de la viande
+    bovine originaires du Botswana, du Kenya, de Madagascar et du Swaziland pendant
+    la période d'application de mesures de sauvegarde
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1681/75 der Kommission vom 27. Juni 1975 über die
+    Ausstellung von Einfuhrlizenzen für Erzeugnisse des Rindfleischsektors mit Ursprung
+    in Botswana, Kenia, Madagaskar und Swaziland während des Anwendungszeitraums
+    von Schutzmaßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1681/75 af 27. juni 1975 om udstedelse
+    af importlicenser for produkter inden for oksekødsektoren med oprindelse i Botswana,
+    Kenya, Madagascar og Swaziland i den periode, hvor der anvendes beskyttelsesforanstaltninger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1681/75 della Commissione, del 27 giugno 1975, relativo
+    al rilascio di titoli per l'importazione di prodotti nel settore delle carni bovine
+    originari del Botswana, del Kenya, del Madagascar e dello Swaziland durante il
+    periodo d'applicazione di misure di salvaguardia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1681/75 van de Commissie van 27 juni 1975 betreffende
+    de afgifte van invoercertificaten voor rundvleesprodukten van oorsprong uit Botswana,
+    Kenia, Madagaskar en Swaziland gedurende de periode waarin vrijwaringsmaatregelen
+    van toepassing zijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1681
+docidentifier:
+- content: EU Regulation 1681/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1681
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1681/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-06-27'
+- type: implemented
+  at: '1975-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0780
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

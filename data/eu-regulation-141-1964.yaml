@@ -1,0 +1,76 @@
+---
+id: EURegulation1411964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 141/64/CEE du Conseil, du 21 octobre 1964, relatif au régime
+    des produits transformés à base de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 141/64/EWG des Rates vom 21. Oktober 1964 über die Regelung
+    für Getreide- und Reisverarbeitungserzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 141/64/CEE del Consiglio, del 21 ottobre 1964, relativo
+    al regime dei prodotti trasformati a base di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 141/64/EEG van de Raad van 21 oktober 1964 betreffende
+    de regeling voor de op basis van granen en rijst verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0141
+docidentifier:
+- content: EU Regulation 141/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0141
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/141/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-21'
+- type: implemented
+  at: '1964-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0055
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

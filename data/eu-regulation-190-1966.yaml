@@ -1,0 +1,81 @@
+---
+id: EURegulation1901966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 190/66/CEE du Conseil, du 24 novembre 1966, portant modification
+    du règlement n° 113/64/CEE du Conseil en ce qui concerne le contrôle des échanges
+    intracommunautaires de lait en poudre destiné à l'alimentation du bétail
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 190/66/EWG des Rates vom 24. November 1966 zur Änderung
+    der Verordnung Nr. 113/64/EWG des Rates hinsichtlich der Kontrolle des innergemeinschaftlichen
+    Handels mit Milchpulver für Futterzwecke
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 190/66/CEE del Consiglio, del 24 novembre 1966, recante
+    modifica al regolamento n. 113/64/CEE del Consiglio per quanto concerne il controllo
+    degli scambi intracomunitari di latte in polvere destinato all'alimentazione del
+    bestiame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 190/66/EEG van de Raad van 24 november 1966 houdende wijziging
+    van Verordening Nr. 113/64/EEG van de Raad voor wat betreft de controle op het
+    intracommunautaire handelsverkeer in melkpoeder voor voederdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0190
+docidentifier:
+- content: EU Regulation 190/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0190
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/190/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-24'
+- type: implemented
+  at: '1966-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0113
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

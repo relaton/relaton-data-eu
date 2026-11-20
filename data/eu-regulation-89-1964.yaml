@@ -1,0 +1,70 @@
+---
+id: EURegulation891964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 89/64/CEE du Conseil, du 16 juillet 1964, portant modification
+    de la quantité de céréales fourragères fixée pour la production d'un kilogramme
+    de canard abattu et modification du prix d'écluse pour les canards abattus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 89/64/EWG des Rates vom 16. Juli 1964 zur Änderung der
+    für die Erzeugung von einem Kilogramm geschlachteter Enten festgesetzten Futtergetreidemenge
+    sowie zur Änderung des Einschleusungspreises für geschlachtete Enten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 89/64/CEE del Consiglio, del 16 luglio 1964, relativo ad
+    una modificazione del quantitativo di cereali da foraggio fissato per la produzione
+    di un chilogrammo di anitra macellata, nonché ad una modificazione del prezzo
+    limite applicabile alle anitre macellate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 89/64/EEG van de Raad van 16 juli 1964 houdende wijziging
+    van de voor de produktie van een kilogram geslachte eenden vastgestelde hoeveelheid
+    voedergranen alsmede van de sluisprijs voor geslachte eenden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0089
+docidentifier:
+- content: EU Regulation 89/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0089
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/89/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

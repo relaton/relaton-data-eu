@@ -1,0 +1,74 @@
+---
+id: EURegulation541967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 54/67/CEE du Conseil, du 21 mars 1967, modifiant le règlement
+    n° 14/64/CEE en ce qui concerne l'aide accordée par le Grand-Duché de Luxembourg
+    dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 54/67/EWG des Rates vom 21. März 1967 zur Änderung der
+    Verordnung Nr. 14/64/EWG in bezug auf die vom Großherzogtum Luxemburg gewährte
+    Beihilfe auf dem Rindfleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 54/67/CEE del Consiglio, del 21 marzo 1967, che modifica
+    il regolamento n. 14/64/CEE per quanto riguarda l'aiuto concesso dal Granducato
+    del Lussemburgo nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 54/67/EEG van de Raad van 21 maart 1967 houdende wijziging
+    van Verordening Nr. 14/64/EEG voor wat betreft de steun die door het Groothertogdom
+    Luxemburg in de sector rundvlees wordt toegekend
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0054
+docidentifier:
+- content: EU Regulation 54/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0054
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/54/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-21'
+- type: implemented
+  at: '1967-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

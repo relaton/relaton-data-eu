@@ -1,0 +1,72 @@
+---
+id: EURegulation401967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 40/67/CEE de la Commission, du 28 février 1967, modifiant
+    le règlement n 207/66/CEE prévoyant de nouvelles dispositions en vue d'éviter
+    les détournements de trafic dans les échanges intracommunautaires de viande
+    bovine congelée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 40/67/EWG der Kommission vom 28. Februar 1967 zur Änderung
+    der Verordnung Nr. 207/66/EWG über neue Bestimmungen zur Vermeidung von Verkehrsverlagerungen
+    im innergemeinschaftlichen Handel mit gefrorenem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 40/67/CEE della Commissione, del 28 febbraio 1967, relativo
+    alla modifica del regolamento n. 207/66/CEE che prevede nuove disposizioni per
+    evitare le deviazioni di traffico negli scambi intracomunitari di carni bovine
+    congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 40/67/EEG van de Commissie van. 28 februari 1967 houdende
+    wijziging van Verordening no. 207/66/EEG waarin nieuwe bepalingen zijn vervat
+    ter vermijding van een verlegging van het intracommunautaire verkeer in bevroren
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0040
+docidentifier:
+- content: EU Regulation 40/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0040
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/40/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

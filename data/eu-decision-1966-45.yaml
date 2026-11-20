@@ -1,0 +1,70 @@
+---
+id: EUDecision196645
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/45/CEE du Conseil du 4 janvier 1966, visant à introduire
+    certaines modifications au Tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: '66/45/EWG: Entscheidung des Rates vom 4. Januar 1966 über bestimmte Änderungen
+    des Gemeinsamen Zolltarifs'
+  type: main
+- language: it
+  script: Latn
+  content: '66/45/CEE: Decisione del Consiglio, del 4 gennaio 1966, relativa all''introduzione
+    di alcune modifiche nella tariffa doganale comune'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/45/EEG: Beschikking van de Raad van 4 januari 1966 met betrekking tot
+    het aanbrengen van bepaalde wijzigingen in het gemeenschappelijk douanetarief'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0045
+docidentifier:
+- content: EU Decision 1966/45
+  type: EU
+  primary: true
+- content: CELEX 31966D0045
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/45/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-01-04'
+- type: implemented
+  at: '1966-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

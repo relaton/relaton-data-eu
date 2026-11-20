@@ -1,0 +1,81 @@
+---
+id: EURegulation5421969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 542/69 of the Council of 18 March 1969 on Community
+    transit
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 542/69 du Conseil, du 18 mars 1969, relatif au transit
+    communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 542/69 des Rates vom 18. März 1969 über das gemeinschaftliche
+    Versandverfahren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 542/69 af 18. marts 1969 om ordning for fællesskabsforsendelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 542/69 del Consiglio, del 18 marzo 1969, relativo
+    al transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 542/69 van de Raad van 18 maart 1969 betreffende
+    communautair douanevervoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0542
+docidentifier:
+- content: EU Regulation 542/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0542
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/542/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-18'
+- type: implemented
+  at: '1969-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

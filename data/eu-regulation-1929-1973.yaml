@@ -1,0 +1,94 @@
+---
+id: EURegulation19291973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1929/73 of the Council of 16 July 1973 making a third
+    amendment to Regulation (EEC) No 1093/70 concerning the addition of alcohol to
+    products originating in the Community in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1929/73 du Conseil, du 16 juillet 1973, portant troisième
+    modification du règlement (CEE) n° 1093/70 concernant l' adjonction d' alcool
+    aux produits relevant du secteur viti-vinicole et originaires de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1929/73 des Rates vom 16. Juli 1973 zur dritten Änderung
+    der Verordnung (EWG) Nr. 1093/70 über den Zusatz von Alkohol zu den Erzeugnissen
+    des Weinsektors mit Ursprung in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1929/73 af 16. juli 1973 om en tredje ændring
+    af forordning EØF nr. 1093/70 om tilsætning af alkohol til vinsektorens produkter
+    med oprindelse inden for Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1929/73 del Consiglio, del 16 luglio 1973, recante
+    terza modifica del regolamento (CEE) n. 1093/70 relativo all' aggiunta di alcole
+    ai prodotti del settore vitivinicolo e originari della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1929/73 van de Raad van 16 juli 1973 houdende derde
+    wijziging van Verordening (EEG) nr. 1093/70 betreffende de toevoeging van alcohol
+    aan tot de wijnsector behorende produkten van oorsprong uit de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1929
+docidentifier:
+- content: EU Regulation 1929/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1929
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1929/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-07-16'
+- type: implemented
+  at: '1973-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1093
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

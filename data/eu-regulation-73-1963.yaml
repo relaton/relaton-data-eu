@@ -1,0 +1,87 @@
+---
+id: EURegulation731963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 73/63/CEE du Conseil, du 11 juillet 1963, modifiant et complétant
+    certaines dispositions des règlements n° 3 et 4 (travailleurs saisonniers et
+    autres travailleurs qui ne résident pas dans le pays à la législation duquel
+    ils sont soumis)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 73/63/EWG des Rats vom 11. Juli 1963 zur Änderung und Ergänzung
+    verschiedener Bestimmungen der Verordnungen Nr. 3 und Nr. 4 (Saisonarbeiter und
+    sonstige Arbeitnehmer, die nicht in dem Land wohnen, dessen Rechtsvorschriften
+    für sie gelten)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 73/63/CEE del Consiglio, dell'11 luglio 1963, che modifica
+    e integra alcune disposizioni dei regolamenti n. 3 e 4 (lavoratori stagionali
+    e altri lavoratori che non risiedono nel paese nella cui legislazione sono sottoposti)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 73/63/EEG van de Raad van 11 juli 1963 tot wijziging en
+    aanvulling van sommige bepalingen van de Verordeningen Nr. 3 en 4 (seizoenarbeiders
+    en andere werknemers die niet wonen in het land aan welks wetgeving zij zijn onderworpen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0073
+docidentifier:
+- content: EU Regulation 73/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0073
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/73/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-11'
+- type: implemented
+  at: '1964-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

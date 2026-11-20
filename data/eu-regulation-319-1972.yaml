@@ -1,0 +1,95 @@
+---
+id: EURegulation3191972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 319/72 of the Commission of 11 February 1972 amending
+    for the fourth time Regulation (EEC) No 1013/71 as regards compensatory amounts
+    applicable to imports of certain frozen beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 319/72 de la Commission, du 11 février 1972, portant
+    quatrième modification du règlement (CEE) n° 1013/71 en ce qui concerne les
+    montants compensatoires applicables à l'importation de certaines viandes bovines
+    congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 319/72 der Kommission vom 11. Februar 1972 zur vierten
+    Änderung der Verordnung (EWG) Nr. 1013/71 hinsichtlich der auf die Einfuhr von
+    gewissem gefrorenem Rindfleisch anzuwendenden Ausgleichsbeträge
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 319/72 af 11. februar 1972 om fjerde
+    ændring af forordning (EØF) nr. 1013/71 med hensyn til de udligningsbeløb,
+    der opkræves ved indførsel af visse former for frosset oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 319/72 della Commissione, dell'11 febbraio 1972, recante
+    quarta modifica del regolamento (CEE) n. 1013/71 per quanto concerne gli importi
+    di compensazione applicabili all'importazione di talune carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 319/72 van de Commissie van 11 februari 1972 houdende
+    vierde wijziging van Verordening (EEG) nr. 1013/71 met betrekking tot de compenserende
+    bedragen die van toepassing zijn op bepaalde soorten bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0319
+docidentifier:
+- content: EU Regulation 319/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0319
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/319/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-02-11'
+- type: implemented
+  at: '1972-02-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1013
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

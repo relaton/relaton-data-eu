@@ -1,0 +1,93 @@
+---
+id: EURegulation27651976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2765/76 of 15 November 1976 on the sale
+    at prices fixed in advance of certain boned beef held by the intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2765/76 de la Commission, du 15 novembre 1976, relatif
+    à la vente à prix fixé forfaitairement à l' avance de certaines viandes bovines
+    désossées détenues par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2765/76 der Kommission vom 15. November 1976 über
+    den Verkauf von entbeintem Rindfleisch aus Beständen der Interventionsstellen
+    zu pauschal im voraus festgesetzten Preisen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2765/76 af 15. november 1976 om salg
+    til forud fastsatte fikserede priser af visse former for udbenet oksekød, som
+    interventionsorganerne ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2765/76 della Commissione, del 15 novembre 1976, relativo
+    alla vendita a prezzi fissati forfettariamente in anticipo di talune carni bovine
+    disossate detenute dagli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2765/76 van de Commissie van 15 november 1976 betreffende
+    de verkoop tegen vooraf forfaitair vastgestelde prijzen van bepaalde soorten rundvlees
+    zonder been die door de interventiebureaus zijn opgeslagen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2765
+docidentifier:
+- content: EU Regulation 2765/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2765
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2765/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-15'
+- type: implemented
+  at: '1976-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1897
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

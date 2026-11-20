@@ -1,0 +1,94 @@
+---
+id: EURegulation25201974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2520/74 of the Commission of 4 October 1974 repealing
+    Regulation (EEC) No 270/73 on the exchange rate to be applied in agriculture for
+    the currencies of the new Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2520/74 de la Commission, du 4 octobre 1974, abrogeant
+    le règlement (CEE) n° 270/73 relatif aux taux de conversion à utiliser dans
+    le secteur agricole pour les monnaies des nouveaux États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2520/74 der Kommission vom 4. Oktober 1974 zur Aufhebung
+    der Verordnung (EWG) Nr. 270/73 über die Umrechnungskurse, die im Agrarsektor
+    für die Währungen der neuen Mitgliedstaaten zu verwenden sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2520/74 af 4. oktober 1974 om ophævelse
+    af forordning (EØF) nr. 270/73 om de omregningskurser, der for valutaerne i de
+    nye medlemsstater skal anvendes inden for landbrugssektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2520/74 della Commissione, del 4 ottobre 1974, che
+    abroga il regolamento (CEE) n. 270/73 relativo ai tassi di conversione da utilizzare
+    nel settore agricolo per le monete dei nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2520/74 van de Commissie van 4 oktober 1974 tot intrekking
+    van Verordening (EEG) nr. 270/73 betreffende de omrekeningskoersen die in de landbouwsector
+    moeten worden aangehouden voor de munteenheden van de nieuwe Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2520
+docidentifier:
+- content: EU Regulation 2520/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2520
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2520/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-04'
+- type: implemented
+  at: '1974-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0270
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

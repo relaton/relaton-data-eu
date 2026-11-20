@@ -1,0 +1,70 @@
+---
+id: EURegulation23901971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2390/71 du Conseil, du 8 novembre 1971, fixant le
+    prix de base et le prix d'achat des oranges douces
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2390/71 des Rates vom 8. November 1971 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Süßorangen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2390/71 del Consiglio, dell'8 novembre 1971, che fissa
+    il prezzo di base e il prezzo d'acquisto per le arance dolci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2390/71 van de Raad van 8 november 1971 tot vaststelling
+    van de basisprijs en de aankoopprijs voor zoete sinaasappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2390
+docidentifier:
+- content: EU Regulation 2390/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2390
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2390/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-08'
+- type: implemented
+  at: '1971-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

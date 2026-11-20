@@ -1,0 +1,69 @@
+---
+id: EURegulation861966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 86/66/CEE de la Commission, du 29 juin 1966, portant modification
+    de la nomenclature de certains produits à base de viande de porc, figurant à
+    l'annexe II du règlement n 96/63/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 86/66/EWG der Kommission vom 29. Juni 1966 zur Änderung
+    der Nomenklatur einiger im Anhang II der Verordnung Nr. 96/63/EWG aufgeführten
+    Schweinefleischerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 86/66/CEE della Commissione, del 29 giugno 1966, che modifica
+    la nomenclatura di taluni prodotti a base di carni suine, considerati nell'allegato
+    II del regolamento n. 96/63/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 86/66/EEG van de Commissie van 29 juni 1966 houdende wijziging
+    van de nomenclatuur van bepaalde produkten op basis van varkensvlees, genoemd
+    in bijlage II van Verordening no. 96/63/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0086
+docidentifier:
+- content: EU Regulation 86/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0086
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/86/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

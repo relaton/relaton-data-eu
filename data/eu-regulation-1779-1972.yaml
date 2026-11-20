@@ -1,0 +1,74 @@
+---
+id: EURegulation17791972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1779/72 de la Commission, du 16 août 1972, concernant
+    une adjudication pour la fourniture de produits d'oeuf destinés à certains pays
+    tiers à titre d'aide au programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1779/72 der Kommission vom 16. August 1972 über eine
+    Ausschreibung zur Lieferung von Eiprodukten nach bestimmten Drittländern zugunsten
+    des Welternährungsprogramms
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1779/72 della Commissione, del 16 agosto 1972, relativo
+    a una gara per la fornitura al PAM di prodotti d'uovo destinati a taluni paesi
+    terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1779/72 van de Commissie van 16 augustus 1972 betreffende
+    een inschrijving voor de levering van eiprodukten aan bepaalde derde landen ten
+    gunste van het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1779
+docidentifier:
+- content: EU Regulation 1779/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1779
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1779/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-08-16'
+- type: implemented
+  at: '1972-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,98 @@
+---
+id: EURegulation7571974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 757/74 of the Commission of 1 April 1974 amending Regulation
+    (EEC) No 2588/69 establishing the list of airline companies to which the Community
+    transit guarantee waiver applies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 757/74 de la Commission, du 1er avril 1974, modifiant
+    le règlement (CEE) n° 2588/69 portant établissement de la liste des compagnies
+    aériennes auxquelles s'applique la dispense de la garantie dans le cadre du régime
+    du transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 757/74 der Kommission vom 1. April 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2588/69 über die Aufstellung der Liste der Luftfahrtgesellschaften,
+    die im Rahmen des gemeinschaftlichen Versandverfahrens von der Sicherheitsleistung
+    befreit sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 757/74 af 1. april 1974 om ændring
+    af forordning (EØF) nr. 2588/69 om opstilling af listen over luftfartsselskaber,
+    der er fritaget for at stille sikkerhed i forbindelse med ordningen for fællesskabsforsendelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 757/74 della Commissione, del 1 aprile 1974, che modifica
+    il regolamento (CEE) n. 2588/69 che stabilisce l'elenco delle compagnie aeree
+    alle quali si applica l'esonero dalla garanzia nel quadro del regime del transito
+    comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 757/74 van de Commissie van 1 april 1974 houdende
+    wijziging van Verordening (EEG) nr. 2588/69 waarbij de lijst wordt opgesteld van
+    de luchtvaartmaatschappijen waarop de vrijstelling van zekerkeid in het kader
+    van de regeling voor communautair douanevervoer van toepassing is
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0757
+docidentifier:
+- content: EU Regulation 757/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0757
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/757/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-01'
+- type: implemented
+  at: '1974-04-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2588
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,77 @@
+---
+id: EURegulation2451975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 245/75 of the Commission of 31 January 1975 fixing
+    the export levies on starch products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 245/75 de la Commission, du 31 janvier 1975, fixant
+    les prélèvements à l'exportation pour les produits amylacés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 245/75 der Kommission vom 31. Januar 1975 zur Festsetzung
+    der Abschöpfungen bei der Ausfuhr von stärkehaltigen Erzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 245/75 af 31. januar 1975 om fastsættelse
+    af eksportafgifter ved udførsel af stivelsesholdige varer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 245/75 della Commissione, del 31 gennaio 1975, che
+    fissa i prelievi all'esportazione per i prodotti amidacei
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 245/75 van de Commissie van 31 januari 1975 houdende
+    vaststelling van de heffingen bij uitvoer voor zetmeelhoudende produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0245
+docidentifier:
+- content: EU Regulation 245/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0245
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/245/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

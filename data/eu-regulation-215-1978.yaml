@@ -1,0 +1,94 @@
+---
+id: EURegulation2151978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 215/78 of 1 February 1978 amending Regulation
+    (EEC) No 937/77 following the fixing of a new exchange rate to be applied in the
+    United Kingdom in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 215/78 de la Commission, du 1er février 1978, modifiant
+    le règlement (CEE) n° 937/77 suite à la fixation d' un nouveau taux de change
+    à appliquer pour le Royaume-Uni dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 215/78 der Kommission vom 1. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 937/77 im Anschluß an die Festsetzung eines neuen Umrechnungskurses
+    für die Landwirtschaft im Vereinigten Königreich
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 215/78 af 1. februar 1978 om ændring
+    af forordning (EØF) nr. 937/77 som følge af fastsættelse af en ny vekselkurs,
+    der skal anvendes inden for landbrugssektoren i Det forenede Kongerige
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 215/78 della Commissione, del 1° febbraio 1978, che
+    modifica il regolamento (CEE) n. 937/77 in seguito alla fissazione di un nuovo
+    tasso di cambio da applicare nel settore agricolo per il Regno Unito
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 215/78 van de Commissie van 1 februari 1978 tot wijziging
+    van Verordening (EEG) nr. 937/77 naar aanleiding van de vaststelling van een nieuwe
+    voor het Verenigd Koninkrijk in de landbouwsector toe te passen wisselkoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0215
+docidentifier:
+- content: EU Regulation 215/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0215
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/215/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-01'
+- type: implemented
+  at: '1978-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0937
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,84 @@
+---
+id: EUDecision1963580
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: '63/580/CEE: Décision de la Commission, du 15 octobre 1963, prorogeant
+    la validité de la décision de la Commission du 11 septembre 1963 autorisant
+    la République française à diminuer les prélèvements pour les oeufs en coquille
+    destinés à la consommation'
+  type: main
+- language: de
+  script: Latn
+  content: '63/580/ÅWG: Entscheidung der Kommission vom 15. Oktober 1963 zur Verlängerung
+    der Geltungsdauer der Entscheidung der Kommission vom 11. September 1963, durch
+    die die Republik ermächtigt wird, die Abschöpfungsbeträge für Eier in der
+    Schale, die zum Verbrauch bestimmt sind, zu verringern'
+  type: main
+- language: it
+  script: Latn
+  content: '63/580/CEE: Decisione della Commissione del 15 ottobre 1963 relativa alla
+    proroga della validità della decisione della Commissione dell''11 settembre 1963
+    che autorizza la Repubblica francese a ridurre i prelievi per le uova in guscio
+    destinate al consumo'
+  type: main
+- language: nl
+  script: Latn
+  content: '63/580/EEG: Beschikking van de Commissie van 15 oktober 1963 tot verlenging
+    van de geldigheidsduur van de beschikking van de Commissie van 11 september 1963,
+    waarbij de Franse Republiek wordt gemachtigd het bedrag van de heffingen voor
+    eieren in de schaal die voor consumptie bestemd zijn te verlagen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963D0580
+docidentifier:
+- content: EU Decision 1963/580
+  type: EU
+  primary: true
+- content: CELEX 31963D0580
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1963/580/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-10-15'
+- type: implemented
+  at: '1963-10-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963D0529
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

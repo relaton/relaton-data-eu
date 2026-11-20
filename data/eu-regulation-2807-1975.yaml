@@ -1,0 +1,88 @@
+---
+id: EURegulation28071975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2807/75 of the Council of 29 October 1975 amending
+    Regulation (EEC) No 3209/73 on the subsidy for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2807/75 du Conseil, du 29 octobre 1975, modifiant
+    le règlement (CEE) n° 3209/73 relatif à l'aide pour l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2807/75 des Rates vom 29. Oktober 1975 zur Änderung
+    der Verordnung (EWG) Nr. 3209/73 über die Beihilfe für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2807/75 af 29. oktober 1975 om ændring af
+    forordning (EØF) nr. 3209/73 om støtte til olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2807/75 del Consiglio, del 29 ottobre 1975, che modifica
+    il regolamento (CEE) n. 3209/73 relativo all'integrazione per l'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2807/75 van de Raad van 29 oktober 1975 tot wijziging
+    van Verordening (EEG) nr. 3209/73 betreffende de steun voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2807
+docidentifier:
+- content: EU Regulation 2807/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2807
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2807/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3209
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,97 @@
+---
+id: EURegulation4021974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 402/74 of the Commission of 15 February 1974 amending
+    Regulation (EEC) No 1009/73 adopting in respect of Denmark special measures for
+    maize groats and meal used in the manufacture of glucose
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 402/74 de la Commission, du 15 février 1974, modifiant
+    le règlement (CEE) n° 1009/73 arrêtant, pour le Danemark des mesures spéciales
+    en ce qui concerne les gruaux et semoules de maïs utilisés dans la glucoserie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 402/74 der Kommission vom 15. Februar 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1009/73 zum Erlaß besonderer Maßnahmen für Grob- und
+    Feingrieß von Mais, der in Dänemark in der Glukoseindustrie verwendet wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 402/74 af 15. februar 1974 om ændring
+    af forordning (EØF) nr. 1009/73 om fastsættelse for så vidt angår Danmark
+    af særlige foranstaltninger vedrørende grove og fine gryn af majs til anvendelse
+    i glukoseindustrien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 402/74 della Commissione, del 15 febbraio 1974, recante
+    modifica del regolamento (CEE) n. 1009/73 che adotta, per la Danimarca, provvedimenti
+    speciali per quanto riguarda le semole e i semolini di granturco utilizzati nella
+    fabbricazione del glucosio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 402/74 van de Commissie van 15 februari 1974 tot
+    wijziging van Verordening (EEG) nr. 1009/73 houdende bijzondere maatregelen voor
+    Denemarken voor wat betreft gries en griesmeel van maïs die in de glucoseindustrie
+    worden gebruikt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0402
+docidentifier:
+- content: EU Regulation 402/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0402
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/402/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-02-15'
+- type: implemented
+  at: '1974-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1009
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

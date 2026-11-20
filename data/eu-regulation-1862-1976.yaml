@@ -1,0 +1,92 @@
+---
+id: EURegulation18621976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1862/76 of 27 July 1976 amending Regulation
+    (EEC) No 2742/75 on production refunds in the cereals and rice sectors
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1862/76 du Conseil, du 27 juillet 1976, modifiant
+    le règlement (CEE) n° 2742/75 relatif aux restitutions à la production dans
+    le secteur des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1862/76 des Rates vom 27. Juli 1976 zur Änderung
+    der Verordnung (EWG) Nr. 2742/75 über die Erstattungen bei der Erzeugung für
+    Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1862/76 af 27. juli 1976 om ændring af forordning
+    (EØF) nr. 2742/75 om produktionsrestitutioner i korn- og rissektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1862/76 del Consiglio, del 27 luglio 1976, che modifica
+    il regolamento (CEE) n. 2742/75 relativo alle restituzioni alla produzione nei
+    settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1862/76 van de Raad van 27 juli 1976 tot wijziging
+    van Verordening (EEG) nr. 2742/75 inzake de restitutie bij de produktie in de
+    sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1862
+docidentifier:
+- content: EU Regulation 1862/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1862
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1862/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-27'
+- type: implemented
+  at: '1976-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2742
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

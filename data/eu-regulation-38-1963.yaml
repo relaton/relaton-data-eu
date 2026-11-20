@@ -1,0 +1,65 @@
+---
+id: EURegulation381963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 38/63/CEE de la Commission du 24 avril 1963 portant fixation
+    des prix de référence pour les pêches
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 38/63/EWG der Kommission vom 24. April 1963 zur Festsetzung
+    von Referenzpreisen für Pfirsiche
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 38/63/CEE della Commissione del 24 aprile 1963 relativo
+    alla determinazione dei prezzi di riferimento per le pesche
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 38/63/EEG van de Commissie van 24 april 1963 tot vaststelling
+    van de referentieprijzen voor perziken
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0038
+docidentifier:
+- content: EU Regulation 38/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0038
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/38/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

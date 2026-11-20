@@ -1,0 +1,86 @@
+---
+id: EURegulation1691967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 169/67/CEE du Conseil, du 27 juin 1967, établissant un
+    régime de restitution à la production pour les huiles d'olive utilisées pour
+    la fabrication de conserves de poissons et de légumes et modifiant le règlement
+    n° 217/66/CEE relatif au régime de suspension du prélèvement pour ces huiles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 169/67/EWG des Rates vom 27. Juni 1967 über die Einführung
+    von Erstattungen bei der Erzeugung für Olivenöl zur Herstellung von Fisch- und
+    Gemüsekonserven und zur Änderung der Verordnung Nr. 217/66/EWG über die Aussetzung
+    der Abschöpfung für dieses Öl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 169/67/CEE del Consiglio, del 27 giugno 1967, che istituisce
+    un regime di restituzione alla produzione per gli oli d'oliva impiegati nella
+    fabbricazione di conserve di pesci, di legumi e di ortaggi, e che modifica il
+    regolamento n. 217/66/CEE, relativo al regime di sospensione del prelievo all'importazione
+    di tali oli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 169/67/EEG van de Raad van 27 juni 1967 tot instelling
+    van een regeling inzake restituties bij de produktie voor olijfolie die voor de
+    vervaardiging van vis- en groenteconserven wordt gebruikt, en tot wijziging van
+    Verordening Nr. 217/66/EEG betreffende de regeling inzake schorsing van de heffing
+    voor deze olie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0169
+docidentifier:
+- content: EU Regulation 169/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0169
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/169/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0217
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

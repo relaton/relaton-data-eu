@@ -1,0 +1,74 @@
+---
+id: EURegulation8251968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 825/68 du Conseil, du 28 juin 1968, fixant les aides
+    accordées pour le lait écrémé et le lait écrémé en poudre destinés à
+    l'alimentation des animaux, valables pour la campagne laitière 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 825/68 des Rates vom 28. Juni 1968 zur Festsetzung
+    der im Milchwirtschaftsjahr 1968/1969 gültigen Beihilfen für Magermilch und
+    Magermilchpulver, die für Futterzwecke verwendet werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 825/68 del Consiglio, del 28 giugno 1968, che fissa
+    per la campagna lattiera 1968/1969 gli aiuti concessi per il latte scremato e
+    il latte scremato in polvere utilizzati nell'alimentazione degli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 825/68 van de Raad van 28 juni 1968 houdende vaststelling,
+    voor het melkprijsjaar 1968/1969, van de steun voor ondermelk en mager melkpoeder,
+    die bestemd zijn voor voederdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0825
+docidentifier:
+- content: EU Regulation 825/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0825
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/825/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-28'
+- type: implemented
+  at: '1968-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

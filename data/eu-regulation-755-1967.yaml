@@ -1,0 +1,74 @@
+---
+id: EURegulation7551967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 755/67/CEE du Conseil, du 26 octobre 1967, portant dérogation,
+    pour certaines marchandises relevant de la position 18.06 B du tarif douanier
+    commun, à l'article 16 du règlement n° 160/66/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 755/67/EWG des Rates vom 26. Oktober 1967 über die Abweichung
+    von Artikel 16 der Verordnung Nr. 160/66/EWG in bezug auf bestimmte Waren der
+    Tarifnummer 18.06 B des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 755/67/CEE del Consiglio, del 26 ottobre 1967, recante deroga
+    alle disposizioni dell'articolo 16 del regolamento n. 160/66/CEE per talune merci
+    di cui alla voce 18.06 B della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 755/67/EEG van de Raad van 26 oktober 1967 houdende afwijking
+    van artikel 16 van Verordening Nr. 160/66/EEG voor sommige goederen van post 18.06
+    B van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0755
+docidentifier:
+- content: EU Regulation 755/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0755
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/755/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-26'
+- type: implemented
+  at: '1967-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

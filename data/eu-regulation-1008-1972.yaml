@@ -1,0 +1,84 @@
+---
+id: EURegulation10081972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1008/72 de la Commission, du 16 mai 1972, portant
+    modification des restitutions à l'exportation fixées à l'avance et concernant
+    la date d'application des montants compensatoires prévus par le règlement (CEE)
+    n° 979/72 dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1008/72 der Kommission vom 16. Mai 1972 über die
+    Änderung der im voraus festgesetzten Ausfuhrerstattungen und die Festsetzung
+    des Datums für die Anwendung der in der Verordnung (EWG) Nr. 979/72 vorgesehenen
+    Ausgleichsbeträge für Zucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1008/72 della Commissione, del 16 maggio 1972, recante
+    modifica delle restituzioni all'esportazione fissate in anticipo e relative alla
+    data di applicazione degli importi di compensazione previsti dal regolamento (CEE)
+    n. 979/72 nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1008/72 van de Commissie van 16 mei 1972 houdende
+    wijziging van de van te voren vastgestelde restituties bij uitvoer en betreffende
+    de datum van toepassing van de compenserende bedragen voorzien bij Verordening
+    (EEG) nr. 979/72 in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1008
+docidentifier:
+- content: EU Regulation 1008/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1008
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1008/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-05-16'
+- type: implemented
+  at: '1972-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0979
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

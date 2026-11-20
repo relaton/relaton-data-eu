@@ -1,0 +1,127 @@
+---
+id: EURegulation12431986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1243/86 of 28 April 1986 amending Regulations
+    (EEC) No 288/82, (EEC) No 1765/82 and (EEC) No 1766/82 on common rules for imports
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1243/86 du Conseil du 28 avril 1986 modifiant les
+    règlements (CEE) n° 288/82, (CEE) n° 1765/82 et (CEE) n° 1766/82 relatifs
+    aux régimes communs applicables aux importations
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1243/86 des Rates vom 28. April 1986 zur Änderung
+    der Verordnungen (EWG) Nr. 288/82, (EWG) Nr. 1765/82 und (EWG) Nr. 1766/82 über
+    die gemeinsamen Einfuhrregelungen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1243/86 af 28. april 1986 om ændring af
+    forordning (EØF) nr. 288/82, (EØF) nr. 1765/82 og (EØF) nr. 1766/82 om de fælles
+    importordninger
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1243/86 του Συμβουλίου
+    της 28ης Απριλίου 1986 για την τροποποίηση των
+    κανονισμών (ΕΟΚ) αριθ. 288/82, (ΕΟΚ) αριθ. 1765/82 και
+    (ΕΟΚ) αριθ. 1766/82 σχετικά με τα κοινά καθεστώτα
+    εισαγωγών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1243/86 del Consiglio del 28 aprile 1986 che modifica
+    i regolamenti (CEE) n. 288/82, (CEE) n. 1765/82 e (CEE) n. 1766/82 relativi ai
+    regimi comuni applicabili alle importazioni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1243/86 van de Raad van 28 april 1986 tot wijziging
+    van de Verordeningen (EEG) nr. 288/82, (EEG) nr. 1765/82 en (EEG) nr. 1766/82
+    inzake de gemeenschappelijke regelingen voor de invoer
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1243/86 do Conselho de 28 de Abril de 1986 que altera
+    os Regulamentos (CEE) n.° 288/82, n.° 1765/82 e n.° 1766/82 relativos aos regimes
+    comuns aplicáveis às importações
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1243/86 del Consejo de 28 de abril de 1986 por el
+    que se modifican los Reglamentos (CEE) n° 288/82, n° 1765/82 y n° 1766/82 relativos
+    a los regímenes comunes aplicables a las importaciones
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R1243
+docidentifier:
+- content: EU Regulation 1243/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R1243
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/1243/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-04-28'
+- type: implemented
+  at: '1986-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R0288
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R1765
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R1766
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,93 @@
+---
+id: EURegulation5821976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 582/76 of 15 March 1976 fixing the buying-in
+    prices for intervention on the market in beef applicable from 15 March 1976
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 582/76 de la Commission, du 15 mars 1976, fixant les
+    prix d'achat à l'intervention dans le secteur de la viande bovine valables à
+    partir du 15 mars 1976
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 582/76 der Kommission vom 15. März 1976 zur Festsetzung
+    der Ankaufspreise für Interventionen auf dem Rindfleischsektor, gültig ab 15.
+    März 1976
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 582/76 af 15. marts 1976 om fastsættelse
+    af opkøbspriserne ved intervention inden for oksekødsektoren gældende fra den
+    15. marts 1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 582/76 della Commissione, del 15 marzo 1976, che fissa
+    i prezzi d'acquisto applicabili all'intervento nel settore delle carni bovine
+    a decorrere dal 15 marzo 1976
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 582/76 van de Commissie van 15 maart 1976 tot vaststelling
+    van de bij interventie in de sector rundvlees met ingang van 15 maart 1976 geldende
+    aankoopprijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0582
+docidentifier:
+- content: EU Regulation 582/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0582
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/582/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-15'
+- type: implemented
+  at: '1976-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0536
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

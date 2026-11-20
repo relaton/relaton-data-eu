@@ -1,0 +1,94 @@
+---
+id: EURegulation27531973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2753/73 of the Commission of 10 October 1973 amending
+    Regulation (EEC) No 2810/71 on special import terms for certain frozen beef and
+    veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2753/73 de la Commission, du 10 octobre 1973, modifiant
+    le règlement (CEE) n° 2810/71 relatif au régime spécial à appliquer à l'
+    importation de certaines viandes bovines congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2753/73 der Kommission vom 10. Oktober 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2810/71 über die Sonderregelung bei der Einfuhr bestimmter
+    Sorten von gefrorenem Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2753/73 af 10. oktober 1973 om ændring
+    af forordning (EØF) nr. 2810/71 om den særlige importordning for visse former
+    for frosset oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2753/73 della Commissione, del 10 ottobre 1973, che
+    modifica il regolamento (CEE) n. 2810/71 relativo al regime speciale da applicare
+    all' importazione di talune carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2753/73 van de Commissie van 10 oktober 1973 tot
+    wijziging van Verordening (EEG) nr. 2810/71 betreffende de bijzondere regeling
+    voor de invoer van bepaalde soorten bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2753
+docidentifier:
+- content: EU Regulation 2753/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2753
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2753/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-10'
+- type: implemented
+  at: '1973-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2810
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

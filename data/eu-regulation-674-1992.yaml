@@ -1,0 +1,135 @@
+---
+id: EURegulation6741992
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 674/92 of 18 March 1992 amending Annex B
+    to Council Regulation (EEC) No 2727/75 on the common organization of the market
+    in cereals and Annex B to Council Regulation (EEC) No 1418/76 on the common organization
+    of the market in rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 674/92 de la Commission du 18 mars 1992 modifiant
+    l'annexe B du règlement (CEE) n° 2727/75 du Conseil portant organisation commune
+    des marchés dans le secteur des céréales et l'annexe B du règlement (CEE)
+    n 1418/76 du Conseil portant organisation commune du marché du riz
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 674/92 DER KOMMISSION vom 18. März 1992 zur Änderung
+    von Anhang B zu den Verordnungen (EWG) Nr. 2727/75 und (EWG) Nr. 1418/76 des Rates
+    über die gemeinsamen Marktorganisationen für Getreide bzw. Reis #'
+  type: main
+- language: da
+  script: Latn
+  content: 'KOMMISSIONENS FORORDNING (EØF) Nr. 674/92 af 18. marts 1992 om ændring
+    af bilag B til Rådets forordning (EØF) nr. 2727/75 om den fælles markedsordning
+    for korn og bilag B til Rådets forordning (EØF) nr. 1418/76 om den fælles markedsordning
+    for ris #'
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 674/92 της Επιτροπής
+    της 18ης Μαρτίου 1992 για την τροποποίηση του
+    παραρτήματος Β του κανονισμού (ΕΟΚ) αριθ. 2727/75
+    του Συμβουλίου σχετικά με την κοινή οργάνωση
+    αγοράς στον τομέα των σιτηρών και του παραρτήματος
+    Β του κανονισμού (ΕΟΚ) αριθ. 1418/76 του Συμβουλίου
+    σχετικά με την κοινή οργάνωση αγοράς ρυζιού
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 674/92 DELLA COMMISSIONE del 18 marzo 1992 che modifica
+    l'' allegato B del regolamento (CEE) n. 2727/75 del Consiglio relativo all'' organizzazione
+    comune dei mercati nel settore dei cereali e l'' allegato B del regolamento (CEE)
+    n. 1418/76 del Consiglio relativo all'' organizzazione comune del mercato del
+    riso #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 674/92 VAN DE COMMISSIE van 18 maart 1992 tot wijziging
+    van bijlage B van Verordening (EEG) nr. 2727/75 van de Raad houdende een gemeenschappelijke
+    ordening der markten in de sector granen en bijlage B van Verordening (EEG) nr.
+    1418/76 van de Raad houdende een gemeenschappelijke ordening van de rijstmarkt
+    #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) No 674/92 DA COMISSÃO de 18 de Março de 1992 que altera
+    o anexo B do Regulamento (CEE) no 2727/75 do Conselho, que estabelece a organização
+    comum de mercado no sector dos cereais, e o anexo B do Regulamento (CEE) no 1418/76,
+    que estabelece a organização comum de mercado do arroz #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 674/92 DE LA COMISIÓN de 18 de marzo de 1992 que
+    modifica el Anexo B del Reglamento (CEE) no 2727/75 del Consejo por el que se
+    establece la organización común de mercados en el sector de los cereales y el
+    Anexo B del Reglamento (CEE) no 1418/76 del Consejo por el que se establece la
+    organización común de mercados del arroz #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992R0674
+docidentifier:
+- content: EU Regulation 674/1992
+  type: EU
+  primary: true
+- content: CELEX 31992R0674
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1992/674/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-03-18'
+- type: implemented
+  at: '1991-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2727
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1418
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

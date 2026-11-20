@@ -1,0 +1,82 @@
+---
+id: EURegulation5321969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 532/69 de la Commission, du 21 mars 1969, modifiant
+    le règlement (CEE) n° 198/69 de la Commission relatif à la mise à la disposition
+    de beurre à prix réduit à certaines entreprises de transformation dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 532/69 der Kommission vom 21. März 1969 zur Änderung
+    der Verordnung (EWG) Nr. 198/69 der Kommission über den Absatz von Butter zu
+    herabgesetzten Preisen an bestimmte Verarbeitungsbetriebe in der Gemeinschaft
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 532/69 della Commissione, del 21 marzo 1969, recante
+    modifica del regolamento (CEE) n. 198/69 della Commissione che prevede di mettere
+    a disposizione di alcune industrie di trasformazione della Comunità burro a prezzo
+    ridotto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 532/69 van de Commissie van 21 maart 1969 houdende
+    wijziging van Verordening (EEG) nr. 198/69 van de Commissie betreffende het ter
+    beschikking stellen van boter tegen verlaagde prijs aan bepaalde verwerkende industrieën
+    in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0532
+docidentifier:
+- content: EU Regulation 532/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0532
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/532/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-21'
+- type: implemented
+  at: '1969-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0198
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,75 @@
+---
+id: EURegulation26551971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2655/71 du Conseil, du 15 décembre 1971, fixant les
+    prix d'orientation pour les produits de la pêche énumérés à l'annexe I A
+    et C du règlement (CEE) n 2142/70 pour la campagne de pêche 1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2655/71 des Rates vom 15. Dezember 1971 zur Festsetzung
+    des Orientierungspreises für die in Anhang I Abschnitte A und C der Verordnung
+    (EWG) Nr. 2142/70 aufgeführten Fischereierzeugnisse für das Fischwirtschaftsjahr
+    1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2655/71 del Consiglio, del 15 dicembre 1971, che fissa
+    per la campagna di pesca 1972 i prezzi d'orientamento per i prodotti della pesca
+    di cui all'allegato I A e C del regolamento (CEE) n. 2142/70
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2655/71 van de Raad van 15 december 1971 tot vaststelling
+    van de oriëntatieprijzen voor de in bijlage I, A en C, van Verordening (EEG)
+    nr. 2142/70 genoemde visserijprodukten voor het visseizoen 1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2655
+docidentifier:
+- content: EU Regulation 2655/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2655
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2655/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-15'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

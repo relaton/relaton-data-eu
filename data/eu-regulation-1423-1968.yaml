@@ -1,0 +1,80 @@
+---
+id: EURegulation14231968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1423/68 du Conseil, du 12 septembre 1968, portant
+    augmentation du volume et de la réserve du contingent tarifaire communautaire
+    de ferro-silico- manganèse de la position 73.02 D du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1423/68 des Rates vom 12. September 1968 über die
+    Erhöhung der Menge und der Reserve des Gemeinschaftszollkontingents für Ferrosiliziummangan
+    der Tarifnummer 73.02 D des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1423/68 del Consiglio, del 12 settembre 1968, relativo
+    all'aumento del volume e della riserva del contingente tariffario comunitario
+    di ferro- silico-manganese della voce 73.02 D della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1423/68 van de Raad van 12 september 1968 houdende
+    vergroting van de omvang en van de reserve van het communautaire tariefcontingent
+    voor ferrosilicomangaan van post 73.02 D van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1423
+docidentifier:
+- content: EU Regulation 1423/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1423
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1423/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-09-12'
+- type: implemented
+  at: '1968-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968D0133
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

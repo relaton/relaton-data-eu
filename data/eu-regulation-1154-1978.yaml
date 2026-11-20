@@ -1,0 +1,138 @@
+---
+id: EURegulation11541978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1154/78 of 30 May 1978 amending Regulation
+    (EEC) No 1035/72 on the common organization of the market in fruit and vegetables
+    and Regulation (EEC) No 2601/69 laying down special measures to encourage the
+    processing of certain varieties of oranges
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1154/78 du Conseil, du 30 mai 1978, modifiant le règlement
+    (CEE) n° 1035/72 portant organisation commune des marchés dans le secteur des
+    fruits et légumes et le règlement (CEE) n° 2601/69 prévoyant des mesures spéciales
+    en vue de favoriser le recours à la transformation pour certaines variétés
+    d'oranges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1154/78 des Rates vom 30. Mai 1978 zur Änderung der
+    Verordnung (EWG) Nr. 1035/72 über eine gemeinsame Marktorganisation für Obst
+    und Gemüse und der Verordnung (EWG) Nr. 2601/69 über Sondermaßnahmen zur Förderung
+    der Verarbeitung bestimmter Apfelsinensorten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1154/78 af 30. maj 1978 om ændring af forordning
+    (EØF) nr. 1035/72 om den fælles markedsordning for frugt og grønsager og af
+    forordning (EØF) nr. 1035/72 om den fælles markedsordning for frugt henblik
+    på at fremme muligheden for forarbejdning af visse appelsinsorter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1154/78 του Συμβουλίου
+    της 30ής Μαΐου 1979 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 1035/72 «περί κοινής οργανώσεως αγοράς
+    στον τομέα των οπωροκηπευτικών» και του κανονισμού
+    (ΕΟΚ) αριθ. 2601/69 «περί ειδικών μέτρων για την
+    ενθάρρυνση προσφυγής στη μεταποίηση για ορισμένες
+    ποικιλίες πορτοκαλιών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1154/78 del Consiglio, del 30 maggio 1978, che modifica
+    il regolamento (CEE) n. 1035/72 relativo all'organizzazione comune dei mercati
+    nel settore degli ortofrutticoli e il regolamento (CEE) n. 2601/69 che prevede
+    misure speciali per favorire il ricorso alla trasformazione per talune varietà
+    di arance
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1154/78 van de Raad van 30 mei 1978 tot wijziging
+    van Verordening (EEG) nr. 1035/72 houdende een gemeenschappelijke ordening der
+    markten in de sector groenten en fruit, en van Verordening (EEG) nr. 2601/69 betreffende
+    bijzondere maatregelen ten einde het verwerken van bepaalde variëteiten sinaasappelen
+    te stimuleren
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1154/78 do Conselho, de 30 de Maio de 1978, que
+    altera o Regulamento (CEE) n.° 1035/72 que estabelece a organização comum de
+    mercado no sector das frutas e produtos hortícolas e o Regulamento (CEE) n.°
+    2601/69 que prevê medidas especiais tendo em vista favorecer o recurso à transformação
+    para certas variedades de laranja
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1154/78 del Consejo, de 30 de mayo de 1978, por el
+    que se modifican el Reglamento (CEE) n° 1035/72 por el que se establece la organización
+    común de mercados en el sector de las frutas y hortalizas y el Reglamento (CEE)
+    n° 2601/69 por el que se prevén medidas especiales para favorecer el recurso
+    a la transformación de determinadas variedades de naranjas
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1154
+docidentifier:
+- content: EU Regulation 1154/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1154
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1154/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-30'
+- type: implemented
+  at: '1978-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2601
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1035
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

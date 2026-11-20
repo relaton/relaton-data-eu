@@ -1,0 +1,85 @@
+---
+id: EURegulation801965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 80/65/CEE du Conseil, du 15 juin 1965, modifiant et complétant
+    les règlements n° 3 et 4 concernant la sécurité sociale des travailleurs migrants
+    (sécurité sociale des agents auxiliaires des Communautés européennes)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 80/65/EWG des Rates vom 15. Juni 1965 zur Änderung und
+    Ergänzung der Verordnungen Nr. 3 und 4 über die soziale Sicherheit der Wanderarbeitnehmer
+    (Soziale Sicherheit der Hilfskräfte der Europäischen Gemeinschaften)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 80/65/CEE del Consiglio, del 15 giugno 1965, che modifica
+    e completa i regolamenti n. 3 e n. 4 relativi alla sicurezza sociale dei lavoratori
+    migranti (situazione degli agenti ausiliari delle Comunità europee)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 80/65/EEG van de Raad van 15 juni 1965 tot wijziging en
+    aanvulling van de Verordeningen Nrs. 3 en 4 inzake de sociale zekerheid van migrerende
+    werknemers (sociale zekerheid van de hulpfunctionarissen van de Europese Gemeenschappen)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0080
+docidentifier:
+- content: EU Regulation 80/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0080
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/80/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-15'
+- type: implemented
+  at: '1965-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

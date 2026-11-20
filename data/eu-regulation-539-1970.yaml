@@ -1,0 +1,70 @@
+---
+id: EURegulation5391970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 539/70 de la Commission, du 23 mars 1970, fixant les
+    restitutions à l'exportation pour les pommes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 539/70 der Kommission vom 23. März 1970 zur Festsetzung
+    der Ausfuhrerstattungen für Äpfel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 539/70 della Commissione, del 23 marzo 1970, che fissa
+    le restituzioni all'esportazione per le mele
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 539/70 van de Commissie van 23 maart 1970 houdende
+    vaststelling van de restituties bij de uitvoer van appelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0539
+docidentifier:
+- content: EU Regulation 539/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0539
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/539/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-23'
+- type: implemented
+  at: '1970-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

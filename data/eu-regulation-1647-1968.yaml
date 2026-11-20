@@ -1,0 +1,66 @@
+---
+id: EURegulation16471968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1647/68 de la Commission, du 21 octobre 1968, relatif
+    à l'extension en France des mesures d'intervention dans le secteur de la viande
+    bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1647/68 der Kommission vom 21. Oktober 1968 betreffend
+    die Ausdehnung von Interventionsmaßnahmen auf dem Rindfleischsektor in Frankreich
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1647/68 della Commissione, del 21 ottobre 1968, relativo
+    all'estensione in Francia di misure d'intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1647/68 van de Commissie van 21 oktober 1968 betreffende
+    de uitbreiding in Frankrijk van interventiemaatregelen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1647
+docidentifier:
+- content: EU Regulation 1647/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1647
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1647/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

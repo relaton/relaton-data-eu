@@ -1,0 +1,69 @@
+---
+id: EURegulation981966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 98/66/CEE de la Commission, du 20 juillet 1966, modifiant
+    certains prélèvements fixés par les règlements ns 78/66/CEE, 79/66/CEE et
+    80/66/CEE dans le secteur des oeufs et de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 98/66/EWG der Kommission vom 20. Juli 1966 zur Änderung
+    bestimmter in den Verordnungen Nr. 78/66/EWG, 79/66/EWG und 80/66/EWG festgesetzter
+    Abschöpfungsbeträge für Eier und Geflügelfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 98/66/CEE della Commissione, del 20 luglio 1966, che modifica
+    alcuni prelievi fissati dai regolamenti n. 78/66/CEE, n. 79/66/ CEE e n. 80/66/CEE
+    per le uova e il pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 98/66/EEG van de Commissie van 20 juli 1966 tot wijziging
+    van sommige heffingen die voor de sector eieren en pluimvee zijn vastgesteld in
+    de Verordeningen nos. 78/66/EEG, 79/66/EEG en 80/66/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0098
+docidentifier:
+- content: EU Regulation 98/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0098
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/98/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

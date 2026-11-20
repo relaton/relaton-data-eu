@@ -1,0 +1,80 @@
+---
+id: EURegulation24321972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2432/72 du Conseil, du 21 novembre 1972, portant augmentation
+    du volume du contingent tarifaire communautaire de certaines anguilles de la sous-position
+    EX 03.01 A II du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2432/72 des Rates vom 21. November 1972 zur Aufstockung
+    des Gemeinschaftszollkontingents für bestimmte Aale der Tarifstelle ex 03.01
+    A II des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2432/72 del Consiglio, del 21 novembre 1972, recante
+    aumento del volume del contingente tariffario comunitario di talune anguille della
+    sottovoce ex 03.01 A II della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2432/72 van de Raad van 21 november 1972 houdende
+    verhoging van het communautaire tariefcontingent voor bepaalde paling of aal,
+    van onderverdeling ex 03.01 A II van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2432
+docidentifier:
+- content: EU Regulation 2432/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2432
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2432/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-11-21'
+- type: implemented
+  at: '1972-11-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2772
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

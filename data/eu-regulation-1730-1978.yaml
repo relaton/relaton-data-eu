@@ -1,0 +1,105 @@
+---
+id: EURegulation17301978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1730/78 of 24 July 1978 amending for the
+    fourth time Regulation (EEC) No 1608/76 laying down detailed rules for the description
+    and presentation of wines and grape musts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1730/78 de la Commission, du 24 juillet 1978, portant
+    quatrième modification du règlement (CEE) n° 1608/76 portant modalités d'
+    application pour la désignation et la présentation des vins et des moûts de
+    raisins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1730/78 der Kommission vom 24. Juli 1978 zur vierten
+    Änderung der Verordnung (EWG) Nr. 1608/76 über Durchführungsbestimmungen für
+    die Bezeichnung und Aufmachung der Weine und der Traubenmoste
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1730/78 af 24. juli 1978 om fjerde
+    ændring af forordning (EØF) nr. 1608/76 om gennemførelsesbestemmelser vedrørende
+    betegnelse og præsentation af vin og druemost
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1730/78 τής Επιτροπής
+    τής 24ης Ιουλίου 1978 περί τετάρτης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 1608/76 «περί λεπτομερειών
+    εφαρμογής γιά τήν περιγραφή καί τήν παρουσίαση
+    οίνων καί γλευκών σταφυλής»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1730/78 della Commissione, del 24 luglio 1978, recante
+    quarta modifica del regolamento (CEE) n. 1608/76 recante modalità di applicazione
+    per la designazione e la presentazione dei vini e dei mosti di uve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1730/78 van de Commissie van 24 juli 1978 houdende
+    vierde wijziging van Verordening (EEG) nr. 1608/76 houdende uitvoeringsbepalingen
+    voor de omschrijving en de aanbiedingsvorm van wijn en druivemost
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1730
+docidentifier:
+- content: EU Regulation 1730/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1730
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1730/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-07-24'
+- type: implemented
+  at: '1978-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1608
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

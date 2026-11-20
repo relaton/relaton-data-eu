@@ -1,0 +1,94 @@
+---
+id: EURegulation4581970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 458/70 of the Commission of 11 March 1970 amending
+    the Annex to Regulation No 225/67/EEC as regards the coefficients of equivalence
+    for sunflower seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 458/70 de la Commission, du 11 mars 1970, modifiant
+    l' annexe du règlement n° 225/67/CEE en ce qui concerne les coefficients d'
+    équivalence pour les graines de tournesol
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 458/70 der Kommission vom 11. März 1970 zur Änderung
+    des Anhangs zur Verordnung Nr. 225/67/EWG über die Ausgleichskoeffizienten für
+    Sonnenblumensamen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 458/70 af 11. marts 1970 om ændring
+    i bilaget til forordning nr. 225/67/EØF for så vidt angår udligningskoefficienterne
+    for solsikkefrø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 458/70 della Commissione, dell' 11 marzo 1970, che
+    modifica l' allegato del regolamento n. 225/67/CEE per quanto concerne i coefficienti
+    d' equivalenza per i semi di girasole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 458/70 van de Commissie van 11 maart 1970 tot wijziging
+    van de bijlage bij Verordening nr. 225/67/EEG ten aanzien van de gelijkwaardigheidscoëfficiënten
+    voor zonnebloempitten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0458
+docidentifier:
+- content: EU Regulation 458/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0458
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/458/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-11'
+- type: implemented
+  at: '1970-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0225
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

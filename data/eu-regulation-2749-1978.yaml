@@ -1,0 +1,96 @@
+---
+id: EURegulation27491978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2749/78 of 23 November 1978 on trade in oils
+    and fats between the Community and Greece
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2749/78 du Conseil, du 23 novembre 1978, relatif aux
+    échanges de matières grasses entre la Communauté et la Grèce
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2749/78 des Rates vom 23. November 1978 über den
+    Handel mit Fetten zwischen der Gemeinschaft und Griechenland
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2749/78 af 23. november 1978 om samhandelen
+    med fedtstoffer mellem Fællesskabet og Grækenland
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2749/78 τού Συμβουλίου
+    τής 23ης Νοεμβρίου 1978 περί τών συναλλαγών λιπαρών
+    ουσιών μεταξύ τής Κοινότητος καί τής Ελλάδος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2749/78 del Consiglio, del 23 novembre 1978, relativo
+    agli scambi di grassi tra la Comunità e la Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2749/78 van de Raad van 23 november 1978 betreffende
+    het handelsverkeer in oliën en vetten tussen de Gemeenschap en Griekenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2749
+docidentifier:
+- content: EU Regulation 2749/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2749
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2749/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-11-23'
+- type: implemented
+  at: '1978-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0162
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

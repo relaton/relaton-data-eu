@@ -1,0 +1,93 @@
+---
+id: EURegulation23911973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2391/73 of the Commission of 31 August 1973 repealing
+    the system suspending the import charges and compensatory amounts for beef and
+    veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2391/73 de la Commission, du 31 août 1973, abrogeant
+    le régime de suspension des charges à l'importation et des montants compensatoires
+    dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2391/73 der Kommission vom 31. August 1973 zur Aufhebung
+    der Regelung über die Aussetzung der Einfuhrabgaben und der Ausgleichsbeträge
+    für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2391/73 af 31. august 1973 om ophævelse
+    af ordningen om suspension af importbelastninger og udligningsbeløb i oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2391/73 della Commissione, del 31 agosto 1973, che
+    abroga il regime di sospensione degli oneri all'importazione e degli importi compensativi
+    nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2391/73 van de Commissie van 31 augustus 1973 tot
+    afschaffing van de regeling inzake de schorsing van de belastingen bij invoer
+    en van de compenserende bedragen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2391
+docidentifier:
+- content: EU Regulation 2391/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2391
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2391/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-08-31'
+- type: implemented
+  at: '1973-09-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0182
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EUDecision1972344
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 2 octobre 1972, modifiant la décision du
+    10 août 1972, relative à l'ouverture d'un adjudication permanente pour l'exportation
+    de 245.656 tonnes de seigle détenues par l'organisme d'intervention allemand
+  type: main
+- language: de
+  script: Latn
+  content: '72/344/EWG: Entscheidung der Kommission vom 2. Oktober 1972 zur Änderung
+    der Entscheidung vom 10. August 1972 zur Durchführung einer Dauerausschreibung
+    zur Ausfuhr von 245 656 Tonnen im Besitz der deutschen Interventionsstelle befindlichem
+    Roggen'
+  type: main
+- language: it
+  script: Latn
+  content: '72/344/CEE: Decisione della Commissione, del 2 ottobre 1972, che modifica
+    la decisione del 10 agosto 1972 relativa ad una gara permanente per l''esportazione
+    di 245 656 tonnellate di segala detenuta dall''organismo d''intervento tedesco'
+  type: main
+- language: nl
+  script: Latn
+  content: '72/344/EEG: Beschikking van de Commissie van 2 oktober 1972 houdende wijziging
+    van de beschikking van 10 augustus 1972 betreffende het houden van een permanente
+    openbare inschrijving voor uitvoer van 245 656 ton rogge in het bezit van het
+    Duitse interventiebureau'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972D0344
+docidentifier:
+- content: EU Decision 1972/344
+  type: EU
+  primary: true
+- content: CELEX 31972D0344
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1972/344/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0314
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

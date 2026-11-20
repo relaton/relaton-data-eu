@@ -1,0 +1,77 @@
+---
+id: EURegulation26401971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2640/71 de la Commission, du 13 décembre 1971, fixant
+    pour la campagne 1971/1972, le prix d'achat minimum des oranges livrées à l'industrie
+    et le montant de la compensation financière après transformation de ces oranges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2640/71 der Kommission vom 13. Dezember 1971 zur Festsetzung
+    des Mindestankaufspreises für an die Industrie gelieferte Apfelsinen und des
+    finanziellen Ausgleichs nach der Verarbeitung dieser Apfelsinen für das Wirtschaftsjahr
+    1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2640/71 della Commissione, del 13 dicembre 1971, che
+    fissa per la campagna 1971/1972 il prezzo minimo d'acquisto delle arance consegnate
+    all'industria e l'importo della compensazione finanziaria dopo la trasformazione
+    di tali arance
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2640/71 van de Commissie van 13 december 1971 houdende
+    vaststelling voor het verkoopseizoen 1971/1972 van de minimumprijs van sinaasappelen
+    bij levering aan de industrie en het bedrag van de financiële vergoeding bij
+    de verwerking hiervan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2640
+docidentifier:
+- content: EU Regulation 2640/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2640
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2640/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-13'
+- type: implemented
+  at: '1971-12-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

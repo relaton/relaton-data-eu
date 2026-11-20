@@ -1,0 +1,112 @@
+---
+id: EURegulation29291974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC, Euratom, ECSC) No 2929/74 of the Council of 18 November
+    1974 fixing the weightings applied to the remunerations and pensions of officials
+    and other servants of the European Communities employed or resident in Denmark,
+    Ireland and the United Kingdom
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE, Euratom, CECA) n° 2929/74 du Conseil, du 18 novembre
+    1974, portant fixation des coefficients correcteurs dont sont affectées les rémunérations
+    et pensions des fonctionnaires et autres agents des Communautés européennes,
+    affectés ou résidant au Danemark, en Irlande et au Royaume-Uni
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG, Euratom, EGKS) Nr. 2929/74 des Rates vom 18. November
+    1974 zur Festsetzung der Berichtigungskoeffizienten, die auf die Dienst- und Versorgungsbezüge
+    der in Dänemark, Irland und im Vereinigten Königreich dienstlich verwendeten
+    oder wohnenden Beamten und sonstigen Bediensteten der Europäischen Gemeinschaften
+    anwendbar sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF, Euratom, EKSF) nr. 2929/74 af 18. november 1974
+    om fastsættelse af justeringskoefficienterne for vederlag og pensioner for tjenestemænd
+    og øvrige ansatte, i De europæiske Fællesskaber, der gør tjeneste i eller
+    bor i Danmark, Irland og Det forenede Kongerige
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE, Euratom, CECA) n. 2929/74 del Consiglio, del 18 novembre
+    1974, che stabilisce i coefficienti correttori applicabili alle retribuzioni ed
+    alle pensioni dei funzionari e degli altri agenti delle Comunità europee in servizio
+    o residenti in Danimarca, in Irlanda e nel Regno Unito
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG, Euratom, EGKS) nr. 2929/74 van de Raad van 18 november
+    1974 houdende vaststelling van de aanpassingscoëfficiënten welke van toepassing
+    zijn op de bezoldigingen en de pensioenen van de ambtenaren en andere personeelsleden
+    van de Europese Gemeenschappen, tewerkgesteld of woonachtig in Denemarken, Ierland
+    of het Verenigd Koninkrijk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2929
+docidentifier:
+- content: EU Regulation 2929/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2929
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2929/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-18'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1301
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0002
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1408
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

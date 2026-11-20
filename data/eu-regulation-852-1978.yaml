@@ -1,0 +1,124 @@
+---
+id: EURegulation8521978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 852/78 of 24 April 1978 amending Regulation
+    (EEC) No 1569/72 laying down special measures for colza and rape seed, and repealing
+    Regulation (EEC) No 2713/72
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 852/78 du Conseil, du 24 avril 1978, modifiant le
+    règlement (CEE) n° 1569/72 prévoyant des mesures spéciales pour les graines
+    de colza et de navette et abrogeant le règlement (CEE) n° 2713/72
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 852/78 des Rates vom 24. April 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1569/72 zur Einführung von Sondermaßnahmen für Raps-
+    und Rübsensamen und zur Aufhebung der Verordnung (EWG) Nr. 2713/72
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 852/78 af 24. april 1978 om ændring af forordning
+    (EØF) nr. 1569/72 om indførelse af særlige foranstaltninger for raps- og rybsfrø
+    og om ophævelse af forordning (EØF) nr. 2713/72
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 852/78 του Συμβουλίου
+    της 24ης Απριλίου 1978 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 1569/72 «περί προβλέψεως
+    ειδικών μέτρων για τους κραμβόσπορους και
+    γογγυλόσπορους», και περί καταργήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 2713/72
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 852/78 annettu 24 päivänä huhtikuuta 1978
+    rapsin- ja rypsinsiemeniä koskevista erityistoimenpiteistä annetun asetuksen
+    (ETY) N:o 1569/72 muuttamisesta ja asetuksen (ETY) N:o 2713/72 kumoamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 852/78 del Consiglio, del 24 aprile 1978, che modifica
+    il regolamento (CEE) n. 1569/72 che prevede misure speciali per i semi di colza
+    e di ravizzone, e abroga il regolamento (CEE) n. 2713/72
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 852/78 van de Raad van 24 april 1978 tot wijziging
+    van Verordening (EEG) nr. 1569/72 tot instelling van bijzondere maatregelen voor
+    kool- en raapzaad en tot intrekking van Verordening (EEG) nr. 2713/72
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 852/78 av den 24 april 1978 om ändring av
+    förordning (EEG) nr 1569/72 om särskilda åtgärder för raps- och rybsfrö
+    och om upphävandet av förordning (EEG) nr 2713/72
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0852
+docidentifier:
+- content: EU Regulation 852/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0852
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/852/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-04-24'
+- type: implemented
+  at: '1978-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2713
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1569
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

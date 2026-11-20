@@ -1,0 +1,104 @@
+---
+id: EURegulation6061971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 606/71 of the Commission of 23 March 1971 amending
+    Regulation (EEC) No 685/69 in particular as regards private storage aid for butter
+    and cream
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 606/71 de la Commission, du 23 mars 1971, modifiant
+    le règlement (CEE) n° 685/69, notamment en ce qui concerne l' aide au stockage
+    privé de beurre et de la crème de lait
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 606/71 der Kommission vom 23. März 1971 zur Änderung
+    der Verordnung (EWG) Nr. 685/69 insbesondere über eine Beihilfe für die private
+    Lagerhaltung von Butter und Rahm
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 606/71 af 23. marts 1971 om ændring
+    af forordning (EØF) nr. 685/69 særligt vedrørende støtte til privat oplagring
+    af smør og fløde
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 606/71 της Επιτροπής
+    της 23ης Μαρτίου 1971 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 685/69, ιδίως όσον αφορά την ενίσχυση
+    για την ιδιωτική αποθεματοποίηση του βουτύρου
+    και της κρέμας γάλακτος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 606/71 della Commissione, del 23 marzo 1971, che modifica
+    il regolamento (CEE) n. 685/69 in particolare per quanto concerne l' aiuto all'
+    ammasso privato del burro e della crema di latte
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 606/71 van de Commissie van 23 maart 1971 houdende
+    wijziging van Verordening (EEG) nr. 685/69 met name met betrekking tot de steun
+    aan de particuliere opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0606
+docidentifier:
+- content: EU Regulation 606/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0606
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/606/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-23'
+- type: implemented
+  at: '1971-03-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0685
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,97 @@
+---
+id: EURegulation9891969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 989/69 du Conseil, du 28 mai 1969, portant prorogation
+    du régime applicable à certains produits agricoles originaires des États africains
+    et malgache associés ou des pays et territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 989/69 des Rates vom 28. Mai 1969 zur Verlängerung
+    der Regelungen für bestimmte landwirtschaftliche Erzeugnisse mit Ursprung in
+    den afrikanischen Staaten und Madagaskar oder in den überseeischen Ländern und
+    Gebieten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 989/69 del Consiglio, del 28 maggio 1969, che proroga
+    il regime applicabile a taluni prodotti agricoli originari degli Stati africani
+    e malgascio associati o dei paesi e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 989/69 van de Raad van 28 mei 1969 houdende verlenging
+    van de regeling die van toepassing is op sommige landbouwprodukten van oorsprong
+    uit de geassocieerde Afrikaanse Staten en Madagaskar of de landen en gebieden
+    overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0989
+docidentifier:
+- content: EU Regulation 989/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0989
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/989/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-28'
+- type: implemented
+  at: '1969-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0355
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0404
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0800
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0866
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

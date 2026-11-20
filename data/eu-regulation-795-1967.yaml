@@ -1,0 +1,66 @@
+---
+id: EURegulation7951967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 795/67/CEE de la Commission, du 31 octobre 1967 fixant les
+    prix de référence valables pour les mandarines, clémentines, satsumas et wilkings
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 795/67/EWG der Kommission vom 31. Oktober 1967 zur Festsetzung
+    der Referenzpreise, gültig für Mandarinen, Clementinen, Satsumas und Wilkings
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 795/67/CEE della Commissione, del 31 ottobre 1967, che fissa
+    i prezzi di riferimento per i mandarini, clementine, satsumas e wilkings
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 795/67/EEG van de Commissie van 31 oktober 1967 houdende
+    vaststelling van referentieprijzen geldende voor mandarijnen, clementines, satsuma's
+    en wilkings
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0795
+docidentifier:
+- content: EU Regulation 795/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0795
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/795/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

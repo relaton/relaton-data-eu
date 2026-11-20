@@ -1,0 +1,92 @@
+---
+id: EURegulation81963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 8/63/CEE du Conseil du 21 février 1963 portant révision
+    du chapitre 4 du titre III du règlement n 3 concernant la sécurité sociale
+    des travailleurs migrants ainsi que du chapitre 3 du titre V du règlement n 4
+    fixant les modalités d'application et complétant les dispositions du règlement
+    n° 3
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 8/63/EWG des Rats vom 21. Februar 1963 zur Änderung des
+    Titels III Kapitel 4 der Verordnung Nr. 3 über die Soziale Sicherheit der Wanderarbeitnehmer
+    und des Titels V Kapitel 3 der Verordnung Nr. 4 zur Durchführung und Ergänzung
+    der Verordnung Nr. 3
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 8/63/CEE del Consiglio del 21 febbraio 1963 relativo alla
+    revisione del capitolo 4 del Titolo III del regolamento n. 3 per la sicurezza
+    sociale dei lavoratori migranti e del capitolo 3 del Titolo V del regolamento
+    n. 4 che determina le modalità di applicazione e integra le disposizioni del
+    regolamento n. 3
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 8/63/EEG van de Raad van 21 februari 1963 strekkende tot
+    wijziging van hoofdstuk 4 van titel III van Verordening Nr. 3 inzake de sociale
+    zekerheid van migrerende werknemers en van hoofdstuk 3 van titel V van Verordening
+    Nr. 4 strekkende tot uitvoering en aanvulling van de bepalingen van Verordening
+    Nr. 3
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0008
+docidentifier:
+- content: EU Regulation 8/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0008
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/8/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-02-21'
+- type: implemented
+  at: '1963-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

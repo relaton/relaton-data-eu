@@ -1,0 +1,69 @@
+---
+id: EURegulation16351970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1635/70 de la Commission, du 12 août 1970, fixant les
+    prélèvements applicables aux céréales, aux farines et aux gruaux et semoules
+    de froment ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1635/70 der Kommission vom 12. August 1970 zur Festsetzung
+    der auf Getreide, Mehle, Grütze und GrieD von Weizen oder Roggen anwendbaren
+    Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1635/70 della Commissione, del 12 agosto 1970, che
+    fissa i prelievi applicabili ai cereali e alle farine, alle semole e ai semolini
+    di frumento o di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1635/70 van de Commissie van 12 augustus 1970 houdende
+    vaststelling van de heffingen die van toepassing zijn op granen en meel, grutten,
+    gries en griesmeel van tarwe of van rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1635
+docidentifier:
+- content: EU Regulation 1635/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1635
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1635/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-08-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

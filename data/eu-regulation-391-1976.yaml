@@ -1,0 +1,93 @@
+---
+id: EURegulation3911976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 391/76 of 17 February 1976 fixing the dates
+    for the end of the 1975/76 milk year and the beginning of the 1976/77 milk year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 391/76 du Conseil, du 17 février 1976, fixant les
+    dates de la fin de la campagne laitière 1975/1976 et du commencement de la campagne
+    laitière 1976/1977
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 391/76 des Rates vom 17. Februar 1976 zur Festsetzung
+    des Endes des Milchwirtschaftsjahres 1975/1976 und des Beginns des Milchwirtschaftsjahres
+    1976/1977
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 391/76 af 17. februar 1976 om fastsættelse
+    af datoerne for afslutningen af mejeriåret 1975/1976 og for begyndelsen af mejeriåret
+    1976/1977
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 391/76 del Consiglio, del 17 febbraio 1976, che fissa
+    le date di conclusione della campagna lattiera 1975/1976 e d'inizio della campagna
+    lattiera 1976/1977
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 391/76 van de Raad van 17 februari 1976 tot vaststelling
+    van de einddatum van het melkprijsjaar 1975/1976 en de begindatum van het melkprijsjaar
+    1976/1977
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0391
+docidentifier:
+- content: EU Regulation 391/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0391
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/391/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-17'
+- type: implemented
+  at: '1976-02-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0126
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

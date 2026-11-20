@@ -1,0 +1,73 @@
+---
+id: EURegulation3041967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 304/67/CEE du Conseil, du 11 juillet 1967, déterminant
+    les mesures en matière de prix à appliquer en Allemagne pour certains produits
+    laitiers pendant la campagne laitière 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 304/67/EWG des Rates vom 11. Juli 1967 über die im Milchwirtschaftsjahr
+    1967/1968 in Deutschland anzuwendenden Preismaßnahmen bei bestimmten Milcherzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 304/67/CEE del Consiglio, dell'11 luglio 1967, che stabilisce
+    le misure in materia di prezzi applicabili in Germania per alcuni prodotti lattiero-
+    caseari durante la campagna 1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 304/67/EEG van de Raad van 11 juli 1967 houdende vaststelling
+    van prijsmaatregelen die gedurende het melkprijsjaar 1967/1968 in Duitsland voor
+    bepaalde zuivelprodukten moeten worden toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0304
+docidentifier:
+- content: EU Regulation 304/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0304
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/304/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-11'
+- type: implemented
+  at: '1967-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

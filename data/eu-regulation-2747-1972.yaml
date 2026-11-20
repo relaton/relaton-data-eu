@@ -1,0 +1,105 @@
+---
+id: EURegulation27471972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2747/72 of the Council of 19 December 1972 postponing
+    the dates of revision of the basic Regulations on commercial policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2747/72 du Conseil, du 19 décembre 1972, reportant
+    les dates de révision prévues dans les règlements de base en matière de politique
+    commerciale
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2747/72 des Rates vom 19. Dezember 1972 zur Verschiebung
+    der in den handelspolitischen Grundverordnungen vorgesehenen Revisionstermine
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2747/72 af 19. december 1972 om udsættelse
+    af de i grundforordningerne og handelspolitikken forudsete revisionsdatoer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2747/72 del Consiglio, del 19 dicembre 1972, che proroga
+    le date di revisione fissate nei regolamenti di base in materia di politica commerciale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2747/72 van de Raad van 19 december 1972 waarbij
+    de in de basisverordeningen betreffende de handelspolitiek vastgestelde herzieningsdata
+    worden verschoven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2747
+docidentifier:
+- content: EU Regulation 2747/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2747
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2747/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+- type: implemented
+  at: '1972-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2603
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0109
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1023
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1025
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

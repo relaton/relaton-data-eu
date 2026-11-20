@@ -1,0 +1,74 @@
+---
+id: EUDecisionNo19941968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision n° 1994/68/CECA de la Commission, du 6 décembre 1968, relative
+    à l'autorisation d'aides accordées par la République française en 1968 aux
+    entreprises de l'industrie houillère
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung Nr. 1994/68/EGKS der Kommission vom 6. Dezember 1968 über
+    die Genehmigung von Beihilfen der Französischen Republik zugunsten der Unternehmen
+    des Steinkohlenbergbaus für das Jahr 1968
+  type: main
+- language: it
+  script: Latn
+  content: DECISIONE N. 1994/68/CECA DELLA COMMISSIONE, DEL 6 DICEMBRE 1968, RELATIVA
+    ALL' AUTORIZZAZIONE DI AIUTI ACCORDATI DALLA REPUBBLICA FRANCESE NEL 1968 ALLE
+    IMPRESE DELL' INDUSTRIA CARBONIFERA
+  type: main
+- language: nl
+  script: Latn
+  content: '1994/68/EGKS: Beschikking nr. 1994/68/EGKS van de Commissie van 6 december
+    1968 houdende machtiging tot toekenning van financiële steun door de Franse Republiek
+    aan de ondernemingen van de kolenmijnindustrie voor het jaar 1968'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968D1994
+docidentifier:
+- content: EU Decision No 1994/1968
+  type: EU
+  primary: true
+- content: CELEX 31968D1994
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1968/1994/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-06'
+- type: implemented
+  at: '1968-12-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

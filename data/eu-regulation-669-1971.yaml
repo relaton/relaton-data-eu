@@ -1,0 +1,76 @@
+---
+id: EURegulation6691971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 669/71 du Conseil, du 30 mars 1971, fixant le prix
+    indicatif du lait et les prix d'intervention pour le beurre, le lait écrémé
+    en poudre et les fromages grana padano et parmiggiano reggiano, valables pendant
+    la campagne laitière 1971/1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 669/71 des Rates vom 30. März 1971 zur Festsetzung
+    des Richtpreises für Milch sowie der Interventionspreise für Butter, Magermilchpulver,
+    Grana Padano und Parmigiano Reggiano für das Milchwirtschaftsjahr 1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 669/71 del Consiglio, del 30 marzo 1971, che fissa
+    il prezzo indicativo per il latte ed i prezzi d'intervento per il burro, il latte
+    scremato in polvere, il Grana Padano ed il Parmigiano Reggiano, validi per la
+    campagna lattiera 1971/1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 669/71 van de Raad van 30 maart 1971 houdende vaststelling
+    van de richtprijs voor melk en van de interventieprijzen voor boter, magere- melkpoeder
+    en Grana-Padano- en Parmigiano-Reggianokaas, voor het melkprijsjaar 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0669
+docidentifier:
+- content: EU Regulation 669/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0669
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/669/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-30'
+- type: implemented
+  at: '1971-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

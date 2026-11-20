@@ -1,0 +1,91 @@
+---
+id: EURegulation16281979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1628/79 of 27 July 1979 repealing Regulation
+    (EEC) No 2067/77 concerning the determination of the origin of slide fasteners
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1628/79 de la Commission, du 27 juillet 1979, abrogeant
+    le règlement (CEE) n° 2067/77 de la Commission relatif à la détermination
+    de l' origine des fermetures à glissière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1628/79 der Kommission vom 27. Juli 1979 zur Aufhebung
+    der Verordnung (EWG) Nr. 2067/77 über die Bestimmung des Ursprungs von Reißverschlüssen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1628/79 af 27. juli 1979 om ophævelse
+    af forordning (EØF) nr. 2067/77 om bestemmelse af oprindelsen af lynlåse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1628/79 della Commissione, del 27 luglio 1979, che
+    abroga il regolamento (CEE) n. 2067/77 relativo alla determinazione dell' origine
+    delle chiusure a strappo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1628/79 van de Commissie van 27 juli 1979 houdende
+    intrekking van Verordening (EEG) nr. 2067/77 betreffende de bepaling van de oorsprong
+    van ritssluitingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1628
+docidentifier:
+- content: EU Regulation 1628/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1628
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1628/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-27'
+- type: implemented
+  at: '1979-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2067
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

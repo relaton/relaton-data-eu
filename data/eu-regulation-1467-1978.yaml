@@ -1,0 +1,104 @@
+---
+id: EURegulation14671978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1467/78 of 29 June 1978 amending Regulation
+    (EEC) No 1288/78 on special conditions for the granting of private storage aid
+    for pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1467/78 de la Commission, du 29 juin 1978, modifiant
+    le règlement (CEE) n° 1288/78 relatif aux conditions particulières de l' octroi
+    d' aides au stockage privé dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1467/78 der Kommission vom 29. Juni 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1288/78 über besondere Bestimmungen für die Gewährung
+    von Beihilfen für die private Lagerhaltung auf dem Schweinefleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1467/78 af 29. juni 1978 om ændring
+    af forordning (EØF) nr. 1288/78 om de særlige betingelser for ydelse af støtte
+    til privat oplagring inden for svinekødsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 1467/78 της Επιτροπής,
+    της 29ης Ιουνίου 1978, περί τροποποίησης του Κανονισμού
+    ( ΕΟΚ ) 1288/78 σχετικά με τους ειδικούς όρους για
+    την χορήγηση ενισχύσεων ιδιωτικής αποθήκευσης
+    στον τομέα του χοιρείου κρέατος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1467/78 della Commissione, del 29 giugno 1978, che
+    modifica il regolamento (CEE) n. 1288/78 che stabilisce le condizioni particolari
+    per la concessione di aiuti all' ammasso privato nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1467/78 van de Commissie van 29 juni 1978 tot wijziging
+    van Verordening (EEG) nr. 1288/78 betreffende de bijzondere voorwaarden voor de
+    toekenning van steun aan de particuliere opslag in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1467
+docidentifier:
+- content: EU Regulation 1467/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1467
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1467/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-29'
+- type: implemented
+  at: '1978-06-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1288
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

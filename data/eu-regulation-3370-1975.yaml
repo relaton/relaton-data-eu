@@ -1,0 +1,89 @@
+---
+id: EURegulation33701975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3370/75 of the Commission of 23 December 1975 terminating
+    the prohibition on the importation of frozen hake and fillets thereof
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3370/75 de la Commission, du 23 décembre 1975, portant
+    abrogation de la suspension des importations de merlus et de filets de merlu congelés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3370/75 der Kommission vom 23. Dezember 1975 zur Aufhebung
+    der Aussetzung der Einfuhren von gefrorenen Seehechten und gefrorenen Seehechtfilets
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3370/75 af 23. december 1975 om ophævelse
+    af suspensionen af indførselen af frosne kulmuler og kulmulefileter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3370/75 della Commissione, del 23 dicembre 1975, che
+    abroga la sospensione delle importazioni di naselli e di filetti di naselli congelati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3370/75 van de Commissie van 23 december 1975 houdende
+    opheffing van de schorsing van de invoer van bevroren heek en van bevroren filets
+    van heek
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3370
+docidentifier:
+- content: EU Regulation 3370/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3370
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3370/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-12-23'
+- type: implemented
+  at: '1976-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2901
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

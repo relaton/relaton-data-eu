@@ -1,0 +1,74 @@
+---
+id: EUDecision1970101
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 19 décembre 1969, autorisant la République
+    fédérale d'Allemagne à suspendre partiellement la perception du droit de douane
+    sur les tomates (EX 07.01 M I)
+  type: main
+- language: de
+  script: Latn
+  content: '70/101/EWG: Entscheidung der Kommission vom 19. Dezember 1969, mit der
+    die Bundesrepublik Deutschland ermächtigt wird, die Erhebung des Zollsatzes für
+    Tomaten (Tarifnummer ex 07.01 M I) teilweise auszusetzen'
+  type: main
+- language: it
+  script: Latn
+  content: '70/101/CEE: Decisione della Commissione, del 19 dicembre 1969, che autorizza
+    la Repubblica federale di Germania a sospendere parzialmente la riscossione del
+    dazio doganale sui pomodori (voce tariffaria ex 07.01 M I)'
+  type: main
+- language: nl
+  script: Latn
+  content: '70/101/EEG: Beschikking van de Commissie van 19 december 1969 houdende
+    machtiging van de Bondsrepubliek Duitsland tot gedeeltelijke schorsing van de
+    heffing van het douanerecht op tomaten (tariefpost ex 07.01 M I)'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970D0101
+docidentifier:
+- content: EU Decision 1970/101
+  type: EU
+  primary: true
+- content: CELEX 31970D0101
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1970/101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-19'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

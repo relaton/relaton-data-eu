@@ -1,0 +1,104 @@
+---
+id: EURegulation13121984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1312/84 of 11 May 1984 derogating from Regulation
+    (EEC) No 2835/77 in respect of the time limit for the submission of applications
+    for aid in Italy for durum wheat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1312/84 de la Commission du 11 mai 1984 dérogeant
+    au règlement (CEE) no 2835/77 en ce qui concerne la date limite de présentation
+    des demandes d' aide pour le froment dur en Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1312/84 der Kommission vom 11. Mai 1984 zur Abweichung
+    von der Verordnung (EWG) Nr. 2835/77 in bezug auf die Frist für die Einreichung
+    der Beihilfeanträge für Hartweizen in Italien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1312/84 af 11. maj 1984 om afvigelse
+    fra forordning (EØF) nr. 2835/77 for så vidt angår fristen for indgivelse af
+    støtteansøgninger vedrørende hård hvede i Italien
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1312/84 της Επιτροπής
+    της 11ης Μαΐου 1984 για παρέκκλιση από τον κανονισμό
+    (ΕΟΚ) αριθ. 2835/77 για το σκληρό σίτο, όσον αφορά
+    την προθεσμία υποβολής αιτήσεων για ενίσχυση
+    στην Ιταλία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1312/84 della Commissione dell' 11 maggio 1984 recante
+    deroga al regolamento (CEE) n. 2835/77 per quanto concerne la data limite per
+    la presentazione delle domande di aiuto per il frumento duro in Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1312/84 van de Commissie van 11 mei 1984 houdende
+    afwijking van Verordening (EEG) nr. 2835/77 met betrekking tot de uiterste datum
+    voor de indiening van de aanvragen van steun voor durumtarwe in Italië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R1312
+docidentifier:
+- content: EU Regulation 1312/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R1312
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/1312/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-05-11'
+- type: implemented
+  at: '1984-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2835
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

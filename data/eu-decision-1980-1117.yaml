@@ -1,0 +1,120 @@
+---
+id: EUDecision19801117
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '80/1117/EEC: Council Decision of 4 December 1980 amending Decisions 75/459/EEC,
+    76/206/EEC, 77/803/EEC and 77/804/EEC concerning European Social Fund aid measures
+    for certain categories of persons'
+  type: main
+- language: fr
+  script: Latn
+  content: '80/1117/CEE: Décision du Conseil, du 4 décembre 1980, modifiant les
+    décisions 75/459/CEE, 76/206/CEE, 77/803/CEE et 77/804/CEE relatives aux interventions
+    du Fonds social européen en faveur de certaines catégories de personnes'
+  type: main
+- language: de
+  script: Latn
+  content: '80/1117/EWG: Beschluß des Rates vom 4. Dezember 1980 zur Änderung der
+    Beschlüsse 75/459/EWG, 76/206/EWG, 77/803/EWG und 77/804/EWG über die Beteiligung
+    des Europäischen Sozialfonds zugunsten bestimmter Personengruppen'
+  type: main
+- language: da
+  script: Latn
+  content: '80/1117/EØF: Rådets afgørelse af 4. december 1980 om ændring af Rådets
+    afgørelser 75/459/EØF, 76/206/EØF, 77/803/EØF og 77/804/EØF om intervention
+    fra Den europæiske Socialfond til fordel for visse kategorier af personer'
+  type: main
+- language: el
+  script: Grek
+  content: '80/1117/ΕΟΚ: Απόφαση τού Συμβουλίου τής 4ης
+    Δεκεμβρίου 1980 περί τροποποιήσεως τών αποφάσεων
+    75/459/ΕΟΚ, 76/206/ΕΟΚ, 77/803/ΕΟΚ καί 77/804/ΕΟΚ σχετικά
+    μέ τίς παρεμβάσεις τού Ευρωπαϊκού Κοινωνικού
+    Ταμείου υπέρ ορισμένων κατηγοριών προσώπων'
+  type: main
+- language: it
+  script: Latn
+  content: '80/1117/CEE: Decisione del Consiglio, del 4 dicembre 1980, che modifica
+    le decisioni 75/459/CEE, 76/206/CEE, 77/803/CEE e 77/804/CEE relative agli interventi
+    del Fondo sociale europeo a favore di talune categorie di persone'
+  type: main
+- language: nl
+  script: Latn
+  content: '80/1117/EEG: Besluit van de Raad van 4 december 1980 houdende wijziging
+    van de Besluiten 75/459/EEG, 76/206/EEG, 77/803/EEG en 77/804/EEG betreffende
+    de steunverlening van het Europees Sociaal Fonds ten behoeve van bepaalde categorieën
+    personen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980D1117
+docidentifier:
+- content: EU Decision 1980/1117
+  type: EU
+  primary: true
+- content: CELEX 31980D1117
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1980/1117/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-12-04'
+- type: implemented
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975D0459
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0206
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977D0803
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977D0804
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

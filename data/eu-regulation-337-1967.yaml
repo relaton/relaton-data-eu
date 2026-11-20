@@ -1,0 +1,70 @@
+---
+id: EURegulation3371967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 337/67/CEE du Conseil, du 25 juillet 1967, fixant le prix
+    de base et le prix d'achat pour les raisins de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 337/67/EWG des Rates vom 25. Juli 1967 zur Festsetzung des
+    Grundpreises und des Ankaufspreises für Tafeltrauben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 337/67/CEE del Consiglio, del 25 luglio 1967, che fissa
+    il prezzo di base e il prezzo d'acquisto per le uve da tavola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 337/67/EEG van de Raad van 25 juli 1967 houdende vaststelling
+    van de basisprijs en de aankoopprijs voor tafeldruiven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0337
+docidentifier:
+- content: EU Regulation 337/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0337
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/337/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-25'
+- type: implemented
+  at: '1967-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

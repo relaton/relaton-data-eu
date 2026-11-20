@@ -1,0 +1,76 @@
+---
+id: EURegulation9041968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 904/68 de la Commission, du 4 juillet 1968, modifiant
+    la liste des marchés représentatifs à la production pour les pêches
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 904/68 der Kommission vom 4. Juli 1968 zur Änderung
+    der Liste der repräsentativen Erzeugermärkte für Pfirsiche
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 904/68 della Commissione, del 4 luglio 1968, che modifica
+    l'elenco dei mercati rappresentativi alla produzione per le pesche
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 904/68 van de Commissie van 4 juli 1968 houdende
+    wijziging van de lijst van representatieve produktiemarkten voor perziken
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0904
+docidentifier:
+- content: EU Regulation 904/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0904
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/904/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-04'
+- type: implemented
+  at: '1968-07-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0155
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

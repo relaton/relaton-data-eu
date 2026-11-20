@@ -1,0 +1,80 @@
+---
+id: EURegulation17661969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1766/69 de la Commission, du 5 septembre 1969, complétant
+    le règlement (CEE) n° 1669/69 relatif à certaines mesures à prendre dans le
+    secteur du sucre à la suite de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1766/69 der Kommission vom 5. September 1969 zur Ergänzung
+    der Verordnung (EWG) Nr. 1669/69 betreffend Maßnahmen auf dem Zuckersektor infolge
+    der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1766/69 della Commissione, del 5 settembre 1969, che
+    completa il regolamento (CEE) n. 1669/69 relativo a talune misure da adottare
+    nel settore dello zucchero a seguito della svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1766/69 van de Commissie van 5 september 1969 houdende
+    aanvulling van Verordening (EEG) nr. 1669/69 betreffende ingevolge de devaluatie
+    van de Franse frank in de sector suiker te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1766
+docidentifier:
+- content: EU Regulation 1766/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1766
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1766/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-09-05'
+- type: implemented
+  at: '1969-09-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1669
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

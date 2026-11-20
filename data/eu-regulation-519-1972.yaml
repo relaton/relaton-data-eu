@@ -1,0 +1,102 @@
+---
+id: EURegulation5191972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (Euratom, ECSC, EEC) No 519/72 of the Council of 15 March 1972
+    amending Regulation No 422/67/EEC, No 5/67/Euratom determining the emoluments
+    of the President and Members of the Commission and of the President, Judges, Advocades-General
+    and Registrar of the Court of Justice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom, CECA, CEE) n° 519/72 du Conseil, du 15 mars 1972,
+    modifiant le règlement n° 422/67/CEE, n° 5/67/Euratom portant fixation du régime
+    pécuniaire du président et des membres de la Commission, du président, des
+    juges, des avocats généraux et du greffier de la Cour de justice
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom, EGKS, EWG) Nr. 519/72 des Rates vom 15. März 1972
+    zur Änderung der Verordnung Nr. 422/67/EWG, Nr. 5/67/Euratom über die Regelung
+    der Amtsbezüge für den Präsidenten und die Mitglieder der Kommission sowie
+    für den Präsidenten, die Richter, die Generalanwälte und den Kanzler des Gerichtshofes
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (Euratom, EKSF, EØF) nr. 519/72 om ændring af forordning
+    nr. 422/67/EØF, nr. 5/67 af 15. marts 1972 Euratom om lønningsregulativ for
+    Kommissionens formand og medlemmer og Domstolens præsident, dommere, generaladvokater
+    og justitssekretær
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom, CECA, CEE) n. 519/72 del Consiglio, del 15 marzo
+    1972, che modifica il regolamento n. 422/67/CEE, n. 5/67/Euratom, relativo alla
+    fissazione del trattamento economico del presidente e dei membri della Commissione,
+    del presidente, dei giudici, degli avvocati generali e del cancelliere della Corte
+    di giustizia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom, EGKS, EEG) nr. 519/72 van de Raad van 15 maart 1972
+    tot wijziging van Verordening nr. 422/67/EEG, nr. 5/67/Euratom tot vaststelling
+    van de geldelijke regeling voor de Voorzitter en de leden van de Commissie, de
+    President, de rechters en de griffier van, alsmede de advocaten-generaal bij het
+    Hof van Justitie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0519
+docidentifier:
+- content: EU Regulation 519/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0519
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/519/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-15'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0422
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

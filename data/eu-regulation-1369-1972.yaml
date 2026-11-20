@@ -1,0 +1,125 @@
+---
+id: EURegulation13691972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (Euratom, ECSC, EEC) No 1369/72 of the Council of 27 June 1972
+    amending the Staff Regulations of Officials and the Conditions of Employment of
+    Other Servants of the European Communities
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom, CECA, CEE) n° 1369/72 du Conseil, du 27 juin 1972,
+    modifiant le statut des fonctionnaires des Communautés européennes ainsi que
+    le régime applicable aux autres agents de ces Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom, EGKS, EWG) Nr. 1369/72 des Rates vom 27. Juni 1972
+    zur Änderung des Statuts der Beamten der Europäischen Gemeinschaften und der
+    Beschäftigungsbedingungen für die sonstigen Bediensteten dieser Gemeinschaften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (Euratom, EKSF, EØF) nr. 1369/72 af 27. juni 1972 om
+    ændring af vedtægten for tjenestemænd og ansættelsesvilkårene for de øvrige
+    ansatte ved De europæiske Fællesskaber
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΥΡΑΤΟΜ, ΕΚΑΧ, ΕΟΚ) αριθ. 1369/72
+    του Συμβουλίου, της 27ης Ιουνίου 1972, περί τροποποίησης
+    του κανονισμού υπηρεσιακής κατάστασης των
+    υπαλλήλων των Ευρωπαϊκών Κοινοτήτων και του
+    καθεστώτος που ισχύει για το λοιπό προσωπικό
+    των Κοινοτήτων.
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom, CECA, CEE) n. 1369/72 del Consiglio, del 27 giugno
+    1972, che modifica lo statuto dei funzionari delle Comunità europee e il regime
+    applicabile agli altri agenti di dette Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom, EGKS, EEG) nr. 1369/72 van de Raad van 27 juni 1972
+    tot wijziging van het statuut van de ambtenaren van de Europese Gemeenschappen
+    en van de regeling welke van toepassing is op de andere personeelsleden van deze
+    Gemeenschappen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (Euratom, CECA, CEE) nº 1369/72 do Conselho, de 27 de Junho
+    de 1982, que altera o Estatuto dos Funcionários das Comunidades Europeias, assim
+    como o Regime aplicável aos agentes destas Comunidades
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (Euratom, CECA, CEE) n° 1369/72 del Consejo, de 27 de junio
+    de 1982, por el que se modifica el Estatuto de los funcionarios de las Comunidades
+    Europeas así como el régimen aplicable a los otros agentes de las Comunidades
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1369
+docidentifier:
+- content: EU Regulation 1369/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1369
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1369/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-27'
+- type: implemented
+  at: '1972-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(02)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

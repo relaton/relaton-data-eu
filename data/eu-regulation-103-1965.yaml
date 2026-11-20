@@ -1,0 +1,65 @@
+---
+id: EURegulation1031965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 103/65/CEE de la Commission, du 7 juillet 1965, portant fixation
+    des prix de référence pour les cerises
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 103/65/EWG der Kommission vom 7. Juli 1965 zur Festsetzung
+    der Referenzpreise für Kirschen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 103/65/CEE della Commissione, del 7 luglio 1965, che fissa
+    i prezzi di riferimento per le ciliegie
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 103/65/EEG van de Commissie van 7 juli 1965 houdende vaststelling
+    van de referentieprijzen voor kersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0103
+docidentifier:
+- content: EU Regulation 103/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0103
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/103/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

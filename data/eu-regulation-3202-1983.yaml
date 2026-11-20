@@ -1,0 +1,113 @@
+---
+id: EURegulation32021983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3202/83 of 14 November 1983 amending Regulations
+    (EEC) No 2373/83 and (EEC) No 2540/83 in respect of the minimum purchase price
+    and of advances with regard to distillation of wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 3202/83 de la Commission du 14 novembre 1983 modifiant
+    les règlements (CEE) no 2373/83 et (CEE) no 2540/83 en ce qui concerne le paiement
+    du prix minimal d' achat et le versement de l' avance dans le cadre de la distillation
+    des vins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3202/83 der Kommission vom 14. November 1983 zur Änderung
+    der Verordnungen (EWG) Nr. 2373/83 und (EWG) Nr. 2540/83 hinsichtlich der Zahlung
+    der Mindestankaufspreise und der Vorschüsse im Rahmen der Weindestillation
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3202/83 af 14. november 1983 om ændring
+    af forordning (EØF) nr. 2373/83 og (EØF) nr. 2540/83 for så vidt angår udbetaling
+    af minimumsopkøbsprisen og af forskud i forbindelse med vindestillation
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3202/83 της Επιτροπής
+    της 14ης Νοεμβρίου 1983 που τροποποιεί τους κανονισμούς
+    (ΕΟΚ) αριθ. 2373/83 και (ΕΟΚ) αριθ. 2540/83 όσον αφορά
+    την πληρωμή της ελάχιστης τιμής αγοράς και
+    των προκαταβολών στο πλαίσιο της απόσταξης
+    οίνου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3202/83 della Commissione del 14 novembre 1983 che
+    modifica i regolamenti (CEE) n. 2373/83 e (CEE) n. 2540/83 per quanto concerne
+    il pagamento del prezzo minimo d' acquisto, nonché il versamento dell' anticipo
+    nell' ambito della distillazione dei vini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3202/83 van de Commissie van 14 november 1983 tot
+    wijziging van de Verordeningen (EEG) nr. 2373/83 en (EEG) nr. 2540/83 met betrekking
+    tot de betaling van de minimumaankoopprijs en de uitkering van het voorschot in
+    het kader van de distillatie van wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R3202
+docidentifier:
+- content: EU Regulation 3202/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R3202
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/3202/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-11-14'
+- type: implemented
+  at: '1983-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R2373
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R2540
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

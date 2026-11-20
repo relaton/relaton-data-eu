@@ -1,0 +1,104 @@
+---
+id: EURegulation18901980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1890/80 of 16 July 1980 amending Regulation
+    (EEC) No 728/80 applying quality class III to certain fruit for the 1980/81 marketing
+    year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1890/80 de la Commission, du 16 juillet 1980, modifiant
+    le règlement (CEE) n° 728/80 portant application des catégories de qualité
+    III à certains fruits de la campagne 1980/1981
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1890/80 der Kommission vom 16. Juli 1980 zur Änderung
+    der Verordnung (EWG) Nr. 728/80 zur Anwendung der Güteklasse III auf bestimmtes
+    Obst im Wirtschaftsjahr 1980/81
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1890/80 af 16. juli 1980 om ændring
+    af forordning (EØF) nr. 728/80 om anvendelse af kvalitetsklasse III for visse
+    frugtsorter i høståret 1980/81
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1890/80 τής Επιτροπής
+    τής 16ης Ιουλίου 1980 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 728/80 «περί εφαρμογής τών ποιοτικών
+    κατηγοριών ΙΙΙ σέ ορισμένα φρούτα τής περιόδου
+    1980/81»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1890/80 della Commissione, del 16 luglio 1980, recante
+    modifica del regolamento (CEE) n. 728/80 che applica le categorie di qualità
+    III a taluni prodotti frutticoli della campagna 1980/1981
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1890/80 van de Commissie van 16 juli 1980 tot wijziging
+    van Verordening (EEG) nr. 728/80 tot toepassing van de kwaliteitsklassen ,,III'
+    ' voor bepaalde soorten fruit voor het verkoopseizoen 1980/1981
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1890
+docidentifier:
+- content: EU Regulation 1890/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1890
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1890/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-07-16'
+- type: implemented
+  at: '1980-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R0728
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

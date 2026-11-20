@@ -1,0 +1,78 @@
+---
+id: EURegulation28881971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2888/71 de la Commission, du 30 décembre 1971, relatif
+    à la fixation des montants compensatoires valables à partir du 3 janvier 1972
+    dans le secteur agricole à la suite de l'élargissement temporaire des marges
+    de fluctuation des monnaies des États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2888/71 der Kommission vom 30. Dezember 1971 über
+    die Festsetzung der ab 3. Januar 1972 geltenden Ausgleichsbeträge in der Landwirtschaft
+    im Anschluß an die vorübergehende Erweiterung der Bandbreiten der Währungen
+    der Mitgliedstaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2888/71 della Commissione, del 30 dicembre 1971, relativo
+    alla fissazione degli importi di compensazione valevoli a decorrere dal 3 gennaio
+    1972 nel settore agricolo in seguito all'ampliamento temporaneo dei margini di
+    fluttuazione delle monete degli Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2888/71 van de Commissie van 30 december 1971 houdende
+    vaststelling van de compenserende bedragen geldig vanaf 3 januari 1972 in de landbouwsector
+    naar aanleiding van de tijdelijke verruiming van de fluctuatiemarges van de valuta's
+    van de Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2888
+docidentifier:
+- content: EU Regulation 2888/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2888
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2888/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-30'
+- type: implemented
+  at: '1971-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation24971975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2497/75 of the Commission of 30 September 1975 amending
+    Commission Regulation No 1311/75 of 23 May 1975 for the 1975/76 marketing year
+    fixing the reference price for lemons
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2497/75 de la Commission, du 30 septembre 1975, modifiant
+    le règlement (CEE) n° 1311/75 fixant les prix de référence des citrons pour
+    la campagne 1975/1976
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2497/75 der Kommission vom 30. September 1975 zur
+    Änderung der Verordnung (EWG) Nr. 1311/75 der Kommission zur Festsetzung der
+    Referenzpreise für Zitronen für das Wirtschaftsjahr 1975/1976
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2497/75 af 30. september 1975 om ændring
+    af forordning (EØF) nr. 1311/75 om fastsættelse af referencepriser for citroner
+    for produktionsåret 1975/1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2497/75 della Commissione, del 30 settembre 1975,
+    recante modifica del regolamento (CEE) n. 1311/75, che fissa per la campagna 1975/1976
+    i prezzi di riferimento per i limoni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2497/75 van de Commissie van 30 september 1975 houdende
+    wijziging van Verordening (EEG) nr. 1311/75 van de Commissie tot vaststelling
+    van de referentieprijzen voor citroenen voor het verkoopseizoen 1975/1976
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2497
+docidentifier:
+- content: EU Regulation 2497/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2497
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2497/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-09-30'
+- type: implemented
+  at: '1975-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1311
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

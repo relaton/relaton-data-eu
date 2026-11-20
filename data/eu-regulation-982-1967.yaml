@@ -1,0 +1,69 @@
+---
+id: EURegulation9821967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 982/67/CEE de la Commission, du 12 décembre 1967, portant
+    modification du règlement n 769/67/CEE, fixant les restitutions à l'exportation
+    dans le secteur de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 982/67/EWG der Kommission vom 12. Dezember 1967 zur Änderung
+    der Verordnung Nr. 769/67/EWG zur Festsetzung der Erstattungen bei der Ausfuhr
+    auf dem Geflügelfleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 982/67/CEE della Commissione, del 12 dicembre 1967, che
+    modifica il regolamento n. 769/67/CEE che fissa le restituzioni all'esportazione
+    nel settore del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 982/67/EEG van de Commissie van 12 december 1967 tot wijziging
+    van Verordening no. 769/67/EEG houdende vaststelling van de restituties bij uitvoer
+    in de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0982
+docidentifier:
+- content: EU Regulation 982/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0982
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/982/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation19461977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1946/77 of 30 August 1977 amending Regulation
+    (EEC) No 2051/76 as regards the date for the delivery of alcohol obtained from
+    the distillation of the by-products of wine-making
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1946/77 de la Commission, du 30 août 1977, modifiant
+    le règlement (CEE) n° 2051/76 en ce qui concerne la date de livraison de l'
+    alcool provenant de la distillation des sous-produits de la vinification
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1946/77 der Kommission vom 30. August 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2051/76 in bezug auf die Frist für die Lieferung des
+    Alkohols aus der Destillation der Nebenerzeugnisse der Weinbereitung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1946/77 af 30. august 1977 om ændring
+    af forordning (EØF) nr. 2051/76 for så vidt angår datoen for levering af alkohol
+    hidrørende fra destillering af biprodukterne fra vinfremstilling
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1946/77 della Commissione, del 30 agosto 1977, che
+    modifica il regolamento (CEE) n. 2051/76 per quanto riguarda la data di consegna
+    dell' alcole ottenuto dalla distillazione dei sottoprodotti della vinificazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1946/77 van de Commissie van 30 augustus 1977 houdende
+    wijziging van Verordening (EEG) nr. 2051/76 ten aanzien van de leveringsdatum
+    voor alcohol verkregen door distillatie van de bijprodukten van de wijnbereiding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1946
+docidentifier:
+- content: EU Regulation 1946/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1946
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1946/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-08-30'
+- type: implemented
+  at: '1977-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2051
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

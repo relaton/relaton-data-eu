@@ -1,0 +1,69 @@
+---
+id: EURegulation1261966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 126/66/CEE de la Commission, du 12 septembre 1966, fixant
+    la qualité minimale à laquelle le blé tendre et le seigle doivent répondre
+    pour être considérés comme propres à la consommation humaine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 126/66/EWG der Kommission vom 12. September 1966 zur Festsetzung
+    der Mindestqualität, der Weichweizen und Roggen entsprechen müssen, um als für
+    Ernährungszwecke geeignet zu gelten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 126/66/CEE della Commissione, del 12 settembre 1966, che
+    fissa la qualità minima cui devono corrispondere il grano tenero e la segala
+    per essere considerati come adatti al consumo umano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 126/66/EEG van de Commissie van 12 september 1966 houdende
+    vaststelling van de minimumkwaliteit waaraan zachte tarwe en rogge moeten voldoen
+    om geschikt te worden geacht voor menselijke consumptie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0126
+docidentifier:
+- content: EU Regulation 126/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0126
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/126/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

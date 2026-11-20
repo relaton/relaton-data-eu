@@ -1,0 +1,81 @@
+---
+id: EURegulation361963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 36/63/CEE du Conseil du 2 avril 1963 concernant la sécurité
+    sociale des travailleurs frontaliers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 36/63/EWG des Rats vom 2. April 1963 über die Soziale Sicherheit
+    der Grenzgänger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 36/63/CEE del Consiglio del 2 aprile 1963 relativo alla
+    sicurezza sociale del lavoratori frontalieri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 36/63/EEG van de Raad van 2 april 1963 inzake de sociale
+    zekerheid van grensarbeiders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0036
+docidentifier:
+- content: EU Regulation 36/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0036
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/36/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-04-02'
+- type: implemented
+  at: '1963-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

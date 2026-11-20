@@ -1,0 +1,69 @@
+---
+id: EURegulation2251966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 225/66/CEE du Conseil, du 22 décembre 1966, portant prorogation
+    du règlement n 3/63/CEE du Conseil, relatif aux relations commerciales avec les
+    pays à commerce d'État en ce qui concerne certains produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 225/66/EWG des Rates vom 22. Dezember 1966 zur Verlängerung
+    der Geltungsdauer der Verordnung Nr. 3/63/EWG des Rates betreffend die Handelsbeziehungen
+    zu den Staatshandelsländern in bezug auf bestimmte landwirtschaftliche Erzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 225/66/CEE del Consiglio, del 22 dicembre 1966, recante
+    proroga del regolamento n. 3/63/CEE del Consiglio relativo alle relazioni commerciali
+    con i paesi a commercio di Stato per quanto concerne taluni prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 225/66/EEG van de Raad van 22 december 1966 houdende verlenging
+    van Verordening no. 3/63/EEG van de Raad inzake de handelsbetrekkingen met de
+    landen met staatshandel betreffende sommige landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0225
+docidentifier:
+- content: EU Regulation 225/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0225
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/225/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

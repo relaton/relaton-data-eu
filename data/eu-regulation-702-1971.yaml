@@ -1,0 +1,82 @@
+---
+id: EURegulation7021971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 702/71 de la Commission, du 31 mars 1971, modifiant
+    le règlement (CEE) n° 376/71, en ce qui concerne la destination de la fourniture
+    de lait écrémé en poudre à titre d'aide communautaire au programme alimentaire
+    mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 702/71 der Kommission vom 31. März 1971 zur Änderung
+    der Verordnung (EWG) Nr. 376/71 hinsichtlich des Bestimmungslandes der Lieferung
+    von Magermilchpulver als Gemeinschaftshilfe zugunsten des Welternährungsprogramms
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 702/71 della Commissione, del 31 marzo 1971, che modifica
+    il regolamento (CEE) n. 376/71 per quanto concerne la destinazione della fornitura
+    del latte scremato in polvere a titolo di aiuto comunitario al Programma alimentare
+    mondiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 702/71 van de Commissie van 31 maart 1971 houdende
+    wijziging van Verordening (EEG) nr. 376/71 betreffende de bestemming voor de levering
+    van magere-melkpoeder als gemeenschapshulp ten behoeve van het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0702
+docidentifier:
+- content: EU Regulation 702/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0702
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/702/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-31'
+- type: implemented
+  at: '1971-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0376
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

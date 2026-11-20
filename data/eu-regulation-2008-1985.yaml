@@ -1,0 +1,105 @@
+---
+id: EURegulation20081985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2008/85 of 19 July 1985 amending Regulation
+    (EEC) No 1477/85 in respect of the final date for the lodging of applications
+    for private storage aid in the pigmeat sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2008/85 de la Commission du 19 juillet 1985 modifiant
+    le règlement (CEE) no 1477/85 en ce qui concerne la date limite de dépôt des
+    demandes d' aides au stockage privé dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2008/85 der Kommission vom 19. Juli 1985 zur Änderung
+    der Verordnung (EWG) Nr. 1477/85 hinsichtlich des Endtermins für die Einreichung
+    von Anträgen auf Beihilfe für die private Lagerhaltung im Sektor Schweinefleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2008/85 af 19. juli 1985 om ændring
+    af forordning (EØF) nr. 1477/85 for så vidt angår fristen for indgivelse af
+    ansøgninger om støtte til privat oplagring for markedet for svinekød
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2008/85 της Επιτροπής
+    της 19ης Ιουλίου 1985 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 1477/85 όσον αφορά την ημερομηνία
+    λήξης της προθεσμίας για την κατάθεση των αιτήσεων
+    για ενισχύσεις στην ιδιωτική αποθεματοποίηση
+    στον τομέα του χοιρείου κρέατος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2008/85 della Commissione del 19 luglio 1985 che modifica
+    il regolamento (CEE) n. 1477/85 per quanto concerne la data limite per la presentazione
+    delle domande di aiuto all' ammasso privato nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2008/85 van de Commissie van 19 juli 1985 tot wijziging
+    van Verordening (EEG) nr. 1477/85 ten aanzien van de uiterste datum voor het indienen
+    van aanvragen om steun voor de particuliere opslag in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R2008
+docidentifier:
+- content: EU Regulation 2008/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R2008
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/2008/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-07-19'
+- type: implemented
+  at: '1985-07-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R1477
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

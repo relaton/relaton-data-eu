@@ -1,0 +1,94 @@
+---
+id: EURegulation2421976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 242/76 of 3 February 1976 amending Regulation
+    (EEC) No 320/73 for the sixth time as regards the list of representative markets
+    for adult bovine animals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 242/76 de la Commission, du 3 février 1976, portant
+    sixième modification du règlement (CEE) n° 320/73 en ce qui concerne la liste
+    des marchés représentatifs des gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 242/76 der Kommission vom 3. Februar 1976 zur sechsten
+    Änderung der Verordnung (EWG) Nr. 320/73 über die Liste der repräsentativen
+    Märkte für ausgewachsene Rinder
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 242/76 af 3. februar 1976 om sjette
+    ændring af forordning (EØF) nr. 320/73 for så vidt angår de repræsentative
+    markeder for voksent kvæg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 242/76 della Commissione, del 3 febbraio 1976, recante
+    sesta modifica del regolamento (CEE) n. 320/73 per quanto concerne l'elenco dei
+    mercati rappresentativi per i bovini adulti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 242/76 van de Commissie van 3 februari 1976 houdende
+    zesde wijziging van Verordening (EEG) nr. 320/73 met betrekking tot de lijst van
+    de representatieve markten voor volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0242
+docidentifier:
+- content: EU Regulation 242/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0242
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/242/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-03'
+- type: implemented
+  at: '1976-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

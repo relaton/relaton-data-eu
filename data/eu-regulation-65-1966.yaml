@@ -1,0 +1,65 @@
+---
+id: EURegulation651966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 65/66/CEE de la Commission, du 15 juin 1966, augmentant le
+    montant supplémentaire pour les échines et cous de volailles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 65/66/EWG der Kommission vom 15. Juni 1966 zur Erhöhung
+    des Zusatzbetrags für Rücken und Hälse von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 65/66/CEE della Commissione, del 15 giugno 1966, che aumenta
+    l'importo supplementare per i dorsi e colli di pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 65/66/EEG van de Commissie van 15 juni 1966 houdende verhoging
+    van het extra-bedrag voor ruggen en halzen van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0065
+docidentifier:
+- content: EU Regulation 65/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0065
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/65/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

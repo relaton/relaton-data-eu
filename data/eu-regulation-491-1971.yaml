@@ -1,0 +1,81 @@
+---
+id: EURegulation4911971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 491/71 de la Commission, du 8 mars 1971, modifiant
+    le règlement (CEE) n° 146/71 en ce qui concerne la destination de la fourniture
+    de lait écrémé en poudre à titre d'aide communautaire au programme alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 491/71 der Kommission vom 8. März 1971 zur Änderung
+    der Verordnung (EWG) Nr. 146/71 hinsichtlich des Bestimmungslandes der Lieferung
+    von Magermilchpulver als Gemeinschaftshilfe zugunsten des Welternährungsprogramms
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 491/71 della Commissione, dell'8 marzo 1971, che modifica
+    il regolamento (CEE) n. 146/71 per quanto concerne la destinazione della fornitura
+    del latte scremato in polvere a titolo d'aiuto comunitario al Programma alimentare
+    mondiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 491/71 van de Commissie van 8 maart 1971 tot wijziging
+    van Verordening (EEG) nr. 146/71 betreffende de bestemming van de levering van
+    magere-melkpoeder als gemeenschapshulp aan het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0491
+docidentifier:
+- content: EU Regulation 491/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0491
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/491/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-08'
+- type: implemented
+  at: '1971-03-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0146
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

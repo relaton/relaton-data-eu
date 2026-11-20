@@ -1,0 +1,74 @@
+---
+id: EURegulation8771969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 877/69 de la Commission, du 12 mai 1969, modifiant
+    le règlement (CEE) n° 836/68 relatif aux certificats d'importation et d'exportation
+    pour le sucre les betteraves à sucre et la mélasse
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 877/69 der Kommission vom 12. Mai 1969 zur Änderung
+    der Verordnung (EWG) Nr. 836/68 über die Einfuhr- und Ausfuhrlizenzen für Zucker,
+    Zuckerrüben und Melasse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 877/69 della Commissione, del 12 maggio 1969, che
+    modifica il regolamento (CEE) n. 836/68 relativo ai titoli di importazione e di
+    esportazione per lo zucchero, le barbabietole da zucchero e il melasso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 877/69 van de Commissie van 12 mei 1969 tot wijziging
+    van Verordening (EEG) nr. 836/68 met betrekking tot de invoer- en uitvoercertificaten
+    voor suiker, suikerbieten en melasse
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0877
+docidentifier:
+- content: EU Regulation 877/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0877
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/877/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-12'
+- type: implemented
+  at: '1969-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

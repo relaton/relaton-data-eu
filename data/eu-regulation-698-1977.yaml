@@ -1,0 +1,95 @@
+---
+id: EURegulation6981977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 698/77 of 30 March 1977 amending Regulation
+    (EEC) No 571/76 following the fixing of new exchange rates to be applied in France,
+    Ireland and Italy in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 698/77 de la Commission, du 30 mars 1977, modifiant
+    le règlement (CEE) n° 571/76 suite à la fixation des nouveaux taux de change
+    à appliquer pour la France, l' Irlande et l' Italie dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 698/77 der Kommission vom 30. März 1977 zur Änderung
+    der Verordnung (EWG) Nr. 571/76 im Anschluß an die Festsetzung von neuen Umrechnungskursen
+    für die Landwirtschaft in Frankreich, Irland und Italien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 698/77 af 30. marts 1977 om ændring
+    af forordning (EØF) nr. 571/76 som følge af fastsættelse af nye vekselkurser,
+    der skal anvendes inden for landbrugssektoren for Frankrigs, Irlands og Italiens
+    vedkommende
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 698/77 della Commissione, del 30 marzo 1977, che modifica
+    il regolamento (CEE) n. 571/76 in seguito alla fissazione dei nuovi tassi di cambio
+    da applicare nel settore agricolo per la Francia, l' Irlanda e l' Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 698/77 van de Commissie van 30 maart 1977 tot wijziging
+    van Verordening (EEG) nr. 571/76 naar aanleiding van de vaststelling van de nieuwe
+    voor Frankrijk, Ierland en Italië in de landbouwsector toe te passen wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0698
+docidentifier:
+- content: EU Regulation 698/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0698
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/698/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-30'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0571
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

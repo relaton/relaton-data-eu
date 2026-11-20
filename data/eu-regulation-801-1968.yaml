@@ -1,0 +1,74 @@
+---
+id: EURegulation8011968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 801/68 du Conseil, du 27 juin 1968, portant nouvelle
+    prorogation de l'application de l'article 2 et de l'article 3 sous b) du règlement
+    n° 127/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 801/68 des Rates vom 27. Juni 1968 zur erneuten Verlängerung
+    der Geltungsdauer von Artikel 2 und Artikel 3 Buchstabe b) der Verordnung Nr.
+    127/67/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 801/68 del Consiglio, del 27 giugno 1968, che proroga
+    nuovamente l'applicazione dell'articolo 2 e dell'articolo 3, lettera b), del regolamento
+    n. 127/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 801/68 van de Raad van 27 juni 1968 houdende hernieuwde
+    verlenging van de toepassing van artikel 2 en artikel 3, sub b), van Verordening
+    nr. 127/67/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0801
+docidentifier:
+- content: EU Regulation 801/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0801
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/801/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-27'
+- type: implemented
+  at: '1968-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

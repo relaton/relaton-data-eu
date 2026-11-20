@@ -1,0 +1,113 @@
+---
+id: EURegulation5571976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 557/76 of 15 March 1976 on the exchange rates
+    to be applied in agriculture and repealing Regulation (EEC) No 475/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 557/76 du Conseil, du 15 mars 1976, relatif aux taux
+    de change à appliquer dans le secteur agricole et abrogeant le règlement (CEE)
+    n° 475/75
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 557/76 des Rates vom 15. März 1976 über die in der
+    Landwirtschaft anzuwendenden Umrechnungskurse, mit der die Verordnung (EWG) Nr.
+    475/75 aufgehoben wird
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 557/76 af 15. marts 1976 om de vekselkurser,
+    der skal anvendes inden for landbrugssektoren, og om ophævelse af forordning
+    (EØF) nr. 475/75
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 557/76 τού Συμβουλίου
+    τής 15ης Μαρτίου 1976 περί τών τιμών συναλλάγματος
+    πού πρέπει νά εφαρμόζονται στό γεωργικό τομέα
+    καί περί καταργήσεως τού κανονισμού (ΕΟΚ) αριθ.
+    475/75
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 557/76 del Consiglio, del 15 marzo 1976, che stabilisce
+    i tassi di cambio da applicare nel settore agricolo ed abroga il regolamento (CEE)
+    n. 475/75
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 557/76 van de Raad van 15 maart 1976 inzake de in
+    de landbouwsector toe te passen wisselkoersen en houdende intrekking van Verordening
+    (EEG) nr. 475/75
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0557
+docidentifier:
+- content: EU Regulation 557/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0557
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/557/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-15'
+- type: implemented
+  at: '1976-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0475
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0974
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0675
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,113 @@
+---
+id: EURegulation1491980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 149/80 of 24 January 1980 amending Regulations
+    (EEC) No 1527/73 and (EEC) No 2043/75 as regards the advance fixing of export
+    refunds for poultrymeat and eggs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 149/80 de la Commission, du 24 janvier 1980, modifiant
+    le règlement (CEE) n° 1527/73 et le règlement (CEE) n° 2043/75 en ce qui concerne
+    la préfixation des restitutions à l' exportation dans les secteurs de la viande
+    de volaille et des oeufs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 149/80 der Kommission vom 24. Januar 1980 zur Änderung
+    der Verordnungen (EWG) Nr. 1527/73 und (EWG) Nr. 2043/75 hinsichtlich der Vorausfestsetzung
+    der Erstattungen bei der Ausfuhr von Geflügelfleisch und Eiern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 149/80 af 24. januar 1980 om ændring
+    af forordning (EØF) nr. 1527/73 og forordning (EØF) nr. 2043/75 for så vidt
+    angår forudfastsættelsen af eksportrestitutionerne for fjerkrækød og æg
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 149/80 της Επιτροπής,
+    της 24ης Ιανουαρίου 1980, περί τροποποίησης του
+    κανονισμού (ΕΟΚ) αριθ. 1527/73 και του κανονισμού
+    (ΕΟΚ) αριθ. 2043/75 όσον αφορά τον προκαθορισμό
+    των επιστροφών κατά την εξαγωγή στους τομείς
+    του κρέατος πουλερικών και των αβγών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 149/80 della Commissione, del 24 gennaio 1980, recante
+    modifica del regolamento (CEE) n. 1527/73 e del regolamento (CEE) n. 2043/75 per
+    quanto concerne la fissazione anticipata delle restituzioni all' esportazione
+    nei settori del pollame e delle uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 149/80 van de Commissie van 24 januari 1980 tot wijziging
+    van Verordening (EEG) nr. 1527/73 en Verordening (EEG) nr. 2043/75 met betrekking
+    tot de vaststelling vooraf van de restituties bij uitvoer in de sectoren slachtpluimvee
+    en eieren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0149
+docidentifier:
+- content: EU Regulation 149/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0149
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/149/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-01-24'
+- type: implemented
+  at: '1980-01-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1527
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2043
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

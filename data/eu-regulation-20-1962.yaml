@@ -1,0 +1,70 @@
+---
+id: EURegulation201962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 20 portant établissement graduel d'une organisation commune
+    des marchés dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 19 über die schrittweise Errichtung einer gemeinsamen Marktorganisation
+    für Getreide
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 19 relativo alla graduale attuazione di un'organizzazione
+    comune dei mercati nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 19 houdende de geleidelijke totstandbrenging van een gemeenschappelijke
+    ordening der markten in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0020
+docidentifier:
+- content: EU Regulation 20/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0020
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/20/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-04-04'
+- type: implemented
+  at: '1962-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

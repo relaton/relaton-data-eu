@@ -1,0 +1,71 @@
+---
+id: EUDecision1964698
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/698/CEE de la Commission, du 12 novembre 1964, portant octroi
+    d'un contingent tarifaire à la République fédérale d'Allemagne pour l'érythromycine
+  type: main
+- language: de
+  script: Latn
+  content: '64/698/EWG: Entscheidung der Kommission vom 12. November 1964 über die
+    Gewährung eines Zollkontingents für Erythromycin an die Bundesrepublik Deutschland'
+  type: main
+- language: it
+  script: Latn
+  content: '64/698/CEE: Decisione della Commissione del 12 novembre 1964 relativa
+    alla concessione di un contingente tariffario alla Repubblica federale di Germania
+    per l''eritromicina'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/698/EEG: Beschikking van de Commissie van 12 november 1964 houdende
+    toekenning van een tariefcontingent aan de Bondsrepubliek Duitsland voor erythromycine'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0698
+docidentifier:
+- content: EU Decision 1964/698
+  type: EU
+  primary: true
+- content: CELEX 31964D0698
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/698/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-12'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

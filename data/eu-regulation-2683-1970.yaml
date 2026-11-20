@@ -1,0 +1,94 @@
+---
+id: EURegulation26831970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2683/70 of the Commission of 29 December 1970 laying
+    down special procedures for the advance fixing of export refunds on milk and milk
+    products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2683/70 de la Commission, du 29 décembre 1970, établissant
+    des modalités particulières pour la fixation à l' avance des restitutions à
+    l' exportation dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2683/70 der Kommission vom 29. Dezember 1970 zur Festlegung
+    besonderer Vorschriften für die Vorausfestsetzung der Erstattungen bei der Ausfuhr
+    von Milch und Milcherzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2683/70 af 29. december 1970 om fastsættelse
+    af særlige regler for forudfastsættelse af eksportrestitutioner for mælk og
+    mejeriprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2683/70 della Commissione, del 29 dicembre 1970, che
+    stabilisce modalità particolari per la fissazione in anticipo delle restituzioni
+    nel settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2683/70 van de Commissie van 29 december 1970 tot
+    vastlegging van de bijzondere voorschriften voor het vooraf vaststellen van de
+    restituties bij de uitvoer van melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2683
+docidentifier:
+- content: EU Regulation 2683/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2683
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2683/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-29'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1100
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

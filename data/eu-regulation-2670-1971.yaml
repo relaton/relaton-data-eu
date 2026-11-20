@@ -1,0 +1,75 @@
+---
+id: EURegulation26701971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2670/71 de la Commission, du 15 décembre 1971, relatif
+    à la fixation de la valeur forfaitaire des produits de la pêche retirés du
+    marché pendant l'année 1972 et intervenant dans le calcul de la compensation
+    financière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2670/71 der Kommission vom 15. Dezember 1971 zur Festsetzung
+    des Pauschalwerts der aus dem Handel genommenen Fischereierzeugnisse, der zur
+    Berechnung des finanziellen Ausgleichs herangezogen wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2670/71 della Commissione, del 15 dicembre 1971, che
+    fissa il valore forfetario dei prodotti della pesca ritirati dal mercato durante
+    l'anno 1972, figurante nel calcolo della compensazione finanziaria
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2670/71 van de Commissie van 15 december 1971 betreffende
+    de vaststelling van de forfaitaire waarde van de uit de markt genomen visserijprodukten
+    voor de berekening van financiële vergoeding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2670
+docidentifier:
+- content: EU Regulation 2670/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2670
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2670/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-15'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation5881979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 588/79 of 26 March 1979 laying down for 1979
+    certain measures for the conservation and management of fishery resources applicable
+    to vessels flying the flag of Sweden
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 588/79 du Conseil, du 26 mars 1979, fixant, pour l'
+    année 1979, certaines mesures de conservation et de gestion des ressources de
+    pêche applicables aux navires battant pavillon de la Suède
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 588/79 des Rates vom 26. März 1979 zur Festlegung
+    von Maßnahmen zur Erhaltung und Bewirtschaftung der Fischbestände für Schiffe
+    unter schwedischer Flagge für 1979
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 588/79 af 26. marts 1979 om fastsættelse
+    for 1979 af visse foranstaltninger til bevarelse og forValtning af fiskeressourcerne,
+    som skal finde anvendelse på fartøjer, som fører svensk flag
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 588/79 del Consiglio, del 26 marzo 1979, che dispone
+    per il 1979 talune misure di conservazione e di gestione delle risorse di pesca
+    da applicare alle navi battenti bandiera svedese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 588/79 van de Raad van 26 maart 1979 tot vaststelling
+    voor 1979 van bepaalde maatregelen voor de instandhouding en het beheer van de
+    visbestanden welke van toepassing zijn op vaartuigen die de vlag van Zweden voeren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0588
+docidentifier:
+- content: EU Regulation 588/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0588
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/588/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-26'
+- type: implemented
+  at: '1979-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0396
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,92 @@
+---
+id: EURegulation21841978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2184/78 of 19 September 1978 amending Regulation
+    (EEC) No 265/78 as regards textile products originating in Romania
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2184/78 du Conseil, du 19 septembre 1978, modifiant
+    le règlement (CEE) n° 265/78 en ce qui concerne les produits textiles originaires
+    de Roumanie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2184/78 des Rates vom 19. September 1978 zur Änderung
+    der Verordnung (EWG) Nr. 265/78 hinsichtlich Textilwaren mit Ursprung in Rumánien
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2184/78 af 19. september 1978 om ændring
+    af forordning (EØF) nr. 265/78 for så vidt angår tekstilvarer med oprindelse
+    i Rumænien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2184/78 del Consiglio, del 19 settembre 1978, che
+    modifica il regolamento (CEE) n. 265/78 per quanto riguarda i prodotti tessili
+    originari di Romania
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2184/78 van de Raad van 19 september 1978 houdende
+    wijziging van Verordening (EEG) nr. 265/78 ten aanzien van textielprodukten van
+    oorsprong uit Roemenië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2184
+docidentifier:
+- content: EU Regulation 2184/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2184
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2184/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-09-19'
+- type: implemented
+  at: '1978-09-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R0265
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

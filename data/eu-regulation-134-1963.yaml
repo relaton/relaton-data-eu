@@ -1,0 +1,78 @@
+---
+id: EURegulation1341963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 134/63/CEE du Conseil, du 23 décembre 1963, relatif à
+    la diminution du montant des prélèvements envers les pays tiers applicables
+    au porc et à certaines découpes de porc en ce qui concerne les importations
+    effectuées durant la période du 1er au 31 janvier 1964
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 134/63/EWG des Rats vom 23. Dezember 1963 über die Verringerung
+    der Abschöpfungsbeträge gegenüber dritten Ländern für Schweine und einige
+    Teilstücke von Schweinen für Einfuhren in der Zeit vom 1. bis zum 31. Januar
+    1964
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 134/63/CEE del Consiglio del 23 dicembre 1963 relativo alla
+    diminuzione dell'ammontare dei prelievi nei confronti dei paesi terzi applicabili
+    ai suini e a taluni tagli di carni suine per le importazioni effettuate dal 1
+    al 31 gennaio 1964
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 134/63/EEG van de Raad van 23 december 1963 betreffende
+    de verlaging van het bedrag van de heffingen ten opzichte van derde landen voor
+    varkens en sommige delen van varkens voor de invoer die plaatsvindt in het tijdvak
+    van 1 tot en met 31 januari 1964
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0134
+docidentifier:
+- content: EU Regulation 134/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0134
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/134/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-23'
+- type: implemented
+  at: '1964-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

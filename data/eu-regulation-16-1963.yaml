@@ -1,0 +1,76 @@
+---
+id: EURegulation161963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 16/63/CEE du Conseil du 26 février 1963 modifiant le règlement
+    n° 55 du Conseil en ce qui concerne l'avoine épointée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 16/63/EWG des Rats vom 26. Februar 1963 zur Änderung der
+    Verordnung Nr. 55 des Rats betreffend gestutzten Hafer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 16/63/CEE del Consiglio del 26 febbraio 1963 relativo alla
+    modifica del regolamento n. 55 del Consiglio per quanto riguarda l'avena spuntata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 16/63/EEG van de Raad van 26 februari 1963 tot wijziging
+    van Verordening Nr. 55 van de Raad ten aanzien van ontpunte haver
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0016
+docidentifier:
+- content: EU Regulation 16/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0016
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/16/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-02-26'
+- type: implemented
+  at: '1963-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0055
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation2691977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 269/77 of 8 February 1977 amending Regulation
+    (EEC) No 1794/76 introducing a derogation from Regulation (EEC) No 155/71 on the
+    production refund on olive oil used in the manufacture of certain preserved foods
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 269/77 du Conseil, du 8 février 1977, modifiant le
+    règlement (CEE) n° 1794/76 dérogeant au règlement (CEE) n° 155/71 relatif
+    à la restitution à la production pour les huiles d' olive utilisées pour la
+    fabrication de certaines conserves
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 269/77 des Rates vom 8. Februar 1977 zur Änderung
+    der Verordnung (EWG) Nr. 1794/76 zur Abweichung von der Verordnung (EWG) Nr. 155/71
+    über die Erstattung bei der Erzeugung für Olivenöl zur Herstellung von bestimmten
+    Konserven
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 269/77 af 8. februar 1977 om ændring af
+    forordning (EØF) nr. 1794/76 om fravigelse fra forordning (EØF) nr. 155/71 om
+    produktionsrestitution for olivenolier, der benyttes til fremstilling af visse
+    konservesprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 269/77 del Consiglio, dell' 8 febbraio 1977, recante
+    modifica del regolamento (CEE) n. 1794/76 che deroga al regolamento (CEE) n. 155/71,
+    relativo alla restituzione alla produzione per gli oli d' oliva impiegati nella
+    fabbricazione di alcune conserve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 269/77 van de Raad van 8 februari 1977 tot wijziging
+    van Verordening (EEG) nr. 1794/76 houdende afwijking van Verordening (EEG) nr.
+    155/71 betreffende de restitutie bij de produktie voor olijfolie die wordt gebruikt
+    voor de vervaardiging van bepaalde conserven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0269
+docidentifier:
+- content: EU Regulation 269/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0269
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/269/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-08'
+- type: implemented
+  at: '1977-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1794
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

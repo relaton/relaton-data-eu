@@ -1,0 +1,79 @@
+---
+id: EURegulation921967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 92/67/CEE du Conseil, du 2 mai 1967, relatif à l'application
+    du régime d'imposition prévu à l'article 3 du règlement n° 160/66/CEE du
+    Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 92/67/EWG des Rates vom 2. Mai 1967 betreffend die Anwendung
+    der in Artikel 3 der Verordnung Nr. 160/66/EWG des Rates vorgesehenen Angabenregelung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 92/67/CEE del Consiglio, del 2 maggio 1967, relativo all'applicazione
+    del regime d'imposizione previsto all'articolo 3 del regolamento n. 160/66/CEE
+    del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 92/67/EEG van de Raad van 2 mei 1967 betreffende de toepassing
+    van de belastingregeling bedoeld in artikel 3 van Verordening Nr. 160/66/EEG van
+    de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0092
+docidentifier:
+- content: EU Regulation 92/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0092
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/92/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-02'
+- type: implemented
+  at: '1967-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0160
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

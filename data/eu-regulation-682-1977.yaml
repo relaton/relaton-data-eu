@@ -1,0 +1,104 @@
+---
+id: EURegulation6821977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 682/77 of 31 March 1977 repealing Regulations
+    (EEC) No 1062/74, (EEC) No 1603/74 and (EEC) No 1100/74 concerning certain safeguard
+    measures taken in the beef sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 682/77 de la Commission, du 31 mars 1977, abrogeant
+    les règlements (CEE) n° 1062/74, n° 1063/74 et n° 1100/74 concernant certaines
+    mesures de sauvegarde dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 682/77 der Kommission vom 31. März 1977 zur Aufhebung
+    der Verordnungen (EWG) Nr. 1062/74, (EWG) Nr. 1063/74 und (EWG) Nr.1100/74 über
+    bestimmte Schutzmaßnahmen im Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 682/77 af 31. marts 1977 om ophævelse
+    af forordning (EØF) nr. 1062/74, (EØF) nr. 1063/74 og (EØF) nr. 1100/74 om
+    visse beskyttelsesforanstaltninger inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 682/77 della Commissione, del 31 marzo 1977, che abroga
+    i regolamenti (CEE) n. 1062/74, (CEE) n. 1063/74 e (CEE) n. 1100/74, relativi
+    a talune misure di salvaguardia nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 682/77 van de Commissie van 31 maart 1977 tot intrekking
+    van de Verordeningen (EEG) nr. 1062/74, (EEG) nr. 1063/74 en (EEG) nr. 1100/74
+    betreffende bepaalde vrijwaringsmaatregelen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0682
+docidentifier:
+- content: EU Regulation 682/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0682
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/682/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-31'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1062
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1063
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1100
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

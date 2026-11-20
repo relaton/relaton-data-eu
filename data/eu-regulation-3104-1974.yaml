@@ -1,0 +1,98 @@
+---
+id: EURegulation31041974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3104/74 of the Commission of 10 December 1974 amending
+    Regulation (EEC) No 2518/74 on the measures to be taken following the all-round
+    increase with effect from 7 October 1974 of agricultural prices
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3104/74 de la Commission, du 10 décembre 1974, modifiant
+    le règlement (CEE) n° 2518/74 définissant les mesures à prendre suite au relèvement
+    général du niveau des prix dans le secteur agricole avec effet au 7 octobre
+    1974
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3104/74 der Kommission vom 10. Dezember 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2518/74 zur Festlegung der im Anschluß an die allgemeine
+    Anhebung der Agrarpreise mit Wirkung vom 7. Oktober 1974 zu treffenden Maßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3104/74 af 10. december 1974 om ændring
+    af forordning (EØF) nr. 2518/74 om bestemmelse af de foranstaltninger, der skal
+    træffes som følge af den almindelige prisstigning inden for landbrugssektoren
+    med virkning fra den 7. oktober 1974
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3104/74 della Commissione, del 10 dicembre 1974, recante
+    modifica del regolamento (CEE) n. 2518/74, che definisce le misure da adottare
+    con decorrenza dal 7 ottobre 1974 in seguito all' aumento generale del livello
+    dei prezzi nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3104/74 van de Commissie van 10 december 1974 houdende
+    wijziging van Verordening (EEG) nr. 2518/74 tot vaststelling van de maatregelen
+    die moeten worden getroffen in verband met de algemene verhoging van het prijspeil
+    in de landbouwsector per 7 oktober 1974
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3104
+docidentifier:
+- content: EU Regulation 3104/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3104
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3104/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-10'
+- type: implemented
+  at: '1974-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2518
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

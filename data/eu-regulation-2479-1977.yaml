@@ -1,0 +1,94 @@
+---
+id: EURegulation24791977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2479/77 of 8 November 1977 amending Regulation
+    (EEC) No 2366/77 laying down the interim measures for the conservation and management
+    of North Sea herring
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2479/77 du Conseil, du 8 novembre 1977, modifiant
+    le règlement (CEE) n° 2366/77 définissant les mesures intérimaires de conservation
+    et de gestion pour le hareng de la mer du Nord
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2479/77 des Rates vom 8. November 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2366/77 zur Festlegung von Übergangsmaßnahmen zur Erhaltung
+    und Bewirtschaftung der Nordseeheringsbestände
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2479/77 af 8. november 1977 om ændring af
+    forordning (EØF) nr. 2366/77 om midlertidige foranstaltninger til bevarelse og
+    forvaltning af sild i Nordsøen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2479/77 del Consiglio, dell'8 novembre 1977, che modifica
+    il regolamento (CEE) n. 2366/77 che definisce le misure interinali di conservazione
+    e di gestione per quanto riguarda le aringhe nel Mare del Nord
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2479/77 van de Raad van 8 november 1977 tot wijziging
+    van Verordening (EEG) nr. 2366/77 tot vaststelling van overgangsmaatregelen voor
+    de instandhouding en het beheer van de haringstand in de Noordzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2479
+docidentifier:
+- content: EU Regulation 2479/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2479
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2479/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-11-08'
+- type: implemented
+  at: '1977-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2366
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

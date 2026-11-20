@@ -1,0 +1,80 @@
+---
+id: EURegulation23461969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2346/69 de la Commission, du 26 novembre 1969, relatif
+    à la diminution du montant compensatoire applicable, dans le secteur de la viande
+    de porc, à certaines exportations françaises vers les pays
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2346/69 der Kommission vom 26. November 1969 über
+    die Verringerung des Ausgleichsbetrags bei bestimmten französischen Ausfuhren
+    von Erzeugnissen des Sektors Schweinefleisch nach dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2346/69 della Commissione, del 26 novembre 1969, relativo
+    alla diminuzione dell'importo di compensazione applicabile nel settore delle carni
+    suine ad alcune esportazioni francesi verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2346/69 van de Commissie van 26 november 1969 betreffende
+    de vermindering van het compenserende bedrag dat in de sector varkensvlees geldt
+    voor bepaalde Franse uitvoeren naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2346
+docidentifier:
+- content: EU Regulation 2346/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2346
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2346/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-26'
+- type: implemented
+  at: '1969-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1665
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

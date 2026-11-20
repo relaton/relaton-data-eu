@@ -1,0 +1,80 @@
+---
+id: EURegulation24361970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2436/70 du Conseil, du 30 novembre 1970, abrogeant
+    le règlement (CEE) n° 162/69 relatif au trafic de perfectionnement actif de
+    certains produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2436/70 des Rates vom 30. November 1970 zur Aufhebung
+    der Verordnung (EWG) Nr. 162/69 betreffend den aktiven Veredelungsverkehr bestimmter
+    Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2436/70 del Consiglio, del 30 novembre 1970, che abroga
+    il regolamento (CEE) n. 162/69 relativo al traffico di perfezionamento attivo
+    di alcuni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2436/70 van de Raad van 30 november 1970 tot opheffing
+    van Verordening (EEG) nr. 162/69 betreffende het actieve veredelingsverkeer in
+    bepaalde zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2436
+docidentifier:
+- content: EU Regulation 2436/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2436
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2436/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-30'
+- type: implemented
+  at: '1970-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0162
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

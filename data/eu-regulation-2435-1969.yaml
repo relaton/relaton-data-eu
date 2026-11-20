@@ -1,0 +1,74 @@
+---
+id: EURegulation24351969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2435/69 du Conseil, du 6 décembre 1969, fixant les
+    prix d'orientation, valables pendant la campagne de commercialisation 1969/1970,
+    pour les veaux et les gros bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2435/69 des Rates vom 6. Dezember 1969 über die Festsetzung
+    der für das Wirtschaftsjahr 1969/1970 gültigen Orientierungspreise für Kälber
+    und ausgewachsene Rinder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2435/69 del Consiglio, del 6 dicembre 1969, che fissa
+    i prezzi d'orientamento applicabili ai bovini adulti per la campagna di commercializzazione
+    1969/1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2435/69 van de Raad van 6 december 1969 houdende
+    vaststelling van de oriëntatieprijzen welke gedurende het verkoopseisoen 1969/1970
+    gelden voor kalveren en volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2435
+docidentifier:
+- content: EU Regulation 2435/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2435
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2435/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-06'
+- type: implemented
+  at: '1969-12-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

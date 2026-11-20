@@ -1,0 +1,96 @@
+---
+id: EURegulation27261971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2726/71 of the Council of 20 December 1971 amending
+    Regulation No 359/67/EEC on the common organisation of the market in rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2726/71 du Conseil, du 20 décembre 1971, modifiant
+    le règlement" n° 359/67/CEE portant organisation commune des marchés dans le
+    secteur du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2726/71 des Rates vom 20. Dezember 1971 zur Änderung
+    der Verordnung Nr. 359/67/EWG über die gemeinsame Marktorganisation für Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2726/71 af 20. december 1971 om ændring
+    af forordning nr. 359/67/EØF om den fælles markedsordning for ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2726/71 del Consiglio, del 20 dicembre 1971, che modifica
+    il regolamento n. 359/67/CEE relativo all' organizzazione comune del mercato nel
+    settore del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2726/71 van de Raad van 20 december 1971 houdende
+    wijziging van Verordening nr. 359/67/EEG houdende een gemeenschappelijke ordening
+    van de rijstmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2726
+docidentifier:
+- content: EU Regulation 2726/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2726
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2726/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-20'
+- type: implemented
+  at: '1971-12-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0359
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0001
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

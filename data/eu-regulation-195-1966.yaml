@@ -1,0 +1,73 @@
+---
+id: EURegulation1951966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 195/66/CEE de la Commission, du 30 novembre 1966, portant
+    prorogation du règlement n 40/66/CEE fixant le montant maximum des restitutions
+    applicables aux exportations vers les pays tiers de viande bovine congelée n'ayant
+    pas fait l'objet de mesures d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 195/66/EWG der Kommission vom 30. November 1966 betreffend
+    die Verlängerung der Verordnung Nr. 40/66/EWG über die Festsetzung der Höchstbeträge
+    der Erstattung für Ausfuhren von gefrorenem Rindfleisch, das nicht Gegenstand
+    von InterventionsmaDnahmen war, nach dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 195/66/CEE della Commissione, del 30 novembre 1966, che
+    proroga il regolamento n. 40/66/CEE che fissa l'importo massimo delle restituzioni
+    applicabili alle esportazioni verso i paesi terzi di carni bovine congelate che
+    non sono state oggetto di misure d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 195/66/EEG van de Commissie van 30 november 1966 met betrekking
+    tot verlenging van Verordening no. 40/66/EEG houdende vaststelling van het maximumbedrag
+    van de restitutie van toepassing op de uitvoer naar derde landen van bevroren
+    rundvlees dat niet van interventiemaatregelen afkomstig is
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0195
+docidentifier:
+- content: EU Regulation 195/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0195
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/195/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

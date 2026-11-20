@@ -1,0 +1,72 @@
+---
+id: EURegulation1771966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 177/66/CEE de la Commission, du 7 novembre 1966, relatif
+    à la distinction entre les différentes huiles d'olive ayant subi un processus
+    de raffinage
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 177/66/EWG der Kommission vom 7. November 1966 zur Unterscheidung
+    der verschiedenen raffinierten Olivenöle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 177/66/CEE della Commissione, del 7 novembre 1966, relativo
+    alla distinzione fra i diversi oli d'oliva che hanno subito un processo di raffinazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 177/66/EEG van de Commissie van 7 november 1966 met betrekking
+    tot de onderscheiding van verschillende soorten olijfolie welke aan een raffinageproces
+    onderworpen is geweest
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0177
+docidentifier:
+- content: EU Regulation 177/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0177
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/177/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-07'
+- type: implemented
+  at: '1966-11-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

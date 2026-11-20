@@ -1,0 +1,91 @@
+---
+id: EURegulation28551973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2855/73 of the Commission of 19 October 1973 repealing
+    protective measures applicable to exports of rice and broken rice from the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2855/73 de la Commission, du 19 octobre 1973, abrogeant
+    les mesures de sauvegarde applicables à l'exportation de riz et de brisures de
+    la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2855/73 der Kommission vom 19. Oktober 1973 zur Aufhebung
+    der Schutzmaßnahmen bei der Ausfuhr von Reis und Bruchreis aus der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2855/73 af 19. oktober 1973 om ophævelse
+    af beskyttelsesforanstaltninger ved udførsel af ris og brudris fra Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2855/73 della Commissione, del 19 ottobre 1973, che
+    abroga le misure di salvaguardia applicabili all'esportazione di riso e di rotture
+    di riso della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2855/73 van de Commissie van 19 oktober 1973 houdende
+    intrekking van de vrijwaringsmaatregelen welke gelden bij de uitvoer van rijst
+    en breukrijst uit de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2855
+docidentifier:
+- content: EU Regulation 2855/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2855
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2855/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-19'
+- type: implemented
+  at: '1973-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1405
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EURegulation3491979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 349/79 of 5 February 1979 on the distillation
+    of the by-products of wine making
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 349/79 du Conseil, du 5 février 1979, relatif à
+    la distillation des sous-produits de la vinification
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 349/79 des Rates vom 5. Februar 1979 über die Destillation
+    der Nebenerzeugnisse der Weinbereitung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 349/79 af 5. februar 1979 om destillation
+    af biprodukter fra vinfremstilling
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 349/79 τού Συμβουλίου
+    τής 5ης Φεβρουαρίου 1979 περί αποστάξεως τών
+    υποπροϊόντων οινοποιήσεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 349/79 del Consiglio, del 5 febbraio 1979, relativo
+    alla distillazione dei sottoprodotti della vinificazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 349/79 van de Raad van 5 februari 1979 betreffende
+    de distillatie van de bijprodukten van de wijnbereiding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0349
+docidentifier:
+- content: EU Regulation 349/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0349
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/349/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-02-05'
+- type: implemented
+  at: '1979-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1930
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

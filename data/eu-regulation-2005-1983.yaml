@@ -1,0 +1,111 @@
+---
+id: EURegulation20051983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2005/83 of 18 July 1983 amending, as regards
+    lemons, Annex II to Regulation (EEC) No 1219/83 fixing certain prices and other
+    amounts in the fruit and vegetables sector for the 1983/84 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2005/83 du Conseil du 18 juillet 1983 modifiant, en
+    ce qui concerne les citrons, l' annexe II du règlement (CEE) no 1219/83 fixant,
+    pour la campagne 1983/1984, certains prix et autres montants applicables dans
+    le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2005/83 des Rates vom 18. Juli 1983 zur Änderung
+    des Anhangs II der Verordnung (EWG) Nr. 1219/83 zur Festsetzung von Preisen und
+    anderen Beträgen im Obst- und Gemüsesektor für das Wirtschaftsjahr 1983/84
+    hinsichtlich Zitronen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2005/83 af 18. juli 1983 om ændring for
+    så vidt angår citroner af bilag II til forordning (EØF) nr. 1219/83 om fastsættelse
+    af visse priser og andre beløb, der skal anvendes for frugt og grønsager i produktionsåret
+    1983/1984
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2005/83 του Συμβουλίου
+    της 18ης Ιουλίου 1983 για την τροποποίηση, όσον
+    αφορά τα λεμόνια, του παραρτήματος ΙΙ του κανονισμού
+    (ΕΟΚ) αριθ. 1219/83 περί καθορισμού ορισμένων τιμών
+    και άλλων ποσών που εφαρμόζονται στον τομέα
+    των οπωροκηπευτικών για την περίοδο εμπορίας
+    1983/84
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2005/83 del Consiglio del 18 luglio 1983 che modifica,
+    per quanto riguarda i limoni, l' allegato II del regolamento (CEE) n. 1219/83
+    che fissa taluni prezzi e altri importi applicabili nel settore degli ortofrutticoli
+    per la campagna 1983/1984
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2005/83 van de Raad van 18 juli 1983 houdende wijziging,
+    ten aanzien van citroenen, van bijlage II van Verordening (EEG) nr. 1219/83 tot
+    vaststelling van bepaalde in de sector groenten en fruit toe te passen prijzen
+    en andere bedragen voor het verkoopseizoen 1983/1984
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R2005
+docidentifier:
+- content: EU Regulation 2005/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R2005
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/2005/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-07-18'
+- type: implemented
+  at: '1983-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R1219
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

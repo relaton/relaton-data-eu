@@ -1,0 +1,69 @@
+---
+id: EURegulation5861971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 586/71 de la Commission, du 19 mars 1971, modifiant
+    les taux des restitutions applicables à certains produits laitiers exportés
+    sous forme de marchandises ne relevant pas de l'annexe II du traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 586/71 der Kommission vom 19. März 1971 zur Änderung
+    der Erstattungssätze bei der Ausfuhr bestimmter Milcherzeugnisse in Form von
+    nicht unter Anhang II des Vertrages fallenden Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 586/71 della Commissione, del 19 marzo 1971, che modifica
+    i tassi delle restituzioni applicabili a taluni prodotti lattiero-caseari esportati
+    sotto forma di merci non comprese nell'allegato II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 586/71 van de Commissie van 19 maart 1971 houdende
+    wijziging van de restitutiebedragen voor bepaalde zuivelprodukten uitgevoerd in
+    de vorm van niet in bijlage II van het Verdrag vermelde goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0586
+docidentifier:
+- content: EU Regulation 586/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0586
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/586/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

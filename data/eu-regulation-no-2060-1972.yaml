@@ -1,0 +1,78 @@
+---
+id: EURegulationNo20601972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2060/72 de la Commission, du 26 septembre 1972, déterminant
+    les montants des éléments mobiles et les droits additionnels applicables, pendant
+    la quatrième trimestre de l'année 1972, à l'importation dans la Communauté
+    des marchandises relevant du règlement (CEE) n° 1059/69 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2060/72 der Kommission vom 26. September 1972 zur
+    Festsetzung der Höhe der im vierten Vierteljahr 1972 bei der Einfuhr der unter
+    die Verordnung (EWG) Nr. 1059/69 des Rates fallenden Waren in die Gemeinschaft
+    anwendbaren beweglichen Teilbeträge und Zusatzzölle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2060/72 della Commissione, del 26 settembre 1972,
+    che determina gli importi degli elementi mobili e i dazi addizionali applicabili
+    durante il quarto trimestre 1972 all'importazione nella Comunità delle merci
+    cui si applica il regolamento (CEE) n. 1059/69 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2060/72 van de Commissie van 26 september 1972 tot
+    vaststelling van de bedragen der gedurende het vierde kwartaal van 1972 bij invoer
+    in de Gemeenschap van onder Verordening (EEG) nr. 1059/69 van de Raad vallende
+    goederen toe te passen variabele elementen en aanvullende invoerrechten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2060
+docidentifier:
+- content: EU Regulation No 2060/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2060
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2060/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-26'
+- type: implemented
+  at: '1972-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

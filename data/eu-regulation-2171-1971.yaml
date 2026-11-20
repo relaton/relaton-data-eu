@@ -1,0 +1,89 @@
+---
+id: EURegulation21711971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2171/71 de la Commission, du 11 octobre 1971, prorogeant
+    le délai prévu à l'article 31 du règlement (CEE) n° 1371/71 de la Commission,
+    du 30 juin 1971, relatif à la définition de la notion de produits originaires
+    pour l'application des préférences tarifaires octroyées par la Communauté
+    économique européenne à certains produits de pays en voie de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2171/71 der Kommission vom 11. Oktober 1971 zur Verlängerung
+    des Artikels 31 der Verordnung (EWG) Nr. 1371/71 der Kommission vom 30. Juni 1971
+    über die Begriffsbestimmung des Warenursprungs bei der Anwendung der von der
+    Europäischen Wirtschaftsgemeinschaft für bestimmte Waren aus Entwicklungsländern
+    gewährten Zollpräferenzen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2171/71 della Commissione, dell'11 ottobre 1971, che
+    proroga il periodo di cui all'articolo 31 del regolamento (CEE) n. 1371/71 della
+    Commissione, del 30 giugno 1971, relativo alla definizione della nozione di prodotti
+    originari per l'applicazione delle preferenze tariffarie accordate dalla Comunità
+    economica europea a taluni prodotti di paesi in via di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2171/71 van de Commissie van 11 oktober 1971 betreffende
+    de verlenging van de termijn bedoeld in artikel 31 van Verordening (EEG) nr. 1371/71
+    van de Commissie van 30 juni 1971 betreffende de definitie van het begrip "produkten
+    van oorsprong" voor de toepassing van tariefpreferenties die door de Europese
+    Economische Gemeenschap voor bepaalde produkten uit ontwikkelingslanden worden
+    verleend
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2171
+docidentifier:
+- content: EU Regulation 2171/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2171
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2171/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-11'
+- type: implemented
+  at: '1971-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1371
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

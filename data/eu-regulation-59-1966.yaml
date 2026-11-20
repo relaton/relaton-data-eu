@@ -1,0 +1,73 @@
+---
+id: EURegulation591966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 59/66/CEE de la Commission, du 2 juin 1966, relatif au calcul
+    des prélèvements et des montants maxima des restitutions applicables à l'exportation
+    de certains produits laitiers vers les États membres et portant abrogation du
+    règlement n 149/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 59/66/EWG der Kommission vom 2. Juni 1966 zur Errechnung
+    der Abschöpfungsbeträge und der Höchstbeträge der Erstattung bei der Ausfuhr
+    nach Mitgliedstaaten für bestimmte Milcherzeugnisse mit abgeleiteter Abschöpfung
+    sowie zur Aufhebung der Verordnung Nr. 149/ 64/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 59/66/CEE della Commissione, del 2 giugno 1966, relativo
+    al calcolo dei prelievi e degli importi massimi della restituzione all'esportazione
+    verso gli Stati membri per alcuni prodotti lattiero-caseari con prelievo derivato,
+    nonché all'abrogazione del regolamento n. 149/64/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 59/66/EEG van de Commissie van 2 juni 1966 betreffende
+    de berekening van de heffingen en de maximumbedragen van de restitutie bij uitvoer
+    van bepaalde zuivelprodukten met afgeleide heffing naar Lid-Staten alsmede houdende
+    opheffing van Verordening no. 149/64/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0059
+docidentifier:
+- content: EU Regulation 59/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0059
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/59/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

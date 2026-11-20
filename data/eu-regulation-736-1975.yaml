@@ -1,0 +1,101 @@
+---
+id: EURegulation7361975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 736/75 of the Commission of 19 March 1975 amending
+    Regulation (EEC) No 2865/73 as regards in particular the lists of agencies and
+    laboratories which are empowered to issue the document accompanying wines for
+    direct human consumption imported from third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 736/75 de la Commission, du 19 mars 1975, modifiant
+    le règlement (CEE) n° 2865/73 en ce qui concerne notamment les listes des organismes
+    et des laboratoires habilités à établir le document accompagnant les vins importés
+    des pays tiers destinés à la consommation humaine directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 736/75 der Kommission vom 19. März 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2865/73 insbesondere in bezug auf die Listen der Stellen
+    und Laboratorien, die zur Ausstellung des Begleitpapiers für aus Drittländern
+    eingeführten und zum unmittelbaren menschlichen Verbrauch bestimmten Wein befugt
+    sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 736/75 af 19. marts 1975 om ændring
+    af forordning (EØF) nr. 2865/73 særlig for så vidt angår listerne over de
+    organer og laboratorier, som er berettigede til at udstede den attest, der skal
+    ledsage vin, der fra tredjelande er indført til direkte menneskeligt forbrug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 736/75 della Commissione, del 19 marzo 1975, che modifica
+    il regolamento (CEE) n. 2865/73 per quanto riguarda, in particolare, gli elenchi
+    degli organismi e dei laboratori abilitati ad emettere il documento che accompagna
+    i vini importati in provenienza dai paesi terzi, destinati al consumo umano diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 736/75 van de Commissie van 19 maart 1975 tot wijziging
+    van Verordening (EEG) nr. 2865/73 met name ten aanzien van de lijsten der instanties
+    en laboratoria die bevoegd zijn om het document op te stellen dat uit derde landen
+    ingevoerde wijn bestemd voor rechtstreekse menselijke consumptie vergezelt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0736
+docidentifier:
+- content: EU Regulation 736/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0736
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/736/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-19'
+- type: implemented
+  at: '1975-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2865
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

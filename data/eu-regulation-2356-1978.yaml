@@ -1,0 +1,100 @@
+---
+id: EURegulation23561978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2356/78 of 9 October 1978 providing for certain
+    technical adjustments to Regulation (EEC) No 1850/78 laying down certain measures
+    for the conservation and management of fishery resources applicable to vessels
+    flying the flag of Sweden
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2356/78 du Conseil, du 9 octobre 1978, prévoyant
+    certaines adaptations techniques du règlement (CEE) n° 1850/78 fixant certaines
+    mesures de conservation et de gestion des ressources de pêche applicables aux
+    navires battant pavillon de la Suède
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2356/78 des Rates vom 9. Oktober 1978 über einige
+    technische Anpassungen der Verordnung (EWG) Nr. 1850/78 zur Festlegung von Maßnahmen
+    zur Erhaltung und Bewirtschaftung der Fischbestánde, die fúr Schiffe gelten,
+    die die Flagge Schwedens fúhren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2356/78 af 9. oktober 1978 om visse tekniske
+    tilpasninger i forordning (EØF) nr. 1850/78 om fastsættelse af en række foranstaltninger
+    til bevarelse og forvaltning af fiskeressourcerne, som skal finde anvendelse på
+    fartøjer, som fører svensk flag
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2356/78 del Consiglio, del 9 ottobre 1978, recante
+    alcuni adattamenti di carattere tecnico al regolamento (CEE) n. 1850/78, che dispone
+    talune misure di conservazione e di gestione delle risorse di pesca, da applicare
+    alle navi battenti bandiera della Svezia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2356/78 van de Raad van 9 oktober 1978 houdende vaststelling
+    van bepaalde technische aanpassingen van Verordening (EEG) nr. 1850/78 tot vaststelling
+    van bepaalde maatregelen voor de instandhouding en het beheer van de visbestanden,
+    van toepassing op vaartuigen die de vlag van Zweden voeren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2356
+docidentifier:
+- content: EU Regulation 2356/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2356
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2356/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-09'
+- type: implemented
+  at: '1978-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1850
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

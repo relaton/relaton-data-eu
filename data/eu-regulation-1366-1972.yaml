@@ -1,0 +1,70 @@
+---
+id: EURegulation13661972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1366/72 de la Commission, du 29 juin 1972, fixant le
+    coefficient d'adaptation à appliquer au cours des tomates de catégorie II en
+    vue du calcul du prix d'entrée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1366/72 der Kommission vom 29. Juni 1972 über die
+    Festsetzung eines Berichtigungskoeffizienten, der bei der Berechnung des Einfuhrpreises
+    auf die Notierungen von Tomaten der Güteklasse II anzuwenden ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1366/72 della Commissione, del 29 giugno 1972, che
+    fissa un coefficiente di adattamento da applicare ai corsi dei pomodori di categoria
+    II per il calcolo del prezzo d'entrata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1366/72 van de Commissie van 29 juni 1972 houdende
+    vaststelling van een aanpassingscoëfficiënt die op de prijzen van tomaten van
+    kwaliteitsklasse II moet worden toegepast met het oog op de berekening van de
+    invoerprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1366
+docidentifier:
+- content: EU Regulation 1366/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1366
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1366/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

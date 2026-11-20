@@ -1,0 +1,73 @@
+---
+id: EURegulation1701966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 170/66/CEE du Conseil, du 27 octobre 1966, concernant les
+    majorations des prélèvements applicables dans le secteur de la viande bovine
+    par la république fédérale d'Allemagne, le royaume de Belgique et la République
+    française à certaines importations en provenance des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 170/66/EWG des Rates vom 27. Oktober 1966 betreffend die
+    Erhöhung der Abschöpfungen, die von der Bundesrepublik Deutschland, vom Königreich
+    Belgien und von der Französischen Republik auf bestimmte Rinder- und Rindfleischeinfuhren
+    aus dritten. Ländern erhoben werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 170/66/CEE del Consiglio, del 27 ottobre 1966, relativo
+    alle maggiorazioni dei prelievi applicabili nel settore delle carni bovine dalla
+    Repubblica federale di Germania, dal Regno del Belgio e dalla Repubblica francese
+    a talune importazioni in provenienza dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 170/66/EEG van de Raad van 27 oktober 1966 betreffende
+    de verhogingen van de heffingen in de sector rundvlees op bepaalde invoeren in
+    de Bondsrepubliek Duitsland, het Koninkrijk België en de Franse Republiek uit
+    derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0170
+docidentifier:
+- content: EU Regulation 170/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0170
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/170/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

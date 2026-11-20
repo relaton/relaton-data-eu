@@ -1,0 +1,99 @@
+---
+id: EURegulation3741974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 374/74 of the Commission of 13 February 1974 amending
+    Regulation (EEC) No 1769/72 drawing up accompanying documents and determining
+    the obligations of wine producers and traders other than retailers
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 374/74 de la Commission, du 13 février 1974, modifiant
+    le règlement (CEE) n° 1769/72 établissant les documents d'accompagnement et
+    relatif aux obligations des producteurs et des commerçants autres que les détaillants
+    dans le secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 374/74 der Kommission vom 13. Februar 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1769/72 zur Ausstellung von Begleitdokumenten und zur
+    Festlegung der Pflichten der Erzeuger und Händler außer Einzelhändlern in der
+    Weinwirtschaft
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 374/74 af 13. februar 1974 om ændring
+    af forordning (EØF) nr. 1769/72 om udstedelse af ledsagedokumenter og om fastlæggelse
+    af de forpligtelser, der inden for vinsektoren påhviler producent og forhandler,
+    undtagen detailhandler
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 374/74 della Commissione, del 13 febbraio 1974, che
+    modifica il regolamento (CEE) n. 1769/72 che stabilisce nel settore vitivinicolo
+    i documenti di accompagnamento e gli obblighi dei produttori e dei commercianti
+    diversi dai rivenditori al minuto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 374/74 van de Commissie van 13 februari 1974 houdende
+    wijziging van Verordening (EEG) nr. 1769/72 tot invoering van geleidedocumenten
+    en met betrekking tot de verplichtingen van producenten en handelaren, met uitzondering
+    van kleinhandelaren, in de wijnsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0374
+docidentifier:
+- content: EU Regulation 374/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0374
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/374/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-02-13'
+- type: implemented
+  at: '1974-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1769
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

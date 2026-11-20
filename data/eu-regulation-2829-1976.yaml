@@ -1,0 +1,126 @@
+---
+id: EURegulation28291976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2829/76 of 23 November 1976 amending Regulation
+    (EEC) No 816/70 laying down additional provisions for the common organization
+    of the market in wine, and Regulation (EEC) No 1160/76 amending that Regulation,
+    as well as Regulation (EEC) No 1164/76 amending Regulation (EEC) No 865/68 on
+    the common organization of the market in products processed from fruit and vegetables,
+    and Regulation (EEC) No 950/68 on the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2829/76 du Conseil, du 23 novembre 1976, modifiant
+    le règlement (CEE) n° 816/70 portant dispositions complémentaires en matière
+    d' organisation commune du marché viti-vinicole et le règlement (CEE) n° 1160/76
+    qui le modifie, ainsi que le règlement (CEE) n° 1164/76 modifiant le règlement
+    (CEE) n° 865/68 portant organisation commune des marchés dans le secteur des
+    produits transformés à base de fruits et légumes, et le règlement (CEE) n°
+    950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2829/76 des Rates vom 23. November 1976 zur Änderung
+    der Verordnung (EWG) Nr. 816/70 zur Festlegung ergänzender Vorschriften für
+    die gemeinsame Marktorganisation für Wein und der Verordnung (EWG) Nr. 1160/76,
+    durch die diese Verordnung geändert wird, sowie der Verordnung (EWG) Nr. 1164/76
+    zur Änderung der Verordnung (EWG) Nr. 865/68 über die gemeinsame Marktorganisation
+    für Verarbeitungserzeugnisse aus Obst und Gemüse und der Verordnung (EWG) Nr.
+    950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2829/76 af 23. november 1976 om ændring
+    af forordning (EØF) nr. 816/70 om supplerende regler for den fælles markedsordning
+    for vin, og forordning (EØF) nr. 1160/76, som ændrer den, samt forordning (EØF)
+    nr. 1164/76, som ændrer forordning (EØF) nr. 865/68, om den fælles markedsordning
+    for produkter forarbejdet på basis af frugt og grønsager og forordning (EØF)
+    nr. 950/68 om den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2829/76 del Consiglio, del 23 novembre 1976, che modifica
+    il regolamento (CEE) n. 816/70 relativo a disposizioni complementari in materia
+    di organizzazione comune del mercato vitivinicolo e il regolamento (CEE) n. 1160/76
+    che lo modifica, nonché il regolamento (CEE) n. 1164/76, che modifica il regolamento
+    (CEE) n. 865/68 relativo all' organizzazione comune dei mercati nel settore dei
+    prodotti trasformati a base di ortofrutticoli, e il regolamento (CEE) n. 950/68
+    relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2829/76 van de Raad van 23 november 1976 tot wijziging
+    van Verordening (EEG) nr. 816/70 houdende aanvullende bepalingen inzake de gemeenschappelijke
+    ordening van de wijnmarkt en van Verordening (EEG) nr. 1160/76 waarbij voornoemde
+    verordening is gewijzigd, van Verordening (EEG) nr. 1164/76 tot wijziging van
+    Verordening (EEG) nr. 865/68 houdende een gemeenschappelijke ordening der markten
+    in de sector van op basis van groenten en fruit verwerkte produkten, en van Verordening
+    (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2829
+docidentifier:
+- content: EU Regulation 2829/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2829
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2829/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-23'
+- type: implemented
+  at: '1976-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1160
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1164
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

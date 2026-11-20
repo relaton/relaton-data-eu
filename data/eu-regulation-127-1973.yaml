@@ -1,0 +1,99 @@
+---
+id: EURegulation1271973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 127/73 of the Commission of 29 December 1972 amending
+    Regulation (EEC) No 687/72 fixing the minimum prices for exports to third countries
+    of corms, bulbs and tubers of begonias, dahlias, gladioli, sinningias and the
+    lilium species
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 127/73 de la Commission, du 29 décembre 1972, portant
+    modification du règlement (CEE) n 687/72 fixant les prix minima à l'exportation
+    vers les pays tiers de tubercules de bégonias, dahlias, glaïeuls, sinningias
+    et de bulbes de lilium
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 127/73 der Kommission vom 29. Dezember 1972 zur Änderung
+    der Verordnung (EWG) Nr. 687/72 zur Festsetzung der Mindestpreise bei der Ausfuhr
+    von Begonien-, Dahlien-, Gladiolen, und Sinningiaknollen sowie Lilienzwiebeln
+    nach Drittländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 127/73 af 29. december 1972 om ændring
+    af forordning (EØF) nr. 687/72 om fastsættelse af mindstepriser ved eksport
+    af begonie-, georgine, gladiolus- og singingiaknolde samt liljeløg til tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 127/73 della Commissione, del 29 dicembre 1972, recante
+    modifica del regolamento (CEE) n. 687/72 che fissa i prezzi minimi all'esportazione
+    verso i paesi terzi di tuberi di begonia, dahlia, gladioli, sinningias e di bulbi
+    di lilium
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 127/73 van de Commissie van 29 december 1972 tot
+    wijziging van Verordening (EEG) nr. 687/72 houdende vaststelling van de minimumprijzen
+    bij de uitvoer naar derde landen van knollen van begonia's, dahlia's, gladiolen
+    en sinningia's alsmede bollen van lelies
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0127
+docidentifier:
+- content: EU Regulation 127/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0127
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/127/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-29'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0687
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

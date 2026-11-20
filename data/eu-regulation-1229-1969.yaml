@@ -1,0 +1,106 @@
+---
+id: EURegulation12291969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation No 1229/69/EEC of 30 June 1969 modifying Regulation
+    No 23 on the progressive establishment of a common organisation of the market
+    in fruit and vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1229/69 du Conseil, du 30 juin 1969, modifiant le
+    règlement n° 23 portant établissement graduel d'une organisation commune des
+    marchés dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG ( EWG ) NR. 1229/69 DES RATES VOM 30. JUNI 1969 ZUR AENDERUNG
+    DER VERORDNUNG NR. 23 UEBER DIE SCHRITTWEISE ERRICHTUNG EINER GEMEINSAMEN MARKTORGANISATION
+    FUER OBST UND GEMUESE
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1229/69 του Συμβουλίου,
+    της 30ής Ιουνίου 1969, περί τροποποίησης του κανονισμού
+    αριθ. 23 με την οποία καθιερώνεται σταδιακά
+    κοινή οργάνωση της αγοράς στον τομέα των οπωροκηπευτικών
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO ( CEE ) N. 1229/69 DEL CONSIGLIO, DEL 30 GIUGNO 1969, CHE MODIFICA
+    IL REGOLAMENTO N. 23 RELATIVO ALLA GRADUALE ATTUAZIONE DI UN' ORGANIZZAZIONE COMUNE
+    DEI MERCATI NEL SETTORE DEGLI ORTOFRUTTICOLI
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING ( EEG ) NR. 1229/69 VAN DE RAAD VAN 30 JUNI 1969 HOUDENDE WIJZIGING
+    VAN VERORDENING NR. 23 HOUDENDE DE GELEIDELIJKE TOTSTANDBRENGING VAN EEN GEMEENSCHAPPELIJKE
+    ORDENING DER MARKTEN IN DE SECTOR GROENTEN EN FRUIT
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1229
+docidentifier:
+- content: EU Regulation 1229/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1229
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1229/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-30'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0060
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0023
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1040
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

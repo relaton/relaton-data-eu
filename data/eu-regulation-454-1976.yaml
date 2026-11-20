@@ -1,0 +1,89 @@
+---
+id: EURegulation4541976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 454/76 of 27 February 1976 amending Regulation
+    (EEC) No 79/75 in respect of the sale of boned beef
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 454/76 de la Commission, du 27 février 1976, modifiant
+    le règlement (CEE) n° 79/75 concernant la vente de viandes bovines désossées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 454/76 der Kommission vom 27. Februar 1976 zur Änderung
+    der Verordnung (EWG) Nr. 79/75 betreffend den Verkauf von entbeintem Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 454/76 af 27. februar 1976 om ændring
+    af forordning (EØF) nr. 79/75 om salg af udbenet oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 454/76 della Commissione, del 27 febbraio 1976, che
+    modifica il regolamento (CEE) n. 79/75 relativo alla vendita di carni bovine disossate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 454/76 van de Commissie van 27 februari 1976 tot
+    wijziging van Verordening (EEG) nr. 79/75 betreffende de verkoop van rundvlees
+    zonder been
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0454
+docidentifier:
+- content: EU Regulation 454/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0454
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/454/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-27'
+- type: implemented
+  at: '1976-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0079
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

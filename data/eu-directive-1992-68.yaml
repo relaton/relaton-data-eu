@@ -1,0 +1,109 @@
+---
+id: EUDirective199268
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 92/68/EEC of 20 July 1992 amending Directive 90/684/EEC
+    on aid to shipbuilding
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 92/68/CEE du Conseil du 20 juillet 1992 modifiant la directive
+    90/684/CEE concernant les aides à la construction navale
+  type: main
+- language: de
+  script: Latn
+  content: 'RICHTLINIE 92/68/EWG DES RATES vom 20. Juli 1992 zur Änderung der Richtlinie
+    90/684/EWG über Beihilfen für den Schiffbau #'
+  type: main
+- language: da
+  script: Latn
+  content: 'RÅDETS DIREKTIV 92/68/EØF af 20. juli 1992 om ændring af direktiv 90/684/EØF
+    om støtte til skibsbygningsindustrien #'
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 92/68/ΕΟΚ του Συμβουλίου της 20ής Ιουλίου
+    1992 για την τροποποίηση της οδηγίας 90/684/ΕΟΚ
+    σχετικά με τις ενισχύσεις στις ναυπηγικές
+    εργασίες
+  type: main
+- language: it
+  script: Latn
+  content: 'DIRETTIVA 92/68/CEE DEL CONSIGLIO del 20 luglio 1992 che modifica la direttiva
+    90/684/CEE concernente gli aiuti alla costruzione navale #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'RICHTLIJN 92/68/EEG VAN DE RAAD van 20 juli 1992 houdende wijziging van
+    Richtlijn 90/684/EEG betreffende de steunverlening aan de scheepsbouw #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'DIRECTIVA 92/68/CEE DO CONSELHO de 20 de Julho de 1992 que altera a Directiva
+    90/684/CEE, relativa aos auxílios à construção naval #'
+  type: main
+- language: es
+  script: Latn
+  content: 'DIRECTIVA 92/68/CEE DEL CONSEJO de 20 de julio de 1992 por la que se modifica
+    la Directiva 90/684/CEE sobre ayudas a la construcción naval #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0068
+docidentifier:
+- content: EU Directive 1992/68
+  type: EU
+  primary: true
+- content: CELEX 31992L0068
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1992/68/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-07-20'
+- type: implemented
+  at: '1992-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31990L0684
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

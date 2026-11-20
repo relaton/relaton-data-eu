@@ -1,0 +1,93 @@
+---
+id: EURegulation27481972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2748/72 of the Council of 19 December 1972 amending
+    Regulation (EEC) No 1025/70 on common rules for imports from third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2748/72 du Conseil, du 19 décembre 1972, modifiant
+    le règlement (CEE) n° 1025/70 portant établissement d' un régime commun aux
+    importations des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2748/72 des Rates vom 19. Dezember 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1025/70 zur Festlegung einer gemeinsamen Regelung für
+    die Einfuhr aus dritten Ländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2748/72 af 19. december 1972 om ændring
+    af forordning (EØF) nr. 1025/70 om fastlæggelse af en fælles ordning for indførsel
+    fra tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2748/72 del Consiglio, del 19 dicembre 1972, che modifica
+    il regolamento (CEE) n. 1025/70 che istituisce un regime comune per le importazioni
+    dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2748/72 van de Raad van 19 december 1972 tot wijziging
+    van Verordening (EEG) nr. 1025/70 houdende de totstandbrenging van een gemeenschappelijke
+    regeling voor de invoer uit derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2748
+docidentifier:
+- content: EU Regulation 2748/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2748
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2748/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1025
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

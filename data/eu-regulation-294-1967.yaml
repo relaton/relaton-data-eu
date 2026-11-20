@@ -1,0 +1,65 @@
+---
+id: EURegulation2941967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 294/67/CEE de la Commission, du 13 juillet 1967, portant fixation
+    du correctif applicable à la restitution pour les céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 294/67/EWG der Kommission vom 13. Juli 1967 über die Festsetzung
+    der bei der Erstattung für Getreide anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 294/67/CEE della Commissione, del 13 luglio 1967, relativo
+    alla fissazione del correttivo applicabile alla restituzione per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 294/67/EEG van de Commissie van 13 juli 1967 houdende vaststelling
+    van het op de restitutie voor granen toe te passen correctief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0294
+docidentifier:
+- content: EU Regulation 294/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0294
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/294/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

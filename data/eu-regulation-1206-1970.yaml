@@ -1,0 +1,79 @@
+---
+id: EURegulation12061970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1206/70 du Conseil, du 29 juin 1970, fixant, pour
+    la campagne sucrière 1970/1971, les prix d'intervention dérivés, les prix d'intervention
+    pour le sucre de betterave brut, les prix minima de la betterave, les prix de
+    seuil, la quantité garantie et le maximum de la cotisation à la production
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1206/70 des Rates vom 29. Juni 1970 zur Festsetzung
+    der abgeleiteten Interventionspreise, der Interventionspreise für Rübenrohzucker,
+    der Zuckerrübenmindestpreise, der Schwellenpreise, der Garantiemenge und des
+    Höchstbetrags der Produktionsabgabe für das Zuckerwirtschaftsjahr 1970/1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1206/70 del Consiglio, del 29 giugno 1970, che fissa,
+    per la campagna saccarifera 1970/1971, i prezzi d'intervento derivati, i prezzi
+    d'intervento per lo zucchero greggio di barbabietola, i prezzi minimi delle barbabietole,
+    i prezzi d'entrata, la quantità garantita e l'importo massimo del contributo
+    gravante sulla produzione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1206/70 van de Raad van 29 juni 1970 houdende vaststelling,
+    voor het verkoopseizoen voor suiker 1970/1971, van de afgeleide interventieprijzen,
+    de interventieprijzen voor ruwe bietsuiker, de minimumprijzen voor suikerbieten,
+    de drempelprijzen, de gegarandeerde hoeveelheid en het maximumbedrag van de produktieheffing
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1206
+docidentifier:
+- content: EU Regulation 1206/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1206
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1206/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

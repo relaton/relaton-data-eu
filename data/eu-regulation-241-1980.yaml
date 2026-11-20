@@ -1,0 +1,104 @@
+---
+id: EURegulation2411980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 241/80 of 1 February 1980 amending for the
+    third time Regulation (EEC) No 1570/77 on price increases and reductions applicable
+    to intervention on cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 241/80 de la Commission, du 1er février 1980, portant
+    troisième modification au règlement (CEE) n° 1570/77 relatif aux bonifications
+    et réfactions à appliquer lors de l' intervention dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 241/80 der Kommission vom 1. Februar 1980 zur dritten
+    Änderung der Verordnung (EWG) Nr. 1570/77 über die Zu- und Abschläge für Getreide
+    bei der Intervention
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 241/80 af 1. februar 1980 om tredje
+    ændring af forordning (EØF) nr. 1570/77 om tillæg og fradrag for korn i forbindelse
+    med intervention
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 241/80 τής Επιτροπής
+    τής 1ης Φεβρουαρίου 1980 περί τής τρίτης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 1570/77 «περί αυξήσεως
+    τών τιμών καί τών εκπτώσεων πού εφαρμόζονται
+    κατά τήν παρέμβαση στόν τομέα τών σιτηρών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 241/80 della Commissione, del 1° febbraio 1980, recante
+    terza modifica del regolamento (CEE) n. 1570/77, relativo alle maggiorazioni e
+    alle detrazioni da applicare all' intervento nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 241/80 van de Commissie van 1 februari 1980 houdende
+    derde wijziging van Verordening (EEG) nr. 1570/77 betreffende de bij interventie
+    in de sector granen toe te passen toeslagen en kortingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0241
+docidentifier:
+- content: EU Regulation 241/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0241
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/241/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-02-01'
+- type: implemented
+  at: '1980-02-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1570
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

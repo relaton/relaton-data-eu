@@ -1,0 +1,74 @@
+---
+id: EURegulation18991968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1899/68 du Conseil du 26 novembre 1968 relatif à
+    l'organisation d'une enquête sur les salaires dans l'industrie y compris la production
+    et la distribution d'électricité, de gaz et d'eau
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1899/68 des Rates vom 26. November 1968 über die
+    Durchführung einer Lohnerhebung in der Industrie einschließlich der Energiewirtschaft
+    und der Wasserversorgung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1899/68 del Consiglio, del 26 novembre 1968, relativo
+    all'organizzazione di un'inchiesta sui salari nell'industria, compresa la produzione
+    e distribuzione di elettricità, gas e acqua
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1899/68 van de Raad van 26 november 1968 betreffende
+    de organisatie van een loonenquête in de industrie, met inbegrip van de elektriciteits-,
+    gas- en waterleidingbedrijven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1899
+docidentifier:
+- content: EU Regulation 1899/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1899
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1899/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-11-26'
+- type: implemented
+  at: '1968-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

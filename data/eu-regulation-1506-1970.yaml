@@ -1,0 +1,80 @@
+---
+id: EURegulation15061970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1506/70 de la Commission, du 28 juillet 1970, relatif
+    à certaines mesures à prendre pour les produits de l'aviculture à la suite
+    de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1506/70 der Kommission vom 28. Juli 1970 über Maßnahmen
+    für Erzeugnisse der Geflügelwirtschaft infolge der Abwertung des französischen
+    Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1506/70 della Commissione, del 28 luglio 1970, relativo
+    a talune misure di adottare per i prodotti dell'avicoltura in seguito alla svalutazione
+    del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1506/70 van de Commissie van 28 juli 1970 betreffende
+    ingevolge de devaluatie van de Franse frank voor de produkten van de pluimveehouderij
+    te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1506
+docidentifier:
+- content: EU Regulation 1506/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1506
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1506/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-28'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1662
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

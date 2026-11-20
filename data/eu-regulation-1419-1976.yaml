@@ -1,0 +1,88 @@
+---
+id: EURegulation14191976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1419/76 of 21 June 1976 fixing the target price
+    for husked rice for the 1975/76 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1419/76 du Conseil, du 21 juin 1976, fixant, pour
+    la campagne 1975/1976, le prix indicatif du riz décortiqué
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1419/76 des Rates vom 21. Juni 1976 zur Festsetzung
+    des Richtpreises für geschälten Reis für das Wirtschaftsjahr 1975/1976
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1419/76 af 21. juni 1976 om fastsættelse
+    af indikativprisen for afskallet ris for høståret 1975/1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1419/76 del Consiglio, del 21 giugno 1976, che fissa
+    il prezzo indicativo del riso semigreggio per la campagna 1975/1976
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1419/76 van de Raad van 21 juni 1976 tot vaststelling
+    van de richtprijs voor gedopte rijst voor het verkoopseizoen 1975/1976
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1419
+docidentifier:
+- content: EU Regulation 1419/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1419
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1419/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-21'
+- type: implemented
+  at: '1976-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0669
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

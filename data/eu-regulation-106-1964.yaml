@@ -1,0 +1,68 @@
+---
+id: EURegulation1061964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 106/64/CEE de la Commission, du 4 août 1964, relatif à certaines
+    dispositions transitoires applicables aux échanges de riz entre États membres
+    non producteurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 106/64/EWG der Kommission vom 4. August 1964 über bestimmte
+    Übergangsbestimmungen für den Handel mit Reis zwischen den Nichterzeuger-Mitgliedstaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 106/64/CEE della Commissione, del 4 agosto 1964, relativo
+    a talune disposizioni transitorie applicabili agli scambi di riso tra Stati membri
+    non produttori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 106/64/EEG van de Commissie van 4 augustus 1964 betreffende
+    bepaalde overgangsmaatregelen in verband met de in- en uitvoer van rijst tussen
+    de niet-producerende Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0106
+docidentifier:
+- content: EU Regulation 106/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0106
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/106/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

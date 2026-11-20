@@ -1,0 +1,91 @@
+---
+id: EURegulation31661976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3166/76 of 21 December 1976 extending Council
+    Regulation (EEC) No 3310/75 on agriculture in the Grand Duchy of Luxembourg
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3166/76 du Conseil, du 21 décembre 1976, prorogeant
+    le règlement (CEE) n° 3310/75 relatif à l'agriculture du Grand-Duché de Luxembourg
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3166/76 des Rates vom 21. Dezember 1976 zur Verlängerung
+    der Geltungsdauer der Verordnung (EWG) Nr. 3310/75 über die Landwirtschaft des
+    Großherzogtums Luxemburg
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3166/76 af 21. december 1976 om forlænget
+    anvendelse af forordning (EØF) nr. 3310/75 om landbruget i storhertugdømmet
+    Luxembourg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3166/76 del Consiglio, del 21 dicembre 1976, che proroga
+    il regolamento (CEE) n. 3310/75 relativo all'agricoltura del Granducato del Lussemburgo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3166/76 van de Raad van 21 december 1976 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 3310/75 betreffende de landbouw
+    van het Groothertogdom Luxemburg
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R3166
+docidentifier:
+- content: EU Regulation 3166/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R3166
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/3166/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-21'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3310
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

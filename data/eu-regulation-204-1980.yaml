@@ -1,0 +1,104 @@
+---
+id: EURegulation2041980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 204/80 of 30 January 1980 amending Regulation
+    (EEC) No 1579/70 laying down special conditions for the export of certain cheeses
+    to Spain
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 204/80 de la Commission, du 30 janvier 1980, modifiant
+    le règlement (CEE) n° 1579/70 établissant des conditions particulières pour
+    l' exportation de certains fromages vers l' Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 204/80 der Kommission vom 30. Januar 1980 zur Änderung
+    der Verordnung (EWG) Nr. 1579/70 über die Festlegung besonderer Bedingungen für
+    die Ausfuhr bestimmter Käsesorten nach Spanien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 204/80 af 30. januar 1980 om ændring
+    af forordning (EØF) nr. 1579/70 om fastsættelse af særlige betingelser for
+    udførsel af visse ostesorter til Spanien
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 204/80 τής Επιτροπής
+    τής 30ής Ιανουαρίου 1980 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1579/70 πού θεσπίζει ειδικούς
+    όρους γιά τήν εξαγωγή ορισμένων τυρών πρός
+    τήν Ισπανία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 204/80 della Commissione, del 30 gennaio 1980, recante
+    modifica del regolamento (CEE) n. 1579/70 che stabilisce condizioni particolari
+    per l' esportazione di alcuni formaggi verso la Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 204/80 van de Commissie van 30 januari 1980 tot wijziging
+    van Verordening (EEG) nr. 1579/70 houdende vaststelling van de bijzondere voorwaarden
+    voor de uitvoer van bepaalde kaassoorten naar Spanje
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0204
+docidentifier:
+- content: EU Regulation 204/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0204
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/204/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-01-30'
+- type: implemented
+  at: '1980-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1579
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

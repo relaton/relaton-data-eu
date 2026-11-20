@@ -1,0 +1,72 @@
+---
+id: EURegulation13541968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1354/68 de la Commission du 30 août 1968 relatif
+    à la vente à prix réduit de beurre de stock public à des industries transformatrices
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1354/68 der Kommission vom 30. August 1968 über den
+    Verkauf von Butter aus staatlicher Lagerhaltung zu herabgesetzten Preisen an die
+    verarbeitenden Industrien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1354/68 della Commissione, del 30 agosto 1968, relativo
+    alla vendita a prezzo ridotto di burro di ammasso pubblico alle industrie trasformatrici
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1354/68 van de Commissie van 30 augustus 1968 betreffende
+    de verkoop van boter uit overheidsopslag tegen verlaagde prijs aan de verwerkende
+    industrie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1354
+docidentifier:
+- content: EU Regulation 1354/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1354
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1354/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-08-30'
+- type: implemented
+  at: '1968-09-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

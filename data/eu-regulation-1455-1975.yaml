@@ -1,0 +1,95 @@
+---
+id: EURegulation14551975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1455/75 of the Commission of 5 June 1975 amending Regulation
+    (EEC) No 1280/71 as regards the additional amount to be applied on the buying-in
+    of white sugar by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1455/75 de la Commission, du 5 juin 1975, modifiant
+    le règlement (CEE) n° 1280/71 en ce qui concerne la bonification applicable
+    lors de l' achat de sucre blanc par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1455/75 der Kommission vom 5. Juni 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1280/71 bezüglich des beim Ankauf von Weißzucker durch
+    die Interventionsstellen anwendbaren Zuschlags
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1455/75 af 5. juni 1975 om ændring
+    af forordning (EØF) nr. 1280/71 angående det tillæg, der finder anvendelse
+    ved interventionsorganernes køb af hvidt sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1455/75 della Commissione, del 5 giugno 1975, che
+    modifica il regolamento (CEE) n. 1280/71 per quanto riguarda la maggiorazione
+    applicabile all' atto dell' acquisto di zucchero bianco da parte degli organismi
+    d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1455/75 van de Commissie van 5 juni 1975 tot wijziging
+    van Verordening (EEG) nr. 1280/71 ten aanzien van de toeslag bij de aankoop van
+    witte suiker door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1455
+docidentifier:
+- content: EU Regulation 1455/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1455
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1455/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-06-05'
+- type: implemented
+  at: '1975-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1280
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

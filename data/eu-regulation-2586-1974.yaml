@@ -1,0 +1,100 @@
+---
+id: EURegulation25861974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2586/74 of the Commission of 10 October 1974 amending
+    Regulation (EEC) No 2163/74 as regards the identification of meat from animals
+    in respect of which the premium for the orderly marketing of certain adult bovine
+    animals for slaughter has been granted
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2586/74 de la Commission, du 10 octobre 1974, modifiant
+    le règlement (CEE) n° 2163/74 en ce qui concerne l' identification des viandes
+    provenant d' animaux faisant l' objet de la prime pour une mise sur le marché
+    ordonnée de certains gros bovins de boucherie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2586/74 der Kommission vom 10. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2163/74 hinsichtlich der Identifizierung des Rindfleisches
+    von Tieren, für welche die Prämie für eine geregelte Vermarktung bestimmter
+    ausgewachsener Schlachtrinder gewährt wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2586/74 af 10. oktober 1974 om ændring
+    af forordning (EØF) nr. 2163/74 for så vidt angår identifikation af kød fra
+    dyr, der er genstand for præmien for reguleret markedsføring af visse former
+    for voksent slagtekvæg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2586/74 della Commissione, del 10 ottobre 1974, che
+    modifica il regolamento (CEE) n. 2163/74, per quanto concerne l' identificazione
+    delle carni degli animali per i quali é stato concesso il premio per un' ordinata
+    immissione in commercio di taluni bovini adulti destinati alla macellazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2586/74 van de Commissie van 10 oktober 1974 tot
+    wijziging van Verordening (EEG) nr. 2163/74 met betrekking tot de identificatie
+    van het vlees van dieren waarvoor de premie voor het geordend op de markt brengen
+    van bepaalde volwassen slachtrunderen wordt toegekend
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2586
+docidentifier:
+- content: EU Regulation 2586/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2586
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2586/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-10'
+- type: implemented
+  at: '1974-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2163
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

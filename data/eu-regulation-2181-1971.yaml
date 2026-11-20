@@ -1,0 +1,81 @@
+---
+id: EURegulation21811971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* Regulation (EEC) No 2181/71 of the Council of 12 October 1971 on the financing of intervention expenditure in the wine sector */"
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2181/71 du Conseil, du 12 octobre 1971, relatif au
+    financement des dépenses d' intervention dans le secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2181/71 des Rates vom 12. Oktober 1971 über die Finanzierung
+    der Interventionsausgaben bei Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2181/71 af 12. oktober 1971 om finansiering
+    af interventionsudgifter for vin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2181/71 del Consiglio, del 12 ottobre 1971, relativo
+    al finanziamento delle spese di intervento nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2181/71 van de Raad van 12 oktober 1971 betreffende
+    de financiering van de interventie-uitgaven in de sector wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2181
+docidentifier:
+- content: EU Regulation 2181/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2181
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2181/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-12'
+- type: implemented
+  at: '1970-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,83 @@
+---
+id: EUDecision1960101
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision portant modification du règlement de procédure de la Cour de
+    justice des Communautés européennes
+  type: main
+- language: de
+  script: Latn
+  content: Beschluß über Abänderungen der Verfahrensordnung des Gerichtshofes der
+    Europäischen Gemeinschaften
+  type: main
+- language: da
+  script: Latn
+  content: Décision portant modification du règlement de procédure de la Cour de
+    justice des Communautés européennes /* Den danske udgave er ikke til rådighed
+    */
+  type: main
+- language: it
+  script: Latn
+  content: Decisione con la quale viene modificato il Regolamento di procedura della
+    Corte di giustizia delle Comunità europee
+  type: main
+- language: nl
+  script: Latn
+  content: Besluit houdende wijzigingen in het reglement voor de procesvoering van
+    het Hof van Justitie van de Europese Gemeenschappen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31960D0101
+docidentifier:
+- content: EU Decision 1960/101
+  type: EU
+  primary: true
+- content: CELEX 31960D0101
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1960/101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1959-11-11'
+- type: implemented
+  at: '1960-01-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Court of Justice of the European Union
+    abbreviation:
+      content: CURIA
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31959Q0301
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

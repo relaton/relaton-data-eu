@@ -1,0 +1,75 @@
+---
+id: EURegulation511968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 51/68 de la Commission, du 13 janvier 1968, fixant
+    les montants correcteurs relatif aux qualités de riz "Blue Belle" et "Fortuna"
+    et de brisures "Fine de Turquie", "Glutimons C 3" et " Glutimons A 1"
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 51/68 der Kommission vom 13. Januar 1968 zur Festsetzung
+    der Berichtigungsbeträge betreffend die Reisqualitäten "Blue Belle" und "Fortuna"
+    und die Bruchreisqualitäten "Feiner Bruchreis aus der Türkei", "Glutinous C
+    3" und "Glutinous A 1"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 51/68 della Commissione, del 13 gennaio 1968, che
+    fissa gli importi correttori relativi alle qualità di riso «Blue Belle» e «Fortuna»
+    e di rotture «Fino di Turchia», «Glutinous C 3» e «Glutinous A 1»
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 51/68 van de Commissie van 13 januari 1968 tot vaststelling
+    van de correctiebedragen voor de rijstkwaliteiten "Blue Belle" en "Fortuna" en
+    de kwaliteiten breukrijst "Fine de Turquie", "Glutinous C 3" en "Glutinous A 1"
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0051
+docidentifier:
+- content: EU Regulation 51/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0051
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/51/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-01-13'
+- type: implemented
+  at: '1968-01-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

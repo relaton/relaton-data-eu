@@ -1,0 +1,72 @@
+---
+id: EURegulation14721970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1472/70 de la Commission, du 24 juillet 1970, relatif
+    à l'ouverture d'une adjudication pour la mobilisation de farine de froment tendre
+    et de farine de maïs destinées au Comité international de la Croix-Rouge dans
+    le cadre de l'aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1472/70 der Kommission vom 24. Juli 1970 über die
+    Durchführung einer Ausschreibung zur Bereitstellung von Weichweizen- und Maismehl
+    im Rahmen der Nahrungsmittelhilfe für das "Komitee vom Roten Kreuz"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1472/70 della Commissione, del 24 luglio 1970, relativo
+    ad un bando di gara per la mobilitazione di farina di frumento tenero e di farine
+    di granturco destinate al Comitato internazionale della Croce Rossa nel quadro
+    degli aiuti alimentari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1472/70 van de Commissie van 24 juli 1970 betreffende
+    de openstelling van een inschrijving voor het beschikbaar stellen van meel van
+    zachte tarwe en van maïs bestemd voor het Internationale Comité van het Rode
+    Kruis in het kader van de voedselhulp
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1472
+docidentifier:
+- content: EU Regulation 1472/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1472
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1472/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

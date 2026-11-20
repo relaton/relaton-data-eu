@@ -1,0 +1,78 @@
+---
+id: EURegulation831966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 83/66/CEE du Conseil, du 28 juin 1966, portant fixation
+    du montant des prélèvements envers les pays tiers pour le porc, la viande de
+    porc et les produits à base de viande de porc pour les importations effectuées
+    durant le troisième trimestre 1966
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 83/66/EWG des Rates vom 28. Juni 1966 über die Festsetzung
+    der Abschöpfungsbeträge gegenüber dritten Ländern für Schweine, Schweinefleisch
+    und Schweinefleisch enthaltende Erzeugnisse für Einfuhren im dritten Vierteljahr
+    1966
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 83/66/CEE del Consiglio, del 28 giugno 1966, relativo alla
+    determinazione dell'ammontare dei prelievi nei confronti dei paesi terzi applicabili
+    ai suini, alle carni suine e ai prodotti a base di carni suine per le importazioni
+    effettuate nel terzo trimestre 1966
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 83/66/EEG van de Raad van 28 juni 1966 houdende vaststelling
+    van het bedrag van de heffingen ten opzichte van derde landen voor varkens, varkensvlees
+    en produkten op basis van varkensvlees met betrekking tot de invoer in het derde
+    kwartaal van 1966
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0083
+docidentifier:
+- content: EU Regulation 83/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/83/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-28'
+- type: implemented
+  at: '1966-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

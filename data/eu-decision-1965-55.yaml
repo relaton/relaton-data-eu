@@ -1,0 +1,85 @@
+---
+id: EUDecision196555
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 65/55/CEE de la Commission, du 21 décembre 1964, autorisant
+    la perception de taxes compensatoires à l'importation, dans la République française,
+    de dextrines, d'amidons et fécules solubles ou torréfiées, ainsi que de parements
+    préparés et apprêts préparés, à base de matières amylacées, en provenance
+    de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '65/55/EWG: Entscheidung der Kommission vom 21. Dezember 1964 über die
+    Erhebung von Ausgleichsabgaben bei der Einfuhr von Dextrin, löslicher und gerösteter
+    Stärke, zubereiteten Zurichtemitteln und zubereiteten Appreturen auf der Grundlage
+    von Stärke, aus verschiedenen Mitgliedstaaten in die Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '65/55/CEE: Decisione della Commissione, del 21 dicembre 1964, che autorizza
+    la riscossione di tasse di compensazione all''importazione, nella Repubblica francese,
+    di destrine, amidi, fecole solubili o torrefatte, così pure di bozzime e appretti
+    preparati a base di materie amidacee, provenienti dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/55/EEG: Beschikking van de Commissie van 21 december 1964 houdende
+    machtiging tot het leggen van compenserende heffingen op de invoer in de Franse
+    Republiek van dextrine, oplosbaar of geroost zetmeel en preparaten voor het appreteren
+    op basis van zetmeel of van zetmeelderivaten, uit bepaalde Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0055
+docidentifier:
+- content: EU Decision 1965/55
+  type: EU
+  primary: true
+- content: CELEX 31965D0055
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/55/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-21'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0678
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

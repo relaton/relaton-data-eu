@@ -1,0 +1,92 @@
+---
+id: EURegulation1081965
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation No 108/65/EEC of 29 June 1965 modifying Council Regulations
+    111/64/EEC and 114/64/EEC and constituting a new group of products for butter
+    and cream
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 108/65/CEE du Conseil, du 29 juin 1965, portant modification
+    des règlements n° 111/64/CEE et n 114/64/CEE du Conseil et constitution d'un
+    nouveau groupe de produits pour le beurre et la crème de lait
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG NR. 108/65/EWG DES RATES VOM 29. JUNI 1965 ZUR AENDERUNG DER
+    VERORDNUNGEN NR. 111/64/EWG UND NR. 114/64/EWG DES RATES ZWECKS ZUSAMMENFASSUNG
+    VON BUTTER UND RAHM ZU EINER NEUEN GRUPPE VON ERZEUGNISSEN #'
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO N. 108/65/CEE DEL CONSIGLIO, DEL 29 GIUGNO 1965, CHE MODIFICA
+    I REGOLAMENTI N. 111/64/CEE E N. 114/64/CEE DEL CONSIGLIO E CHE ISTITUISCE UN
+    NUOVO GRUPPO DI PRODOTTI PER IL BURRO E LA CREMA DI LATTE
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING NO. 108/65/EEG VAN DE RAAD VAN 29 JUNI 1965 HOUDENDE WIJZIGING
+    VAN DE VERORDENINGEN NOS. 111/64/EEG EN 114/64/EEG VAN DE RAAD, IN VERBAND MET
+    DE VORMING VAN EEN NIEUWE PRODUKTENGROEP VOOR BOTER EN ROOM
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0108
+docidentifier:
+- content: EU Regulation 108/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0108
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/108/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-29'
+- type: implemented
+  at: '1965-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0111
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0114
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

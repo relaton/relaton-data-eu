@@ -1,0 +1,92 @@
+---
+id: EURegulation9741975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 974/75 of the Commission of 15 April 1975 extending
+    the period of validity of protective measures in respect of the import of certain
+    fishery products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 974/75 de la Commission, du 15 avril 1975, prorogeant
+    les mesures de sauvegarde applicables à l'importation de certains produits de
+    la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 974/75 der Kommission vom 15. April 1975 zur Verlängerung
+    der Schutzmaßnahmen bei der Einfuhr bestimmter Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 974/75 af 15. april 1975 om forlængelse
+    af gyldigheden af de beskyttelsesforanstaltninger, som skal anvendes ved indførsel
+    af visse fiskerivarer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 974/75 della Commissione, del 15 aprile 1975, che
+    proroga le misure di salvaguardia applicabili all'importazione di determinati
+    prodotti della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 974/75 van de Commissie van 15 april 1975 tot verlenging
+    van de vrijwaringsmaatregelen ten aanzien van de invoer van bepaalde visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0974
+docidentifier:
+- content: EU Regulation 974/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0974
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/974/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-15'
+- type: implemented
+  at: '1975-04-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0460
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

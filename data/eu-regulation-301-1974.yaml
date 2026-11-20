@@ -1,0 +1,93 @@
+---
+id: EURegulation3011974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 301/74 of the Commission of 5 February 1974 abolishing
+    the countervailing charge on certain varieties of sweet oranges imported from
+    Algeria
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 301/74 de la Commission, du 5 février 1974, supprimant
+    la taxe compensatoire à l'importation de certaines variétés d'oranges douces
+    en provenance d'Algérie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 301/74 der Kommission vom 5. Februar 1974 zur Aufhebung
+    der Ausgleichsbeträge auf die Einfuhr von bestimmten Sorten Süßorangen aus
+    Algerien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 301/74 af 5. februar 1974 om ophævelse
+    af udligningsafgifter ved indførsel af visse appelsinsorter fra Algeriet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 301/74 della Commissione, del 5 febbraio 1974, che
+    sopprime la tassa di compensazione all'importazione di alcune varietà di arance
+    dolci in provenienza dall'Algeria
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 301/74 van de Commissie van 5 februari 1974 houdende
+    intrekking van een compenserende heffing bij invoer van bepaalde variëteiten
+    zoete sinaasappelen uit Algerië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0301
+docidentifier:
+- content: EU Regulation 301/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0301
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/301/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-02-05'
+- type: implemented
+  at: '1974-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0216
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

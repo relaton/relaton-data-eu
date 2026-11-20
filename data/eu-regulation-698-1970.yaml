@@ -1,0 +1,65 @@
+---
+id: EURegulation6981970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 698/70 de la Commission, du 16 avril 1970, relatif au
+    régime spécial à appliquer à l'importation de certaines viandes bovines congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 698/70 der Kommission vom 16. April 1970 über die
+    Sonderregelung bei der Einfuhr bestimmter Sorten von gefrorenem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 698/70 della Commissione, del 16 aprile 1970, relativo
+    al regime speciale applicabile all'importazione di alcune carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 698/70 van de Commissie van 16 april 1970 betreffende
+    de bijzondere regeling voor de invoer van bepaalde soorten bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0698
+docidentifier:
+- content: EU Regulation 698/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0698
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/698/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

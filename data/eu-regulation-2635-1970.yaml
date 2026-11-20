@@ -1,0 +1,74 @@
+---
+id: EURegulation26351970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2635/70 du Conseil, du 17 décembre 1970, portant
+    suspension temporaire des droits autonomes du tarif douanier commun sur un certain
+    nombre de produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2635/70 des Rates vom 17. Dezember 1970 über die
+    zeitweilige Aussetzung von autonomen Zollsätzen des Gemeinsamen Zolltarifs für
+    bestimmte Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2635/70 del Consiglio, del 17 dicembre 1970, recante
+    sospensione temporanea dei dazi autonomi della tariffa doganale comune per un
+    certo numero di prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2635/70 van de Raad van 17 december 1970 houdende
+    tijdelijke schorsing van de autonome rechten van het gemeenschappelijk douanetarief
+    op een aantal produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2635
+docidentifier:
+- content: EU Regulation 2635/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2635
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2635/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-17'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

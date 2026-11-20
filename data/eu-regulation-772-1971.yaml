@@ -1,0 +1,102 @@
+---
+id: EURegulation7721971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 772/71 of the Commission of 14 April 1971 amending
+    Regulations (EEC) Nos 835/68 and 2061/69 as regards adjustments to the production
+    refund and the denaturing premium for sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 772/71 de la Commission, du 14 avril 1971, modifiant
+    les règlements (CEE) n° 835/68 et (CEE) n° 2061/69 en ce qui concerne l' ajustement
+    respectif de la restitution à la production et la prime de dénaturation dans
+    le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 772/71 der Kommission vom 14. April 1971 zur Änderung
+    der Verordnungen (EWG) Nr. 835/68 und (EWG) Nr. 2061/69 betreffend die Anpassung
+    der Erstattung bei der Erzeugung bzw. der Denaturierungsprämie im Zuckersektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 772/71 af 14. april 1971 om ændring
+    af forordningerne (EØF) nr. 835/68 og (EØF) nr. 2061/69 vedrørende tilpasning
+    af produktionsrestitutionen respektive denatureringspræmien inden for sukker-sektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 772/71 della Commissione, del 14 aprile 1971, che
+    modifica i regolamenti (CEE) n. 835/68 e (CEE) n. 2061/69 per quanto riguarda
+    l' adeguamento rispettivamente della restituzione alla produzione e del premio
+    di denaturazione nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 772/71 van de Commissie van 14 april 1971 houdende
+    wijziging van de Verordeningen (EEG) nr. 835/68 en (EEG) nr. 2061/69 betreffende
+    de aanpassing van respectievelijk de restitutie bij de produktie en de denatureringspremie
+    in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0772
+docidentifier:
+- content: EU Regulation 772/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0772
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/772/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-04-14'
+- type: implemented
+  at: '1971-04-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0835
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2061
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

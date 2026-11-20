@@ -1,0 +1,74 @@
+---
+id: EUDecision1970550
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision du Conseil du 15 décembre 1970, prorogeant le régime des prix
+    minima
+  type: main
+- language: de
+  script: Latn
+  content: '70/550/EWG: Entscheidung des Rates vom 15. Dezember 1970 zur Verlängerung
+    der Mindestpreisregelung'
+  type: main
+- language: it
+  script: Latn
+  content: '70/550/CEE: Decisione del Consiglio, del 15 dicembre 1970, che proroga
+    il regime dei prezzi minimi'
+  type: main
+- language: nl
+  script: Latn
+  content: '70/550/EEG: Beschikking van de Raad van 15 december 1970 tot verlenging
+    van de regeling betreffende de minimumprijzen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970D0550
+docidentifier:
+- content: EU Decision 1970/550
+  type: EU
+  primary: true
+- content: CELEX 31970D0550
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1970/550/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969D0500
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

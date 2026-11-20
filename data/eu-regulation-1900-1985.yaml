@@ -1,0 +1,110 @@
+---
+id: EURegulation19001985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1900/85 of 8 July 1985 introducing Community
+    export and import declaration forms
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1900/85 du Conseil du 8 juillet 1985 relatif à la
+    mise en place de formulaires communautaires de déclaration d' exportation et
+    d' importation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1900/85 des Rates vom 8. Juli 1985 über die Einführung
+    gemeinschaftlicher Ausfuhr- und Einfuhranmeldungen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1900/85 af 8. juli 1985 om indførelse af
+    fællesskabsformularer til angivelse til udførsel og indførsel
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1900/85 του Συμβουλίου
+    της 8ης Ιουλίου 1985 για την καθιέρωση κοινοτικών
+    εντύπων διασάφησης εξαγωγής και εισαγωγής
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1900/85 del Consiglio dell' 8 luglio 1985 che istituisce
+    modelli comunitari di dichiarazione d' esportazione e d' importazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1900/85 van de Raad van 8 juli 1985 betreffende de
+    invoering van communautaire formulieren van aangifte ten invoer en ten uitvoer
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1900/85 do Conselho, de 8 de Julho de 1985, que
+    institui formulários comunitários de declaração de exportação e de importação
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1900/85 del Consejo, de 8 de julio de 1985, relativo
+    al estabelecimiento de formularios comunitarios de declaración de exportación
+    e importación
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R1900
+docidentifier:
+- content: EU Regulation 1900/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R1900
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/1900/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-07-08'
+- type: implemented
+  at: '1986-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2102
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

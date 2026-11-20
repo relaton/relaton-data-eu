@@ -1,0 +1,123 @@
+---
+id: EUDirective1983646
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 83/646/EEC of 13 December 1983 amending Directives 64/432/EEC
+    and 72/461/EEC as regards certain measures relating to foot-and-mouth disease
+    and swine vesicular disease
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 83/646/CEE du Conseil du 13 décembre 1983 modifiant les directives
+    64/432/CEE et 72/461/CEE en ce qui concerne certaines mesures relatives à la
+    fièvre aphteuse et la maladie vésiculeuse du porc
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 83/646/EWG des Rates vom 13. Dezember 1983 zur Änderung der
+    Richtlinien 64/432/EWG und 72/461/EWG hinsichtlich bestimmter Maßnahmen gegen
+    die Maul- und Klauenseuche und die vesikuläre Schweinekrankheit
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 83/646/EØF af 13. december 1983 om ændring af direktiv
+    64/432/EØF og 72/461/EØF for så vidt angår visse foranstaltninger vedrørende
+    mund- og klovesyge samt blæreudslæt hos svin
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 83/646/ΕΟΚ του Συμβουλίου της 13ης Δεκεμβρίου
+    1983 για την τροποποίηση των οδηγιών 64/432/ΕΟΚ
+    και 72/461/ΕΟΚ όσον αφορά ορισμένα μέτρα σχετικά
+    με τον αφθώδη πυρετό και τη φυσαλιδώδη νόσο
+    των χοίρων
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 83/646/ETY, annettu 13 päivänä joulukuuta 1983,
+    direktiivien 64/432/ETY ja 72/461/ETY muuttamisesta suu- ja sorkkatautiin ja sian
+    suu- ja sorkkatautiin liittyvien tiettyjen toimenpiteiden osalta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 83/646/CEE del Consiglio del 13 dicembre 1983 che modifica le
+    direttive 64/432/CEE e 72/461/CEE per quanto riguarda talune misure relative all'afta
+    epizootica e alla malattia vescicolosa del suino
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 83/646/EEG van de Raad van 13 december 1983 tot wijziging van
+    de Richtlijnen 64/432/EEG en 72/461/EEG betreffende bepaalde maatregelen inzake
+    mond- en klauwzeer en vesiculaire varkensziekte
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 83/646/EEG av den 13 december 1983 om ändring av direktiven
+    64/432/EEG och 72/461/EEG i fråga om vissa åtgärder som rör mul- och klövsjuka
+    och vesikulär svinsjuka (SVD)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983L0646
+docidentifier:
+- content: EU Directive 1983/646
+  type: EU
+  primary: true
+- content: CELEX 31983L0646
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1983/646/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-12-13'
+- type: implemented
+  at: '1983-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964L0432
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972L0461
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

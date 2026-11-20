@@ -1,0 +1,85 @@
+---
+id: EUDecision197115
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 7 décembre 1970, portant augmentation du
+    volume du contingent tarifaire octroyé à la République fédérale d'Allemagne
+    pour les cabillauds, lieus noirs, aiglefins et sébastes, frais, réfrigérés
+    ou congelés, des sous-positions tarifaire 03.01 B I E) et Ex 03.01 B I G)
+  type: main
+- language: de
+  script: Latn
+  content: '71/15/EWG: Entscheidung der Kommission vom 7. Dezember 1970 über die
+    Erhöhung der Menge des der Bundesrepublik Deutschland gewährten Zollkontingents
+    für Kabeljau, Seelachs, Schellfisch und Rotbarsch, frisch, gekühlt oder gefroren,
+    der Tarifstellen 03.01 B I e) und ex 03.01 B I g)'
+  type: main
+- language: it
+  script: Latn
+  content: '71/15/CEE: Decisione della Commissione, del 7 dicembre 1970, che reca
+    aumento del volume del contingente tariffario concesso alla Repubblica federale
+    di Germania per i merluzzi bianchi, i merluzzi carbonari, i naselli e i sebasti,
+    freschi, refrigerati o congelati, delle sottovoci 03.01 B I e) ed ex 03.01 B I
+    g) della tariffa doganale comune'
+  type: main
+- language: nl
+  script: Latn
+  content: '71/15/EEG: Beschikking van de Commissie van 7 december 1970 houdende vergroting
+    van het tariefcontingent toegekend aan de Bondsrepubliek Duitsland voor kabeljauw,
+    zwarte pollak, schelvis en roodbaars, vers, gekoeld of bevroren, van de onderverdelingen
+    03.01 B I e) en ex 03.01 B I g) van het gemeenschappelijk douanetarief'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971D0015
+docidentifier:
+- content: EU Decision 1971/15
+  type: EU
+  primary: true
+- content: CELEX 31971D0015
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1971/15/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-08'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970D0015
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

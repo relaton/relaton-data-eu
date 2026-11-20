@@ -1,0 +1,104 @@
+---
+id: EURegulation22341978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2234/78 of 26 September 1978 amending Regulation
+    (EEC) No 1024/78 concerning measures to expand the market in Community milk products
+    outside the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2234/78 de la Commission, du 26 septembre 1978, modifiant
+    le règlement (CEE) n° 1024/78 relatif à des actions destinées à élargir
+    les marchés des produits laitiers communautaires à l' extérieur de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2234/78 der Kommission vom 26. September 1978 zur
+    Änderung der Verordnung (EWG) Nr. 1024/78 über Maßnahmen zur Erweiterung der
+    Märkte für gemeinschaftliche Milcherzeugnisse außerhalb der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2234/78 af 26. september 1978 om ændring
+    af forordning (EØF) nr. 1024/78 om foranstaltninger til udvidelse af Fællesskabets
+    eksportmarked for mejeriprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2234/78 της Επιτροπής
+    της 26ης Σεπτεμβρίου 1978 περί τροποποιήσεως
+    του κανονισμού (ΕΟΚ) αριθ. 1024/78 «περί των ενεργειών
+    που προορίζονται να διευρύνουν την αγορά γαλακτοκομικών
+    προϊόντων στο εξωτερικό της Κοινότητος»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2234/78 della Commissione, del 26 settembre 1978,
+    che modifica il regolamento (CEE) n. 1024/78 relativo ad azioni destinate ad ampliare
+    i mercati dei prodotti lattiero-caseari comunitari all' esterno della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2234/78 van de Commissie van 26 september 1978 houdende
+    wijziging van Verordening (EEG) nr. 1024/78 betreffende acties bestemd tot verruiming
+    van de markten voor communautaire zuivelprodukten buiten de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2234
+docidentifier:
+- content: EU Regulation 2234/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2234
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2234/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-09-26'
+- type: implemented
+  at: '1978-08-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1024
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

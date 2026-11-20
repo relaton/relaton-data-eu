@@ -1,0 +1,98 @@
+---
+id: EURegulation22921972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2292/72 of the Council of 31 October 1972 postponing
+    the date of application of Regulation (EEC) No 1599/71 laying down additional
+    conditions with which imported wines for direct human consumption have to comply
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2292/72 du Conseil, du 31 octobre 1972, reportant
+    la date d' application du règlement (CEE) n° 1599/71 fixant les conditions supplémentaires
+    auxquelles doivent répondre les vins importés destinés à la consommation humaine
+    directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2292/72 des Rates vom 31. Oktober 1972 zur Verschiebung
+    des Anwendungszeitpunkts der Verordnung (EWG) Nr. 1599/71 zur Festsetzung zusätzlicher
+    Bestimmungen, denen eingeführter Wein, der zum unmittelbaren menschlichen Verbrauch
+    bestimmt ist, entsprechen muß
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2292/72 af 31. oktober 1972 om udsættelse
+    af anvendelsestidspunktet for forordning (EØF) nr. 1599/71 om fastsættelse af
+    yderligere betingelser, som indført vin, der er bestemt til direkte menneskeligt
+    forbrug, skal opfylde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2292/72 del Consiglio, del 31 ottobre 1972, che rinvia
+    l' applicazione del regolamento (CEE) n. 1599/71, che fissa le condizioni supplementari
+    cui devono rispondere i vini importati destinati al consumo umano diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2292/72 van de Raad van 31 oktober 1972 tot verschuiving
+    van het tijdstip voor toepassing van Verordening (EEG) nr. 1599/71 van de Raad
+    tot vaststelling van nadere voorwaarden waaraan ingevoerde wijn die is bestemd
+    voor rechtstreekse menselijke consumptie, moet beantwoorden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2292
+docidentifier:
+- content: EU Regulation 2292/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2292
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2292/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-31'
+- type: implemented
+  at: '1972-11-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1599
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

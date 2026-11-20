@@ -1,0 +1,76 @@
+---
+id: EURegulation13561971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1356/71 du Conseil du 24 juin 1971, modifiant le règlement
+    (CEE) 1571/70 portant ouverture, répartition et mode de gestion d'un contingent
+    tarifaire communautaire pour certains produits faits à la main
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1356/71 des Rates vom 24. Juni 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1571/70 über die Eröffnung, Aufteilung und Verwaltung
+    eines Gemeinschaftszollkontingents für bestimmte handgearbeitete Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1356/71 del Consiglio, del 24 giugno 1971, che modifica
+    il regolamento (CEE) n. 1571/70 relativo all'apertura, alla ripartizione e alle
+    modalità di gestione di un contingente tariffario comunitario concernente determinati
+    prodotti fatti a mano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1356/71 van de Raad van 24 juni 1971 tot wijziging
+    van Verordening (EEG) nr. 1571/70 betreffende de opening, de verdeling en de wijze
+    van beheer van een communautair tariefcontingent voor bepaalde met de hand vervaardigde
+    artikelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1356
+docidentifier:
+- content: EU Regulation 1356/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1356
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1356/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-24'
+- type: implemented
+  at: '1971-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

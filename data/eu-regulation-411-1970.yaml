@@ -1,0 +1,80 @@
+---
+id: EURegulation4111970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 411/70 de la Commission, du 4 mars 1970, modifiant
+    le règlement (CEE) n° 1390/69 relatif à la mise à disposition de beurre à
+    prix réduit à certaines entreprises de transformation de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 411/70 der Kommission vom 4. März 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1390/69 über den Absatz von Butter zu herabgesetzten
+    Preisen an bestimmte Verarbeitungsbetriebe in der Gemeinschaft
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 411/70 della Commissione, del 4 marzo 1970, relativo
+    alla modifica del regolamento (CEE) n. 1390/69 che prevede di mettere a disposizione
+    di alcune industrie di trasformazione della Comunità burro a prezzo ridotto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 411/70 van de Commissie van 4 maart 1970 houdende
+    wijziging van Verordening (EEG) nr. 1390/69 betreffende het ter beschikking stellen
+    van boter tegen verlaagde prijs aan bepaalde verwerkende industrieën in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0411
+docidentifier:
+- content: EU Regulation 411/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0411
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/411/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-04'
+- type: implemented
+  at: '1970-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1390
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

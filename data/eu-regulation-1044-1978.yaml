@@ -1,0 +1,94 @@
+---
+id: EURegulation10441978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1044/78 of 19 May 1978 amending Regulation
+    (EEC) No 1896/73 on detailed rules for the application of intervention measures
+    on the market in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1044/78 de la Commission, du 19 mai 1978, modifiant
+    le règlement (CEE) n° 1896/73 relatif aux modalités d' application des mesures
+    d' intervention dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1044/78 der Kommission vom 19. Mai 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1896/73 über die Durchführungsbestimmungen bei Interventionsmaßnahmen
+    auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1044/78 af 19. maj 1978 om ændring
+    af forordning (EØF) nr. 1896/73 om de nærmere regler for anvendelsen af interventionsforanstaltninger
+    inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1044/78 della Commissione, del 19 maggio 1978, che
+    modifica il regolamento (CEE) n. 1896/73 relativo alle modalità d' applicazione
+    delle misure d' intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1044/78 van de Commissie van 19 mei 1978 tot wijziging
+    van Verordening (EEG) nr. 1896/73 betreffende de wijze van toepassing van de interventiemaatregelen
+    in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1044
+docidentifier:
+- content: EU Regulation 1044/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1044
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1044/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-19'
+- type: implemented
+  at: '1978-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

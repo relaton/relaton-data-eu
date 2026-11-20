@@ -1,0 +1,98 @@
+---
+id: EURegulation2761977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 276/77 of 9 February 1977 amending Regulation
+    (EEC) No 753/76 laying down detailed rules for the sale of skimmed-milk powder
+    for use in animal feed pursuant to Regulation (EEC) No 563/76
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 276/77 de la Commission, du 9 février 1977, modifiant
+    le règlement (CEE) n° 753/76 portant modalités d' application relatives à
+    la vente de lait écrémé en poudre destiné à être utilisé dans les aliments
+    pour animaux dans le cadre du règlement (CEE) n° 563/76
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 276/77 der Kommission vom 9. Februar 1977 zur Änderung
+    der Verordnung (EWG) Nr. 753/76 über Durchführungsbestimmungen für den Verkauf
+    von Magermilchpulver, das im Rahmen der Verordnung (EWG) Nr. 563/76 zur Verwendung
+    in Futtermitteln bestimmt ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 276/77 af 9. februar 1977 om ændring
+    af forordning (EØF) nr. 753/76 om de nærmere bestemmelser for salg af skummetmælk
+    til anvendelse i foder i henhold til forordning (EØF) nr. 563/76
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 276/77 della Commissione, del 9 febbraio 1977, recante
+    modifica del regolamento (CEE) n. 753/76, che stabilisce le modalità di vendita
+    del latte scremato in polvere destinato ad essere utilizzato negli alimenti per
+    gli animali ai sensi del regolamento (CEE) n. 563/76
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 276/77 van de Commissie van 9 februari 1977 tot wijziging
+    van Verordening (EEG) nr.753/76 houdende uitvoeringsbepalingen inzake de verkoop
+    van magere-melkpoeder bestemd voor verwerking in diervoeder in het kader van Verordening
+    (EEG) nr. 563/76
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0276
+docidentifier:
+- content: EU Regulation 276/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0276
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/276/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-09'
+- type: implemented
+  at: '1977-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0753
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

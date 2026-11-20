@@ -1,0 +1,94 @@
+---
+id: EURegulation17841971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1784/71 of the Commission of 13 August 1971 altering
+    the amount of aid provided for in Regulation (EEC) No 1437/70 on storage contracts
+    for table wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1784/71 de la Commission, du 13 août 1971, modifiant
+    le montant de l' aide prévu par le règlement (CEE) n° 1437/70 relatif aux contrats
+    de stockage pour le vin de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1784/71 der Kommission vom 13. August 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1437/70 über die Lagerverträge für Tafelwein hinsichtlich
+    des Beihilfebetrags
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1784/71 af 13. august 1971 om ændring
+    af det støttebeløb, der er fastsat i forordning (EØF) nr. 1437/70 om oplagringskontrakter
+    for bordvin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1784/71 della Commissione, del 13 agosto 1971, che
+    modifica, per quanto riguarda l' importo dell' aiuto, il regolamento (CEE) n.
+    1437/70 relativo ai contratti di magazzinaggio per il vino da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1784/71 van de Commissie van 13 augustus 1971 tot
+    wijziging van het bij Verordening (EEG) nr. 1437/70 betreffende de opslagcontracten
+    voor tafelwijn vastgestelde steunbedrag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1784
+docidentifier:
+- content: EU Regulation 1784/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1784
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1784/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-08-13'
+- type: implemented
+  at: '1971-08-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1437
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

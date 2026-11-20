@@ -1,0 +1,131 @@
+---
+id: EURegulation14421983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1442/83 of 3 June 1983 amending Regulations
+    (EEC) No 1107/68 and (EEC) No 2496/78 as regards the level of aid for the private
+    storage of Grana Padano, Parmigiano Reggiano and Provolone cheeses
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1442/83 de la Commission du 3 juin 1983 modifiant les
+    règlements (CEE) no 1107/68 et (CEE) no 2496/78 en ce qui concerne le niveau
+    des aides pour le stockage privé des fromages grana padano et parmigiano reggiano
+    et du fromage provolone
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1442/83 der Kommission vom 3. Juni 1983 zur Änderung
+    der Verordnungen (EWG) Nr. 1107/68 und (EWG) Nr. 2496/78 hinsichtlich der Höhe
+    der Beihilfe für die private Lagerhaltung der Käsesorten Grana Padano, Parmigiano-Reggiano
+    und Provolone
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1442/83 af 3. juni 1983 om ændring
+    af forordning (EØF) nr. 1107/68 og (EØF) nr. 2496/78 for så vidt angår størrelsen
+    af støtte til privat oplagring af ostene Grana Padano og Parmigiano-Reggiano
+    samt Provolone
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1442/83 της Επιτροπής
+    της 3ης Ιουνίου 1983 περί τροποποιήσεως των κανονισμών
+    (ΕΟΚ) αριθ. 1107/68 και (ΕΟΚ) αριθ. 2496/78 περί του επιπέδου
+    των ενισχύσεων για την ιδιωτική αποθεματοποίηση
+    των τυρών Grana Padano και Parmigiano Reggiano και του τυρού
+    Provolone
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1442/83 della Commissione del 3 giugno 1983 che modifica
+    i regolamenti (CEE) n. 1107/68 e (CEE) n. 2496/78 per quanto riguarda il livello
+    degli aiuti all' ammasso privato dei formaggi Grana Padano, Parmigiano Reggiano
+    e Provolone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1442/83 van de Commissie van 3 juni 1983 tot wijziging
+    van de Verordeningen (EEG) nr. 1107/68 en (EEG) nr. 2496/78 ten aanzien van het
+    peil van de steun voor de particuliere opslag van Grana Padano-kaas en Parmigiano-Reggiano-kaas
+    en van Provolone-kaas
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1442/83 da Comissão, de 3 de Junho de 1983, que
+    altera os Regulamentos (CEE) n.° 1107/68 e (CEE) n.° 2496/78 no que diz respeito
+    ao nível das ajudas para a armazenagem privada dos queijos grana padano e parmigiano
+    reggiano e do queijo provolone
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1442/83 de la Comisión, de 3 de junio de 1983, por
+    el que se modifican los Reglamentos (CEE) n° 1107/68 y (CEE) n° 2496/78 en lo
+    referente a la cuantía de las ayudas para el almacenamiento privado de los quesos
+    Grana Padano y Parmigiano Reggiano y del queso Provolone
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1442
+docidentifier:
+- content: EU Regulation 1442/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1442
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1442/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-06-03'
+- type: implemented
+  at: '1983-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1107
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2496
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

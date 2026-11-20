@@ -1,0 +1,81 @@
+---
+id: EURegulation17321972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* Commission Regulation (EEC) No 1732/72 of 9 August 1972 fixing additional amounts for egg products */"
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1732/72 de la Commission, du 9 août 1972, fixant
+    des montants supplémentaires pour les produits d' oeufs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1732/72 der Kommission vom 9. August 1972 zur Festsetzung
+    von Zusatzbeträgen für Eiererzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1732/72 af 9. august 1972 om fastsættelse
+    af tillægsbeløb for ægprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1732/72 della Commissione, del 9 agosto 1972, che
+    fissa l' importo supplementare per i prodotti di uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1732/72 van de Commissie van 9 augustus 1972 houdende
+    vaststelling van extra bedragen voor eiprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1732
+docidentifier:
+- content: EU Regulation 1732/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1732
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1732/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-08-09'
+- type: implemented
+  at: '1972-08-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

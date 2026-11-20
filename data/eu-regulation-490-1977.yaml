@@ -1,0 +1,100 @@
+---
+id: EURegulation4901977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 490/77 of 10 March 1977 bringing forward
+    the qualifying date for the sale of beef by the intervention agencies under Regulations
+    (EEC) No 2073/74 and (EEC) No 2320/74
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 490/77 de la Commission, du 10 mars 1977, reportant
+    la date de prise en charge de la viande bovine mise en vente par les organismes
+    d' intervention au titre des règlements (CEE) n° 2073/74 et 2320/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 490/77 der Kommission vom 10. März 1977 zur Verschiebung
+    des Übernahmetermins für durch die Interventionsstellen gemäß den Verordnungen
+    (EWG) Nr. 2073/74 und (EWG) Nr. 2320/74 zum Verkauf angebotenes Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 490/77 af 10. marts 1977 om forlængelse
+    af fristen for overtagelse af oksekød, der udbydes til salg fra interventionsorganerne
+    i overensstemmelse med forordning (EØF) nr. 2073/74 og (EØF) nr. 2320/74
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 490/77 della Commissione, del 10 marzo 1977, che proroga
+    la data di presa in consegna delle carni bovine messe in vendita dagli organismi
+    d' intervento a norma dei regolamenti (CEE) n. 2073/74 e (CEE) n. 2320/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 490/77 van de Commissie van 10 maart 1977 houdende
+    verschuiving van de overnamedatum voor door interventiebureaus opgeslagen rundvlees,
+    dat krachtens Verordening (EEG) nr. 2073/74 en (EEG) nr. 2320/74 te koop werd
+    aangeboden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0490
+docidentifier:
+- content: EU Regulation 490/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0490
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/490/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-10'
+- type: implemented
+  at: '1977-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

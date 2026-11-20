@@ -1,0 +1,72 @@
+---
+id: EURegulation12321969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1232/69 de la Commission, du 27 juin 1969, portant
+    exemption partielle du prélèvement sur certaines quantités de cossettes séchées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1232/69 der Kommission vom 27. Juni 1969 zur teilweisen
+    Freistellung von der Abschöpfung bestimmter Mengen getrockneter Zuckerrübenschnitzel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1232/69 della Commissione, del 27 giugno 1969, relativo
+    a un'esenzione parziale dal prelievo su determinati quantitativi di fettucce disseccate
+    di barbabietole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1232/69 van de Commissie van 27 juni 1969 houdende
+    gedeeltelijke vrijstelling van de heffing voor bepaalde hoeveelheden gedroogde
+    suikerbietensnijdsels
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1232
+docidentifier:
+- content: EU Regulation 1232/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1232
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1232/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-27'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

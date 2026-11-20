@@ -1,0 +1,76 @@
+---
+id: EURegulation1731966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 173/66/CEE de la Commission du 7 novembre 1966 relatif à
+    la détermination du prix CAF et du prix franco frontière des huiles d'olive
+    n'ayant pas subi un processus de raffinage ainsi que la fixation des prélèvements
+    applicables à ces produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 173/66/EWG der Kommission vom 7. November 1966 über die
+    Ermittlung des cif-Preises, des Frei- Grenze-Preises und der Abschöpfungen für
+    nicht raffinierte Olivenöle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 173/66/CEE della Commissione, del 7 novembre 1966, che determina
+    il prezzo cif e il prezzo franco frontiera degli oli d'oliva che non hanno subito
+    un processo di raffinazione e fissa i prelievi applicabili a questi prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 173/66/EEG van de Commissie van 7 november 1966 betreffende
+    de vaststelling van de c.i.f.- prijs en de prijs franco-grens voor olijfolie welke
+    niet aan een raffinageproces onderworpen is geweest, alsmede betreffende de heffingen
+    die op dit produkt van toepassing zijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0173
+docidentifier:
+- content: EU Regulation 173/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0173
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/173/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-07'
+- type: implemented
+  at: '1966-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

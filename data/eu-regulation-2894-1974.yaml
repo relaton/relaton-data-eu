@@ -1,0 +1,94 @@
+---
+id: EURegulation28941974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2894/74 of the Council of 18 November 1974 supplementing
+    Regulation (EEC) No 817/70 as regards in particular quality sparkling wines produced
+    in specified regions
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2894/74 du Conseil, du 18 novembre 1974, complétant
+    le règlement (CEE) n° 817/70 notamment en ce qui concerne les vins mousseux
+    de qualité produits dans des régions déterminées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2894/74 des Rates vom 18. November 1974 zur Ergänzung
+    der Verordnung (EWG) Nr. 817/70 insbesondere hinsichtlich der Qualitätsschaumweine
+    bestimmter Anbaugebiete
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2894/74 af 18. november 1974 om supplering
+    af forordning (EØF) nr. 817/70, navnlig for så vidt angår mousserende kvalitetsvine
+    fra bestemte dyrkningsområder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2894/74 del Consiglio, del 18 novembre 1974, che completa
+    il regolamento (CEE) n. 817/70 in particolare per quanto riguarda i vini spumanti
+    di qualità prodotti in regioni determinate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2894/74 van de Raad van 18 november 1974 houdende
+    aanvulling van Verordening (EEG) nr. 817/70 met name ten aanzien van in bepaalde
+    gebieden voortgebrachte mousserende kwaliteitswijnen (v.m.q.p.r.d.)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2894
+docidentifier:
+- content: EU Regulation 2894/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2894
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2894/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-18'
+- type: implemented
+  at: '1974-11-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0817
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

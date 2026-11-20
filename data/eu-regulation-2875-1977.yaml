@@ -1,0 +1,91 @@
+---
+id: EURegulation28751977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2875/77 of 19 December 1977 extending the term
+    of Council Regulation (EEC) No 3310/75 on agriculture in the Grand Duchy of Luxembourg
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2875/77 du Conseil, du 19 décembre 1977, prorogeant
+    le règlement (CEE) n° 3310/75 relatif à l'agriculture du Grand-Duché de Luxembourg
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2875/77 des Rates vom 19. Dezember 1977 zur Verlängerung
+    der Geltungsdauer der Verordnung (EWG) Nr. 3310/75 über die Landwirtschaft des
+    Großherzogtums Luxemburg
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2875/77 af 19. december 1977 om forlænget
+    anvendelse af forordning (EØF) nr. 3310/75 om landbruget i storhertugdømmet
+    Luxembourg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2875/77 del Consiglio, del 19 dicembre 1977, che proroga
+    il regolamento (CEE) n. 3310/75 relativo all'agricoltura del Granducato del Lussemburgo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2875/77 van de Raad van 19 december 1977 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 3310/75 betreffende de landbouw
+    van het Groothertogdom Luxemburg
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2875
+docidentifier:
+- content: EU Regulation 2875/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2875
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2875/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-19'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3310
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,104 @@
+---
+id: EURegulation27111983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2711/83 of 29 September 1983 amending Regulation
+    (EEC) No 1953/82 laying down special conditions for the export of certain cheeses
+    to certain third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2711/83 de la Commission du 29 septembre 1983 modifiant
+    le règlement (CEE) no 1953/82 établissant les conditions particulières pour
+    l' exportation de certains fromages vers certains pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2711/83 der Kommission vom 29. September 1983 zur
+    Änderung der Verordnung (EWG) Nr. 1953/82 zur Einführung von Sonderbedingungen
+    für die Ausfuhr bestimmter Käsesorten nach einigen Drittländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2711/83 af 29. september 1983 om ændring
+    af forordning (EØF) nr. 1953/82 om særlige betingelser for udførsel af en række
+    oste til visse tredjelande
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2711/83 της Επιτροπής
+    της 29ης Σεπτεμβρίου 1983 περί τροποποιήσεως
+    του κανονισμού (ΕΟΚ) αριθ. 1953/83 περί καθορισμού
+    ειδικών όρων για την εξαγωγή ορισμένων τυρών
+    σε ορισμένες τρίτες χώρες
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2711/83 della Commissione del 29 settembre 1983 che
+    modifica il regolamento (CEE) n. 1953/82, che stabilisce condizioni particolari
+    per l' esportazione di determinati formaggi verso taluni paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2711/83 van de Commissie van 29 september 1983 tot
+    wijziging van Verordening (EEG) nr. 1953/82 tot vaststelling van bijzondere voorwaarden
+    voor de uitvoer van bepaalde kaassoorten naar sommige derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R2711
+docidentifier:
+- content: EU Regulation 2711/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R2711
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/2711/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-09-29'
+- type: implemented
+  at: '1983-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R1953
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,105 @@
+---
+id: EURegulation12071978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1207/78 of 2 June 1978 altering in respect
+    of the Federal Republic of Germany and the Kingdom of the Netherlands the selling
+    prices laid down in Regulations (EEC) No 2073/74 and (EEC) No 1027/78 for beef
+    and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1207/78 de la Commission, du 2 juin 1978, modifiant
+    pour la République fédérale d'Allemagne et le Royaume des Pays-Bas, dans le
+    secteur de la viande bovine, les prix de vente visés aux règlements (CEE) n°
+    2073/74 et (CEE) n° 1027/78
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1207/78 der Kommission vom 2. Juni 1978 zur Änderung
+    der in den Verordnungen (EWG) Nr. 2073/74 und (EWG) Nr. 1027/78 genannten Verkaufspreise
+    auf dem Rindfleischsektor für die Bundesrepublik Deutschland und das Königreich
+    der Niederlande
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1207/78 af 2. juni 1978 om ændring
+    af de i forordning (EØF) nr. 2073/74 og (EØF) nr. 1027/78 anførte salgspriser
+    i oksekødsektoren for så vidt angår Forbundsrepublikken Tyskland og kongeriget
+    Nederlandene
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1207/78 della Commissione, del 2 giugno 1978, che
+    modifica per la Repubblica federale di Germania e il Regno dei Paesi Bassi i prezzi
+    di vendita previsti dai regolamenti (CEE) n. 2073/74 e (CEE) n. 1027/78 nel settore
+    delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1207/78 van de Commissie van 2 juni 1978 tot wijziging
+    voor wat de Duitse Bondsrepubliek en het Koninkrijk der Nederlanden betreft, van
+    de in de Verordeningen (EEG) nr. 2073/74 en (EEG) nr. 1027/78 bedoelde verkoopprijzen
+    in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1207
+docidentifier:
+- content: EU Regulation 1207/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1207
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1207/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-02'
+- type: implemented
+  at: '1978-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1027
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

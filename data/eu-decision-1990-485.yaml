@@ -1,0 +1,133 @@
+---
+id: EUDecision1990485
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '90/485/EEC: Commission Decision of 27 September 1990 repealing Decision
+    89/222/EEC and amending decisions 79/542/EEC, 89/15/EEC and 90/135/EEC as a result
+    of the unification of Germany'
+  type: main
+- language: fr
+  script: Latn
+  content: '90/485/CEE: Décision de la Commission, du 27 septembre 1990, abrogeant
+    la décision 89/222/CEE et modifiant les décisions 79/542/CEE, 89/15/CEE et 90/135/CEE
+    suite à l''unification de l''Allemagne'
+  type: main
+- language: de
+  script: Latn
+  content: '90/485/EWG: ENTSCHEIDUNG DER KOMMISSION VOM 27. SEPTEMBER 1990 ZUR AUFHEBUNG
+    DER ENTSCHEIDUNG 89/222/EWG UND ZUR AENDERUNG DER ENTSCHEIDUNGEN 79/542/EWG, 89/15/EWG
+    UND 90/135/EWG INFOLGE DER DEUTSCHEN EINIGUNG'
+  type: main
+- language: da
+  script: Latn
+  content: '90/485/EOEF: KOMMISSIONENS BESLUTNING AF 27. SEPTEMBER 1990 OM OPHAEVELSE
+    AF BESLUTNING 89/222/EOEF OG AENDRING AF BESLUTNING 79/542/EOEF, 89/15/EOEF OG
+    90/135/EOEF SOM FOELGE AF TYSKLANDS FORENING'
+  type: main
+- language: el
+  script: Grek
+  content: '90/485/ΕΟΚ: Απόφαση της Επιτροπής της 27ης
+    Σεπτεμβρίου 1990 για την κατάργηση της απόφασης
+    89/222/ΕΟΚ και για την τροποποίηση των αποφάσεων
+    79/542/ΕΟΚ, 89/15/ΕΟΚ και 90/135/ΕΟΚ λόγω της ενοποίησης
+    της Γερμανίας'
+  type: main
+- language: it
+  script: Latn
+  content: '90/485/CEE: DECISIONE DELLA COMMISSIONE, DEL 27 SETTEMBRE 1990, CHE ABROGA
+    LA DECISIONE 89/222/CEE E MODIFICA LE DECISIONI 79/542/CEE, 89/15/CEE E 90/135/CEE
+    IN SEGUITO ALL'' UNIFICAZIONE DELLA GERMANIA'
+  type: main
+- language: nl
+  script: Latn
+  content: '90/485/EEG: BESCHIKKING VAN DE COMMISSIE VAN 27 SEPTEMBER 1990 TOT INTREKKING
+    VAN BESCHIKKING 89/222/EEG EN TOT WIJZIGING VAN DE BESCHIKKINGEN 79/542/EEG, 89/15/EEG
+    EN 90/135/EEG IN VERBAND MET DE DUITSE EENMAKING'
+  type: main
+- language: pt
+  script: Latn
+  content: '90/485/CEE: DECISAO DA COMISSAO, DE 27 DE SETEMBRO DE 1990, QUE REVOGA
+    A DECISAO 89/222/CEE E ALTERA AS DECISOES 79/542/CEE, 89/15/CEE E 90/135/CEE,
+    NA SEQUENCIA DA UNIFICACAO DA ALEMANHA'
+  type: main
+- language: es
+  script: Latn
+  content: '90/485/CEE: DECISION DE LA COMISION, DE 27 DE SEPTIEMBRE DE 1990, POR
+    LA QUE SE DEROGA LA DECISION 89/222/CEE Y POR LA QUE SE MODIFICAN LAS DECISIONES
+    79/542/CEE, 89/15/CEE Y 90/135/CEE TRAS LA UNIFICACION DE ALEMANIA'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31990D0485
+docidentifier:
+- content: EU Decision 1990/485
+  type: EU
+  primary: true
+- content: CELEX 31990D0485
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1990/485/oj
+  type: ELI
+date:
+- type: issued
+  at: '1990-09-27'
+- type: implemented
+  at: '1990-09-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989D0222
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979D0542
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989D0015
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31990D0135
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

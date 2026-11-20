@@ -1,0 +1,100 @@
+---
+id: EURegulation4561978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 456/78 of 3 March 1978 amending Regulation
+    (EEC) No 221/72 as regards the qualifying date for the takeover of intervention
+    beef meat for which the maximum tolerance for weight losses resulting from storage
+    applies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 456/78 de la Commission, du 3 mars 1978, modifiant
+    le règlement (CEE) n° 221/72 en ce qui concerne la date de prise en charge des
+    viandes bovines à l' intervention auxquelles s' applique la limite de tolérance
+    pour les pertes de quantités résultant du stockage
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 456/78 der Kommission vom 3. März 1978 zur Änderung
+    der Verordnung (EWG) Nr. 221/72 betreffend den Übernahmestichtag für Interventionsrindfleisch,
+    auf das die Toleranzgrenze für aus der Lagerung herrührende Mengenverluste anwendbar
+    ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 456/78 af 3. marts 1978 om ændring
+    af forordning (EØF) nr. 221/72 for så vidt angår datoen for overtagelse af
+    interventionskød, for hvilken tolerancegrænsen for mængdetab som følge af
+    oplagring, finder anvendelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 456/78 della Commissione, del 3 marzo 1978, che modifica
+    il regolamento (CEE) n. 221/72 per quanto riguarda la data di presa in consegna
+    all' intervento delle carni bovine cui si applica il limite di tolleranza per
+    le perdite di quantità dovute all' ammasso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 456/78 van de Commissie van 3 maart 1978 tot wijziging
+    van Verordening (EEG) nr. 221/72 ten aanzien van de datum van overname door de
+    interventiebureaus van rundvlees waarvoor de tolerantielimiet voor gewichtsverliezen
+    bij de opslag van toepassing is
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0456
+docidentifier:
+- content: EU Regulation 456/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0456
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/456/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-03-03'
+- type: implemented
+  at: '1978-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0221
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

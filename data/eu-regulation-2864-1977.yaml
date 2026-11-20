@@ -1,0 +1,99 @@
+---
+id: EURegulation28641977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2864/77 of 21 December 1977 increasing the
+    Community tariff quota opened for 1977 for unwrought magnesium falling within
+    subheading 77.01 A of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2864/77 du Conseil, du 21 décembre 1977, portant
+    augmentation du volume du contingent tarifaire communautaire, ouvert pour l'année
+    1977, pour le magnésium brut de la sous-position 77.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2864/77 des Rates vom 21. Dezember 1977 zur Aufstockung
+    des für 1977 eröffneten Gemeinschaftszollkontingents für Rohmagnesium der Tarifstelle
+    77.01 A des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2864/77 af 21. december 1977 om forhøjelse
+    af det for 1977 åbnede fællesskabstoldkontingent for ubearbejdet magnesium henhørende
+    under pos. 77.01 A i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2864/77 del Consiglio, del 21 dicembre 1977, relativo
+    all'aumento del volume del contingente tariffario comunitario aperto per il 1977
+    per il magnesio greggio della sottovoce 77.01 A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2864/77 van de Raad van 21 december 1977 houdende
+    verhoging van het communautaire tariefcontingent voor 1977 voor ruw magnesium
+    van onderverdeling 77.01 A van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2864
+docidentifier:
+- content: EU Regulation 2864/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2864
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2864/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-21'
+- type: implemented
+  at: '1977-12-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2930
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1645
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

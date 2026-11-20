@@ -1,0 +1,99 @@
+---
+id: EURegulation11531977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1153/77 of 17 May 1977 concerning the list
+    of Community regions which qualify for aid in respect of durum wheat and fixing
+    the amount of such aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1153/77 du Conseil, du 17 mai 1977, relatif à la
+    liste des régions de la Communauté qui bénéficient de l'aide pour le froment
+    dur et fixant le montant de cette aide
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1153/77 des Rates vom 17. Mai 1977 betreffend die
+    Liste der Gebiete der Gemeinschaft, in denen eine Beihilfe für Hartweizen gewährt
+    wird, sowie die Festlegung des Betrages dieser Beihilfe
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1153/77 af 17. maj 1977 om listen over de
+    områder i Fællesskabet, hvor der ydes støtte til hård hvede og om fastsættelse
+    af støttebeløbet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1153/77 del Consiglio, del 17 maggio 1977, relativo
+    all'elenco delle regioni della Comunità che beneficiano dell'aiuto al frumento
+    duro e che fissa l'importo di tale aiuto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1153/77 van de Raad van 17 mei 1977 betreffende de
+    lijst van de gebieden in de Gemeenschap die in aanmerking komen voor steun voor
+    durum tarwe en houdende vaststelling van het bedrag van deze steun
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1153
+docidentifier:
+- content: EU Regulation 1153/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1153
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1153/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-05-17'
+- type: implemented
+  at: '1977-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1144
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1153
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

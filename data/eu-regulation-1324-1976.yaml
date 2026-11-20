@@ -1,0 +1,88 @@
+---
+id: EURegulation13241976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1324/76 of 8 June 1976 harmonizing the time
+    limits laid down in Article 4 of Regulation (EEC) No 3195/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1324/76 de la Commission, du 8 juin 1976, harmonisant
+    les délais prévus à l' article 4 du règlement (CEE) n° 3195/75
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1324/76 der Kommission vom 8. Juni 1976 zur Harmonisierung
+    der in Artikel 4 der Verordnung (EWG) Nr. 3195/75 vorgesehenen Fristen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1324/76 af 8. juni 1976 om harmonisering
+    af de tidsfrister, der er fastsat i artikel 4 i forordning (EØF) nr. 3195/75
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1324/76 della Commissione, dell' 8 giugno 1976, che
+    armonizza i termini previsti dall' articolo 4 del regolamento (CEE) n. 3195/75
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1324/76 van de Commissie van 8 juni 1976 tot harmonisatie
+    van de termijnen, bepaald in artikel 4 van Verordening (EEG) nr. 3195/75
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1324
+docidentifier:
+- content: EU Regulation 1324/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1324
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1324/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-08'
+- type: implemented
+  at: '1976-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3195
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

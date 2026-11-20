@@ -1,0 +1,80 @@
+---
+id: EURegulation8321969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 832/69 du Conseil, du 2 mai 1969, modifiant le règlement
+    (CEE) n° 290/69 fixant les critères de mobilisation des céréales destinées
+    à l'aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 832/69 des Rates vom 2. Mai 1969 zur Änderung der
+    Verordnung (EWG) Nr. 290/69 zur Festlegung der Kriterien für die Bereitstellung
+    von Getreide für die Nahrungsmittelhilfe
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 832/69 del Consiglio, del 2 maggio 1969, recante modificazione
+    del regolamento (CEE) n. 290/69 che stabilisce i criteri di mobilitazione dei
+    cereali destinati agli aiuti alimentari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 832/69 van de Raad van 2 mei 1969 tot wijziging van
+    Verordening (EEG) nr. 290/69 houdende de vaststelling van criteria inzake de beschikbaarstelling
+    van voor voedselhulp bestemd graan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0832
+docidentifier:
+- content: EU Regulation 832/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0832
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/832/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-02'
+- type: implemented
+  at: '1969-05-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0290
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

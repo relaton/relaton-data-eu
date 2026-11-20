@@ -1,0 +1,101 @@
+---
+id: EUDecision198499
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '84/99/EEC: Council Decision of 21 February 1984 amending Decision 81/956/EEC
+    on the equivalence of seed potatoes produced in third countries'
+  type: main
+- language: fr
+  script: Latn
+  content: '84/99/CEE: Décision du Conseil du 21 février 1984 modifiant la décision
+    81/956/CEE concernant l'' équivalence des plants de pommes de terre produits
+    dans des pays tiers'
+  type: main
+- language: de
+  script: Latn
+  content: '84/99/EWG: Entscheidung des Rates vom 21. Februar 1984 zur Änderung der
+    Entscheidung 81/956/EWG über die Gleichstellung von in Drittländern erzeugten
+    Pflanzkartoffeln'
+  type: main
+- language: da
+  script: Latn
+  content: '84/99/EØF: Rådets beslutning af 21. februar 1984 om ændring af beslutning
+    81/956/EØF om ligestilling af læggekartofler produceret i tredjelande'
+  type: main
+- language: el
+  script: Grek
+  content: '84/99/ΕΟΚ: Απόφαση του Συμβουλίου της 21ης
+    Φεβρουαρίου 1984 που τροποποιεί την απόφαση
+    81/956/ΕΟΚ περί της ισοδυναμίας των σπόρων γεωμήλων
+    προς φύτευση που παράγονται σε τρίτες χώρες'
+  type: main
+- language: it
+  script: Latn
+  content: '84/99/CEE: Decisione del Consiglio del 21 febbraio 1984 che modifica la
+    decisione 81/956/CEE relativa all'' equivalenza dei tuberi-seme di patate prodotti
+    in paesi terzi'
+  type: main
+- language: nl
+  script: Latn
+  content: '84/99/EEG: Beschikking van de Raad van 21 februari 1984 tot wijziging
+    van Beschikking 81/956/EEG betreffende de gelijkstelling van in derde landen voortgebrachte
+    pootaardappelen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984D0099
+docidentifier:
+- content: EU Decision 1984/99
+  type: EU
+  primary: true
+- content: CELEX 31984D0099
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1984/99/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-02-21'
+- type: implemented
+  at: '1983-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981D0956
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

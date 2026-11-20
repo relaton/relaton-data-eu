@@ -1,0 +1,88 @@
+---
+id: EURegulation9521971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 952/71 de la Commission, du 7 mai 1971, modifiant
+    les règlements n° 2637/70 et 2683/70 en ce qui concerne la fixation à l'avance
+    de la restitution et de la durée de validité du certificat d'exportation pour
+    le lait entier en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 952/71 der Kommission vom 7. Mai 1971 zur Änderung
+    der Verordnungen (EWG) Nrn. 2637/70 und 2683/70 hinsichtlich der Vorausfestsetzung
+    der Erstattung und der Gültigkeitsdauer der Ausfuhrlizenz für Vollmilchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 952/71 della Commissione, del 7 maggio 1971, che modifica
+    i regolamenti (CEE) nn. 2637/70 e 2683/70 per quanto concerne la fissazione in
+    anticipo della restituzione e la durata del titolo d'esportazione per il latte
+    intero in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 952/71 van de Commissie van 7 mei 1971 houdende wijziging
+    van de Verordeningen (EEG) nrs. 2637/70 en 2683/70 met betrekking tot het vooraf
+    vaststellen van restituties en de geldigheidsduur van het uitvoercertificaat voor
+    volle-melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0952
+docidentifier:
+- content: EU Regulation 952/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0952
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/952/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-07'
+- type: implemented
+  at: '1971-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2683
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

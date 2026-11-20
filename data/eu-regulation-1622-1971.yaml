@@ -1,0 +1,80 @@
+---
+id: EURegulation16221971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1622/71 de la Commission, du 27 juillet 1971, abrogeant
+    le règlement (CEE) n° 1505/70 relatif à certaines mesures à prendre dans les
+    secteurs des céréales et du riz à la suite de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1622/71 der Kommission vom 27. Juli 1971 betreffend
+    die Aufhebung der Verordnung (EWG) Nr. 1505/70 über bestimmte Maßnahmen auf
+    den Sektoren Getreide und Reis infolge der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1622/71 della Commissione, del 27 luglio 1971, che
+    abroga il regolamento (CEE) n. 1505/70 relativo a talune misure da adottare nei
+    settori dei cereali e del riso a seguito della svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1622/71 van de Commissie van 27 juli 1971 houdende
+    intrekking van Verordening (EEG) nr. 1505/70 betreffende ingevolge de devaluatie
+    van de Franse frank in de sector granen en rijst te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1622
+docidentifier:
+- content: EU Regulation 1622/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1622
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1622/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-27'
+- type: implemented
+  at: '1971-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1505
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

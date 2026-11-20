@@ -1,0 +1,97 @@
+---
+id: EUDecision1977801
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '77/801/EEC: Council Decision of 20 December 1977 amending Decision 71/66/EEC
+    on the reform of the European Social Fund'
+  type: main
+- language: fr
+  script: Latn
+  content: '77/801/CEE: Décision du Conseil, du 20 décembre 1977, modifiant la décision
+    71/66/CEE concernant la réforme du Fonds social européen'
+  type: main
+- language: de
+  script: Latn
+  content: '77/801/EWG: Beschluß des Rates vom 20. Dezember 1977 zur Änderung des
+    Beschlusses 71/66/EWG über die Reform des Europäischen Sozialfonds'
+  type: main
+- language: da
+  script: Latn
+  content: '77/801/EØF: Rådets Afgørelse af 20. december 1977 om ændring af afgørelse
+    71/66/EØF om reformen af Den europæiske Socialfond'
+  type: main
+- language: el
+  script: Grek
+  content: '77/801/ΕΟΚ: Απόφαση τού Συμβουλίου τής 20ής
+    Δεκεμβρίου 1977 περί τροποποιήσεως τής αποφάσεως
+    71/66/ΕΟΚ «περί αναμορφώσεως τού Ευρωπαϊκού Κοινωνικού
+    Ταμείου»'
+  type: main
+- language: it
+  script: Latn
+  content: '77/801/CEE: Decisione del Consiglio, del 20 dicembre 1977, che modifica
+    la decisione 71/66/CEE relativa alla riforma del Fondo sociale europeo'
+  type: main
+- language: nl
+  script: Latn
+  content: '77/801/EEG: Besluit van de Raad van 20 december 1977 tot wijziging van
+    Besluit 71/66/EEG betreffende de hervorming van het Europees Sociaal Fonds'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977D0801
+docidentifier:
+- content: EU Decision 1977/801
+  type: EU
+  primary: true
+- content: CELEX 31977D0801
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1977/801/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-20'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971D0066
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

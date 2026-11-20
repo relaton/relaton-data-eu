@@ -1,0 +1,82 @@
+---
+id: EURegulation22281972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2228/72 de la Commission, du 19 octobre 1972, modifiant
+    les taux des restitutions applicables au sucre et aux sirops de betterave ou de
+    canne exportés sous forme de marchandises ne relevant pas de l'annexe II du Traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2228/72 der Kommission vom 19. Oktober 1972 zur Änderung
+    der Erstattungssätze für die Ausfuhr von Zucker und von Sirupen aus Zuckerrüben
+    oder Zuckerrohr in Form von nicht unter Anhang II des Vertrages fallenden Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2228/72 della Commissione, del 19 ottobre 1972, che
+    modifica i tassi delle restituzioni applicabili allo zucchero e agli sciroppi
+    di barbabietola o di canna esportati sotto forma di merci non comprese nell'allegato
+    II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2228/72 van de Commissie van 19 oktober 1972 tot
+    wijziging van de restitutiebedragen voor suiker en voor stropen uit suikerbieten
+    of suikerriet uitgevoerd in de vorm van niet in bijlage II van het Verdrag vermelde
+    goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2228
+docidentifier:
+- content: EU Regulation 2228/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2228
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2228/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-19'
+- type: implemented
+  at: '1972-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2089
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

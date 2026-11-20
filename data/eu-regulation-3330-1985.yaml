@@ -1,0 +1,96 @@
+---
+id: EURegulation33301985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3330/85 of 5 December 1985 amending Regulation
+    (EEC) No 950/68 on the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 3330/85 du Conseil du 5 décembre 1985 modifiant le
+    règlement (CEE) no 950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3330/85 des Rates vom 5. Dezember 1985 zur Änderung
+    der Verordnung (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3330/85 af 5. december 1985 om ændring af
+    forordning (EØF) nr. 950/68 om den fælles toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3330/85 του Συμβουλίου
+    της 5ης Δεκεμβρίου 1985 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 950/68 περί του κοινού δασμολογίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3330/85 del Consiglio del 5 dicembre 1985 che modifica
+    il regolamento (CEE) n. 950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3330/85 van de Raad van 5 december 1985 tot wijziging
+    van Verordening (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R3330
+docidentifier:
+- content: EU Regulation 3330/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R3330
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/3330/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-12-05'
+- type: implemented
+  at: '1986-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0950
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

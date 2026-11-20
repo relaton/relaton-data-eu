@@ -1,0 +1,78 @@
+---
+id: EUDecision1966744
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/744/CEE du Conseil du 22 décembre 1966, portant suspension
+    totale des droits du Tarif douanier commun applicables à certains produits utilisés
+    à des fins d'entretien ou de réparation sur des avions d'un poids à vide supérieur
+    à 15.000 kg
+  type: main
+- language: de
+  script: Latn
+  content: '66/744/EWG: Entscheidung des Rates vom 22. Dezember 1966 über die vollständige
+    Aussetzung der Zollsätze des Gemeinsamen Zolltarifs für bestimmte Erzeugnisse,
+    die zur Instandhaltung oder Reparatur von Luftfahrzeugen mit einem Leergewicht
+    von mehr als 15 000 kg verwendet werden'
+  type: main
+- language: it
+  script: Latn
+  content: '66/744/CEE: Decisione del Consiglio, del 22 dicembre 1966, recante sospensione
+    totale dei dazi della tariffa doganale comune applicabili ad alcuni prodotti utilizzati
+    per l''equipaggiamento, la manutenzione o la riparazione di aeroplani del peso
+    a vuoto superiore a 15.000 kg'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/744/EEG: Beschikking van de Raad van 22 december 1966 houdende algehele
+    schorsing van de rechten van het gemeenschappelijk douanetarief voor sommige produkten
+    welke worden gebruikt voor onderhoud of reparatie van vliegtuigen met een leeggewicht
+    van meer dan 15.000 kilogram'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0744
+docidentifier:
+- content: EU Decision 1966/744
+  type: EU
+  primary: true
+- content: CELEX 31966D0744
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/744/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-22'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

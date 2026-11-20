@@ -1,0 +1,69 @@
+---
+id: EURegulation15021969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1502/69 de la Commission, du 30 juillet 1969, fixant
+    les coefficients d'adaptation à appliquer au prix d'achat prévu pour les pommes
+    par le règlement (CEE) n 1494/69 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1502/69 der Kommission vom 30. Juli 1969 zur Festsetzung
+    der Anpassungskoeffizienten für den Ankaufspreis für Äpfel nach Verordnung
+    (EWG) Nr. 1494/69 des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1502/69 della Commissione, del 30 luglio 1969, che
+    fissa i coefficienti di adattamento da applicare al prezzo di acquisto previsto
+    per le mele dal regolamento (CEE) n. 1494/69 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1502/69 van de Commissie van 30 juli 1969 houdende
+    vaststelling van de aanpassingscoëfficiënten die moeten worden toegepast op
+    de bij Verordening (EEG) nr. 1494/69 van de Raad voor appelen vastgestelde aankoopprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1502
+docidentifier:
+- content: EU Regulation 1502/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1502
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1502/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

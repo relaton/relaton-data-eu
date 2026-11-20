@@ -1,0 +1,70 @@
+---
+id: EURegulation681965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 68/65/CEE de la Commission, du 24 mai 1965, modifiant un coefficient
+    d'équivalence entre une qualité de blé dur offerte sur le marché mondial et
+    le standard de qualité pour lequel est fixé le prix de seuil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 68/65/EWG der Kommission vom 24. Mai 1965 zur Änderung
+    eines Ausgleichskoeffizienten zwischen einer auf dem Weltmarkt angebotenen Hartweizenqualität
+    und der für den Schwellenpreis maDgebenden Standardqualität
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 68/65/CEE della Commissione, del 24 maggio 1965, che modifica
+    il coefficiente di equivalenza tra una qualità di grano duro offerta sul mercato
+    mondiale e la qualità tipo per la quale è fissato il prezzo d'entrata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 68/65/EEG van de Commissie van 24 mei 1965 tot wijziging
+    van de gelijkwaardigheidscoëfficiënt voor een op de wereldmarkt aangeboden kwaliteit
+    durum tarwe ten opzichte van de standaardkwaliteit waarvoor de drempelprijs is
+    bepaald
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0068
+docidentifier:
+- content: EU Regulation 68/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0068
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/68/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-05-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

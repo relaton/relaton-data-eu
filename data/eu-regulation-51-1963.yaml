@@ -1,0 +1,79 @@
+---
+id: EURegulation511963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 51/63/CEE du Conseil du 21 juin 1963 concernant le maintien
+    des dispositions du règlement n° 117 du Conseil relatif au régime applicable
+    au glucose et au sirop de glucose
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 51/63/EWG des Rats vom 21. Juni 1963 betreffend die Beibehaltung
+    der Verordnung Nr. 117 des Rats über die Regelung für Glukose und Glukosesirup
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 51/63/CEE del Consiglio del 21 giugno 1963 per il mantenimento
+    delle disposizioni del regolamento n. 117 del Consiglio relativo al regime applicabile
+    al glucosio ed allo sciroppo di glucosio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 51/63/EEG van de Raad van 21 juni 1963 inzake de handhaving
+    van de bepalingen van Verordening Nr. 117 van de Raad betreffende de regeling
+    voor glucose (druivensuiker) en glucosestroop
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0051
+docidentifier:
+- content: EU Regulation 51/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0051
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/51/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-06-21'
+- type: implemented
+  at: '1963-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0117
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

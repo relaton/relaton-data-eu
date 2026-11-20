@@ -1,0 +1,94 @@
+---
+id: EURegulationNo20901970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2090/70 of the Council of 20 October 1970 amending
+    Regulation No 213/67/EEC establishing the list of representative markets for pigmeat
+    in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2090/70 du Conseil, du 20 octobre 1970, modifiant
+    le règlement" n° 213/67/CEE établissant la liste des marchés représentatifs
+    pour le secteur de la viande de porc dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2090/70 des Rates vom 20. Oktober 1970 zur Änderung
+    der Verordnung Nr. 213/67/EWG zur Festsetzung des Verzeichnisses der repräsentativen
+    Märkte für den Schweinefleischsektor in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2090/70 af 20.oktober 1970 om ændring af
+    forordning nr. 213/67/EØF om oprettelse af fortegnelsen over de repræsentative
+    markeder for svinekødssektoren inden for Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2090/70 del Consiglio, del 20 ottobre 1970, che modifica
+    il regolamento n. 213/67/CEE che stabilisce l' elenco dei mercati rappresentativi
+    per il settore delle carni suine nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2090/70 van de Raad van 20 oktober 1970 houdende
+    wijziging van Verordening nr. 213/67/EEG tot vaststelling van de lijst van de
+    representatieve markten voor de sector varkensvlees in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2090
+docidentifier:
+- content: EU Regulation No 2090/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2090
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2090/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-20'
+- type: implemented
+  at: '1970-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0213
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

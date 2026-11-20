@@ -1,0 +1,94 @@
+---
+id: EURegulation21611972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2161/72 of the Commission of 10 October 1972 amending
+    Regulation (EEC) No 1259/72 on the disposal of butter at a reduced price to certain
+    Community processing undertakings
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2161/72 de la Commission, du 10 octobre 1972, modifiant
+    le règlement (CEE) n° 1259/72 relatif à la mise à disposition de beurre à
+    prix réduit à certaines entreprises de transformation de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2161/72 der Kommission vom 10. Oktober 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1259/72 über den Absatz von Butter zu herabgesetzten
+    Preisen an bestimmte Verarbeitungsbetriebe in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2161/72 af 10. oktober 1972 om ændring
+    af forordning (EØF) nr. 1259/72 om afsætning af smør til nedsatte priser til
+    visse forarbejdningsvirksomheder inden for Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2161/72 della Commissione, del 10 ottobre 1972, che
+    modifica il regolamento (CEE) n. 1259/72 che prevede di mettere a disposizione
+    di talune imprese di trasformazione della Comunità burro a prezzo ridotto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2161/72 van de Commissie van 10 oktober 1972 houdende
+    wijziging van Verordening (EEG) nr. 1259/72 betreffende het ter beschikking stellen
+    van boter tegen verlaagde prijs aan bepaalde verwerkende industrieën in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2161
+docidentifier:
+- content: EU Regulation 2161/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2161
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2161/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-10'
+- type: implemented
+  at: '1972-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1259
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

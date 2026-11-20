@@ -1,0 +1,96 @@
+---
+id: EUDecision1977413
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '77/413/EEC: Council Decision of 14 June 1977 on the import arrangements
+    to be applied in respect of the Socialist Republic of Vietnam'
+  type: main
+- language: fr
+  script: Latn
+  content: '77/413/CEE: Décision du Conseil, du 14 juin 1977, relative au régime
+    d''importation à appliquer à l''égard de la République socialiste du Viêt-nam'
+  type: main
+- language: de
+  script: Latn
+  content: '77/413/EWG: Entscheidung des Rates vom 14. Juni 1977 über die Einfuhrregelung
+    gegenüber der Sozialistischen Republik Vietnam'
+  type: main
+- language: da
+  script: Latn
+  content: '77/413/EØF: Rådets Beslutning af 14. juni 1977 om den importordning,
+    der skal gælde for Den socialistiske republik Vietnam'
+  type: main
+- language: it
+  script: Latn
+  content: '77/413/CEE: Decisione del Consiglio, del 14 giugno 1977, relativa al regime
+    di importazione da applicare nei confronti della Repubblica socialista del Vietnam'
+  type: main
+- language: nl
+  script: Latn
+  content: '77/413/EEG: Beschikking van de Raad van 14 juni 1977 betreffende de invoerregeling
+    die ten opzichte van de Socialistische Republiek Vietnam moet worden toegepast'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977D0413
+docidentifier:
+- content: EU Decision 1977/413
+  type: EU
+  primary: true
+- content: CELEX 31977D0413
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1977/413/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-06-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1439
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975D0210
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0971
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,105 @@
+---
+id: EURegulation2851980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) N0 285/80 of 7 February 1980 amending Regulation
+    (EEC) No 2524/79 and for the second time Regulation (EEC) No 1715/79 as regards
+    the dates set for the distillation of the by-products of wine-making for the 1978/79
+    wine-growing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 285/80 de la Commission, du 7 février 1980, modifiant
+    le règlement (CEE) n° 2524/79 portant deuxième modification du règlement (CEE)
+    n° 1715/79 en ce qui concerne les dates prévues pour la distillation des sous-produits
+    de la vinification pour la campagne 1978/1979
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 285/80 der Kommission vom 7. Februar 1980 zur Änderung
+    der Verordnung (EWG) Nr. 2524/79 und zur zweiten Änderung der Verordnung (EWG)
+    Nr. 1715/79 hinsichtlich der für die Destillation der Nebenerzeugnisse der Weinbereitung
+    für das Wirtschaftsjahr 1978/79 vorgesehenen Termine
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 285/80 af 7. februar 1980 om ændring
+    af forordning (EØF) nr. 2524/79 og anden ændring af forordning (EØF) nr. 1715/79
+    for så vidt angår de datoer, der er fastsat for destillering af biprodukter
+    fra vinfremstilling for vinproduktionsåret 1978/79
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 285/80 della Commissione, del 7 febbraio 1980, recante
+    modifica del regolamento (CEE) n. 2524/79 e seconda modifica del regolamento (CEE)
+    n. 1715/79 per quanto concerne le date previste per la distillazione dei sottoprodotti
+    della vinificazione per la campagna 1978/1979
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 285/80 van de Commissie van 7 februari 1980 houdende
+    wijziging van Verordening (EEG) nr. 2524/79 en tweede wijziging van Verordening
+    (EEG) nr. 1715/79 ten aanzien van de data die voor het wijnoogstjaar 1978/1979
+    zijn vastgesteld voor de distillatie van de bijprodukten van de wijnbereiding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0285
+docidentifier:
+- content: EU Regulation 285/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0285
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/285/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-02-07'
+- type: implemented
+  at: '1979-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1715
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2524
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

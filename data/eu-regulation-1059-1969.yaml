@@ -1,0 +1,102 @@
+---
+id: EURegulation10591969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1059/69 of the Council of 28 May 1969 laying down the
+    trade arrangements applicable to certain goods resulting from the processing of
+    agricultural products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1059/69 du Conseil, du 28 mai 1969, déterminant le
+    régime d' échanges applicable à certaines marchandises résultant de la transformation
+    de produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1059/69 des Rates vom 28. Mai 1969 zur Festlegung
+    der Handelsregelung für bestimmte, aus landwirtschaftlichen Erzeugnissen hergestellte
+    Waren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1059/69 af 28. maj 1969 om fastsættelse
+    af en ordning for handelen med visse varer fremstillet af landbrugsprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1059/69 τού Συμβουλίου
+    τής 28ης Μαΐου 1969 περί καθορισμού τού καθεστώτος
+    συναλλαγών πού εφαρμόζεται σέ ορισμένα εμπορεύματα
+    προερχόμενα από τήν μεταποίηση γεωργικών προϊόντων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1059/69 del Consiglio, del 28 maggio 1969, che determina
+    il regime di scambi applicabile a talune merci risultanti dalla trasformazione
+    di prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1059/69 van de Raad van 28 mei 1969 tot vaststelling
+    van de handelsregeling die van toepassing is op bepaalde goederen, verkregen door
+    verwerking van landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1059
+docidentifier:
+- content: EU Regulation 1059/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1059
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1059/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-28'
+- type: implemented
+  at: '1969-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0160
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

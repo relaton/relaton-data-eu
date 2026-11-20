@@ -1,0 +1,79 @@
+---
+id: EURegulation16261971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1626/71 du Conseil, du 26 juillet 1971, portant augmentation
+    du volume du contingent tarifaire communautaire de magnésium brut de la sous-
+    position 77.01 A
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1626/71 des Rates vom 26. Juli 1971 zur Erhöhung
+    des Gemeinschaftszollkontingents für Rohmagnesium der Tarifstelle 77.01 A
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1626/71 del Consiglio, del 26 luglio 1971, che aumenta
+    il volume del contingente tariffario comunitario di magnesio greggio della sottovoce
+    77.01 A
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1626/71 van de Raad van 26 juli 1971 houdende verhoging
+    van het communautaire tariefcontingent voor ruw magnesium van onderverdeling 77.01
+    A
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1626
+docidentifier:
+- content: EU Regulation 1626/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1626
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1626/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2583
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

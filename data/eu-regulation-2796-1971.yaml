@@ -1,0 +1,74 @@
+---
+id: EURegulation27961971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2796/71 du Conseil, du 20 décembre 1971, portant
+    ouverture, répartition et mode de gestion de contingents tarifaires communautaires
+    pour certains produits textiles originaires de pays en voie de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2796/71 des Rates vom 20. Dezember 1971 über die
+    Eröffnung, Aufteilung und Verwaltung von Gemeinschaftszollkontingenten betreffend
+    bestimmte Textilwaren mit Ursprung in Entwicklungsländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2796/71 del Consiglio, del 20 dicembre 1971, relativo
+    all'apertura, alla ripartizione e alle modalità di gestione dei contingenti tariffari
+    comunitari per alcuni prodotti tessili originari di paesi in via di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2796/71 van de Raad van 20 december 1971 betreffende
+    de opening, de verdeling en de wijze van beheer van communautaire tariefcontingenten
+    voor bepaalde textielprodukten van oorsprong uit ontwikkelingslanden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2796
+docidentifier:
+- content: EU Regulation 2796/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2796
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2796/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-20'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

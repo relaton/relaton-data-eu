@@ -1,0 +1,98 @@
+---
+id: EURegulation9661970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (Euratom) nº966/70 du Conseil, du 25 mai 1970, modifiant les
+    conditions applicables en matière de rémunération et de sécurité sociale
+    aux agents d' établissement du Centre commun de recherches nucléaires affectés
+    aux Pays-Bas
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom) Nr. 966/70 des Rates vom 25. Mai 1970 zur Änderung
+    der Regelung der Bezüge und der sozialen Sicherheit der Atomanlagenbediensteten
+    der Gemeinsamen Kernforschungsstelle, die in den Niederlanden dienstlich verwendet
+    werden
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (EURATOM) N:o 966/70, annettu 25 päivänä toukokuuta
+    1970, yhteisen ydintutkimuskeskuksen Alankomaissa olevan henkilöstön palkkaan
+    ja sosiaaliturvaan sovellettavien edellytysten muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom) n. 966/70 del Consiglio, del 25 maggio 1970, che
+    modifica le condizioni applicabili in materia di retribuzione e di sicurezza sociale
+    agli agenti degli stabilimenti del Centro comune di ricerche nucleari che prestano
+    servizio nei Paesi Bassi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom) nr. 966/70 van de Raad van 25 mei 1970 tot wijziging
+    van de regeling inzake de bezoldiging en de sociale zekerheid van de functionarissen,
+    verbonden aan een inrichting van het Gemeenschappelijk Centrum voor Onderzoek
+    op het gebied van de Kernenergie, en tewerkgesteld in Nederland
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (Euratom) nr 966/70 av den 25 maj 1970 om ändring
+    av villkoren avseende lön och social trygghet för sådan anställda vid anläggningar
+    för Gemensamma centret för kärnforskning som tjänstgör i Nederländerna
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0966
+docidentifier:
+- content: EU Regulation 966/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0966
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/966/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-25'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0007
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

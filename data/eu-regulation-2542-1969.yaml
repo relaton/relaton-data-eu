@@ -1,0 +1,82 @@
+---
+id: EURegulation25421969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2542/69 du Conseil, du 16 décembre 1969, portant
+    prorogation, pour l'année 1969, du délai prévu par l'article 20 paragraphe
+    1 du règlement n° 17/64/CEE relatif aux conditions du concours du FEOGA
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2542/69 des Rates vom 16. Dezember 1969 über eine
+    Verlängerung der in Artikel 20 Absatz 1 der Verordnung Nr. 17/64/EWG über die
+    Bedingungen für die Beteiligung des Europäischen Ausrichtungs- und Garantiefonds
+    für die Landwirtschaft vorgesehenen Frist für das Jahr 1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2542/69 del Consiglio, del 16 dicembre 1969, che proroga,
+    per il 1969, il termine previsto dall'articolo 20, paragrafo 1, del regolamento
+    n. 17/64/CEE, relativo alle condizioni di concorso del FEAOG
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2542/69 van de Raad van 16 december 1969 houdende
+    verlenging voor het jaar 1969 van de termijn, voorgeschreven in artikel 20, lid
+    1, van Verordening nr. 17/64/EEG betreffende de voorwaarden voor het verlenen
+    van bijstand door het EOGFL
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2542
+docidentifier:
+- content: EU Regulation 2542/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2542
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2542/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-16'
+- type: implemented
+  at: '1969-12-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R2010
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

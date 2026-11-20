@@ -1,0 +1,99 @@
+---
+id: EURegulation17791976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1779/76 of 20 July 1976 amending Regulation
+    (EEC) No 1930/75 laying down special provisions applicable to trade in tomato
+    concentrates between the Community as originally constituted and the new Member
+    States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1779/76 du Conseil, du 20 juillet 1976, modifiant
+    le règlement (CEE) n° 1930/75 portant dispositions spéciales applicables aux
+    échanges entre la Communauté dans sa composition originaire et les nouveaux
+    États membres pour les concentrés de tomates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1779/76 des Rates vom 20. Juli 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1930/75 über Sondervorschriften für den Handel mit
+    Tomatenkonzentraten zwischen der Gemeinschaft in ihrer ursprünglichen Zusammensetzung
+    und den neuen Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1779/76 af 20. juli 1976 om ændring af forordning
+    (EØF) nr. 1930/75 om særlige bestemmelser for samhandelen mellem Fællesskabet
+    i dets oprindelige udstrækning og de nye medlemsstater for så vidt angår tomatkoncentrater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1779/76 del Consiglio, del 20 luglio 1976, che modifica
+    il regolamento (CEE) n. 1930/75 recante disposizioni speciali applicabili agli
+    scambi di concentrati di pomodori tra la Comunità nella sua composizione originaria
+    e i nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1779/76 van de Raad van 20 juli 1976 tot wijziging
+    van Verordening (EEG) nr. 1930/75 houdende bijzondere bepalingen voor het handelsverkeer
+    in tomatenpuree tussen de Gemeenschap in haar oorspronkelijke samenstelling en
+    de nieuwe Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1779
+docidentifier:
+- content: EU Regulation 1779/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1779
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1779/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-20'
+- type: implemented
+  at: '1976-07-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1930
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

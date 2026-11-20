@@ -1,0 +1,94 @@
+---
+id: EURegulation26641970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2664/70 of the Commission of 29 December 1970 extending
+    the time limit set in Article 55 (1) of Regulation (EEC) No 542/69 on Community
+    transit
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2664/70 de la Commission, du 29 décembre 1970, concernant
+    la prolongation de la durée de la période visée à l' article 55 paragraphe
+    1 du règlement (CEE)" n° 542/69, relatif au transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2664/70 der Kommission vom 29. Dezember 1970 über
+    die Verlängerung der in Artikel 55 Absatz 1 der Verordnung (EWG) Nr. 542/69 über
+    das gemeinschaftliche Versandverfahren genannten Frist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2664/70 af 29. december 1970 om forlængelse
+    af den i artikel 55, stk. 1, i forordning (EØF) nr. 542/69 om fællesskabsforsendelse
+    anførte frist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2664/70 della Commissione, del 29 dicembre 1970, relativo
+    alla proroga della durata del periodo di cui all' articolo 55, paragrafo 1, del
+    regolamento (CEE) n. 542/69 relativo al transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2664/70 van de Commissie van 29 december 1970 betreffende
+    de verlenging van de in artikel 55, lid 1, van Verordening (EEG) nr. 542/69 betreffende
+    communautair douanevervoer bedoelde termijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2664
+docidentifier:
+- content: EU Regulation 2664/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2664
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2664/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-29'
+- type: implemented
+  at: '1970-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0542
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

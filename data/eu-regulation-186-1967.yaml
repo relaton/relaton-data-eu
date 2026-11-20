@@ -1,0 +1,83 @@
+---
+id: EURegulation1861967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 186/67/CEE du Conseil, du 27 juin 1967, modifiant le règlement
+    n° 215/66/CEE pour tenir compte de l'incidence du règlement n° 120/67/CEE sur
+    le régime des échanges applicable aux aliments composés à base de produits
+    laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 186/67/EWG des Rates vom 27. Juni 1967 zur Änderung der
+    Verordnung Nr. 215/66/EWG mit dem Ziel, der Auswirkung der Verordnung Nr. 120/67/EWG
+    auf die Handelsregelung für Milch-Mischfuttermittel Rechnung zu tragen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 186/67/CEE del Consiglio, del 27 giugno 1967, che modifica
+    il regolamento n. 215/66/CEE per tener conto dell'incidenza del regolamento n.
+    120/67/CEE sul regime degli scambi applicabile agli alimenti composti a base di
+    prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 186/67/EEG van de Raad van 27 juni 1967, houdende wijziging
+    van Verordening Nr. 215/66/EEG ten einde rekening te houden met de invloed van
+    Verordening Nr. 120/67/EEG op de regeling van het handelsverkeer voor mengvoeders
+    op basis van zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0186
+docidentifier:
+- content: EU Regulation 186/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0186
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/186/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0215
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

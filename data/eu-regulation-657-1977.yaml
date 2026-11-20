@@ -1,0 +1,94 @@
+---
+id: EURegulation6571977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 657/77 of 30 March 1977 amending Regulation
+    (EEC) No 2306/76 limiting the private storage of Grana Padano and Parmigiano Reggiano
+    cheeses
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 657/77 de la Commission, du 30 mars 1977, modifiant
+    le règlement (CEE) n° 2306/76 relatif à la limitation du stockage privé des
+    fromages grana padano et parmigiano reggiano
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 657/77 der Kommission vom 30. März 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2306/76 zur Beschränkung der privaten Lagerhaltung der
+    Käsesorten Grana Padano und Parmigiano Reggiano
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 657/77 af 30. marts 1977 om ændring
+    af forordning (EØF) nr. 2306/76 om midlertidig begrænsning af privat oplagring
+    af ostene Grana padano og Parmigiano Reggiano
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 657/77 della Commissione, del 30 marzo 1977, che modifica
+    il regolamento (CEE) n. 2306/76 recante limitazione dell'ammasso privato del Grana
+    Padano e del Parmigiano Reggiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 657/77 van de Commissie van 30 maart 1977 houdende
+    wijziging van Verordening (EEG) nr. 2306/76 met betrekking tot de beperking van
+    de particuliere opslag van Grana Padano en Parmigiano-Reggiano-kaas
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0657
+docidentifier:
+- content: EU Regulation 657/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0657
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/657/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-30'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2306
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

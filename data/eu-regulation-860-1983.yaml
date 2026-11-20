@@ -1,0 +1,137 @@
+---
+id: EURegulation8601983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 860/83 of 12 April 1983 amending Regulations
+    No 80/63/EEC, (EEC) No 2638/69 and (EEC) No 496/70 with regard to the list of
+    authorities responsible in each Member State for quality inspection of fruit and
+    vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 860/83 de la Commission du 12 avril 1983 modifiant
+    les règlements no 80/63/CEE, (CEE) no 2638/69 et (CEE) no 496/70 en ce qui concerne
+    la liste des organismes chargés par chaque État membre de l' exécution du contrôle
+    de qualité dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 860/83 der Kommission vom 12. April 1983 zur Änderung
+    der Verordnungen Nr. 80/63/EWG, (EWG) Nr. 2638/69 und (EWG) Nr. 496/70 hinsichtlich
+    der Liste der von den einzelnen Mitgliedstaaten mit der Durchführung der Qualitätskontrolle
+    von Obst und Gemüse beauftragten Stellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 860/83 af 12. april 1983 om ændring
+    af forordning nr. 80/63/EØF, (EØF) nr. 2638/69 og (EØF) nr. 496/70 for så
+    vidt angår listen over de organer, som de enkelte medlemsstater har udpeget til
+    at foretage kvalitetskontrol med frugt og grønsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 860/83 της Επιτροπής
+    της 12ης Απριλίου 1983 που τροποποιεί τους κανονισμούς
+    αριθ. 80/63/ΕΟΚ, (ΕΟΚ) αριθ. 2638/69 και (ΕΟΚ) αριθ. 496/70
+    όσον αφορά τον κατάλογο των οργανισμών στους
+    οποίους έχει ανατεθεί από κάθε Κράτος μέλος
+    ο ποιοτικός έλεγχος στον τομέα των οπωροκηπευτικών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 860/83 della Commissione del 12 aprile 1983 che modifica
+    i regolamenti n. 80/63/CEE, (CEE) n. 2638/69 e (CEE) n. 496/70 per quanto concerne
+    l' elenco degli organismi incaricati da ciascuno Stato membro dell' esecuzione
+    del controllo di qualità nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 860/83 van de Commissie van 12 april 1983 tot wijziging
+    van de Verordeningen nr. 80/63/EEG, (EEG) nr. 2638/69 en (EEG) nr. 496/70 ten
+    aanzien van de lijst der instellingen die door de Lid-Staten belast zijn met de
+    uitvoering van de kwaliteitscontrole in de sector groenten en fruit
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 860/83 da Comissão, de 12 de Abril de 1983, que
+    altera os Regulamentos (CEE) n.° 80/63/CEE, (CEE) n.° 2638/69 e (CEE) n.° 496/70
+    no que respeita à lista dos organismos encarregados por cada Estado-membro da
+    execução do controlo de qualidade no sector das frutas e produtos hortícolas
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 860/83 de la Comisión, de 12 de abril de 1983, por
+    el que se modifican los Reglamentos n° 80/63/CEE, (CEE) n° 2638/69 y (CEE) n°
+    496/70 en lo que se refiere a la lista de los organismos encargados por cada Estado
+    miembro de la ejecución del control de calidad en el sector de las frutas y hortalizas
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0860
+docidentifier:
+- content: EU Regulation 860/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0860
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/860/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-04-12'
+- type: implemented
+  at: '1983-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0080
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2638
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0496
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

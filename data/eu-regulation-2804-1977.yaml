@@ -1,0 +1,93 @@
+---
+id: EURegulation28041977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2804/77 of 12 December 1977 amending for the
+    fourth time Regulation (EEC) No 1876/74 concerning the addition of alcohol to
+    products in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2804/77 du Conseil, du 12 décembre 1977, portant
+    quatrième modification du règlement (CEE) n° 1876/74 concernant l' adjonction
+    d' alcool aux produits relevant du secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2804/77 des Rates vom 12. Dezember 1977 zur vierten
+    Änderung der Verordnung (EWG) Nr. 1876/74 über den Zusatz von Alkohol zu Erzeugnissen
+    des Weinsektors
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2804/77 af 12. december 1977 om fjerde ændring
+    af forordning (EØF) nr. 1876/74 om tilsætning af alkohol til vinsektorens produkter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2804/77 del Consiglio,del 12 dicembre 1977, recante
+    quarta modifica del regolamento (CEE) n. 1876/74 concernente l' aggiunta di alcole
+    ai prodotti del settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2804/77 van de Raad van 12 december 1977 houdende
+    vierde wijziging van Verordening (EEG) nr. 1876/74 betreffende de toevoeging van
+    alcohol aan tot de wijnsector behorende produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2804
+docidentifier:
+- content: EU Regulation 2804/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2804
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2804/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-12'
+- type: implemented
+  at: '1977-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1876
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

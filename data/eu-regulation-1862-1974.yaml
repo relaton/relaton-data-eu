@@ -1,0 +1,95 @@
+---
+id: EURegulation18621974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1862/74 of the Council of 15 July 1974 amending Regulation
+    (EEC) No 765/68 laying down general rules for the production refund on sugar used
+    in the chemical industry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1862/74 du Conseil, du 15 juillet 1974, modifiant
+    le règlement (CEE) n° 765/68 établissant les règles générales applicables
+    à la restitution à la production pour le sucre utilisé dans l' industrie chimique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1862/74 des Rates vom 15. Juli 1974 zur Änderung
+    der Verordnung (EWG) Nr. 765/68 betreffend allgemeine Regeln für die Erstattung
+    bei der Erzeugung für in der chemischen Industrie verwendeten Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1862/74 af 15. juli 1974 om ændring af forordning
+    (EØF) nr. 765/68 om almindelige regler for produktionsrestitution for sukker,
+    der anvendes i den kemiske industri
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1862/74 del Consiglio, del 15 luglio 1974, che modifica
+    il regolamento (CEE) n. 765/68 che stabilisce le norme generali applicabili alla
+    restituzione alla produzione per lo zucchero utilizzato nell' industria chimica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1862/74 van de Raad van 15 juli 1974 tot wijziging
+    van Verordening (EEG) nr. 765/68 houdende vaststelling van de algemene voorschriften
+    inzake de restitutie bij de produktie voor suiker die in de chemische industrie
+    wordt gebruikt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1862
+docidentifier:
+- content: EU Regulation 1862/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1862
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1862/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-15'
+- type: implemented
+  at: '1974-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0765
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

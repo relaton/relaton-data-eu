@@ -1,0 +1,81 @@
+---
+id: EURegulation4041971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 404/71 de la Commission, du 25 février 1971, modifiant
+    le règlement (CEE) n° 900/70 relatif à des adjudications pour la fourniture
+    de 16 000 tonnes de butteroil destiné au programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 404/71 der Kommission vom 25. Februar 1971 zur Änderung
+    der Verordnung (EWG) Nr. 900/70 über Ausschreibungen zur Lieferung von 16 000
+    Tonnen Butteroil an das Welternährungsprogramm
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 404/71 della Commissione, del 25 febbraio 1971, che
+    modifica il regolamento (CEE) n. 900/70 relativo a taluni bandi di gara per la
+    fornitura di 16.000 tonnellate di butteroil destinato al Programma alimentare
+    mondiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 404/71 van de Commissie van 25 februari 1971 houdende
+    wijziging van Verordening (EEG) nr. 900/70 betreffende inschrijving voor de levering
+    van 16.000 ton butteroil in het kader van het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0404
+docidentifier:
+- content: EU Regulation 404/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0404
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/404/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-25'
+- type: implemented
+  at: '1971-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0900
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

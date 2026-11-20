@@ -1,0 +1,90 @@
+---
+id: EURegulation21963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 2/63/Euratom du Conseil, du 26 février 1963 modifiant les
+    articles 108 et 109 du statut des fonctionnaires de la Communauté économique
+    européenne et de la Communauté européenne de l énergie atomique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 2/63/Euratom des Rats vom 26. Februar 1963 zur Änderung
+    der Artikel 108 und 109 des Statuts der Beamten der Europäischen Wirtschaftsgemeinschaft
+    und der Europäischen Atomgemeinschaft
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός αριθ. 2/63/Ευρατόμ του Συμβουλίου
+    της 26ης Φεβρουαρίου 1963 περί τροποποίησης των
+    άρθρων 108 και 109 του κανονισμού υπηρεσιακής
+    κατάστασης των υπαλλήλων της Ευρωπαϊκής Οικονομικής
+    Κοινότητας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 2/63/Euratom del Consiglio del 26 febbraio 1963 relativo
+    alla modifica degli articoli 108 e 109 dello statuto dei funzionari della Comunità
+    economica europea e della Comunità europea dell energia atomica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 2/63/Euratom van de Raad van 26 februari 1963 tot wijziging
+    van de artikelen 108 en 109 van het statuut van de ambtenaren der europese economische
+    Gemeenschap en der europese Gemeenschap voor atoomenergie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0002
+docidentifier:
+- content: EU Regulation 2/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0002
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/2/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-02-26'
+- type: implemented
+  at: '1962-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0011(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

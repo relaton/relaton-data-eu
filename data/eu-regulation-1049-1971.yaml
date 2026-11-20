@@ -1,0 +1,74 @@
+---
+id: EURegulation10491971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1049/71 du Conseil, du 25 mai 1971, fixant, pour la
+    campagne de commercialisation 1971/1972, les prix indicatifs et les prix d'intervention
+    de base pour les graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1049/71 des Rates vom 25. Mai 1971 zur Festsetzung
+    der Richtpreise und Interventionsgrundpreise für Ölsaaten für das Wirtschaftsjahr
+    1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1049/71 del Consiglio, del 25 maggio 1971, che fissa
+    i prezzi indicativi e i prezzi d'intervento di base dei semi oleosi per la campagna
+    di commercializzazione 1971/1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1049/71 van de Raad van 25 mei 1971 houdende vaststelling
+    van de richtprijzen en de basisinterventieprijzen voor oliehoudende zaden voor
+    het verkoopseizoen 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1049
+docidentifier:
+- content: EU Regulation 1049/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1049
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1049/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-25'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

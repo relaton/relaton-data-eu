@@ -1,0 +1,85 @@
+---
+id: EURegulation531963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 53/63/CEE du Conseil du 21 juin 1963 portant prorogation
+    de la durée de validité du règlement n 156 du Conseil et du règlement n°
+    10/63/CEE du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 53/63/EWG des Rats vom 21. Juni 1963 zur Verlängerung der
+    Geltungsdauer der Verordnung Nr. 156 des Rats und der Verordnung Nr. 10/63/EWG
+    des Rats
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 53/63/CEE del Consiglio del 21 giugno 1963 relativo alla
+    proroga della durata di validità del regolamento n. 156 del Consiglio e del regolamento
+    n. 10/63/CEE del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 53/63/EEG van de Raad van 21 juni 1963 houdende verlenging
+    van de geldigheidsduur van Verordening Nr. 156 van de Raad en van Verordening
+    Nr. 10/63/EEG van de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0053
+docidentifier:
+- content: EU Regulation 53/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0053
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/53/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-06-21'
+- type: implemented
+  at: '1963-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0156
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0010
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

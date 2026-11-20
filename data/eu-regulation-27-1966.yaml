@@ -1,0 +1,74 @@
+---
+id: EURegulation271966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 27/66/CEE du Conseil, du 21 mars 1966, concernant les mesures
+    à appliquer en matière de prix d'orientation dans le secteur de la viande bovine
+    pour la campagne de commercialisation 1966-1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 27/66/EWG des Rates vom 21. März 1966 über Maßnahmen
+    auf dem Gebiet der Orientierungspreise für Rindfleisch für das Wirtschaftsjahr
+    1966/1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 27/66/CEE del Consiglio del 21 marzo 1966 relativo alle
+    misure da applicare in materia di prezzi d'orientamento nel settore delle carni
+    bovine per la campagna di commercializzazione 1966/1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 27/66/EEG van de Raad van 21 maart 1966 betreffende maatregelen,
+    toe te passen met betrekking tot de oriëntatieprijzen in de sector rundvlees
+    voor het verkoopseizoen 1966/1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0027
+docidentifier:
+- content: EU Regulation 27/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0027
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/27/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-03-21'
+- type: implemented
+  at: '1966-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

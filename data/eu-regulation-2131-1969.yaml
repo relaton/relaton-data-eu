@@ -1,0 +1,81 @@
+---
+id: EURegulation21311969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2131/69 de la Commission, du 28 octobre 1969, modifiant
+    le règlement (CEE) n° 1286/69 relatif à des adjudications permanentes pour
+    le lait écrémé en poudre destiné à la transformation en aliments composés
+    pour les porcs ou la volaille et détenu par les organismes d'intervention belge,
+    allemand, français et néerlandais
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2131/69 der Kommission vom 28. Oktober 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1286/69 über die Dauerausschreibung von Magermilchpulver,
+    das zur Verarbeitung zu Mischfutter für Schweine oder Geflügel bestimmt ist,
+    aus Beständen der belgischen, der deutschen, der französischen und der niederländischen
+    Interventionsstelle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2131/69 della Commissione, del 28 ottobre 1969, che
+    modifica il regolamento (CEE) n. 1286/69 relativo all'asta permanente per il latte
+    scremato in polvere appartenente agli organismi d'intervento belga, tedesco, francese
+    e olandese e destinato alla trasformazione in alimenti composti per suini o pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2131/69 van de Commissie van 28 oktober 1969 tot
+    wijziging van Verordening (EEG) nr. 1286/69 betreffende de permanente verkoop
+    bij inschrijving van magere-melkpoeder in het bezit van het Belgische, Duitse,
+    Franse en Nederlandse interventiebureau, bestemd voor verwerking tot mengvoeder
+    voor varkens of pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2131
+docidentifier:
+- content: EU Regulation 2131/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2131
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2131/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-28'
+- type: implemented
+  at: '1969-10-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

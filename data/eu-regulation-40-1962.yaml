@@ -1,0 +1,72 @@
+---
+id: EURegulation401962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: 'Règlement n° 40 du Conseil portant fixation du prix d''écluse applicable
+    aux volailles abattues des catégories suivantes : canard, dinde, oie, pintade
+    et poule pondeuse'
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 40 des Rats über die Festsetzung des Einschleusungspreises
+    für geschlachtete Enten, Puten, Gänse, Perlhühner und Legehühner
+  type: main
+- language: it
+  script: Latn
+  content: 'Regolamento n. 40 del Consiglio relativo alla determinazione del prezzo
+    limite per il pollame macellato delle categorie seguenti: anatre, tacchini, oche,
+    faraone e galline ovaiole'
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 40 van de Raad houdende vaststelling van de sluisprijs
+    voor geslachte eenden, kalkoenen, ganzen, parelhoenders en legkippen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0040
+docidentifier:
+- content: EU Regulation 40/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0040
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/40/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-06-20'
+- type: implemented
+  at: '1962-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

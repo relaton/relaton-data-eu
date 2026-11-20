@@ -1,0 +1,82 @@
+---
+id: EUDecision1966154
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/154/CEE de la Commission, du 7 février 1966, portant nouvelle
+    modification de sa décision du 30 novembre 1964, autorisant la perception de
+    taxes compensatoires à l'importation, en République française, de glucose (dextrose)
+    en provenance de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/154/EWG: Entscheidung der Kommission vom 7. Februar 1966 zur erneuten
+    Änderung ihrer Entscheidung vom 30. November 1964 über die Erhebung einer Ausgleichsabgabe
+    bei der Einfuhr von Glukose (Dextrose) aus verschiedenen Mitgliedstaaten in die
+    Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '66/154/CEE: Decisione della Commissione, del 7 febbraio 1966, che modifica
+    nuovamente la decisione del 30 novembre 1964 che autorizza la riscossione di tasse
+    di compensazione all''importazione nella Repubblica francese di glucosio (destrosio)
+    in provenienza da alcuni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/154/EEG: Beschikking van de Commissie van 7 februari 1966 tot nieuwe
+    wijziging van haar beschikking van 30 november 1964 houdende machtiging tot het
+    leggen van compenserende heffingen op de invoer in de Franse Republiek van glucose
+    (dextrose) uit bepaalde Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0154
+docidentifier:
+- content: EU Decision 1966/154
+  type: EU
+  primary: true
+- content: CELEX 31966D0154
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/154/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0694
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,71 @@
+---
+id: EURegulation6501968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 650/68 du Conseil, du 29 mai 1968, fixant les majorations
+    mensuelles des prix du riz pour la campagne 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 650/68 des Rates vom 29. Mai 1968 zur Festsetzung
+    der monatlichen Zuschläge zu den Preisen für Reis für das Wirtschaftsjahr 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 650/68 del Consiglio, del 29 maggio 1968, che fissa,
+    per la campagna 1968/1969, le maggiorazioni mensili dei prezzi del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 650/68 van de Raad van 29 mei 1968 houdende vaststelling
+    van de maandelijkse verhogingen van de prijzen voor rijst voor het verkoopseizoen
+    1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0650
+docidentifier:
+- content: EU Regulation 650/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0650
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/650/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-29'
+- type: implemented
+  at: '1968-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

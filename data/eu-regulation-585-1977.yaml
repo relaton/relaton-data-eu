@@ -1,0 +1,94 @@
+---
+id: EURegulation5851977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 585/77 of 18 March 1977 on the system of
+    import and export licences for beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 585/77 de la Commission, du 18 mars 1977, concernant
+    le régime des certificats d'importation et d'exportation dans le secteur de la
+    viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 585/77 der Kommission vom 18. März 1977 über die
+    Regelung für Einfuhr- und Ausfuhrlizenzen für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 585/77 af 18. marts 1977 om ordningen
+    med import- og eksportlicenser for oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 585/77 della Commissione, del 18 marzo 1977, relativo
+    al regime dei titoli d'importazione e d'esportazione nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 585/77 van de Commissie van 18 maart 1977 inzake
+    het stelsel van invoer- en uitvoercertificaten in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0585
+docidentifier:
+- content: EU Regulation 585/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0585
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/585/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-18'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2045
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2887
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

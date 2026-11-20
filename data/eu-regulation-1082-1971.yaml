@@ -1,0 +1,99 @@
+---
+id: EURegulation10821971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1082/71 of the Council of 25 May 1971 amending Regulations
+    (EEC) No 2455/70 and (EEC) No 166/71 laying down common marketing standards for
+    fishery products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1082/71 du Conseil, du 25 mai 1971, modifiant les
+    règlements (CEE)" n° 2455/70 et (CEE) n° 166/71 portant fixation de normes
+    communes de commercialisation dans le secteur de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1082/71 des Rates vom 25. Mai 1971 zur Änderung der
+    Verordnungen (EWG) Nr. 2455/70 und (EWG) Nr. 166/71 zur Festsetzung gemeinsamer
+    Vermarktungsnormen auf dem Fischereisektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1082/71 af 25. maj 1971 om ændring af forordningerne
+    (EØF) nr. 2455/70 og (EØF) nr. 166/71 om fastsættelse af fælles markedsnormer
+    for fiskerisektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1082/71 del Consiglio, del 25 maggio 1971, che modifica
+    i regolamenti (CEE) n. 2455/70 e (CEE) n. 166/71 che fissano norme comuni di commercializzazione
+    nel settore della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1082/71 van de Raad van 25 mei 1971 tot wijziging
+    van de Verordeningen (EEG) nr. 2455/70 en (EEG) nr. 166/71, houdende vaststelling
+    van gemeenschappelijke handelsnormen in de visserijsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1082
+docidentifier:
+- content: EU Regulation 1082/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1082
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1082/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-25'
+- type: implemented
+  at: '1971-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2455
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0166
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

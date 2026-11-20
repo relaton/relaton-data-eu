@@ -1,0 +1,65 @@
+---
+id: EURegulation9771967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 977/67/CEE de la Commission, du 11 décembre 1967, portant
+    fixation du montant supplémentaire pour les canards et les pintades abattus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 977/67/EWG der Kommission vom 11. Dezember 1967 über die
+    Festsetzung des Zusatzbetrags für geschlachtete Enten und Perlhühner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 977/67/CEE della Commissione, dell'11 dicembre 1967, che
+    fissa l'importo supplementare per le anatre e le faraone macellate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 977/67/EEG van de Commissie van 11 december 1967 houdende
+    vaststelling van het extra bedrag voor geslachte eenden en parelhoenders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0977
+docidentifier:
+- content: EU Regulation 977/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0977
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/977/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

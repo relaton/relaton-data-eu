@@ -1,0 +1,70 @@
+---
+id: EURegulation3951967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 395/67/CEE du Conseil, du 28 juillet 1967, fixant le prix
+    de base et le prix d'achat pour les pommes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 395/67/EWG des Rates vom 28. Juli 1967 zur Festsetzung des
+    Grundpreises und des Ankaufspreises für Äpfel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 395/67/CEE del Consiglio, del 28 luglio 1967, che fissa
+    il prezzo di base e il prezzo d'acquisto per le mele
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 395/67/EEG van de Raad van 28 juli 1967 houdende vaststelling
+    van de basisprijs en de aankoopprijs voor appelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0395
+docidentifier:
+- content: EU Regulation 395/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0395
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/395/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-28'
+- type: implemented
+  at: '1967-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,82 @@
+---
+id: EURegulation27851972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2785/72 de la Commission, du 28 décembre 1972, abrogeant
+    le règlement (CEE) n° 2641/72 portant application du droit du tarif douanier
+    commun aux importations de certaines variétés d'oranges douces originaires d'Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2785/72 der Kommission vom 28. Dezember 1972 zur Aufhebung
+    der Verordnung (EWG) Nr. 2641/72 zur Anwendung des Zollsatzes des Gemeinsamen
+    Zolltarifs auf Einfuhren von bestimmten Orangensorten mit Ursprung in Spanien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2785/72 della Commissione, del 28 dicembre 1972, che
+    abroga il regolamento (CEE) n. 2641/72 relativo all'applicazione del dazio della
+    tariffa doganale comune alle importazioni di alcune varietà di arance dolci originarie
+    della Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2785/72 van de Commissie van 28 december 1972 tot
+    intrekking van Verordening (EEG) nr. 2641/72 houdende toepassing van het recht
+    van het gemeenschappelijk douanetarief op de invoer van bepaalde variëteiten
+    zoete sinaasappelen van oorsprong uit Spanje
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2785
+docidentifier:
+- content: EU Regulation 2785/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2785
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2785/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-28'
+- type: implemented
+  at: '1972-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2641
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

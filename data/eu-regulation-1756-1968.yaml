@@ -1,0 +1,80 @@
+---
+id: EURegulation17561968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1756/68 du Conseil, du 5 novembre 1968, modifiant
+    le règlement (CEE) n° 253/68 en ce qui concerne la désignation tarifaire des
+    agrumes originaires et en provenance de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1756/68 des Rates vom 5. November 1968 zur Änderung
+    der Verordnung (EWG) Nr. 253/68, soweit sie die Zolltarifbezeichnung von Zitrusfrüchten
+    mit Ursprung in und Herkunft aus der Türkei betrifft
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1756/68 del Consiglio, del 5 novembre 1968, che modifica
+    il regolamento (CEE) n. 253/68 per quanto concerne la designazione tariffaria
+    degli agrumi originari della Turchia e provenienti da tale paese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1756/68 van de Raad van 5 november 1968 houdende
+    wijziging van Verordening (EEG) nr. 253/68 voor wat betreft de tariefomschrijving
+    van citrusvruchten van oorsprong en herkomst uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1756
+docidentifier:
+- content: EU Regulation 1756/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1756
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1756/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-11-05'
+- type: implemented
+  at: '1968-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0253
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

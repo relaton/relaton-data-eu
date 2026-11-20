@@ -1,0 +1,73 @@
+---
+id: EURegulation25111970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2511/70 de la Commission, du 11 décembre 1970, prorogeant
+    la durée de validité de certains certificats d'importations dans le secteur
+    de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2511/70 der Kommission vom 11. Dezember 1970 zur Verlängerung
+    der Gültigkeitsdauer bestimmter Einfuhrlizenzen für Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2511/70 della Commissione, dell'11 dicembre 1970,
+    che proroga la durata di validità di taluni titoli d'importazione nel settore
+    delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2511/70 van de Commissie van 11 december 1970 houdende
+    verlenging van de geldigheidsduur van bepaalde invoercertificaten in de sector
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2511
+docidentifier:
+- content: EU Regulation 2511/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2511
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2511/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-11'
+- type: implemented
+  at: '1970-12-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation2901967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 290/67/CEE de la Commission, du 12 juillet 1967, fixant les
+    coefficients d'adaptation à appliquer au prix d'achat prévu pour les poires
+    par le règlement n 209/67/CEE du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 290/67/EWG der Kommission vom 12. Juli 1967 zur Festsetzung
+    der Anpassungskoeffizienten für den Ankaufspreis für Birnen nach Verordnung
+    Nr. 209/67/EWG des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 290/67/CEE della Commissione, del 12 luglio 1967, che fissa
+    i coefficienti di adattamento da applicare al prezzo di acquisto previsto per
+    le pere dal regolamento n. 209/67/CEE del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 290/67/EEG van de Commissie van 12 juli 1967 houdende vaststelling
+    van de aanpassingscoëfficiënten die moeten worden toegepast op de bij Verordening
+    no. 209/67/EEG van de Raad voor peren vastgestelde aankoopprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0290
+docidentifier:
+- content: EU Regulation 290/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0290
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/290/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

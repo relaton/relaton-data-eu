@@ -1,0 +1,65 @@
+---
+id: EURegulation1771968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 177/68 de la Commission, du 14 février 1968, portant
+    fixation des prélèvements dans le secteur de l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 177/68 der Kommission vom 14. Februar 1968 zur Festsetzung
+    der Abschöpfungen für Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 177/68 della Commissione, del 14 febbraio 1968, che
+    fissa i prelievi nel settore dell'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 177/68 van de Commissie van 14 februari 1968 houdende
+    vaststelling van de heffingen in de sector olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0177
+docidentifier:
+- content: EU Regulation 177/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0177
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/177/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation13161971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1316/71 du Conseil, du 21 juin 1971, relatif au régime
+    applicable aux produits de la pêche, originaires des États africains et malgache
+    associés ou des pays et territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1316/71 des Rates vom 21. Juni 1971 über die Regelung
+    für Fischereierzeugnisse mit Ursprung in den assoziierten afrikanischen Staaten
+    und Madagaskar oder den überseeischen Ländern und Gebieten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1316/71 del Consiglio, del 21 giugno 1971, relativo
+    al regime applicabile ai prodotti della pesca originari degli Stati africani e
+    malgascio associati o dei paesi e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1316/71 van de Raad van 21 juni 1971 betreffende
+    de regeling voor visserijprodukten van oorsprong uit de Geassocieerde Afrikaanse
+    Staten en Madagaskar of de landen en gebieden overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1316
+docidentifier:
+- content: EU Regulation 1316/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1316
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1316/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-21'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

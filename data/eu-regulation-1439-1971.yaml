@@ -1,0 +1,69 @@
+---
+id: EURegulation14391971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1439/71 de la Commission, du 6 juillet 1971, modifiant
+    le règlement (CEE) n 1330/71 en ce qui concerne la désignation de certains morceaux
+    désossés de viande bovine congelée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1439/71 der Kommission vom 6. Juli 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1330/71 hinsichtlich der Bezeichnung bestimmter knochenloser
+    Teilstücke von gefrorenem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1439/71 della Commissione, del 6 luglio 1971, che
+    modifica il regolamento (CEE) n. 1330/71 in quanto concerne la designazione di
+    taluni pezzi disossati di carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1439/71 van de Commissie van 6 juli 1971 houdende
+    wijziging van Verordening (EEG) nr. 1330/71 ten aanzien van de omschrijving van
+    bepaalde delen, zonder been, van bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1439
+docidentifier:
+- content: EU Regulation 1439/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1439
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1439/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

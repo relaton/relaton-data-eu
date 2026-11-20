@@ -1,0 +1,110 @@
+---
+id: EURegulation1961973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 196/73 of the Commission of 29 December 1972 supplementing
+    Regulation (EEC) No 1204/72 laying down detailed rules for the application of
+    the subsidy system for oil seeds to take account of the accession of new Member
+    States to the Communities
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 196/73 de la Commission, du 29 décembre 1972, complétant
+    le règlement (CEE) n° 1204/72 portant modalités d' application du régime de
+    l' aide pour les graines oléagineuses, du fait de l' adhésion de nouveaux États
+    membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 196/73 der Kommission vom 29. Dezember 1972, mit der
+    die Verordnung (EWG) Nr. 1204/72 der Kommission über Durchführungsbestimmungen
+    zur Beihilferegelung für Ölsaaten als Folge des Beitritts neuer Mitgliedstaaten
+    ergänzt wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 196/73 af 29. december 1972 om supplering
+    af forordning (EØF) nr. 1204/72 om gennemførelsesbestemmelser til støtteordningen
+    for olieholdige frø, som følge af de nye medlemsstaters tiltrædelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 196/73 τής Επιτροπής
+    τής 29ης Δεκεμβρίου 1972 περί συμπληρώσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1204/72 «περί τών λεπτομερειών
+    εφαρμογής τού καθεστώτος ενισχύσεως γιά τούς
+    ελαιούχους σπόρους λόγω τής προσχωρήσεως νέων
+    Κρατών μελών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 196/73 della Commissione, del 29 dicembre 1972, che
+    completa, a seguito dell' adesione di nuovi Stati membri, il regolamento (CEE)
+    n. 1204/72 che stabilisce le modalità di applicazione del regime d' integrazione
+    per i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 196/73 van de Commissie van 29 december 1972 waarbij
+    Verordening (EEG) nr. 1204/72 houdende uitvoeringsbepalingen inzake de steunregeling
+    voor oliehoudende zaden wordt aangevuld naar aanleiding van de toetreding van
+    nieuwe Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0196
+docidentifier:
+- content: EU Regulation 196/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0196
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/196/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-29'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1204
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

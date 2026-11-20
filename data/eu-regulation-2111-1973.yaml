@@ -1,0 +1,94 @@
+---
+id: EURegulation21111973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2111/73 of the Commission of 1 August 1973 on the application
+    of Article 4b of Regulation (EEC) No 974/71 to the aid for the production of durum
+    wheat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2111/73 de la Commission, du 1er août 1973, portant
+    application de l'article 4 ter du règlement (CEE) n° 974/71 en ce qui concerne
+    l'aide à la production du froment dur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2111/73 der Kommission vom 1. August 1973 zur Anwendung
+    von Artikel 4b der Verordnung (EWG) Nr. 974/71 hinsichtlich der Beihilfe für
+    die Erzeugung von Hartweizen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2111/73 af 1. august 1973 om gennemførelsesbestemmelser
+    for artikel 4b i forordning (EØF) nr. 974/71, for så vidt angår hjælp til
+    produktionen af hård hvede
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2111/73 della Commissione, del 1 agosto 1973, recante
+    modalità di applicazione dell'articolo 4 ter del regolamento (CEE) n. 974/71
+    per quanto riguarda l'aiuto alla produzione del frumento duro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2111/73 van de Commissie van 1 augustus 1973 houdende
+    uitvoeringsbepalingen van artikel 4 ter van Verordening (EEG) nr. 974/71 voor
+    wat betreft de steun bij de produktie van durum tarwe
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2111
+docidentifier:
+- content: EU Regulation 2111/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2111
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2111/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-08-01'
+- type: implemented
+  at: '1973-08-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1965
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

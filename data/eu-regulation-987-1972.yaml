@@ -1,0 +1,70 @@
+---
+id: EURegulation9871972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 987/72 de la Commission, du 15 mai 1972, modifiant les
+    restitutions à l'exportation, en l'état, pour la mélasse, les sirops et certains
+    autres produits dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 987/72 der Kommission vom 15. Mai 1972 zur Änderung
+    der Erstattungen bei der Ausfuhr in unverändertem Zustand für Melasse, Sirupe
+    und bestimmte andere Erzeugnisse auf dem Zuckersektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 987/72 della Commissione, del 15 maggio 1972, che
+    modifica le restituzioni all'esportazione allo stato tal quale per il melasso,
+    gli sciroppi ed alcuni altri prodotti del settore dello zucchero esportati come
+    tali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 987/72 van de Commissie van 15 mei 1972 houdende
+    wijziging van de restituties bij uitvoer in onveranderde vorm voor melasse, stropen
+    en bepaalde andere produkten van de suikersector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0987
+docidentifier:
+- content: EU Regulation 987/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0987
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/987/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

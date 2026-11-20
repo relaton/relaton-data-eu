@@ -1,0 +1,69 @@
+---
+id: EURegulation1491965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 149/65/CEE du Conseil, du 27 octobre 1965, portant prorogation
+    de la validité et modification des dispositions du règlement n 113/64/CEE du
+    Conseil relatives au lait en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 149/65/EWG des Rates vom 27. Oktober 1965 zur Verlängerung
+    der Geltungsdauer und zur Änderung der in der Verordnung Nr. 113/64/EWG des Rates
+    enthaltenen Bestimmungen über Milchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 149/65/CEE del Consiglio, del 27 ottobre 1965, che proroga
+    e modifica le disposizioni relative al latte in polvere contenute nel regolamento
+    n. 113/64/CEE del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 149/65/EEG van de Raad van 27 oktober 1965 houdende verlenging
+    van de geldigheidsduur en wijziging van de bepalingen betreffende melkpoeder in
+    Verordening no. 113/64/EEG van de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0149
+docidentifier:
+- content: EU Regulation 149/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0149
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/149/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

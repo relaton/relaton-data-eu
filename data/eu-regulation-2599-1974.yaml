@@ -1,0 +1,102 @@
+---
+id: EURegulation25991974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2599/74 of the Commission of 11 October 1974 supplementing
+    certain provisions of Regulations (EEC) No 2637/70 and (EEC) No 432/71 as regards
+    advance fixing certificates for beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2599/74 de la Commission, du 11 octobre 1974, complétant
+    certaines dispositions des règlements (CEE) n° 2637/70 et (CEE) n° 432/71 en
+    ce qui concerne les certificats de fixation à l' avance du prélèvement dans
+    le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2599/74 der Kommission vom 11. Oktober 1974 zur Ergänzung
+    verschiedener Bestimmungen der Verordnungen (EWG) Nr. 2637/70 und (EWG) Nr. 432/71
+    über die Lizenzen zur Vorausfestsetzung der Abschöpfung im Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2599/74 af 11. oktober 1974 om tillæg
+    til visse bestemmelser i forordning (EØF) nr. 2637/70 og (EØF) nr. 432/71 med
+    hensyn til forudfastsættelsesattester for importafgifter for oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2599/74 della Commissione, dell' 11 ottobre 1974,
+    che completa talune disposizioni dei regolamenti (CEE) n. 2637/70 e (CEE) n. 432/71,
+    per quanto riguarda i titoli di fissazione anticipata del prelievo nel settore
+    delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2599/74 van de Commissie van 11 oktober 1974 houdende
+    aanvulling van Verordening (EEG) nr. 2637/70 en Verordening (EEG) nr. 432/71 met
+    betrekking tot de certificaten voor de vaststelling vooraf van de heffing in de
+    sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2599
+docidentifier:
+- content: EU Regulation 2599/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2599
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2599/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-11'
+- type: implemented
+  at: '1974-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0432
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

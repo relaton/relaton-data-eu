@@ -1,0 +1,94 @@
+---
+id: EURegulation7501974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 750/74 of the Commission of 29 March 1974 amending
+    Regulation (EEC) No 3493/73 as regards the date for the introduction of a uniform
+    fat content for whole milk
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 750/74 de la Commission, du 29 mars 1974, modifiant
+    le règlement (CEE) n° 3493/73 en ce qui concerne la date de l'instauration d'une
+    teneur en matière grasse uniforme pour le lait entier
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 750/74 der Kommission vom 29. März 1974 zur Änderung
+    der Verordnung (EWG) Nr. 3493/73 hinsichtlich des Zeitpunkts für die Einführung
+    eines einheitlichen Fettgehalts für Vollmilch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 750/74 af 29. marts 1974 om ændring
+    af forordning (EØF) nr. 3493/73 vedrørende datoen for indførelse af ensartet
+    fedtindhold for sødmælk
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 750/74 della Commissione, del 29 marzo 1974, che modifica
+    il regolamento (CEE) n. 3493/73 per quanto riguarda la data d'introduzione di
+    un tenore uniforme di materia grassa per il latte intero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 750/74 van de Commissie van 29 maart 1974 houdende
+    wijziging van Verordening (EEG) nr. 3493/73 met betrekking tot de datum van invoering
+    van een uniform vetgehalte voor volle melk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0750
+docidentifier:
+- content: EU Regulation 750/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0750
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/750/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-29'
+- type: implemented
+  at: '1974-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3493
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

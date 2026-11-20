@@ -1,0 +1,84 @@
+---
+id: EURegulation15511971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1551/71 du Conseil, du 19 juillet 1971, portant nouvelle
+    reconduction des articles 1er à 4 du règlement (CEE) n° 290/69 aux fins de
+    mobilisation de 50 000 tonnes de céréales et de riz destinés à une action
+    d'aide alimentaire en faveur des réfugiés bengalis en Inde
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1551/71 des Rates vom 19. Juli 1971 zur weiteren Verlängerung
+    der Geltungsdauer der Artikel 1 bis 4 der Verordnung (EWG) Nr. 290/69 zwecks Bereitstellung
+    von 50 000 Tonnen Getreide und Reis für eine Nahrungsmittelhilfemaßnahme zugunsten
+    der bengalischen Flüchtlinge in Indien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1551/71 del Consiglio, del 19 luglio 1971, relativo
+    ad una nuova proroga degli articoli da 1 a 4 del regolamento (CEE) n. 290/69 per
+    la mobilitazione di 50.000 tonnellate di cereali e di riso destinati ad un'azione
+    d'aiuto alimentare in favore dei rifugiati bengali in India
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1551/71 van de Raad van 19 juli 1971 tot hernieuwde
+    verlenging van de artikelen 1 tot en met 4 van Verordening (EEG) nr. 290/69 met
+    het oog op de beschikbaarstelling van 50.000 ton graan en rijst bestemd voor een
+    voedselhulpactie voor de Bengaalse vluchtelingen in India
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1551
+docidentifier:
+- content: EU Regulation 1551/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1551
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1551/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-19'
+- type: implemented
+  at: '1971-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0290
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

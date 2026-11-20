@@ -1,0 +1,100 @@
+---
+id: EURegulation12631975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1263/75 of the Commission of 16 May 1975 amending Regulation
+    (EEC) No 232/75 concerning the date of entry into storage of butter for sale and
+    derogating from certain provisions relating to the products to be incorporated
+    in such butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1263/75 de la Commission, du 16 mai 1975, modifiant
+    le règlement (CEE) n° 232/75 en ce qui concerne la date de l' entrée en stock
+    du beurre mis en vente, et dérogeant à certaines dispositions relatives aux
+    produits à incorporer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1263/75 der Kommission vom 16. Mai 1975 zur Änderung
+    der Verordnung (EWG) Nr. 232/75 hinsichtlich des Einlagerungsdatums der zum Verkauf
+    stehenden Butter und zur Abweichung von einigen Vorschriften über die beizumischenden
+    Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1263/75 af 16. maj 1975 om ændring
+    af forordning (EØF) nr. 232/75 for så vidt angår lagerindgangsdatoen for smør
+    udbudt til salg og om undtagelse fra visse bestemmelser i forbindelse med de produkter,
+    der skal iblandes
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1263/75 della Commissione, del 16 maggio 1975, che
+    modifica il regolamento (CEE) n. 232/75 per quanto riguarda la data di entrata
+    all' ammasso del burro messo in vendita e che deroga a talune disposizioni relative
+    ai prodotti da incorporare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1263/75 van de Commissie van 16 mei 1975 houdende
+    wijziging van Verordening (EEG) nr. 232/75 met betrekking tot de opslagdatum van
+    de ten verkoop aangeboden boter, en afwijking van bepaalde voorschriften met betrekking
+    tot de bij te mengen produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1263
+docidentifier:
+- content: EU Regulation 1263/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1263
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1263/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-16'
+- type: implemented
+  at: '1975-05-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0232
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

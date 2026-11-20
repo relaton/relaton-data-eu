@@ -1,0 +1,94 @@
+---
+id: EUDecision1973213
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '73/213/EEC: Commission Decision of 24 May 1973 amending various Commission
+    Decisions making special provisions for the sale of butter'
+  type: main
+- language: fr
+  script: Latn
+  content: '73/213/CEE: Décision de la Commission, du 24 mai 1973, modifiant plusieurs
+    décisions de la Commission relatives aux mesures spéciales de vente du beurre'
+  type: main
+- language: de
+  script: Latn
+  content: '73/213/EWG: Entscheidung der Kommission vom 24. Mai 1973 zur Änderung
+    mehrerer Entscheidungen der Kommission über Sondermaßnahmen für den Absatz
+    von Butter'
+  type: main
+- language: da
+  script: Latn
+  content: '73/213/EØF: Kommissionens Beslutning af 24. maj 1973 om ændring af flere
+    af Kommissionens beslutninger om særlige foranstaltninger til salg af smør'
+  type: main
+- language: it
+  script: Latn
+  content: '73/213/CEE: Decisione della Commissione, del 24 maggio 1973, che modifica
+    diverse decisioni della Commissione relative a misure speciali per la vendita
+    di burro'
+  type: main
+- language: nl
+  script: Latn
+  content: '73/213/EEG: Beschikking van de Commissie van 24 mei 1973 houdende wijziging
+    van verschillende beschikkingen van de Commissie met betrekking tot maatregelen
+    voor de bijzondere afzet van boter'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973D0213
+docidentifier:
+- content: EU Decision 1973/213
+  type: EU
+  primary: true
+- content: CELEX 31973D0213
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1973/213/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0465
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0475
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

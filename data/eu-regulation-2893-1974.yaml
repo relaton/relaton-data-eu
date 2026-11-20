@@ -1,0 +1,94 @@
+---
+id: EURegulation28931974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2893/74 of the Council of 18 November 1974 on sparkling
+    wines produced in the Community and specified in item 12 of Annex II to Regulation
+    (EEC) No 816/70
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2893/74 du Conseil, du 18 novembre 1974, relatif aux
+    vins mousseux, produits dans la Communauté, définis au point 12 de l' annexe
+    II du règlement (CEE) n° 816/70
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2893/74 des Rates vom 18. November 1974 über in der
+    Gemeinschaft hergestellte Schaumweine im Sinne von Nummer 12 des Anhangs II der
+    Verordnung (EWG) Nr. 816/70
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2893/74 af 18. november 1974 om mousserende
+    vine produceret i Fællesskabet og defineret under punkt 12 i bilag II til forordning
+    (EØF) nr. 816/70
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2893/74 del Consiglio, del 18 novembre 1974, relativo
+    ai vini spumanti prodotti nella Comunità e definiti al punto 12 dell' allegato
+    II del regolamento (CEE) n. 816/70
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2893/74 van de Raad van 18 november 1974 betreffende
+    de in de Gemeenschap vervaardigde mousserende wijnen omschreven in punt 12 van
+    bijlage II van Verordening (EEG) nr. 816/70
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2893
+docidentifier:
+- content: EU Regulation 2893/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2893
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2893/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-18'
+- type: implemented
+  at: '1974-11-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

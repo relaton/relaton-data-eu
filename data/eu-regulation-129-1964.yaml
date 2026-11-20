@@ -1,0 +1,74 @@
+---
+id: EURegulation1291964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 129/64/CEE de la Commission, du 29 septembre 1964, fixant
+    le volume de la consommation totale annuelle de l'industrie pour les besoins intérieurs,
+    dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 129/64/EWG der Kommission vom 29. September 1964 zur Bestimmung
+    des jährlichen Gesamtverbrauchs der getreideverarbeitenden Industrie für den
+    Inlandsbedarf
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 129/64/CEE della Commissione, del 29 settembre 1964, che
+    fissa il volume del consumo annuo totale dell'industria per il fabbisogno interno,
+    nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 129/64/EEG van de Commissie van 29 september 1964 houdende
+    vaststelling van het totale jaarlijkse verbruik van de industrie voor de voorziening
+    in de binnenlandse behoeften in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0129
+docidentifier:
+- content: EU Regulation 129/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0129
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/129/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-09-29'
+- type: implemented
+  at: '1964-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EUDecision1978825
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '78/825/EEC: Council Decision of 10 October 1978 amending the quotas for
+    the importation into the Federal Republic of Germany of textile products originating
+    in Hungary and Poland'
+  type: main
+- language: fr
+  script: Latn
+  content: '78/825/CEE: Décision du Conseil, du 10 octobre 1978, modifiant les contingents
+    d''importation en République fédérale d''Allemagne de produits textiles originaires
+    de Hongrie et de Pologne'
+  type: main
+- language: de
+  script: Latn
+  content: '78/825/EWG: Entscheidung des Rates vom 10. Oktober 1978 zur Änderung
+    der in der Bundesrepublik Deutschland eröffneten Kontingente für die Einfuhr
+    von Textilwaren mit Ursprung in Ungarn und Polen'
+  type: main
+- language: da
+  script: Latn
+  content: '78/825/EØF: Rådets beslutning af 10. oktober 1978 om ændring for Forbundsrepublikken
+    Tyskland af importkontingenterne for tekstilvarer med oprindelse i Ungarn og Polen'
+  type: main
+- language: it
+  script: Latn
+  content: '78/825/CEE: Decisione del Consiglio, del 10 ottobre 1978, che modifica
+    i contingenti d'' importazione nella Repubblica federale di Germania di prodotti
+    tessili originari dell'' Ungheria e della Polonia'
+  type: main
+- language: nl
+  script: Latn
+  content: '78/825/EEG: Beschikking van de Raad van 10 oktober 1978 houdende wijziging
+    van de contingenten voor de invoer van textielprodukten van oorsprong uit Hongarije
+    en Polen in de Bondsrepubliek Duitsland'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978D0825
+docidentifier:
+- content: EU Decision 1978/825
+  type: EU
+  primary: true
+- content: CELEX 31978D0825
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1978/825/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977D0809
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978D0545
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

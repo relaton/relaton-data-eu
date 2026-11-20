@@ -1,0 +1,110 @@
+---
+id: EURegulation2801978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 280/78 of 10 February 1978 postponing the
+    qualifying date for the sale of beef held by the intervention agencies under Regulations
+    (EEC) No 2073/74 and (EEC) No 2320/74
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 280/78 de la Commission, du 10 février 1978, reportant
+    la date de prise en charge de la viande bovine mise en vente par les organismes
+    d'intervention au titre des règlements (CEE) n° 2073/74 et (CEE) n° 2320/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 280/78 der Kommission vom 10. Februar 1978 zur Verschiebung
+    des Übernahmetermins für von den Interventionsstellen aufgrund der Verordnungen
+    (EWG) Nr. 2073/74 und (EWG) Nr. 2320/74 zum Verkauf angebotenes Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 280/78 af 10. februar 1978 om forlængelse
+    af fristen for overtagelse af oksekød, der udbydes til salg af interventionsorganerne
+    i overensstemmelse med forordning (EØF) nr. 2073/74 og (EØF) nr. 2320/74
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 280/78 της Επιτροπής
+    της 10ης Φεβρουαρίου 1978 περί μεταφοράς της ημερομηνίας
+    αναλήψεως από τους οργανισμούς παρεμβάσεως,
+    του βοείου κρέατος που τίθεται σε πώληση, βάσει
+    των κανονισμών (ΕΟΚ) αριθ. 2073/74 και (ΕΟΚ) αριθ.
+    2320/74
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 280/78 della Commissione, del 10 febbraio 1978, che
+    proroga la data di presa in consegna delle carni bovine messe in vendita dagli
+    organismi d'intervento a norma dei regolamenti (CEE) n. 2073/74 e (CEE) n. 2320/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 280/78 van de Commissie van 10 februari 1978 houdende
+    verschuiving van de overnamedatum voor door de interventiebureaus krachtens de
+    Verordeningen (EEG) nr. 2073/74 en (EEG) nr. 2320/74 te koop aangeboden rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0280
+docidentifier:
+- content: EU Regulation 280/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0280
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/280/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-10'
+- type: implemented
+  at: '1978-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

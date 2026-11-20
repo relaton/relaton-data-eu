@@ -1,0 +1,74 @@
+---
+id: EURegulation23141971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2314/71 du Conseil, du 29 octobre 1971, déterminant
+    provisoirement le régime applicable aux vins originaires et en provenance de
+    la Turquie, du Maroc et de la Tunisie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2314/71 des Rates vom 29. Oktober 1971 zur vorläufigen
+    Bestimmung der Regelung für Wein mit Ursprung in und Herkunft aus der Türkei,
+    Marokko und Tunesien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2314/71 del Consiglio, del 29 ottobre 1971, che determina
+    provvisoriamente il regime applicabile ai vini originari della Turchia, del Marocco
+    e della Tunisia e provenienti da tali paesi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2314/71 van de Raad van 29 oktober 1971 houdende
+    voorlopige vaststelling van de regeling die van toepassing is op wijn van oorsprong
+    en van herkomst uit Turkije, Marokko en Tunesië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2314
+docidentifier:
+- content: EU Regulation 2314/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2314
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2314/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-29'
+- type: implemented
+  at: '1971-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EURegulation12751972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1275/72 du Conseil, du 20 juin 1972, modifiant le
+    règlement (CEE) n° 2780/71 relatif à la suspension temporaire des droits autonomes
+    du tarif douanier commun sur un certain nombre de produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1275/72 des Rates vom 20. Juni 1972 zur Änderung
+    der Verordnung (EWG) Nr. 2780/71 über die zeitweilige Aussetzung von autonomen
+    Zollsätzen des Gemeinsamen Zolltarifs für bestimmte Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1275/72 del Consiglio, del 20 giugno 1972, che modifica
+    il regolamento (CEE) n. 2780/71 relativo alla sospensione temporanea dei dazi
+    autonomi della tariffa doganale comune per un certo numero di prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1275/72 van de Raad van 20 juni 1972 tot wijziging
+    van Verordening (EEG) nr. 2780/71 houdende tijdelijke schorsing van de autonome
+    rechten van het gemeenschappelijk douanetarief op een aantal produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1275
+docidentifier:
+- content: EU Regulation 1275/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1275
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1275/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-20'
+- type: implemented
+  at: '1972-06-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2780
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

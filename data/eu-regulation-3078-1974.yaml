@@ -1,0 +1,105 @@
+---
+id: EURegulation30781974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3078/74 of the Commission of 5 December 1974 on the
+    rate of interest to be used for calculating finance costs in respect of intervention
+    measures on the internal markets in beef and veal, milk and milk products and
+    raw tobacco
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3078/74 de la Commission, du 5 décembre 1974, relatif
+    au taux d' intérêt à appliquer pour le calcul des frais de financement des
+    interventions sur le marché intérieur dans les secteurs de la viande bovine,
+    du lait et des produits laitiers et du tabac brut
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3078/74 der Kommission vom 5. Dezember 1974 über
+    den Zinssatz, der für die Berechnung der Finanzierungskosten für die Interventionen
+    auf dem Binnenmarkt in den Sektoren Rindfleisch, Milch und Milcherzeugnisse und
+    Rohtabak anzuwenden ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3078/74 af 5. december 1974 om den
+    rentesats, der skal anvendes ved beregningen af finansieringsomkostninger i forbindelse
+    med interventioner på det interne marked for oksekød, mælk og mejeriprodukter
+    og råtobak
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE)n. 3078/74 della Commissione, del 5 dicembre 1974, relativo
+    al tasso d' interesse da applicare per il calcolo delle spese di finanziamento
+    degli interventi sul mercato interno, nei settori delle carni bovine, del latte
+    e dei prodotti lattiero-caseari e del tabacco greggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3078/74 van de Commissie van 5 december 1974 betreffende
+    de rentevoet die bij de berekening van de financieringskosten van de interventies
+    op de interne markt in de sectoren rundvlees, melk en zuivelprodukten en ruwe
+    tabak moet worden toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3078
+docidentifier:
+- content: EU Regulation 3078/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3078
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3078/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-05'
+- type: implemented
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0741
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0943
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

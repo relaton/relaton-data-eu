@@ -1,0 +1,75 @@
+---
+id: EURegulationNo20461970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2046/70 du Conseil, du 13 octobre 1970, portant nouvelle
+    reconduction des articles 1er à 4 du règlement (CEE) n° 290/69 fixant les critères
+    de mobilisation des céréales destinées à l'aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2046/70 des Rates vom 13. Oktober 1970 zur weiteren
+    Verlängerung der Geltungsdauer der Artikel 1 bis 4 der Verordnung (EWG) Nr. 290/69
+    zur Festlegung der Kriterien für die Bereitstellung von Getreide für die Nahrungsmittelhilfe
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2046/70 del Consiglio, del 13 ottobre 1970, relativo
+    a una nuova proroga degli articoli da 1 a 4 del regolamento (CEE) n. 290/69 che
+    stabilisce i criteri di mobilitazione dei cereali destinati agli aiuti alimentari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2046/70 van de Raad van 13 oktober 1970 tot hernieuwde
+    verlenging van de artikelen 1 tot en met 4 van Verordening (EEG) nr. 290/69 houdende
+    de vaststelling van criteria inzake de beschikbaarstelling van voor voedselhulp
+    bestemd graan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2046
+docidentifier:
+- content: EU Regulation No 2046/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2046
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2046/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-13'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation21001972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2100/72 of the Commission of 29 September 1972 amending
+    Regulation (EEC) No 1570/70 of the Commission of 3 August 1970 establishing a
+    system of standard average values for citrus fruits
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2100/72 de la Commission, du 29 septembre 1972, modifiant
+    le règlement (CEE) n° 1570/70 de la Commission, du 3 août 1970, portant établissement
+    d' un système de valeurs moyennes forfaitaires pour les agrumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2100/72 der Kommission vom 29. September 1972 zur
+    Änderung der Verordnung (EWG) Nr. 1570/70 der Kommission vom 3. August 1970 über
+    die Einrichtung eines Systems von Mittelwerten für Zitrusfrüchte
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2100/72 af 29. september 1972 om ændring
+    af Kommissionens forordning (EØF) nr. 1570/70 af 3. august 1970 om oprettelse
+    af et system af middelværdier for citrusfrugter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2100/72 della Commissione, del 29 settembre 1972,
+    che modifica il regolamento (CEE) n. 1570/70 della Commissione, del 3 agosto 1970,
+    che istituisce un sistema di valori medi forfettari per gli agrumi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2100/72 van de Commissie van 29 september 1972 tot
+    wijziging van Verordening (EEG) nr. 1570/70 van de Commissie van 3 augustus 1970
+    houdende invoering van een stelsel inzake forfaitaire waarden voor citrusvruchten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2100
+docidentifier:
+- content: EU Regulation 2100/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2100
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2100/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-29'
+- type: implemented
+  at: '1972-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1570
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

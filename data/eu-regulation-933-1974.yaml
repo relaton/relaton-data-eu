@@ -1,0 +1,94 @@
+---
+id: EURegulation9331974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 933/74 of the Commission of 19 April 1974 amending
+    Regulation (EEC) No 432/71 as regards the intervals at which information must
+    be given concerning import licences for beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 933/74 de la Commission, du 19 avril 1974, modifiant
+    le règlement (CEE) n° 432/71 en ce qui concerne la périodicité des communications
+    relatives aux certificats d'importation dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 933/74 der Kommission vom 19. April 1974 zur Änderung
+    der Verordnung (EWG) Nr. 432/71 hinsichtlich der regelmäßigen Mitteilungen über
+    die Einfuhrlizenzen auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 933/74 af 19. april 1974 om ændring
+    af forordning (EØF) nr. 432/71 for så vidt angår hyppigheden af meddelelser
+    om importlinenser inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 933/74 della Commissione, del 19 aprile 1974, che
+    modifica il regolamento (CEE) n. 432/71 per quanto riguarda la periodicità delle
+    comunicazioni relative ai titoli d'importazione nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 933/74 van de Commissie van 19 april 1974 tot wijziging
+    van Verordening (EEG) nr. 432/71 met betrekking tot de periodiciteit van de mededelingen
+    inzake de invoercertificaten in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0933
+docidentifier:
+- content: EU Regulation 933/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0933
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/933/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-19'
+- type: implemented
+  at: '1974-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0432
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

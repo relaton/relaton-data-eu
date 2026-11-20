@@ -1,0 +1,97 @@
+---
+id: EURegulation30831975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3083/75 of the Commission of 27 November 1975 amending
+    for the second time Annex III to Regulation (EEC) No 1896/73 in respect of the
+    requirements which must be satisfied by beef bought in by the intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3083/75 de la Commission, du 27 novembre 1975, portant
+    deuxième modification de l' annexe III du règlement (CEE) n° 1896/73 en ce
+    qui concerne les exigences auxquelles doivent satisfaire les viandes achetées
+    par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3083/75 der Kommission vom 27. November 1975 zur zweiten
+    Änderung von Anhang III der Verordnung (EWG) Nr. 1896/73 hinsichtlich der Anforderungen,
+    denen das von den Interventionsstellen aufgekaufte Rindfleisch genügen muß
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3083/75 af 27. november 1975 om anden
+    ændring af bilag III til forordning (EØF) nr. 1896/73 for så vidt angår de
+    krav, som oksekød, der opkøbes af interventionsorganerne, bør opfylde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3083/75 della Commissione, del 27 novembre 1975, recante
+    seconda modifica dell' allegato III del regolamento (CEE) n. 1896/73, per quanto
+    concerne i requisiti ai quali devono rispondere le carni bovine acquistate dagli
+    organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3083/75 van de Commissie van 27 november 1975 houdende
+    tweede wijziging van bijlage III van Verordening (EEG) nr. 1896/73 met betrekking
+    tot de eisen waaraan het door de interventiebureaus aangekochte rundvlees moet
+    voldoen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3083
+docidentifier:
+- content: EU Regulation 3083/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3083/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-11-27'
+- type: implemented
+  at: '1975-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

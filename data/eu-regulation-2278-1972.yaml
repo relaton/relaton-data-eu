@@ -1,0 +1,77 @@
+---
+id: EURegulation22781972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2278/72 de la Commission, du 23 octobre 1972, fixant
+    les taux des restitutions applicables, à compter du 1er novembre 1972, aux oeufs
+    et aux jaunes d'oeufs exportés sous forme de marchandises ne relevant pas de
+    l'annexe II du Traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2278/72 der Kommission vom 23. Oktober 1972 zur Festsetzung
+    der ab 1. November 1972 geltenden Erstattungssätze bei der Ausfuhr von Eiern
+    und Eigelb in Form von nicht unter Anhang II des Vertrages fallenden Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2278/72 della Commissione, del 23 ottobre 1972, che
+    fissa i tassi delle restituzioni applicabili a decorrere dal 1 novembre 1972 alle
+    uova e al giallo d'uova esportati sotto forma di merci non comprese nell'allegato
+    II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2278/72 van de Commissie van 23 oktober 1972 houdende
+    vaststelling van de restituties die met ingang van 1 november 1972 worden toegepast
+    voor eieren en eigeel, uitgevoerd in de vorm van niet in bijlage II van het Verdrag
+    vermelde goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2278
+docidentifier:
+- content: EU Regulation 2278/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2278
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2278/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-23'
+- type: implemented
+  at: '1972-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

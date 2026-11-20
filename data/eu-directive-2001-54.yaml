@@ -1,0 +1,132 @@
+---
+id: EUDirective200154
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Directive 2001/54/EC of 11 July 2001 repealing Directive 79/1066/EEC
+    laying down Community methods of analysis for testing coffee extracts and chicory
+    extracts
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 2001/54/CE de la Commission du 11 juillet 2001 abrogeant la directive
+    79/1066/CEE portant fixation des méthodes d'analyse communautaires pour le contrôle
+    des extraits de café et des extraits de chicorée
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 2001/54/EG der Kommission vom 11. Juli 2001 zur Aufhebung der
+    Richtlinie 79/1066/EWG zur Festlegung gemeinschaftlicher Analysemethoden zur Überwachung
+    der Zusammensetzung von Kaffee-Extrakten und Zichorien-Extrakten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens direktiv 2001/54/EF af 11. juli 2001 om ophævelse af direktiv
+    79/1066/EØF om fastlæggelse af fællesskabsanalysemetoder til kontrol af kaffeekstrakter
+    og cikorieekstrakter
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 2001/54/ΕΚ της Επιτροπής, της 11ης Ιουλίου
+    2001, για την κατάργηση της οδηγίας 79/1066/ΕΟΚ για
+    καθιέρωση κοινοτικών μεθόδων ανάλυσης για
+    τον έλεγχο των εκχυλισμάτων καφέ και των εκχυλισμάτων
+    κιχωρίου
+  type: main
+- language: fi
+  script: Latn
+  content: Komission direktiivi 2001/54/EY, annettu 11 päivänä heinäkuuta 2001,
+    yhteisön analyysimenetelmistä kahviuutteiden ja sikuriuutteiden tarkastamiseksi
+    annetun direktiivin 79/1066/ETY kumoamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 2001/54/CE della Commissione, dell'11 luglio 2001, che abroga
+    la direttiva 79/1066/CEE recante fissazione dei metodi di analisi comunitari per
+    il controllo degli estratti di caffè e degli estratti di cicoria
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlĳn 2001/54/EG van de Commissie van 11 juli 2001 houdende intrekking
+    van Richtlĳn 79/1066/EEG tot vaststelling van de communautaire analysemethoden
+    voor de controle van extracten van koffie en cichorei
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 2001/54/CE da Comissão, de 11 de Julho de 2001, que revoga a
+    Directiva 79/1066/CEE que determina os métodos de análise comunitários para
+    o controlo dos extractos de café e dos extractos de chicória
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 2001/54/CE de la Comisión, de 11 de julio de 2001, que deroga
+    la Directiva 79/1066/CEE por la que se fijan los métodos de análisis comunitarios
+    para el control de los extractos de café y de los extractos de achicoria
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens direktiv 2001/54/EG av den 11 juli 2001 om upphävande av
+    direktiv 79/1066/EEG som fastställer gemenskapens analysmetoder för test av
+    kaffe- och cikoriaextrakt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0054
+docidentifier:
+- content: EU Directive 2001/54
+  type: EU
+  primary: true
+- content: CELEX 32001L0054
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/2001/54/oj
+  type: ELI
+date:
+- type: issued
+  at: '2001-07-11'
+- type: implemented
+  at: '2001-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979L1066
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

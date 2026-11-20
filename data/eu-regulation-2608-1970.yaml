@@ -1,0 +1,74 @@
+---
+id: EURegulation26081970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2608/70 de la Commission, du 22 décembre 1970, relatif
+    à un avis d'adjudication pour l'écoulement de quartiers avant congelés de viande
+    bovine détenus par l'organisme d'intervention allemand
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2608/70 der Kommission vom 22. Dezember 1970 betreffend
+    eine Ausschreibung für den Absatz von gefrorenen Ochsenvordervierteln, die im
+    Besitz der deutschen Interventionsstelle sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2608/70 della Commissione, del 22 dicembre 1970, relativo
+    ad un avviso d'asta per lo smaltimento di quarti anteriori di carni bovine congelate
+    in possesso dell'organismo d'intervento tedesco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2608/70 van de Commissie van 22 december 1970 betreffende
+    een bericht van inschrijving voor de afzet van bevroren voorvoeten van ossen,
+    die in het bezit zijn van het Duitse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2608
+docidentifier:
+- content: EU Regulation 2608/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2608
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2608/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-22'
+- type: implemented
+  at: '1971-01-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

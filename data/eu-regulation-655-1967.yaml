@@ -1,0 +1,69 @@
+---
+id: EURegulation6551967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 655/67/CEE de la Commission, du 28 septembre 1967, fixant
+    les restitutions pour les céréales et le riz décortiqué exportés sous la
+    forme de marchandises ne relevant pas de l'annexe II du traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 655/67/EWG der Kommission vom 28. September 1967 zur Festsetzung
+    der Erstattungen bei der Ausfuhr von Getreide oder geschältem Reis in Form von
+    nicht unter Anhang II des Vertrages fallenden Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 655/67/CEE della Commissione, del 28 settembre 1967, che
+    fissa le restituzioni applicabili ai cereali e al riso semigreggio esportati sotto
+    forma di merci non comprese nell'allegato II del Trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 655/67/EEG van de Commissie van 28 september 1967 houdende
+    vaststelling van de restituties bij uitvoer van granen en van gedopte rijst in
+    de vorm van niet in bijlage II van het Verdrag vermelde goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0655
+docidentifier:
+- content: EU Regulation 655/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0655
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/655/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

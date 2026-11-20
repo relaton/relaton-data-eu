@@ -1,0 +1,85 @@
+---
+id: EURegulation5201970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 520/70 du Conseil, du 17 mars 1970, fixant les dispositions
+    particulières applicables à l'importation des marchandises relevant du règlement
+    (CEE) n° 1059/69, originaires des États africains et malgache associés ou des
+    pays et territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 520/70 des Rates vom 17. März 1970 zur Festlegung
+    der Sonderbestimmungen, die bei der Einfuhr von unter die Verordnung (EWG) Nr.
+    1059/69 fallenden Waren mit Ursprung in den assoziierten afrikanischen Staaten
+    und Madagaskar oder den assoziierten überseeischen Ländern und Gebieten anwendbar
+    sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 520/70 del Consiglio, del 17 marzo 1970, che determina
+    le disposizioni particolari applicabili all'importazione delle merci cui si applica
+    il regolamento (CEE) n. 1059/69, originarie degli Stati africani e malgascio associati
+    o dei paesi e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 520/70 van de Raad van 17 maart 1970 tot vaststelling
+    van de bijzondere bepalingen welke bij de invoer van goederen, vallende onder
+    Verordening (EEG) nr. 1059/69, van oorsprong uit de geassocieerde Afrikaanse Staten
+    en Madagaskar of de landen en gebieden overzee, van toepassing zijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0520
+docidentifier:
+- content: EU Regulation 520/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0520
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/520/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-17'
+- type: implemented
+  at: '1970-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0127
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

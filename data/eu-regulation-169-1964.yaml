@@ -1,0 +1,72 @@
+---
+id: EURegulation1691964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 169/64/CEE de la Commission, du 30 octobre 1964, prévoyant
+    des mesures transitoires, relatives au calcul du prélèvement et de la restitution,
+    applicables à certaines catégories d'aliments composés, au cours du mois de
+    novembre 1964
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 169/64/EWG der Kommission vom 30. Oktober 1964 durch die
+    ÜbergangsmaDnahmen in Aussicht genommen werden betreffend die Berechnung des
+    Abschöpfungsbetrags sowie der Erstattung, die im Monat November 1964 auf bestimmte
+    Kategorien Mischfutter anzuwenden sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 169/64/CEE della Commissione, del 30 ottobre 1964, relativo
+    all'adozione di misure transitorie, inerenti al calcolo del prelievo e della restituzione
+    applicabili a talune categorie di alimenti composti nel mese di novembre 1964
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 169/64/EEG van de Commissie van 30 oktober 1964 strekkende
+    tot invoering van overgangsmaatregelen, met betrekking tot de berekening van de
+    heffing en van de restitutie voor de maand november 1964, van toepassing op bepaalde
+    soorten mengvoeders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0169
+docidentifier:
+- content: EU Regulation 169/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0169
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/169/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

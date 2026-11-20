@@ -1,0 +1,83 @@
+---
+id: EURegulation2181967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 218/67/CEE du Conseil, du 27 juin 1967, modifiant le règlement
+    n° 34/67/CEE relatif à certaines mesures concernant l'importation de viande
+    bovine congelée et de vaches vivantes destinées à la fabrication, en provenance
+    des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 218/67/EWG des Rates vom 27. Juni 1967 zur Änderung der
+    Verordnung Nr. 34/67/EWG über bestimmte Maßnahmen bei Einfuhren aus dritten
+    Ländern von gefrorenem Rindfleisch und von lebenden Kühen, die zur Verarbeitung
+    bestimmt sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 218/67/CEE del Consiglio, del 27 giugno 1967, che modifica
+    il regolamento n. 34/67/CEE relativo a talune misure concernenti l'importazione
+    di carni bovine congelate e di vacche vive destinate alla trasformazione in provenienza
+    dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 218/67/EEG van de Raad van 27 juni 1967 houdende wijziging
+    van Verordening Nr. 34/67/EEG betreffende bepaalde maatregelen inzake de invoer
+    uit derde landen van bevroren rundvlees en voor verwerking bestemde levende koeien
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0218
+docidentifier:
+- content: EU Regulation 218/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0218
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/218/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0034
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

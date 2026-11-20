@@ -1,0 +1,65 @@
+---
+id: EURegulation661963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 66/63/CEE de la Commission, du 2 juillet 1963, portant fixation
+    des prix de référence pour les raisins de table de plein air
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 66/63/EWG der Kommission vom 2. Juli 1963 zur Festsetzung
+    von Referenzpreisen für im Freien angebaute Tafeltrauben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 66/63/CEE della Commissione, del 2 luglio 1963, relativo
+    alla determinazione dei prezzi di riferimento delle uve da tavola di pieno campo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 66/63/EEG van de Commissie van 2 juli 1963 houdende vaststelling
+    van de referentieprijzen voor tafeldruiven van de open grond
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0066
+docidentifier:
+- content: EU Regulation 66/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0066
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/66/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

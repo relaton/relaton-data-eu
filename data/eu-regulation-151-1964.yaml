@@ -1,0 +1,75 @@
+---
+id: EURegulation1511964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 151/64/CEE de la Commission, du 27 octobre 1964, relatif
+    à la détermination du taux des droits de douane à retenir en république fédérale
+    d'Allemagne, en République française et en République italienne pour la fixation
+    de la charge à l'importation visée aux articles 5 et 11 du règlement n° 14/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 151/64/EWG der Kommission vom 27. Oktober 1964 über die
+    Bestimmung der Zollsätze, die in der Bundesrepublik Deutschland, in der Französischen
+    und in der Italienischen Republik zur Festsetzung der in den Artikel 5 und 11
+    der Verordnung Nr. 14/64/EWG genannten Eingangsabgaben zu berücksichtigen sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 151/64/CEE della Commissione, del 27 ottobre 1964, relativo
+    alla determinazione dell'aliquota dei dazi da prendere in considerazione nella
+    Repubblica federale di Germania, nella Repubblica francese e nella Repubblica
+    italiana per fissare gli oneri all'importazione di cui agli articoli 5 ed 11 del
+    regolamento n. 14/64/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 151/64/EEG van de Commissie van 27 oktober 1964 met betrekking
+    tot de vaststelling van het douanerecht, dat in de Bondsrepubliek Duitsland, in
+    de Franse Republiek en in de Italiaanse Republiek aangehouden moet worden voor
+    de vaststelling van de belasting bij invoer, genoemd in de artikelen 5 en 11 van
+    de Verordening no. 14/64/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0151
+docidentifier:
+- content: EU Regulation 151/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0151
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/151/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

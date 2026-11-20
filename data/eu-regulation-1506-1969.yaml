@@ -1,0 +1,66 @@
+---
+id: EURegulation15061969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1506/69 de la Commission, du 30 juillet 1969, fixant
+    le montant compensatoire à l'importation de certaines huiles de ricin
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1506/69 der Kommission vom 30. Juli 1969 zur Festsetzung
+    der Ausgleichsabgabe bei der Einfuhr von bestimmten Rizinusölen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1506/69 della Commissione, del 30 luglio 1969, che
+    fissa l'ammontare di compensazione applicabile all'importazione di taluni oli
+    di ricino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1506/69 van de Commissie van 30 juli 1969 tot vaststelling
+    van het compenserend bedrag bij de invoer van bepaalde ricinusoliën
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1506
+docidentifier:
+- content: EU Regulation 1506/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1506
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1506/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

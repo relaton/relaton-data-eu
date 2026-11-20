@@ -1,0 +1,104 @@
+---
+id: EURegulation21241982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2124/82 of 29 July 1982 amending Regulation
+    (EEC) No 2102/75 determining the quantity of potatoes required for the manufacture
+    of one tonne of starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2124/82 de la Commission, du 29 juillet 1982, modifiant
+    le règlement (CEE) n° 2102/75 déterminant la quantité de pommes de terre nécessaire
+    à la fabrication d' une tonne de fécule
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2124/82 der Kommission vom 29. Juli 1982 zur Änderung
+    der Verordnung (EWG) Nr. 2102/75 zur Feststellung der zur Herstellung einer Tonne
+    Kartoffelstärke benötigten Menge Kartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2124/82 af 29. juli 1982 om ændring
+    af forordning nr. (EØF) nr. 2102/75 om fastsættelse af den mængde kartofler,
+    der er nødvendig til fremstilling af en ton kartoffelstivelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 2124/82 τής Επιτροπής
+    τής 29ης Ιουλίου 1982 περί τροποποιήσεως τού κανονισμού
+    (EOK) αριθ. 2102/75 περί καθορισμού τής ποσότητας
+    πατατών πού είναι αναγκαία γιά τήν παραγωγή
+    ενός τόνου αμύλου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2124/82 della Commissione, del 29 luglio 1982, che
+    modifica il regolamento (CEE) n. 2102/75 che determina la quantità di patate
+    necessaria per la fabbricazione di una tonnellata di fecolah
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2124/82 van de Commissie van 29 juli 1982 tot wijziging
+    van Verordening (EEG) nr. 2102/75 houdende bepaling van de hoeveelheid aardappelen
+    die nodig is voor de vervaardiging van 1 ton zetmeeln
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R2124
+docidentifier:
+- content: EU Regulation 2124/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R2124
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/2124/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-07-29'
+- type: implemented
+  at: '1982-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2102
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation30841975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3084/75 of the Commission of 27 November 1975 amending
+    Regulation (EEC) No 2585/75 on the adjustment of the refunds fixed in advance
+    before 1 November 1975 for skimmed-milk powder exported under long-term contracts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3084/75 de la Commission, du 27 novembre 1975, modifiant
+    le règlement (CEE) n° 2585/75 relatif à l'ajustement des restitutions fixées
+    à l'avance avant le 1er novembre 1975 pour le lait écrémé en poudre exporté
+    dans le cadre de contrats à long terme
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3084/75 der Kommission vom 27. November 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2585/75 über die Berichtigung der vor dem 1. November
+    1975 im voraus festgesetzten Erstattungen für Magermilchpulver, das im Rahmen
+    langfristiger Verträge ausgeführt wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3084/75 af 27. november 1975 om ændring
+    af forordning (EØF) nr. 2585/75 om justering af restitutioner, der er forudfastsat
+    inden den 1. november 1975, for skummetmælkspulver, der udføres inden for rammerne
+    af langfristede kontrakter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3084/75 della Commissione, del 27 novembre 1975, che
+    modifica il regolamento (CEE) n. 2585/75 relativo all'adattamento delle restituzioni
+    fissate in anticipo anteriormente al 1 novembre 1975 per il latte scremato in
+    polvere esportato nell'ambito di contratti a lungo termine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3084/75 van de Commissie van 27 november 1975 houdende
+    wijziging van Verordening (EEG) nr. 2585/75 betreffende de aanpassing van de vóór
+    1 november 1975 vooraf vastgestelde restituties voor magere-melkpoeder, uitgevoerd
+    in het kader van contracten op lange termijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3084
+docidentifier:
+- content: EU Regulation 3084/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3084
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3084/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-11-27'
+- type: implemented
+  at: '1975-11-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2585
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

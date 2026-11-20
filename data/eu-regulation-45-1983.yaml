@@ -1,0 +1,104 @@
+---
+id: EURegulation451983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 45/83 of 7 January 1983 amending Regulation
+    (EEC) No 1204/72 laying down detailed rules for the application of the subsidy
+    system for oil seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 45/83 de la Commission du 7 janvier 1983 modifiant
+    le règlement (CEE) no 1204/72 portant modalités d' application du régime de
+    l' aide pour les graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 45/83 der Kommission vom 7. Januar 1983 zur Änderung
+    der Verordnung (EWG) Nr. 1204/72 über Durchführungsbestimmungen zur Beihilferegelung
+    für Ölsaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 45/83 af 7. januar 1983 om ændring
+    af forordning (EØF) nr. 1204/72 om gennemførelsesbestemmelser til støtteordningen
+    for olieholdige frø
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 45/83 της Επιτροπής
+    της 7ης Ιανουαρίου 1983 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 1204/72 σχετικά με τις λεπτομέρειες
+    εφαρμογής του καθεστώτος ενισχύσεως για τους
+    ελαιούχους σπόρους
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 45/83 della Commissione del 7 gennaio 1983 che modifica
+    il regolamento (CEE) n. 1204/72, che stabilisce le modalità di applicazione del
+    regime d' integrazione per i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 45/83 van de Commissie van 7 januari 1983 tot wijziging
+    van Verordening (EEG) nr. 1204/72 houdende uitvoeringsbepalingen inzake de steunregeling
+    voor oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0045
+docidentifier:
+- content: EU Regulation 45/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0045
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/45/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-01-07'
+- type: implemented
+  at: '1983-01-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1204
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,122 @@
+---
+id: EURegulation36181986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3618/86 of 24 November 1986 amending Regulation
+    (EEC) No 3331/86, amending Regulation (EEC) No 950/68 on the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3618/86 du Conseil du 24 novembre 1986 modifiant le
+    règlement (CEE) n° 3331/85 modifiant le règlement (CEE) n° 950/68 relatif
+    au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3618/86 des Rates vom 24. November 1986 zur Änderung
+    der Verordnung (EWG) Nr. 3331/85 zur Änderung der Verordnung (EWG) Nr. 950/68
+    über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3618/86 af 24. november 1986 om ændring
+    af forordning (EØF) nr. 3331/85 om ændring af forordning (EØF) nr. 950/68 om
+    den fælles toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3618/86 του Συμβουλίου
+    της 24ης Νοεμβρίου 1986 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 3331/85, τροποποιητικού
+    του κανονισμού (ΕΟΚ) αριθ. 950/68 περί του κοινού
+    δασμολογίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3618/86 del Consiglio del 24 novembre 1986 recante
+    modifica del regolamento (CEE) n. 3331/85, che modifica il regolamento (CEE) n.
+    950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3618/86 van de Raad van 24 november 1986 houdende
+    wijziging van Verordening (EEG) nr. 3331/85 tot wijziging van Verordening (EEG)
+    nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 3618/86 do Conselho de 24 de Novembro de 1986 que
+    altera o Regulamento (CEE) n.° 3331/85, que altera o Regulamento (CEE) n.° 950/68
+    relativo à pauta aduaneira comum
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 3618/86 del Consejo de 24 de noviembre de 1986 por
+    el que se modifica el Reglamento (CEE) n° 3331/85 por el que se modifica el Reglamento
+    (CEE) n° 950/68 relativo al arancel aduanero común
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R3618
+docidentifier:
+- content: EU Regulation 3618/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R3618
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/3618/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-11-24'
+- type: implemented
+  at: '1987-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0950
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R3331
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation27511975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2751/75 of the Council of 29 October 1975 derogating
+    from Regulation (EEC) No 1693/72 in respect of the procedures laid down for the
+    mobilization of food aid to the countries of the Sahel
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2751/75 du Conseil, du 29 octobre 1975, portant dérogation
+    au règlement (CEE) n° 1693/72 en ce qui concerne les procédures de mobilisation
+    de l' aide alimentaire en faveur des pays du Sahel
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2751/75 des Rates vom 29. Oktober 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1693/72 hinsichtlich der Verfahren zu Bereitstellung
+    der Nahrungsmittelhilfe zugunsten der Länder der Sahelzone
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2751/75 af 29. oktober 1975 om afvigelse
+    fra forordning (EØF) nr. 1693/72 for så vidt angår fremgangsmåder til tilvejebringelse
+    af fødevarehjælp til Sahel-landene
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2751/75 del Consiglio, del 29 ottobre 1975, che deroga
+    il regolamento (CEE) n. 1693/72 per quanto concerne le procedure di mobilitazione
+    per gli aiuti alimentari a favore dei paesi del Sahel
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2751/75 van de Raad van 29 oktober 1975 houdende
+    afwijking van Verordening (EEG) nr. 1693/72 voor wat betreft de wijze van beschikbaarstelling
+    van voedselhulp ten gunste van de Sahellanden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2751
+docidentifier:
+- content: EU Regulation 2751/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2751
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2751/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3581
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

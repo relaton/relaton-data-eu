@@ -1,0 +1,104 @@
+---
+id: EURegulation11811972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1181/72 of the Commission of 6 June 1972 readmitting
+    certain milk products to the special rules for payment of the refund laid down
+    in Regulation (EEC) No 441/69
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1181/72 de la Commission, du 6 juin 1972, réintroduisant
+    certains produits laitiers au régime particulier de paiement de la restitution
+    institué par le règlement (CEE) n° 441/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1181/72 der Kommission vom 6. Juni 1972 zur erneuten
+    Anwendung der durch die Verordnung (EWG) Nr. 441/69 eingeführten besonderen Regelung
+    für die Zahlung der Erstattung auf bestimmte Milcherzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1181/72 af 6. juni 1972 om fornyet
+    anvendelse på visse mælkeprodukter af den særlige ordning vedrørende restitutionens
+    betaling, der er indført ved forordning (EØF) nr. 441/69
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1181/72 τής Επιτροπής
+    τής 6ης Ιουνίου 1972 περί επανεισαγωγής ορισμένων
+    γαλακτοκομικών προϊόντων στό ειδικό καθεστώς
+    πληρωμής τής επιστροφής πού έχει θεσπισθεί
+    από τόν κανονισμό (ΕΟΚ) αριθ. 441/69
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1181/72 della Commissione, del 6 giugno 1972, che
+    reinserisce taluni prodotti lattiero-caseari nel regime particolare di pagamento
+    della restituzione istituito dal regolamento (CEE) n. 441/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1181/72 van de Commissie van 6 juni 1972 betreffende
+    het opnieuw onderwerpen van bepaalde zuivelprodukten aan de bij Verordening (EEG)
+    nr. 441/69 ingevoerde bijzondere regeling voor de betaling van de restituties
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1181
+docidentifier:
+- content: EU Regulation 1181/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1181
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1181/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-06'
+- type: implemented
+  at: '1972-06-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0441
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,87 @@
+---
+id: EURegulation1991967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 199/67/EEC of the Commission of 28 June 1967 fixing the coefficients
+    for calculating levies on derived poultrymeat products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 199/67/CEE de la Commission, du 28 juin 1967, portant fixation
+    des coefficients pour le calcul des prélèvements pour les produits dérivés
+    dans le secteur de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 199/67/EWG der Kommission vom 28. Juni 1967 zur Festsetzung
+    der Koeffizienten zur Berechnung der Abschöpfungsbeträge für die abgeleiteten
+    Erzeugnisse auf dem Geflügelfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning nr. 199/67/EØF af 28. juni 1967 om fastsættelse
+    af koefficienterne for beregning af importafgifter vedrørende følgeproduktion
+    inden for fjerkræsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 199/67/CEE della Commissione, del 28 giugno 1967, che fissa
+    i coefficienti per il calcolo dei prelievi applicabili ai prodotti derivati nel
+    settore del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 199/67/EEG van de Commissie van 28 juni 1967 houdende vaststelling
+    van de coëfficiënten voor de berekening van de heffingen voor afgeleide produkten
+    in de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0199
+docidentifier:
+- content: EU Regulation 199/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0199
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/199/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-28'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

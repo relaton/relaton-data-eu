@@ -1,0 +1,69 @@
+---
+id: EURegulation791966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 79/66/CEE de la Commission, du 29 juin 1966, portant fixation
+    du montant des prélèvements et des prix d'écluse pour les volailles vivantes
+    d'un poids supérieur à 185 grammes et pour les parties de volailles abattues
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 79/66/EWG der Kommission vom 29. Juni 1966 über die Festsetzung
+    der Abschöpfungsbeträge und Einschleusungspreise für lebendes Hausgeflügel
+    mit einem Gewicht über 185 Gramm und Teile von geschlachtetem Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 79/66/CEE della Commissione, del 29 giugno 1966, relativo
+    alla fissazione dei prelievi e dei prezzi limite applicabili ai volatili da cortile
+    vivi di peso superiore a 185 grammi e alle parti di volatili da cortile macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 79/66/EEG van de Commissie van 29 juni 1966 betreffende
+    de vaststelling van de heffingen en sluisprijzen voor levend pluimvee dat meer
+    dan 185 gram weegt en delen van geslacht pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0079
+docidentifier:
+- content: EU Regulation 79/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0079
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/79/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

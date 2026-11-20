@@ -1,0 +1,94 @@
+---
+id: EURegulation18901975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1890/75 of the Council of 22 July 1975 amending Regulation
+    (EEC) No 2133/74 laying down general rules for the description and presentation
+    of wines and grape musts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1890/75 du Conseil, du 22 juillet 1975, modifiant
+    le règlement (CEE) n° 2133/74 établissant les règles générales pour la désignation
+    et la présentation des vins et des moûts de raisins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1890/75 des Rates vom 22. Juli 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2133/74 zur Aufstellung allgemeiner Regeln für die Bezeichnung
+    und Aufmachung der Weine und Traubenmoste
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1890/75 af 22. juli 1975 om ændring af forordning
+    (EØF) nr. 2133/74 om fastsættelse af almindelige regler for betegnelse og præsentation
+    af vin og druemost
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1890/75 del Consiglio, del 22 luglio 1975, che modifica
+    il regolamento (CEE) n. 2133/74, che stabilisce le norme generali per la designazione
+    e la presentazione dei vini e dei mosti di uve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1890/75 van de Raad van 22 juli 1975 tot wijziging
+    van Verordening (EEG) nr. 2133/74 houdende vaststelling van de algemene voorschriften
+    voor de omschrijving en de aanbiedingsvorm van wijn en druivemost
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1890
+docidentifier:
+- content: EU Regulation 1890/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1890
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1890/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-22'
+- type: implemented
+  at: '1975-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2133
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

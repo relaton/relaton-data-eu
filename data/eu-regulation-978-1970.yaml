@@ -1,0 +1,65 @@
+---
+id: EURegulation9781970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 978/70 de la Commission, du 28 mai 1970, fixant les
+    primes s'ajoutant aux prélèvements pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 978/70 der Kommission vom 28. Mai 1970 zur Festsetzung
+    der Prämien als Zuschlag zu den Abschöpfungen für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 978/70 della Commissione, del 28 maggio 1970, che
+    fissa i supplementi da aggiungere ai prelievi per il riso e le rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 978/70 van de Commissie van 28 mei 1970, tot vaststelling
+    van de premies waarmede de heffingen voor rijst en breukrijst worden verhoogd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0978
+docidentifier:
+- content: EU Regulation 978/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0978
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/978/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

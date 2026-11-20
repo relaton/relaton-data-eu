@@ -1,0 +1,84 @@
+---
+id: EURegulation15941971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1594/71 de la Commission, du 23 juillet 1971, modifiant
+    l'annexe X du règlement (CEE) n° 1014/71 en ce qui concerne les montants compensatoires
+    applicables dans le secteur des matières grasses à la suite de l'élargissement
+    temporaire des marges de fluctuation des monnaies de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1594/71 der Kommission vom 23. Juli 1971 zur Änderung
+    des Anhangs X der Verordnung (EWG) Nr. 1014/71 betreffend die auf dem Öl- und
+    Fettsektor anzuwendenden Ausgleichsbeträge im Anschluß an die vorübergehende
+    Erweiterung der Bandbreiten der Währungen einiger Mitgliedstaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1594/71 della Commissione, del 23 luglio 1971, che
+    modifica l'allegato X del regolamento (CEE) n. 1014/71 relativo agli importi compensativi
+    fissati per il settore delle materie grasse in seguito all'ampliamento temporaneo
+    dei margini di fluttuazione delle monete di taluni Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1594/71 van de Commissie van 23 juli 1971 tot wijziging
+    van bijlage X van Verordening (EEG) nr. 1014/71 betreffende de compenserende bedragen
+    van toepassing in de sector oliën en vetten ingevolge de tijdelijke verruiming
+    van de fluctuatiemarges van de valuta's van sommige Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1594
+docidentifier:
+- content: EU Regulation 1594/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1594
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1594/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-23'
+- type: implemented
+  at: '1971-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1014
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

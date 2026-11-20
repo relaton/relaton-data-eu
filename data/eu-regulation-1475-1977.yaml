@@ -1,0 +1,94 @@
+---
+id: EURegulation14751977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1475/77 of 20 June 1977 amending for the third
+    time Regulation (EEC) No 2133/74 laying down general rules for the description
+    and presentation of wines and grape musts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1475/77 du Conseil, du 20 juin 1977, modifiant pour
+    la troisième fois le règlement (CEE) n° 2133/74 établissant les règles générales
+    pour la désignation et la présentation des vins et des moûts de raisins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1475/77 des Rates vom 20. Juni 1977 zur dritten Änderung
+    der Verordnung (EWG) Nr. 2133/74 zur Aufstellung allgemeiner Regeln für die Bezeichnung
+    und Aufmachung der Weine und der Traubenmoste
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1475/77 af 20. juni 1977 om tredje ændring
+    af forordning (EØF) nr. 2133/74 om fastsættelse af almindelige regler for betegnelse
+    og præsentation af vin og druemost
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1475/77 del Consiglio, del 20 giugno 1977, recante
+    terza modifica del regolamento (CEE) n. 2133/74 che stabilisce le norme generali
+    per la designazione e la presentazione dei vini e dei mosti di uve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1475/77 van de Raad van 20 juni 1977 houdende derde
+    wijziging van Verordening (EEG) nr. 2133/74 houdende vaststelling van de algemene
+    voorschriften voor de omschrijving en de aanbiedingsvorm van wijn en druivemost
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1475
+docidentifier:
+- content: EU Regulation 1475/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1475
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1475/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-06-20'
+- type: implemented
+  at: '1977-07-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2133
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

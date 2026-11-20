@@ -1,0 +1,101 @@
+---
+id: EURegulation16791974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1679/74 of the Commission of 28 June 1974 repealing
+    Regulation (EEC) No 719/74 fixing the guide prices for calves and adult bovine
+    animals and amending Regulation (EEC) No 920/74
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1674 de la Commission, du 28 juin 1974, abrogeant
+    le règlement (CEE) n° 719/74 fixant les prix d'orientation des veaux et des
+    gros bovins et modifiant le règlement (CEE) n° 920/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1679/74 der Kommission vom 28. Juni 1974 zur Aufhebung
+    der in der Verordnung (EWG) Nr. 719/74 festgesetzten Orientierungspreise für
+    Kälber und ausgewachsene Rinder sowie zur Änderung der Verordnung (EWG) Nr.
+    920/74
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1679/74 af 28. juni 1974 om ophævelse
+    af forordning (EØF) nr. 719/74 om fastsættelse af orienteringspriser for kalve
+    og voksent kvæg og om ændring af forordning (EØF) nr. 920/74
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1679/74 della Commissione, del 28 giugno 1974, che
+    abroga il regolamento (CEE) n. 719/74 che fissa i prezzi d'orientamento dei vitelli
+    e dei bovini adulti e che modifica il regolamento (CEE) n. 920/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1679/74 van de Commissie van 28 juni 1974 houdende
+    intrekking van Verordening (EEG) nr. 719/74 tot vaststelling van de met ingang
+    van 1 april 1974 in het Verenigd Koninkrijk geldende oriëntatieprijzen voor kalveren
+    en volwassen runderen en houdende wijziging van Verordening (EEG) nr. 920/74
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1679
+docidentifier:
+- content: EU Regulation 1679/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1679
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1679/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-28'
+- type: implemented
+  at: '1974-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0719
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0920
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

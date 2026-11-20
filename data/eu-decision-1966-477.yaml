@@ -1,0 +1,86 @@
+---
+id: EUDecision1966477
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/477/CEE de la Commission, du 29 juillet 1966, portant modification
+    de sa décision du 1er avril 1966 autorisant la perception de taxes compensatoires
+    à l'importation dans la République française, de dextrines, d'amidons et fécules
+    solubles ou torréfiées, ainsi que de parements préparés et apprêts préparés
+    à base de matières amylacées, en provenance des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/477/EWG: Entscheidung der Kommission vom 29. Juli 1966 zur Änderung
+    ihrer Entscheidung vom 1. April 1966 über die Erhebung von Ausgleichsabgaben
+    bei der Einfuhr von Dextrin, löslicher oder gerösteter Stärke, zubereiteten
+    Zurichtemitteln und zubereiteten Appreturen auf der Grundlage von Stärke aus
+    den anderen Mitgliedstaaten in die Französische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '66/477/CEE: Decisione della Commissione, del 29 luglio 1966, che modifica
+    la decisione del 1 aprile 1966 che autorizza la riscossione di tasse di compensazione
+    all''importazione, nella Repubblica francese, di destrine, di amidi, e fecole
+    solubili o torrefatte, e così pure di bozzime e appretti preparati a base di
+    materie amidacee, provenienti dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/477/EEG: Beschikking van de Commissie van 29 juli 1966 tot wijziging
+    van haar beschikking van 1 april 1966 houdende machtiging tot het leggen van compenserende
+    heffingen op de invoer in de Franse Republiek van dextrine, oplosbaar of geroost
+    zetmeel en preparaten voor het appreteren op basis van zetmeel of van zetmeelderivaten,
+    uit de overige Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0477
+docidentifier:
+- content: EU Decision 1966/477
+  type: EU
+  primary: true
+- content: CELEX 31966D0477
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/477/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0275
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

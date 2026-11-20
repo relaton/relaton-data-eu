@@ -1,0 +1,82 @@
+---
+id: EURegulation24331969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2433/69 du Conseil, du 6 décembre 1969, fixant le
+    prix indicatif du lait et les prix d'intervention pour le beurre , le lait écrémé
+    en poudre et les fromages grana padano et parmigiano reggiano, valables pendant
+    la campagne laitière 1969/1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2433/69 des Rates vom 6. Dezember 1969 zur Festsetzung
+    des Richtpreises für Milch sowie der Interventionspreise für Butter, Magermilchpulver,
+    Grana Padano und Parmigiano Reggiano für das Milchwirtschaftsjahr 1969/1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2433/69 del Consiglio, del 6 dicembre 1969, che fissa
+    il prezzo indicativo del latte e i prezzi d'intervento per il burro, il latte
+    scremato in polvere e i formaggi Grana Padano e Parmigiano Reggiano, validi per
+    la campagna lattiera 1969/1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2433/69 van de Raad van 6 december 1969 tot vaststelling
+    van de richtprijs voor melk en van de interventieprijzen voor boter, magere-melkpoeder
+    en Grana Padano- en Parmigiano-Reggianokaas, voor het melkprijsjaar 1969/1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2433
+docidentifier:
+- content: EU Regulation 2433/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2433
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2433/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-06'
+- type: implemented
+  at: '1969-12-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0886
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

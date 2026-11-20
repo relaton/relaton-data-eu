@@ -1,0 +1,106 @@
+---
+id: EUDirective1982436
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 82/436/EEC of 24 June 1982 amending Directives 72/159/EEC,
+    72/160/EEC and 72/161/EEC in relation to agricultural structures
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 82/436/CEE du Conseil, du 24 juin 1982, modifiant les directives
+    72/159/CEE, 72/160/CEE et 72/161/CEE en matière de structures agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 82/436/EWG des Rates vom 24. Juni 1982 zur Änderung der Richtlinien
+    72/159/EWG, 72/160/EWG und 72/161/EWG auf dem Gebiet der Agrarstruktur
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 82/436/EØF af 24. juni 1982 om ændring af direktiv 72/159/EØF,
+    72/160/EØF og 72/161/EØF vedrørende landbrugsstrukturernei
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 82/436/EOK του Συμβουλίου της 24ης Ιουνίου
+    1982 περί τροποποιήσεως των οδηγιών 72/159/EOK, 72/160/EOK
+    και 72/161/EOK σχετικά με τις γεωργικές διαρθρώσεις
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 82/436/CEE del Consiglio, del 24 giugno 1982, che modifica le
+    direttive 72/159/CEE, 72/160/CEE e 72/161/CEE in materia di strutture agricolet
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 82/436/EEG van de Raad van 24 juni 1982 tot wijziging van de
+    Richtlijnen 72/159/EEG, 72/160/EEG en 72/161/EEG op het gebied van de landbouwstructuurf
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982L0436
+docidentifier:
+- content: EU Directive 1982/436
+  type: EU
+  primary: true
+- content: CELEX 31982L0436
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1982/436/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-06-24'
+- type: implemented
+  at: '1982-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972L0159
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972L0160
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972L0161
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

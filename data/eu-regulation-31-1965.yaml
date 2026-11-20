@@ -1,0 +1,75 @@
+---
+id: EURegulation311965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 31/65/CEE, 5/65/Euratom des Conseils, du 16 mars 1965, portant
+    fixation du montant et de la période d'attribution de l'indemnité forfaitaire
+    temporaire visée à l'article 4 bis de l'annexe VII au statut des fonctionnaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 31/65/EWG, 5/65/Euratom der Räte vom 16. März 1965 zur
+    Festlegung der Höhe und des Zeitraums der Gewährung der in Anhang VII Artikel
+    4 a des Statuts der Beamten vorgesehenen vorübergehenden Pauschalzulage
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 31/65/CEE, 5/65/Euratom dei Consigli, del 16 marzo 1965,
+    relativo all'ammontare e alla durata dell'indennità forfettaria temporanea di
+    cui all'articolo 4 bis dell'allegato VII dello statuto dei funzionari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 31/65/EEG, 5/65/Euratom van de Raden van 16 maart 1965
+    houdende vaststelling van het bedrag en het tijdvak van toekenning van de tijdelijke
+    vaste vergoeding bedoeld in artikel 4 bis van bijlage VII van het Statuut van
+    de ambtenaren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0031
+docidentifier:
+- content: EU Regulation 31/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0031
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/31/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-16'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

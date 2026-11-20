@@ -1,0 +1,103 @@
+---
+id: EURegulation22511983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2251/83 of 18 July 1983 amending Regulation
+    (EEC) No 1724/80 adopting general rules concerning special measures for soya beans
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2251/83 du Conseil du 18 juillet 1983 modifiant le
+    règlement (CEE) no 1724/80 arrêtant les règles générales relatives aux mesures
+    spéciales pour les graines de soja
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2251/83 des Rates vom 18. Juli 1983 zur Änderung
+    der Verordnung (EWG) Nr. 1724/80 zur Festlegung der Grundregeln betreffend die
+    Sondermaßnahmen für Sojabohnen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2251/83 af 18. juli 1983 om ændring af forordning
+    (EØF) nr. 1724/80 om fastsættelse af almindelige regler vedrørende særlige
+    foranstaltninger for sojabønner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2251/83 του Συμβουλίου
+    της 18ης Ιουλίου 1983 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 1724/80 περί θεσπίσεως των
+    γενικών κανόνων σχετικά με τα ειδικά μέτρα
+    για τους σπόρους σόγιας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2251/83 del Consiglio del 18 luglio 1983 recante modifica
+    del regolamento (CEE) n. 1724/80 che stabilisce le norme generali relative alle
+    misure speciali per i semi di soia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2251/83 van de Raad van 18 juli 1983 tot wijziging
+    van Verordening (EEG) nr. 1724/80 tot vaststelling van de algemene voorschriften
+    inzake de bijzondere maatregelen voor sojabonen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R2251
+docidentifier:
+- content: EU Regulation 2251/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R2251
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/2251/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-07-18'
+- type: implemented
+  at: '1983-08-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1724
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

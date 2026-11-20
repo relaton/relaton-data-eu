@@ -1,0 +1,84 @@
+---
+id: EURegulation10331971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1033/71 de la Commission, du 19 mai 1971, modifiant
+    le règlement (CEE) n° 1014/71 en ce qui concerne certains montants compensatoires
+    fixés dans le secteur agricole à la suite de l'élargissement temporaire des
+    marges de fluctuation des monnaies de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1033/71 der Kommission vom 19. Mai 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1014/71 über bestimmte in der Landwirtschaft im Anschluß
+    an die vorübergehende Erweiterung der Bandbreiten der Währungen einiger Mitgliedstaaten
+    festgesetzte Ausgleichsbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1033/71 della Commissione, del 19 maggio 1971, che
+    modifica il regolamento (CEE) n. 1014/71 per quanto concerne taluni importi compensativi
+    fissati nel settore agricolo in seguito all'ampliamento temporaneo dei margini
+    di fluttuazione delle monete di taluni Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1033/71 van de Commissie van 19 mei 1971 houdende
+    wijziging van Verordening (EEG) nr. 1014/71 voor wat betreft bepaalde compenserende
+    bedragen welke naar aanleiding van de tijdelijke verruiming van de fluctuatiemarges
+    van de valuta's van sommige Lid- Staten werden vastgesteld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1033
+docidentifier:
+- content: EU Regulation 1033/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1033
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1033/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-19'
+- type: implemented
+  at: '1971-05-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1014
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

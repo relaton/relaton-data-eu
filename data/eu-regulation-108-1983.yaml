@@ -1,0 +1,104 @@
+---
+id: EURegulation1081983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 108/83 of 17 January 1983 amending Regulation
+    (EEC) No 652/79 on the impact of the European monetary system on the common agricultural
+    policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 108/83 du Conseil du 17 janvier 1983 modifiant le règlement
+    (CEE) no 652/79 relatif aux conséquences du système monétaire européen dans
+    le cadre de la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 108/83 des Rates vom 17. Januar 1983 zur Änderung
+    der Verordnung (EWG) Nr. 652/79 über die Auswirkungen des Europäischen Währungssystems
+    im Rahmen der gemeinsamen Agrarpolitik
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 108/83 af 17. januar 1983 om ændring af
+    forordning (EØF) nr. 652/79 om det europæiske valutasystems konsekvenser for
+    den fælles landbrugspolitik
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 108/83 του Συμβουλίου
+    της 17ης Ιανουαρίου 1983 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 652/79 περί των επιπτώσεων
+    του ευρωπαϊκού νομισματικού συστήματος στα
+    πλαίσια της κοινής γεωργικής πολιτικής
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 108/83 del Consiglio del 17 gennaio 1983 che modifica
+    il regolamento (CEE) n. 652/79 relativo alle conseguenze del sistema monetario
+    europeo nel quadro della politica agricola comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 108/83 van de Raad van 17 januari 1983 tot wijziging
+    van Verordening (EEG) nr. 652/79 inzake de consequenties van het Europees Monetair
+    Stelsel voor het gemeenschappelijk landbouwbeleid
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0108
+docidentifier:
+- content: EU Regulation 108/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0108
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/108/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-01-17'
+- type: implemented
+  at: '1983-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0652
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

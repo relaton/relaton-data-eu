@@ -1,0 +1,78 @@
+---
+id: EURegulation881963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 88/63/CEE du Conseil, du 18 juillet 1963, portant fixation
+    du montant des prélèvements à l'égard des pays tiers pour les préparations
+    et conserves à base de viande de porc énumérées à l'article premier paragraphe
+    1 partie c) du règlement n° 20 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 88/63/EWG des Rats vom 18. Juli 1963 über die Festsetzung
+    der Abschöpfungsbeträge gegenüber dritten Ländern für die in Artikel 1 Absatz
+    (1) Buchstabe c) der Verordnung Nr. 20 des Rats genannten, Schweinefleisch enthaltenden
+    Zubereitungen und Konserven
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 88/63/CEE del Consiglio, del 18 luglio 1963, relativo alla
+    determinazione dell'ammontare dei prelievi nei confronti dei paesi terzi per le
+    preparazioni e conserve a base di carne suina elencate nell'articolo 1, paragrafo
+    1, lettera c) del regolamento n. 20 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 88/63/EEG van de Raad van 18 juli 1963 houdende vaststelling
+    van het bedrag van de heffingen ten opzichte van derde landen voor de in artikel
+    1, lid 1, sub c, van Verordening Nr. 20 van de Raad genoemde bereidingen en conserven
+    op basis van varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0088
+docidentifier:
+- content: EU Regulation 88/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0088
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/88/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-18'
+- type: implemented
+  at: '1963-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

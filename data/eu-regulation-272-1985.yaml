@@ -1,0 +1,104 @@
+---
+id: EURegulation2721985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 272/85 of 31 January 1985 amending Regulation
+    (EEC) No 208/70 laying down detailed rules for the application of measures to
+    encourage the processing of oranges
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 272/85 de la Commission du 31 janvier 1985 modifiant
+    le règlement (CEE) no 208/70 établissant les modalités d' application des mesures
+    visant à promouvoir la transformation des oranges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 272/85 der Kommission vom 31. Januar 1985 zur Änderung
+    der Verordnung (EWG) Nr. 208/70 mit Durchführungsbestimmungen zu den Maßnahmen
+    der Apfelsinenverarbeitung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 272/85 af 31. januar 1985 om ændring
+    af forordning (EØF) nr. 208/70 om gennemførelsesbestemmelserne om foranstaltninger
+    til fremme af forarbejdning af appelsiner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 272/85 της Επιτροπής
+    της 31ης Ιανουαρίου 1985 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 208/70 περί θεσπίσεως των
+    λεπτομερειών εφαρμογής των μέτρων που αποσκοπούν
+    στην προώθηση της μεταποίησης των πορτοκαλιών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 272/85 della Commissione del 31 gennaio 1985 che modifica
+    il regolamento (CEE) n. 208/70 che stabilisce le modalità di applicazione delle
+    misure intese a promuovere la trasformazione delle arance
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 272/85 van de Commissie van 31 januari 1985 tot wijziging
+    van Verordening (EEG) nr. 208/70 houdende uitvoeringsbepalingen ter zake van de
+    maatregelen tot bevordering van het verwerken van sinaasappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0272
+docidentifier:
+- content: EU Regulation 272/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0272
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/272/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-01-31'
+- type: implemented
+  at: '1985-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0208
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

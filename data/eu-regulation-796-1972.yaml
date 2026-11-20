@@ -1,0 +1,94 @@
+---
+id: EURegulation7961972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 796/72 of the Council of 17 April 1972 amending Regulation
+    No 120/67/EEC as regards the rules for fixing cereal prices and the import system
+    for feedgrain in Italy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 796/72 du Conseil, du 17 avril 1972, modifiant le
+    règlement" n° 120/67/CEE en ce qui concerne le régime de fixation des prix
+    des céréales et le régime des importations des céréales fourragères en Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 796/72 des Rates vom 17. April 1972 zur Änderung
+    der Verordnung Nr. 120/67/EWG hinsichtlich der Regelung für die Festsetzung der
+    Getreidepreise und der Regelung für die Einfuhr von Futtergetreide in Italien
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 796/72 af 17. april 1972 om ændring af forordning
+    nr. 120/67/EØF for så vidt angår reglerne om fastsættelse af kornpriserne
+    og reglerne om indførsel af foderkorn i Italien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 796/72 del Consiglio, del 17 aprile 1972, che modifica
+    il regolamento n. 120/67/CEE per quanto riguarda il regime della fissazione dei
+    prezzi dei cereali ed il regime delle importazioni di cereali foraggeri in Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 796/72 van de Raad van 17 april 1972 tot wijziging
+    van Verordening nr. 120/67/EEG met betrekking tot de regeling voor de vaststelling
+    der graanprijzen en de regeling voor de invoer van voedergranen in Italië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0796
+docidentifier:
+- content: EU Regulation 796/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0796
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/796/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-04-17'
+- type: implemented
+  at: '1972-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

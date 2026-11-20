@@ -1,0 +1,78 @@
+---
+id: EURegulation24401972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2440/72 du Conseil, du 21 novembre 1972, portant ouverture,
+    répartition et mode de gestion d'un contingent tarifaire communautaire supplémentaire,
+    pour l'année 1972, de ferro-silicium de la sous-position 73.02 C du tarif douanier
+    commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2440/72 des Rates vom 21. November 1972 zur Eröffnung,
+    Aufteilung und Verwaltung eines zusätzlichen Gemeinschaftszollkontingents für
+    Ferrosilizium der Tarifstelle 73.02 C des Gemeinsamen Zolltarifs für das Jahr
+    1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2440/72 del Consiglio, del 21 novembre 1972, relativo
+    all'apertura, alla ripartizione ed alle modalità di gestione di un contingente
+    tariffario comunitario supplementare, per l'anno 1972, di ferro-silicio della
+    sottovoce 72.03 C della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2440/72 van de Raad van 21 november 1972 betreffende
+    de opening, de verdeling en de wijze van beheer van een aanvullend communautair
+    tariefcontingent voor het jaar 1972 voor ferrosilicium van onderverdeling 73.02
+    C van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2440
+docidentifier:
+- content: EU Regulation 2440/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2440
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2440/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-11-21'
+- type: implemented
+  at: '1972-11-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

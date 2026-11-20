@@ -1,0 +1,71 @@
+---
+id: EURegulation1061963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 106/63/CEE de la Commission, du 27 septembre 1963, portant
+    adaptation et fixation des prix d'écluse pour le porc et les produits à base
+    de viande de porc, pour les importations effectuées entre le 1er octobre et le
+    31 décembre 1963
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 106/63/EWG der Kommission vom 27. September 1963 über die
+    Anpassung und Festsetzung der Einschleusungspreise für Schweine und Schweinefleischerzeugnisse
+    für die vom 1. Oktober bis zum 31. Dezember 1963 getätigten Einfuhren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 106/63/CEE della Commissione del 27 settembre 1963 relativo
+    all'adattamento e alla fissazione dei prezzi limite applicabili ai suini e ai
+    prodotti a base di carne suina per le importazioni effettuate tra il 1 ottobre
+    e il 31 dicembre 1963
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 106/63/EEG van de Commissie van 27 september 1963 houdende
+    aanpassing en vaststelling van de sluisprijzen voor varkens en varkensvleesprodukten
+    die met ingang van 1 oktober tot en met 31 december 1963 worden ingevoerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0106
+docidentifier:
+- content: EU Regulation 106/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0106
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/106/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

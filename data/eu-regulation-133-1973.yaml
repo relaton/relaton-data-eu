@@ -1,0 +1,94 @@
+---
+id: EURegulation1331973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 133/73 of the Commission of 19 January 1973 derogating
+    from Regulation (EEC) No 2637/70 as regards the period of validity of export licences
+    for cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 133/73 de la Commission, du 19 janvier 1973, portant
+    dérogation au règlement (CEE) n° 2637/70 en ce qui concerne la durée de validité
+    des certificats d'exportation dans les secteurs des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 133/73 der Kommission vom 19. Januar 1973 über die
+    Abweichung von der Verordnung (EWG) Nr. 2637/70 hinsichtlich der Gültigkeitsdauer
+    der Ausfuhrlizenzen für Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 133/73 af 19. januar 1973 om afvigelser
+    fra forordning (EØF) nr. 2637/70 for så vidt angår gyldighedsperioden for eksportlicenser
+    for korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 133/73 della Commissione, del 19 gennaio 1973, recante
+    deroga al regolamento (CEE) n. 2637/70 per quanto concerne la durata di validità
+    dei titoli d'esportazione nei settori dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 133/73 van de Commissie van 19 januari 1973 houdende
+    afwijking van Verordening (EEG) nr. 2637/70 voor wat betreft de geldigheidsduur
+    van de uitvoercertificaten in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0133
+docidentifier:
+- content: EU Regulation 133/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0133
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/133/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-19'
+- type: implemented
+  at: '1973-01-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0435
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

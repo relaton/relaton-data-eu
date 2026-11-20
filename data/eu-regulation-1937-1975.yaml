@@ -1,0 +1,88 @@
+---
+id: EURegulation19371975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1937/75 of the Commission of 25 July 1975 laying down
+    detailed rules for the importation of olive oil from Morocco
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1937/75 de la Commission, du 25 juillet 1975, relatif
+    aux modalités concernant les importations des huiles d'olive du Maroc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1937/75 der Kommission vom 25. Juli 1975 mit Durchführungsvorschriften
+    für die Einfuhr von Olivenöl aus Marokko
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1937/75 af 25. juli 1975 om gennemførelsesbestemmelser
+    vedrørende indførsel af olivenolie fra Marokko
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1937/75 della Commissione, del 25 luglio 1975, relativo
+    alle modalità concernenti le importazioni degli oli d'oliva dal Marocco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1937/75 van de Commissie van 25 juli 1975 betreffende
+    de nadere regeling van de invoer van olijfolie uit Marokko
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1937
+docidentifier:
+- content: EU Regulation 1937/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1937
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1937/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-25'
+- type: implemented
+  at: '1975-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2697
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

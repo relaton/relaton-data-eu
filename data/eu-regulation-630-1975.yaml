@@ -1,0 +1,102 @@
+---
+id: EURegulation6301975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 630/75 of the Commission of 12 March 1975 on a standing
+    invitation to tender to determine subsidies on white sugar produced in excess
+    of the maximum quota and in respect of which no export levy is to apply, with
+    the option of delivery to Italy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 630/75 de la Commission, du 12 mars 1975, concernant
+    une adjudication permanente pour la détermination de subventions à octroyer
+    au sucre blanc produit au-delà du quota maximal auquel ne s' applique pas le
+    prélèvement à l' exportation et, le cas échéant, livré à l' Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 630/75 der Kommission vom 12. März 1975 über eine
+    Dauerausschreibung zur Festsetzung der Subventionen für den über die Höchstquote
+    hinaus erzeugten Weißzucker, auf den die Ausfuhrabschöpfung nicht anwendbar
+    ist und der gegebenenfalls nach Italien zu liefern ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 630/75 af 12. marts 1975 om en løbende
+    licitation med henblik på fastlæggelse af tilskud, som skal ydes for hvidt sukker,
+    som er fremstillet ud over den maksimumskvote, for hvilken der ikke gælder nogen
+    eksportafgift, og som i givet fald leveres til Italien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 630/75 della Commissione, del 12 marzo 1975, relativo
+    a una gara permanente per la determinazione di sovvenzioni da accordare allo zucchero
+    bianco prodotto al di là della quota massima a cui non si applica il prelievo
+    all' esportazione ed eventualmente consegnato in Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 630/75 van de Commissie van 12 maart 1975 inzake
+    een permanente inschrijving voor de vaststelling van de subsidies die moeten worden
+    toegekend voor boven het maximumquotum geproduceerde witte suiker waarvoor de
+    uitvoerheffing niet geldt en die eventueel wordt geleverd aan Italië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0630
+docidentifier:
+- content: EU Regulation 630/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0630
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/630/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-12'
+- type: implemented
+  at: '1975-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0312
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

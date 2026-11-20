@@ -1,0 +1,69 @@
+---
+id: EURegulation21321968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2132/68 de la Commission, du 27 décembre 1968, fixant
+    les restitutions pour les céréales et les farines, gruaux et semoules de blé
+    ou de seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2132/68 der Kommission vom 27. Dezember 1968 zur Festsetzung
+    der für Getreide, Mehl, Grob- und Feingrieß von Weizen oder Roggen anzuwendenden
+    Erstattungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2132/68 della Commissione, del 27 dicembre 1968, che
+    fissa le restituzioni per i cereali e le farine, semole e semolini di grano o
+    di segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2132/68 van de Commissie van 27 december 1968 houdende
+    vaststelling van de restituties voor granen en meel, grutten, gries en griesmeel
+    van tarwe en rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R2132
+docidentifier:
+- content: EU Regulation 2132/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R2132
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/2132/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

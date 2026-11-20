@@ -1,0 +1,140 @@
+---
+id: EURegulation18852000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1885/2000 of 6 September 2000 repealing Regulations
+    (EC) No 1758/98 and (EC) No 539/2000 relating to invitations to tender for the
+    export of cereals held by certain intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1885/2000 de la Commission du 6 septembre 2000 abrogeant
+    les règlements (CE) n° 1758/98 et (CE) n° 539/2000 relatifs aux adjudications
+    permanentes pour l'exportation de céréales détenues par certains organismes
+    d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1885/2000 der Kommission vom 6. September 2000 zur
+    Aufhebung der Verordnungen (EG) Nr. 1758/98 und (EG) Nr. 539/2000, betreffend
+    die Dauerausschreibungen zur Ausfuhr von Getreide aus Beständen bestimmter Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1885/2000 af 6. september 2000 om ophævelse
+    af forordning (EF) nr. 1758/98 og (EF) nr. 539/2000 om løbende licitationer med
+    henblik på eksport af korn, som er i visse interventionsorganers besiddelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1885/2000 της Επιτροπής,
+    της 6ης Σεπτεμβρίου 2000, για την κατάργηση των
+    κανονισμών (ΕΚ) αριθ. 1758/98 και (ΕΚ) αριθ. 539/2000
+    περί προκηρύξεως διαρκών διαγωνισμών για την
+    εξαγωγή σιτηρών που κατέχουν ορισμένοι οργανισμοί
+    παρέμβασης
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1885/2000, annettu 6 päivänä syyskuuta 2000,
+    pysyvien tarjouskilpailujen avaamisesta tiettyjen interventioelinten hallussa
+    olevien viljojen viemistä varten annettujen asetusten (EY) N:o 1758/98 ja (EY)
+    N:o 539/2000 kumoamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1885/2000 della Commissione, del 6 settembre 2000,
+    che abroga i regolamenti (CE) n. 1758/98 e (CE) n. 539/2000 relativi alle gare
+    permanenti per l'esportazione di cereali detenuti da taluni organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1885/2000 van de Commissie van 6 september 2000 tot
+    intrekking van de Verordeningen (EG) nr. 1758/98 en (EG) nr. 539/2000 inzake permanente
+    openbare inschrijvingen voor uitvoer van graan dat in het bezit is van een aantal
+    interventiebureaus
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 1885/2000 da Comissão, de 6 de Setembro de 2000,
+    que revoga os Regulamentos (CE) n.° 1758/98 e (CE) n.° 539/2000 relativos aos
+    concursos permanentes para a exportação de cereais detidos por determinados
+    organismos de intervenção
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1885/2000 de la Comisión, de 6 de septiembre de 2000,
+    por el que se derogan los Reglamentos (CE) nos 1758/98 y 539/2000 relativos a
+    las licitaciones permanentes para la exportación de cereales en poder de determinados
+    organismos de intervención
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1885/2000 av den 6 september 2000 om
+    upphävande av förordningarna (EG) nr 1758/98 och (EG) nr 539/2000 om stående
+    anbudsinfordringar för export av spannmål som innehas av vissa interventionsorgan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R1885
+docidentifier:
+- content: EU Regulation 1885/2000
+  type: EU
+  primary: true
+- content: CELEX 32000R1885
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2000/1885/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-09-06'
+- type: implemented
+  at: '2000-09-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31998R1758
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 32000R0539
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

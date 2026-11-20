@@ -1,0 +1,65 @@
+---
+id: EURegulation20091972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2009/72 de la Commission, du 21 septembre 1972, fixant
+    les prélèvements applicables au riz et aux brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2009/72 der Kommission vom 21. September 1972 zur
+    Festsetzung der bei Reis und Bruchreis anzuwendenden Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2009/72 della Commissione, del 21 settembre 1972,
+    che fissa i prelievi applicabili al riso e alle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2009/72 van de Commissie van 21 september 1972 tot
+    vaststelling van de heffingen die van toepassing zijn op rijst en op breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2009
+docidentifier:
+- content: EU Regulation 2009/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2009
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2009/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

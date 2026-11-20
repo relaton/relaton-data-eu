@@ -1,0 +1,66 @@
+---
+id: EURegulation8341971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 834/71 de la Commission, du 22 avril 1971, fixant les
+    montants supplémentaires pour certains produits dans le secteur de la viande
+    de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 834/71 der Kommission vom 22. April 1971 zur Festsetzung
+    von Zusatzbeträgen für bestimmte Erzeugnisse des Schweinefleischsektors
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 834/71 della Commissione, del 22 aprile 1971, che
+    fissa l'importo supplementare per alcuni prodotti del settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 834/71 van de Commissie van 22 april 1971 houdende
+    vaststelling van extra bedragen voor bepaalde produkten in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0834
+docidentifier:
+- content: EU Regulation 834/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0834
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/834/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

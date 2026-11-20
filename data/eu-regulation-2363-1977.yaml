@@ -1,0 +1,88 @@
+---
+id: EURegulation23631977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2363/77 of 28 October 1977 amending Regulation
+    (EEC) No 3209/73 on the subsidy for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2363/77 du Conseil, du 28 octobre 1977, modifiant
+    le règlement (CEE) n° 3209/73 relatif à l'aide pour l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2363/77 des Rates vom 28. Oktober 1977 zur Änderung
+    der Verordnung (EWG) Nr. 3209/73 über die Beihilfe für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2363/77 af 28. oktober 1977 om ændring af
+    forordning (EØF) nr. 3209/73 om støtte til olivenolie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2363/77 del Consiglio, del 28 ottobre 1977, che modifica
+    il regolamento (CEE) n. 3209/73 relativo all'integrazione per l'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2363/77 van de Raad van 28 oktober 1977 tot wijziging
+    van Verordening (EEG) nr. 3209/73 betreffende de steun voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2363
+docidentifier:
+- content: EU Regulation 2363/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2363
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2363/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-28'
+- type: implemented
+  at: '1977-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3209
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

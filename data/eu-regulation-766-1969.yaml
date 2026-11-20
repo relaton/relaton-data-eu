@@ -1,0 +1,74 @@
+---
+id: EURegulation7661969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 766/69 du Conseil, du 22 avril 1969, fixant les prix
+    dans le secteur du sucre pour la campagne 1969/1970, ainsi que les qualités type
+    du sucre blanc et des betteraves
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 766/69 des Rates vom 22. April 1969 über die Festsetzung
+    der Preise für Zucker für das Wirtschaftsjahr 1969/1970 sowie der Standardqualität
+    für Weißzucker und für Zuckerrüben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 766/69 del Consiglio, del 22 aprile 1969, che fissa
+    i prezzi applicabili nel settore dello zucchero per la campagna saccarifera 1969/1970
+    nonché le qualità tipo dello zucchero bianco e delle barbabietole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 766/69 van de Raad van 22 april 1969 houdende vaststelling
+    van de prijzen in de sector suiker voor het verkoopseizoen 1969/1970, alsmede
+    van de standaardkwaliteiten voor witte suiker en voor suikerbieten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0766
+docidentifier:
+- content: EU Regulation 766/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0766
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/766/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-22'
+- type: implemented
+  at: '1969-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

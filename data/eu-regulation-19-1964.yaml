@@ -1,0 +1,90 @@
+---
+id: EURegulation191964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 19/64/CEE du Conseil, du 5 février 1964, portant modification
+    des règlements n° 20, 21 et 22 du Conseil en ce qui concerne les restitutions
+    à l'occasion d'exportations à destination des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 19/64/EWG des Rats vom 5. Februar 1964 zur Änderung der
+    Verordnungen Nr. 20,21 und 22 des Rats hinsichtlich der Erstattungen bei der Ausfuhr
+    nach Mitgliedstaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 19/64/CEE del Consiglio, del 5 febbraio 1964, recante modifica
+    ai regolamenti n. 20, 21 e 22 del Consiglio per quanto riguarda le restituzioni
+    all'esportazione verso gli Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 19/64/EEG van de Raad van 5 februari 1964 tot wijziging
+    van de Verordeningen Nrs. 20, 21 en 22 van de Raad met betrekking tot de restituties
+    bij de uitvoer naar de Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0019
+docidentifier:
+- content: EU Regulation 19/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0019
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/19/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-02-05'
+- type: implemented
+  at: '1964-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0020
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0021
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0022
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

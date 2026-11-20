@@ -1,0 +1,69 @@
+---
+id: EURegulation1711964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 171/64/CEE de la Commission, du 30 octobre 1964, déterminant
+    les modalités d'octroi de la restitution à l'exportation vers les pays tiers
+    pour certaines catégories d'aliments composés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 171/64/EWG der Kommission vom 30. Oktober 1964 zur Festsetzung
+    der Durchführungsbestimmungen zur Gewährung der Erstattung bei der Ausfuhr nach
+    dritten Ländern für bestimmte Kategorien Mischfutter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 171/64/CEE della Commissione, del 30 ottobre 1964, che determina
+    le modalità di concessione della restituzione all'esportazione verso i paesi
+    terzi per talune categorie di alimenti composti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 171/64/EEG van de Commissie van 30 oktober 1964 betreffende
+    de wijze van toekenning van de restitutie bij uitvoer naar derde landen voor bepaalde
+    soorten mengvoeders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0171
+docidentifier:
+- content: EU Regulation 171/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0171
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/171/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

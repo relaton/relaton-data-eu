@@ -1,0 +1,70 @@
+---
+id: EUDecision1963217
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission autorisant la République fédérale d'Allemagne
+    à diminuer les prélèvements pour les produits du secteur des oeufs
+  type: main
+- language: de
+  script: Latn
+  content: '63/217/EWG: Entscheidung der Kommission, mit der die Bundesrepublik Deutschland
+    ermächtigt wird, die Abschöpfungsbeträge für Eiprodukte zu verringern'
+  type: main
+- language: it
+  script: Latn
+  content: '63/217/CEE: Decisione della Commissione che autorizza la Repubblica federale
+    di Germania a ridurre i prelievi per i produttori del settore delle uova'
+  type: main
+- language: nl
+  script: Latn
+  content: '63/217/EEG: Beschikking van de Commissie waarbij de Bondsrepubliek Duitsland
+    wordt gemachtigd om het bedrag van de heffingen op eierprodukten te verlagen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963D0217
+docidentifier:
+- content: EU Decision 1963/217
+  type: EU
+  primary: true
+- content: CELEX 31963D0217
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1963/217/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-02-28'
+- type: implemented
+  at: '1963-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

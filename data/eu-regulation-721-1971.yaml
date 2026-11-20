@@ -1,0 +1,85 @@
+---
+id: EURegulation7211971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 721/71 de la Commission, du 2 avril 1971, abrogeant
+    les règlements (CEE) n° 1680/70 et 1893/70 relatifs à la vente de lait écrémé
+    en poudre et de beurre détenus par les organismes d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 721/71 der Kommission vom 2. April 1971 zur Aufhebung
+    der Verordnungen (EWG) Nrn. 1680/70 und 1893/70 über den Verkauf von Magermilchpulver
+    und Butter aus Beständen der Interventionsstellen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 721/71 della Commissione, del 2 aprile 1971, che abroga
+    i regolamenti (CEE) n. 1680/70 e n. 1893/70 relativi alla vendita di latte scremato
+    in polvere e di burro in possesso degli organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 721/71 van de Commissie van 2 april 1971 tot opheffing
+    van de Verordeningen (EEG) nrs. 1680/70 en 1893/70 met betrekking tot de verkoop
+    van magere-melkpoeder en boter, die in het bezit van de interventiebureaus zijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0721
+docidentifier:
+- content: EU Regulation 721/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0721
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/721/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-04-02'
+- type: implemented
+  at: '1971-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1680
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1893
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

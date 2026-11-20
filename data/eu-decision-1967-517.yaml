@@ -1,0 +1,78 @@
+---
+id: EUDecision1967517
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 28 juillet 1967, modifiant les décisions
+    de la Commission de la CEE, du 5 juillet 1967, en matière d'habilitation
+  type: main
+- language: de
+  script: Latn
+  content: '67/517/EWG: Beschluß der Kommission vom 28. Juli 1967 zur Änderung der
+    Beschlüsse der Kommission der Europäischen Wirtschaftsgemeinschaft vom 5. Juli
+    1967 betreffend verschiedene Ermächtigungen'
+  type: main
+- language: it
+  script: Latn
+  content: '67/517/CEE: Decisione della Commissione, del 28 luglio 1967, che modifica
+    le decisioni della Commissione della CEE del 5 luglio 1967 in materia di autorizzazione'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/517/EEG: Besluit van de Commissie van 28 juli 1967 tot wijziging van
+    de besluiten van de Commissie van de Europese Economische Gemeenschap van 5 juli
+    1967 inzake machtiging'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0517
+docidentifier:
+- content: EU Decision 1967/517
+  type: EU
+  primary: true
+- content: CELEX 31967D0517
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/517/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-28'
+- type: implemented
+  at: '1967-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967D0424
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

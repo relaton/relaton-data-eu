@@ -1,0 +1,131 @@
+---
+id: EURegulation7491969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation No 749/66/EEC of 22 April 1969 modifying Regulations
+    1014/68/EEC and 986/68/EEC concerning the use to which skimmed and powdered milk
+    are put in the feeding of animals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 749/69 du Conseil, du 22 avril 1969, modifiant les
+    règlements (CEE) n. 1014/68 et n. 986/ 68 en ce qui concerne l'utilisation du
+    lait écrémé et du lait en poudre dans l'alimentation des animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 749/69 des Rates vom 22. April 1969 zur Änderung
+    der Verordnungen (EWG) Nr. 1014/68 und Nr. 986/68 betreffend die Verwendung von
+    Magermilch und Magermilchpulver für Futterzwecke
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 749/69 του Συμβουλίου,
+    της 22ας Απριλίου 1969, περί τροποποίησης των
+    κανονισμών (ΕΟΚ) αριθ. 1014/68 και αριθ. 986/68 όσον
+    αφορά τη χρήση γάλακτος με κρέμα και γάλακτος
+    σε σκόνη για τη διατροφή ζώων
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 749/69, annettu 22 päivänä huhtikuuta 1969,
+    asetusten (ETY) N:o 1014/68 ja (ETY) N:o 986/68 muuttamisesta eläinten ruokintaan
+    käytettävän rasvattoman maidon ja rasvattoman maitojauheen osalta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 749/69 del Consiglio, del 22 aprile 1969, che modifica
+    i regolamenti (CEE) n. 1014/68 e n. 986/68 per quanto concerne l'utilizzazione
+    del latte scremato e del latte scremato in polvere nell'alimentazione degli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 749/69 van de Raad van 22 april 1969 houdende wijziging
+    van de Verordeningen (EEG) nr. 1014/68 en nr. 986/68 wat de aanwending van ondermelk
+    en mager melkpoeder voor voederdoeleinden betreft
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 749/69 do Conselho, de 22 de Abril de 1969, que altera
+    os Regulamentos (CEE) nº 1014/68 e (CEE) nº 986/68 no que respeita à utilização
+    do leite desnatado e do leite em pó desnatado na alimentação dos animais
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 749/69 del Consejo, de 22 de abril de 1969, por el
+    que se modifican los Reglamentos (CEE) n° 1014/68 y n° 986/68 en lo relativo
+    a la utilización de la leche desnatada y de la leche desnatada en polvo en alimentación
+    animal
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 749/69 av den 22 april 1969 om ändring av
+    förordningarna (EEG) nr 1014/68 och (EEG) nr 986/68 vad avser användningen av
+    skummjölk och skummjölkspulver till foder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0749
+docidentifier:
+- content: EU Regulation 749/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0749
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/749/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-22'
+- type: implemented
+  at: '1969-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0986
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1014
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

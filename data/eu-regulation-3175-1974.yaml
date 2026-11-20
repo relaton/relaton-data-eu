@@ -1,0 +1,99 @@
+---
+id: EURegulation31751974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3175/74 of the Council of 11 December 1974 increasing
+    the size of the Community tariff quota for unwrought magnesium falling within
+    subheading 77.01 A of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3175/74 du Conseil, du 11 décembre 1974, portant
+    augmentation du volume du contingent tarifaire communautaire de magnésium brut
+    de la sous- position 77.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3175/74 des Rates vom 11. Dezember 1974 zur Aufstockung
+    des Gemeinschaftszollkontingents für Rohmagnesium der Tarifstelle 77.01 A des
+    Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3175/74 af 11. december 1974 om forhøjelse
+    af omfanget af fællesskabstoldkontingentet for ubearbejdet magnesium under pos.
+    77.01 A i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3175/74 del Consiglio, dell'11 dicembre 1974, che
+    aumenta il volume del contingente tariffario comunitario di magnesio greggio della
+    sottovoce 77.01 A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3175/74 van de Raad van 11 december 1974 houdende
+    verhoging van het communautaire tarief-contingent voor ruw magnesium van onderverdeling
+    77.01 A van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3175
+docidentifier:
+- content: EU Regulation 3175/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3175
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3175/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-11'
+- type: implemented
+  at: '1974-12-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3591
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2092
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

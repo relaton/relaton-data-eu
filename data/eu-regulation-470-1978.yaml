@@ -1,0 +1,104 @@
+---
+id: EURegulation4701978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 470/78 of 7 March 1978 amending Regulation
+    (EEC) No 878/77 as regards the exchange rate for the French franc to be applied
+    in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 470/78 du Conseil, du 7 mars 1978, modifiant le règlement
+    (CEE) n° 878/77 en ce qui concerne le taux de change à appliquer pour le franc
+    français dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 470/78 des Rates vom 7. März 1978 zur Änderung der
+    Verordnung (EWG) Nr. 878/77 in bezug auf den Umrechnungskurs, der in der Landwirtschaft
+    auf den französischen Franken anzuwenden ist
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 470/78 af 7. marts 1978 om ændring af forordning
+    (EØF) nr. 878/77 for så vidt angår den vekselkurs, der inden for landbrugssektoren
+    skal anvendes for den franske franc
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 470/78 τού Συμβουλίου
+    τής 7ης Μαρτίου 1978 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 878/77 «περί τής τιμής συναλλάγματος
+    πού πρέπει νά εφαρμόζεται γιά τό γαλλικό φράγκο
+    στόν γεωργικό τομέα»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 470/78 del Consiglio, del 7 marzo 1978, che modifica
+    il regolamento (CEE) n. 878/77 per quanto concerne il tasso di cambio da applicare
+    per il franco francese nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 470/78 van de Raad van 7 maart 1978 tot wijziging
+    van Verordening (EEG) nr. 878/77 ten aanzien van de in de landbouwsector voor
+    de Franse frank toe te passen wisselkoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0470
+docidentifier:
+- content: EU Regulation 470/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0470
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/470/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-03-07'
+- type: implemented
+  at: '1978-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

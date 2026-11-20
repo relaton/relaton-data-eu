@@ -1,0 +1,65 @@
+---
+id: EURegulation1651962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 165 de la Commission fixant un taux de conversion du blé
+    tendre en farine pour le calcul de la restitution à la production
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 165 der Kommission, die einen Umrechnungssatz für Weichweizen
+    in Mehl für die Berechnung der Erstattung bei der Produktion festsetzt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 165 della Commissione che fissa un tasso di conversione
+    del grano tenero in farina per il calcolo della restituzione alla produzione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 165 van de Commissie tot vaststelling van een omrekeningsfactor
+    van zachte tarwe naar tarwemeel voor de berekening van de restitutie van de produktie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0165
+docidentifier:
+- content: EU Regulation 165/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0165
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/165/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

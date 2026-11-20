@@ -1,0 +1,105 @@
+---
+id: EURegulation23881977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2388/77 of 28 October 1977 amending Regulations
+    (EEC) No 1508/76, (EEC) No 1514/76 and (EEC) No 1521/76 on imports of olive oil
+    originating in Tunisia, Algeria and Morocco
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2388/77 du Conseil, du 28 octobre 1977, modifiant
+    les règlements (CEE) n° 1508/76, (CEE) n° 1514/76 et (CEE) n° 1521/76 relatifs
+    aux importations d' huile d' olive originaire de Tunisie, d' Algérie et du Maroc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2388/77 des Rates vom 28. Oktober 1977 zur Änderung
+    der Verordnungen (EWG) Nr. 1508/76, (EWG) Nr. 1514/76 und (EWG) Nr. 1521/76 über
+    die Einfuhren von Olivenöl mit Ursprung in Tunesien, Algerien und Marokko
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2388/77 af 28. oktober 1977 om ændring af
+    forordning (EØF) nr. 1508/76, (EØF) nr. 1514/76 og (EØF) nr. 1521/76 om indførsel
+    af olivenolie med oprindelse i Tunesien, Algeriet og Marokko
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2388/77 del Consiglio, del 28 ottobre 1977, che modifica
+    i regolamenti (CEE) n. 1508/76, (CEE) n. 1514/76 e (CEE) n. 1521/76, relativi
+    alle importazioni di olio d' oliva originario della Tunisia, dell' Algeria e del
+    Marocco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2388/77 van de Raad van 28 oktober 1977 tot wijziging
+    van de Verordeningen (EEG) nr. 1508/76, (EEG) nr. 1514/76 en (EEG) nr. 1521/76
+    betreffende de invoer van olijfolie van oorsprong uit Tunesië, Algerije en Marokko
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2388
+docidentifier:
+- content: EU Regulation 2388/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2388
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2388/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-28'
+- type: implemented
+  at: '1977-01-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1508
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1514
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1521
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

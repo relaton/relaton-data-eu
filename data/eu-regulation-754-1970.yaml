@@ -1,0 +1,100 @@
+---
+id: EURegulation7541970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 754/70 of the Commission of 24 April 1970 amending
+    Regulation (EEC) No 2195/69 laying down detailed rules for the application of
+    the system of premiums for slaughtering cows and for withholding milk and milk
+    products from the market
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 754/70 de la Commission, du 24 avril 1970, modifiant
+    le règlement (CEE) n° 2195/69 établissant des modalités d'application relatives
+    au régime de primes à l'abattage de vaches et de primes à la non-commercialisation
+    du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 754/70 der Kommission vom 24. April 1970 zur Änderung
+    der Verordnung (EWG) Nr. 2195/69 betreffend Durchführungsbestimmungen zu der
+    Regelung für die Gewährung von Prämien für die Schlachtung von Kühen und
+    für die Nichtvermarktung von Milch und Milcherzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 754/70 af 24. april 1970 om ændring
+    af forordning (EØF) nr. 2195/69 om gennemførelsesbestemmelser vedrørende præmieordningen
+    for slagtning af køer og præmier for at undlade at bringe mælk og mejeriprodukter
+    i handelen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 754/70 della Commissione, del 24 aprile 1970 che modifica
+    il regolamento (CEE) n. 2195/69 che stabilisce le modalità di applicazione relative
+    al regime di premi di macellazione delle vacche e di premi di non commercializzazione
+    del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 754/70 van de Commissie van 24 april 1970 houdende
+    wijziging van Verordening (EEG) nr. 2195/69 houdende vaststelling van uitvoeringsbepalingen
+    inzake het stelsel van premies voor het slachten van koeien en premies voor het
+    niet in de handel brengen van melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0754
+docidentifier:
+- content: EU Regulation 754/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0754
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/754/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-24'
+- type: implemented
+  at: '1969-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2195
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

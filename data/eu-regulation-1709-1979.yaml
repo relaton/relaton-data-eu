@@ -1,0 +1,104 @@
+---
+id: EURegulation17091979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1709/79 of 31 July 1979 amending Regulation
+    (EEC) No 343/79 laying down general rules governing certain distillation operations
+    in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1709/79 du Conseil, du 31 juillet 1979, modifiant
+    le règlement (CEE) n° 343/79 établissant les règles générales relatives
+    à certaines opérations de distillation de vins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1709/79 des Rates vom 31. Juli 1979 zur Änderung
+    der Verordnung (EWG) Nr. 343/79 zur Aufstellung allgemeiner Regeln für bestimmte
+    Destillationsmaßnahmen betreffend Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1709/79 af 31. juli 1979 om ændring af forordning
+    (EØF) nr. 343/79 om fastsættelse af almindelige regler for visse destillationer
+    af vin
+  type: main
+- language: el
+  script: Grek
+  content: Κανοθνισμός (ΕΟΚ) αριθ. 1709/79 τού Συμβουλίου
+    τής 31ης Ιουλίου 1979 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 343/79 «περί θεσπίσεως γενικών κανόνων
+    πού αφορούν ορισμένες εργασίες αποστάξεως
+    οίνων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1709/79 del Consiglio, del 31 luglio 1979, che modifica
+    il regolamento (CEE) n. 343/79 che stabilisce le norme generali per talune operazioni
+    di distillazione di vini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1709/79 van de Raad van 31 juli 1979 houdende wijziging
+    van Verordening (EEG) nr. 343/79 tot vaststelling van de algemene voorschriften
+    met betrekking tot bepaalde distillatieverrichtingen in de wijnbouwsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1709
+docidentifier:
+- content: EU Regulation 1709/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1709
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1709/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-31'
+- type: implemented
+  at: '1979-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0343
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

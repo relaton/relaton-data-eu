@@ -1,0 +1,84 @@
+---
+id: EURegulation10611971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1061/71 du Conseil, du 25 mai 1971, fixant, pour la
+    campagne sucrière 1971/1972, les prix dans le secteur du sucre, les qualités
+    type du sucre blanc et des betteraves, ainsi que le coefficient visé à l'article
+    24 du règlement n° 1009/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1061/71 des Rates vom 25. Mai 1971 zur Festsetzung
+    der Preise für Zucker, der Standardqualität für Weißzucker und für Zuckerrüben
+    sowie des in Artikel 24 der Verordnung Nr. 1009/67/EWG genannten Koeffizienten
+    für das Zuckerwirtschaftsjahr 1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1061/71 del Consiglio, del 25 maggio 1971, che fissa,
+    per la campagna saccarifera 1971/1972, i prezzi applicabili nel settore dello
+    zucchero, le qualità tipo dello zucchero bianco e delle barbabietole nonché
+    il coefficiente di cui all'articolo 24 del regolamento n. 1009/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1061/71 van de Raad van 25 mei 1971 houdende vaststelling
+    voor het verkoopseizoen voor suiker 1971/1972 van de prijzen in de sector suiker,
+    van de standaardkwaliteiten voor witte suiker en voor suikerbieten alsmede van
+    de in artikel 24 van Verordening nr. 1009/67/EEG bedoelde coëfficiënt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1061
+docidentifier:
+- content: EU Regulation 1061/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1061
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1061/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-25'
+- type: implemented
+  at: '1971-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1205
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

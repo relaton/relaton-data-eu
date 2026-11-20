@@ -1,0 +1,100 @@
+---
+id: EURegulation23551978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2355/78 of 9 October 1978 providing for certain
+    technical adjustments to Regulation (EEC) No 1848/78 laying down certain measures
+    for the conservation and management of fishery resources applicable to vessels
+    registered in the Faroe Islands
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2355/78 du Conseil, du 9 octobre 1978, prévoyant
+    certaines adaptations techniques du règlement (CEE) n° 1848/78 fixant certaines
+    mesures de conservation et de gestion des ressources de pêche applicables aux
+    navires immatriculés aux îles Féroé
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2355/78 des Rates vom 9. Oktober 1978 über einige
+    technische Anpassungen der Verordnung (EWG) Nr. 1848/78 zur Festlegung bestimmter
+    Maßnahmen zur Erhaltung und Bewirtschaftung der Fischbestánde fúr die auf den
+    Fáróern registrierten Schiffe
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2355/78 af 9. oktober 1978 om visse tekniske
+    tilpasninger i forordning (EØF) nr. 1848/78 om fastsættelse af en række foranstaltninger
+    til bevarelse og forvaltning af fiskeressourcerne, som skal finde anvendelse på
+    fartøjer, der er registreret på Færøerne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2355/78 del Consiglio, del 9 ottobre 1978, recante
+    alcuni adattamenti di carattere tecnico al regolamento (CEE) n. 1848/78 che dispone
+    talune misure di conservazione e di gestione delle risorse della pesca, da applicare
+    alle navi immatricolate nelle Isole Færøer
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2355/78 van de Raad van 9 oktober 1978 houdende vaststelling
+    van bepaalde technische aanpassingen van Verordening (EEG) nr. 1848/78 tot vaststelling
+    van bepaalde maatregelen voor de instandhouding en het beheer van de visbestanden,
+    van toepassing op op de Faeröer geregistreerde vaartuigen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2355
+docidentifier:
+- content: EU Regulation 2355/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2355
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2355/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-09'
+- type: implemented
+  at: '1978-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1848
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

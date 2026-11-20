@@ -1,0 +1,94 @@
+---
+id: EURegulation3371980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 337/80 of 13 February 1980 correcting Annex
+    II to Regulation (EEC) No 2607/79 fixing the yields of olives and olive oil for
+    the 1978/79 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 337/80 de la Commission, du 13 février 1980, rectifiant
+    l' annexe II du règlement (CEE) n° 2607/79 fixant les rendements en olives et
+    en huile pour la campagne 1978/1979
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 337/80 der Kommission vom 13. Februar 1980 zur Berichtigung
+    von Anhang II der Verordnung (EWG) Nr. 2607/79 zur Festsetzung der Erträge an
+    Oliven und Olivenöl für das Wirtschaftsjahr 1978/79
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 337/80 af 13. februar 1980 om berigtigelse
+    af bilag II til forordning (EØF) nr. 2607/79 om fastsættelse af udbyttet i oliven
+    og i olie for produktionsåret 1978/79
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 337/80 della Commissione, del 13 febbraio 1980, recante
+    rettifica dell' allegato II del regolamento (CEE) n. 2607/79 che fissa le rese
+    di olive e di olio per la campagna 1978/1979
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 337/80 van de Commissie van 13 februari 1980 tot
+    rectificatie van bijlage II van Verordening (EEG) nr. 2607/79 houdende vaststelling
+    van de opbrengst aan olijven en aan olie voor het verkoopseizoen 1978/1979
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0337
+docidentifier:
+- content: EU Regulation 337/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0337
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/337/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-02-13'
+- type: implemented
+  at: '1979-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2607
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

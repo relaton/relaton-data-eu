@@ -1,0 +1,100 @@
+---
+id: EURegulation28801974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2880/74 of the Commission of 18 November 1974 amending
+    Regulation (EEC) No 689/73 laying down certain detailed rules necessary for the
+    application of the subsidy provided for the refining of raw sugar produced in
+    the French overseas departments
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2880/74 de la Commission, du 18 novembre 1974, modifiant
+    le règlement (CEE) n° 689/73 relatif à certaines modalités nécessaires pour
+    l' application de la subvention prévue pour le raffinage du sucre brut produit
+    dans les départements français d' outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2880/74 der Kommission vom 18. November 1974 zur Änderung
+    der Verordnung (EWG) Nr. 689/73 über Durchführungsbestimmungen für die Gewährung
+    der für die Raffinierung von Rohzucker, der in den französischen überseeischen
+    Departements erzeugt worden ist, vorgesehene Beihilfe
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2880/74 af 18. november 1974 om ændring
+    af forordning (EØF) nr. 689/73 om visse bestemmelser, der er nødvendige for
+    anvendelsen af det tilskud, som er fastsat til raffinering af råsukker, der er
+    fremstillet i de franske oversøiske departementer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2880/74 della Commissione, del 18 novembre 1974, che
+    modifica il regolamento (CEE) n. 689/73 relativo ad alcune modalità necessarie
+    per l' applicazione della sovvenzione prevista per la raffinazione dello zucchero
+    greggio prodotto nei dipartimenti francesi d' oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2880/74 van de Commissie van 18 november 1974 tot
+    wijziging van Verordening (EEG) nr. 689/73 houdende vaststelling van een aantal
+    uitvoeringsbepalingen voor de toepassing van de vastgestelde subsidie voor de
+    raffinering van in de Franse overzeese departementen geproduceerde suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2880
+docidentifier:
+- content: EU Regulation 2880/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2880
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2880/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-18'
+- type: implemented
+  at: '1974-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0689
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulationNo20481977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2048/77 of 15 September 1977 amending Regulation
+    (EEC) No 937/77 following the fixing of a new exchange rate to be applied in Denmark
+    in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2048/77 de la Commission, du 15 septembre 1977, modifiant
+    le règlement (CEE) n° 937/77 suite à la fixation d' un nouveau taux de change
+    à appliquer pour le Danemark dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2048/77 der Kommission vom 15. September 1977 zur
+    Änderung der Verordnung (EWG) Nr. 937/77 im Anschluß an die Festsetzung eines
+    neuen Umrechnungskurses für die Landwirtschaft in Dänemark
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2048/77 af 15. september 1977 om ændring
+    af forordning (EØF) nr. 937/77 som følge af fastsættelse af en ny vekselkurs,
+    der skal anvendes inden for landbrugssektoren for Danmarks vedkommende
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2048/77 della Commissione, del 15 settembre 1977,
+    che modifica il regolamento (CEE) n. 937/77 in seguito alla fissazione di un nuovo
+    tasso di cambio da applicare nel settore agricolo per la Danimarca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2048/77 van de Commissie van 15 september 1977 tot
+    wijziging van Verordening (EEG) nr. 937/77 naar aanleiding van de vaststelling
+    van een nieuwe voor Denemarken in de landbouwsector toe te passen wisselkoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2048
+docidentifier:
+- content: EU Regulation No 2048/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2048
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2048/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-09-15'
+- type: implemented
+  at: '1977-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0937
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

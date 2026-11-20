@@ -1,0 +1,97 @@
+---
+id: EURegulation7091976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 709/76 of 25 March 1976 amending Regulation
+    (EEC) No 2824/72 laying down general rules for the financing of interventions
+    by the Guarantee Section of the European Agricultural Guidance and Guarantee Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 709/76 du Conseil, du 25 mars 1976, modifiant le règlement
+    (CEE) n° 2824/72 relatif aux règles générales sur le financement des interventions
+    par le Fonds européen d' orientation et de garantie agricole, section garantie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 709/76 des Rates vom 25. März 1976 zur Änderung
+    der Verordnung (EWG) Nr. 2824/72 über die allgemeinen Regeln für die Finanzierung
+    der Interventionen durch den Europäischen Ausrichtungs- und Garantiefonds für
+    die Landwirtschaft, Abteilung Garantie
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 709/76 af 25. marts 1976 om ændring af forordning
+    (EØF) nr. 2824/72 om de almindelige regler for finansiering af interventioner
+    gennem Den europæiske udviklings- og garantifond for Landbruget, garantisektionen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 709/76 del Consiglio, del 25 marzo 1976, che modifica
+    il regolamento (CEE) n. 2824/72, relativo alle norme generali per il finanziamento
+    degli interventi da parte del Fondo europeo agricolo di orientamento e di garanzia,
+    sezione garanzia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 709/76 van de Raad van 25 maart 1976 tot wijziging
+    van Verordening (EEG) nr. 2824/72 betreffende de algemene regels voor de financiering
+    van de interventies door het Europees Oriëntatie- en Garantiefonds voor de Landbouw,
+    afdeling Garantie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0709
+docidentifier:
+- content: EU Regulation 709/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0709
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/709/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-25'
+- type: implemented
+  at: '1976-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2824
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

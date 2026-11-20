@@ -1,0 +1,68 @@
+---
+id: EURegulation23781971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2378/71 de la Commission, du 5 novembre 1971, modifiant
+    le règlement (CEE) n 2227/71 relatif à la perception d'une taxe à l'exportation
+    pour le lait écrémé en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2378/71 der Kommission vom 5. November 1971 zur Änderung
+    der Verordnung (EWG) Nr. 2227/71 über die Erhebung einer Ausfuhrabgabe für Magermilchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2378/71 della Commissione, del 5 novembre 1971, che
+    modifica il regolamento (CEE) n. 2227/71 relativo alla riscossione di una tassa
+    all'esportazione per il latte scremato in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2378/71 van de Commissie van 5 november 1971 houdende
+    wijziging van Verordening (EEG) nr. 2227/71 betreffende de toepassing van een
+    heffing bij uitvoer van magere-melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2378
+docidentifier:
+- content: EU Regulation 2378/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2378
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2378/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

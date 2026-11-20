@@ -1,0 +1,93 @@
+---
+id: EURegulation27221977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2722/77 of 6 December 1977 amending Regulation
+    (EEC) No 646/75 establishing Community surveillance over imports of slide fasteners
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2722/77 de la Commission, du 6 décembre 1977, modifiant
+    le règlement (CEE) n° 646/75 portant instauration d'une surveillance communautaire
+    des importations de fermetures à glissière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2722/77 der Kommission vom 6. Dezember 1977 zur Änderung
+    der Verordnung (EWG) Nr. 646/75 zur Einführung einer gemeinschaftlichen Einfuhrüberwachung
+    für Reißverschlüsse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2722/77 af 6. december 1977 om ændring
+    af forordning (EØF) nr. 646/75 om indførelse af et fællesskabstilsyn med indførslerne
+    af lynlåse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2722/77 della Commissione, del 6 dicembre 1977, che
+    modifica il regolamento (CEE) n. 646/75 che instaura una sorveglianza comunitaria
+    delle importazioni di chiusure lampo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2722/77 van de Commissie van 6 december 1977 houdende
+    wijziging van de Verordening (EEG) nr. 646/75 tot instelling van communautair
+    toezicht op de invoer van treksluitingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2722
+docidentifier:
+- content: EU Regulation 2722/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2722
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2722/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-06'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0646
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

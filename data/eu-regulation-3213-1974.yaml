@@ -1,0 +1,94 @@
+---
+id: EURegulation32131974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3213/74 of the Council of 17 December 1974 amending
+    Regulation (EEC) No 3470/73 establishing Community supervision of imports of certain
+    products originating in Finland
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3213/74 du Conseil, du 17 décembre 1974, modifiant
+    le règlement (CEE) n° 3470/73 portant établissement d'une surveillance communautaire
+    à l'égard des importations de certains produits originaires de Finlande
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3213/74 des Rates vom 17. Dezember 1974 zur Änderung
+    der Verordnung (EWG) Nr. 3470/73 zur Einrichtung einer gemeinschaftlichen Überwachung
+    der Einfuhren bestimmter Erzeugnisse mit Ursprung in Finnland
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3213/74 af 17. december 1974 om ændring
+    af forordning (EØF) nr. 3470/73 om indførelse af fællesskabstilsyn med indførsler
+    af visse varer med oprindelse i Finland
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3213/74 del Consiglio, del 17 dicembre 1974, che modifica
+    il regolamento (CEE) n. 3470/73 che stabilisce una sorveglianza comunitaria delle
+    importazioni di taluni prodotti originari della Finlandia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3213/74 van de Raad van 17 december 1974 houdende
+    wijziging van Verordening (EEG) nr. 3470/73 tot instelling van communautair toezicht
+    op de invoer van bepaalde produkten van oorsprong uit Finland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3213
+docidentifier:
+- content: EU Regulation 3213/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3213
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3213/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-17'
+- type: implemented
+  at: '1974-12-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3470
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

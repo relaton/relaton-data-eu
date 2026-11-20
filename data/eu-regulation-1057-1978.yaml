@@ -1,0 +1,97 @@
+---
+id: EURegulation10571978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1057/78 of 19 May 1978 amending Regulation
+    (EEC) No 1598/77 laying down detailed rules for the sale of milk and certain milk
+    products at reduced prices to schoolchildren
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1057/78 de la Commission, du 19 mai 1978, modifiant
+    le règlement (CEE) n° 1598/77 relatif aux modalités d' application concernant
+    la cession à prix réduit de lait et de certains produits laitiers aux élèves
+    des établissements scolaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1057/78 der Kommission vom 19. Mai 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1598/77 über die Durchführungsbestimmungen zur verbilligten
+    Abgabe von Milch und bestimmten Milcherzeugnissen an Schüler in Schulen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1057/78 af 19. maj 1978 om ændring
+    af forordning (EØF) nr. 1598/77 om gennemførelsesbestemmelser for uddeling af
+    mælk og visse mejeriprodukter til nedsat pris til elever i skoler
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1057/78 della Commissione, del 19 maggio 1978, che
+    modifica il regolamento (CEE) n. 1598/77 che stabilisce le modalità della cessione
+    a prezzo ridotto di latte e di taluni prodotti lattiero-caseari agli allievi delle
+    scuole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1057/78 van de Commissie van 19 mei 1978 houdende
+    wijziging van Verordening (EEG) nr. 1598/77 met betrekking tot de uitvoeringsbepalingen
+    voor de verstrekking van melk en bepaalde zuivelprodukten tegen verlaagde prijs
+    aan leerlingen van onderwijsinstellingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1057
+docidentifier:
+- content: EU Regulation 1057/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1057
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1057/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-19'
+- type: implemented
+  at: '1978-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1598
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

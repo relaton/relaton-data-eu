@@ -1,0 +1,88 @@
+---
+id: EURegulation11974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1/74 of the Council of 17 December 1973 amending Regulation
+    (EEC) No 950/68 on the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1/74 du Conseil, du 17 décembre 1973, modifiant le
+    règlement (CEE) n° 950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1/74 des Rates vom 17. Dezember 1973 zur Änderung
+    der Verordnung (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1/74 af 17. december 1973 om ændring af
+    forordning (EØF) nr. 950/68 om den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1/74 del Consiglio, del 17 dicembre 1973, che modifica
+    il regolamento (CEE) n. 950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1/74 van de Raad van 17 december 1973 tot wijziging
+    van Verordening (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0001
+docidentifier:
+- content: EU Regulation 1/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0001
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-12-17'
+- type: implemented
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0950
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

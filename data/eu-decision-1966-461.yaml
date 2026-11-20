@@ -1,0 +1,101 @@
+---
+id: EUDecision1966461
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/461/CEE de la Commission, du 20 juillet 1966, portant nouvelle
+    modification de ses décisions, arrêtée en application de la décision du Conseil
+    du 4 avril 1962, autorisant certains États membres à percevoir des taxes compensatoires
+    sur les importations de certaines marchandises contenant du sucre en provenance
+    des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/461/EWG: Entscheidung der Kommission vom 20. Juli 1966 über die erneute
+    Änderung ihrer Entscheidungen in Anwendung des Ratsbeschlusses vom 4. April 1962
+    über die Ermächtigung verschiedener Mitgliedstaaten zur Erhebung von Ausgleichsabgaben
+    auf Einfuhren von bestimmten Waren mit Zuckergehalt aus den anderen Mitgliedstaaten'
+  type: main
+- language: it
+  script: Latn
+  content: '66/461/CEE: Decisione della Commissione, del 20 luglio 1966, che modifica
+    nuovamente le decisioni prese in applicazione della decisione del Consiglio del
+    4 aprile 1962, che autorizza alcuni Stati membri a riscuotere tasse di compensazione
+    sulle importazioni di alcuni prodotti incorporanti zucchero da altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/461/EEG: Beschikking van de Commissie van 20 juli 1966 houdende nieuwe
+    wijziging van haar met toepassing van het besluit van de Raad van 4 april 1962
+    gegeven beschikkingen, waarbij bepaalde Lid-Staten gemachtigd werden compenserende
+    heffingen te leggen op de invoer van bepaalde suikerhoudende goederen uit de overige
+    Lid- Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0461
+docidentifier:
+- content: EU Decision 1966/461
+  type: EU
+  primary: true
+- content: CELEX 31966D0461
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/461/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-20'
+- type: implemented
+  at: '1966-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965D0012
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0151
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0276
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0366
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

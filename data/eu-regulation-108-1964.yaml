@@ -1,0 +1,101 @@
+---
+id: EURegulation1081964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 108/64/CEE du Conseil, du 30 juillet 1964, portant suppression
+    du délai de 6 ans prévu par le règlement n° 3 en ce qui concerne le droit
+    aux prestations en nature de l'assurance maladie-maternité et aux allocations
+    familiales pour les membres de la famille ne résidant pas dans le même pays
+    que le travailleur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 108/64/EWG des Rates vom 30. Juli 1964 zur Aufhebung der
+    in der Verordnung Nr. 3 festgelegten Sechsjahresfrist für den Anspruch auf Sachleistungen
+    bei Krankheit und Mutterschaft und auf Familienbeihilfen für die Familienangehörigen,
+    die nicht in demselben Land wohnen wie der Arbeitnehmer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 108/64/CEE del Consiglio, del 30 luglio 1964, relativo all'abolizione
+    del termine di 6 anni, previsto dal regolamento n. 3 per quanto concerne il diritto
+    alle prestazioni in natura dell'assicurazione malattia-maternità ed agli assegni
+    familiari, per i membri della famiglia che non risiedono nello stesso paese del
+    lavoratore
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 108/64/EEG van de Raad van 30 juli 1964 houdende afschaffing
+    van de termijn van 6 jaar voorgeschreven in Verordening Nr. 3 voor het recht op
+    verstrekkingen van de verzekering bij ziekte en moederschap en op kinderbijslag
+    voor de gezinsleden die niet woonachtig zijn in hetzelfde land als de werknemer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0108
+docidentifier:
+- content: EU Regulation 108/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0108
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/108/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-30'
+- type: implemented
+  at: '1964-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0036
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0024
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

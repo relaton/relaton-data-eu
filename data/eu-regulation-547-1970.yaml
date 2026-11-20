@@ -1,0 +1,80 @@
+---
+id: EURegulation5471970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 547/70 de la Commission, du 24 mars 1970, modifiant
+    le règlement (CEE) n° 1665/69 relatif à certaines mesures à prendre dans le
+    secteur de la viande de porc à la suite de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 547/70 der Kommission vom 24. März 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1665/69 über Maßnahmen auf dem Sektor Schweinefleisch
+    infolge der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 547/70 della Commissione, del 24 marzo 1970, che modifica
+    il regolamento (CEE) n. 1665/69 relativo a talune misure da adottare nel settore
+    delle carni suine in seguito alla svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 547/70 van de Commissie van 24 maart 1970 tot wijziging
+    van Verordening (EEG) nr. 1665/69 betreffende ingevolge de devaluatie van de Franse
+    frank in de sector varkensvlees te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0547
+docidentifier:
+- content: EU Regulation 547/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0547
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/547/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-24'
+- type: implemented
+  at: '1970-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1665
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,137 @@
+---
+id: EURegulation27582000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 2758/2000 of 15 December 2000 correcting
+    Regulations (EC) No 2643/2000 and (EC) No 2653/2000 on the issue of system B export
+    licences in the fruit and vegetables sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 2758/2000 de la Commission du 15 décembre 2000 rectifiant
+    les règlements (CE) n° 2643/2000 et (CE) n° 2653/2000 concernant la délivrance
+    de certificats d'exportation du système B dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 2758/2000 der Kommission vom 15. Dezember 2000 zur
+    Berichtigung der Verordnungen (EG) Nr. 2643/2000 und (EG) Nr. 2653/2000 zur Erteilung
+    von Ausfuhrlizenzen nach dem Verfahren B im Sektor Obst und Gemüse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 2758/2000 af 15. december 2000 om berigtigelse
+    af forordning (EF) nr. 2643/2000 og (EF) nr. 2653/2000 om udstedelse af eksportlicenser
+    af type B for frugt og grøntsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 2758/2000 της Επιτροπής,
+    της 15ης Δεκεμβρίου 2000, για διόρθωση των κανονισμών
+    (ΕΚ) αριθ. 2643/2000 και (ΕΚ) αριθ. 2653/2000 όσον αφορά
+    την έκδοση πιστοποιητικών εξαγωγής του συστήματος
+    Β στον τομέα των οπωροκηπευτικών
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 2758/2000, annettu 15 päivänä joulukuuta 2000,
+    B-menettelyn mukaisten hedelmä- ja vihannesalan vientitodistusten antamisesta
+    annettujen asetusten (EY) N:o 2643/2000 ja (EY) N:o 2653/2000 oikaisemisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 2758/2000 della Commissione, del 15 dicembre 2000,
+    che rettifica i regolamenti (CE) n. 2643/2000 e (CE) n. 2653/2000, relativi al
+    rilascio di titoli di esportazione del sistema B nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 2758/2000 van de Commissie van 15 december 2000 tot
+    rectificatie van de Verordeningen (EG) nr. 2643/2000 en (EG) nr. 2653/2000 betreffende
+    de afgifte van uitvoercertificaten van het B-stelsel in de sector groenten en
+    fruit
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 2758/2000 da Comissão, de 15 de Dezembro de 2000,
+    que rectifica os Regulamentos (CE) n.° 2643/2000 e (CE) n.° 2653/2000 relativos
+    à emissão de certificados de exportação do sistema B no sector dos frutos
+    e produtos hortícolas
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 2758/2000 de la Comisión, de 15 de diciembre de 2000,
+    por el que se rectifican los Reglamentos (CE) n° 2643/2000 y (CE) n° 2653/2000
+    relativos a la expedición de certificados de exportación del sistema B en el
+    sector de las frutas y hortalizas
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 2758/2000 av den 15 december 2000 om
+    rättelse av förordningarna (EG) nr 2643/2000 och (EG) nr 2653/2000 om utfärdande
+    av exportlicenser för frukt och grönsaker under system B
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R2758
+docidentifier:
+- content: EU Regulation 2758/2000
+  type: EU
+  primary: true
+- content: CELEX 32000R2758
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2000/2758/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-12-15'
+- type: implemented
+  at: '2000-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32000R2643
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32000R2653
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

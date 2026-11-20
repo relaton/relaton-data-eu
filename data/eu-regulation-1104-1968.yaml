@@ -1,0 +1,74 @@
+---
+id: EURegulation11041968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1104/68 de la Commission, du 27 juillet 1968, portant
+    fixation des montants compensatoires applicables dans les échanges de certains
+    produits laitiers pendant la campagne laitière 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1104/68 der Kommission vom 27. Juli 1968 zur Festsetzung
+    der Berichtigungsbeträge im Handelsverkehr mit Milcherzeugnissen im Milchwirtschaftsjahr
+    1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1104/68 della Commissione, del 27 luglio 1968, relativo
+    agli importi di compensazione applicabili per alcuni prodotti lattiero-caseari
+    nella campagna lattiera 1968/1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1104/68 van de Commissie van 27 juli 1968 houdende
+    vaststelling van de compenserende bedragen, welke van toepassing zijn voor de
+    handel in bepaalde zuivelprodukten gedurende het melkprijsjaar 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1104
+docidentifier:
+- content: EU Regulation 1104/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1104
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1104/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-27'
+- type: implemented
+  at: '1968-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation7631975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 763/75 of the Commission of 24 March 1975 amending
+    Commission Regulation (EEC) No 375/69 of 27 February 1969 on the declaration of
+    particulars relating to the value of goods for customs purposes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 763/75 de la Commission, du 24 mars 1975, modifiant
+    le règlement (CEE) n° 375/69 de la Commission, du 27 février 1969, concernant
+    la déclaration des éléments relatifs à la valeur en douane des marchandises
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 763/75 der Kommission vom 24. März 1975 zur Änderung
+    der Verordnung (EWG) Nr. 375/69 der Kommission vom 27. Februar 1969 über die
+    Anmeldung der Angaben über den Zollwert der Waren
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 763/75 af 24. marts 1975 om ændring
+    af Kommissionens forordning (EØF) nr. 375/69 af 27. februar 1969 om angivelse
+    af oplysninger vedrørende varers toldværdi
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 763/75 della Commissione, del 24 marzo 1975, che modifica
+    il regolamento (CEE) n. 375/69 della Commissione, del 27 febbraio 1969, concernente
+    la dechiarazione degli elementi relativi al valore in dogana delle merci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 763/75 van de Commissie van 24 maart 1975 tot wijziging
+    van Verordening (EEG) nr. 375/69 van de Commissie van 27 februari 1969 betreffende
+    de aangifte van gegevens inzake de douanewaarde van de goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0763
+docidentifier:
+- content: EU Regulation 763/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0763
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/763/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-24'
+- type: implemented
+  at: '1975-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0581
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0375
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation2151967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 215/67/CEE du Conseil, du 27 juin 1967, concernant les règles
+    générales à la restitution à la production ainsi que l'exonération du prélèvement
+    pour les sucres utilisés dans l'industrie chimique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 215/67/EWG des Rates vom 27. Juni 1967 über allgemeine
+    Regeln für die Erstattung bei der Erzeugung und die Befreiung von der Abschöpfung
+    für Zucker, der in der chemischen Industrie verwendet wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 215/67/CEE del Consiglio, del 27 giugno 1967, relativo alle
+    norme generali concernenti la restituzione alla produzione, nonché l'esenzione
+    dal prelievo per gli zuccheri utilizzati nell'industria chimica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 215/67/EEG van de Raad van 27 juni 1967 houdende de algemene
+    regels betreffende de restitutie bij de produktie en de vrijstelling van de heffing
+    voor in de chemische industrie gebruikte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0215
+docidentifier:
+- content: EU Regulation 215/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0215
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/215/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

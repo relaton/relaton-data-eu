@@ -1,0 +1,70 @@
+---
+id: EURegulation14101970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1410/70 de la Commission, du 16 juillet 1970, modifiant
+    le taux de la restitution applicable au lait écrémé en poudre exporté sous
+    forme de certaines marchandises ne relevant pas de l'annexe II du traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1410/70 der Kommission vom 16. Juli 1970 zur Änderung
+    des Erstattungssatzes für Magermilchpulver, das in Form von bestimmten, nicht
+    unter Anhang II des Vertrages fallenden Waren ausgeführt wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1410/70 della Commissione, del 16 luglio 1970, che
+    modifica il tasso della restituzione applicabile per il latte scremato in polvere
+    esportato sotto forma di merci non comprese nell'allegato II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1410/70 van de Commissie van 16 juli 1970 houdende
+    wijziging van het bedrag van de restitutie die van toepassing is op mageremelkpoeder
+    dat wordt uitgevoerd in de vorm van bepaalde niet in bijlage II van het Verdrag
+    vermelde goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1410
+docidentifier:
+- content: EU Regulation 1410/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1410
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1410/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

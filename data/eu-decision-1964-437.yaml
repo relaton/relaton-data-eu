@@ -1,0 +1,84 @@
+---
+id: EUDecision1964437
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/437/CEE de la Commission, du 22 juillet 1964, autorisant le
+    Royaume de Belgique, le Grand-Duché de Luxembourg, la République française
+    et la République italienne à percevoir un montant compensatoire à l'importation
+    de certaines catégories d'aliments pour animaux contenant du lait
+  type: main
+- language: de
+  script: Latn
+  content: '64/437/EWG: Entscheidung der Kommission vom 22. Juli 1964, mit der dem
+    Königreich Belgien, dem Großherzogtum Luxemburg, der Französischen Republik
+    und der Italienischen Republik die Genehmigung erteilt wird, bei der Einfuhr bestimmter
+    Milch enthaltender Futtermittelarten einen Ausgleichsbetrag zu erheben'
+  type: main
+- language: it
+  script: Latn
+  content: '64/437/CEE: Decisione della Commissione, del 22 luglio 1964, che autorizza
+    il Regno del Belgio, il Granducato del Lussemburgo, la Repubblica francese e la
+    Repubblica italiana a riscuotere un ammontare compensativo all''importazione di
+    alcune categorie di alimenti per animali, contenenti latte'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/437/EEG: Beschikking van de Commissie van 22 juli 1964 houdende machtiging
+    van het Koninkrijk België, het Groothertogdom Luxemburg, de Franse Republiek
+    en de Italiaanse Republiek een compenserend bedrag te heffen op de invoer van
+    sommige soorten melk bevattende veevoeders'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0437
+docidentifier:
+- content: EU Decision 1964/437
+  type: EU
+  primary: true
+- content: CELEX 31964D0437
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/437/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-22'
+- type: implemented
+  at: '1964-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0289
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

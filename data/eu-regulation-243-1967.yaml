@@ -1,0 +1,95 @@
+---
+id: EURegulation2431967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* Commission Regulation No 243/67/EEC of 30 June 1967 limiting the quantities of cereals imported free of levy under inward processing arrangements for certain products processed from cereals */"
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 243/67/CEE de la Commission, du 30 juin 1967, limitant la
+    quantité de céréales importées en franchise de prélèvement sous un régime
+    de trafic de perfectionnement actif pour certains produits transformés des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 243/67/EWG der Kommission vom 30. Juni 1967 zur Begrenzung
+    der Getreidemengen, die unter einer Regelung des aktiven Veredelungsverkehrs für
+    bestimmte Getreideverarbeitungserzeugnisse abschöpfungsfrei eingeführt werden
+  type: main
+- language: da
+  script: Latn
+  content: "/* Kommissionens forordning nr. 243/67/EØF af 30. juni 1967 om begrænsning af den kornmængde, der kan indføres afgiftsfrit under en procedure for aktiv forædling for visse forarbejdede kornprodukter */"
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 243/67 τής Επιτροπής τής
+    30ής Ιουνίου 1967 περί περιορισμού τών ποσοτήτων
+    σιτηρών πού εισάγονται ατελώς στό πλαίσιο
+    ενός καθεστώτος τελειοποιήσεως πρός επανεξαγωγή
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 243/67/CEE della Commissione, del 30 giugno 1967, che limita
+    il quantitativo di cereali importati in franchigia di prelievo in un regime di
+    traffico di perfezionamento attivo per determinati prodotti trasformati a base
+    di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 243/67/EEG van de Commissie van 30 juni 1967 houdende beperking
+    van de hoeveelheid granen die met vrijstelling van heffing zijn ingevoerd onder
+    een stelsel van actief veredelingsverkeer, voor bepaalde op basis van granen verwerkte
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0243
+docidentifier:
+- content: EU Regulation 243/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0243
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/243/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

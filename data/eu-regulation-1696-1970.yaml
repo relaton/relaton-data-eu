@@ -1,0 +1,72 @@
+---
+id: EURegulation16961970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1696/70 de la Commission, du 25 août 1970, relatif
+    à des mesures transitoires en ce qui concerne la désignation et la présentation
+    des vins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1696/70 der Kommission vom 25. August 1970 mit Übergangsmaßnahmen
+    für die Bezeichnung und Aufmachung der Weine
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1696/70 della Commissione, del 25 agosto 1970, relativo
+    a misure transitorie per la designazione e la presentazione dei vini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1696/70 van de Commissie van 25 augustus 1970 betreffende
+    de overgangsmaatregelen met betrekking tot de benaming en de aanbiedingsvorm van
+    wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1696
+docidentifier:
+- content: EU Regulation 1696/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1696
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1696/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-08-25'
+- type: implemented
+  at: '1970-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

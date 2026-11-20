@@ -1,0 +1,94 @@
+---
+id: EURegulation5641976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 564/76 of 15 March 1976 repealing Regulation
+    (EEC) No 155/75 on the sale of skimmed-milk powder from public stocks for supply
+    to developing countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 564/76 du Conseil, du 15 mars 1976, abrogeant le règlement
+    (CEE) n° 155/75 relatif à la vente de lait écrémé en poudre de stock public
+    en vue de la livraison vers les pays en voie de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 564/76 des Rates vom 15. März 1976 zur Aufhebung
+    der Verordnung (EWG) Nr. 155/75 über den Verkauf von Magermilchpulver aus öffentlicher
+    Lagerhaltung für die Lieferung nach Entwicklungsländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 564/76 af 15. marts 1976 om ophævelse af
+    forordning (EØF) nr. 155/75 om salg af skummetmælkspulver fra offentlige lagre
+    med henblik på levering til udviklingslande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 564/76 del Consiglio, del 15 marzo 1976, che abroga
+    il regolamento (CEE) n. 155/75 relativo alla vendita di latte scremato polvere
+    di ammasso pubblico, da fornire a paesi in via di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 564/76 van de Raad van 15 maart 1976 houdende intrekking
+    van Verordening (EEG) nr. 155/75 met betrekking tot de verkoop van magere-melkpoeder
+    uit openbare opslag met het oog op levering aan ontwikkelingslanden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0564
+docidentifier:
+- content: EU Regulation 564/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0564
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/564/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-15'
+- type: implemented
+  at: '1976-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0155
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

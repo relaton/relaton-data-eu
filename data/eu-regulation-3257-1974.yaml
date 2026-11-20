@@ -1,0 +1,97 @@
+---
+id: EURegulation32571974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3257/74 of the Council of 19 December 1974 increasing
+    the Community tariff quota opened for 1974 by Regulation (EEC) No 3590/73 for
+    newsprint falling within subheading 48.01 A of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3257/74 du Conseil, du 19 décembre 1974, portant
+    augmentation du volume du contingent tarifaire communautaire ouvert, pour l'année
+    1974, par le règlement (CEE) n° 3590/73, pour le papier journal de la sous-position
+    48.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3257/74 des Rates vom 19. Dezember 1974 zur Aufstockung
+    des durch die Verordnung (EWG) Nr. 3590/73 für das Jahr 1974 eröffneten Gemeinschaftszollkontingents
+    für Zeitungsdruckpapier der Tarifstelle 48.01 A des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3257/74 af 19. december 1974 om forhøjelse
+    af det for året 1974 ved forordning (EØF) nr. 3590/73 åbnede fællesskabskontingent
+    for avis-papir, henhørende under position 48.01 A i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3257/74 del Consiglio, del 19 dicembre 1974, che aumenta
+    il volume del contingente tariffario comunitario aperto per il 1974 dal regolamento
+    (CEE) n. 3590/73, per la carta da giornali della sottovoce 48.01 A della tariffa
+    doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3257/74 van de Raad van 19 december 1974 houdende
+    verhoging van het communautaire tariefcontingent dat geopend is voor het jaar
+    1974 bij Verordening (EEG) nr. 3590/73, voor courantenpapier van onderverdeling
+    48.01 A van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3257
+docidentifier:
+- content: EU Regulation 3257/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3257
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3257/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-19'
+- type: implemented
+  at: '1974-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3590
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

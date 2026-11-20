@@ -1,0 +1,68 @@
+---
+id: EURegulation1781964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 178/64/CEE de la Commission, du 12 novembre 1964, concernant
+    le montant et les conditions d'octroi des primes de dénaturation du blé et du
+    seigle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 178/64/EWG der Kommission vom 12. November 1964 über die
+    Höhe und die Erteilungsbedingungen für die Gewährung von Denaturierungsprämien
+    für Weizen und Roggen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 178/64/CEE della Commissione, del 12 novembre 1964, relativo
+    all'importo ed alle modalità di concessione dei premi di denaturazione del frumento
+    e della segala
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 178/64/EEG van de Commissie van 12 november 1964 betreffende
+    het bedrag en de wijze van toekenning van denatureringspremies voor tarwe en rogge
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0178
+docidentifier:
+- content: EU Regulation 178/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0178
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/178/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

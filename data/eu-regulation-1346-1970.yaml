@@ -1,0 +1,65 @@
+---
+id: EURegulation13461970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1346/70 de la Commission, du 9 juillet 1970, fixant
+    les primes s'ajoutant aux prélèvements pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1346/70 der Kommission vom 9. Juli 1970 zur Festsetzung
+    der Prämien als Zuschlag zu den Abschöpfungen für Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1346/70 della Commissione, del 9 luglio 1970, che
+    fissa i supplementi da aggiungere ai prelievi per il riso e le rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1346/70 van de Commissie van 9 juli 1970 tot vaststelling
+    van de premies waarmede de heffingen voor rijst en breukrijst worden verhoogd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1346
+docidentifier:
+- content: EU Regulation 1346/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1346
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1346/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

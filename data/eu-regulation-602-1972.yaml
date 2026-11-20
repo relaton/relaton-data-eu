@@ -1,0 +1,77 @@
+---
+id: EURegulation6021972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 602/72 de la Commission, du 24 mars 1972, relatif
+    aux adjudications pour la fourniture de lait écrémé en poudre à titre d'aide
+    communautaire au programme alimentaire mondial et au Comité international de
+    la Croix-Rouge
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 602/72 der Kommission vom 24. März 1972 über Ausschreibungen
+    zur Lieferung von Magermilchpulver als Gemeinschaftshilfe zugunsten des Welternährungsprogramms
+    und des Internationalen Komitees vom Roten Kreuz
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 602/72 della Commissione, del 24 marzo 1972, relativo
+    a bandi di gara per la fornitura di latte scremato in polvere a titolo di aiuto
+    comunitario al Programma alimentare mondiale ed al Comitato internazionale della
+    Croce Rossa
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 602/72 van de Commissie van 24 maart 1972 betreffende
+    openbare inschrijvingen voor de levering van magere-melkpoeder in het kader van
+    gemeenschapshulp aan het Wereldvoedselprogramma en aan het Internationaal Comité
+    van het Rode Kruis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0602
+docidentifier:
+- content: EU Regulation 602/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0602
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/602/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-24'
+- type: implemented
+  at: '1972-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

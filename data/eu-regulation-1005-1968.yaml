@@ -1,0 +1,97 @@
+---
+id: EURegulation10051968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1005/68 of the Commission of 19 July 1968 amending
+    Regulation No 164/67/EEC fixing the factor for calculating levies and sluice-gate
+    prices for derived egg products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1005/68 de la Commission, du 19 juillet 1968, modifiant
+    le règlement n° 164/67/CEE portant fixation des éléments de calcul des prélèvements
+    et des prix d' écluse pour les produits dérivés dans le secteur des oeufs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1005/68 der Kommission vom 19. Juli 1968 zur Änderung
+    der Verordnung Nr. 164/67/EWG zur Festsetzung der Faktoren zur Berechnung der
+    Abschöpfungsbeträge und Einschleusungspreise für abgeleitete Erzeugnisse auf
+    dem Eiersektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1005/68 af 19. juli 1968 om ændring
+    af forordning nr. 164/67/EØF om fastsættelse af faktorerne til beregning af
+    importafgift og slusepriser for afledede produkter inden for ægsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1005/68 della Commissione, del 19 luglio 1968, che
+    modifica il regolamento n. 164/67/CEE che fissa gli elementi per il calcolo dei
+    prelievi e dei prezzi limite applicabili ai prodotti derivati nel settore delle
+    uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1005/68 van de Commissie van 19 juli 1968 tot wijziging
+    van Verordening nr. 164/67/EEG houdende vaststelling van de elementen voor de
+    berekening van de heffingen en de sluisprijzen voor afgeleide produkten in de
+    sector eieren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1005
+docidentifier:
+- content: EU Regulation 1005/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1005
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1005/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-19'
+- type: implemented
+  at: '1968-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0164
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

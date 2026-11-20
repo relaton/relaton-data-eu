@@ -1,0 +1,78 @@
+---
+id: EURegulation12101969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1210/69 du Conseil, du 26 juin 1969, portant nouvelle
+    prolongation de la campagne de commercialisation 1968/1969 dans le secteur de
+    la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1210/69 des Rates vom 26. Juni 1969 zur erneuten Verlängerung
+    des Wirtschaftsjahres 1968/1969 für Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1210/69 del Consiglio, del 26 giugno 1969, relativo
+    alla nuova proroga della campagna di commercializzazione 1968/1969 nel settore
+    delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1210/69 van de Raad van 26 juni 1969 tot verdere
+    verlenging van het verkoopseizoen 1968/1969 in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1210
+docidentifier:
+- content: EU Regulation 1210/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1210
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1210/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-26'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0563
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

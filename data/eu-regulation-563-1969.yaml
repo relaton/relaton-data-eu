@@ -1,0 +1,71 @@
+---
+id: EURegulation5631969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 563/69 du Conseil, du 26 mars 1969, portant prorogation
+    de la campagne de commercialisation 1968/1969 dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 563/69 des Rates vom 26. März 1969 zur Verlängerung
+    des Wirtschaftsjahres 1968/1969 für Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 563/69 del Consiglio, del 26 marzo 1969, relativo
+    alla proroga della campagna di commercializzazione 1968/1969 nel settore delle
+    carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 563/69 van de Raad van 26 maart 1969 houdende verlenging
+    van het verkoopseizoen 1968/1969 in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0563
+docidentifier:
+- content: EU Regulation 563/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0563
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/563/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-26'
+- type: implemented
+  at: '1969-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

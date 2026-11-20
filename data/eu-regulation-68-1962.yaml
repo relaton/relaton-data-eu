@@ -1,0 +1,65 @@
+---
+id: EURegulation681962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 68 de la Commission fixant les critères en vue de la détermination
+    des prix C.A.F. pour les céréales, farines, gruaux et semoules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 68 der Kommission über die Kriterien für die Bestimmung
+    der cif-Preise für Getreide, Mehl, Grob- und FeingrieD
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 68 della Commissione relativo ai criteri per la determinazione
+    dei prezzi CIF per i cereali, le farine, le semole e i semolini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 68 van de Commissie tot vaststelling van de criteria voor
+    de bepaling der c.i.f.-prijzen voor granen, meel, grutten, gries en griesmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0068
+docidentifier:
+- content: EU Regulation 68/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0068
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/68/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

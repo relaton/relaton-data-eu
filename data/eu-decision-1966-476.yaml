@@ -1,0 +1,86 @@
+---
+id: EUDecision1966476
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/476/CEE de la Commission, du 29 juillet 1966, portant nouvelle
+    modification de sa décision du 10 novembre 1964, autorisant la perception de
+    taxes compensatoires à l'importation, dans la République italienne, de dextrines
+    fabriquées à partir de la fécule de pommes de terre ainsi que de fécules de
+    pommes de terre solubles ou torréfiées, en provenance de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/476/EWG: Entscheidung der Kommission vom 29. Juli 1966 zur erneuten
+    Änderung ihrer Entscheidung vom 10. November 1964 über die Erhebung von Ausgleichsabgaben
+    auf Einfuhren von Dextrin auf der Grundlage von Kartoffelstärke und von löslicher
+    oder gerösteter Kartoffelstärke aus verschiedenen Mitgliedstaaten in die Italienische
+    Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '66/476/CEE: Decisione della Commissione, del 29 luglio 1966, che modifica
+    nuovamente la decisione del 10 novembre 1964 che autorizza la riscossione di tasse
+    di compensazione all''importazione nella Repubblica italiana, di destrine fabbricate
+    con fecola di patate, e così pure di amidi e di fecole di patate solubili o torrefatte,
+    provenienti da alcuni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/476/EEG: Beschikking van de Commissie van 29 juli 1966 tot nieuwe wijziging
+    van haar beschikking van 10 november 1964 houdende machtiging tot het leggen van
+    compenserende heffingen op de invoer in de Italiaanse Republiek van dextrine vervaardigd
+    uit aardappelzetmeel, oplosbaar of geroost aardappelzetmeel, uit bepaalde Lid-
+    Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0476
+docidentifier:
+- content: EU Decision 1966/476
+  type: EU
+  primary: true
+- content: CELEX 31966D0476
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/476/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0677
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

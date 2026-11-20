@@ -1,0 +1,104 @@
+---
+id: EURegulation32321984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3232/84 of 19 November 1984 correcting Regulation
+    (EEC) No 3163/84 establishing unit values for the determination of the customs
+    value of certain perishable goods
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 3232/84 de la Commission du 19 novembre 1984 rectifiant
+    le règlement (CEE) no 3163/84 établissant des valeurs unitaires pour la détermination
+    de la valeur en douane de certaines marchandises périssables
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3232/84 der Kommission vom 19. November 1984 zur Berichtigung
+    der Verordnung (EWG) Nr. 3163/84 über die Festsetzung von Durchschnittswerten
+    je Einheit für die Ermittlung des Zollwerts bestimmter verderblicher Waren
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3232/84 af 19. november 1984 om berigtigelse
+    af forordning (EØF) nr. 3163/84 om fastsættelse af enhedsværdien til ansættelsen
+    af toldværdien af visse letfordærvelige varer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3232/84 της Επιτροπής
+    της 19ης Νοεμβρίου 1984 για διόρθωση του κανονισμού
+    (ΕΟΚ) αριθ. 3163/84 περί θεσπίσεως των κατά μονάδα
+    αξιών για τον καθορισμό της δασμολογητέας
+    αξίας ορισμένων αναλώσιμων εμπορευμάτων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3232/84 della Commissione del 19 novembre 1984 recante
+    rettifica del regolamento (CEE) n. 3163/84 che fissa i valori unitari per la determinazione
+    del valore in dogana di talune merci deperibili
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3232/84 van de Commissie van 19 november 1984 tot
+    rectificatie van Verordening (EEG) nr. 3163/84 houdende vaststelling van eenheidswaarden
+    voor de bepaling van de douanewaarde van bepaalde aan bederf onderhevige goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R3232
+docidentifier:
+- content: EU Regulation 3232/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R3232
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/3232/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-11-19'
+- type: implemented
+  at: '1984-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31984R3163
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

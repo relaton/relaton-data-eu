@@ -1,0 +1,100 @@
+---
+id: EURegulation29901976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2990/76 of 9 December 1976 on special detailed
+    rules for the application of the system of import and export licences for sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2990/76 de la Commission, du 9 décembre 1976, portant
+    modalités particulières d' application du régime des certificats d' importation
+    et d' exportation dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2990/76 der Kommission vom 9. Dezember 1976 über
+    besondere Durchführungsvorschriften für Einfuhr- und Ausfuhrlizenzen für Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2990/76 af 9. december 1976 om særlige
+    gennemførelsesbestemmelser for ordningen med import- og eksportlicenser for sukker
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2990/76 της Επιτροπής
+    της 9ης Δεκεμβρίου 1976 περί ειδικών λεπτομερειών
+    εφαρμογής του καθεστώτος των πιστοποιητικών
+    εισαγωγής και εξαγωγής στον τομέα της ζάχαρης
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2990/76 della Commissione, del 9 dicembre 1976, che
+    stabilisce le modalità particolari di applicazione del regime dei titoli d' importazione
+    e di esportazione nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2990/76 van de Commissie van 9 december 1976 houdende
+    bijzondere uitvoeringsbepalingen inzake het stelsel van invoer- en uitvoercertificaten
+    in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2990
+docidentifier:
+- content: EU Regulation 2990/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2990
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2990/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-09'
+- type: implemented
+  at: '1976-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2048
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

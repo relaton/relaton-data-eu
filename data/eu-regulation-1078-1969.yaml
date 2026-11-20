@@ -1,0 +1,73 @@
+---
+id: EURegulation10781969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1078/69 de la Commission, du 10 juin 1969, relatif à
+    la vente à prix fixé forfaitairement à l'avance de certains produits provenant
+    de l'intervention dans le secteur de la viande bovine et détenus par l'organisme
+    allemand d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1078/69 der Kommission vom 10. Juni 1969 über den
+    Verkauf bestimmter Erzeugnisse, die aus Interventionen auf dem Rindfleischmarkt
+    stammen und bei der deutschen Interventionsstelle eingelagert sind, zu einem im
+    voraus pauschal festgesetzten Preis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1078/69 della Commissione, del 10 giugno 1969, relativo
+    alla vendita, a un prezzo forfettario fissato in anticipo, di alcuni prodotti
+    provenienti dall'intervento nel settore delle carni bovine e in possesso dell'organismo
+    d'intervento tedesco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1078/69 van de Commissie van 10 juni 1969 betreffende
+    de verkoop voor een vooraf forfaitair vastgestelde prijs van bepaalde produkten
+    die afkomstig zijn van interventie in de sector rundvlees en in het bezit zijn
+    van het Duitse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1078
+docidentifier:
+- content: EU Regulation 1078/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1078
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1078/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

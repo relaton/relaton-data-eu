@@ -1,0 +1,94 @@
+---
+id: EURegulation31201973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3120/73 of the Commission of 16 November 1973 extending
+    the period during which the international carriage of goods may be effected by
+    road in trade between Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3120/73 de la Commission, du 16 novembre 1973, prolongeant
+    la durée de la période d'application du régime de transport international des
+    marchandises par route dans le trafic entre États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3120/73 der Kommission vom 16. November 1973 zur Verlängerung
+    der Anwendung des Verfahrens des internationalen Straßengüterverkehrs im Warenverkehr
+    zwischen den Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3120/73 af 16. november 1973 om forlængelse
+    af perioden, i hvilken internationale landevejstransporter medlemsstaterne imellem
+    kan finde sted
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3120/73 della Commissione, del 16 novembre 1973, che
+    proroga la durata del periodo d'applicazione del regime di trasporto internazionale
+    delle merci su strada nel traffico tra Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3120/73 van de Commissie van 16 november 1973 houdende
+    verlenging van de termijn tijdens welke de regeling voor internationaal verkeer
+    van goederen over de weg van toepassing is in het verkeer tussen de Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3120
+docidentifier:
+- content: EU Regulation 3120/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3120
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3120/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-11-16'
+- type: implemented
+  at: '1973-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0542
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

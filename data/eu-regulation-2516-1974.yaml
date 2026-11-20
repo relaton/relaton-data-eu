@@ -1,0 +1,100 @@
+---
+id: EURegulation25161974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2516/74 of the Commission of 3 October 1974 amending
+    Regulation (EEC) No 2083/74 on the granting of aid for the re-storage of table
+    wine in respect of which a storage contract was concluded during the wine-growing
+    year 1973/74
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2516/74 de la Commission, du 3 octobre 1974, modifiant
+    le règlement (CEE) n° 2083/74 relatif à l'octroi d'une aide au relogement du
+    vin de table pour lequel un contrat de stockage a été conclu pendant la campagne
+    viticole 1973/1974
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2516/74 der Kommission vom 3. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2083/74 zur Gewährung einer Beihilfe für die Umlagerung
+    von Tafelwein, für den ein Lagervertrag im Weinwirtschaftsjahr 1973/1974 abgeschlossen
+    wurde
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2516/74 af 3. oktober 1974 om ændring
+    af forordning (EØF) nr. 2083/74 vedrørende ydelse af støtte til omlagring af
+    den bordvin, for hvilken der er blevet sluttet en lagerkontrakt i vinproduktionsåret
+    1973/1974
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2516/74 della Commissione, del 3 ottobre 1974, che
+    modifica il regolamento (CEE) n. 2083/74 relativo alla concessione di un aiuto
+    per il ricollocamento dei vini da pasto oggetto di un contratto di magazzinaggio
+    concluso durante la campagna viticola 1973/1974
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2516/74 van de Commissie van 3 oktober 1974 houdende
+    wijziging van Verordening (EEG) nr. 2083/74 tot verlening van steun voor de hernieuwde
+    opslag van tafelwijn waarvoor in het wijnoogstjaar 1973/1974 een opslagcontract
+    is afgesloten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2516
+docidentifier:
+- content: EU Regulation 2516/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2516
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2516/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-03'
+- type: implemented
+  at: '1974-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2083
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

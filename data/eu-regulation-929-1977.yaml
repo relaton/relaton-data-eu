@@ -1,0 +1,94 @@
+---
+id: EURegulation9291977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 929/77 of 29 April 1977 amending Regulation
+    (EEC) No 1896/73 on detailed rules for the application of intervention measures
+    on the market in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 929/77 de la Commission, du 29 avril 1977, modifiant
+    le règlement (CEE) n° 1896/73 relatif aux modalités d' application des mesures
+    d' intervention dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 929/77 der Kommission vom 29. April 1977 zur Änderung
+    der Verordnung (EWG) Nr. 1896/73 über die Durchführungsbestimmungen bei Interventionsmaßnahmen
+    auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 929/77 af 29. april 1977 om ændring
+    af forordning (EØF) nr. 1896/73 om de nærmere regler for anvendelsen af interventionsforanstaltninger
+    inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 929/77 della Commissione, del 29 aprile 1977, che
+    modifica il regolamento (CEE) n. 1896/73 relativo alle modalità di applicazione
+    delle misure d' intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 929/77 van de Commissie van 29 april 1977 tot wijziging
+    van Verordening (EEG) nr. 1896/73 betreffende de wijze van toepassing van de interventiemaatregelen
+    in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0929
+docidentifier:
+- content: EU Regulation 929/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0929
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/929/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-04-29'
+- type: implemented
+  at: '1977-05-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

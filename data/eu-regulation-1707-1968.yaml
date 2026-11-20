@@ -1,0 +1,74 @@
+---
+id: EURegulation17071968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1707/68 du Conseil, du 30 octobre 1968, fixant le
+    prix de base et le prix d'achat pour les choux-fleurs pour la période du 1er
+    novembre au 31 décembre 1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1707/68 des Rates vom 30. Oktober 1968 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Blumenkohl für die Zeit vom 1. November
+    bis zum 31. Dezember 1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1707/68 del Consiglio, del 30 ottobre 1968, che fissa
+    il prezzo di base ed il prezzo di acquisto per i cavolfiori per il periodo 1 novembre
+    - 31 dicembre 1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1707/68 van de Raad van 30 oktober 1968 houdende
+    vaststelling van de basisprijs en de aankoopprijs voor bloemkool voor het tijdvak
+    van 1 november tot en met 31 december 1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1707
+docidentifier:
+- content: EU Regulation 1707/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1707
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1707/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-30'
+- type: implemented
+  at: '1968-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

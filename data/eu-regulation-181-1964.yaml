@@ -1,0 +1,70 @@
+---
+id: EURegulation1811964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 181/64/CEE de la Commission, du 18 novembre 1964, prévoyant
+    certaines dispositions particulières en ce qui concerne la fixation à l'avance
+    du montant de la restitution applicable aux exportations de blé tendre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 181/64/EWG der Kommission vom 18. November 1964 über gewisse
+    Sonderbestimmungen betreffend die Vorausfestsetzung des Erstattungsbetrags auf
+    Ausfuhren von Weichweizen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 181/64/CEE della Commissione, del 18 novembre 1964, che
+    prevede certe disposizioni particolari per quanto riguarda la fissazione in via
+    anticipata dell'ammontare della restituzione applicabile alle esportazioni di
+    grano tenero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 181/64/EEG van de Commissie van 18 november 1964 waarbij
+    wordt voorzien in bepaalde bijzondere bepalingen betreffende de vaststelling van
+    tevoren van het bedrag van de restitutie bij uitvoer van zachte tarwe
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0181
+docidentifier:
+- content: EU Regulation 181/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0181
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/181/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

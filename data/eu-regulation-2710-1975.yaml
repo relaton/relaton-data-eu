@@ -1,0 +1,99 @@
+---
+id: EURegulation27101975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2710/75 of the Commission of 24 October 1975 amending
+    Regulations (EEC) No 2036/74, (EEC) No 2073/74 and (EEC) No 2320/74 on the sale
+    of beef held by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2710/75 de la Commission, du 24 octobre 1975, modifiant
+    les règlements (CEE) n°s 2036/74, 2073/74 et 2320/74 concernant la vente de
+    viande bovine détenue par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2710/75 der Kommission vom 24. Oktober 1975 zur Änderung
+    der Verordnungen (EWG) Nrn. 2036/74, 2073/74 und 2320/74 über den Verkauf von
+    Rindfleisch im Besitz der Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2710/75 af 24. oktober 1975 om ændring
+    af forordning (EØF) nr. 2036/74, 2073/74 og 2320/74 om salg af oksekød, som
+    interventionsorganerne ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2710/75 della Commissione, del 24 ottobre 1975, che
+    modifica i regolamenti (CEE) n. 2036/74, n. 2073/74 e n. 2320/74 concernenti la
+    vendita di carni bovine detenute dagli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2710/75 van de Commissie van 24 oktober 1975 tot
+    wijziging van de Verordeningen (EEG) nr. 2036/74, nr. 2073/74 en nr. 2320/74 inzake
+    de verkoop van door de interventiebureaus opgeslagen rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2710
+docidentifier:
+- content: EU Regulation 2710/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2710
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2710/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-24'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

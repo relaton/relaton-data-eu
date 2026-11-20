@@ -1,0 +1,96 @@
+---
+id: EURegulation33001981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3300/81 of 16 November 1981 amending Regulation
+    (EEC) No 950/68 on the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3300/81 du Conseil, du 16 novembre 1981, modifiant
+    le règlement (CEE) n° 950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3300/81 des Rates vom 16. November 1981 zur Änderung
+    der Verordnung (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3300/81 af 16. november 1981 om ændring
+    af forordning (EØF) nr. 950/68 om den fælles toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3300/81 τού Συμβουλίου
+    τής 16ης Νοεμβρίου 1981 περί τροποποιήσεως τού
+    κανονισμού (EOK) αριθ. 950/68 περί τού Κοινού Δασμολογίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3300/81 del Consiglio, del 16 novembre 1981, che modifica
+    il regolamento (CEE) n. 950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3300/81 van de Raad van 16 november 1981 tot wijziging
+    van Verordening (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R3300
+docidentifier:
+- content: EU Regulation 3300/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R3300
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/3300/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-11-16'
+- type: implemented
+  at: '1982-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0950
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

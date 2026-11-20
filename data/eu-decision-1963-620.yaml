@@ -1,0 +1,89 @@
+---
+id: EUDecision1963620
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 31 octobre 1963, modifiant les décisions
+    de la Commission en date du 15 octobre 1962 et du 7 mars 1963 autorisant la France
+    à fixer les points de passage en frontière ou en douane ouverts aux importations
+    de fruits et légumes en provenance des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '63/620/EWG: Entscheidung der Kommission vom 31. Oktober 1963 zur Änderung
+    der Entscheidungen der Kommission vom 15. Oktober 1962 und vom 7. März 1963,
+    mit denen die Französische Republik ermächtigt wird, die offenen Grenz- oder
+    Zollübergangsstellen für die Einfuhr von Obst und Gemüse aus den Mitgliedstaaten
+    zu bestimmen'
+  type: main
+- language: it
+  script: Latn
+  content: '63/620/CEE: Decisione della Commissione del 31 ottobre 1963 che modifica
+    le decisioni della Commissione del 15 ottobre 1962 e del 7 marzo 1963 che autorizzano
+    la Repubblica francese a stabilire i punti di passaggio di confine o di dogana
+    aperti alle importazioni di ortofrutticoli in provenienza dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '63/620/EEG: Beschikking van de Commissie van 31 oktober 1963 tot wijziging
+    van de beschikking van de Commissie van 15 oktober 1962 en 7 maart 1963 houdende
+    machtiging van de Franse Republiek om de punten van grensovergang of douaneposten
+    die geopend zijn voor de invoer van groenten en fruit afkomstig uit de andere
+    Lid-Staten vast te stellen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963D0620
+docidentifier:
+- content: EU Decision 1963/620
+  type: EU
+  primary: true
+- content: CELEX 31963D0620
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1963/620/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962D1001P2685
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963D0218
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

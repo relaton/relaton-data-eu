@@ -1,0 +1,99 @@
+---
+id: EURegulation4561974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 456/74 of the Commission of 22 February 1974 laying
+    down additional measures to be taken in agriculture following the fixing of a
+    new representative rate for the Italian lira
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 456/74 de la Commission, du 22 février 1974, définissant
+    les mesures supplémentaires à prendre dans le secteur agricole suite à la fixation
+    d'un nouveau taux représentatif pour la lire italienne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 456/74 der Kommission vom 22. Februar 1974 über Zusatzmaßnahmen,
+    die in der Landwirtschaft nach Festsetzung eines neuen repräsentativen Kurses
+    für die italienische Lira zu treffen sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 456/74 af 22. februar 1974 om fastsættelse
+    af de supplerende foranstaltninger, der skal træffes inden for landbrugssektoren,
+    som følge af fastsættelsen af en ny repræsentativ kurs for den italienske lire
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 456/74 della Commissione, del 22 febbraio 1974, che
+    definisce le misure supplementari da adottare nel settore agricolo in seguito
+    alla fissazione di un nuovo tasso rappresentativo per la lira italiana
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 456/74 van de Commissie van 22 februari 1974 houdende
+    aanvullende maatregelen in de landbouwsector naar aanleiding van de vaststelling
+    van een nieuwe representatieve koers voor de Italiaanse lire
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0456
+docidentifier:
+- content: EU Regulation 456/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0456
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/456/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-02-22'
+- type: implemented
+  at: '1974-02-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3494
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2300
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

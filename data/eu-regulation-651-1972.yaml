@@ -1,0 +1,72 @@
+---
+id: EURegulation6511972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 651/72 du Conseil, du 30 mars 1972, fixant le prix
+    d'orientation valable pour la campagne de commercialisation 1972/1973 pour les
+    veaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 651/72 des Rates vom 30. März 1972 zur Festsetzung
+    des Orientierungspreises für Kälber für das Wirtschaftsjahr 1972/1973
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 651/72 del Consiglio, del 30 marzo 1972, che fissa
+    i prezzi d'orientamento validi per la campagna di commercializzazione 1972/1973
+    per i vitelli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 651/72 van de Raad van 30 maart 1972 tot vaststelling
+    van de oriëntatieprijs voor kalveren voor het verkoopseizoen 1972/1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0651
+docidentifier:
+- content: EU Regulation 651/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0651
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/651/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-30'
+- type: implemented
+  at: '1972-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

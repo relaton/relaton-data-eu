@@ -1,0 +1,74 @@
+---
+id: EURegulation2751971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 275/71 du Conseil, du 8 février 1971, fixant les
+    prix d'intervention pour les sardines et les anchois frais ou réfrigérés, applicables
+    jusqu'au 31 décembre 1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 275/71 des Rates vom 8. Februar 1971 zur Festsetzung
+    der Interventionspreise für frische oder gekühlte Sardinen und Sardellen für
+    die Zeit bis zum 31. Dezember 1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 275/71 del Consiglio, dell'8 febbraio 1971, che fissa
+    i prezzi d'intervento per le sardine e le acciughe, fresche o refrigerate, applicabile
+    fino al 31 dicembre 1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 275/71 van de Raad van 8 februari 1971 houdende vaststelling
+    van de interventieprijzen voor verse of gekoelde sardines en ansjovis, geldend
+    tot en met 31 december 1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0275
+docidentifier:
+- content: EU Regulation 275/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0275
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/275/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-08'
+- type: implemented
+  at: '1971-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation25041971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2504/71 of the Council of 22 November 1971 amending
+    Regulation No 24 and Regulation (EEC) No 816/70 on the common organisation of
+    the market in wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2504/71 du Conseil, du 22 novembre 1971, modifiant
+    le règlement n° 24 et le règlement (CEE) n° 816/70 relatifs à l' organisation
+    commune du marché viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2504/71 des Rates vom 22. November 1971 zur Änderung
+    der Verordnung Nr. 24 und der Verordnung (EWG) Nr. 816/70 betreffend die gemeinsame
+    Marktorganisation für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2504/71 af 22. november 1971 om ændring
+    af forordning nr. 24 og forordning (EØF) nr. 816/70 om den fælles markedsordning
+    for vin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2504/71 del Consiglio, del 22 novembre 1971, che modifica
+    il regolamento n. 24 ed il regolamento (CEE) n. 816/70 relativi all' organizzazione
+    comune del mercato vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2504/71 van de Raad van 22 november 1971 tot wijziging
+    van Verordening nr. 24 en Verordening (EEG) nr. 816/70 betreffende de gemeenschappelijke
+    ordening van de wijnmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2504
+docidentifier:
+- content: EU Regulation 2504/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2504
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2504/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-22'
+- type: implemented
+  at: '1971-11-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0024
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

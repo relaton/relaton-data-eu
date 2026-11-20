@@ -1,0 +1,85 @@
+---
+id: EURegulation4101972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 410/72 de la Commission, du 28 février 1972, abrogeant
+    le règlement (CEE) n° 2738/71 portant application du droit du tarif douanier
+    commun aux importations de mandarines, satsumas, clémentines, tangerines et autres
+    hybrides similaires d'agrumes originaires de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 410/72 der Kommission vom 28. Februar 1972 zur Aufhebung
+    der Verordnung (EWG) Nr. 2738/71 zur Anwendung des Gemeinsamen Zolltarifs auf
+    Einfuhren von Mandarinen, Satsumas, Clementinen, Tangerinen und sonstigen ähnlichen
+    Hybriden von Zitrusfrüchten mit Ursprung in der Türkei
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 410/72 della Commissione, del 28 febbraio 1972, che
+    abroga il regolamento (CEE) n. 2738/71 relativo all'applicazione del dazio della
+    tariffa doganale comune alle importazioni di mandarini, satsuma, clementine, tangerini
+    ed altri ibridi similari di agrumi originari della Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 410/72 van de Commissie van 28 februari 1972 tot
+    intrekking van Verordening (EEG) nr. 2738/71 houdende toepassing van het recht
+    van het gemeenschappelijk douanetarief op de invoer van mandarijnen, satsuma's,
+    clementines, tangerines en andere dergelijke kruisingen van citrusvruchten van
+    oorsprong uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0410
+docidentifier:
+- content: EU Regulation 410/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0410
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/410/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-02-28'
+- type: implemented
+  at: '1972-02-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2738
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

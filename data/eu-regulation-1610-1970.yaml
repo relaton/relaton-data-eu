@@ -1,0 +1,77 @@
+---
+id: EURegulation16101970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1610/70 du Conseil, du 27 juillet 1970, portant ouverture,
+    répartition et mode de gestion du contingent tarifaire communautaire d'autres
+    tissus de coton de la position 55.09 du tarif douanier commun, originaires d'Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1610/70 des Rates vom 27. Juli 1970 über die Eröffnung,
+    Aufteilung und Verwaltung des Gemeinschaftszollkontingents für andere Gewebe
+    aus Baumwolle der Tarifnummer 55.09 des Gemeinsamen Zolltarifs, mit Ursprung in
+    Spanien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1610/70 del Consiglio, del 27 luglio 1970, relativo
+    all'apertura, alla ripartizione e alle modalità di gestione del contingente tariffario
+    comunitario di altri tessuti di cotone, della voce 55.09 della tariffa doganale
+    comune, originari della Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1610/70 van de Raad van 27 juli 1970 betreffende
+    de opening, de verdeling en de wijze van beheer van het communautaire tariefcontingent
+    voor andere weefsels van katoen, van post 55.09 van het gemeenschappelijk douanetarief,
+    van oorsprong uit Spanje
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1610
+docidentifier:
+- content: EU Regulation 1610/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1610
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1610/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-27'
+- type: implemented
+  at: '1970-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

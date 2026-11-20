@@ -1,0 +1,65 @@
+---
+id: EURegulation1811966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 181/66/CEE de la Commission, du 14 novembre 1966, portant
+    fixation des prélèvements dans le secteur de l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 181/66/EWG der Kommission vom 14. November 1966 zur Festsetzung
+    der Abschöpfungen für Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 181/66/CEE della Commissione, del 14 novembre 1966, relativo
+    ai prelievi nel settore dell'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 181/66/EEG van de Commissie van 14 november 1966 houdende
+    vaststelling van de heffingen in de sector olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0181
+docidentifier:
+- content: EU Regulation 181/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0181
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/181/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

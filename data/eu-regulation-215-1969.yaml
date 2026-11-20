@@ -1,0 +1,82 @@
+---
+id: EURegulation2151969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 215/69 de la Commission, du 4 février 1969, modifiant
+    la version en langue italienne de l'article 8 bis du règlement n° 473/67/CEE
+    relatif aux certificats d'importation et d'exportation dans le secteur des céréales
+    et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 215/69 der Kommission vom 4. Februar 1969 zur Änderung
+    der italienischen Fassung von Artikel 8a der Verordnung Nr. 473/67/EWG über die
+    Einfuhr- und Ausfuhrlizenzen im Getreide- und Reissektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 215/69 della Commissione, del 4 febbraio 1969, che
+    modifica il testo in lingua italiana dell'articolo 8 bis del regolamento n. 473/67/CEE
+    relativo ai titoli d'importazione e d'esportazione nel settore dei cereali e del
+    riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 215/69 van de Commissie van 4 februari 1969 houdende
+    wijziging van de Italiaanse versie van artikel 8 bis van Verordening nr. 473/67/EEG
+    met betrekking tot de invoer- en uitvoercertificaten voor granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0215
+docidentifier:
+- content: EU Regulation 215/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0215
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/215/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-02-04'
+- type: implemented
+  at: '1968-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0473
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

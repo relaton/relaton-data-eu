@@ -1,0 +1,89 @@
+---
+id: EUDecision1967460
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 67/460/CEE de la Commission, du 29 juin 1967, portant abrogation
+    de sa décision du 10 août 1965, autorisant la République fédérale d'Allemagne,
+    en vertu de l'article 115 alinéa 1 du Traité, à surseoir à la délivrance
+    des licences d'importation pour les "machines à coudre à usage domestique" originaires
+    de la République populaire de Chine et mises en libre pratique dans d'autres
+    États membres
+  type: main
+- language: de
+  script: Latn
+  content: '67/460/EWG: Entscheidung der Kommission vom 29. Juni 1967 zur Aufhebung
+    ihrer Entscheidung vom 10. August 1965, mit der die Bundesrepublik Deutschland
+    nach Artikel 115 Absatz (1) des Vertrages ermächtigt wurde, die Erteilung von
+    Einfuhrlizenzen für Haushaltsnähmaschinen mit Ursprung in der Volksrepublik
+    China, die sich in den anderen Mitgliedstaaten im freien Verkehr befinden, auszusetzen'
+  type: main
+- language: it
+  script: Latn
+  content: '67/460/CEE: Decisione della Commissione, del 29 giugno 1967, che abroga
+    la decisione del 10 agosto 1965, con cui si autorizzava, ai sensi dell''articolo
+    115, primo comma, del Trattato, la Repubblica federale di Germania a sospendere
+    il rilascio delle licenze d''importazione per le macchine per cucire ad uso domestico
+    originarie della Repubblica popolare cinese ed immesse in libera pratica negli
+    altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/460/EEG: Beschikking van de Commissie van 29 juni 1967 houdende intrekking
+    van haar beschikking van 10 augustus 1965 waarbij de Bondsrepubliek Duitsland
+    op grond van artikel 115, eerste alinea, van het Verdrag werd gemachtigd de afgifte
+    op te schorten van invoervergunningen voor naaimachines voor huishoudelijk gebruik,
+    van oorsprong uit de Chinese Volksrepubliek en in andere Lid-Staten in het vrije
+    verkeer gebracht'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0460
+docidentifier:
+- content: EU Decision 1967/460
+  type: EU
+  primary: true
+- content: CELEX 31967D0460
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/460/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965D0411
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

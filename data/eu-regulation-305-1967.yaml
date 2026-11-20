@@ -1,0 +1,78 @@
+---
+id: EURegulation3051967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 305/67/CEE du Conseil, du 11 juillet 1967, concernant les
+    droits de douane applicables lors de leur importation en provenance des pays tiers
+    aux produits transformés à base de fruits et légumes avec addition de sucre
+    pour la période du 16 juillet 1967 au 31 octobre 1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 305/67/EWG des Rates vom 11. Juli 1967 über die Zollsätze,
+    die bei der Einfuhr von Verarbeitungserzeugnissen aus Obst und Gemüse mit Zusatz
+    von Zucker aus Drittländern in der Zeit vom 16. Juli 1967 bis zum 31. Oktober
+    1967 zu erheben sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 305/67/CEE del Consiglio, dell'11 luglio 1967, relativo
+    ai dazi doganali applicabili all'importazione in provenienza dai paesi terzi,
+    ai prodotti trasformati a base di ortofrutticoli con aggiunta di zucchero, per
+    il periodo dal 16 luglio 1967 al 31 ottobre 1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 305/67/EEG van de Raad van 11 juli 1967 betreffende de
+    invoerrechten op verwerkte produkten op basis van groenten en fruit, met toegevoegde
+    suiker, die moeten worden geheven voor de invoer uit derde landen die plaatsvindt
+    gedurende het tijdvak van 16 juli 1967 tot en met 31 oktober 1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0305
+docidentifier:
+- content: EU Regulation 305/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0305
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/305/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-11'
+- type: implemented
+  at: '1967-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

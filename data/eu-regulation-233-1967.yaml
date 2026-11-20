@@ -1,0 +1,66 @@
+---
+id: EURegulation2331967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 233/67/CEE de la Commission, du 30 juin 1967, fixant les montants
+    maxima de la prime de dénaturation de sucre aux fins d'alimentation animale
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 233/67/EWG der Kommission vom 30. Juni 1967 zur Festsetzung
+    der Höchstbeträge der Denaturierungsprämie für Zucker zu Futterzwecken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 233/67/CEE della Commissione, del 30 giugno 1967, che fissa
+    gli importi massimi del premio di denaturazione per lo zucchero destinato all'alimentazione
+    animale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 233/67/EEG van de Commissie van 30 juni 1967 houdende vaststelling
+    van de maximumbedragen van de denatureringspremie voor suiker voor voederdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0233
+docidentifier:
+- content: EU Regulation 233/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0233
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/233/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,105 @@
+---
+id: EURegulationNo20211980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2021/80 of 22 July 1980 amending Annex IV to
+    Regulation (EEC) No 516/77 on the common organization of the market in products
+    processed from fruit and vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2021/80 du Conseil, du 22 juillet 1980, modifiant
+    l' annexe IV du règlement (CEE) n° 516/77 portant organisation commune des marchés
+    dans le secteur des produits transformés à base de fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2021/80 des Rates vom 22. Juli 1980 zur Änderung
+    von Anhang IV der Verordnung (EWG) Nr. 516/77 über die gemeinsame Marktorganisation
+    für Verarbeitungserzeugnisse aus Obst und Gemüse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2021/80 af 22. juli 1980 om ændring af bilag
+    IV til forordning (EØF) nr. 516/77 om den fælles markedsordning for produkter
+    forarbejdet på basis af frugt og grønsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2021/80 τού Συμβουλίου
+    τής 22ας Ιουλίου 1980 περί τροποποιήσεως τού παραρτήματος
+    IV τού κανονισμού (ΕΟΚ) αριθ. 516/77 «περί κοινής
+    οργανώσεως αγοράς στόν τομέα τών μεταποιημένων
+    οπωροκηπευτικών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2021/80 del Consiglio, del 22 luglio 1980, che modifica
+    l' allegato IV del regolamento (CEE) n. 516/77 relativo all' organizzazione comune
+    dei mercati nel settore dei prodotti trasformati a base di ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2021/80 van de Raad van 22 juli 1980 tot wijziging
+    van bijlage IV van Verordening (EEG) nr. 516/77 houdende een gemeenschappelijke
+    ordening der markten in de sector van op basis van groenten en fruit verwerkte
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2021
+docidentifier:
+- content: EU Regulation No 2021/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2021
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2021/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-07-22'
+- type: implemented
+  at: '1980-08-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0516
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

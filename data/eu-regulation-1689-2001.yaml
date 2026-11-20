@@ -1,0 +1,134 @@
+---
+id: EURegulation16892001
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1689/2001 of 23 August 2001 repealing Regulation
+    (EC) No 1136/2001 and amending Regulation (EEC) No 1627/89 on the buying-in of
+    beef by invitation to tender
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1689/2001 de la Commission du 23 août 2001 abrogeant
+    le règlement (CE) n° 1136/2001 et modifiant le règlement (CEE) n° 1627/89
+    relatif à l'achat de viande bovine par voie d'adjudication
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1689/2001 der Kommission vom 23. August 2001 zur Aufhebung
+    der Verordnung (EG) Nr. 1136/2001 und zur Änderung der Verordnung (EWG) Nr. 1627/89
+    über den Ankauf von Rindfleisch durch Ausschreibung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1689/2001 af 23. august 2001 om ophævelse
+    af forordning (EF) nr. 1136/2001 og om ændring af forordning (EØF) nr. 1627/89
+    om opkøb af oksekød ved licitation
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1689/2001 της Επιτροπής,
+    της 23ης Αυγούστου 2001, για κατάργηση του κανονισμού
+    (ΕΚ) αριθ. 1136/2001 και για τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 1627/89 σχετικά με την αγορά βοείου
+    κρέατος με διαγωνισμό
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1689/2001, annettu 23 päivänä elokuuta 2001,
+    asetuksen (EY) N:o 1136/2001 kumoamisesta ja naudanlihan ostamisesta tarjouskilpailulla
+    annetun asetuksen (ETY) N:o 1627/89 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1689/2001 della Commissione, del 23 agosto 2001, che
+    abroga il regolamento (CE) n. 1136/2001 e che modifica il regolamento (CEE) n.
+    1627/89 relativo all'acquisto di carne bovina mediante gara
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1689/2001 van de Commissie van 23 augustus 2001 tot
+    intrekking van Verordening (EG) nr. 1136/2001 en tot wĳziging van Verordening
+    (EEG) nr. 1627/89 betreffende de aankoop van rundvlees door middel van inschrĳving
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 1689/2001 da Comissão, de 23 de Agosto de 2001,
+    que revoga o Regulamento (CE) n.° 1136/2001 e altera o Regulamento (CEE) n.°
+    1627/89 relativo à compra de carne de bovino por concurso
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1689/2001 de la Comisión, de 23 de agosto de 2001,
+    que deroga el Reglamento (CE) n° 1136/2001 y por el que se modifica el Reglamento
+    (CEE) n° 1627/89 relativo a la compra de carne de vacuno mediante licitación
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1689/2001 av den 23 augusti 2001 om upphävande
+    av förordning (EG) nr 1136/2001 och om ändring av förordning (EEG) nr 1627/89
+    om uppköp av nötkött genom anbudsinfordran
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1689
+docidentifier:
+- content: EU Regulation 1689/2001
+  type: EU
+  primary: true
+- content: CELEX 32001R1689
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2001/1689/oj
+  type: ELI
+date:
+- type: issued
+  at: '2001-08-23'
+- type: implemented
+  at: '2001-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 32001R1136
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989R1627
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EUDecision1975514
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Decision of 25 August 1975 amending Decisions No 73/126/EEC and
+    No 73/174/EEC adopting research programmes for the European Economic Community
+    on the protection of the environment
+  type: main
+- language: fr
+  script: Latn
+  content: '75/514/CEE: Décision du Conseil du 25 août 1975, modifiant les décisions
+    73/126/CEE et 73/174/CEE arrêtant des programmes de recherches pour la Communauté
+    économique européenne dans le domaine de la protection de l''environnement'
+  type: main
+- language: de
+  script: Latn
+  content: Beschluß des Rates vom 25. August 1975 zur Änderung der Beschlüsse 73/126/EWG
+    und 73/174/EWG zur Festlegung von Forschungsprogrammen für die Europäische Wirtschaftsgemeinschaft
+    auf dem Gebiet des Umweltschutzes
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Afgørelse af 25. august 1975 om ændring af afgørelse 73/126/EØF
+    og 73/ 174/EØF om fastlæggelse af forskningsprogrammer for Det europæiske økonomiske
+    Fællesskab vedrørende miljøbeskyttelse
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio, del 25 agosto 1975, che modifica le decisioni
+    73/126/CEE e 73/174/CEE che adottano dei programmi di ricerche per la Comunità
+    economica europea nel settore della protezione dell'ambiente
+  type: main
+- language: nl
+  script: Latn
+  content: Besluit van de Raad van 25 augustus 1975 tot wijziging van de Besluiten
+    nr. 73/126/EEG en nr. 73/174/EEG tot vaststelling van onderzoekprogramma's voor
+    de Europese Economische Gemeenschap op het gebied van de milieubescherming
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975D0514
+docidentifier:
+- content: EU Decision 1975/514
+  type: EU
+  primary: true
+- content: CELEX 31975D0514
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1975/514/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-25'
+- type: implemented
+  at: '1975-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973D0126
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973D0174
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

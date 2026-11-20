@@ -1,0 +1,85 @@
+---
+id: EURegulation2901971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 290/71 de la Commission, du 10 février 1971, abrogeant
+    le règlement (CEE) n° 232/71 portant application du droit du tarif douanier
+    commun aux importations de mandarines, satsumas, clémentines, tangerines et autres
+    hybrides similaires d'agrumes originaires d'Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 290/71 der Kommission vom 10. Februar 1971 zur Aufhebung
+    der Verordnung (EWG) Nr. 232/71 zur Anwendung des Zollsatzes des Gemeinsamen Zolltarifs
+    auf Einfuhren von Mandarinen, Satsumas, Clementinen, Tangerinen und anderen ähnlichen
+    Kreuzungen von Zitrusfrüchten mit Ursprung in Spanien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 290/71 della Commissione, del 10 febbraio 1971, che
+    abroga il regolamento (CEE) n. 232/71 relativo all'applicazione del dazio della
+    tariffa doganale comune alle importazioni di mandarini, satsuma, clementine, tangerini
+    e altri ibridi similari d'agrumi originari della Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 290/71 van de Commissie van 10 februari 1971 tot
+    intrekking van Verordening (EEG) nr. 232/71 houdende toepassing van het recht
+    van het gemeenschappelijk douanetarief op de invoer van mandarijnen, satsuma's,
+    clementines, tangerines en andere dergelijke kruisingen van citrusvruchten van
+    oorsprong uit Spanje
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0290
+docidentifier:
+- content: EU Regulation 290/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0290
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/290/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-10'
+- type: implemented
+  at: '1971-02-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0232
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation22731974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2273/74 of the Commission of 2 September 1974 amending
+    Regulations (EEC) No 1259/72 and (EEC) No 71/73 on the sale of butter from public
+    stocks
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2273/74 de la Commission, du 2 septembre 1974, modifiant
+    les règlements (CEE) n° 1259/72 et (CEE) n° 71/73 relatifs à la vente de beurre
+    de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2273/74 der Kommission vom 2. September 1974 zur Änderung
+    der Verordnungen (EWG) Nr. 1259/72 und (EWG) Nr. 71/73 über den Verkauf von Butter
+    aus staatlicher Lagerhaltung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2273/74 af 2. september 1974 om ændring
+    af forordningerne (EØF) nr. 1259/72 og (EØF) nr. 71/73 om salg af smør fra
+    offentlige lagre
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2273/74 della Commissione, del 2 settembre 1974, che
+    modifica i regolamenti (CEE) n. 1259/72 e (CEE) n. 71/73, relativi alla vendita
+    di burro di ammasso pubblico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2273/74 van de Commissie van 2 september 1974 houdende
+    wijziging van de Verordening (EEG) nr. 1259/72 en (EEG) nr. 71/73 met betrekking
+    tot de verkoop van boter uit openbare opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2273
+docidentifier:
+- content: EU Regulation 2273/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2273
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2273/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-09-02'
+- type: implemented
+  at: '1974-09-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1259
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0071
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

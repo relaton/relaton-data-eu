@@ -1,0 +1,83 @@
+---
+id: EURegulation8901976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 890/76 of 14 April 1976 providing for exemption
+    in certain cases from tax on exports of potatoes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 890/76 de la Commission, du 14 avril 1976, prévoyant,
+    dans certains cas, l'exonération de la taxe à l'exportation de pommes de terre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 890/76 der Kommission vom 14. April 1976 über die
+    Befreiung von der Ausfuhrabgabe für Kartoffeln in bestimmten Fällen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 890/76 af 14. april 1976 om fritagelse
+    fra opkrævning af eksportafgift for kartofler i visse tilfælde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 890/76 della Commissione, del 14 aprile 1976, che
+    prevede in determinati casi l'esonero dalla tassa all'esportazione per le patate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 890/76 van de Commissie van 14 april 1976 waarbij
+    wordt voorzien in de mogelijkheid om in bepaalde gevallen vrijstelling te verlenen
+    van de heffing bij uitvoer van aardappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0890
+docidentifier:
+- content: EU Regulation 890/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0890
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/890/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-04-14'
+- type: implemented
+  at: '1976-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

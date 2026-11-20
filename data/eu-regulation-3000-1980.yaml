@@ -1,0 +1,97 @@
+---
+id: EURegulation30001980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3000/80 of 28 October 1980 amending Regulation
+    (EEC) No 950/68 on the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3000/80 du Conseil, du 28 octobre 1980, modifiant
+    le règlement (CEE) n° 950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3000/80 des Rates vom 28. Oktober 1980 zur Änderung
+    der Verordnung (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3000/80 af 28. oktober 1980 om ændring af
+    forordning (EØF) nr. 950/68 om den fælles toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 3000/80 του Συμβουλίου,
+    της 28ης Οκτωβρίου 1980, περί τροποποίησης του
+    Κανονισμού ( ΕΟΚ ) αριθ. 950/68 που αφορά το κοινό
+    δασμολόγιο
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3000/80 del Consiglio, del 28 ottobre 1980, che modifica
+    il regolamento (CEE) n. 950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3000/80 van de Raad van 28 oktober 1980 tot wijziging
+    van Verordening (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R3000
+docidentifier:
+- content: EU Regulation 3000/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R3000
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/3000/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-10-28'
+- type: implemented
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0950
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

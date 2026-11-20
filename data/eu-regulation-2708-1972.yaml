@@ -1,0 +1,99 @@
+---
+id: EURegulation27081972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2708/72 of the Council of 19 December 1972 supplementing
+    Regulation No 213/67/EEC establishing the list of representative markets for pigmeat
+    following the Accession of new Member States to the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2708/72 du Conseil, du 19 décembre 1972, complétant
+    le règlement n° 213/67/CEE établissant la liste des marchés représentatifs
+    pour le secteur de la viande de porc dans la Communauté du fait de l' adhésion
+    du nouveaux États membres à la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2708/72 des Rates vom 19. Dezember 1972 zur Ergänzung
+    der Verordnung Nr. 213/67/EWG zur Festsetzung des Verzeichnisses der repräsentativen
+    Märkte für den Schweinefleischsektor in der Gemeinschaft infolge des Beitritts
+    neuer Mitgliedstaaten zur Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2708/72 af 19. december 1972 om tillæg til
+    forordning nr. 213/67/EØF om fastsættelse af fortegnelsen over de repræsentative
+    markeder for svinekødssektoren inden for Fællesskabet som følge af de nye medlemsstaters
+    tiltrædelse af Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2708/72 del Consiglio, del 19 dicembre 1972, recante
+    completamento del regolamento n. 213/67/CEE, che stabilisce l' elenco dei mercati
+    rappresentativi per il settore delle carni suine nella Comunità, in seguito all'
+    adesione alla Comunità di nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2708/72 van de Raad van 19 december 1972 houdende
+    aanvulling van Verordening nr. 213/67/EEG tot vaststelling van de lijst van representatieve
+    markten voor de sector varkensvlees in de Gemeenschap ten gevolge van de toetreding
+    van nieuwe Lid-Staten tot de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2708
+docidentifier:
+- content: EU Regulation 2708/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2708
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2708/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0213
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

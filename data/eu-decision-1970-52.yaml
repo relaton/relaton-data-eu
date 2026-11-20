@@ -1,0 +1,79 @@
+---
+id: EUDecision197052
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 22 décembre 1969, complétant la décision
+    du 5 août 1969, autorisant la République fédérale d'Allemagne à appliquer
+    des mesures particulières d'intervention dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: '70/52/EWG: Entscheidung der Kommission vom 22. Dezember 1969 betreffend
+    die Ergänzung der Entscheidung der Kommission vom 5. August 1969 zur Ermächtigung
+    der Bundesrepublik Deutschland zur Anwendung besonderer Interventionsmaßnahmen
+    für Getreide'
+  type: main
+- language: it
+  script: Latn
+  content: '70/52/CEE: Decisione della Commissione, del 22 dicembre 1969, che completa
+    la decisione del 5 agosto 1969, che autorizza la Repubblica federale di Germania
+    ad adottare misure particolari d''intervento nel settore dei cereali'
+  type: main
+- language: nl
+  script: Latn
+  content: '70/52/EEG: Beschikking van de Commissie van 22 december 1969 ter aanvulling
+    van de beschikking van 5 augustus 1969 waarbij de Bondsrepubliek Duitsland gemachtigd
+    wordt bijzondere interventiemaatregelen in de sector granen te nemen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970D0052
+docidentifier:
+- content: EU Decision 1970/52
+  type: EU
+  primary: true
+- content: CELEX 31970D0052
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1970/52/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969D0287
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

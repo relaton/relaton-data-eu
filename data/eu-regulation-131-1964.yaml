@@ -1,0 +1,97 @@
+---
+id: EURegulation1311964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 131/64/CEE de la Commission, du 29 septembre 1964, adaptant
+    et fixant les prix d'écluse pour les oeufs de volailles en coquille et les volailles
+    vivantes et abattues et fixant le montant des prélèvements envers les pays tiers
+    pour les oeufs en coquille de volailles, les volailles vivantes d'un poids n'excédant
+    pas 185 grammes et les volailles abattues, pour la période du 1er octobre au
+    31 décembre 1964
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 131/64/EWG der Kommission vom 29. September 1964 über die
+    Anpassung und Festsetzung der Einschleusungspreise für Eier von Hausgeflügel,
+    lebendes und geschlachtetes Hausgeflügel sowie über die Festsetzung der Abschöpfungsbeträge
+    gegenüber dritten Ländern für Eier in der Schale von Hausgeflügel, lebendes
+    Hausgeflügel mit einem Gewicht von höchstens 185 Gramm und geschlachtetes Hausgeflügel
+    für die Zeit vom 1. Oktober bis 31. Dezember 1964
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 131/64/CEE della Commissione, del 29 settembre 1964, che
+    adatta e fissa i prezzi limite per le uova in guscio di volatili da cortile, per
+    i volatili da cortile vivi e macellati, e che fissa i prelievi nei confronti dei
+    paesi terzi per le uova in guscio di volatili, per i volatili da cortile vivi
+    di peso non superiore a 185 grammi e per i volatili da cortile macellati, per
+    il periodo 1 ottobre - 31 dicembre 1964
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 131/64/EEG van de Commissie van 29 september 1964 houdende
+    aanpassing en vaststelling van de sluisprijzen voor eieren in de schaal van pluimvee,
+    levend pluimvee en geslacht pluimvee alsmede vaststelling van de heffingen ten
+    opzichte van derde landen voor eieren in de schaal van pluimvee, levend pluimvee
+    dat niet meer dan 185 gram weegt en geslacht pluimvee, voor de periode van 1 oktober
+    tot en met 31 december 1964
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0131
+docidentifier:
+- content: EU Regulation 131/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0131
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/131/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-09-29'
+- type: implemented
+  at: '1964-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0159
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0057
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

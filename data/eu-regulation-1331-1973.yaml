@@ -1,0 +1,94 @@
+---
+id: EURegulation13311973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1331/73 of the Council of 15 May 1973 further extending
+    the arrangements for the suspension of import charges and compensatory amounts
+    for beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1331/73 du Conseil, du 15 mai 1973, portant nouvelle
+    prorogation du régime de suspension des charges à l'importation et les montants
+    compensatoires applicables dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1331/73 des Rates vom 15. Mai 1973 zur erneuten Verlängerung
+    der Geltungsdauer der Regelung für die Aussetzung der Einfuhrbelastungen und
+    der Ausgleichsbeträge für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1331/73 af 15. maj 1973 om en fornyet forlængelse
+    af suspensionsordningen for importafgifter og for udligningsbeløb gældende for
+    oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1331/73 del Consiglio, del 15 maggio 1973, che proroga
+    nuovamente il regime di sospensione degli oneri all'importazione e degli importi
+    compensativi nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1331/73 van de Raad van 15 mei 1973 houdende een
+    nieuwe verlenging van de regeling inzake de schorsing van de belastingen bij invoer
+    en van de compenserende bedragen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1331
+docidentifier:
+- content: EU Regulation 1331/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1331
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1331/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-05-15'
+- type: implemented
+  at: '1973-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0182
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,97 @@
+---
+id: EURegulation16371980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1637/80 of 24 June 1980 amending Regulation
+    (EEC) No 2728/79 opening, allocating and providing for the administration of a
+    Community tariff quota for certain hand-made products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1637/80 du Conseil, du 24 juin 1980, modifiant le
+    règlement (CEE) n° 2728/79 portant ouverture, répartition et mode de gestion
+    d' un contingent tarifaire communautaire concernant certains produits faits à
+    la main
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1637/80 des Rates vom 24. Juni 1980 zur Änderung
+    der Verordnung (EWG) Nr. 2728/79 über die Eröffnung, Aufteilung und Verwaltung
+    eines Gemeinschaftszollkontingents für bestimmte handgearbeitete Waren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1637/80 af 24. juni 1980 om ændring af forordning
+    (EØF) nr. 2728/79 om åbning, fordeling og forvaltning af et fællesskabstoldkontingent
+    for visse varer fremstillet i hånden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1637/80 del Consiglio, del 24 giugno 1980, che modifica
+    il regolamento (CEE) n. 2728/79 relativo all' apertura, alla ripartizione e alle
+    modalità di gestione di un contingente tariffario comunitario concernente determinati
+    prodotti fatti a mano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1637/80 van de Raad van 24 juni 1980 tot wijziging
+    van Verordening (EEG) nr. 2728/79 betreffende de opening, de verdeling en de wijze
+    van beheer van een communautair tariefcontingent voor bepaalde met de hand vervaardigde
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1637
+docidentifier:
+- content: EU Regulation 1637/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1637
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1637/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-06-24'
+- type: implemented
+  at: '1980-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2728
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

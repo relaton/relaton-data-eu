@@ -1,0 +1,81 @@
+---
+id: EURegulation251963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 25/63/CEE du Conseil du 21 mars 1963, relatif aux prélèvements
+    applicables envers les pays tiers pour les importations de porc abattu et de porc
+    vivant effectuées du 1er avril au 30 juin 1963
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 25/63/EWG des Rats vom 21. März 1963 über die gegenüber
+    dritten Ländern geltenden Abschöpfungsbeträge für geschlachtete Schweine und
+    für lebende Schweine für die vom 1. April bis zum 30. Juni 1963 getätigten
+    Einfuhren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 25/63/CEE del Consiglio del 21 marzo 1963 relativo ai prelievi
+    nei confronti dei paesi terzi applicabili alle importazioni di suini macellati
+    e di suini vivi effettuate dal 1 aprile al 30 giugno 1963
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 25/63/EEG van de Raad van 21 maart 1963 inzake de heffingen
+    die ten opzichte van de derde landen van toepassing zijn voor de invoer van geslachte
+    varkens en van levende varkens in het tijdvak van 1 april tot en met 30 juni 1963
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0025
+docidentifier:
+- content: EU Regulation 25/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0025
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/25/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-03-21'
+- type: implemented
+  at: '1963-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0155
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

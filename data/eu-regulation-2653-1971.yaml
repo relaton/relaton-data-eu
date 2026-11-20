@@ -1,0 +1,106 @@
+---
+id: EURegulation26531971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC, Euratom, ECSC) No 2653/71 of the Council of 11 December
+    1971 adjusting the remuneration and pensions of officials of the European Communities
+    and the remuneration of other servants of the Communities
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE, Euratom, CECA) n° 2653/71 do Conseil, du 11 décembre
+    1971, portant adaptation des rémunérations des fonctionnaires des Communautés
+    européennes, ainsi que des rémunérations des autres agents de ces Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG, Euratom, EGKS) Nr. 2653/71 des Rates vom 11. Dezember
+    1971 zur Angleichung der Dienst- und Versorgungsbezüge der Beamten der Europäischen
+    Gemeinschaften sowie der Dienstbezüge der sonstigen Bediensteten dieser Gemeinschaften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF, EURATOM, EKSF) nr. 2653/71 af 11. december 1971
+    om tilpasning af vederlag og pensionsydelser til tjenestemænd i De europæiske
+    Fællesskaber og af vederlag til de øvrige ansatte i Fællesskaberne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE, Euratom, CECA) n. 2653/71 del Consiglio, dell' 11 dicembre
+    1971, relativo all' adeguamento delle retribuzioni e delle pensioni dei funzionari
+    delle Comunità europee nonché delle retribuzioni degli altri agenti di tali
+    Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG, Euratom, EGKS), nr. 2653/71 van de Raad van 11 december
+    1971 houdende aanpassing van de bezoldiging en de pensioenen van de ambtenaren
+    der Europese Gemeenschappen, alsmede van de bezoldiging van de andere personeelsleden
+    van deze Gemeenschappen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2653
+docidentifier:
+- content: EU Regulation 2653/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2653
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2653/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-11'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0016
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(02)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

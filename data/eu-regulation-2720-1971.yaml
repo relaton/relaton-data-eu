@@ -1,0 +1,78 @@
+---
+id: EURegulation27201971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2720/71 de la Commission, du 21 décembre 1971, fixant
+    pour la campagne sucrière 1971/1972 le montant maximum pour la participation
+    aux frais de stockage que les fabricants de sucre peuvent, en cas de report, exiger
+    des producteurs de betteraves et de cannes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2720/71 der Kommission vom 21. Dezember 1971 zur Festsetzung
+    des Höchstbetrags, den die Zuckerhersteller im Zuckerwirtschaftsjahr 1971/1972
+    bei Übertragungen von den Zuckerrüben- und Zuckerrohrerzeugern als Beteiligung
+    an den Lagerkosten fordern können
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2720/71 della Commissione, del 21 dicembre 1971, che
+    fissa per la campagna saccarifera 1971/1972 l'importo massimo di partecipazione
+    alle spese di magazzinaggio che i fabbricanti di zucchero, in caso di riporto,
+    possono esigere dai produttori di barbabietole e di canna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2720/71 van de Commissie van 21 december 1971 tot
+    vaststelling voor het verkoopseizoen voor suiker 1971/1972 van het maximumbedrag
+    van het aandeel in de opslagkosten dat de suikerfabrikanten in geval van overbrenging
+    kunnen eisen van de suikerbieten- en suikerrietproducenten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2720
+docidentifier:
+- content: EU Regulation 2720/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2720
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2720/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-21'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

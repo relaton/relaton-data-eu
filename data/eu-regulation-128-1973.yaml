@@ -1,0 +1,100 @@
+---
+id: EURegulation1281973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 128/73 of the Commission of 29 December 1972 amending
+    Regulation (EEC) No 2637/70 of 23 December 1970 laying down special provisions
+    for the application of the system of certificates for import, export and advance
+    fixing for agricultural products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 128/73 de la Commission, du 29 décembre 1972, modifiant
+    le règlement (CEE) n° 2637/70, du 23 décembre 1970, portant modalités particulières
+    d' application du régime de certificats d' importation, d' exportation et de
+    préfixation pour les produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 128/73 der Kommission vom 29. Dezember 1972 zur Änderung
+    der Verordnung (EWG) Nr. 2637/70 vom 23. Dezember 1970 über besondere Durchführungsvorschriften
+    für Einfuhr- und Ausfuhrlizenzen sowie Vorausfestsetzungsbescheinigungen für
+    landwirtschaftliche Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 128/73 af 29. december 1972 om ændring
+    af forordning (EØF) nr. 2637/70 af 23. december 1970 om specielle bestemmelser
+    for iværksættelsen af ordningen med certifikater for import, eksport og forudfastsættelse
+    som anvendes på landbrugsprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 128/73 della Commissione, del 29 dicembre 1972, recante
+    modifica del regolamento (CEE) n. 2637/70 del 23 dicembre 1970, che stabilisce
+    modalità particolari d' applicazione, per il regime dei titoli d' importazione,
+    d' esportazione e di prefissazione per i prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 128/73 van de Commissie van 29 december 1972 houdende
+    wijziging van Verordening (EEG) nr. 2637/70 van 23 december 1970 houdende bijzondere
+    uitvoeringsbepalingen inzake het stelsel van invoer-, uitvoer- en voorfixatiecertificaten
+    voor landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0128
+docidentifier:
+- content: EU Regulation 128/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0128
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/128/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-29'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

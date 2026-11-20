@@ -1,0 +1,66 @@
+---
+id: EURegulation3231971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 323/71 de la Commission, du 15 février 1971, fixant
+    les prélèvements à l'importation dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 323/71 der Kommission vom 15. Februar 1971 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Milch und Milcherzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 323/71 della Commissione, del 15 febbraio 1971, che
+    fissa i prelievi all'importazione applicabili nel settore del latte e dei prodotti
+    lattiero-caseari 7
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 323/71 van de Commissie van 15 februari 1971 houdende
+    vaststelling van de invoerheffingen in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0323
+docidentifier:
+- content: EU Regulation 323/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0323
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/323/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

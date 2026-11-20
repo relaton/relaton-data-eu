@@ -1,0 +1,88 @@
+---
+id: EURegulation27561975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2756/75 of the Council of 29 October 1975 fixing the
+    threshold prices for cereals for the 1975/76 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2756/75 du Conseil, du 29 octobre 1975, fixant, pour
+    la campagne de commercialisation 1975/1976, le prix de seuil des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2756/75 des Rates vom 29. Oktober 1975 über die Schwellenpreise
+    für Getreide für das Wirtschaftsjahr 1975/1976
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2756/75 af 29. oktober 1975 om fastsættelse
+    af tærskelpriserne for korn for høståret 1975/1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2756/75 del Consiglio, del 29 ottobre 1975, che fissa
+    il prezzo di entrata dei cereali per la campagna di commercializzazione 1975/1976
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2756/75 van de Raad van 29 oktober 1975 houdende
+    vaststelling van de drempelprijzen voor granen voor het verkoopseizoen 1975/1976
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2756
+docidentifier:
+- content: EU Regulation 2756/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2756
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2756/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1173
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

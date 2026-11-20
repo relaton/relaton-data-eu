@@ -1,0 +1,100 @@
+---
+id: EURegulation11721975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1172/75 of the Council of 28 April 1975 amending Regulation
+    (EEC) No 1397/69 fixing standard qualities for certain cereals and categories
+    of flour, groats and meal and the rules for fixing the threshold prices of these
+    categories of products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1172/75 du Conseil, du 28 avril 1975, modifiant le
+    règlement (CEE) n° 1397/69 déterminant les qualités types pour certaines céréales
+    et catégories de farines, gruaux et semoules, ainsi que les règles applicables
+    pour la fixation des prix de seuil de ces catégories de produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1172/75 des Rates vom 28. April 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1397/69 zur Festsetzung der Standardqualitäten für
+    bestimmte Arten von Getreide, Mehl, Grobgrieß und Feingrieß sowie der Regeln
+    für die Festsetzung der Schwellenpreise dieser Arten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1172/75 af 28. april 1975 om ændring af
+    forordning (EØF) nr. 1397/69 om fastsættelse af standardkvaliteter for bestemte
+    kornsorter og for visse former for mel, grove og fine gryn samt regler om fastsættelse
+    af tærskelpriser for disse produkter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1172/75 del Consiglio, del 28 aprile 1975, recante
+    modifica del regolamento (CEE) n. 1397/69 che fissa le qualità tipo di alcuni
+    cereali e di alcune categorie di farine, semole e semolini, nonché le norme applicabili
+    per la fissazione dei prezzi d'entrata di tali categorie di prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1172/75 van de Raad van 28 april 1975 houdende wijziging
+    van Verordening (EEG) nr. 1397/69 tot vaststelling van de standaarakwanteiten
+    voor bepaalde graansoorten en bepaalde soorten meel, gries en griesmeel, alsmede
+    van de voorschriften voor de vaststelling van de drempelprijzen voor deze soorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1172
+docidentifier:
+- content: EU Regulation 1172/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1172
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1172/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-28'
+- type: implemented
+  at: '1975-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1397
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

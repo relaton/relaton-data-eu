@@ -1,0 +1,107 @@
+---
+id: EURegulation15291971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1529/71 of the Council of 12 July 1971 amending 'inter
+    alia' the Annex to Regulation (EEC) No 1052/68 on the import and export system
+    for products processed from cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1529/71 du Conseil, du 12 juillet 1971, portant notamment
+    modification de l' annexe du règlement (CEE) n° 1052/68 relatif au régime d'
+    importation et d' exportation des produits transformés à base de céréales
+    et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1529/71 des Rates vom 12. Juli 1971 zur Änderung
+    insbesondere des Anhangs zur Verordnung (EWG) Nr. 1052/68 über die Regelung für
+    die Einfuhr und die Ausfuhr von Getreide- und Reisverarbeitungserzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1529/71 af 12. juli 1971 om ændring af bilaget
+    til forordning (EØF) nr. 1052/68 om reglerne for indførsel og udførsel af produkter
+    forarbejdet på basis af korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1529/71 del Consiglio, del 12 luglio 1971, che modifica,
+    in particolare, l' allegato al regolamento (CEE) n. 1052/68 relativo al regime
+    d' importazione e d' esportazione dei prodotti trasformati a base di cereali e
+    di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1529/71 van de Raad van 12 juli 1971 houdende met
+    name wijziging van de bijlage van Verordening (EEG) nr. 1052/68 betreffende de
+    regeling voor de invoer en de uitvoer van op basis van granen en rijst verwerkte
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1529
+docidentifier:
+- content: EU Regulation 1529/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1529
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1529/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-12'
+- type: implemented
+  at: '1971-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0367
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1397
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1055
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

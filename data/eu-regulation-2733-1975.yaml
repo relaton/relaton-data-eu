@@ -1,0 +1,97 @@
+---
+id: EURegulation27331975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2733/75 of the Council of 29 October 1975 laying down
+    rules for deriving intervention prices for common wheat and for determining certain
+    marketing centres for cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2733/75 du Conseil, du 29 octobre 1975, fixant les
+    règles applicables pour la dérivation des prix d'intervention pour le froment
+    tendre et la détermination de certains centres de commercialisation dans le secteur
+    des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2733/75 des Rates vom 29. Oktober 1975 zur Festlegung
+    der Regeln für die Ableitung der Interventionspreise für Weichweizen und für
+    die Festsetzung bestimmter Handelsplätze für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2733/75 af 29. oktober 1975 om fastsættelse
+    af reglerne for afledning af interventionspriserne for blød hvede og om fastsættelse
+    af bestemte handelscentre for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2733/75 del Consiglio, del 29 ottobre 1975, che fissa
+    le norme applicabili per la derivazione dei prezzi d'intervento del frumento tenero
+    e per la determinazione di alcuni centri di commercializzazione nel settore dei
+    cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2733/75 van de Raad van 29 oktober 1975 tot vaststelling
+    van de voorschriften voor het berekenen van de afgeleide interventieprijzen voor
+    zachte tarwe en het aanwijzen van bepaalde commercialisatiecentra in de sector
+    granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2733
+docidentifier:
+- content: EU Regulation 2733/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2733
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2733/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0131
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,88 @@
+---
+id: EURegulation321965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 32/65/CEE, 6/65/Euratom des Conseils du 16 mars 1965, portant
+    modification des conditions et de la procédure d'application de l'impôt établi
+    au profit de la Communauté en exécution de l'article 12 premier alinéa des
+    protocoles sur les privilèges et immunités de la Communauté économique européenne
+    et de la Communauté européenne de l'énergie atomique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 32/65/EWG, 6/65/Euratom der Räte vom 16. März 1965 zur
+    Änderung der Bestimmungen und des Verfahrens für die Erhebung der in Artikel
+    12 Absatz (1) der Protokolle über die Vorrechte und Befreiungen der Europäischen
+    Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft vorgesehenen Steuer
+    zugunsten der Gemeinschaft
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 32/65/CEE, 6/65/Euratom dei Consigli, del 16 marzo 1965,
+    relativo alla modifica delle condizioni e della procedura d'applicazione dell'imposta
+    a profitto della Comunità in esecuzione dell'articolo 12, primo comma, dei Protocolli
+    sui privilegi e sulle immunità della Comunità Economica Europea e della Comunità
+    Europea dell'Energia Atomica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 32/65/EEG, 6/65/Euratom van de Raden van 16 maart 1965
+    tot wijziging van de voorwaarden en de wijze van heffing van de belasting ten
+    bate van de Gemeenschap, ter uitvoering van artikel 12, eerste alinea, van de
+    Protocollen betreffende de voorrechten en immuniteiten van de Europese Economische
+    Gemeenschap en de Europese Gemeenschap voor Atoomenergie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0032
+docidentifier:
+- content: EU Regulation 32/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0032
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/32/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-16'
+- type: implemented
+  at: '1965-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0032
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

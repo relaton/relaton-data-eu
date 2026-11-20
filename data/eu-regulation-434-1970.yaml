@@ -1,0 +1,80 @@
+---
+id: EURegulation4341970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 434/70 de la Commission, du 6 mars 1970, modifiant
+    le règlement n° 473/67/CEE en ce qui concerne la durée de validité des certificats
+    d'exportation pour certains produits transformés du maïs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 434/70 der Kommission vom 6. März 1970 zur Änderung
+    der Verordnung Nr. 473/67/EWG hinsichtlich der Geltungsdauer der Ausfuhrlizenzen
+    für bestimmte Maisverarbeitungserzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 434/70 della Commissione, del 6 marzo 1970, che modifica
+    il regolamento n. 473/67/CEE per quanto concerne la durata di validità dei titoli
+    d'esportazione per alcuni prodotti trasformati a base di granturco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 434/70 van de Commissie van 6 maart 1970 houdende
+    wijziging van Verordening nr. 473/67/EEG voor wat betreft de geldigheidsduur van
+    de uitvoercertificaten voor bepaalde op basis van maïs verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0434
+docidentifier:
+- content: EU Regulation 434/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0434
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/434/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-06'
+- type: implemented
+  at: '1970-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0473
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

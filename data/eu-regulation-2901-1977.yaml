@@ -1,0 +1,105 @@
+---
+id: EURegulation29011977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2901/77 of 22 December 1977 amending Regulations
+    (EEC) No 585/77 and (EEC) No 597/77 especially as regards the total suspension
+    of the levy in the framework of the special import system for frozen beef and
+    veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2901/77 de la Commission, du 22 décembre 1977, modifiant
+    les règlements (CEE) n° 585/77 et (CEE) n° 597/77, notamment en ce qui concerne
+    la suspension totale du prélèvement dans le cadre du régime spécial d' importation
+    de viande bovine congelée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2901/77 der Kommission vom 22. Dezember 1977 zur Änderung
+    der Verordnungen (EWG) Nr. 585/77 und (EWG) Nr. 597/77, insbesondere hinsichtlich
+    der totalen Aussetzung der Abschöpfung im Rahmen der besonderen Einfuhrregelung
+    für gefrorenes Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2901/77 af 22. december 1977 om ændring
+    af forordningerne (EØF) nr. 585/77 og (EØF) nr. 597/77, især med henblik på
+    fuld suspension af importafgiften inden for rammen af den særlige ordning om
+    indførsel af frosset oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2901/77 della Commissione, del 22 dicembre 1977, che
+    modifica i regolamenti (CEE) n. 585/77, e (CEE) n. 597/77, in particolare per
+    quanto concerne la sospensione totale del prelievo nel quadro del regime speciale
+    d' importazione di carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2901/77 van de Commissie van 22 december 1977 houdende
+    wijziging van de Verordeningen (EEG) nr. 585/77 en (EEG) nr. 597/77, inzonderheid
+    met betrekking tot de volledige schorsing van de heffing in het kader van de bijzondere
+    regeling bij invoer van bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2901
+docidentifier:
+- content: EU Regulation 2901/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2901
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2901/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-22'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0585
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0597
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

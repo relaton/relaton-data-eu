@@ -1,0 +1,84 @@
+---
+id: EUDecision1964473
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/473/CEE de la Commission, du 31 juillet 1964, remplaçant
+    l'annexe de la décision de la Commission du 22 juillet 1964, autorisant des États
+    membres à percevoir un montant compensatoire à l'importation de certaines catégories
+    d'aliments pour animaux, contenant du lait
+  type: main
+- language: de
+  script: Latn
+  content: '64/473/EWG: Entscheidung der Kommission vom 31. Juli 1964 zur Ersetzung
+    des Anhangs der Entscheidung der Kommission vom 22. Juli 1964, mit der verschiedene
+    Mitgliedstaaten ermächtigt werden, bei der Einfuhr bestimmter Milch enthaltender
+    Futtermittelarten einen Ausgleichsbetrag zu erheben'
+  type: main
+- language: it
+  script: Latn
+  content: '64/473/CEE: Decisione della Commissione, del 31 luglio 1964, che sostituisce
+    l''allegato della decisione della Commissione del 22 luglio 1964 con cui alcuni
+    Stati membri sono autorizzati a riscuotere un ammontare compensativo all''importazione
+    di alcune categorie di alimenti per animali, contenenti latte'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/473/EEG: Beschikking van de Commissie van 31 juli 1964 ter vervanging
+    van de bijlage van de beschikking van de Commissie van 22 juli 1964 houdende machtiging
+    van enkele Lid-Staten een compenserend bedrag te heffen op de invoer van sommige
+    soorten melk bevattende veevoeders'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0473
+docidentifier:
+- content: EU Decision 1964/473
+  type: EU
+  primary: true
+- content: CELEX 31964D0473
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/473/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-31'
+- type: implemented
+  at: '1964-08-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0437
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

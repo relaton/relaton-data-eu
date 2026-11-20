@@ -1,0 +1,69 @@
+---
+id: EURegulation3171971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 317/71 de la Commission, du 12 février 1971, modifiant
+    le règlement (CEE) n 306/71 fixant les montants supplémentaires pour les produits
+    du secteur de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 317/71 der Kommission vom 12. Februar 1971 zur Änderung
+    der Verordnung (EWG) Nr. 306/71 zur Festsetzung von Zusatzbeträgen für Erzeugnisse
+    des Sektors Geflügelfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 317/71 della Commissione, del 12 febbraio 1971, che
+    modifica il regolamento (CEE) n. 306/71 che fissa l'importo supplementare per
+    i prodotti del settore del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 317/71 van de Commissie van 12 februari 1971 houdende
+    wijziging van de Verordening (EEG) nr. 306/71 houdende vaststelling van extra
+    bedragen voor produkten van de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0317
+docidentifier:
+- content: EU Regulation 317/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0317
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/317/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

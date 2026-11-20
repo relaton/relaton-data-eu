@@ -1,0 +1,94 @@
+---
+id: EURegulation18071978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1807/78 of 28 July 1978 amending Regulation
+    (EEC) No 919/78 applying quality class III to certain fruit for the 1978/79 marketing
+    year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1807/78 de la Commission, du 28 juillet 1978, modifiant
+    le règlement (CEE) n° 919/78 portant application des catégories de qualité
+    III à certains fruits de la campagne 1978/1979
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1807/78 der Kommission vom 28. Juli 1978 zur Änderung
+    der Verordnung (EWG) Nr. 919/78 zur Anwendung der Gúteklasse III auf bestimmtes
+    Obst im Wirtschaftsjahr 1978/79
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1807/78 af 28. juli 1978 om ændring
+    af forordning (EØF) nr. 919/78 om anvendelse af kvalitetsklasse III for visse
+    frugtsorter i høståret 1978/79
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1807/78 della Commissione, del 28 luglio 1978, recante
+    modifica del regolamento (CEE) n. 919/78 che applica le categorie di qualità
+    III a taluni prodotti frutticoli della campagna 1978/1979
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1807/78 van de Commissie van 28 juli 1978 tot wijziging
+    van Verordening (EEG) nr. 919/78 houdende toepassing van de kwaliteitsklassen
+    ,,III' ' voor bepaalde soorten fruit voor het verkoopseizoen 1978/1979
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1807
+docidentifier:
+- content: EU Regulation 1807/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1807
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1807/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-07-28'
+- type: implemented
+  at: '1978-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R0919
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

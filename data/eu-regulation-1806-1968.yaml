@@ -1,0 +1,65 @@
+---
+id: EURegulation18061968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1806/68 de la Commission, du 13 novembre 1968, modifiant
+    le correctif applicable à la restitution pour les céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1806/68 der Kommission vom 13. November 1968 zur Änderung
+    der bei der Erstattung für Getreide anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1806/68 della Commissione, del 13 novembre 1968, che
+    modifica il correttivo applicabile alla restituzione per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1806/68 van de Commissie van 13 november 1968 houdende
+    wijziging van het op de restitutie voor granen toe te passen correctief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1806
+docidentifier:
+- content: EU Regulation 1806/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1806
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1806/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-11-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

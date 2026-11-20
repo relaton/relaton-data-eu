@@ -1,0 +1,72 @@
+---
+id: EURegulation1131964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 113/64/CEE du Conseil, du 30 juillet 1964, relatif à certaines
+    mesures dérogatoires en ce qui concerne le lait en poudre, le beurre , le lait
+    condensé et certains fromages
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 113/64/EWG des Rates vom 30. Juli 1964 über abweichende
+    Bestimmungen für Milchpulver, Butter, Kondensmilch und einige Käsesorten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 113/64/CEE del Consiglio, del 30 luglio 1964, relativo ad
+    alcune misure derogatorie, per quanto concerne il latte in polvere, il burro,
+    il latte condensato e alcuni formaggi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 113/64/EEG van de Raad van 30 juli 1964 betreffende afwijkende
+    maatregelen voor melkpoeder, boler, gecondenseerde melk en enige kaassoorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0113
+docidentifier:
+- content: EU Regulation 113/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0113
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-30'
+- type: implemented
+  at: '1964-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

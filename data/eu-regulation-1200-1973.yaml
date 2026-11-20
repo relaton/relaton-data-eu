@@ -1,0 +1,99 @@
+---
+id: EURegulation12001973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1200/73 of the Commission of 7 May 1973 supplementing
+    Regulation (EEC) No 1623/72 with provisions relating to the calculation of the
+    financial compensations for fishery products withdrawn from the market in very
+    distant landing areas
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1200/73 de la Commission, du 7 mai 1973, complétant
+    le règlement (CEE) n° 1623/72 par des dispositions relatives au calcul des compensations
+    financières pour les produits de la pêche retirés du marché dans les zones
+    de débarquement très éloignées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1200/73 der Kommission vom 7. Mai 1973 zur Ergänzung
+    der Verordnung (EWG) Nr. 1623/72 mit Bestimmungen über die Berechnung des finanziellen
+    Ausgleichs für in sehr weit entfernt liegenden Anlandegebieten aus dem Handel
+    genommene Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1200/73 af 7. maj 1973 om supplering
+    af forordning (EØF) nr. 1623/72 med bestemmelser vedrørende beregningen af den
+    finansielle udligning for fiskerivarer, der fjernes fra handelen i meget fjerntliggende
+    landingsområder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1200/73 della Commissione, del 7 maggio 1973, che
+    completa il regolamento (CEE) n. 1623/72 con disposizioni relative al calcolo
+    delle compensazioni finanziarie per i prodotti della pesca ritirati dal mercato
+    nelle zone di sbarco più lontane
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1200/73 van de Commissie van 7 mei 1973 waarbij Verordening
+    (EEG) nr. 1623/72 wordt aangevuld met bepalingen inzake de berekening van de financiële
+    vergoedingen voor in verafgelegen lossingsgebieden uit de markt genomen visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1200
+docidentifier:
+- content: EU Regulation 1200/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1200
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1200/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-05-07'
+- type: implemented
+  at: '1973-05-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1623
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

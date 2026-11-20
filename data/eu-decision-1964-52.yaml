@@ -1,0 +1,74 @@
+---
+id: EUDecision196452
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission n° 64/52/CEE, du 18 décembre 1963, portant
+    octroi d'un contingent tarifaire à la République fédérale d'Allemagne pour
+    certains vins rouges naturels de raisins frais, destinés au coupage
+  type: main
+- language: de
+  script: Latn
+  content: '64/52/EWG: Entscheidung der Kommission vom 18. Dezember 1963 über die
+    Gewährung eines Zollkontingents für bestimmten roten Naturwein aus frischen
+    Weintrauben, zum Verschneiden'
+  type: main
+- language: it
+  script: Latn
+  content: '64/52/CEE: Decisione della Commissione, del 18 dicembre 1963, relativa
+    alla concessione di un contingente tariffario alla Repubblica federale di Germania
+    per alcuni vini rossi naturali di uve fresche, destinati al taglio'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/52/EEG: Beschikking van de Commissie van 18 december 1963 houdende
+    toekenning van een tariefcontingent aan de Bondsrepubliek Duitsland voor sommige
+    natuurlijke rode wijnen van verse druiven, bestemd voor versnijding'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0052
+docidentifier:
+- content: EU Decision 1964/52
+  type: EU
+  primary: true
+- content: CELEX 31964D0052
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/52/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-18'
+- type: implemented
+  at: '1964-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation831970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 83/70 de la Commission, du 16 janvier 1970, relatif
+    à l'ouverture d'une adjudication pour la mobilisation de 25.000 tonnes de froment
+    tendre destiné à la République turque, à titre d'aide
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 83/70 der Kommission vom 16. Januar 1970 über die
+    Durchführung einer Ausschreibung zur Bereitstellung von 25 000 Tonnen Weichweizen
+    als Hilfeleistung für die Republik Türkei
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 83/70 della Commissione, del 16 gennaio 1970, relativo
+    ad un bando di gara per la mobilitazione di 25.000 tonnellate di frumento tenero
+    destinato alla Repubblica turca a titolo di aiuto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 83/70 van de Commissie van 16 januari 1970 betreffende
+    de openstelling van een inschrijving voor het beschikbaar stellen van 25.000 ton
+    zachte tarwe als voedselhulp voor de Republiek Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0083
+docidentifier:
+- content: EU Regulation 83/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/83/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

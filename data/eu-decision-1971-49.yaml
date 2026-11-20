@@ -1,0 +1,85 @@
+---
+id: EUDecision197149
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 29 décembre 1970, abrogeant deux Décisions
+    de la Commission, concernant l'écoulement de beurre à prix réduit à certaines
+    catégories de consommateurs
+  type: main
+- language: de
+  script: Latn
+  content: '71/49/EWG: Entscheidung der Kommission vom 29. Dezember 1970 zur Aufhebung
+    von zwei Entscheidungen der Kommission hinsichtlich des Absatzes von Butter zu
+    herabgesetzten Preisen an bestimmte Verbrauchergruppen'
+  type: main
+- language: it
+  script: Latn
+  content: '71/49/CEE: Decisione della Commissione, del 29 dicembre 1970, relativa
+    all''abrogazione di due decisioni della Commissione concernenti lo smaltimento
+    di burro a prezzo ridotto ad alcune categorie di consumatori'
+  type: main
+- language: nl
+  script: Latn
+  content: '71/49/EEG: Beschikking van de Commissie van 29 december 1970 houdende
+    opheffing van twee beschikkingen van de Commissie betreffende de afzet van boter
+    tegen verminderde prijs aan bepaalde groepen verbruikers'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971D0049
+docidentifier:
+- content: EU Decision 1971/49
+  type: EU
+  primary: true
+- content: CELEX 31971D0049
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1971/49/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-29'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970D0340
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970D0341
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

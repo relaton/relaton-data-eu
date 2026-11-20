@@ -1,0 +1,100 @@
+---
+id: EURegulation17241972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1724/72 of the Council of 20 July 1972 amending Regulation
+    (EEC) No 1406/72 in order to determine, for the 1972/73 marketing year, the principal
+    marketing centres for cereals and the derived intervention prices applicable in
+    those centres for certain new Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1724/72 du Conseil, du 20 juillet 1972, modifiant
+    le règlement (CEE)" n° 1406/72 en vue de fixer, pour la campagne 1972/1973,
+    les principaux centres de commercialisation des céréales et les prix d' intervention
+    dérivés s' y rapportant pour certains nouveaux États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1724/72 des Rates vom 20. Juli 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1406/72 zwecks Festsetzung der wesentlichsten Handelsplätze
+    für Getreide und der für diese Handelsplätze geltenden abgeleiteten Interventionspreise
+    für verschiedene neue Mitgliedstaaten für das Wirtschaftsjahr 1972/1973
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1724/72 af 20. juli 1972 om ændring af forordning
+    (EØF) nr. 1406/72 med henblik på fastsættelse af de væsentligste handelscentre
+    for korn og de afledede interventionspriser, der refererer sig dertil for visse
+    nye medlemsstater for høståret 1972/1973
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1724/72 del Consiglio, del 20 luglio 1972, che modifica
+    il regolamento (CEE) n. 1406/72 per fissare, per la campagna 1972/1973, i principali
+    centri di commercializzazione dei cereali ed i relativi prezzi d' intervento derivati
+    per alcuni nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1724/72 van de Raad van 20 juli 1972 tot wijziging
+    van Verordening (EEG) nr. 1406/72, ter vaststelling van de voornaamste commercialisatiecentra
+    voor granen en van de voor deze centra geldende afgeleide interventieprijzen voor
+    bepaalde nieuwe Lid-Staten voor het verkoopseizoen 1972/1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1724
+docidentifier:
+- content: EU Regulation 1724/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1724
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1724/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-20'
+- type: implemented
+  at: '1972-08-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1406
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

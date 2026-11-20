@@ -1,0 +1,137 @@
+---
+id: EURegulation23061988
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2306/88 of 26 July 1988 amending Annex I
+    to Regulation (EEC) No 1785/81 and the Annex to Regulation (EEC) No 1010/86 in
+    the sugar sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2306/88 de la Commission du 26 juillet 1988 modifiant
+    l' annexe I du règlement (CEE) n° 1785/81 et l' annexe du règlement (CEE) n°
+    1010/86 dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2306/88 der Kommission vom 26. Juli 1988 zur Änderung
+    des Anhangs I der Verordnung (EWG) Nr. 1785/81 und des Anhangs der Verordnung
+    (EWG) Nr. 1010/86 betreffend den Zuckersektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2306/88 af 26. juli 1988 om ændring
+    af bilag I til forordning (EØF) nr. 1785/81 og af bilaget til forordning (EØF)
+    nr. 1010/86 vedrørende sukker
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2306/88 της Επιτροπής
+    της 26ης Ιουλίου 1988 για την τροποποίηση του
+    παραρτήματος Ι του κανονισμού (ΕΟΚ) αριθ. 1785/81
+    και του παραρτήματος του κανονισμού (ΕΟΚ) αριθ.
+    1010/86 στον τομέα της ζάχαρης
+  type: main
+- language: fi
+  script: Latn
+  content: KOMISSION ASETUS (ETY) N:o 2306/88, annettu 26 päivänä heinäkuuta 1988,
+    sokerialan asetuksessa (ETY) N:o 1785/81 olevan liitteen I ja asetuksessa (ETY)
+    N:o 1010/86 olevan liitteen muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2306/88 della Commissione del 26 luglio 1988 recante
+    modifica dell' allegato I del regolamento (CEE) n. 1785/81 e dell' allegato del
+    regolamento (CEE) n. 1010/86 nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2306/88 van de Commissie van 26 juli 1988 tot wijziging
+    van bijlage I bij Verordening (EEG) nr. 1785/81 en van de bijlage bij Verordening
+    (EEG) nr. 1010/86 inzake de sector suiker
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2306/88 da Comissão de 26 de Julho de 1988 que
+    altera o Anexo I do Regulamento (CEE) n.° 1785/81 e o anexo do Regulamento (CEE)
+    n.° 1010/86, no sector do açúcar
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2306/88 de la Comisión de 26 de julio de 1988 por
+    el que se modifican el Anexo I del Reglamento (CEE) n° 1785/81 y el Anexo del
+    Reglamento (CEE) n° 1010/86 del sector del azúcar
+  type: main
+- language: sv
+  script: Latn
+  content: KOMMISSIONENS FÖRORDNING (EEG) nr 2306/88 av den 26 juli 1988 om ändring
+    av bilaga 1 till förordning (EEG) nr 1785/81 och bilagan till förordning (EEG)
+    nr 1010/86 inom sockersektorn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31988R2306
+docidentifier:
+- content: EU Regulation 2306/1988
+  type: EU
+  primary: true
+- content: CELEX 31988R2306
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1988/2306/oj
+  type: ELI
+date:
+- type: issued
+  at: '1988-07-26'
+- type: implemented
+  at: '1988-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R1785
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31986R1010
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

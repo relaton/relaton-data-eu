@@ -1,0 +1,121 @@
+---
+id: EURegulation20131991
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2013/91 of 10 July 1991 fixing the weighting
+    coefficients to be used in calculating the Community market price for pig carcasses
+    and repealing Regulation (EEC) No 3786/90
+  type: main
+- language: fr
+  script: Latn
+  content: 'RÈGLEMENT (CEE) No 2013/91 DE LA COMMISSION du 10 juillet 1991 fixant
+    les coefficients de pondération servant au calcul du prix communautaire du marché
+    du porc abattu et abrogeant le règlement (CEE) no 3786/90 #'
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 2013/91 DER KOMMISSION vom 10. Juli 1991 zur Festsetzung
+    der Wiegungskoeffizienten für die Berechnung des gemeinschaftlichen Marktpreises
+    für geschlachtete Schweine und zur Aufhebung der Verordnung (EWG) Nr. 3786/90
+    #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2013/91 af 10. juli 1991 om fastsættelse
+    af de vejningskoefficienter, der skal anvendes ved beregning af prisen på Fællesskabets
+    marked på slagtede svin, og om ophævelse af forordning (EØF) nr. 3786/90
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2013/91 της Επιτροπής
+    της 10ης Ιουλίου 1991 περί καθορισμού των συντελεστών
+    σταθμίσεως για τον υπολογισμό της κοινοτικής
+    τιμής αγοράς του εσφαγμένου χοίρου και περί
+    καταργήσεως του κανονισμού (ΕΟΚ) αριθ. 3786/90
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 2013/91 DELLA COMMISSIONE del 10 luglio 1991 che
+    fissa i coefficienti di ponderazione necessari al calcolo del prezzo comunitario
+    di mercato del suino macellato e abroga il regolamento (CEE) n. 3786/90 #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 2013/91 VAN DE COMMISSIE van 10 juli 1991 tot vaststelling
+    van de wegingscoëfficiënten voor de berekening van de gemeenschappelijke marktprijs
+    voor geslachte varkens en houdende intrekking van Verordening (EEG) nr. 3786/90
+    #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) No 2013/91 DA COMISSÃO de 10 de Julho de 1991 que fixa
+    os coeficientes de ponderação que servem para o cálculo do preço comunitário
+    do suíno abatido e que revoga o Regulamento (CEE) no 3786/90 #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 2013/91 DE LA COMISIÓN de 10 de julio de 1991 por
+    el que se fijan los coeficientes de ponderación para el cálculo del precio comunitario
+    de mercado del cerdo sacrificado y por el que se deroga el Reglamento (CEE) no
+    3786/90 #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991R2013
+docidentifier:
+- content: EU Regulation 2013/1991
+  type: EU
+  primary: true
+- content: CELEX 31991R2013
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1991/2013/oj
+  type: ELI
+date:
+- type: issued
+  at: '1991-07-10'
+- type: implemented
+  at: '1991-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31990R3786
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

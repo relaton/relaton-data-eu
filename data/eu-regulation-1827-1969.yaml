@@ -1,0 +1,78 @@
+---
+id: EURegulation18271969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1827/69 du Conseil, du 15 septembre 1969, portant
+    inclusion de nouveaux produits dans la liste figurant à l'annexe I du règlement
+    (CEE) n° 2041/68, portant établissement d'une liste commune de libération des
+    importations dans la Communauté à l'égard des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1827/69 des Rates vom 15. September 1969 zur Aufnahme
+    weiterer Waren in die Liste des Anhangs I der Verordnung (EWG) Nr. 2041/68 zur
+    Aufstellung einer gemeinsamen Liste für die Liberalisierung der Einfuhr in die
+    Gemeinschaft gegenüber dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1827/69 del Consiglio, del 15 settembre 1969, relativo
+    all'inclusione di nuovi prodotti nell'elenco che figura nell'allegato I del regolamento
+    (CEE) n. 2041/68, relativo all'elaborazione di un elenco comune di liberalizzazione
+    delle importazioni nella Comunità dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1827/69 van de Raad van 15 september 1969 houdende
+    opneming van nieuwe produkten in de lijst van bijlage I van Verordening (EEG)
+    nr. 2041/68 houdende de vaststelling van een gemeenschappelijke lijst voor de
+    liberalisatie van de invoer in de Gemeenschap ten opzichte van derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1827
+docidentifier:
+- content: EU Regulation 1827/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1827
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1827/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-09-15'
+- type: implemented
+  at: '1969-09-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,71 @@
+---
+id: EURegulation2901969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 290/69 du Conseil, du 17 février 1969, fixant les
+    critères de mobilisation des céréales destinées à l'aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 290/69 des Rates vom 17. Februar 1969 zur Festlegung
+    der Kriterien für die Bereitstellung von Getreide für die Nahrungsmittelhilfe
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 290/69 del Consiglio, del 17 febbraio 1969, che stabilisce
+    i criteri di mobilitazione dei cereali destinati agli aiuti alimentari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 290/69 van de Raad van 17 februari 1969 houdende
+    de vaststelling van criteria inzake de beschikbaarstelling van voor voedselhulp
+    bestemd graan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0290
+docidentifier:
+- content: EU Regulation 290/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0290
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/290/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-02-17'
+- type: implemented
+  at: '1969-02-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

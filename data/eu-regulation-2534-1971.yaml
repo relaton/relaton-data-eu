@@ -1,0 +1,80 @@
+---
+id: EURegulation25341971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2534/71 du Conseil, du 22 novembre 1971, portant ouverture,
+    répartition et mode de gestion du contingent tarifaire communautaire de raisins
+    secs, de la sous-position 08.04 B I du tarif douanier commun, présentés en emballages
+    immédiats d'un contenu net inférieur ou égal à 15 kilogrammes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2534/71 des Rates vom 22. November 1971 über die
+    Eröffnung, Aufteilung und Verwaltung des Gemeinschaftszollkontingents für getrocknete
+    Weintrauben der Tarifstelle 08.04 B I des Gemeinsamen Zolltarifs, in unmittelbaren
+    Umschließungen mit einem Gewicht des Inhalts von 15 kg oder weniger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2534/71 del Consiglio, del 22 novembre 1971, relativo
+    all'apertura, alla ripartizione e al modo di gestione del contingente tariffario
+    comunitario per le uve secche, della sottovoce 08.04 B I della tariffa doganale
+    comune, presentate in imballaggi immediati di contenuto netto di 15 chilogrammi
+    o meno
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2534/71 van de Raad van 22 november 1971 houdende
+    opening, verdeling en wijze van beheer van het communautaire tariefcontingent
+    voor rozijnen en krenten, van de onderverdeling 08.04 B I van het gemeenschappelijk
+    douanetarief, in verpakkingen met een netto-inhoud per onmiddellijke verpakking
+    van 15 kilogram of minder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2534
+docidentifier:
+- content: EU Regulation 2534/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2534
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2534/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-22'
+- type: implemented
+  at: '1971-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

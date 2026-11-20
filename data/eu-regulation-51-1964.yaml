@@ -1,0 +1,71 @@
+---
+id: EURegulation511964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 51/64/CEE du Conseil, du 30 avril 1964, relatif à la fixation
+    à l'avance du prélèvement applicable aux importations de riz et de brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 51/64/EWG des Rats vom 30. April 1964 über die Vorausfestsetzung
+    des Abschöpfungsbetrages für die Einfuhr von Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 51/64/CEE del Consiglio, del 30 aprile 1964, relativo alla
+    fissazione anticipata del prelievo applicabile alle importazioni di riso e di
+    rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 51/64/EEG van de Raad van 30 april 1964 inzake het van
+    tevoren vaststellen van de heffing voor de invoer van rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0051
+docidentifier:
+- content: EU Regulation 51/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0051
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/51/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-04-30'
+- type: implemented
+  at: '1964-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

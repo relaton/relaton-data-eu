@@ -1,0 +1,94 @@
+---
+id: EURegulation791978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 79/78 of 16 January 1978 amending Regulation
+    (EEC) No 2963/77 on the sale for export of olive oil held by the Italian intervention
+    agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 79/78 de la Commission, du 16 janvier 1978, modifiant
+    le règlement (CEE) n° 2963/77 relatif à la mise en vente pour l'exportation
+    de l'huile d'olive détenue par l'organisme d'intervention italien
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 79/78 der Kommission vom 16. Januar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2963/77 über den Verkauf von Olivenöl aus Beständen
+    der italienischen Interventionsstelle für die Ausfuhr
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 79/78 af 16. januar 1978 om ændring
+    af forordning (EØF) nr. 2963/77 om salg til eksport af olivenolie fra det italienske
+    interventionsorgan
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 79/78 della Commissione, del 16 gennaio 1978, che
+    modifica il regolamento (CEE) n. 2963/77 relativo alla vendita a fini di esportazione
+    di olio d'oliva detenuto dall'organismo d'intervento italiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 79/78 van de Commissie van 16 januari 1978 tot wijziging
+    van Verordening (EEG) nr. 2963/77 betreffende de verkoop voor uitvoer van olijfolie
+    in het bezit van het Italiaanse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0079
+docidentifier:
+- content: EU Regulation 79/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0079
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/79/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-01-16'
+- type: implemented
+  at: '1978-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2963
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation21001970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2100/70 de la Commission, du 20 octobre 1970, fixant
+    les restitutions à l'exportation dans le secteur de la viande bovine pour la
+    période débutant le 1er novembre 1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2100/70 der Kommission vom 20. Oktober 1970 zur Festsetzung
+    der Erstattungen bei der Ausfuhr auf dem Rindfleischsektor für den am 1. November
+    1970 beginnenden Zeitraum
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2100/70 della Commissione, del 20 ottobre 1970, che
+    fissa le restituzioni all'esportazione nel settore delle carni bovine per il periodo
+    che inizia il 1 novembre 1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2100/70 van de Commissie van 20 oktober 1970 houdende
+    vaststelling van de restituties bij uitvoer in de sector rundvlees voor het tijdvak
+    beginnende op 1 november 1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2100
+docidentifier:
+- content: EU Regulation 2100/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2100
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2100/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

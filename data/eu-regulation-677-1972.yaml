@@ -1,0 +1,75 @@
+---
+id: EURegulation6771972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 677/72 de la Commission, du 30 mars 1972, relatif
+    à la perception d'une taxe à l'exportation de certaines marchandises relevant
+    du règlement (CEE) n° 1059/69 au titre du lait écrémé en poudre qu'elles
+    contiennent
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 677/72 der Kommission vom 30. März 1972 zur Erhebung
+    einer Ausfuhrabgabe für bestimmte Waren, die unter die Verordnung (EWG) Nr. 1059/69
+    auf Grund ihres Gehalts an Magermilchpulver fallen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 677/72 della Commissione, del 30 marzo 1972, relativo
+    alla riscossione di una tassa all'esportazione di taluni prodotti contemplati
+    dal regolamento (CEE) n. 1059/69 per il latte scremato in polvere in essi contenuto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 677/72 van de Commissie van 30 maart 1972 betreffende
+    de toepassing van een heffing bij uitvoer van bepaalde goederen, vallend onder
+    Verordening (EEG) nr. 1059/69 ter zake van het magere-melkpoeder dat zij bevatten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0677
+docidentifier:
+- content: EU Regulation 677/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0677
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/677/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-30'
+- type: implemented
+  at: '1972-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

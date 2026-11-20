@@ -1,0 +1,78 @@
+---
+id: EURegulation26561972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2656/72 du Conseil, du 6 décembre 1972, concernant
+    l'application de la décision n° 43/72 du Conseil d'association prévu par la
+    convention d'association entre la Communauté européenne et les États africains
+    et malgache associés à cette Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2656/72 des Rates vom 6. Dezember 1972 betreffend
+    die Durchführung des Beschlusses Nr. 43/72 des Assoziationsrats, der im Assoziierungsabkommen
+    zwischen der Europäischen Wirtschaftsgemeinschaft und den assoziierten afrikanischen
+    Staaten und Madagaskar vorgesehen ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2656/72 del Consiglio, del 6 dicembre 1972, riguardante
+    l'applicazione della decisione n. 43/72 del Consiglio di associazione previsto
+    dalla convenzione di associazione tra la Comunità economica europea e gli Stati
+    africani e malgascio associati e tale Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2656/72 van de Raad van 6 december 1972 betreffende
+    de toepassing van besluit nr. 43/72 van de Associatieraad ingesteld bij de Associatieovereenkomst
+    tussen de Europese Economische Gemeenschap en de met deze Gemeenschap geassocieerde
+    Afrikaanse staten en Madagaskar
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2656
+docidentifier:
+- content: EU Regulation 2656/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2656
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2656/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-06'
+- type: implemented
+  at: '1972-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

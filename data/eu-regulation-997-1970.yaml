@@ -1,0 +1,68 @@
+---
+id: EURegulation9971970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 997/70 de la Commission, du 28 mai 1970, fixant les
+    prélèvements applicables à l'importation des produits transformés à base
+    de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 997/70 der Kommission vom 28. Mai 1970 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Getreide- und Reisverarbeitungserzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 997/70 della Commissione, del 28 maggio 1970, che
+    fissa i prelievi applicabili all'importazione dei prodotti trasformati a base
+    di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 997/70 van de Commissie van 28 mei 1970 houdende
+    vaststelling van de heffingen bij invoer van de op basis van granen en rijst verwerkte
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0997
+docidentifier:
+- content: EU Regulation 997/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0997
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/997/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

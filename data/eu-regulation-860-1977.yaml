@@ -1,0 +1,95 @@
+---
+id: EURegulation8601977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 860/77 of 27 April 1977 temporarily suspending
+    the invitations to tender under Regulation (EEC) No 79/75 on the sale of boned
+    beef held by the intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 860/77 de la Commission, du 27 avril 1977, portant
+    suspension temporaire des adjudications prévues par le règlement (CEE) n° 79/75
+    relatif à la vente de viandes bovines désossées détenues par les organismes
+    d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 860/77 der Kommission vom 27. April 1977 zur vorübergehenden
+    Aussetzung der Ausschreibungen nach Verordnung (EWG) Nr. 79/75 über den Verkauf
+    von entbeintem Rindfleisch aus Beständen der Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 860/77 af 27. april 1977 om midlertidig
+    suspension af de licitationer, der er fastsat i forordning (EØF) nr. 79/75 om
+    salg af udbenet oksekød, som interventionsorganerne ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 860/77 della Commissione, del 27 aprile 1977, recante
+    sospensione temporanea delle gare previste dal regolamento (CEE) n. 79/75, relativo
+    alla vendita di carni bovine disossate detenute dagli organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 860/77 van de Commissie van 27 april 1977 houdende
+    tijdelijke schorsing van de openbare inschrijvingen als bedoeld in Verordening
+    (EEG) nr. 79/75 betreffende de verkoop van rundvlees zonder been uit interventievoorraden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0860
+docidentifier:
+- content: EU Regulation 860/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0860
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/860/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-04-27'
+- type: implemented
+  at: '1977-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0079
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

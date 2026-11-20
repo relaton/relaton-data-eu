@@ -1,0 +1,134 @@
+---
+id: EURegulation14331992
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1433/92 of 1 June 1992 amending, with regard
+    to the Republic of Bosnia-Herzegovina and Montenegro, Regulations (EEC) No 3587/91,
+    (EEC) No 545/92, (EEC) No 546/92 and (EEC) No 547/92
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1433/92 du Conseil, du 1er juin 1992, modifiant les
+    règlements (CEE) n° 3587/91, (CEE) n 546/92 et (CEE) n° 547/92 en ce qui concerne
+    les Républiques de Bosnie-Herzégovine et du Monténégro
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1433/92 des Rates vom 1. Juni 1992 zur Änderung der
+    Verordnungen (EWG) Nr. 3587/91, (EWG) Nr. 545/92, (EWG) Nr. 546/92 und (EWG) Nr.
+    547/92 hinsichtlich der Republiken Bosnien-Herzegowina und Montenegro
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1433/92 af 1. juni 1992 om ændring af forordning
+    (EØF) nr. 3587/91, (EØF) nr. 545/92, (EØF) nr. 546/92 og (EØF) nr. 547/92,
+    for så vidt angår Bosnien-Hercegovina og Montenegro
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1433/92 του Συμβουλίου
+    της 1ης Ιουνίου 1992 για την τροποποίηση των κανονισμών
+    (ΕΟΚ) αριθ. 3587/91, (ΕΟΚ) αριθ. 545/92, (ΕΟΚ) αριθ. 546/92
+    και (ΕΟΚ) αριθ. 547/92 όσον αφορά τις Δημοκρατίες
+    της Βοσνίας-Ερζεγοβίνης και του Μαυροβουνίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1433/92 del Consiglio, del 1° giugno 1992, recante
+    modifica, per quanto riguarda le Repubbliche di Bosnia-Erzegovina e di Montenegro,
+    dei regolamenti (CEE) n. 3587/91, (CEE) n. 545/92, (CEE) n. 546/92 e (CEE) n.
+    547/92
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1433/92 van de Raad van 1 juni 1992 tot wijziging
+    van de Verordening (EEG) nr. 3587/91, (EEG) nr. 545/92, (EEG) nr. 546/92 en (EEG)
+    nr. 547/92 met betrekking tot de Republieken Bosnië-Herzegovina en Montenegro
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n° 1433/92 do Conselho, de 1 de Julho de 1992, que altera
+    os Regulamentos (CEE) n° 3587/91, (CEE) n° 545/92, (CEE) n° 546/92 e (CEE)
+    n° 547/92 no que respeita às Repúblicas da Bósnia-Herzegovina e do Montenegro
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1433/92 del Consejo, de 1 de junio de 1992, por el
+    que se modifican los Reglamentos (CEE) nos 3587/91, 542/92, 546/92 y 547/92 en
+    lo que se refiere a las Repúblicas de Bosnia-Herzegovina y de Montenegro
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992R1433
+docidentifier:
+- content: EU Regulation 1433/1992
+  type: EU
+  primary: true
+- content: CELEX 31992R1433
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1992/1433/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-06-01'
+- type: implemented
+  at: '1992-06-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31991R3587
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31992R0545
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31992R0546
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31992R0547
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

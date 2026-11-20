@@ -1,0 +1,73 @@
+---
+id: EURegulation2451967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 245/67/CEE de la Commission, du 30 juin 1967, fixant les prélèvements
+    applicables lors de l'importation dans un État membre, en provenance des pays
+    tiers, des produits transformés à base de fruits et légumes avec addition de
+    sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 245/67/EWG der Kommission vom 30. Juni 1967 über die Festsetzung
+    von Abschöpfungen, anwendbar für Zucker bei der Einfuhr in einen Mitgliedstaat
+    von Verarbeitungserzeugnissen aus Obst und Gemüse mit Zusatz von Zucker aus dritten
+    Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 245/67/CEE della Commissione, del 30 giugno 1967, che fissa
+    i prelievi applicabili all'importazione, in uno Stato membro e in provenienza
+    dai paesi terzi, dei prodotti trasformati a base di ortofrutticoli con aggiunta
+    di zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 245/67/EEG van de Commissie van 30 juni 1967 betreffende
+    de vaststelling van de heffingen, die worden toegepast bij invoer uit derde landen
+    in een Lid-Staat van verwerkte produkten op basis van groenten en fruit met toegevoegde
+    suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0245
+docidentifier:
+- content: EU Regulation 245/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0245
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/245/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,93 @@
+---
+id: EURegulation10251970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1025/70 of the Council of 25 May 1970 establishing
+    common rules for imports from third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1025/70 du Conseil, du 25 mai 1970, portant établissement
+    d' un régime commun applicable aux importations de pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1025/70 des Rates vom 25. Mai 1970 zur Festlegung
+    einer gemeinsamen Regelung für die Einfuhr aus dritten Ländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr 1025/70 af 25. maj 1970 om fastlæggelse af
+    en fælles ordning for indførsel fra tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1025/70 del Consiglio, del 25 maggio 1970, che istituisce
+    un regime comune applicabile alle importazioni da paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1025/70 van de Raad van 25 mei 1970 houdende de totstandbrenging
+    van een gemeenschappelijke regeling voor de invoer uit derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1025
+docidentifier:
+- content: EU Regulation 1025/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1025
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1025/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-25'
+- type: implemented
+  at: '1970-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R2041
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R2045
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,92 @@
+---
+id: EURegulation9621979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 962/79 of 16 May 1979 amending for the third
+    time Regulation (EEC) No 68/79 fixing countervailing charges on seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 962/79 de la Commission, du 16 mai 1979, portant troisième
+    modification du règlement (CEE) n° 68/79 fixant les taxes compensatoires dans
+    le secteur des semences
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 962/79 der Kommission vom 16. Mai 1979 zur dritten
+    Änderung der Verordnung (EWG) Nr. 68/79 zur Festsetzung der Ausgleichsabgaben
+    für Saatgut
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 962/79 af 16. maj 1979 om tredje ændring
+    af forordning (EØF) nr. 68/79 om fastsættelse af udligningsafgifterne for frø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 962/79 della Commissione, del 16 maggio 1979, recante
+    terza modifica del regolamento (CEE) n. 68/79 che fissa le tasse di compensazione
+    nel settore delle sementi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 962/79 van de Commissie van 16 mei 1979 houdende
+    derde wijziging van Verordening (EEG) nr. 68/79 tot vaststelling van de compenserende
+    heffingen in de sector zaaizaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0962
+docidentifier:
+- content: EU Regulation 962/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0962
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/962/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-05-16'
+- type: implemented
+  at: '1979-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0068
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

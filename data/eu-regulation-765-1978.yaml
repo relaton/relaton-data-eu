@@ -1,0 +1,92 @@
+---
+id: EURegulation7651978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 765/78 of 14 April 1978 discontinuing the
+    protective measures applicable to the import of onions originating in Poland
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 765/78 de la Commission, du 14 avril 1978, supprimant
+    les mesures de sauvegarde applicables à l'importation d'oignons originaires de
+    Pologne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 765/78 der Kommission vom 14. April 1978 zur Aufhebung
+    der Schutzmaßnahmen bei der Einfuhr von Zwiebeln mit Ursprung in Polen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 765/78 af 14. april 1978 om ophævelse
+    af beskyttelsesforanstaltningerne vedrørende import af løg med oprindelse i
+    Polen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 765/78 della Commissione, del 14 aprile 1978, che
+    sopprime le misure di salvaguardia applicabili all'importazione di cipolle originarie
+    della Polonia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 765/78 van de Commissie van 14 april 1978 tot afschaffing
+    van de vrijwaringsmaatregelen ten aanzien van de invoer van uien van oorsprong
+    uit Polen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0765
+docidentifier:
+- content: EU Regulation 765/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0765
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/765/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-04-14'
+- type: implemented
+  at: '1978-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2869
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

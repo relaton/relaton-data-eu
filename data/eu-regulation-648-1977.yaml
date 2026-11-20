@@ -1,0 +1,98 @@
+---
+id: EURegulation6481977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 648/77 of 29 March 1977 extending the 1976/77
+    milk year and amending Regulations (EEC) No 1961/75 and (EEC) No 3066/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 648/77 du Conseil, du 29 mars 1977, portant prolongation
+    de la campagne laitière 1976/1977 et modifiant les règlements (CEE) n° 1961/75
+    et 3066/75
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 648/77 des Rates vom 29. März 1977 zur Verlängerung
+    des Milchwirtschaftsjahres 1976/1977 und zur Änderung der Verordnungen (EWG)
+    Nr. 1961/75 und (EWG) Nr. 3066/75
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 648/77 af 29. marts 1977 om forlængelse
+    af mejeriåret 1976/1977 og om ændring af forordning (EØF) 1961/75 og (EØF)
+    nr. 3066/75
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 648/77 del Consiglio, del 29 marzo 1977, che proroga
+    la campagna lattiera 1976/1977 e che modifica i regolamenti (CEE) n. 1961/75 e
+    (CEE) n. 3066/75
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 648/77 van de Raad van 29 maart 1977 houdende verlenging
+    van het melkprijsjaar 1976/1977 en tot wijziging van de Verordeningen (EEG) nr.
+    1961/75 en (EEG) nr. 3066/75
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0648
+docidentifier:
+- content: EU Regulation 648/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0648
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/648/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-29'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1961
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3066
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

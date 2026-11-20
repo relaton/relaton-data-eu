@@ -1,0 +1,85 @@
+---
+id: EURegulation31964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 3/64/CEE du Conseil, du 18 décembre 1963, portant établissement
+    des annexes du règlement n° 36/63/CEE du Conseil concernant la sécurité sociale
+    des travailleurs frontaliers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 3/64/EWG des Rats vom 18. Dezember 1963 zur Festlegung der
+    Anhänge der Verordnung Nr. 36/63/EWG des Rats über die Soziale Sicherheit der
+    Grenzgänger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 3/64/CEE del Consiglio del 18 dicembre 1963 che stabilisce
+    gli allegati al regolamento n. 36/63/CEE del Consiglio relativo alla sicurezza
+    sociale dei lavoratori frontalieri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 3/64/EEG van de Raad van 18 december 1963 houdende vaststelling
+    van de bijlagen van Verordening Nr. 36/63/EEG van de Raad inzake de sociale zekerheid
+    van grensarbeiders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0003
+docidentifier:
+- content: EU Regulation 3/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0003
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/3/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-18'
+- type: implemented
+  at: '1964-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0010(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0036
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

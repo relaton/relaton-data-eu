@@ -1,0 +1,85 @@
+---
+id: EURegulation521963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 52/63/CEE du Conseil du 21 juin 1963 relatif au son, prévoyant
+    le maintien des dispositions du règlement n° 5/63/CEE du Conseil et portant
+    amendement de l'article 11 du règlement n° 55 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 52/63/EWG des Rats vom 21. Juni 1963 über Kleie, zur Beibehaltung
+    der Verordnung Nr. 5/63/EWG des Rats und zur Änderung des Artikels 11 der Verordnung
+    Nr. 55 des Rats
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 52/63/CEE del Consiglio del 21 giugno 1963 relativo alla
+    crusca per il mantenimento delle disposizioni del regolamento n. 5/63/CEE del
+    Consiglio per la modifica dell'articolo 11 del regolamento n. 55
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 52/63/EEG van de Raad van 21 juni 1963, zemelen betreffend,
+    tot handhaving van de bepalingen van Verordening Nr. 5/63/EEG van de Raad en tot
+    wijziging van artikel 11 van Verordening Nr. 55
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0052
+docidentifier:
+- content: EU Regulation 52/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0052
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/52/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-06-21'
+- type: implemented
+  at: '1963-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0055
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0005
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

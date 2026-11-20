@@ -1,0 +1,102 @@
+---
+id: EURegulation10531977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1053/77 of 17 May 1977 amending Regulation
+    (EEC) No 878/77 as regards the exchange rates applicable in respect of tomato
+    concentrates
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1053/77 du Conseil, du 17 mai 1977, modifiant le règlement
+    (CEE) n° 878/77 en ce qui concerne les taux de change applicables pour les concentrés
+    de tomates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1053/77 des Rates vom 17. Mai 1977 zur Änderung der
+    Verordnung (EWG) Nr. 878/77 hinsichtlich der auf Tomatenkonzentrat anwendbaren
+    Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1053/77 af 17. maj 1977 om ændring af forordning
+    (EØF) nr. 878/77 for så vidt angår de vekselkurser, der anvendes for tomatkoncentrater
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1053/77 τού Συμβουλίου
+    τής 17ης Μαΐου 1977 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 878/77 ως πρός τίς τιμές συναλλάγματος
+    πού πρέπει νά εφαρμόζονται γιά τούς τοματοπολτούς
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1053/77 del Consiglio, del 17 maggio 1977, che modifica,
+    per quanto riguarda i tassi di cambio da applicare per i concentrati di pomodoro,
+    il regolamento (CEE) n. 878/77
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1053/77 van de Raad van 17 mei 1977 tot wijziging
+    van Verordening (EEG) nr. 878/77 wat de voor tomatenpasta toe te passen wisselkoersen
+    betreft
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1053
+docidentifier:
+- content: EU Regulation 1053/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1053
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1053/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-05-17'
+- type: implemented
+  at: '1977-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

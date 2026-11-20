@@ -1,0 +1,69 @@
+---
+id: EURegulation1021966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 102/66/CEE de la Commission, du 22 juillet 1966, portant fixation
+    d'un coefficient d'adaptation à appliquer au cours des tomates de catégorie
+    II, en vue du calcul du prix d'entrée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 102/66/EWG der Kommission vom 22. Juli 1966 über die Festsetzung
+    eines Berichtigungskoeffizienten, der bei der Berechnung des Einfuhrpreises auf
+    die Notierungen von Tomaten der Güteklasse II anzuwenden ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 102/66/CEE della Commissione, del 22 luglio 1966, che fissa
+    un coefficiente di adattamento da applicare ai corsi dei pomodori di categoria
+    II, per il calcolo del prezzo d'entrata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 102/66/EEG van de Commissie van 22 juli 1966 houdende vaststelling
+    van een aanpassingscoëfficiënt die op de prijzen van tomaten van kwaliteitsklasse
+    II moet worden toegepast met het oog op de berekening van de invoerprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0102
+docidentifier:
+- content: EU Regulation 102/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0102
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/102/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

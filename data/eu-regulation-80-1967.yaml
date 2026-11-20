@@ -1,0 +1,84 @@
+---
+id: EURegulation801967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 80/67/CEE du Conseil du 18 avril 1967, modifiant la liste
+    des marchandises auxquelles s'applique le règlement n° 160/66/CEE du Conseil
+    portant instauration d'un régime d'échanges pour certaines marchandises résultant
+    de la transformation de produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 80/67/EWG des Rates vom 18. April 1967 zur Änderung der
+    Liste der Waren, auf die die Verordnung Nr. 160/66/EWG des Rates über die Einführung
+    einer Handelsregelung für bestimmte landwirtschaftliche Verarbeitungserzeugnisse
+    Anwendung findet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 80/67/CEE del Consiglio, del 18 aprile 1967, che modifica
+    l'elenco delle merci cui si applica il regolamento n. 160/66/CEE del Consiglio
+    relativo all'instaurazione di un regime di scambi per talune merci risultanti
+    dalla trasformazione di prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 80/67/EEG van de Raad van 18 april 1967 houdende wijziging
+    van de lijst van goederen waarop Verordening Nr. 160/66/EEG van de Raad tot invoering
+    van een handelsregeling voor bepaalde goederen, verkregen door verwerking van
+    landbouwprodukten, van toepassing is
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0080
+docidentifier:
+- content: EU Regulation 80/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0080
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/80/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-04-18'
+- type: implemented
+  at: '1967-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0160
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

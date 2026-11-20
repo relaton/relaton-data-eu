@@ -1,0 +1,103 @@
+---
+id: EURegulation16381977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1638/77 of 18 July 1977 amending Regulation
+    (EEC) No 823/68 as regards the conditions for the entry of certain cheeses under
+    certain tariff headings
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1638/77 du Conseil, du 18 juillet 1977, modifiant
+    le règlement (CEE) n° 823/68 en ce qui concerne les conditions d' admission
+    de certains fromages dans certaines positions tarifaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1638/77 des Rates vom 18. Juli 1977 zur Änderung
+    der Verordnung (EWG) Nr. 823/68 hinsichtlich der Voraussetzungen für die Zulassung
+    einiger Käsesorten zu bestimmten Zolltarifstellen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1638/77 af 18. juli 1977 om ændring af forordning
+    (EØF) nr. 823/68 med hensyn til henførelse af visse oste under bestemte toldpositioner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1638/77 τού Συμβουλίου
+    τής 18ης Ιουλίου 1977 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 823/68 ως πρός τίς προϋποθέσεις αποδοχής
+    ορισμένων τυρών μέσα σέ ορισμένες δασμολογικές
+    κλάσεις
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1638/77 del Consiglio, del 18 luglio 1977, che modifica
+    il regolamento (CEE) n. 823/68 per quanto riguarda le condizioni di ammissione
+    di alcuni formaggi in talune voci tariffarie
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1638/77 van de Raad van 18 juli 1977 houdende wijziging
+    van Verordening (EEG) nr. 823/68 met betrekking tot de toelatingsvoorwaarden van
+    sommige kaassoorten in bepaalde tariefposten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1638
+docidentifier:
+- content: EU Regulation 1638/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1638
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1638/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-07-18'
+- type: implemented
+  at: '1977-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0823
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

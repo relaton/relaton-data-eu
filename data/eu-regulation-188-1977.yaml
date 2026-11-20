@@ -1,0 +1,100 @@
+---
+id: EURegulation1881977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 188/77 of 28 January 1977 laying down certain
+    rules for the application of the system of minimum prices for tomato concentrates
+    and amending Regulation (EEC) No 2055/75 fixing the coefficients to be applied
+    to those minimum prices
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 188/77 de la Commission, du 28 janvier 1977, portant
+    certaines modalités d' application du régime des prix minimaux pour les concentrés
+    de tomates et modifiant le règlement (CEE) n° 2055/75 fixant les coefficients
+    à appliquer à ces prix minimaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 188/77 der Kommission vom 28. Januar 1977 über einige
+    Durchführungsbestimmungen des Mindestpreissystems für Tomatenmark und zur Änderung
+    der Verordnung (EWG) Nr. 2055/75 zur Festsetzung der Koeffizienten, die auf diese
+    Mindestpreise anzuwenden sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 188/77 af 28. januar 1977 om gennemførelsesbestemmelser
+    for mindsteprissystemet for tomatkoncentrater og om ændring af forordning (EØF)
+    nr. 2055/75 om fastsættelse af de koefficienter, der skal anvendes på disse
+    mindstepriser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 188/77 della Commissione, del 28 gennaio 1977, che
+    reca talune modalità d' applicazione del regime dei prezzi minimi per i concentrati
+    di pomodoro e modifica il regolamento (CEE) n. 2055/75 che fissa i coefficienti
+    da applicare a questi prezzi minimi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 188/77 van de Commissie van 28 januari 1977 houdende
+    omschrijving van zekere toepassingsmodaliteiten van het regime der minimumprijzen
+    voor tomatenpuree en tot wijziging van Verordening (EEG) nr. 2055/75 houdende
+    vaststelling van de op deze minimumprijzen toe te passen coëfficiënten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0188
+docidentifier:
+- content: EU Regulation 188/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0188
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/188/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-01-28'
+- type: implemented
+  at: '1977-02-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2055
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EUDecision1967465
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 30 juin 1967, portant prorogation de la
+    durée de validité et augmentation du volume du contingent tarifaire que le Royaume
+    des Pays- Bas a été autorisé à ouvrir pour le plomb
+  type: main
+- language: de
+  script: Latn
+  content: '67/465/EWG: Entscheidung der Kommission vom 30. Juni 1967 zur Verlängerung
+    der Geltungsdauer und Erhöhung der Kontingentsmenge des dem Königreich der Niederlande
+    gewährten Zollkontingents für Rohblei'
+  type: main
+- language: it
+  script: Latn
+  content: '67/465/CEE: Decisione della Commissione, del 30 giugno 1967, che proroga
+    la validità ed aumenta il volume del contingente tariffario che il Regno dei
+    Paesi Bassi è stato autorizzato ad aprire per il piombo greggio'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/465/EEG: Beschikking van de Commissie van 30 juni 1967 houdende verlenging
+    van de periode van geldigheid, alsmede vergroting van het tariefcontingent dat
+    het Koninkrijk der Nederlanden gemachtigd is in te stellen voor ruw lood'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0465
+docidentifier:
+- content: EU Decision 1967/465
+  type: EU
+  primary: true
+- content: CELEX 31967D0465
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/465/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967D0049
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

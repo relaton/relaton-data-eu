@@ -1,0 +1,65 @@
+---
+id: EURegulation5701967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 570/67/CEE de la Commission, du 14 septembre 1967, modifiant
+    les prélèvements applicables au riz et aux brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 570/67/EWG der Kommission vom 14. September 1967 zur Änderung
+    der bei Reis und Bruchreis anzuwendenden Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 570/67/CEE della Commissione, del 14 settembre 1967, che
+    modifica i prelievi applicabili al riso e alle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 570/67/EEG van de Commissie van 14 september 1967 tot wijziging
+    van de heffingen die van toepassing zijn op rijst en op breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0570
+docidentifier:
+- content: EU Regulation 570/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0570
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/570/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

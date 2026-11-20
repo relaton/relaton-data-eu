@@ -1,0 +1,69 @@
+---
+id: EURegulation451967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 45/67/CEE de la Commission, du 3 mars 1967, modifiant le règlement
+    n 157/64/CEE en ce qui concerne les produits relevant de la position 17.02 A du
+    tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 45/67/EWG der Kommission vom 3. März 1967 zur Änderung
+    der Verordnung Nr. 157/64/EWG hinsichtlich der unter die Tarifnummer 17.02 A des
+    Gemeinsamen Zolltarifs fallenden Erzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 45/67/CEE della Commissione, del 3 marzo 1967, che modifica
+    il regolamento n. 157/64/CEE per quanto riguarda i prodotti della voce 17.02 A
+    della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 45/67/EEG van de Commissie van 3 maart 1967 houdende wijziging
+    van Verordening no. 157/64/EEG ten aanzien van de produkten die vallen onder post
+    no. 17.02 A van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0045
+docidentifier:
+- content: EU Regulation 45/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0045
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/45/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

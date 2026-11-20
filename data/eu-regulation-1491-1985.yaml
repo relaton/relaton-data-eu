@@ -1,0 +1,108 @@
+---
+id: EURegulation14911985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1491/85 of 23 May 1985 laying down special
+    measures in respect of soya beans
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1491/85 du Conseil du 23 mai 1985 prévoyant des mesures
+    spéciales pour les graines de soja
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1491/85 des Rates vom 23. Mai 1985 über Sondermaßnahmen
+    für Sojabohnen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1491/85 af 23. maj 1985 om fastsættelse
+    af særlige foranstaltninger for sojabønner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1491/85 του Συμβουλίου
+    της 23ης Μαΐου 1985 για την πρόβλεψη ειδικών μέτρων
+    για τους σπόρους σόγιας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1491/85 del Consiglio del 23 maggio 1985 recante misure
+    speciali per i semi di soia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1491/85 van de Raad van 23 mei 1985 tot vaststelling
+    van bijzondere maatregelen voor sojabonen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1491/85 do Conselho, de 23 de Maio de 1985, que
+    prevê medidas especiais para os grãos de soja
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1491/85 del Consejo, de 23 de mayo de 1985, por el
+    que se prevén medidas especiales para las semillas de soja
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R1491
+docidentifier:
+- content: EU Regulation 1491/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R1491
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/1491/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-05-23'
+- type: implemented
+  at: '1985-06-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1614
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

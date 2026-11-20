@@ -1,0 +1,89 @@
+---
+id: EURegulation3441970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 344/70 of the Commission of 25 February 1970 extending
+    the provisions of Regulation (EEC) No 193/70 to other varieties of oranges
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 344/70 de la Commission, du 25 février 1970, étendant
+    les dispositions du règlement (CEE) n° 193/70, à d' autres variétés d' oranges
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 344/70 der Kommission vom 25. Februar 1970 zur Ausdehnung
+    der Verordnung (EWG) Nr. 193/70 auf andere Apfelsinensorten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 344/70 af 25. februar 1970 om udvidelse
+    af bestemmelserne i forordning (EØF) nr. 193/70 til andre appelsinsorter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 344/70 della Commissione, del 25 febbraio 1970, che
+    estende le disposizioni del regolamento (CEE) n. 193/70 ad altre varietà di arance
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 344/70 van de Commissie van 25 februari 1970 houdende
+    uitbreiding van het bepaalde in Verordening (EEG) nr. 193/70 tot andere variëteiten
+    sinaasappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0344
+docidentifier:
+- content: EU Regulation 344/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0344
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/344/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-25'
+- type: implemented
+  at: '1970-02-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0193
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

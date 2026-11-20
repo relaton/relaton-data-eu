@@ -1,0 +1,70 @@
+---
+id: EURegulation1531967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 153/67/CEE de la Commission, du 23 juin 1967, fixant la
+    liste des marchés représentatifs à la production pour les citrons
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 153/67/EWG der Kommission vom 23. Juni 1967 zur Festsetzung
+    der Liste der repräsentativen Erzeugermärkte für Zitronen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 153/67/CEE della Commissione, del 23 giugno 1967, che fissa
+    l'elenco dei mercati rappresentativi alla produzione per i limoni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 153/67/EEG van de Commissie van 23 juni 1967 houdende vaststelling
+    van de lijst van representatieve produktiemarkten voor citroenen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0153
+docidentifier:
+- content: EU Regulation 153/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0153
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/153/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-23'
+- type: implemented
+  at: '1967-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

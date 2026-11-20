@@ -1,0 +1,88 @@
+---
+id: EURegulation17031978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1703/78 of 19 July 1978 repealing the suspension
+    of the importation of frozen squid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1703/78 de la Commission, du 19 juillet 1978, abrogeant
+    la suspension des importations de calmars congelés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1703/78 der Kommission vom 19. Juli 1978 zur Aufhebung
+    der Aussetzung der Einfuhren von gefrorenen Kalmaren
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1703/78 af 19. juli 1978 om ophævelse
+    af suspensionen af indførselen af frosne tiarmede blæksprutter af arten Kalmar
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1703/78 della Commissione, del 19 luglio 1978, che
+    abroga la sospensione delle importazioni di calamari congelati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1703/78 van de Commissie van 19 juli 1978 tot opheffing
+    van de schorsing van de invoer van bevroren pijlinktvis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1703
+docidentifier:
+- content: EU Regulation 1703/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1703
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1703/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-07-19'
+- type: implemented
+  at: '1978-07-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2685
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

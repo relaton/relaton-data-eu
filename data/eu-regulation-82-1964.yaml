@@ -1,0 +1,93 @@
+---
+id: EURegulation821964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 82/64/CEE du Conseil, du 30 juin 1964, modifiant la date
+    de mise en application de certains actes relatifs à la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 82/64/EWG des Rates vom 30. Juni 1964 zur Änderung des
+    Zeitpunkts der Anwendung gewisser Akte bezüglich der gemeinsamen Agrarpolitik
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 82/64/CEE del Consiglio, del 30 giugno 1964, che modifica
+    la data d'entrata in applicazione di taluni atti relativi alla politica agricola
+    comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 82/64/EEG van de Raad van 30 juni 1964 tot wijziging van
+    de datum waarop enkele besluiten betreffende het gemeenschappelijk landbouwbeleid
+    van toepassing worden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0082
+docidentifier:
+- content: EU Regulation 82/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0082
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/82/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-30'
+- type: implemented
+  at: '1964-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0013
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0014
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0016
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0019
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

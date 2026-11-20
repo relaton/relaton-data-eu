@@ -1,0 +1,94 @@
+---
+id: EURegulation7121974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 712/74 of the Commission of 29 March 1974 setting out
+    the methods of application of the corrective amount for skimmed-milk powder during
+    the 1974/75 dairy year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 712/74 de la Commission, du 29 février 1974, portant
+    modalités d'application du montant correcteur appliqué au lait écrémé en
+    poudre pendant la campagne 1974/1975
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 712/74 der Kommission vom 29. März 1974 über die
+    Durchführungsbestimmungen bei der Anwendung des Berichtigungsbetrags für Magermilchpulver
+    im Milchwirtschaftsjahr 1974/1975
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 712/74 af 29. marts 1974 om regler
+    for anvendelsen af korrektionsbeløbet for skummetmælkspulver for mejeriåret
+    1974/1975
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 712/74 della Commissione, del 29 marzo 1974, recante
+    modalità d'applicazione dell'importo correttore applicato al latte scremato in
+    polvere, durante la campagna lattiera 1974/1975
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 712/74 van de Commissie van 29 maart 1974 houdende
+    toepassingsmodaliteiten voor het correctiebedrag toegepast op magere-melkpoeder
+    gedurende het melkprijsjaar 1974/1975
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0712
+docidentifier:
+- content: EU Regulation 712/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0712
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/712/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-29'
+- type: implemented
+  at: '1974-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1267
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

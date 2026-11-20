@@ -1,0 +1,113 @@
+---
+id: EURegulation35201982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3520/82 of 20 December 1982 amending Regulations
+    (EEC) No 368/77 and (EEC) No 443/77 on the sale of skimmed-milk powder from public
+    stocks for use in feed for pigs and poultry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3520/82 de la Commission, du 20 décembre 1982, modifiant
+    les règlements (CEE) n° 368/77 et (CEE) n° 443/77 relatifs à la vente de lait
+    écrémé en poudre de stock public destiné à l' alimentation des porcs et des
+    volaillesn
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3520/82 der Kommission vom 20. Dezember 1982 zur Änderung
+    der Verordnungen (EWG) Nr. 368/77 und (EWG) Nr. 443/77 über den Verkauf von Magermilchpulver
+    aus öffentlicher Lagerhaltung für Schweine und Geflügel(
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3520/82 af 20. december 1982 om ændring
+    af forordning (EØF) nr. 368/77 og (EØF) nr. 443/77 om salg fra offentlige lagre
+    af skummetmælkspulver til svine- og fjerkræfoder7
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3520/82 τής Επιτροπής
+    τής 20ής Δεκεμβρίου 1982 περί τροποποιήσεως τών
+    κανονισμών (EOK) αριθ. 368/77 καί (EOK) αριθ. 443/77 όσον
+    αφορά τήν πώληση αποκορυφωμένου γάλκτος σέ
+    σκόνη, δημοσίας αποθεματοποιήσεως, πού προορίζεται
+    γιά τή διατροφή τών χοίρων καί τών πουλερικών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3520/82 della Commissione, del 20 dicembre 1982, che
+    modifica i regolamenti (CEE) n. 368/77 e (CEE) n. 443/77, relativi alla vendita
+    di latte scremato in polvere d' ammasso pubblico destinato all' alimentazione
+    dei suini e del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3520/82 van de Commissie van 20 december 1982 tot
+    wijziging van de Verordeningen (EEG) nr. 368/77 en (EEG) nr. 443/77 met betrekking
+    tot de verkoop van magere-melkpoeder uit openbare opslag bestemd voor voeder voor
+    varkens en pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R3520
+docidentifier:
+- content: EU Regulation 3520/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R3520
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/3520/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-12-20'
+- type: implemented
+  at: '1983-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0368
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0443
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

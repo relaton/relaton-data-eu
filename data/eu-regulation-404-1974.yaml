@@ -1,0 +1,95 @@
+---
+id: EURegulation4041974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 404/74 of the Commission of 15 February 1974 making
+    derogation from Regulation (EEC) No 1896/73 as regards the application of intervention
+    measures in respect of certain qualities of beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 404/74 de la Commission, du 15 février 1974, dérogeant
+    au règlement (CEE) n° 1896/73 en ce qui concerne l'application des mesures d'intervention
+    pour certaines qualités de bovins dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 404/74 der Kommission vom 15. Februar 1974 zur Abweichung
+    von der Verordnung (EWG) Nr. 1896/73 bezüglich der Anwendung der Interventionsmaßnahmen
+    im Rindfleischsektor auf bestimmte Rinderqualitäten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 404/74 af 15. februar 1974 om undtagelse
+    fra forordning (EØF) nr. 1896/73 for så vidt angår anvendelsen af interventionsforanstaltninger
+    på visse kvægkvaliteter inden for oksekødssektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 404/74 della Commissione, del 15 febbraio 1974, che
+    deroga al regolamento (CEE) n. 1896/73 per quanto riguarda l'applicazione nel
+    settore delle carni bovine, delle misure d'intervento per alcune qualità di bovini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 404/74 van de Commissie van 15 februari 1974 houdende
+    afwijking van Verordening (EEG) nr. 1896/73 ten aanzien van de wijze van toepassing
+    van de interventiemaatregelen op bepaalde kwaliteiten van runderen in de sector
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0404
+docidentifier:
+- content: EU Regulation 404/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0404
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/404/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-02-15'
+- type: implemented
+  at: '1974-02-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0212
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

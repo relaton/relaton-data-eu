@@ -1,0 +1,69 @@
+---
+id: EURegulation1951964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 195/64/CEE de la Commission, du 22 décembre 1964, modifiant
+    le règlement n 156/64/CEE en ce qui concerne la détermination du prix franco
+    frontière intracommunautaire dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 195/64/EWG der Kommission vom 22. Dezember 1964 über die
+    Änderung der Verordnung Nr. 156/64/EWG bezüglich der Festsetzung des innergemeinschaftlichen
+    Frei-Grenze-Preises für Milch und Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 195/64/CEE della Commissione, del 22 dicembre 1964, che
+    modifica il regolamento n. 156/64/CEE relativo alla determinazione dei prezzi
+    franco frontiera intracomunitari nel settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 195/64/EEG van de Commissie van 22 december 1964 ter wijziging
+    van Verordening no. 156/64/EEG betreffende de vaststelling van de intracommunautaire
+    prijs franco-grens in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0195
+docidentifier:
+- content: EU Regulation 195/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0195
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/195/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation8431969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 843/69 de la Commission, du 6 mai 1969, relatif à
+    un avis d'adjudication pour l'écoulement de quartiers arrière congelés de viande
+    bovine détenus par l'organisme d'intervention allemand
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 843/69 der Kommission vom 6. Mai 1969 betreffend eine
+    Ausschreibung für den Absatz von gefrorenen Rinderhintervierteln, die im Besitz
+    der deutschen Interventionsstelle sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 843/69 della Commissione, del 6 maggio 1969, relativo
+    ad un avviso d'asta per lo smaltimento di quarti posteriori congelati di carne
+    bovina in possesso dell'organismo d'intervento tedesco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 843/69 van de Commissie van 6 mei 1969 betreffende
+    een bericht van inschrijving voor de afzet van bevroren rundvlees, achtervoeten,
+    dat in het bezit is van het Duitse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0843
+docidentifier:
+- content: EU Regulation 843/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0843
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/843/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

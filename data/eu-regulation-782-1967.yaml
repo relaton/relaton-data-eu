@@ -1,0 +1,69 @@
+---
+id: EURegulation7821967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 782/67/CEE de la Commission, du 30 octobre 1967, fixant les
+    montants des impositions à l'importation et les prix d'écluse pour l'ovoalbumine
+    et la lactoalbumine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 782/67/EWG der Kommission vom 30. Oktober 1967 über die
+    Festsetzung der Beträge der Abgaben bei der Einfuhr und der Einschleusungspreise
+    für Eieralbumin und Milchalbumin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 782/67/CEE della Commissione, del 30 ottobre 1967, che fissa
+    gli importi delle imposte all'importazione ed i prezzi limite per l'ovoalbumina
+    e la lattoalbumina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 782/67/EEG van de Commissie van 30 oktober 1967 houdende
+    vaststelling van de bedragen der heffingen bij invoer en de sluisprijzen voor
+    ovoalbumine en lactoalbumine
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0782
+docidentifier:
+- content: EU Regulation 782/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0782
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/782/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

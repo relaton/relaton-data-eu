@@ -1,0 +1,94 @@
+---
+id: EURegulation6991973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 699/73 of the Commission of 12 March 1973 amending
+    Commission Regulation (EEC) No 1173/68 on special import terms for certain categories
+    of young bovine animals and calves
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 699/73 de la Commission, du 12 mars 1973, modifiant
+    le règlement (CEE) n° 1173/68 de la Commission relatif au régime spécial à
+    l'importation pour certaines catégories de jeunes bovins et de veaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 699/73 der Kommission vom 12. März 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1173/68 der Kommission über die besondere Einfuhrregelung
+    für bestimmte Kategorien von Jungrindern und Kälbern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 699/73 af 12. marts 1973 om ændring
+    af Kommissionens forordning (EØF) nr. 1173/68 om den særlige importordning for
+    visse kategorier af ungkvæg og kalve
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 699/73 della Commissione, del 12 marzo 1973, che modifica
+    il regolamento (CEE) n. 1173/68 della Commissione, relativo al regime speciale
+    d'importazione per alcune categorie di giovani bovini e vitelli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 699/73 van de Commissie van 12 maart 1973 tot wijziging
+    van Verordening (EEG) nr. 1173/68 van de Commissie betreffende de speciale regeling
+    bij invoer van bepaalde categorieën jonge runderen en kalveren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0699
+docidentifier:
+- content: EU Regulation 699/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0699
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/699/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-12'
+- type: implemented
+  at: '1973-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1173
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

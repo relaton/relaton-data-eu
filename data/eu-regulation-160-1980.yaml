@@ -1,0 +1,124 @@
+---
+id: EURegulation1601980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC, Euratom, ECSC) No 160/80 of 21 January 1980 amending
+    the Staff Regulations of officials and the conditions of employment of other servants
+    of the European Communities
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE, Euratom, CECA) n° 160/80 du Conseil, du 21 janvier 1980,
+    modifiant le statut des fonctionnaires des Communautés européennes ainsi que
+    le régime applicable aux autres agents de ces Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG, Euratom, EGKS) Nr. 160/80 des Rates vom 21. Januar 1980
+    zur Änderung des Statuts der Beamten der Europäischen Gemeinschaften und der
+    Beschäftigungsbedingungen für die sonstigen Bediensteten dieser Gemeinschaften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF, Euratom, EKSF) nr. 160/80 af 21. januar 1980
+    om ændring af vedtægten for tjenestemænd i De europæiske Fællesskaber samt
+    ansættelsesvilkårene for de øvrige ansatte i Fællesskaberne
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ, Ευρατόμ, ΕΚΑΧ) αριθ. 160/80
+    του Συμβουλίου της 21ης Ιανουαρίου 1980 περί τροποποιήσεως
+    του κανονισμού υπηρεσιακής καταστάσεως των
+    υπαλλήλων των Ευρωπαϊκών Κοινοτήτων καθώς
+    και του καθεστώτος του εφαρμοζομένου στο λοιπό
+    προσωπικό των εν λόγω Κοινοτήτων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE, Euratom, CECA) n. 160/80 del Consiglio, del 21 gennaio
+    1980, che modifica lo statuto dei funzionari delle Comunità europee e il regime
+    applicabile agli altri agenti di tali Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG, Euratom, EGKS) nr. 160/80 van de Raad van 21 januari
+    1980 houdende wijziging van het Statuut van de ambtenaren van de Europese Gemeenschappen
+    en de regeling welke van toepassing is op de andere personeelsleden van deze Gemeenschappen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE, Euratom, CECA) nº 160/80 do Conselho, de 21 de Janeiro
+    de 1980, que altera o Estatuto dos Funcionários das Comunidades Europeias, assim
+    como o Regime aplicável aos outros agentes destas Comunidades
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE, Euratom, CECA) nº 160/80 del Consejo, de 21 de enero
+    de 1980, por el que se modifica el Estatuto de los funcionarios de las Comunidades
+    Europeas y el régimen aplicable a los otros agentes de estas Comunidades
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0160
+docidentifier:
+- content: EU Regulation 160/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0160
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/160/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-01-21'
+- type: implemented
+  at: '1979-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(02)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

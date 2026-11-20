@@ -1,0 +1,94 @@
+---
+id: EURegulation5181976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 518/76 of 8 March 1976 concerning the application
+    of the lowest rate of refund on exports of milk products and repealing Regulation
+    (EEC) No 2188/74
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 518/76 de la Commission, du 8 mars 1976, relatif à
+    l'application du taux le plus bas de la restitution à l'exportation de produits
+    laitiers et abrogeant le règlement (CEE) n° 2188/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 518/76 der Kommission vom 8. März 1976 über die
+    Anwendung des niedrigsten Erstattungssatzes bei der Ausfuhr von Milcherzeugnissen
+    und zur Aufhebung der Verordnung (EWG) Nr. 2188/74
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 518/76 af 8. marts 1976 om anvendelse
+    af den laveste restitutionssats ved udførsel af mejeriprodukter og om ophævelse
+    af forordning (EØF) nr. 2188/74
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 518/76 della Commissione, dell'8 marzo 1976, che concerne
+    l'applicazione del tasso più basso della restituzione all'esportazione di prodotti
+    lattiero-caseari ed abroga il regolamento (CEE) n. 2188/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 518/76 van de Commissie van 8 maart 1976 betreffende
+    de toepassing van het laagste restitutiebedrag bij uitvoer van zuivelprodukten
+    en tot intrekking van Verordening (EEG) nr. 2188/74
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0518
+docidentifier:
+- content: EU Regulation 518/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0518
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/518/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-08'
+- type: implemented
+  at: '1976-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2188
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

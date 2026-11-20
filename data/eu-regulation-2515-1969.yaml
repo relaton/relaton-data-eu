@@ -1,0 +1,85 @@
+---
+id: EURegulation25151969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2515/69 du Conseil, du 9 décembre 1969, modifiant
+    le règlement n° 159/66/CEE portant dispositions complémentaires pour l'organisation
+    commune des marchés dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2515/69 des Rates vom 9. Dezember 1969 zur Änderung
+    der Verordnung Nr. 159/66/EWG mit zusätzlichen Vorschriften für die gemeinsame
+    Marktorganisation für Obst und Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2515/69 del Consiglio, del 9 dicembre 1969, che modifica
+    il regolamento n. 159/66/CEE relativo a disposizioni complementari per l'organizzazione
+    comune dei mercati nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2515/69 van de Raad van 9 december 1969 tot wijziging
+    van Verordening nr. 159/66/EEG houdende aanvullende bepalingen inzake de gemeenschappelijke
+    ordening der markten in de sector groenten en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2515
+docidentifier:
+- content: EU Regulation 2515/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2515
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2515/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-09'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0165
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0159
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

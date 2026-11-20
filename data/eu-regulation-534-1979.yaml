@@ -1,0 +1,93 @@
+---
+id: EURegulation5341979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 534/79 of 20 March 1979 amending Regulation
+    (EEC) No 482/79 on the delivery of various consignments of butteroil as food aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 534/79 de la Commission, du 20 mars 1979, modifiant
+    le règlement (CEE) n° 482/79 relatif à la livraison de divers lots de "butter
+    oil" au titre de l' aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 534/79 der Kommission vom 20. März 1979 zur Änderung
+    der Verordnung (EWG) Nr. 482/79 über die Lieferung verschiedener Partien Butteroil
+    im Rahmen der Nahrungsmittelhilfe
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 534/79 af 20. marts 1979 om ændring
+    af forordning (EØF) nr. 482/79 om levering af forskellige partier butteroil som
+    fødevarehjælp
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 534/79 della Commissione, del 20 marzo 1979, che modifica
+    il regolamento (CEE) n. 482/79 relativo alla fornitura di varie partite di butteroil
+    a titolo di aiuto alimentare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 534/79 van de Commissie van 20 maart 1979 houdende
+    wijziging van Verordening (EEG) nr. 482/79 met betrekking tot de levering van
+    verschillende partijen butteroil in het kader van de voedselhulp
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0534
+docidentifier:
+- content: EU Regulation 534/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0534
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/534/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-20'
+- type: implemented
+  at: '1979-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0482
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,80 @@
+---
+id: EURegulation651965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 65/65/CEE du Conseil, du 13 mai 1965, portant modification
+    de l'article 11 paragraphe 2 du règlement n° 23 portant établissement graduel
+    d'une organisation commune des marchés dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 65/65/EWG des Rates vom 13. Mai 1965 zur Änderung von Artikel
+    11 Absatz (2) der Verordnung Nr. 23 über die schrittweise Errichtung einer gemeinsamen
+    Marktorganisation für Obst und Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 65/65/CEE del Consiglio, del 13 maggio 1965, che modifica
+    l'articolo 11, paragrafo 2, del regolamento n. 23 relativo alla graduale attuazione
+    di un'organizzazione comune dei mercati nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 65/65/EEG van de Raad van 13 mei 1965 houdende wijziging
+    van artikel 11, lid 2, van Verordening Nr. 23 houdende de geleidelijke totstandbrenging
+    van een gemeenschappelijke ordening der markten in de sector groenten en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0065
+docidentifier:
+- content: EU Regulation 65/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0065
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/65/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-05-13'
+- type: implemented
+  at: '1965-05-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0023
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

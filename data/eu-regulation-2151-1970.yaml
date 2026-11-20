@@ -1,0 +1,74 @@
+---
+id: EURegulation21511970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2151/70 du Conseil, du 27 octobre 1970, fixant le
+    prix de base et la qualité-type du porc abattu pour la période du 1er novembre
+    1970 au 31 octobre 1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2151/70 des Rates vom 27. Oktober 1970 zur Festsetzung
+    des Grundpreises und der Standardqualität für geschlachtete Schweine für die
+    Zeit vom 1. November 1970 bis zum 31. Oktober 1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2151/70 del Consiglio, del 27 ottobre 1970, che fissa
+    il prezzo di base e la qualità tipo dei suini macellati per il periodo dal 1
+    novembre 1970 al 31 ottobre 1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2151/70 van de Raad van 27 oktober 1970 houdende
+    vaststelling van de basisprijs en de standaardkwaliteit voor geslachte varkens
+    voor het tijdvak van 1 november 1970 tot en met 31 oktober 1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2151
+docidentifier:
+- content: EU Regulation 2151/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2151
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2151/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-27'
+- type: implemented
+  at: '1970-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

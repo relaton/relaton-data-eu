@@ -1,0 +1,85 @@
+---
+id: EURegulationNo20601969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2060/69 de la Commission, du 20 octobre 1969, modifiant
+    le règlement (CEE) n° 1871/69 relatif à une adjudication permanente pour des
+    matières grasses provenant du lait, destinées à la fabrication de mélanges
+    de graisses et détenues par des organismes d'intervention allemand, français
+    et néerlandais
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2060/69 der Kommission vom 20. Oktober 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1871/69 über eine Dauerausschreibung von Milchfetten
+    aus Beständen der deutschen, der französischen und der niederländischen Interventionsstelle
+    zur Herstellung von Fettmischungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2060/69 della Commissione, del 20 ottobre 1969, che
+    modifica il regolamento (CEE) n. 1871/69 relativo ad un'asta permanente per materia
+    grassa proveniente dal latte, destinata alla fabbricazione di miscele di grassi
+    ed appartenente agli organismi d'intervento tedesco, francese ed olandese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2060/69 van de Commissie van 20 oktober 1969 tot
+    wijziging van Verordening (EEG) nr. 1871/69 van de Commissie betreffende de permanente
+    verkoop bij inschrijving van melkvet uit voorraden van het Duitse, het Franse
+    en het Nederlandse interventiebureau voor de vervaardiging van vetmengsels
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2060
+docidentifier:
+- content: EU Regulation No 2060/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2060
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2060/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-20'
+- type: implemented
+  at: '1969-10-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1871
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

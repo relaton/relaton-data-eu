@@ -1,0 +1,70 @@
+---
+id: EURegulation621964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 62/64/CEE du Conseil, du 3 juin 1964, portant définition
+    des principes concernant les interventions sur le marché du beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 62/64/EWG des Rates vom 3. Juni 1964 über die Festlegung
+    der Grundsätze für die Interventionen auf dem Buttermarkt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 62/64/CEE del Consiglio, del 3 giugno 1964, relativo alla
+    definizione dei principi riguardanti gli interventi sul mercato del burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 62/64/EEG van de Raad van 3 juni 1964 houdende omschrijving
+    van de beginselen betreffende de interventies op de marktvan boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0062
+docidentifier:
+- content: EU Regulation 62/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0062
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/62/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-03'
+- type: implemented
+  at: '1964-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

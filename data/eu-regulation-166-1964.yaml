@@ -1,0 +1,76 @@
+---
+id: EURegulation1661964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 166/64/CEE du Conseil du 30 octobre 1964 relatif au régime
+    applicable à certaines catégories d'aliments composés pour animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 166/64/EWG des Rates vom 30. Oktober 1964 über die Regelung
+    für verschiedene Arten von Mischfuttermitteln
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 166/64/CEE del Consiglio, del 30 ottobre 1964, relativo
+    al regime applicabile a talune categorie di alimenti composti per animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 166/64/EEG van de Raad van 30 oktober 1964 betreffende
+    de regeling voor bepaalde soorten mengvoeders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0166
+docidentifier:
+- content: EU Regulation 166/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0166
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/166/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-30'
+- type: implemented
+  at: '1964-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0023
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

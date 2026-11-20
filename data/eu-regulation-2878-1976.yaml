@@ -1,0 +1,94 @@
+---
+id: EURegulation28781976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2878/76 of 23 November 1976 amending Regulation
+    (EEC) No 817/70 laying down special provisions relating to quality wines produced
+    in specified regions
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2878/76 du Conseil, du 23 novembre 1976, modifiant
+    le règlement (CEE) n° 817/70 établissant des dispositions particulières relatives
+    aux vins de qualité produits dans des régions déterminées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2878/76 des Rates vom 23. November 1976 zur Änderung
+    der Verordnung (EWG) Nr. 817/70 zur Festlegung besonderer Vorschriften für Qualitätsweine
+    bestimmter Anbaugebiete
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2878/76 af 23. november 1976 om ændring
+    af forordning (EØF) nr. 817/70 om fastlæggelse af særlige regler for kvalitetsvine
+    fra bestemte dyrkningsområder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2878/76 del Consiglio, del 23 novembre 1976, recante
+    modifica del regolamento (CEE) n. 817/70, che stabilisce disposizioni particolari
+    relative ai vini di qualità prodotti in regioni determinate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2878/76 van de Raad van 23 november 1976 tot wijziging
+    van Verordening (EEG) nr. 817/70 houdende vaststelling van bijzondere bepalingen
+    betreffende in bepaalde gebieden voortgebrachte kwaliteitswijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2878
+docidentifier:
+- content: EU Regulation 2878/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2878
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2878/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-23'
+- type: implemented
+  at: '1976-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0817
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

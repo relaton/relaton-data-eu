@@ -1,0 +1,94 @@
+---
+id: EURegulation11311976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1131/76 of 14 May 1976 amending Regulation
+    (EEC) No 753/76 as regards certain rules for the denaturation of skimmed-milk
+    powder
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1131/76 de la Commission, du 14 mai 1976, modifiant
+    le règlement (CEE) n° 753/76 en ce qui concerne notamment certaines modalités
+    de dénaturation de lait écrémé en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1131/76 der Kommission vom 14. Mai 1976 zur Änderung
+    der Verordnung (EWG) Nr. 753/76, insbesondere hinsichtlich bestimmter Bestimmungen
+    über die Denaturierung von Magermilchpulver
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1131/76 af 14. maj 1976 om ændring
+    af forordning (EØF) nr. 753/76 navnlig for så vidt angår visse betingelser
+    for denaturering af skummetmælkspulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1131/76 della Commissione, del 14 maggio 1976, che
+    modifica il regolamento (CEE) n. 753/76 in particolare per quanto riguarda alcune
+    modalità di denaturazione di latte scremato in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1131/76 van de Commissie van 14 mei 1976 houdende
+    wijziging van Verordening (EEG) nr. 753/76, met name ten aanzien van sommige voorschriften
+    voor de denaturering van magere-melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1131
+docidentifier:
+- content: EU Regulation 1131/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1131
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1131/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-05-14'
+- type: implemented
+  at: '1976-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0753
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

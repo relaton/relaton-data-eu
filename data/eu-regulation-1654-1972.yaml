@@ -1,0 +1,93 @@
+---
+id: EURegulation16541972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1654/72 of the Council laying down general rules applicable
+    in the event of a substantial rise in price of beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1654/72 du Conseil, du 31 juillet 1972, établissant
+    les règles générales applicables en cas de hausse sensible des prix dans le
+    secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1654/72 des Rates vom 31. Juli 1972 über die allgemeinen
+    Regeln, die im Falle einer erheblichen Preiserhöhung für Rindfleisch angewandt
+    werden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1654/56 af 31. juli 1972 om indførelse af
+    almindelige regler, der finder anvendelse i tilfælde af betydelige prisstigninger
+    i oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1654/72 del Consiglio, del 31 luglio 1972, che fissa
+    le norme generali applicabili in caso di notevole aumento dei prezzi nel settore
+    delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1654/72 van de Raad van 31 juli 1972 tot vaststelling
+    van de algemene voorschriften van toepassing in geval van aanmerkelijke prijsstijging
+    in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1654
+docidentifier:
+- content: EU Regulation 1654/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1654
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1654/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-31'
+- type: implemented
+  at: '1972-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1109
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

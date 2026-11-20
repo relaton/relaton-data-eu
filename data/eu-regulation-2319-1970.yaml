@@ -1,0 +1,74 @@
+---
+id: EURegulation23191970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2319/70 de la Commission, du 17 novembre 1970, concernant
+    certains moûts de raisins frais mutés à l'alcool relevant de la sous-position
+    EX 22.05 B du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2319/70 der Kommission vom 17. November 1970 über
+    bestimmte, mit Alkohol stummgemachte Moste aus frischen Trauben der Tarifstelle
+    ex 22.05 B des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2319/70 della Commissione, del 17 novembre 1970, relativo
+    a taluni mosti di uve fresche mutizzati con alcole della sottovoce ex 22.05 B
+    della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2319/70 van de Commissie van 17 november 1970 betreffende
+    bepaalde soorten druivenmost waarvan de gisting door toevoegen van alcohol is
+    gestuit, van onderverdeling ex 22.05 B van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2319
+docidentifier:
+- content: EU Regulation 2319/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2319
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2319/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-17'
+- type: implemented
+  at: '1970-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,79 @@
+---
+id: EURegulation8151970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 815/70 de la Commission, du 30 avril 1970, modifiant
+    le règlement (CEE) n° 539/70 fixant les restitutions à l'exportation pour les
+    pommes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 815/70 der Kommission vom 30. April 1970 zur Änderung
+    der Verordnung (EWG) Nr. 539/70 zur Festsetzung der Ausfuhrerstattungen für Äpfel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 815/70 della Commissione, del 30 aprile 1970, che
+    modifica il regolamento (CEE) n. 539/70 che fissa le restituzioni all'esportazione
+    per le mele
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 815/70 van de Commissie van 30 april 1970 houdende
+    wijziging van Verordening (EEG) nr. 539/70 houdende vaststelling van de restituties
+    bij de uitvoer van appelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0815
+docidentifier:
+- content: EU Regulation 815/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0815
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/815/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-30'
+- type: implemented
+  at: '1970-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0539
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

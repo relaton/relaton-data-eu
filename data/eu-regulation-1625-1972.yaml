@@ -1,0 +1,78 @@
+---
+id: EURegulation16251972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1625/72 de la Commission, du 28 juillet 1972, modifiant
+    les prix de référence dans le secteur des produits de la pêche pour l'année
+    1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1625/72 der Kommission vom 28. Juli 1972 zur Änderung
+    der Referenzpreise für Fischereierzeugnisse für das Jahr 1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1625/72 della Commissione, del 28 luglio 1972, che
+    modifica i prezzi di riferimento nel settore dei prodotti della pesca per il 1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1625/72 van de Commissie van 28 juli 1972 houdende
+    wijziging van de referentieprijzen in de sector visserijprodukten voor het jaar
+    1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1625
+docidentifier:
+- content: EU Regulation 1625/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1625
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1625/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-28'
+- type: implemented
+  at: '1972-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2805
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

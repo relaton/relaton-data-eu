@@ -1,0 +1,105 @@
+---
+id: EURegulation831979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 83/79 of 17 January 1979 deferring the date
+    of acceptance of beef and veal offered for sale by intervention agencies under
+    Regulations (EEC) No 2073/74 and (EEC) No 1027/78 and altering certain selling
+    prices
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 83/79 de la Commission, du 17 janvier 1979, reportant
+    la date de prise en charge de la viande bovine mise en vente par les organismes
+    d' intervention au titre des règlements (CEE) n° 2073/74 et (CEE) n° 1027/78
+    et modifiant certains prix de vente
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 83/79 der Kommission vom 17. Januar 1979 zur Verschiebung
+    des Zeitpunkts für die Übernahme des im Rahmen der Verordnungen (EWG) Nr. 2073/74
+    und (EWG) Nr. 1027/78 von den Interventionsstellen verkauften Rindfleischs und
+    zur Änderung bestimmter Verkaufspreise
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 83/79 af 17. januar 1979 om udskydelse
+    af datoen for overtagelse af oksekød, som interventionsorganerne sælger i henhold
+    til forordning (EØF) nr. 2073/74 og (EØF) nr. 1027/78, og om ændring af visse
+    salgspriser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 83/79 della Commissione, del 17 gennaio 1979, che
+    proroga la data di presa in consegna delle carni bovine messe in vendita dagli
+    organismi d' intervento in virtù dei regolamenti (CEE) n. 2073/74 e (CEE) n.
+    1027/78 e modifica taluni prezzi di vendita
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 83/79 van de Commissie van 17 januari 1979 tot vaststelling
+    van een latere overnamedatum voor het rundvlees dat door de interventiebureaus
+    krachtens de Verordening (EEG) nr. 2073/74 en (EEG) nr. 1027/78 wordt verkocht
+    en tot wijziging van sommige verkoopprijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0083
+docidentifier:
+- content: EU Regulation 83/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/83/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-01-17'
+- type: implemented
+  at: '1979-01-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1027
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

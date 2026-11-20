@@ -1,0 +1,73 @@
+---
+id: EURegulation13751970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1375/70 du Conseil, du 13 juillet 1970, prévoyant
+    des mesures spéciales pour la distillation de pêches ayant fait l'objet de mesures
+    d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1375/70 des Rates vom 13. Juli 1970 über Sondermaßnahmen
+    für das Brennen von Pfirsichen, die Gegenstand von Interventionsmaßnahmen waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1375/70 del Consiglio, del 13 luglio 1970, che prevede
+    misure speciali per la distillazione di pesche che hanno formato oggetto di misure
+    d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1375/70 van de Raad van 13 juli 1970 houdende vaststelling
+    van bijzondere maatregelen voor het distilleren van perziken waarop interventiemaatregelen
+    zijn toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1375
+docidentifier:
+- content: EU Regulation 1375/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1375
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1375/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-13'
+- type: implemented
+  at: '1970-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

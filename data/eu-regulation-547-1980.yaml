@@ -1,0 +1,93 @@
+---
+id: EURegulation5471980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 547/80 of 4 March 1980 relaxing the protective
+    measures applicable to imports of preserved mushrooms
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 547/80 de la Commission, du 4 mars 1980, assouplissant
+    des mesures de sauvegarde applicables à l' importation des conserves de champignons
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 547/80 der Kommission vom 4. März 1980 zur Lockerung
+    der Schutzmaßnahmen bei der Einfuhr von Pilzkonserven
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 547/80 af 4. marts 1980 om lempelse
+    af beskyttelsesforanstaltninger over for indførsel af svampekonserves
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 547/80 della Commissione, del 4 marzo 1980, che attenua
+    le misure di salvaguardia applicabili all' importazione di conserve di funghi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 547/80 van de Commissie van 4 maart 1980 tot versoepeling
+    van de vrijwaringsmaatregelen voor de invoer van champignonconserven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0547
+docidentifier:
+- content: EU Regulation 547/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0547
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/547/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-03-04'
+- type: implemented
+  at: '1980-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1102
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1525
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

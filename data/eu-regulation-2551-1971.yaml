@@ -1,0 +1,67 @@
+---
+id: EURegulation25511971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2551/71 de la Commission, du 30 novembre 1971, fixant
+    les prélèvements applicables à l'importation des aliments composés pour les
+    animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2551/71 der Kommission vom 30. November 1971 zur Festsetzung
+    der bei der Einfuhr von Mischfuttermitteln anwendbaren Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2551/71 della Commissione, del 30 novembre 1971, che
+    fissa i prelievi applicabili all'importazione degli alimenti composti per gli
+    animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2551/71 van de Commissie van 30 november 1971 houdende
+    vaststelling van de heffingen bij invoer van mengvoeders.
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2551
+docidentifier:
+- content: EU Regulation 2551/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2551
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2551/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

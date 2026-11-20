@@ -1,0 +1,80 @@
+---
+id: EUDecision1964341
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 20 mai 1964, portant octroi à la République
+    fédérale d'Allemagne d'un contingent tarifaire pour les harengs et esprots frais,
+    réfrigérés ou congelés
+  type: main
+- language: de
+  script: Latn
+  content: '64/341/EWG: Entscheidung der Kommission vom 20. Mai 1964 über die Gewährung
+    eines Zollkontingents an die Bundesrepublik Deutschland für Heringe und Sprotten,
+    frisch, gekühlt oder gefroren'
+  type: main
+- language: it
+  script: Latn
+  content: '64/341/CEE: Decisione della Commissione, del 20 maggio 1964, relativa
+    alla concessione di un contingente tariffario alla Repubblica federale di Germania
+    per le aringhe e spratti freschi, refrigerati o congelati'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/341/EEG: Beschikking van de Commissie van 20 mei 1964 houdende toekenning
+    van een tariefcontingent aan de Bondsrepubliek Duitsland voor haring en sprot,
+    vers, gekoeld of bevroren'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0341
+docidentifier:
+- content: EU Decision 1964/341
+  type: EU
+  primary: true
+- content: CELEX 31964D0341
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/341/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-05-20'
+- type: implemented
+  at: '1964-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0077
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

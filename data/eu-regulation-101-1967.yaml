@@ -1,0 +1,76 @@
+---
+id: EURegulation1011967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 101/67/CEE du Conseil, du 22 mai 1967, portant adjonction
+    d'un article 17 bis au règlement n° 160/66/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 101/67/EWG des Rates vom 22. Mai 1967 zur Einfügung eines
+    Artikels 17 a in die Verordnung Nr. 160/66/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 101/67/CEE del Consiglio, del 22 maggio 1967, che inserisce
+    un articolo 17 bis nel regolamento n. 160/66/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 101/67/EEG van de Raad van 22 mei 1967 houdende inlassing
+    in Verordening Nr. 160/66/EEG van een artikel 17 bis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0101
+docidentifier:
+- content: EU Regulation 101/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0101
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-22'
+- type: implemented
+  at: '1967-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0160
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

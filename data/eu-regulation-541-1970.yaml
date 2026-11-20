@@ -1,0 +1,101 @@
+---
+id: EURegulation5411970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 541/70 of the Council of 20 March 1970 on agriculture
+    in the Grand Duchy of Luxembourg
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 541/70 du Conseil, du 20 mars 1970, relatif à l'
+    agriculture du grand-duché de Luxembourg
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 541/70 des Rates vom 20. März 1970 über die Landwirtschaft
+    des Großherzogtums Luxemburg
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 541/70 af 20. marts 1970 om landbruget i
+    storhertugdømmet Luxembourg
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 541/70 του Συμβουλίου
+    της 20ής Μαρτίου 1970 περί της γεωργίας του Μεγάλου
+    Δουκάτου του Λουξεμβούργου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 541/70 del Consiglio, del 20 marzo 1970, relativo
+    all' agricoltura del Granducato del Lussemburgo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 541/70 van de Raad van 20 maart 1970 betreffende
+    de landbouw van het Groothertogdom Luxemburg
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0541
+docidentifier:
+- content: EU Regulation 541/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0541
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/541/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-20'
+- type: implemented
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 11957E/PRO/LUX
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

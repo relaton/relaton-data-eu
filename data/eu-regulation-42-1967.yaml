@@ -1,0 +1,70 @@
+---
+id: EURegulation421967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 42/67/CEE de la Commission, du 1er mars 1967, portant, pour
+    le deuxième trimestre 1967, adaptation et fixation des prix d'écluse et fixation
+    des prélèvements envers les pays tiers dans le secteur des oeufs de volailles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 42/67/EWG der Kommission vom 1. März 1967 zur Anpassung
+    und Festsetzung der Einschleusungspreise und zur Festsetzung der Abschöpfungsbeträge
+    gegenüber dritten Ländern für Eier und Geflügel im zweiten Vierteljahr 1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 42/67/CEE della Commissione, del 1 marzo 1967, che adatta
+    e fissa i prezzi limite e fissa i prelievi nei confronti dei paesi terzi nel settore
+    delle uova e del pollame per il secondo trimestre 1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 42/67/EEG van de Commissie van 1 maart 1967 houdende aanpassing
+    en vaststelling van de sluisprijzen en vaststelling van de heffingen ten opzichte
+    van derde landen in de sector eieren en slachtpluimvee voor het tweede kwartaal
+    1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0042
+docidentifier:
+- content: EU Regulation 42/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0042
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/42/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

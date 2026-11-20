@@ -1,0 +1,68 @@
+---
+id: EURegulation1511969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 151/69 de la Commission, du 27 janvier 1969, relatif
+    à une adjudication pour l'écoulement de beurre de stock détenu par l'organisme
+    d'intervention français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 151/69 der Kommission vom 27. Januar 1969 über eine
+    Ausschreibung zum Absatz von Butter aus Lagerhaltung durch die französische Interventionsstelle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 151/69 della Commissione, del 27 gennaio 1969, relativo
+    a un bando di gara per lo smaltimento di burro di ammasso in possesso dell'organismo
+    d'intervento francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 151/69 van de Commissie van 27 januari 1969 betreffende
+    een bericht van inschrijving voor de afzet van boter uit de opslag door het Franse
+    interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0151
+docidentifier:
+- content: EU Regulation 151/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0151
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/151/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

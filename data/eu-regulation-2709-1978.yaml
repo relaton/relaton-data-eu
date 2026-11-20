@@ -1,0 +1,94 @@
+---
+id: EURegulation27091978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2709/78 of 21 November 1978 amending Regulation
+    (EEC) No 2397/78 on attestations of equivalence for hops imported from non-member
+    countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2709/78 de la Commission, du 21 novembre 1978, modifiant
+    le règlement (CEE) n° 2397/78 relatif aux attestations d' équivalence du houblon
+    importé des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2709/78 der Kommission vom 21. November 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2397/78 úber die Áquivalenzbescheinigungen fúr aus
+    Drittlándern eingefúhrten Hopfen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2709/78 af 21. november 1978 om ændring
+    af forordning (EØF) nr. 2397/78 om ligestilling af attester for humle, der indføres
+    fra ikke-medlemslande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2709/78 della Commissione, del 21 novembre 1978, che
+    modifica il regolamento (CEE) n. 2397/78 relativo agli attestati di equivalenza
+    del luppolo importato dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2709/78 van de Commissie van 21 november 1978 ter
+    wijziging van Verordening (EEG) nr. 2397/78 betreffende de gelijkwaardigheidsverklaringen
+    voor uit derde landen ingevoerde hop
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2709
+docidentifier:
+- content: EU Regulation 2709/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2709
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2709/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-11-21'
+- type: implemented
+  at: '1978-11-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R2397
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

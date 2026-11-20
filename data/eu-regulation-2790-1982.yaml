@@ -1,0 +1,104 @@
+---
+id: EURegulation27901982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2790/82 of 18 October 1982 amending Regulation
+    (EEC) No 1736/79 on interest subsidies for certain loans granted under the European
+    monetary system
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2790/82 du Conseil, du 18 octobre 1982, modifiant
+    le règlement (CEE) n° 1736/79 relatif à la bonification de certains prêts
+    accordée dans le cadre du système monétaire européen
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2790/82 des Rates vom 18. Oktober 1982 zur Änderung
+    der Verordnung (EWG) Nr. 1736/79 über Zinszuschüsse für bestimmte im Rahmen
+    des Europäischen Währungssystems gewährte Darlehen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2790/82 af 18. oktober 1982 om ændring af
+    forordning (EØF) nr. 1736/79 om rentegodtgørelse ved visse lån, ydet inden
+    for rammerne af Det europæiske monetære Systemi
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 2790/82 του Συμβουλίου
+    της 18ης Οκτωβρίου 1982 περί τροποποίησης του
+    κανονισμού (EOK) αριθ. 1736/79 περί της επιδότησης
+    ορισμένων δανείων η οποία παρέχεται στα πλαίσια
+    του Ευρωπαϊκού Νομισματικού Συστήματος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2790/82 del Consiglio, del 18 ottobre 1982, che modifica
+    il regolamento (CEE) n. 1736/79 relativo al bonifico di interessi per taluni prestiti
+    concesso nel quadro del sistema monetario europeou
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2790/82 van de Raad van 18 oktober 1982 tot wijziging
+    van Verordening (EEG) nr. 1736/79 betreffende de subsidiëring van bepaalde leningen
+    in het kader van het Europees Monetair Stelsel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R2790
+docidentifier:
+- content: EU Regulation 2790/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R2790
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/2790/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-10-18'
+- type: implemented
+  at: '1982-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1736
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

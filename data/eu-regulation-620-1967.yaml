@@ -1,0 +1,79 @@
+---
+id: EURegulation6201967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 620/67/CEE du Conseil, du 26 septembre 1967, portant adjonction
+    d'un article 4 bis au règlement n 217/67/CEE et modifiant les annexes dudit règlement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 620/67/EWG des Rates vom 26. September 1967 zur Einfügung
+    eines Artikels 4a in die Verordnung Nr. 217/67/EWG und zur Änderung der Anhänge
+    dieser Verordnung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 620/67/CEE del Consiglio, del 26 settembre 1967, che aggiunge
+    l'articolo 4 bis al regolamento n. 217/67/CEE e che modifica gli allegati di tale
+    regolamento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 620/67/EEG van de Raad van 26 september 1967 tot toevoeging
+    van een artikel 4 bis aan Verordening Nr. 217/67/EEG en tot wijziging van de bijlagen
+    van die verordening
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0620
+docidentifier:
+- content: EU Regulation 620/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0620
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/620/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-26'
+- type: implemented
+  at: '1967-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0217
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

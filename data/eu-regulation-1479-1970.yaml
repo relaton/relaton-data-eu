@@ -1,0 +1,130 @@
+---
+id: EURegulation14791970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1479/70 de la Commission, du 23 juillet 1970, modifiant
+    différents règlements de la Commission à la suite de la fixation des prix pour
+    la campagne laitière 1970/1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1479/70 der Kommission vom 23. Juli 1970 zur Änderung
+    verschiedener Verordnungen der Kommission infolge der Festsetzung der Preise für
+    das Milchwirtschaftsjahr 1970/1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1479/70 della Commissione, del 23 luglio 1970, che
+    modifica diversi regolamenti della Commissione in seguito alla fissazione dei
+    prezzi per la campagna lattiera 1970/1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1479/70 van de Commissie van 23 juli 1970 houdende
+    wijziging van verschillende verordeningen van de Commissie ten gevolge van de
+    vaststelling van de prijzen voor het melkprijsjaar 1970/1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1479
+docidentifier:
+- content: EU Regulation 1479/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1479
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1479/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-23'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1107
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1306
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1308
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1033
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1285
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1390
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1416
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1417
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0546
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0756
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0900
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation901967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 90/67/CEE du Conseil, du 8 mai 1967, relatif à des mesures
+    transitoires en vue de l'application des prix communs dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 90/67/EWG des Rates vom 8. Mai 1967 betreffend Übergangsmaßnahmen
+    im Hinblick auf die Anwendung der gemeinsamen Getreidepreise
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 90/67/CEE del Consiglio, dell'8 maggio 1967, relativo alle
+    misure transitorie per l'applicazione dei prezzi comuni nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 90/67/EEG van de Raad van 8 mei 1967 betreffende overgangsmaatregelen
+    met het oog op de toepassing van de gemeenschappelijke prijzen in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0090
+docidentifier:
+- content: EU Regulation 90/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0090
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/90/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-08'
+- type: implemented
+  at: '1967-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

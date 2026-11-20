@@ -1,0 +1,84 @@
+---
+id: EURegulation3481971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 348/71 du Conseil, du 18 février 1971, modifiant
+    le règlement (CEE) n° 1432/70, relatif à l'adaptation des prix d'intervention
+    ou d'achat à payer par la France, diminués à la suite de la dévaluation du
+    franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 348/71 des Rates vom 18. Februar 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1432/70 über die Anpassung der von Frankreich zu zahlenden,
+    infolge der Abwertung des französischen Franken herabgesetzten Interventions-
+    oder Ankaufspreise
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 348/71 del Consiglio, del 18 febbraio 1971, che modifica
+    il regolamento (CEE) n. 1432/70 relativo all'adeguamento dei prezzi d'intervento
+    o di acquisto che la Francia deve pagare, diminuiti in seguito alla svalutazione
+    del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 348/71 van de Raad van 18 februari 1971 houdende
+    wijziging van Verordening (EEG) nr. 1432/70 betreffende de aanpassing van de door
+    Frankrijk te betalen interventie- of aankoopprijzen welke ingevolge de devaluatie
+    van de Franse frank zijn verlaagd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0348
+docidentifier:
+- content: EU Regulation 348/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0348
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/348/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-18'
+- type: implemented
+  at: '1971-02-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1432
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

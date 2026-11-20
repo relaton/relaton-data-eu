@@ -1,0 +1,79 @@
+---
+id: EUDecision1967562
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 67/562/CEE de la Commission, du 1er août 1967, portant nouvelle
+    modification de la décision du 6 juillet 1966 autorisant la République italienne
+    à prendre des mesures de sauvegarde pour le plomb et le zinc bruts
+  type: main
+- language: de
+  script: Latn
+  content: '67/562/EWG: Entscheidung der Kommission vom 1. August 1967 zur erneuten
+    Änderung ihrer Entscheidung vom 6. Juli 1966, mit der die Italienische Republik
+    ermächtigt wird, Schutzmaßnahmen für Rohblei und Rohzink anzuwenden'
+  type: main
+- language: it
+  script: Latn
+  content: '67/562/CEE: Decisione della Commissione, del 1 agosto 1967, riguardante
+    una nuova modifica alla decisione del 6 luglio 1966 che autorizza la Repubblica
+    italiana ad adottare delle misure di salvaguardia per il piombo e lo zinco grezzi'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/562/EEG: Beschikking van de Commissie van 1 augustus 1967 houdende
+    nieuwe wijziging van de beschikking van 6 juli 1966 waarbij de Italiaanse Republiek
+    wordt gemachtigd tot het nemen van vrijwaringsmaatregelen voor ruw lood en ruw
+    zink'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0562
+docidentifier:
+- content: EU Decision 1967/562
+  type: EU
+  primary: true
+- content: CELEX 31967D0562
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/562/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0429
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

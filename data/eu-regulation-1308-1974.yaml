@@ -1,0 +1,98 @@
+---
+id: EURegulation13081974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1308/74 of the Commission of 27 May 1974 amending Regulation
+    (EEC) No 479/74, fixing minimum prices for exports to third countries of certain
+    flowering corms, bulbs and tubers for the 1974/75 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1308/74 de la Commission, du 27 mai 1974, modifiant
+    le règlement (CEE) n° 479/74 fixant, pour la campagne de commercialisation 1974/1975,
+    les prix minimaux à l'exportation vers les pays tiers de certains bulbes, oignons
+    et tubercules à fleurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1308/74 der Kommission vom 27. Mai 1974 zur Änderung
+    der Verordnung (EWG) Nr. 479/74 zur Festsetzung der Mindestpreise bei der Ausfuhr
+    von bestimmten Blumenbulben, -zwiebeln und -knollen nach Drittländern für den
+    Vermarktungszeitraum 1974/1975
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1308/74 af 27. maj 1974 om ændring
+    af forordning (EØF) nr. 479/74 om fastsættelse af mindstrepriser for produktionsåret
+    1974/1975 ved udførsel af visse blomsterløg og knolde til tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1308/74 della Commissione, del 27 maggio 1974, che
+    modifica il regolamento (CEE) n. 479/74 che fissa per la campagna di commercializzazione
+    1974/1975 i prezzi minimi all'esportazione verso i paesi terzi di alcuni bulbi,
+    tuberi e rizomi da fiore
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1308/74 van de Commissie van 27 mei 1974 houdende
+    wijziging van Verordening (EEG) nr. 479/74 houdende vaststelling voor het handelsseizoen
+    1974/1975 van de minimumprijzen bij de uitvoer naar derde landen van bepaalde
+    bloembollen en bloemknollen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1308
+docidentifier:
+- content: EU Regulation 1308/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1308
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1308/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-05-27'
+- type: implemented
+  at: '1974-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0479
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

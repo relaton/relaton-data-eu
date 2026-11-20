@@ -1,0 +1,77 @@
+---
+id: EURegulation2061975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 206/75 of the Commission of 28 January 1975 fixing
+    the sluice-gate prices and levies for poultrymeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 206/75 de la Commission, du 28 janvier 1975, fixant
+    les prix d'écluse et les prélèvements dans le secteur de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 206/75 der Kommission vom 28. Januar 1975 zur Festsetzung
+    der Einschleusungspreise und Abschöpfungen für Geflügelfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 206/75 af 28. januar 1975 om fastsættelse
+    af slusepriser og afgifter for fjerkrækød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 206/75 della Commissione, del 28 gennaio 1975, che
+    fissa i prezzi limite e i prelievi per il pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 206/75 van de Commissie van 28 januari 1975 houdende
+    vaststelling van de sluisprijzen en de heffingen in de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0206
+docidentifier:
+- content: EU Regulation 206/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0206
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/206/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

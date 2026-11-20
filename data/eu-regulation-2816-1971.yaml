@@ -1,0 +1,69 @@
+---
+id: EURegulation28161971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2816/71 de la Commission, du 23 décembre 1971, fixant
+    la restitution à la production pour les huiles d'olive utilisées pour la fabrication
+    de certaines conserves de poissons et de légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2816/71 der Kommission vom 23. Dezember 1971 zur Festsetzung
+    der Erstattung bei der Erzeugung für Olivenöl zur Herstellung von Fisch- und
+    Gemüsekonserven
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2816/71 della Commissione, del 23 dicembre 1971, che
+    fissa la restituzione alla produzione per gli oli d'oliva impiegati nella fabbricazione
+    di alcune conserve di pesci e di legumi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2816/71 van de Commissie van 23 december 1971 houdende
+    vaststelling van de restitutie bij de produktie voor olijfolie die gebruikt wordt
+    voor de vervaardiging van bepaalde vis- en groentenconserven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2816
+docidentifier:
+- content: EU Regulation 2816/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2816
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2816/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

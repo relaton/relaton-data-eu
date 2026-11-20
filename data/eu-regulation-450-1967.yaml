@@ -1,0 +1,67 @@
+---
+id: EURegulation4501967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 450/67/CEE de la Commission, du 14 août 1967, modifiant le
+    règlement n 237/67/CEE relatif à la prise en charge de céréales par les organismes
+    d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 450/67/EWG der Kommission vom 14. August 1967 zur Änderung
+    der Verordnung Nr. 237/67/EWG über die Übernahme von Getreide durch die Interventionsstellen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 450/67/CEE della Commissione, del 14 agosto 1967, che modifica
+    il regolamento n. 237/67/CEE relativo alla presa in consegna di cereali da parte
+    degli organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 450/67/EEG van de Commissie van 14 augustus 1967 tot wijziging
+    van Verordening no. 237/67/EEG betreffende de overname van granen door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0450
+docidentifier:
+- content: EU Regulation 450/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0450
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/450/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

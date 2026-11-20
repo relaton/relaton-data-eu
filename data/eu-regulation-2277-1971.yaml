@@ -1,0 +1,137 @@
+---
+id: EURegulation22771971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2277/71 of the Council of 26 October 1971 amending
+    Regulations (EEC) Nos 2164/70, 2165/70, 463/71 and 1235/71 on imports of olive
+    oil from Spain, Tunisia, Morocco and Turkey
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2277/71 du Conseil, du 26 octobre 1971, modifiant
+    les règlements (CEE) n°s 2164/70, 2165/70, 463/71 et 1235/71 relatifs aux importations
+    des huiles d' olive d' Espagne, de Tunisie, du Maroc et de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2277/71 des Rates vom 26. Oktober 1971 zur Änderung
+    der Verordnungen (EWG) Nrn. 2164/70, 2165/70, 463/71 und 1235/71 über die Einfuhr
+    von Olivenöl aus Spanien, Tunesien, Marokko und der Türkei
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2277/71 af 26. oktober 1971 om ændring af
+    forordningerne (EØF) nr. 2164/70, 2165/70, 463/71 og 1235/71 om importen af olivenolie
+    fra Spanien, Tunesien, Marokko og Tyrkiet
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2277/71 τού Συμβουλίου
+    τής 26ης Οκτωβρίου 1971 περί τροποποιήσεως τών
+    κανονισμών (ΕΟΚ) αριθ. 2164/70, (ΕΟΚ) αριθ. 2165/70, (ΕΟΚ)
+    αριθ. 463/71 καί (ΕΟΚ) αριθ. 1235/71 «περί τών εισαγωγών
+    ελαιολάδου από Ισπανία, Τυνησία, Μαρόκο καί
+    Τουρκία»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2277/71 del Consiglio, del 26 ottobre 1971, che modifica
+    i regolamenti (CEE) n. 2164/70, 2165/70, 463/71 e 1235/71 relativi alle importazioni
+    di oli d' oliva dalla Spagna, dalla Tunisia, dal Marocco e dalla Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2277/71 van de Raad van 26 oktober 1971 houdende
+    wijziging van de Verordeningen (EEG) nrs. 2164/70, 2165/70, 463/71 en 1235/71
+    van de Raad betreffende de invoer van olijfolie uit Spanje, Tunesië, Marokko
+    en Turkije
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2277/71 do Conselho, de 26 de Outubro de 1971, que
+    altera os Regulamentos (CEE) n.° 2164/70, (CEE) n.° 2165/70, (CEE) n.° 463/71
+    e (CEE) n.° 1235/71 relativos às importações de azeites de Espanha, da Tunísia,
+    de Marrocos e da Turquia
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2277/71 del Consejo, de 26 de octubre de 1971, por
+    el que se modifican los Reglamentos (CEE) n° 2164/70, (CEE) n° 2165/70, (CEE)
+    n° 463/71 y (CEE) n° 1235/71 relativos a las importaciones de aceites de oliva
+    de España, de Túnez, de Marruecos y de Turquía
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2277
+docidentifier:
+- content: EU Regulation 2277/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2277
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2277/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-26'
+- type: implemented
+  at: '1971-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2164
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2165
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0463
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1235
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

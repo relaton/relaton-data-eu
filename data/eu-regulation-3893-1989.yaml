@@ -1,0 +1,128 @@
+---
+id: EURegulation38931989
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3893/89 of 11 December 1989 amending Regulations
+    (EEC) No 1787/89 and (EEC) No 1788/89 opening and providing for the administration
+    of Community tariff quotas for animals of certain mountain breeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3893/89 du Conseil du 11 décembre 1989 modifiant
+    les règlements (CEE) n° 1787/89 et (CEE) n 1788/89 portant ouverture et mode
+    de gestion de contingents tarifaires communautaires pour des animaux de certaines
+    races de montagne
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 3893/89 DES RATES vom 11. Dezember 1989 zur Änderung
+    der Verordnungen (EWG) Nr. 1787/89 und (EWG) Nr. 1788/89 zur Eröffnung und Verwaltung
+    von Gemeinschaftszollkontingenten für Tiere bestimmter Höhenrassen #'
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3893/89 af 11. december 1989 om ændring
+    af forordning (EØF) nr. 1787/89 og (EØF) nr. 1788/89 om åbning og forvaltning
+    af fællesskabstoldkontingenter for kvier og køer af visse bjergracer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3893/89 του Συμβουλίου
+    της 11ης Δεκεμβρίου 1989 για την τροποποίηση των
+    κανονισμών (ΕΟΚ) αριθ. 1787/89 και 1788/89 για το άνοιγμα
+    και τον τρόπο διαχείρισης κοινοτικών δασμολογικών
+    ποσοστώσεων για ζώα ορισμένων ορεσίβιων φυλών
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 3893/89 DEL CONSIGLIO dell'' 11 dicembre 1989 che
+    modifica i regolamenti (CEE) n. 1787/89 e (CEE) n. 1788/89 relativi all'' apertura
+    e alla modalità di gestione dei contingenti tariffari comunitari per animali
+    di alcune razze di montagna #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 3893/89 VAN DE RAAD van 11 december 1989 tot wijziging
+    van de Verordeningen (EEG) nr. 1787/89 en (EEG) nr. 1788/89 betreffende de opening
+    en de wijze van beheer van communautaire tariefcontingenten voor dieren van bepaalde
+    bergrassen #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) Nº 3893/89 DO CONSELHO de 11 de Dezembro de 1989 que
+    altera os Regulamentos (CEE) nº 1787/89 e (CEE) nº 1788/89 relativos à abertura
+    e modo de gestão de contingentes pautais comunitários para animais de certas
+    raças de montanha #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) Ng 3893/89 DEL CONSEJO de 11 de diciembre de 1989 por
+    el que se modifican los Reglamentos (CEE) Nos 1787/89 y 1788/89, relativos a la
+    apertura y modo de gestión de contingentes arancelarios comunitarios para determinadas
+    especies de animales de montaña #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989R3893
+docidentifier:
+- content: EU Regulation 3893/1989
+  type: EU
+  primary: true
+- content: CELEX 31989R3893
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1989/3893/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-12-11'
+- type: implemented
+  at: '1990-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989R1787
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989R1788
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

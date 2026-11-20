@@ -1,0 +1,104 @@
+---
+id: EURegulation23081981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2308/81 of 10 August 1981 fixing the special
+    rates for converting the free-at-frontier reference prices of imported liqueur
+    wines into national currency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2308/81 de la Commission, du 10 août 1981, fixant
+    les taux spéciaux pour la conversion en monnaie nationale des prix franco frontière
+    de référence des vins de liqueur importés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2308/81 der Kommission vom 10. August 1981 zur Festsetzung
+    der Sonderkurse zur Umrechnung der Referenzpreise frei Grenze für eingeführte
+    Likörweine in Landeswährung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2308/81 af 10. august 1981 om fastsættelse
+    af de særlige kurser til omregning til national valuta af referencepriserne franko
+    grænse for indført hedvin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2308/81 τής Επιτροπής
+    τής 10ής Αυγούστου 1981 περί ειδικών συντελεστών
+    μετατροπής σέ εθνικό νόμισμα τών τιμών αναγωγής
+    «ελεύθερο στά σύνορα» τών εισαγομένων vins de
+    liqueur
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2308/81 della Commissione, del 10 agosto 1981, che
+    stabilisce i tassi speciali per la conversione in moneta nazionale dei prezzi
+    franco frontiera di riferimento dei vini liquorosi importati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2308/81 van de Commissie van 10 augustus 1981 houdende
+    vaststelling van de bijzondere koersen voor de omrekening in nationale munteenheid
+    van de referentieprijzen franco grens voor ingevoerde likeurwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R2308
+docidentifier:
+- content: EU Regulation 2308/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R2308
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/2308/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-08-10'
+- type: implemented
+  at: '1981-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R1236
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation15681974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1568/74 of the Commission of 21 June 1974 altering
+    the minimum selling price fixed in Regulation (EEC) No 1717/72 on the sale of
+    butter at a reduced price to non-profit-making institutions and organizations
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1568/74 de la Commission, du 21 juin 1974, modifiant
+    le prix minimal de vente prévu au règlement (CEE) n° 1717/72 relatif à la
+    vente de beurre à prix réduit à des institutions et collectivités sans but
+    lucratif
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1568/74 der Kommission vom 21. Juni 1974 zur Änderung
+    des Mindestverkaufspreises gemäß der Verordnung (EWG) Nr. 1717/72 über den
+    Verkauf von Butter aus staatlicher Lagerhaltung zu herabgesetzten Preisen an gemeinnützige
+    Einrichtungen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1568/74 af 21. juni 1974 om ændring
+    af mindstesalgsprisen i henhold til forordning (EØF) nr. 1717/72 om salg til
+    nedsat pris af smør til institutioner eller samfund, der ikke arbejder med gevinst
+    for øje
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1568/74 della Commissione, del 21 giugno 1974, che
+    modifica il prezzo minimo di vendita previsto dal regolamento (CEE) n. 1717/72,
+    relativo alla vendita di burro a prezzo ridotto ad istituzioni e collettività
+    senza scopi di lucro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1568/74 van de Commissie van 21 juni 1974 houdende
+    wijziging van de in Verordening (EEG) nr. 1717/72 met betrekking tot de verkoop
+    van boter tegen verlaagde prijs aan instellingen en gemeenschappen zonder winstoogmerk
+    voorgeschreven minimumverkoopprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1568
+docidentifier:
+- content: EU Regulation 1568/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1568
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1568/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-21'
+- type: implemented
+  at: '1974-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1717
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EURegulation6431968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 643/68 of the Council of 29 May 1968 amending Regulation
+    No 120/67/EEC on the common organisation of the market in cereals, in particular
+    as regards the special measures laid down for Italy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 643/68 du Conseil, du 29 mai 1968, modifiant le règlement
+    n° 120/67/CEE portant organisation commune des marchés dans le secteur des céréales,
+    notamment en ce qui concerne les mesures spéciales prévues pour l' Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 643/68 des Rates vom 29. Mai 1968 zur Änderung der
+    Verordnung Nr. 120/67/EWG über die gemeinsame Marktorganisation für Getreide,
+    insbesondere hinsichtlich der für Italien vorgesehenen besonderen Maßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 643/68 af 29. maj 1968 om ændring af forordning
+    nr. 120/67/EØF om den fælles markedsordning for korn, specielt med henblik på
+    de for Italien fastsatte særforanstaltninger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 643/68 del Consiglio, del 29 maggio 1968, che modifica
+    il regolamento n. 120/67/CEE relativo all' organizzazione comune dei mercati nel
+    settore dei cereali in particolare per quanto riguarda le misure speciali previste
+    per l' Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 643/68 van de Raad van 29 mei 1968 tot wijziging
+    van Verordening nr. 120/67/EEG houdende een gemeenschappelijke ordening der markten
+    in de sector granen, met name ten aanzien van de voor Italië vastgestelde speciale
+    maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0643
+docidentifier:
+- content: EU Regulation 643/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0643
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/643/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-29'
+- type: implemented
+  at: '1968-06-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation1151964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 115/64/CEE du Conseil, du 30 juillet 1964, prévoyant des
+    mesures dérogatoires en ce qui concerne le riz originaire des États africains
+    et malgache associés et des pays et territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 115/64/EWG des Rates vom 30. Juli 1964 über Ausnahmeregelungen
+    für Reis mit Ursprung in den assoziierten afrikanischen Staaten und Madagaskar
+    sowie den überseeischen Ländern und Gebieten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 115/64/CEE del Consiglio, del 30 luglio 1964, che prevede
+    misure derogatorie per quanto concerne il riso originario degli Stati africani
+    e malgascio associati e dei paesi e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 115/64/EEG van de Raad van 30 juli 1964 houdende afwijkende
+    maatregelen voor rijst van oorsprong uit de Geassocieerde Afrikaanse Staten en
+    Madagaskar en de landen en gebieden overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0115
+docidentifier:
+- content: EU Regulation 115/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0115
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/115/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-30'
+- type: implemented
+  at: '1964-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

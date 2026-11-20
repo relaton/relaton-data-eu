@@ -1,0 +1,74 @@
+---
+id: EURegulation18511970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1851/70 de la Commission, du 11 septembre 1970, relatif
+    aux demandes d'acompte au titre du FEOGA, section garantie, pour la période de
+    comptabilisation 1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1851/70 der Kommission vom 11. September 1970 über
+    die Anträge auf Abschlagszahlungen aus dem EAGFL, Abteilung Garantie, für den
+    Verbuchungszeitraum 1970
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1851/70 della Commissione, dell'11 settembre 1970,
+    relativo alle domande di acconto presentate al FEAOG, sezione garanzia, per il
+    periodo di contabilizzazione 1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1851/70 van de Commissie van 11 september 1970 betreffende
+    de voorschotaanvragen ten laste van het EOGFL, afdeling Garantie, voor de berekeningsperiode
+    1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1851
+docidentifier:
+- content: EU Regulation 1851/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1851
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1851/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-09-11'
+- type: implemented
+  at: '1970-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,78 @@
+---
+id: EURegulation16251971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1625/71 du Conseil, du 26 juillet 1971, portant suspension
+    totale et temporaire du droit autonome du tarif douanier commun sur les huîtres
+    de la variété "crassostrea gigas" pesant plus de 100 grammes la pièce de la
+    sous-position EX 03.03 B I b)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1625/71 des Rates vom 26. Juli 1971 über die zeitweilige
+    vollständige Aussetzung des autonomen Zollsatzes des Gemeinsamen Zolltarifs für
+    Austern der Sorte "crassostréa gigas" mit einem Stückgewicht von mehr als 100
+    g der Tarifstelle ex 03.03 B I b)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1625/71 del Consiglio, del 26 luglio 1971, relativo
+    alla sospensione totale e temporanea del dazio autonomo della tariffa doganale
+    comune per le ostriche della varietà «crassostrea gigas» pesanti, per pezzo,
+    più di 100 g, della sottovoce ex 03.03 B I b)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1625/71 van de Raad van 26 juli 1971 houdende algehele
+    en tijdelijke schorsing van het autonome recht van het gemeenschappelijk douanetarief
+    voor oesters van de variëteit "crassostrea gigas" met een gewicht van meer dan
+    100 g per stuk, van onderverdeling ex 03.03 B I b)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1625
+docidentifier:
+- content: EU Regulation 1625/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1625
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1625/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1972-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation15561968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1556/68 of the Commission of 4 October 1968 amending
+    Regulation (EEC) No 1097/68 on detailed rules for the application of intervention
+    measures on the market in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1556/68 de la Commission, du 4 octobre 1968, modifiant
+    le règlement (CEE) n° 1097/68 relatif aux modalités d' application des mesures
+    d' intervention dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Veordnung (EWG) Nr. 1556/68 der Kommission vom 4. Oktober 1968 zur Änderung
+    der Verordnung (EWG) Nr. 1097/68 über die Durchführungsbestimmungen bei Interventionsmaßnahmen
+    auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1556/68 af 4. oktober 1968 om ændring
+    af forordning (EØF) nr. 1097/68 om de nærmere regler for anvendelsen af interventionsforanstaltninger
+    inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1556/68 della Commissione, del 4 ottobre 1968, che
+    modifica il regolamento (CEE) n. 1097/68 relativo alle modalità di applicazione
+    delle misure d' intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1556/68 van de Commissie van 4 oktober 1968 houdende
+    wijziging van Verordening (EEG) nr. 1097/68 betreffende de wijze van toepassing
+    van de interventiemaatregelen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1556
+docidentifier:
+- content: EU Regulation 1556/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1556
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1556/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-04'
+- type: implemented
+  at: '1968-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1097
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,100 @@
+---
+id: EURegulation5521977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 552/77 of 14 March 1977 repealing Regulation
+    (EEC) No 1823/76 maintaining in effect the rules whereby imports into the Benelux
+    countries of cotton yarn not put up for retail sale, originating in Mexico, are
+    subject to import authorization
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 552/77 du Conseil, du 14 mars 1977, abrogeant le règlement
+    (CEE) n° 1823/76 portant maintien du régime d'autorisation d'importation, dans
+    les pays du Benelux, de fils de coton non conditionnés pour la vente au détail,
+    originaires du Mexique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 552/77 des Rates vom 14. März 1977 zur Aufhebung
+    der Verordnung (EWG) Nr. 1823/76 zur Aufrechterhaltung der Genehmigungspflicht
+    für die Einfuhr von Baumwollgarnen, nicht in Aufmachungen für den Einzelverkauf,
+    mit Ursprung in Mexiko, in die Länder der Benelux
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 552/77 af 14. marts 1977 om ophævelse af
+    forordning (EØF) nr. 1823/76 om opretholdelse af importbevillingsordningen for
+    indførsel til Benelux-landene af garn af bomuld, ikke i detailsalgsoplægninger,
+    med oprindelse i Mexico
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 552/77 del Consiglio, del 14 marzo 1977, che abroga
+    il regolamento (CEE) n. 1823/76, che mantiene in vigore il regime che subordina
+    a licenza le importazioni nei paesi del Benelux di filati di cotone, non condizionati
+    per la vendita al minuto, originari del Messico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 552/77 van de Raad van 14 maart 1977 tot intrekking
+    van Verordening (EEG) nr. 1823/76 houdende handhaving van het vergunningenstelsel
+    voor de invoer in de Benelux-landen van garens van katoen, niet gereed voor de
+    verkoop in het klein, van oorsprong uit Mexico
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0552
+docidentifier:
+- content: EU Regulation 552/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0552
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/552/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-14'
+- type: implemented
+  at: '1977-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1823
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

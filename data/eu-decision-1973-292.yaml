@@ -1,0 +1,92 @@
+---
+id: EUDecision1973292
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Decision of 20 September 1973 laying down safeguard measures
+    applicable to cereal products of Italian origin exported outside the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Décision 73/292/CEE de la Commission, du 20 septembre 1973, arrêtant
+    des mesures de sauvegarde applicables à l'exportation hors de la Communauté
+    de certains produits céréaliers d'origine italienne
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung der Kommission vom 20. September 1973 zur Verabschiedung von
+    Schutzmaßnahmen für die Ausfuhr bestimmter Getreideerzeugnisse mit Ursprung
+    in Italien aus der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Beslutning af 20. september 1973 om fastsættelse af beskyttelsesforholdsregler
+    vedrørende udførsel af visse kornvarer af italiensk oprindelse fra Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Decisione della Commissione, del 20 settembre 1973, che istituisce misure
+    di salvaguardia applicabili all'esportazione fuori della Comunità di taluni prodotti
+    cerealicoli di origine italiana
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Commissie van 20 september 1973 houdende vrijwaringsmaatregelen
+    ten aanzien van de uitvoer uit de Gemeenschap van bepaalde graanprodukten van
+    oorsprong uit Italië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973D0292
+docidentifier:
+- content: EU Decision 1973/292
+  type: EU
+  primary: true
+- content: CELEX 31973D0292
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1973/292/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-09-20'
+- type: implemented
+  at: '1973-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973D0259
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

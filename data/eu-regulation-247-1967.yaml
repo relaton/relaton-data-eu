@@ -1,0 +1,66 @@
+---
+id: EURegulation2471967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 247/67/CEE de la Commission, du 30 juin 1967, portant fixation
+    des primes s'ajoutant aux prélèvements pour les céréales et le malt
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 247/67/EWG der Kommission vom 30. Juni 1967 über die Festsetzung
+    der Prämien als Zuschlag zu den Abschöpfungen für Getreide und Malz
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 247/67/CEE della Commissione, del 30 giugno 1967, relativo
+    alla fissazione dei supplementi che si aggiungono ai prelievi per i cereali ed
+    il malto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 247/67/EEG van de Commissie van 30 juni 1967 houdende vaststelling
+    van de premies waarmede de heffingen voor granen en mout worden verhoogd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0247
+docidentifier:
+- content: EU Regulation 247/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0247
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/247/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

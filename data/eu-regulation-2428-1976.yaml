@@ -1,0 +1,102 @@
+---
+id: EURegulation24281976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2428/76 of 4 October 1976 amending Regulation
+    (EEC) No 1163/76 on the granting of a conversion premium in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2428/76 du Conseil, du 4 octobre 1976, modifiant le
+    règlement (CEE) n° 1163/76 relatif à l' octroi d' une prime de reconversion
+    dans le domaine de la viticulture
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2428/76 des Rates vom 4. Oktober 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1163/76 über die Gewährung einer Umstellungsprämie
+    im Weinbau
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2428/76 af 4. oktober 1976 om ændring af
+    forordning (EØF) nr. 1163/76 om ydelse af omstillingspræmie til vindyrkere
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2428/76 τού Συμβουλίου
+    τής 4ης Οκτωβρίου 1976 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1163/76 «περί τής χορηγήσεως
+    πριμοδοτήσεως γιά τή μετατροπή στόν τομέα
+    τής αμπελουργίας»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2428/76 del Consiglio, del 4 ottobre 1976, che modifica
+    il regolamento (CEE) n. 1163/76 relativo alla concessione di un premio di riconversione
+    nel settore della viticoltura
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2428/76 van de Raad van 4 oktober 1976 tot wijziging
+    van Verordening (EEG) nr. 1163/76 inzake de toekenning van een omschakelingspremie
+    in de wijnbouwsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2428
+docidentifier:
+- content: EU Regulation 2428/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2428
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2428/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-10-04'
+- type: implemented
+  at: '1976-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1163
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

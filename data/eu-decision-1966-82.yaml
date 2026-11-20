@@ -1,0 +1,71 @@
+---
+id: EUDecision196682
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/82/CEE de la Commission, du 22 décembre 1965, portant autorisation
+    au Royaume de Belgique d'introduire un contingent tarifaire pour le plomb brut
+  type: main
+- language: de
+  script: Latn
+  content: '66/82/EWG: Entscheidung der Kommission vom 22. Dezember 1965, mit der
+    das Königreich Belgien ermächtigt wird, ein Zollkontingent für Rohblei zu eröffnen'
+  type: main
+- language: it
+  script: Latn
+  content: '66/82/CEE: Decisione della Commissione, del 22 dicembre 1965, che autorizza
+    il Regno del Belgio ad introdurre un contingente tariffario per il piombo greggio'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/82/EEG: Beschikking van de Commissie van 22 december 1965 houdende
+    machtiging van het Koninkrijk België tot het instellen van een tariefcontingent
+    voor ruw lood'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0082
+docidentifier:
+- content: EU Decision 1966/82
+  type: EU
+  primary: true
+- content: CELEX 31966D0082
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/82/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-12-22'
+- type: implemented
+  at: '1966-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

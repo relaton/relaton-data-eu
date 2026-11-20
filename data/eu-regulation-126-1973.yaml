@@ -1,0 +1,98 @@
+---
+id: EURegulation1261973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 126/73 of the Commission of 29 December 1972 amending
+    Regulation (EEC) No 2520/71 fixing minimum prices for exports to third countries
+    of certain flowering corms, bulbs and tubers for the 1972/73 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 126/73 de la Commission, du 29 décembre 1972, portant
+    modification du règlement (CEE) n 2520/71 fixant, pour la campagne de commercialisation
+    1972/1973, les prix minima à l'exportation vers les pays tiers de certains bulbes,
+    oignons et tubercules à fleurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 126/73 der Kommission vom 29. Dezember 1972 zur Änderung
+    der Verordnung (EWG) Nr. 2520/71 zur Festsetzung der Mindestpreise bei der Ausfuhr
+    bestimmter Blumenbulben, -zwiebeln und -knollen nach Drittländern für den Vermarktungszeitraum
+    1972/1973
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 126/73 af 29. december 1972 om ændring
+    af forordning (EØF) 2520/71 om fastsættelse af mindstepriser ved udførsel af
+    visse blomsterløg og -knolde til tredjelande for afsætningsåret 1972/1973
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 126/73 della Commissione, del 29 dicembre 1972, recante
+    modifica del regolamento (CEE) n. 2520/71 che fissa per la campagna di commercializzazione
+    1972/1973 i prezzi minimi all'esportazione verso i paesi terzi di alcuni bulbi,
+    tuberi e radici tuberose da fiore
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 126/73 van de Commissie van 29 december 1972 tot
+    wijziging van Verordening (EEG) nr. 2520/71 houdende vaststelling voor het handelsseizoen
+    1972/1973 van de minimumprijzen bij de uitvoer naar derde landen van bepaalde
+    bloembollen en bloemknollen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0126
+docidentifier:
+- content: EU Regulation 126/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0126
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/126/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-29'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2520
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

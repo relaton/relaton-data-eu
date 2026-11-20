@@ -1,0 +1,90 @@
+---
+id: EURegulation1131976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 113/76 of 19 January 1976 on imports into the
+    Community of fishery products originating in Turkey
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 113/76 du Conseil, du 19 janvier 1976, relatif à
+    l'importation dans la Communauté de produits du secteur de la pêche, originaires
+    de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 113/76 des Rates vom 19. Januar 1976 über die Einfuhr
+    von Fischereierzeugnissen mit Ursprung in der Türkei in die Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 113/76 af 19. januar 1976 om indførsel i
+    Fællesskabet af fiskerivarer med oprindelse i Tyrkiet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 113/76 del Consiglio, del 19 gennaio 1976, relativo
+    all'importazione, nella Comunità, di prodotti del settore della pesca originari
+    della Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 113/76 van de Raad van 19 januari 1976 betreffende
+    de invoer in de Gemeenschap van visserijprodukten van oorsprong uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0113
+docidentifier:
+- content: EU Regulation 113/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0113
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-01-19'
+- type: implemented
+  at: '1976-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1315
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation21971971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2197/71 de la Commission, du 13 octobre 1971, abrogeant
+    le règlement (CEE) n 2179/71 modifiant les prélèvements applicables aux produits
+    transformés à base de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2197/71 der Kommission vom 13. Oktober 1971 zur Aufhebung
+    der Verordnung (EWG) Nr. 2179/71 zur Änderung der bei der Einfuhr von Getreide-
+    und Reisverarbeitungserzeugnissen zu erhebenden Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2197/71 della Commissione, del 13 ottobre 1971, che
+    abroga il regolamento (CEE) n. 2179/71 recante modifica dei prelievi applicabili
+    ai prodotti trasformati a base di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) Nr. 2197/71 van de Commissie van 13 oktober 1971 tot
+    intrekking van Verordening (EEG) nr. 2179/71 houdende wijziging van de heffingen
+    die bij invoer van op basis van granen en rijst verwerkte produkten van toepassing
+    zijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2197
+docidentifier:
+- content: EU Regulation 2197/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2197
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2197/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

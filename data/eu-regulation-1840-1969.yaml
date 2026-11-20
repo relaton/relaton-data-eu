@@ -1,0 +1,105 @@
+---
+id: EURegulation18401969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1840/69 of the Council of 16 September 1969 amending
+    Regulation (EEC) No 204/69 laying down general rules for granting export refunds
+    on certain agricultural products exported in the form of goods not covered by
+    Annex II to the Treaty, and the criteria for fixing the amount of such refunds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1840/69 du Conseil, du 16 septembre 1969, modifiant
+    le règlement (CEE) n° 204/69 établissant, pour certains produits agricoles
+    exportés sous forme de marchandises ne relevant pas de l' annexe II du traité,
+    les règles générales relatives à l' octroi des restitutions à l' exportation
+    et les critères de fixation de leur montant
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1840/69 des Rates vom 16. September 1969 zur Änderung
+    der Verordnung (EWG) Nr. 204/69 zur Festlegung der allgemeinen Regeln für die
+    Gewährung von Ausfuhrerstattungen und der Kriterien zur Festsetzung des Erstattungsbetrags
+    für bestimmte landwirtschaftliche Erzeugnisse, die in Form von nicht unter Anhang
+    II des Vertrages fallenden Waren ausgeführt werden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1840/69 af 16. september 1969 om ændring
+    af forordning (EØF) nr. 204/69 om fastsættelse af almindelige regler for ydelse
+    af eksportrestriktioner og om fastlæggelse af kriterierne for fastsættelse af
+    restitutionsbeløbet for visse landbrugsprodukter, der udføres i form af varer,
+    som ikke omfattes af traktatens bilag II
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1840/69 del Consiglio, del 16 settembre 1969, che
+    modifica il regolamento (CEE) n. 204/69 che stabilisce, per taluni prodotti agricoli
+    esportati sotto forma di merci non comprese nell' allegato II del trattato, le
+    regole generali relative alla concessione delle restituzioni all' esportazione
+    e i criteri per stabilire il loro importo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1840/69 van de Raad van 16 september 1969 houdende
+    wijziging van Verordening (EEG) nr. 204/69 tot vaststelling van de algemene regels
+    aangaande de toekenning van restituties bij uitvoer en de criteria voor de vaststelling
+    van het restitutiebedrag betreffende bepaalde landbouwprodukten, uitgevoerd in
+    de vorm van goederen die niet onder bijlage II van het Verdrag vallen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1840
+docidentifier:
+- content: EU Regulation 1840/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1840
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1840/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-09-16'
+- type: implemented
+  at: '1969-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0204
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

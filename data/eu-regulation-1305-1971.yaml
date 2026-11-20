@@ -1,0 +1,73 @@
+---
+id: EURegulation13051971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1305/71 de la Commission, du 23 juin 1971, relatif
+    à la fourniture de lait écrémé en poudre destiné à l'Inde à titre d'aide
+    communautaire au programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1305/71 der Kommission vom 23. Juni 1971 über die
+    Lieferung von Magermilchpulver an Indien als Gemeinschaftshilfe zugunsten des
+    Welternährungsprogramms
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1305/71 della Commissione, del 23 giugno 1971, relativo
+    alla fornitura di latte scremato in polvere destinato all'India a titolo d'aiuto
+    comunitario al Programma alimentare mondiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1305/71 van de Commissie van 23 juni 1971 betreffende
+    de levering van magere-melkpoeder aan India als gemeenschapshulp aan het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1305
+docidentifier:
+- content: EU Regulation 1305/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1305
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1305/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-23'
+- type: implemented
+  at: '1971-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

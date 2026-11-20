@@ -1,0 +1,107 @@
+---
+id: EURegulation5051984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 505/84 of 27 February 1984 imposing for 1984
+    quantitative restrictions on imports into France of certain categories of wood
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 505/84 du Conseil du 27 février 1984 instituant pour
+    l' année 1984 des restrictions quantitatives à l' importation de certaines catégories
+    de bois en France
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 505/84 des Rates vom 27. Februar 1984 zur Einführung
+    mengenmäßiger Beschränkungen für die Einfuhr bestimmter Holzarten nach Frankreich
+    für das Jahr 1984
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 505/84 af 27. februar 1984 om indførelse
+    for 1984 af kvantitative restriktioner for indførsel af visse kategorier af træ
+    til Frankrig
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 505/84 του Συμβουλίου
+    της 27ης Φεβρουαρίου 1984 για τη θέσπιση για το
+    έτος 1984 ποσοτικών περιορισμών κατά την εισαγωγή
+    ορισμένων κατηγοριών ξυλείας στη Γαλλία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 505/84 del Consiglio del 27 febbraio 1984 che istituisce
+    per il 1984 restrizioni quantitative all' importazione in Francia di talune categorie
+    di legno
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 505/84 van de Raad van 27 februari 1984 tot instelling
+    voor 1984 van de kwantitatieve beperkingen voor de invoer van bepaalde houtsoorten
+    in Frankrijk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R0505
+docidentifier:
+- content: EU Regulation 505/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R0505
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/505/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-02-27'
+- type: implemented
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R0288
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R1765
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

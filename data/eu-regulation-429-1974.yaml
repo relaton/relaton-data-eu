@@ -1,0 +1,102 @@
+---
+id: EURegulation4291974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 429/74 of the Council of 18 February 1974 extending
+    for the years 1972, 1973 and 1974 certain time limits for granting aid from the
+    Guidance Section of the European Agricultural Guidance and Guarantee Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 429/74 du Conseil, du 18 février 1974, prorogeant,
+    pour les années 1972, 1973 et 1974, certaines dates limites relatives à l'octroi
+    du concours du Fonds européen d'orientation et de garantie agricole, section
+    orientation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 429/74 des Rates vom 18. Februar 1974 zur Verlängerung
+    bestimmter, die Gewährung von Zuschüssen aus dem Europäischen Ausrichtungs-
+    und Garantiefonds für die Landwirtschaft, Abteilung Ausrichtung, betreffender
+    Fristen für die Jahre 1972, 1973 und 1974
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 429/74 af 18. februar 1974 om forlængelse
+    for årene 1972, 1973 og 1974 af visse frister for ydelse af støtte fra Den europæiske
+    udviklings- og garantifond for Landbruget, udviklingssektionen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 429/74 del Consiglio, del 18 febbraio 1974, che proroga
+    per il 1972, il 1973 e il 1974 alcune date limite per la concessione del contributo
+    del Fondo europeo agricolo di orientamento e di garanzia, sezione orientamento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 429/74 van de Raad van 18 februari 1974 tot verlenging
+    voor de jaren 1972, 1973 en 1974 van bepaalde termijnen voor het verlenen van
+    bijstand door het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling
+    Oriëntatie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0429
+docidentifier:
+- content: EU Regulation 429/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0429
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/429/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-02-18'
+- type: implemented
+  at: '1974-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0847
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2140
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

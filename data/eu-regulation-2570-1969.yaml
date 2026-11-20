@@ -1,0 +1,101 @@
+---
+id: EURegulation25701969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2570/69 of the Commission of 22 December 1969 supplementing
+    Commission Regulation (EEC) No 2311/69 of 19 November 1969 on the procedure for
+    operating the flat-rate guarantee system provided for in Article 32 of Regulation
+    (EEC) No 542/69 on Community transit
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2570/69 de la Commission, du 22 décembre 1969, complétant
+    le règlement (CEE) n° 2311/69 de la Commission, du 19 novembre 1969, portant
+    sur les modalités de fonctionnement du système de garantie forfaitaire prévu
+    à l' article 32 du règlement (CEE) n° 542/69 relatif au transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2570/69 der Kommission vom 22. Dezember 1969 zur Ergänzung
+    der Verordnung (EWG) Nr. 2311/69 der Kommission vom 19. November 1969 über die
+    Durchführungsmodalitäten des in Artikel 32 der Verordnung (EWG) Nr. 542/69 über
+    das gemeinschaftliche Versandverfahren vorgesehenen Systems der Pauschalbürgschaft
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2570/69 af 22. december 1969 om ændring
+    af Kommissionens forordning (EØF) nr. 2311/69 af 19. november 1969 om gennemførelsen
+    af det i artikel 32 i forordning (EØF) nr. 542/69 om ordning for fællesskabsforsendelse
+    omhandlede system med en fast kaution
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2570/69 della Commissione, del 22 dicembre 1969, che
+    completa il regolamento (CEE) n. 2311/69 della Commissione, del 19 novembre 1969,
+    relativo alle modalità di funzionamento del sistema di garanzia forfettaria di
+    cui all' articolo 32 del regolamento (CEE) n. 542/69 relativo al transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2570/69 van de Commissie van 22 december 1969 ter
+    aanvulling van Verordening (EEG) nr. 2311/69 van de Commissie van 19 november
+    1969 inzake de wijze van toepassing van de in artikel 32 van Verordening (EEG)
+    nr. 542/69 betreffende communautair douanevervoer voorziene regeling van zekerheidstelling
+    voor een vast bedrag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2570
+docidentifier:
+- content: EU Regulation 2570/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2570
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2570/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-22'
+- type: implemented
+  at: '1969-12-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2311
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

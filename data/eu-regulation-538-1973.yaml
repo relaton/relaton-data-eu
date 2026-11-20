@@ -1,0 +1,94 @@
+---
+id: EURegulation5381973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 538/73 of the Commission of 21 February 1973 amending
+    Regulation (EEC) No 2196/71 of the Commission as regards the period of validity
+    of import licences for rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 538/73 de la Commission, du 21 février 1973, modifiant
+    le règlement (CEE) n° 2196/71 de la Commission en ce qui concerne la durée
+    de validité des certificats d' importation pour le riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 538/73 der Kommission vom 21. Februar 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2196/71 der Kommission hinsichtlich der Geltungsdauer
+    der Einfuhrlizenzen für Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 538/73 af 21. februar 1973 om ændring
+    af Kommissionens forordning (EØF) nr. 2196/71 for så vidt angår gyldighedsperioden
+    for importlicenser for ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 538/73 della Commissione, del 21 febbraio 1973, che
+    modifica il regolamento (CEE) n. 2196/71 della Commissione per quanto riguarda
+    la durata di validità dei titoli di importazione del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 538/73 van de Commissie van 21 februari 1973 houdende
+    wijziging van Verordening (EEG) nr. 2196/71 van de Commissie voor wat betreft
+    de geldigheidsduur van de invoercertificaten voor rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0538
+docidentifier:
+- content: EU Regulation 538/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0538
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/538/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-02-21'
+- type: implemented
+  at: '1973-02-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2196
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

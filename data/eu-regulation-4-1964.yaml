@@ -1,0 +1,81 @@
+---
+id: EURegulation41964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 4/64/Euratom du Conseil, du 30 octobre 1964, modifiant le
+    barème des salaires des agents d établissement du Centre commun de recherches
+    nucléaires affectés en Belgique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 4/64/Euratom des Rates vom 30. Oktober 1964 zur Änderung
+    der Tabelle der Bezüge der Atomanlagenbediensteten der Gemeinsamen Kernforschungsstelle,
+    die in Belgien dienstlich verwendet werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 4/64/Euratom del Consiglio, del 30 ottobre 1964, che modifica
+    la tabella dei salari degli agenti degli stabilimenti del Centro comune di ricerche
+    nucleari che prestano servizio in Belgio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 4/64/Euratom van de Raad van 30 oktober 1964 tot wijziging
+    van de salarisschaal voor de functionarissen verbonden aan een inrichting van
+    het Gemeenschappelijk Centrum voor onderzoek op het gebied van de kernenergie
+    en tewerkgesteld in België
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0004
+docidentifier:
+- content: EU Regulation 4/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0004
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/4/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-30'
+- type: implemented
+  at: '1964-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0010(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

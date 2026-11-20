@@ -1,0 +1,78 @@
+---
+id: EURegulation14171969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1417/69 de la Commission, du 22 juillet 1969, relatif
+    à la vente à l'armée et aux unités assimilées de beurre à prix réduit
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1417/69 der Kommission vom 22. Juli 1969 über den
+    Verkauf von Butter zu herabgesetzten Preisen an die Streitkräfte und ihnen gleichgestellte
+    Einheiten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1417/69 della Commissione, del 22 luglio 1969, relativo
+    alla vendita di burro a prezzo ridotto all'esercito ed a corpi assimilati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1417/69 van de Commissie van 22 juli 1969 betreffende
+    de verkoop van boter tegen verlaagde prijs aan het leger en de daarmee gelijkgestelde
+    eenheden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1417
+docidentifier:
+- content: EU Regulation 1417/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1417
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1417/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-22'
+- type: implemented
+  at: '1969-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1977
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

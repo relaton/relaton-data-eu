@@ -1,0 +1,94 @@
+---
+id: EURegulation5691977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 569/77 of 18 March 1977 amending Regulation
+    (EEC) No 232/75 on the sale of butter at reduced prices for use in the manufacture
+    of pastry products and ice-cream
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 569/77 de la Commission, du 18 mars 1977, modifiant
+    le règlement (CEE) n° 232/75 relatif à la vente à prix réduit de beurre destiné
+    à la fabrication de produits de pâtisserie et de glaces alimentaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 569/77 der Kommission vom 18. März 1977 zur Änderung
+    der Verordnung (EWG) Nr. 232/75 über den Verkauf von Butter zur herabgesetzten
+    Preisen für die Herstellung von Backwaren und Speiseeis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 569/77 af 18. marts 1977 om ændring
+    af forordning (EØF) nr. 232/75 om salg til nedsat pris af smør beregnet til
+    fremstilling af konditorvarer og konsumis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 569/77 della Commissione, del 18 marzo 1977, che modifica
+    il regolamento (CEE) n. 232/75 relativo alla vendita a prezzo ridotto di burro
+    destinato alla fabbricazione di prodotti della pasticceria e di gelati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 569/77 van de Commissie van 18 maart 1977 houdende
+    wijziging van Verordening (EEG) nr. 232/75 betreffende de verkoop tegen verlaagde
+    prijs van boter bestemd voor de vervaardiging van banketbakkerswerk en consumptie-ijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0569
+docidentifier:
+- content: EU Regulation 569/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0569
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/569/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-18'
+- type: implemented
+  at: '1977-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0232
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

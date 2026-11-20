@@ -1,0 +1,77 @@
+---
+id: EURegulation1161963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 116/63/CEE de la Commission, du 25 octobre 1963 fixant les
+    prélèvements intracommunautaires pour les oeufs de volaille en coquilles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 116/63/EWG der Kommission vom 25. Oktober 1963 über die
+    Festsetzung der innergemeinschaftlichen Abschöpfungsbeträge für Eier in der
+    Schale von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 116/63/CEE della Commissione del 25 ottobre 1963 che fissa
+    i prelievi intracomunitari per le uova in guscio di volatili
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 116/63/EEG van de Commissie van 25 oktober 1963 houdende
+    vaststelling van de intracommunautaire heffingen op eieren in de schaal van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0116
+docidentifier:
+- content: EU Regulation 116/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0116
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/116/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-10-25'
+- type: implemented
+  at: '1963-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0078
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

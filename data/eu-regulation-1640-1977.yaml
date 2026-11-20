@@ -1,0 +1,94 @@
+---
+id: EURegulation16401977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1640/77 of 18 July 1977 amending Regulation
+    (EEC) No 564/77 on the transfer to the Italian intervention agency of common wheat
+    held by the German intervention agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1640/77 du Conseil, du 18 juillet 1977, modifiant
+    le règlement (CEE) n° 564/77 relatif au transfert à l'organisme d'intervention
+    italien de froment tendre détenu par l'organisme d'intervention allemand
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1640/77 des Rates vom 18. Juli 1977 zur Änderung
+    der Verordnung (EWG) Nr. 564/77 über den Transfer von Weichweizen aus Beständen
+    der deutschen Interventionsstelle an die italienische Interventionsstelle
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1640/77 af 18. juli 1977 om ændring af forordning
+    (EØF) nr. 564/77 om overførsel til det italienske interventionsorgan af blød
+    hvede, som det tyske interventionsorgan ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1640/77 del Consiglio, del 18 luglio 1977, che modifica
+    il regolamento (CEE) n. 564/77 relativo al trasferimento all'organismo d'intervento
+    italiano di frumento tenero detenuto dall'organismo d'intervento tedesco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1640/77 van de Raad van 18 juli 1977 tot wijziging
+    van Verordening (EEG) nr. 564/77 betreffende de overdracht aan het Italiaanse
+    interventiebureau van zachte tarwe in het bezit van het Duitse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1640
+docidentifier:
+- content: EU Regulation 1640/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1640
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1640/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-07-18'
+- type: implemented
+  at: '1977-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0564
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

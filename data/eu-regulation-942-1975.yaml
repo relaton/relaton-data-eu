@@ -1,0 +1,98 @@
+---
+id: EURegulation9421975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 942/75 of the Council of 27 March 1975 postponing the
+    date of revision of certain protective measures provided for in Regulation (EEC)
+    No 109/70 establishing common rules for imports from state-trading countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 942/75 du Conseil, du 27 mars 1975, reportant la date
+    de révision de certaines mesures de sauvegarde prévues au règlement (CEE) n°
+    109/70 portant établissement d' un régime commun applicable aux importations
+    de pays à commerce d' État
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 942/75 des Rates vom 27. März 1975 zur Verschiebung
+    des Revisionstermins für bestimmte Schutzmaßnahmen im Sinne der Verordnung (EWG)
+    Nr. 109/70 zur Festlegung einer Gemeinsamen Regelung für die Einfuhr von Staatshandelsländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 942/75 af 27. marts 1975 om udsættelse af
+    datoen for en revision af visse beskyttelsesforanstaltninger, der er fastsat i
+    forordning (EØF) nr. 109/70 om fastlæggelse af en fælles ordning for indførsel
+    fra statshandelslande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 942/75 del Consiglio, del 27 marzo 1975, che proroga
+    la data di revisione di talune misure di salvaguardia di cui al regolamento (CEE)
+    n. 109/70 che istituisce un regime comune applicabile alle importazioni dai paesi
+    a commercio di Stato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 942/75 van de Raad van 27 maart 1975 tot verschuiving
+    van de datum voor de herziening van bepaalde vrijwaringsmaatregelen genoemd in
+    Verordening (EEG) nr. 109/70 houdende totstandbrenging van een gemeenschappelijke
+    regeling voor de invoer uit landen met staatshandel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0942
+docidentifier:
+- content: EU Regulation 942/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0942
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/942/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-27'
+- type: implemented
+  at: '1975-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0109
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

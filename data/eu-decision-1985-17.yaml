@@ -1,0 +1,101 @@
+---
+id: EUDecision198517
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '85/17/EEC: Commission Decision of 19 December 1984 repealing Decision
+    78/152/EEC of 22 December 1977 (Only the Danish text is authentic)'
+  type: main
+- language: fr
+  script: Latn
+  content: '85/17/CEE: Décision de la Commission du 19 décembre 1984 abrogeant la
+    décision 78/152/CEE du 22 décembre 1977 (Le texte en langue danoise est le seul
+    faisant foi)'
+  type: main
+- language: de
+  script: Latn
+  content: '85/17/EWG: Entscheidung der Kommission vom 19. Dezember 1984 zur Aufhebung
+    der Entscheidung 78/152/EWG vom 22. Dezember 1977 (Nur der dänische Text ist
+    verbindlich)'
+  type: main
+- language: da
+  script: Latn
+  content: '85/17/EØF: Kommissionens beslutning af 19. december 1984 om ophævelse
+    af beslutning 78/152/EØF af 22. december 1977 (Kun den danske udgave er autentisk)'
+  type: main
+- language: el
+  script: Grek
+  content: '85/17/ΕΟΚ: Απόφαση της Επιτροπής της 19ης Δεκεμβρίου
+    1984 περί καταργήσεως της απόφασης 78/152/ΕΟΚ της
+    22ας Δεκεμβρίου 1977 (Το κείμενο στην δανική γλώσσα
+    είναι το μόνο αυθεντικό)'
+  type: main
+- language: it
+  script: Latn
+  content: '85/17/CEE: Decisione della Commissione del 19 dicembre 1984 che abroga
+    la decisione 78/152/CEE del 22 dicembre 1977 (Il testo in lingua danese è il
+    solo facente fede)'
+  type: main
+- language: nl
+  script: Latn
+  content: '85/17/EEG: Beschikking van de Commissie van 19 december 1984 houdende
+    intrekking van Beschikking 78/152/EEG van 22 december 1977 (Slechts de tekst in
+    de Deense taal is authentiek)'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985D0017
+docidentifier:
+- content: EU Decision 1985/17
+  type: EU
+  primary: true
+- content: CELEX 31985D0017
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1985/17/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-12-19'
+- type: implemented
+  at: '1984-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978D0152
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

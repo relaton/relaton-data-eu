@@ -1,0 +1,93 @@
+---
+id: EURegulation9941971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 994/71 of the Commission of 13 May 1971 amending Regulation
+    (EEC) No 2683/70 as regards the advance fixing of export refunds on certain cheeses
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 994/71 de la Commission, du 13 mai 1971, modifiant
+    le règlement (CEE)" n° 2683/70 en ce qui concerne la fixation à l' avance de
+    la restitution à l' exportation de certaines fromages
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 994/71 der Kommission vom 13. Mai 1971 zur Änderung
+    der Verordnung (EWG) Nr. 2683/70 hinsichtlich der Vorausfestsetzung der Erstattung
+    bei der Ausfuhr bestimmter Käsesorten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 994/71 af 13. maj 1971 om ændring
+    af forordning (EØF) nr. 2683/70 vedrørende forudfastsættelse af eksportrestitutioner
+    for visse ostesorter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 994/71 della Commissione, del 13 maggio 1971, che
+    modifica il regolamento (CEE) n. 2683/70 per quanto concerne la fissazione in
+    anticipo della restituzione all' esportazione di taluni formaggi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 994/71 van de Commissie van 13 mei 1971 houdende
+    wijziging van Verordening (EEG) nr. 2683/70 met betrekking tot het vooraf vaststellen
+    van de restitutie bij de uitvoer van bepaalde kaassoorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0994
+docidentifier:
+- content: EU Regulation 994/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0994
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/994/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-13'
+- type: implemented
+  at: '1971-05-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2683
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

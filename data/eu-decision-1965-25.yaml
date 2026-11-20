@@ -1,0 +1,76 @@
+---
+id: EUDecision196525
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: '65/25/Euratom: Décision du Conseil du 15 juin 1965, portant modification
+    du deuxième programme de recherches et d''enseignement de la CEEA'
+  type: main
+- language: de
+  script: Latn
+  content: '65/25/Euratom: Beschluß des Rates vom 15. Juni 1965 zur Änderung des
+    zweiten Forschungs- und Ausbildungsprogramms der Europäischen Atomgemeinschaft'
+  type: main
+- language: it
+  script: Latn
+  content: '65/25/Euratom: Decisione del Consiglio, del 15 giugno 1965, che modifica
+    il secondo programma di ricerche e d''insegnamento della Comunità Europea dell''Energia
+    Atomica'
+  type: main
+- language: nl
+  script: Latn
+  content: '65/25/Euratom: Besluit van de Raad van 15 juni 1965 tot wijziging van
+    het tweede programma voor onderzoek en onderwijs van de Europese Gemeenschap voor
+    Atoomenergie'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965D0025
+docidentifier:
+- content: EU Decision 1965/25
+  type: EU
+  primary: true
+- content: CELEX 31965D0025
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1965/25/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962D0001
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

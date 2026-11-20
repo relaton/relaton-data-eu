@@ -1,0 +1,107 @@
+---
+id: EURegulation8581981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 858/81 of 1 April 1981 relating to the import
+    of New Zealand butter into the United Kingdom on special terms
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 858/81 du Conseil, du 1er avril 1981, relatif à l'
+    importation de beurre néo-zélandais au Royaume-Uni dans des conditions particulières
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 858/81 des Rates vom 1. April 1981 über die Einfuhr
+    neuseeländischer Butter in das Vereinigte Königreich zu Sonderbedingungen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 858/81 af 1. april 1981 om indførsel på
+    særlige betingelser af newzealandsk smør til Fællesskabet
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 858/81 τού Συμβουλίου
+    τής 1ης Απριλίου 1981 περί τής εισαγωγής βουτύρου
+    Νέας Ζηλανδίας στό Ηνωμένο Βασίλειο μέ ιδιαίτερους
+    όρους
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 858/81 del Consiglio, del 1° aprile 1981, relativo
+    all' importazione di burro neozelandese nel Regno Unito a condizioni speciali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 858/81 van de Raad van 1 april 1981 inzake de invoer,
+    onder bijzondere voorwaarden, van boter uit Nieuw-Zeeland in het Verenigd Koninkrijk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0858
+docidentifier:
+- content: EU Regulation 858/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0858
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/858/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-04-01'
+- type: implemented
+  at: '1981-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1655
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2157
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R2540
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

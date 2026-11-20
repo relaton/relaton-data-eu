@@ -1,0 +1,66 @@
+---
+id: EURegulation1521966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 152/66/CEE de la Commission, du 25 octobre 1966, fixant le
+    montant des prélèvements intracommunautaires pour les oeufs à couver de volailles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 152/66/EWG der Kommission vom 25. Oktober 1966 zur Festsetzung
+    der innergemeinschaftlichen Abschöpfungsbeträge für Bruteier von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 152/66/CEE della Commissione, del 25 ottobre 1966, che fissa
+    i prelievi intracomunitari per le uova da cova di volatili da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 152/66/EEG van de Commissie van 25 oktober 1966 houdende
+    vaststelling van het bedrag van de intracommunautaire heffingen op broedeieren
+    van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0152
+docidentifier:
+- content: EU Regulation 152/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0152
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/152/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

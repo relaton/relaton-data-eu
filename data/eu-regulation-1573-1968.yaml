@@ -1,0 +1,95 @@
+---
+id: EURegulation15731968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1573/68 of the Commission of 9 October 1968 amending
+    Regulation (EEC) No 1072/68 as regards the levy on frozen beef and veal in the
+    form of 'compensated quarters'
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1573/68 de la Commission, du 9 octobre 1968, modifiant
+    le règlement (CEE) n° 1072/68 en ce qui concerne le prélèvement pour les viandes
+    bovines congelées présentées sous forme de "quartiers dits compensés"
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1573/68 der Kommission vom 9. Oktober 1968 zur Änderung
+    der Verordnung (EWG) Nr. 1072/68 hinsichtlich der Abschöpfung für gefrorenes
+    Rindfleisch, das als ,,quartiers compensés' ' angeboten wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1573/68 af 9. oktober 1968 om ændring
+    af forordning (EØF) nr. 1072/68 med hensyn til importafgiften for frosset oksekød,
+    der tilbydes som såkaldte "quartiers compensés"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1573/68 della Commissione, del 9 ottobre 1968, che
+    modifica il regolamento (CEE) n. 1072/68 per quanto concerne il prelievo applicabile
+    alle carni bovine congelate presentate sotto forma di quarti detti compensati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1573/68 van de Commissie van 9 oktober 1968 houdende
+    wijziging van Verordening (EEG) nr. 1072/68 met betrekking tot de heffing voor
+    bevroren rundvlees, dat wordt aangeboden in de vorm van zogenoemde ,,compensated
+    quarters' '
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1573
+docidentifier:
+- content: EU Regulation 1573/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1573
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1573/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-09'
+- type: implemented
+  at: '1968-11-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1072
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

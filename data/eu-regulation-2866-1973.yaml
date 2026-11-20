@@ -1,0 +1,93 @@
+---
+id: EURegulation28661973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2866/73 of the Commission of 19 October 1973 concerning
+    notification to the Commission by the Member States of import licences issued
+    for wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2866/73 de la Commission, du 19 octobre 1973, relatif
+    aux communications des États membres à la Commission des certificats d'importation
+    délivrés dans le secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2866/73 der Kommission vom 19. Oktober 1973 über
+    die Mitteilungen, die die Mitgliedsstaaten der Kommission hinsichtlich der erteilten
+    Einfuhrlizenzen für Wein machen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2866/73 af 19. oktober 1973 om meddelelser
+    fra medlemsstaterne til Kommissionen om udstedte importlicenser for vin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2866/73 della Commissione, del 19 ottobre 1973 relativo
+    alle comunicazioni degli Stati membri alla Commissione dei titoli d'importazione
+    rilasciati nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2866/73 van de Commissie van 19 oktober 1973 betreffende
+    de door de Lid-Staten aan de Commissie te verstrekken mededelingen inzake de in
+    de sector wijn afgegeven invoercertificaten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2866
+docidentifier:
+- content: EU Regulation 2866/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2866
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2866/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-19'
+- type: implemented
+  at: '1973-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1014
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,104 @@
+---
+id: EURegulation1481978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 148/78 of 26 January 1978 amending Regulation
+    (EEC) No 2900/77 laying down detailed rules for the sale of beef held by the intervention
+    agencies to enable the import with total suspension of the levy of frozen beef
+    and veal intended for processing
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 148/78 de la Commission, du 26 janvier 1978, modifiant
+    le règlement (CEE) n° 2900/77 portant modalités de la vente de viandes bovines
+    détenues par les organismes d' intervention afin de permettre l' importation,
+    en suspension totale du prélèvement, de viandes bovines congelées destinées
+    à la transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 148/78 der Kommission vom 26. Januar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2900/77 über die Modalitäten für den Verkauf von Rindfleisch
+    aus Beständen der Interventionsstellen zur Ermöglichung der Einfuhr von zur
+    Verarbeitung bestimmtem gefrorenem Rindfleisch mit vollständiger Aussetzung der
+    Abschöpfung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 148/78 af 26. januar 1978 om ændring
+    af forordning (EØF) nr. 2900/77 om gennemførelsesbestemmelser for salg af oksekød,
+    som interventionsorganerne ligger inde med, med henblik på at tillade indførsel
+    af frosset oksekød til forarbejdning med fuld suspension af importafgiften
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 148/78 della Commissione, del 26 gennaio 1978, che
+    modifica il regolamento (CEE) n. 2900/77 recante modalità per la vendita di carni
+    bovine detenute dagli organismi d' intervento onde consentire l' importazione,
+    con sospensione totale del prelievo, di carni bovine congelate destinate alla
+    trasformazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 148/78 van de Commissie van 26 januari 1978 tot wijziging
+    van Verordening (EEG) nr. 2900/77 houdende bepalingen betreffende de verkoop van
+    rundvlees dat in het bezit is van de interventiebureaus ten einde de invoer, met
+    totale schorsing van de heffing, van bevroren rundvlees bestemd voor de verwerking
+    mogelijk te maken
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0148
+docidentifier:
+- content: EU Regulation 148/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0148
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/148/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-01-26'
+- type: implemented
+  at: '1978-01-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2900
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

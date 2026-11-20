@@ -1,0 +1,74 @@
+---
+id: EURegulation12081969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1208/69 du Conseil, du 26 juin 1969, relatif à la
+    date à partir de laquelle les organismes d'intervention n'achètent que du beurre
+    portant la marque de contrôle
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1208/69 des Rates vom 26. Juni 1969 betreffend das
+    Datum, von welchem ab die Interventionsstellen nur noch Butter mit dem Kontrollzeichen
+    kaufen dürfen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1208/69 del Consiglio, del 26 giugno 1969, relativo
+    alla data a partire dalla quale gli organismi d'intervento acquistano soltanto
+    burro provvisto del marchio di controllo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1208/69 van de Raad van 26 juni 1969 betreffende
+    de datum met ingang waarvan de interventiebureaus alleen boter voorzien van een
+    controlemerk kopen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1208
+docidentifier:
+- content: EU Regulation 1208/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1208
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1208/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-26'
+- type: implemented
+  at: '1969-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

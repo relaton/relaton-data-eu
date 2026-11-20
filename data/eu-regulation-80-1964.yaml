@@ -1,0 +1,65 @@
+---
+id: EURegulation801964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 80/64/CEE de la Commission, du 29 juin 1964, prorogeant la
+    validité du règlement n 5/64/CEE de la Commission
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 80/64/EWG der Kommission vom 29. Juni 1964 zur Verlängerung
+    der Gültigkeitsdauer der Verordnung Nr. 5/64/EWG der Kommission
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 80/64/CEE della Commissione, del 29 giugno 1964, che proroga
+    il termine d'applicazione del regolamento n. 5/64/CEE della Commissione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 80/64/EEG van de Commissie van 29 juni 1964 houdende verlenging
+    van de geldigheidsduur van Verordening no. 5/64/EEG van de Commissie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0080
+docidentifier:
+- content: EU Regulation 80/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0080
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/80/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,92 @@
+---
+id: EUDecision1974599
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Decision of 18 November 1974 closing the standing invitation
+    to tender pursuant to the Decision of 10 July 1974 for 443 128 metric tons of
+    barley held by the German intervention agency
+  type: main
+- language: fr
+  script: Latn
+  content: '74/599/CEE: Décision de la Commission, du 18 novembre 1974, clôturant
+    l''adjudication permanente portant sur 443.128 tonnes d''orge détenues par l''organisme
+    d''intervention allemand, en vertu de la décision du 10 juillet 1974'
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung der Kommission vom 18. November 1974 zur Aufhebung der mit
+    der Entscheidung vom 10. Juli 1974 eröffneten Dauerausschreibung über 443 128
+    Tonnen im Besitz der deutschen Interventionsstelle befindlicher Gerste
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Beslutning af 18. november 1974 om ophævelse af den ved
+    beslutning af 10. juli 1974 åbnede løbende licitation for 443 128 tons byg,
+    der er i det tyske interventionsorgans besiddelse
+  type: main
+- language: it
+  script: Latn
+  content: Decisione della Commissione, del 18 novembre 1974, che chiude la gara permanente
+    relativa a 443 128 tonnellate di orzo detenuto dall'organismo d'intervento tedesco,
+    in virtù della decisione del 10 luglio 1974
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Commissie van 18 november 1974 houdende sluiting van
+    de bij beschikking van 10 juli 1974 geopende permanente openbare inschrijving
+    voor 443 128 ton gerst in het bezit van het Duitse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974D0599
+docidentifier:
+- content: EU Decision 1974/599
+  type: EU
+  primary: true
+- content: CELEX 31974D0599
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1974/599/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974D0414
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

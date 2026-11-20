@@ -1,0 +1,80 @@
+---
+id: EURegulation14951970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1495/70 du Conseil, du 27 juillet 1970, portant augmentation
+    du volume du contingent tarifaire communautaire de magnésium brut de la position
+    77.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1495/70 des Rates vom 27. Juli 1970 über die Aufstockung
+    des Gemeinschaftszollkontingents für Rohmagnesium der Tarifstelle 07.01 A des
+    Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1495/70 del Consiglio, del 27 luglio 1970, relativo
+    all'aumento del volume del contingente tariffario comunitario di magnesio greggio
+    della voce 77.01 A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1495/70 van de Raad van 27 juli 1970 houdende vergroting
+    van het communautaire tariefcontingent voor ruw magnesium van post 77.01 A van
+    het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1495
+docidentifier:
+- content: EU Regulation 1495/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1495
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1495/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-27'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2615
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

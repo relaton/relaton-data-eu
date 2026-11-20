@@ -1,0 +1,96 @@
+---
+id: EURegulation12231983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1223/83 of 20 May 1983 on the exchange rates
+    to be applied in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1223/83 du Conseil du 20 mai 1983 relatif aux taux
+    de change à appliquer dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1223/83 des Rates vom 20. Mai 1983 über die in der
+    Landwirtschaft anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1223/83 af 20. maj 1983 om de vekselkurser,
+    der skal anvendes for landbruget
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1223/83 του Συμβουλίου
+    της 17ης Μαΐου 1983 περί των τιμών συναλλάγματος
+    που πρέπει να εφαρμοστούν στον γεωργικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1223/83 del Consiglio del 20 maggio 1983 relativo
+    ai tassi di cambio da applicare nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1223/83 van de Raad van 20 mei 1983 inzake de in
+    de landbouwsector toe te passen wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1223
+docidentifier:
+- content: EU Regulation 1223/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1223
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1223/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-05-20'
+- type: implemented
+  at: '1983-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

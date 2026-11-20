@@ -1,0 +1,94 @@
+---
+id: EURegulation23011973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2301/73 of the Commission of 23 August 1973 amending
+    Regulation (EEC) No 2141/73 on a period during which tenders may be submitted
+    in response to the invitation to tender of sugar for export
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2301/73 de la Commission, du 23 août 1973, modifiant
+    le règlement (CEE) n° 2141/73 en ce qui concerne un délai de présentation
+    des offres pour l' adjudication du sucre destiné à l' exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2301/73 der Kommission vom 23. August 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2141/73 bezüglich der Einreichungsfrist der Angebote
+    für die Ausschreibung von auszuführendem Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2301/73 af 23. august 1973 om ændring
+    af forordning (EØF) nr. 2141/73 for så vidt angår en frist for indgivelse af
+    bud til licitation af sukker bestemt til udførsel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2301/73 della Commissione, del 23 agosto 1973, che
+    modifica il regolamento (CEE) n. 2141/73 per quanto riguarda un termine di presentazione
+    delle offerte per la gara di zucchero destinato all' esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2301/73 van de Commissie van 23 augustus 1973 tot
+    wijziging van Verordening (EEG) nr. 2141/73 betreffende een termijn voor de aanbieding
+    van offertes voor de openbare inschrijving van suiker bestemd voor de uitvoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2301
+docidentifier:
+- content: EU Regulation 2301/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2301
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2301/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-08-23'
+- type: implemented
+  at: '1973-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2141
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

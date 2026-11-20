@@ -1,0 +1,66 @@
+---
+id: EURegulation19541968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1954/68 de la Commission, du 3 décembre 1968, relatif
+    à l'extension en Allemagne des mesures d'intervention dans le secteur de la viande
+    bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1954/68 der Kommission vom 3. Dezember 1968 über
+    die Ausdehnung von Interventionsmaßnahmen auf dem Rindfleischsektor in Deutschland
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1954/68 della Commissione, del 3 dicembre 1968, relativo
+    all'estensione in Germania di misure d'intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1954/68 van de Commissie van 3 december 1968 betreffende
+    de uitbreiding in Duitsland van interventiemaatregelen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1954
+docidentifier:
+- content: EU Regulation 1954/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1954
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1954/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

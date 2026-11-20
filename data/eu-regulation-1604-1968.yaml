@@ -1,0 +1,84 @@
+---
+id: EURegulation16041968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1604/68 of 15 October 1968 amending Annex I
+    to Regulation (EEC) No 865/68 in respect of certain fruit juices
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1604/68 du Conseil, du 15 octobre 1968, modifiant
+    l'annexe I du règlement (CEE) n° 865/68 en ce qui concerne certains jus de fruits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1604/68 des Rates vom 15. Oktober 1968 zur Änderung
+    des Anhangs I der Verordnung (EWG) Nr. 865/68 in bezug auf bestimmte Fruchtsäfte
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1604/68 del Consiglio, del 15 ottobre 1968, che modifica
+    l'allegato I del regolamento (CEE) n. 865/68 per quanto riguarda alcuni succhi
+    di frutta
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1604/68 van de Raad van 15 oktober 1968 houdende
+    wijziging van bijlage I van Verordening (EEG) nr. 865/68 met betrekking tot bepaalde
+    vruchtensappen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1604
+docidentifier:
+- content: EU Regulation 1604/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1604
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1604/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-15'
+- type: implemented
+  at: '1968-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0835
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

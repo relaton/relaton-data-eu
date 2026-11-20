@@ -1,0 +1,69 @@
+---
+id: EURegulation601965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 60/65/CEE de la Commission, du 22 avril 1965, portant fixation
+    des montants forfaitaires pour certaines catégories de céréales, farines, gruaux
+    et semoules pour la campagne de commercialisation 1965/1966
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 60/65/EWG der Kommission vom 22. April 1965 über die Festsetzung
+    der Pauschbeträge für Getreide, Mehl, Grob- und FeingrieD für das Wirtschaftsjahr
+    1965/1966
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 60/65/CEE della Commissione, del 22 aprile 1965, relativo
+    alla fissazione degli ammontari forfettari per alcune categorie di cereali, farine,
+    semole e semolini per la campagna di commercializzazione 1965/1966
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 60/65/EEG van de Commissie van 22 april 1965 houdende vaststelling
+    van de forfaitaire bedragen voor granen, meel, grutten, gries en griesmeel voor
+    het verkoopseizoen 1965/1966
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0060
+docidentifier:
+- content: EU Regulation 60/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0060
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/60/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

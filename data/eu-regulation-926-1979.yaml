@@ -1,0 +1,99 @@
+---
+id: EURegulation9261979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 926/79 of 8 May 1979 on common rules for imports
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 926/79 du Conseil, du 8 mai 1979, relatif au régime
+    commun applicable aux importations
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 926/79 des Rates vom 8. Mai 1979 betreffend die gemeinsame
+    Einfuhrregelung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 926/79 af 8. maj 1979 om den fælles importordning
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 926/79 του Συμβουλίου,
+    της 8ης Μαΐου 1979, περί του κοινού καθεστώτος
+    εισαγωγών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 926/79 del Consiglio, dell' 8 maggio 1979, relativo
+    al regime comune applicabile alle importazioni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 926/79 van de Raad van 8 mei 1979 inzake de gemeenschappelijke
+    regeling voor de invoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0926
+docidentifier:
+- content: EU Regulation 926/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0926
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/926/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-05-08'
+- type: implemented
+  at: '1979-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0455
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1439
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

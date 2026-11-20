@@ -1,0 +1,74 @@
+---
+id: EURegulation25641969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2564/69 de la Commission, du 22 décembre 1969, complétant
+    le règlement (CEE) n° 1669/69 relatif à certaines mesures à prendre dans le
+    secteur du sucre à la suite de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2564/69 der Kommission vom 22. Dezember 1969 zur Ergänzung
+    der Verordnung (EWG) Nr. 1669/69 betreffend Maßnahmen auf dem Zuckersektor infolge
+    der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2564/69 della Commissione, del 22 dicembre 1969, che
+    completa il regolamento (CEE) n. 1669/69 relativo a talune misure da adottare
+    nel settore dello zucchero a seguito della svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2564/69 van de Commissie van 22 december 1969 tot
+    aanvulling van Verordening (EEG) nr. 1669/69 betreffende ingevolge de devaluatie
+    van de Franse frank in de sector suiker te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2564
+docidentifier:
+- content: EU Regulation 2564/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2564
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2564/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-22'
+- type: implemented
+  at: '1969-12-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

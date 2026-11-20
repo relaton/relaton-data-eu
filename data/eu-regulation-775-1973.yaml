@@ -1,0 +1,98 @@
+---
+id: EURegulation7751973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 775/73 of the Commission of 20 March 1973 amending
+    Regulation (EEC) No 2637/70 on special detailed rules for the application of the
+    system of import and export licences and advance fixing certificates for agricultural
+    products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 775/73 de la Commission, du 20 mars 1973, modifiant
+    le règlement (CEE) n° 2637/70, portant modalités particulières d' application
+    du régime des certificats d' importation, d' exportation et de préfixation pour
+    les produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 775/73 der Kommission vom 20. März 1973 zur Änderung
+    der Verordnung (EWG) Nr. 2637/70 über besondere Durchführungsvorschriften für
+    Einfuhr- und Ausfuhrlizenzen sowie Vorausfestsetzungsbescheinigungen für landwirtschaftliche
+    Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 775/73 af 20. marts 1973 om ændring
+    af forordning (EØF) nr. 2637/70 om de særlige gennemførelsesbestemmelser for
+    ordningen med import- og eksportlicenser og forudfastsættelsesattester for landbrugsprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 775/73 della Commissione, del 20 marzo 1973, che modifica
+    il regolamento (CEE) n. 2637/70 che stabilisce modalità particolari d' applicazione
+    per il regime dei titoli d' importazione e d' esportazione e dei certificati di
+    fissazione anticipata relativi ai prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 775/73 van de Commissie van 20 maart 1973 tot wijziging
+    van Verordening (EEG) nr. 2637/70 houdende bijzondere uitvoeringsbepalingen inzake
+    het stelsel van invoer-, uitvoer- en voorfixatiecertificaten voor landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0775
+docidentifier:
+- content: EU Regulation 775/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0775
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/775/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-20'
+- type: implemented
+  at: '1973-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

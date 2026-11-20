@@ -1,0 +1,88 @@
+---
+id: EURegulation30441975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3044/75 of the Commission of 21 November 1975 adjusting
+    the amount of the subsidy for colza and rape seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3044/75 de la Commission, du 21 novembre 1975, portant
+    ajustement du montant de l' aide pour les graines de colza et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3044/75 der Kommission vom 21. November 1975 zur Anpassung
+    des Beihilfebetrags für Raps- und Rübsensamen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3044/75 af 21. november 1975 om regulering
+    af støttebeløbet for raps- og rybsfrø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3044/75 della Commissione, del 21 novembre 1975, che
+    adegua l' importo dell' integrazione per i semi di colza e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3044/75 van de Commissie van 21 november 1975 tot
+    aanpassing van het steunbedrag voor koolzaad en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3044
+docidentifier:
+- content: EU Regulation 3044/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3044
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3044/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-11-21'
+- type: implemented
+  at: '1975-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2647
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

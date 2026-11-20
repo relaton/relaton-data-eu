@@ -1,0 +1,78 @@
+---
+id: EURegulation2381967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 238/67/CEE de la Commission, du 30 juin 1967, concernant
+    la communication des données nécessaires à l'application du règlement n°
+    44/67/CEE concernant certaines mesures d'organisation commune des marchés dans
+    le secteur du sucre pour la campagne 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 238/67/EWG der Kommission vom 30. Juni 1967 betreffend die
+    Mitteilung von Angaben, die zur Anwendung der Verordnung Nr. 44/67/EWG über einzelne
+    Maßnahmen zur gemeinsamen Marktorganisation für Zucker für das Wirtschaftsjahr
+    1967/1968 erforderlich sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 238/67/CEE della Commissione, del 30 giugno 1967, riguardante
+    la comunicazione dei dati necessari per l'applicazione del regolamento n. 44/67/CEE
+    relativo ad alcune misure di organizzazione comune dei mercati nel settore dello
+    zucchero per la campagna 1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 238/67/EEG van de Commissie van 30 juni 1967 betreffende
+    het mededelen van de noodzakelijke gegevens voor de toepassing van Verordening
+    Nr. 44/67/EEG houdende maatregelen tot gemeenschappelijke ordening der markten
+    in de suikersector voor het verkoopseizoen 1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0238
+docidentifier:
+- content: EU Regulation 238/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0238
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/238/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

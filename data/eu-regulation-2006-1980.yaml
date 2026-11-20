@@ -1,0 +1,108 @@
+---
+id: EURegulation20061980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2006/80 of 18 July 1980 determining the
+    intervention centres for cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2006/80 de la Commission, du 18 juillet 1980, déterminant
+    les centres d' intervention des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2006/80 der Kommission vom 18. Juli 1980 zur Festlegung
+    der Interventionsorte für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2006/80 af 18. juli 1980 om fastsættelse
+    af interventionscentrene for korn
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2006/80 τής Επιτροπής
+    τής 18ης Ιουλίου 1980 περί καθορισμού τών κέντρων
+    παρεμβάσεως τών σιτηρών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2006/80 della Commissione, del 18 luglio 1980, che
+    fissa i centri d' intervento per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2006/80 van de Commissie van 18 juli 1980 houdende
+    aanwijzing van de interventiecentra voor granen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2006/80 da Comissão, de 18 de Julho de 1980, que
+    estabelece os centros de intervenção dos cereais
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2006/80 de la Comisión, de 18 de julio de 1980, por
+    el que se determinan los centros de intervención de los cereales
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2006
+docidentifier:
+- content: EU Regulation 2006/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2006
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2006/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-07-18'
+- type: implemented
+  at: '1980-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1501
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

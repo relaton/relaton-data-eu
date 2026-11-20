@@ -1,0 +1,119 @@
+---
+id: EURegulation31801976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3180/76 of 21 December 1976 amending Regulations
+    (EEC) No 786/69, (EEC) No 787/69, (EEC) No 788/69 and (EEC) No 2334/69 on the
+    financing of intervention expenditure on the domestic market
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3180/76 du Conseil, du 21 décembre 1976, modifiant
+    les règlements (CEE) n° 786/69, n° 787/69, n° 788/69 et n° 2334/69 relatifs
+    au financement des dépenses d' intervention sur le marché intérieur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3180/76 des Rates vom 21. Dezember 1976 zur Änderung
+    der Verordnungen (EWG) Nr. 786/69, Nr. 787/69, Nr. 788/69 und Nr. 2334/69 über
+    die Finanzierung der Interventionsausgaben auf dem Binnenmarkt
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3180/76 af 21. december 1976 om ændring
+    af forordningerne (EØF) nr. 786/69, nr. 787/69, nr. 788/69 og nr. 2334/69 om
+    finansiering af interventionsudgifter på hjemmemarkedet
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3180/76 τού Συμβουλίου
+    τής 21ης Δεκεμβρίου 1976 περί τροποποιήσεως τών
+    κανονισμών (ΕΟΚ) αριθ. 786/69, (ΕΟΚ) αριθ. 787/69, (ΕΟΚ)
+    αριθ. 788/69 καί (ΕΟΚ) αριθ. 2334/69 «περί τής χρηματοδοτήσεως
+    τών δαπανών παρεμβάσεως στήν εσωτερική αγορά»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3180/76 del Consiglio, del 21 dicembre 1976, che modifica
+    i regolamenti (CEE) n. 786/69, (CEE) n. 787/69, (CEE)n. 788/69 e (CEE) n. 2334/69
+    relativi al finanziamento delle spese d' intervento sul mercato interno
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3180/76 van de Raad van 21 december 1976 houdende
+    wijziging van de Verordeningen (EEG) nrs. 786/69, 787/69, 788/69 en 2334/69 betreffende
+    de financiering van de interventie-uitgaven op de interne markt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R3180
+docidentifier:
+- content: EU Regulation 3180/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R3180
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/3180/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-21'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0786
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0787
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0788
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2334
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation10011978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1001/78 of 12 May 1978 amending Regulation
+    (EEC) No 1079/77 as regards the amount of the co-responsibility levy in the milk
+    and milk products sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1001/78 du Conseil, du 12 mai 1978, modifiant le règlement
+    (CEE) n° 1079/77 en ce qui concerne le niveau du prélèvement de coresponsabilité
+    applicable dans le secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1001/78 des Rates vom 12. Mai 1978 zur Änderung der
+    Verordnung (EWG) Nr. 1079/77 hinsichtlich der Höhe der Mitverantwortungsabgabe
+    für Milch und Milcherzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr.1001/78 af 12. maj 1978 om ændring af forordning
+    (EØF) nr. 1079/77 for så vidt angår størrelsen af den for mælk og mejeriprodukter
+    gældende medansvarsafgift
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1001/78 del Consiglio, del 12 maggio 1978, che modifica
+    il regolamento (CEE) n. 1079/77 per quanto riguarda il livello del prelievo di
+    corresponsabilità applicabile nel settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1001/78 van de Raad van 12 mei 1978 tot wijziging
+    van Verordening (EEG) nr. 1079/77 met betrekking tot het bedrag van de medeverantwoordelijkheidsheffing
+    van toepassing in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1001
+docidentifier:
+- content: EU Regulation 1001/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1001
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1001/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-05-12'
+- type: implemented
+  at: '1978-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1079
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

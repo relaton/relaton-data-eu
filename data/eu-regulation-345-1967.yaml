@@ -1,0 +1,68 @@
+---
+id: EURegulation3451967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 345/67/CEE de la Commission, du 26 juillet 1967, confirmant
+    le correctif de la restitution pour les céréales, fixé par le règlement n
+    267/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 345/67/EWG der Kommission vom 26. Juli 1967 zur Bestätigung
+    der durch die Verordnung Nr. 267/67/EWG festgesetzten Berichtigung der Erstattung
+    für Getreide
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 345/67/CEE della Commissione, del 26 luglio 1967, che conferma
+    il correttivo della restituzione per i cereali, fissato dal regolamento n. 267/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 345/67/EEG van de Commissie van 26 juli 1967 betreffende
+    de bevestiging van het correctief op de restitutie voor granen dat vastgesteld
+    is bij Verordening no. 267/67/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0345
+docidentifier:
+- content: EU Regulation 345/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0345
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/345/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

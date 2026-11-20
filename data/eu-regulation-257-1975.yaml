@@ -1,0 +1,93 @@
+---
+id: EURegulation2571975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 257/75 of the Commission of 31 January 1975 amending
+    Regulation (EEC) No 3067/74 as regards the period for the granting of interest
+    subsidies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 257/75 de la Commission, du 31 janvier 1975, modifiant
+    le règlement (CEE) n° 3067/74 en ce qui concerne la période d' octroi des bonifications
+    d' intérêt
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 257/75 der Kommission vom 31. Januar 1975 zur Änderung
+    der Verordnung (EWG) Nr. 3067/74 betreffend den Zeitraum, für den Zinsvergütungen
+    gewährt werden
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 257/75 af 31. januar 1975 om ændring
+    af forordning (EØF) nr. 3067/74 for så vidt angår tidsrummet for ydelse af
+    rentegodtgørelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 257/75 della Commissione, del 31 gennaio 1975, che
+    modifica il regolamento (CEE) n. 3067/74 per quanto riguarda il periodo di concessione
+    del bonifico d' interessi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 257/75 van de Commissie van 31 januari 1975 tot wijziging
+    van Verordening (EEG) nr. 3067/74 inzake de termijn voor het verlenen van rentesubsidies
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0257
+docidentifier:
+- content: EU Regulation 257/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0257
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/257/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-31'
+- type: implemented
+  at: '1975-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3067
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

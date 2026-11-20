@@ -1,0 +1,69 @@
+---
+id: EURegulation11521970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1152/70 de la Commission, du 18 juin 1970, autorisant
+    la cession à l'industrie de transformation des pommes ayant fait l'objet d'intervention
+    et fixant les conditions de cette cession
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1152/70 der Kommission vom 18. Juni 1970 zur Ermächtigung
+    zur Abgabe von Äpfeln aus der Intervention an die verarbeitende Industrie und
+    zur Regelung der Abgabebedingungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1152/70 della Commissione, del 18 giugno 1970, che
+    autorizza la cessione all'industria di trasformazione delle mele che sono state
+    oggetto d'intervento e fissa le relative modalità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1152/70 van de Commissie van 18 juni 1970 houdende
+    machtiging tot levering aan de verwerkende industrie van appelen waarop interventiemaatregelen
+    zijn toegepast en tot vaststelling van de leveringsvoorwaarden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1152
+docidentifier:
+- content: EU Regulation 1152/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1152
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1152/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,144 @@
+---
+id: EUDirective1989341
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 89/341/EEC of 3 May 1989 amending Directives 65/65/EEC,
+    75/318/EEC and 75/319/EEC on the approximation of provisions laid down by law,
+    regulation or administrative action relating to proprietary medicinal products
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 89/341/CEE du Conseil du 3 mai 1989 modifiant les directives
+    65/65/CEE, 75/318/CEE et 75/319/CEE concernant le rapprochement des dispositions
+    législatives, réglementaires et administratives relatives aux spécialités
+    pharmaceutiques
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 89/341/EWG des Rates vom 3. Mai 1989 zur Änderung der Richtlinien
+    65/65/EWG, 75/318/EWG und 75/319/EWG zur Angleichung der Rechts- und Verwaltungsvorschriften
+    über Arzneispezialitäten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 89/341/EØF af 3. maj 1989 om ændring af direktiv 65/65/EØF,
+    75/318/EØF og 75/319/EØF om tilnærmelse af lovgivning om farmaceutiske specialiteter
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 89/341/ΕΟΚ του Συμβουλίου της 3ης Μαΐου
+    1989 για την τροποποίηση των οδηγιών 65/65/ΕΟΚ,
+    75/318/ΕΟΚ και 75/319/ΕΟΚ περί της προσέγγισης των
+    νομοθετικών, κανονιστικών και διοικητικών
+    διατάξεων σχετικά με τα φαρμακευτικά ιδιοσκευάσματα
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 89/341/ETY, annettu 3 päivänä toukokuuta 1989,
+    lääkevalmisteita koskevan lainsäädännön lähentämisestä annettujen direktiivien
+    65/65/ETY, 75/318/ETY ja 75/319/ETY muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 89/341/CEE del Consiglio del 3 maggio 1989 che modifica le direttive
+    65/65/CEE, 75/318/CEE e 75/319/CEE concernenti il ravvicinamento delle disposizioni
+    legislative, regolamentari ed amministrative relative alle specialità medicinali
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 89/341/EEG van de Raad van 3 mei 1989 tot wijziging van de Richtlijnen
+    65/65/EEG, 75/318/EEG en 75/319/EEG betreffende de aanpassing van de wettelijke
+    en bestuursrechtelijke bepalingen inzake farmaceutische specialiteiten
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 89/341/CEE do Conselho de 3 de Maio de 1989 que altera as Directivas
+    65/65/CEE, 75/318/CEE e 75/319/CEE relativas à aproximação das disposições
+    legislativas, regulamentares e administrativas, respeitantes às especialidades
+    farmacêuticas
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 89/341/CEE del Consejo de 3 mayo de 1989 por la que se modifican
+    las Directivas 65/65/CEE, 75/318/CEE y 75/319/CEE relativas a la aproximación
+    de las disposiciones legales, reglamentarias y administrativas sobre especialidades
+    farmacéuticas
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 89/341/EEG av den 3 maj 1989 om ändring av direktiven
+    65/65/EEG, 75/318/EEG och 75/319/EEG om tillnärmning av bestämmelser som fastställts
+    genom lagar eller andra författningar och som rör farmaceutiska specialiteter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989L0341
+docidentifier:
+- content: EU Directive 1989/341
+  type: EU
+  primary: true
+- content: CELEX 31989L0341
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1989/341/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-05-03'
+- type: implemented
+  at: '1989-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965L0065
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975L0318
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975L0319
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

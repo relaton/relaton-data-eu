@@ -1,0 +1,88 @@
+---
+id: EURegulation7371973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 737/73 of the Commission of 14 March 1973 fixing the
+    new list of late varieties of Lolium perenne L.
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 737/73 de la Commission, du 14 mars 1973, fixant la
+    nouvelle liste des variétés tardives de lolium perenne L
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 737/73 der Kommission vom 14. März 1973 zur Festsetzung
+    der neuen Liste der späten Sorten von Lolium perenne L
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 737/73 af 14. marts 1973 om fastsættelse
+    af den nye liste af de sene sorter af Lolium perenne L
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 737/73 della Commissione, del 14 marzo 1973, che stabilisce
+    il nuovo elenco delle varietà tardive di «Lolium perenne L.»
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 737/73 van de Commissie van 14 maart 1973 houdende
+    vaststelling van de nieuwe lijst van late rassen van Lolium perenne L
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0737
+docidentifier:
+- content: EU Regulation 737/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0737
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/737/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-14'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2640
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

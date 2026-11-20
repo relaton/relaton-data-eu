@@ -1,0 +1,79 @@
+---
+id: EURegulation17751969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1775/69 de la Commission, du 8 septembre 1969, relatif
+    à la fixation des prélèvements applicables aux huiles d'olive n'ayant pas subi
+    un processus de raffinage
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1775/69 der Kommission vom 8. September 1969 zur Festsetzung
+    der Abschöpfungen für nichtraffinierte Olivenöle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1775/69 della Commissione, dell'8 settembre 1969,
+    relativo alla fissazione dei prelievi applicabili agli oli d'oliva che non hanno
+    subito un processo di raffinazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1775/69 van de Commissie van 8 september 1969 betreffende
+    de vaststelling van de heffingen voor olijfolie welke niet aan een raffinage-
+    proces onderworpen is geweest
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1775
+docidentifier:
+- content: EU Regulation 1775/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1775
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1775/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-09-08'
+- type: implemented
+  at: '1969-09-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0173
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

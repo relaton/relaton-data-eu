@@ -1,0 +1,121 @@
+---
+id: EUDirective199960
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 1999/60/EC of 17 June 1999 amending Directive 78/660/EEC
+    as regards amounts expressed in ecus
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 1999/60/CE du Conseil, du 17 juin 1999, modifiant la directive
+    78/660/CEE en ce qui concerne les montants exprimés en écus
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 1999/60/EG des Rates vom 17. Juni 1999 zur Änderung hinsichtlich
+    der in Ecu ausgedrückten Beträge der Richtlinie 78/660/EWG
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 1999/60/EF af 17. juni 1999 om ændring af direktiv 78/660/EØF
+    med hensyn til de beløb, der er udtrykt i ecu
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 1999/60/ΕΚ του Συμβουλίου, της 17ης Ιουνίου
+    1999, για την τροποποίηση της οδηγίας 78/660/ΕΟΚ
+    όσον αφορά τα ποσά που εκφράζονται σε Ecu
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 1999/60/EY, annettu 17 päivänä kesäkuuta 1999,
+    direktiivin 78/660/ETY muuttamisesta ecuina ilmaistujen rahamäärien osalta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 1999/60/CE del Consiglio, del 17 giugno 1999, che modifica la
+    direttiva 78/660/CEE per quanto concerne gli importi espressi in ecu
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 1999/60/EG van de Raad van 17 juni 1999 tot wijziging van Richtlijn
+    78/660/EEG met betrekking tot in ecu uitgedrukte bedragen
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 1999/60/CE do Conselho, de 17 de Junho de 1999, que altera a
+    Directiva 78/660/CEE no que diz respeito aos montantes expressos em ecus
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 1999/60/CE del Consejo, de 17 de junio de 1999, por la que se
+    modifica la Directiva 78/660/CEE en lo referente a los importes expresados en
+    ecus
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 1999/60/EG av den 17 juni 1999 om att ändra direktiv
+    78/660/EEG beträffande ändring av belopp uttryckta i ecu
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999L0060
+docidentifier:
+- content: EU Directive 1999/60
+  type: EU
+  primary: true
+- content: CELEX 31999L0060
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1999/60/oj
+  type: ELI
+date:
+- type: issued
+  at: '1999-06-17'
+- type: implemented
+  at: '1999-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978L0660
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

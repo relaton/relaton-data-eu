@@ -1,0 +1,95 @@
+---
+id: EUDirective1973103
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 73/103/EEC of 28 April 1973 amending the Directive of
+    23 November 1970 concerning additives in feeding-stuffs
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 73/103/CEE du Conseil, du 28 avril 1973, modifiant la directive,
+    du 23 novembre 1970, concernant les additifs dans l'alimentation des animaux
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 73/103/EWG des Rates vom 28. April 1973 zur Änderung der Richtlinie
+    vom 23. November 1970 über Zusatzstoffe in der Tierernährung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 73/103/EØF af 28. april 1973 om ændring af direktiv
+    af 23. november 1970, om tilsætningsstoffer til foderstoffer
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 73/103/ΕΟΚ του Συμβουλίου της 28ης Απριλίου
+    1973 περί τροποποιήσεως της οδηγίας της 23ης Νοεμβρίου
+    1970 «περί των προσθετικών στις ζωοτροφές»
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 73/103/CEE del Consiglio, del 28 aprile 1973, che modifica la
+    direttiva del 23 novembre 1970 relativa agli additivi nell'alimentazione degli
+    animali
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 73/103/EEG van de Raad van 28 april 1973 tot wijziging van de
+    Richtlijn van 23 november 1970 betreffende toevoegingsmiddelen in de veevoeding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973L0103
+docidentifier:
+- content: EU Directive 1973/103
+  type: EU
+  primary: true
+- content: CELEX 31973L0103
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1973/103/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970L0524
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

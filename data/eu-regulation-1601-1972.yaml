@@ -1,0 +1,97 @@
+---
+id: EURegulation16011972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1601/72 of the Commission of 26 July 1972 on detailed
+    rules for applying the obligation to distil the by-products of wine-making for
+    the 1972/73 wine-growing year and repealing Regulation (EEC) No 2496/71
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1601/72 de la Commission, du 26 juillet 1972, relatif
+    aux modalités d' application de l' obligation de distiller les sous-produits
+    de la vinification pour la campagne 1972/1973 et abrogeant le règlement (CEE)
+    n° 2496/71
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1601/72 der Kommission vom 26. Juli 1972 über die
+    Durchführungsbestimmungen für die Verpflichtung zur Destillation von Nebenerzeugnissen
+    der Weinbereitung im Weinwirtschaftsjahr 1972/1973 und zur Aufhebung der Verordnung
+    (EWG) Nr. 2496/71
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1601/72 af 26. juli 1972 om gennemførelsesbestemmelserne
+    for forpligtelsen til at destillere biprodukter fra vinfremstilling i produktionsåret
+    1972/1973 og om ophævelse af forordning (EØF) nr. 2496/71
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1601/72 della Commissione, del 26 luglio 1972, recante
+    modalità d' applicazione dell' obbligo di distillare i sottoprodotti della vinificazione
+    per la campagna viticola 1972/1973 e abrogazione del regolamento (CEE) n. 2496/71
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1601/72 van de Commissie van 26 juli 1972 houdende
+    uitvoeringsbepalingen inzake de verplichte distillatie van de bijprodukten van
+    de wijnbereiding in het wijnoogstjaar 1972/1973 en houdende intrekking van Verordening
+    (EEG) nr. 2496/71
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1601
+docidentifier:
+- content: EU Regulation 1601/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1601
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1601/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-26'
+- type: implemented
+  at: '1972-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2496
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation22041972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2204/72 de la Commission, du 17 octobre 1972, relatif
+    à la suppression de la conclusion des contrats de stockage privé pour le vin
+    de table du type R I
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2204/72 der Kommission vom 17. Oktober 1972 über
+    die Einstellung des Abschlusses von Verträgen für die private Lagerhaltung für
+    Tafelweine der Weinart R I
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2204/72 della Commissione, del 17 ottobre 1972, relativo
+    alla sospensione della conclusione dei contratti di magazzinaggio privato per
+    i vini da pasto del tipo R I
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2204/72 van de Commissie van 17 oktober 1972 tot
+    stopzetting van het afsluiten van contracten voor de particuliere opslag voor
+    tafelwijn van de soort R I
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2204
+docidentifier:
+- content: EU Regulation 2204/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2204
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2204/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-17'
+- type: implemented
+  at: '1972-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

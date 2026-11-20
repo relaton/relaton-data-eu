@@ -1,0 +1,65 @@
+---
+id: EURegulation1381962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 138 de la Commission portant extension au glucose des dispositions
+    des règlements ns 92 et 97 de la Commission
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 138 der Kommission ber die Ausdehnung der Verordnungen Nr.
+    92 und Nr. 97 der Kommission auf Glukose
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 138 della Commissione relativo all'estensione al glucosio
+    delle disposizioni dei regolamenti nn. 92 e 97 della Commissione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 138 van de Commissie houdende uitbreiding van de bepalingen
+    van de Verordeningen nos. 92 en 97 van de Commissie tot glucose
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0138
+docidentifier:
+- content: EU Regulation 138/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0138
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/138/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

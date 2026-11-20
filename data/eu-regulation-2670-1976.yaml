@@ -1,0 +1,105 @@
+---
+id: EURegulation26701976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2670/76 of 25 October 1976 amending Regulation
+    (EEC) No 1059/69 laying down the trade arrangements applicable to certain goods
+    resulting from the processing of agricultural products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2670/76 du Conseil, du 25 octobre 1976, portant modification
+    du règlement (CEE) n° 1059/69 déterminant le régime d' échanges applicable
+    à certaines marchandises résultant de la transformation de produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2670/76 des Rates vom 25. Oktober 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1059/69 zur Festlegung der Handelsregelung für bestimmte,
+    aus landwirtschaftlichen Erzeugnissen hergestellte Waren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2670/76 af 25. oktober 1976 om ændring af
+    forordning (EØF) nr. 1059/69 om fastsættelse af en ordning for handelen med
+    visse varer fremstillet af landbrugsprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2670/76 τού Συμβουλίου
+    τής 25ης Οκτωβρίου 1976 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1059/69 «περί καθορισμού
+    τού καθεστώτος συναλλαγών πού ισχύει γιά ορισμένα
+    εμπορεύματα προερχόμενα από τή μεταποίηση
+    γεωργικών προϊόντων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2670/76 del Consiglio, del 25 ottobre 1976, recante
+    modifica del regolamento (CEE) n. 1059/69 che determina il regime di scambi applicabile
+    a talune merci risultanti dalla trasformazione di prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2670/76 van de Raad van 25 oktober 1976 houdende
+    wijziging van Verordening (EEG) nr. 1059/69 tot vaststelling van de handelsregeling
+    die van toepassing is op bepaalde goederen, verkregen door verwerking van landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2670
+docidentifier:
+- content: EU Regulation 2670/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2670
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2670/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-10-25'
+- type: implemented
+  at: '1976-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1059
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

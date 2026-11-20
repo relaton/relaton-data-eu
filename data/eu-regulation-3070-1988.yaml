@@ -1,0 +1,128 @@
+---
+id: EURegulation30701988
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3070/88 of 5 October 1988 amending Regulations
+    (EEC) No 2944/88, (EEC) No 2952/88 and (EEC) No 3049/88 on the supply of various
+    consignments of cereals and rice as food aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3070/88 de la Commission, du 5 octobre 1988, modifiant
+    les règlements (CEE) n° 2944/88, (CEE) n° 2952/88 et (CEE) n 3049/88 relatifs
+    à diverses livraisons de céréales et de riz au titre de l'aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG ( EWG ) NR. 3070/88 DER KOMMISSION VOM 5. OKTOBER 1988 ZUR AENDERUNG
+    DER VERORDNUNG ( EWG ) NR. 2944/88, ( EWG ) NR. 2952/88 UND ( EWG ) NR. 3049/88
+    BETREFFEND MEHRERE LIEFERUNGEN VON GETREIDE UND REIS IM RAHMEN DER NAHRUNGSMITTELHILFE
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3070/88 af 5. oktober 1988 om ændring
+    af forordning (EØF) nr. 2944/88, (EØF) nr. 2952/88 og (EØF) nr. 3049/88 om
+    forskellige leveringer af korn og ris som fødevarehjælp
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3070/88 της Επιτροπής
+    της 5ης Οκτωβρίου 1988 για τροποποίηση των κανονισμών
+    (ΕΟΚ) αριθ. 2944/88, (ΕΟΚ) αριθ. 2952/88 και (ΕΟΚ) αριθ.
+    3049/88 σχετικά με διάφορες παραδόσεις σιτηρών
+    και ρυζιού ως επισιτιστική βοήθεια
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO ( CEE ) N. 3070/88 DELLA COMMISSIONE, DEL 5 OTTOBRE 1988, CHE
+    MODIFICA I REGOLAMENTI ( CEE ) N. 2944/88, ( CEE ) N. 2952/88 E ( CEE ) N. 3049/88
+    RELATIVI A DIVERSE CONSEGNE DI CEREALI E DI RISO AI SENSI DELL' AIUTO ALIMENTARE
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING ( EEG ) NR. 3070/88 VAN DE COMMISSIE VAN 5 OKTOBER 1988 TOT
+    WIJZIGING VAN DE VERORDENINGEN ( EEG ) NR. 2944/88, ( EEG ) NR. 2952/88 EN ( EEG
+    ) NR. 3049/88 BETREFFENDE VERSCHILLENDE LEVERINGEN VAN GRANEN EN RIJST ALS VOEDSELHULP
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 3070/88 da Comissão, de 5 de Outubro de 1988, que
+    altera os Regulamentos (CEE) nº 2944/88, (CEE) nº 2952/88 e (CEE) nº 3049/88
+    relativos a diversas entregas de cereais e de arroz a título da ajuda alimentar
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n 3070/88 de la Comisión, de 5 de octubre de 1988, por
+    el que se modifican los Reglamentos (CEE) n 2944/88, 2952/88 y 3049/88, relativos
+    a diversas entregas de cereales y arroz en concepto de ayuda alimentaria
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31988R3070
+docidentifier:
+- content: EU Regulation 3070/1988
+  type: EU
+  primary: true
+- content: CELEX 31988R3070
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1988/3070/oj
+  type: ELI
+date:
+- type: issued
+  at: '1988-10-05'
+- type: implemented
+  at: '1988-10-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R2944
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R2952
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R3049
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

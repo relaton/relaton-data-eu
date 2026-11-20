@@ -1,0 +1,94 @@
+---
+id: EURegulation14301976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1430/76 of 21 June 1976 fixing, for the 1976/77
+    marketing year, the protective amount to be included in the threshold price for
+    wholly milled rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1430/76 du Conseil, du 21 juin 1976, fixant, pour
+    la campagne de commercialisation 1976/1977, le montant de protection à inclure
+    dans le prix de seuil du riz blanchi
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1430/76 des Rates vom 21. Juni 1976 zur Festsetzung
+    des in den Schwellenpreis für vollständig geschliffenen Reis einzubeziehenden
+    Schutzbetrags im Wirtschaftsjahr 1976/1977
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1430/76 af 21. juni 1976 om fastsættelse
+    af det beskyttelsesbeløb, der skal indregnes i tærskelprisen for sleben ris,
+    for høståret 1976/1977
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1430/76 del Consiglio, del 21 giugno 1976, che fissa,
+    per la campagna di commercializzazione 1976/1977, l'importo di protezione da includere
+    nel prezzo d'entrata del riso lavorato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1430/76 van de Raad van 21 juni 1976 houdende vaststelling
+    voor het verkoopseizoen 1976/1977 van het in de drempelprijs voor volwitte rijst
+    op te nemen bedrag voor bescherming van de industrie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1430
+docidentifier:
+- content: EU Regulation 1430/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1430
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1430/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-21'
+- type: implemented
+  at: '1976-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1148
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

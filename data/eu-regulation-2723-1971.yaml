@@ -1,0 +1,98 @@
+---
+id: EURegulation27231971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2723/71 of the Council of 20 December 1971 on the rules
+    for production refunds for white sugar used in the manufacture of the products
+    listed in Annex I to Regulation (EEC) No 765/68
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2723/71 du Conseil, du 20 décembre 1971, concernant
+    le régime des restitutions à la production pour le sucre blanc utilisé dans
+    la fabrication des produits énumérés à l' annexe I du règlement (CEE) n°
+    765/68
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2723/71 des Rates vom 20. Dezember 1971 zur Regelung
+    der Erstattungen bei der Erzeugung für Weißzucker, der bei der Herstellung der
+    in Anhang I der Verordnung (EWG) Nr. 765/68 aufgeführten Erzeugnisse verwendet
+    wird
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2723/71 af 20. december 1971 om ordningen
+    for produktionsrestitution for hvidt sukker, der anvendes ved fremstilling af
+    de varer, der er anført i bilag I til forordning (EØF) nr. 765/68
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2723/71 del Consiglio, del 20 dicembre 1971, relativo
+    al regime delle restituzioni alla produzione per lo zucchero bianco utilizzato
+    nella fabbricazione dei prodotti di cui all' allegato I del regolamento (CEE)
+    n. 765/68
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2723/71 van de Raad van 20 december 1971 betreffende
+    de regeling inzake de restituties bij de produktie van witte suiker die wordt
+    gebruikt bij de vervaardiging van de in bijlage I van Verordening (EEG) nr. 765/68
+    genoemde produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2723
+docidentifier:
+- content: EU Regulation 2723/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2723
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2723/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-20'
+- type: implemented
+  at: '1971-12-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0765
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,98 @@
+---
+id: EURegulation30391973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3039/73 of the Commission of 8 November 1973 closing
+    the standing invitation to tender for the purpose of determining denaturing premiums
+    for white sugar for feeding to bees provided for in Regulation (EEC) No 2711/73
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3039/73 de la Commission, du 8 novembre 1973, clôturant
+    l'adjudication permanente pour la détermination de primes de dénaturation de
+    sucre blanc destiné à l'alimentation des abeilles visée au règlement (CEE)
+    n° 2711/73
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3039/73 der Kommission vom 8. November 1973 zur Einstellung
+    der in der Verordnung (EWG) Nr. 2711/73 genannten Dauerausschreibung zur Bestimmung
+    der Denaturierungsprämie für Weißzucker der zur Bienenfütterung bestimmt ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3039/73 af 8. november 1973 om lukning
+    af den løbende licitation med henblik på fastsættelse af denatureringspræmier
+    for hvidt sukker bestemt til foder for bier, der er nævnt i forordning (EØF)
+    nr. 2711/73
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3039/73 della Commissione, dell'8 novembre 1973, che
+    chiude la gara permanente per la determinazione di premi di denaturazione dello
+    zucchero bianco destinato all'alimentazione delle api di cui al regolamento (CEE)
+    n. 2711/73
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3039/73 van de Commissie van 8 november 1973 tot
+    sluiting van een permanente openbare inschrijving ter bepaling van de denatureringspremies
+    voor witte suiker bestemd voor de bijenvoeding bedoeld in Verordening (EEG) nr.
+    2711/73
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3039
+docidentifier:
+- content: EU Regulation 3039/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3039
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3039/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-11-08'
+- type: implemented
+  at: '1973-11-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2711
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

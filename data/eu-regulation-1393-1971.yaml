@@ -1,0 +1,83 @@
+---
+id: EURegulation13931971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1393/71 de la Commission, du 30 juin 1971, portant
+    abrogation du règlement (CEE) n° 1511/71 relatif à certaines mesures à prendre
+    dans le secteur des produits transformés à base de fruits et légumes à la
+    suite de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1393/71 der Kommission vom 30. Juni 1971 zur Aufhebung
+    der Verordnung (EWG) Nr. 1511/70 betreffend Maßnahmen auf dem Sektor der Verarbeitungserzeugnisse
+    aus Obst und Gemüse infolge der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1393/71 della Commissione, del 30 giugno 1971, recante
+    abrogazione del regolamento (CEE) n. 1511/70 relativo a talune misure da adottare
+    nel settore dei prodotti trasformati a base di ortofrutticoli in seguito alla
+    svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1393/71 van de Commissie van 30 juni 1971 houdende
+    intrekking van Verordening (EEG) nr. 1511/70 betreffende ingevolge de devaluatie
+    van de Franse frank in de sector op basis van groenten en fruit verwerkte produkten
+    te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1393
+docidentifier:
+- content: EU Regulation 1393/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1393
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1393/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-30'
+- type: implemented
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1511
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

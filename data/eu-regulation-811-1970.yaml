@@ -1,0 +1,69 @@
+---
+id: EURegulation8111970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 811/70 de la Commission, du 30 avril 1970, fixant les
+    prélèvements à l'importation de veaux et de gros bovins, ainsi que de viandes
+    bovines autres que les viandes congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 811/70 der Kommission vom 30. April 1970 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Kälbern und ausgewachsenen Rindern sowie
+    von Rindfleisch, ausgenommen gefrorenes Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 811/70 della Commissione, del 30 aprile 1970, che
+    fissa i prelievi all'importazione di vitelli e di bovini adulti nonché di carni
+    bovine diverse da quelle congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 811/70 van de Commissie van 30 april 1970 houdende
+    vaststelling van de heffingen bij de invoer van kalveren en volwassen runderen
+    en van ander dan bevroren vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0811
+docidentifier:
+- content: EU Regulation 811/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0811
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/811/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

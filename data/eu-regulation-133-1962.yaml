@@ -1,0 +1,76 @@
+---
+id: EURegulation1331962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 133 de la Commission du 25 octobre 1962, modifiant l'annexe
+    I du règlement n° 60 de la Commission
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 133 der Kommission zur Änderung der Anlage I der Verordnung
+    Nr. 60 der Kommission
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 133 della Commissione che modifica l'allegato 1 del regolamento
+    n. 60 della Commissione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 133 van de Commissie tot wijziging van Bijlage I van Verordening
+    Nr. 60 van de Commissie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0133
+docidentifier:
+- content: EU Regulation 133/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0133
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/133/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-10-25'
+- type: implemented
+  at: '1962-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0060
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

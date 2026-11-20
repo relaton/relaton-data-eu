@@ -1,0 +1,70 @@
+---
+id: EURegulation23091969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2309/69 de la Commission, du 21 novembre 1969, relatif
+    aux modalités concernant l'aide pour l'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2309/69 der Kommission vom 21. November 1969 über
+    Einzelheiten betreffend die Beihilfe für Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2309/69 della Commissione, del 21 novembre 1969, relativo
+    alle modalità riguardanti l'integrazione per l'olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2309/69 van de Commissie van 21 november 1969 ter
+    uitvoering van de steunregeling voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2309
+docidentifier:
+- content: EU Regulation 2309/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2309
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2309/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-21'
+- type: implemented
+  at: '1969-11-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

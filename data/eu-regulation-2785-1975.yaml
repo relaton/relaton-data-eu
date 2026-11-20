@@ -1,0 +1,98 @@
+---
+id: EURegulation27851975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2785/75 of the Council of 29 October 1975 establishing
+    upper limits for compensatory amounts for pigmeat, eggs, ovalbumin, lactalbumin
+    and poultrymeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2785/75 du Conseil, du 29 octobre 1975, concernant
+    le plafonnement des montants compensatoires dans les secteurs de la viande de
+    porc, des oeufs, de l' ovalbumine, de la lactalbumine et de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2785/75 des Rates vom 29. Oktober 1975 betreffend
+    die Begrenzung der Augsleichsbeträge für Schweinefleisch, Eier, Eieralbumin,
+    Milchalbumin und Geflügelfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2785/75 af 29. oktober 1975 om loftet over
+    udligningsbeløb for svinekød, æg, ægalbumin, mælkealbumin og fjerkrækød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2785/75 del Consiglio, del 29 ottobre 1975, concernente
+    la limitazione degli importi compensativi nei settori delle carni suine, delle
+    uova, dell' ovoalbumina, della lattoalbumina e del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2785/75 van de Raad van 29 oktober 1975 betreffende
+    de begrenzing van de compenserende bedragen in de sectoren varkensvlees, eieren,
+    ovoalbumine, lactoalbumine en slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2785
+docidentifier:
+- content: EU Regulation 2785/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2785
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2785/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1121
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 11972B055
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

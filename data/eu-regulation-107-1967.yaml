@@ -1,0 +1,89 @@
+---
+id: EURegulation1071967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 107/67/CEE du Conseil, du 31 mai 1967, dérogeant aux dispositions
+    des règlements n° 160/66/CEE et n° 92/67/CEE en ce qui concerne les impositions
+    à percevoir lors des importations en Italie de produits accompagnés d'un DD1,
+    effectuées à partir du 1er juin 1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 107/67/EWG des Rates vom 31. Mai 1967 über die Abweichung
+    von den Vorschriften der Verordnungen Nr. 160/66/EWG und Nr. 92/67/EWG in bezug
+    auf die Abgaben, die zu erheben sind, wenn Erzeugnisse vom 1. Juni 1967 ab nach
+    Italien eingeführt werden, denen ein Formblatt DD 1 beigefügt ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 107/67/CEE del Consiglio, del 31 maggio 1967, che deroga
+    alle disposizioni dei regolamenti n. 160/66/CEE e n. 92/67/CEE per quanto riguarda
+    le imposte da riscuotere all'atto delle importazioni in Italia dei prodotti accompagnati
+    da un DD 1, effettuate a decorrere dal 1 giugno 1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 107/67/EEG van de Raad van 31 mei 1967 houdende afwijking
+    van Verordening Nr. 160/66/EEG en van Verordening Nr. 92/67/EEG voor wat de belastingen
+    betreft op de invoer in Italië van produkten die vergezeld gaan van een certificaat
+    DD 1, die vanaf 1 juni 1967 plaatsvindt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0107
+docidentifier:
+- content: EU Regulation 107/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0107
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/107/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-31'
+- type: implemented
+  at: '1967-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0160
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0092
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

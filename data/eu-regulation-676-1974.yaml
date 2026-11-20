@@ -1,0 +1,94 @@
+---
+id: EURegulation6761974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 676/74 of the Council of 21 March 1974 amending Regulation
+    (EEC) No 1968/73 laying down general rules to be applied in the event of the market
+    in cereals being disturbed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 676/74 du Conseil, du 21 mars 1974, modifiant le règlement
+    (CEE) n° 1968/73 définissant les règles générales à appliquer dans le secteur
+    des céréales en cas de perturbation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 676/74 des Rates vom 21. März 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1968/73 zur Festlegung der im Falle von Störungen auf
+    dem Getreidesektor anzuwendenden Grundregeln
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 676/74 af 21. marts 1974 om ændring af forordning
+    (EØF) nr. 1968/73 om fastsættelse af de almindelige regler, der skal anvendes
+    på korn i tilfælde af forstyrrelser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 676/74 del Consiglio, del 21 marzo 1974, recante modifica
+    del regolamento (CEE) n. 1968/73 che definisce le norme generali applicabili nel
+    settore dei cereali in caso di perturbazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 676/74 van de Raad van 21 maart 1974 houdende wijziging
+    van Verordening (EEG) nr. 1968/73 tot vaststelling van de algemene voorschriften
+    die in het geval van verstoring gelden in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0676
+docidentifier:
+- content: EU Regulation 676/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0676
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/676/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-21'
+- type: implemented
+  at: '1974-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1968
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

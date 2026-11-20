@@ -1,0 +1,93 @@
+---
+id: EURegulation22731970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2273/70 of the Council of 10 November 1970 amending
+    Regulation No 371/67/EEC fixing production refunds on starches and quellmehl
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2273/70 du Conseil, du 10 novembre 1970, portant modification
+    du règlement n° 371/67/CEE fixant les restitutions à la production pour les
+    amidons, la fécule et le quellmehl
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2273/70 des Rates vom 10. November 1970 zur Änderung
+    der Verordnung Nr. 371/67/EWG zur Festsetzung der Erstattung bei der Erzeugung
+    von Getreide- und Kartoffelstärke und Quellmehl
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) 2273/70 af 10. november 1970 om ændring af forordning
+    nr. 371/67/EØF om fastsættelse af produktionsrestitutioner for korn- og kartoffelstivelse
+    samt kvældemel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2273/70 del Consiglio, del 10 novembre 1970, che modifica
+    il regolamento n. 371/67/CEE che fissa le restituzioni alla produzione per gli
+    amidi, la fecola ed il quellmehl
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2273/70 van de Raad van 10 november 1970 tot wijziging
+    van Verordening nr. 371/67/EEG tot vaststelling van de restituties bij de produktie
+    van zetmeel en Quellmehl
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2273
+docidentifier:
+- content: EU Regulation 2273/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2273
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2273/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-10'
+- type: implemented
+  at: '1970-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0371
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

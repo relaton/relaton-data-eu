@@ -1,0 +1,85 @@
+---
+id: EURegulation1811973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 181/73 of the Council of 23 January 1973 laying down
+    general rules for a system of compensatory amounts for beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 181/73 du Conseil, du 23 janvier 1973, déterminant
+    les règles générales du régime des montants compensatoires dans le secteur
+    de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 181/73 des Rates vom 23. Januar 1973 zur Festlegung
+    der Grundregeln des Systems der Ausgleichsbeträge für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 181/73 af 23. januar 1973 om fastsættelse
+    af grundreglerne for udligningsbeløbsystemet for oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 181/73 del Consiglio, del 23 gennaio 1973, che stabilisce
+    le norme generali del regime degli importi compensativi nel settore delle carni
+    bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 181/73 van de Raad van 23 januari 1973 tot vaststelling
+    van de algemene regels van het stelsel van de compenserende bedragen in de sector
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0181
+docidentifier:
+- content: EU Regulation 181/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0181
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/181/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-23'
+- type: implemented
+  at: '1973-01-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

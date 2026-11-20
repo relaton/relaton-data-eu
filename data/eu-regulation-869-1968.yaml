@@ -1,0 +1,74 @@
+---
+id: EURegulation8691968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 869/68 de la Commission, du 1er juillet 1968, concernant
+    des modalités d'application de l'octroi d'aides au stockage privé dans le secteur
+    de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 869/68 der Kommission vom 1. Juli 1968 über Durchführungsbestimmungen
+    für die Gewährung von Beihilfen für die private Lagerhaltung auf dem Sektor
+    Schweinefleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 869/68 della Commissione, del 1 luglio 1968, relativo
+    alle modalità di applicazione della concessione di aiuti all'ammasso privato
+    nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 869/68 van de Commissie van 1 juli 1968 houdende
+    uitvoeringsbepalingen betreffende de toekenning van steun aan de particuliere
+    opslag in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0869
+docidentifier:
+- content: EU Regulation 869/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0869
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/869/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-01'
+- type: implemented
+  at: '1968-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

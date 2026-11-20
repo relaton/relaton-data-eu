@@ -1,0 +1,67 @@
+---
+id: EURegulation2031967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 203/67/CEE de la Commission, du 28 juin 1967, établissant
+    des mesures transitoires concernant les documents d'importation dans le secteur
+    de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 203/67/EWG der Kommission vom 28. Juni 1967 über ÜbergangsmaDnahmen
+    betreffend die Einfuhrdokumente auf dem Sektor Schweinefleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 203/67/CEE della Commissione, del 28 giugno 1967, relativo
+    alle disposizioni transitorie concernenti i titoli d'importazione nel settore
+    della carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 203/67/EEG van de Commissie van 28 juni 1967 tot vaststelling
+    van overgangsmaatregelen betreffende de invoerdocumenten in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0203
+docidentifier:
+- content: EU Regulation 203/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0203
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/203/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

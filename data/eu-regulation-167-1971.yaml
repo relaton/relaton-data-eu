@@ -1,0 +1,78 @@
+---
+id: EURegulation1671971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 167/71 du Conseil, du 26 janvier 1971, portant fixation
+    du prix d'orientation pour les produits de la pêche énumérés à l'annexe 1
+    A et C du règlement (CEE) n° 2142/70 pour la période du 1er février au 31
+    décembre 1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 167/71 des Rates vom 26. Januar 1971 zur Festsetzung
+    des Orientierungspreises für die in Anhang I Abschnitte A und C der Verordnung
+    (EWG) Nr. 2142/70 aufgeführten Fischereierzeugnisse für die Zeit vom 1. Februar
+    bis zum 31. Dezember 1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 167/71 del Consiglio, del 26 gennaio 1971, che fissa
+    il prezzo d'orientamento per i prodotti della pesca elencati nell'allegato I,
+    A e C, del regolamento (CEE) n. 2142/70 per il periodo dal 1 febbraio al 31 dicembre
+    1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 167/71 van de Raad van 26 januari 1971 houdende vaststelling
+    van de oriëntatieprijs voor de in bijlage I, A en C, van Verordening (EEG) nr.
+    2142/70 genoemde visserijprodukten voor het tijdvak van 1 februari tot en met
+    31 december 1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0167
+docidentifier:
+- content: EU Regulation 167/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0167
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/167/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-26'
+- type: implemented
+  at: '1971-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

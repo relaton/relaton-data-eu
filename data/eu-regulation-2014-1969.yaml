@@ -1,0 +1,70 @@
+---
+id: EURegulation20141969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2014/69 de la Commission, du 13 octobre 1969, portant
+    suppression du montant compensatoire à l'importation des huiles de tournesol
+    originaires de Bulgarie, de Hongrie, de Roumanie, d'U.R.S.S. et de Yougoslavie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2014/69 der Kommission vom 13. Oktober 1969 zur Aufhebung
+    der Ausgleichsabgabe bei der Einfuhr von Sonnenblumenöl mit Ursprung in oder
+    Herkunft aus Bulgarien, Jugoslawien, Rumänien, Ungarn und der UdSSR
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2014/69 della Commissione, del 13 ottobre 1969, che
+    abolisce l'ammontare di compensazione applicabile all'importazione di oli di girasole
+    originari o in provenienza dalla Bulgaria, dalla Romania, dalla Yugoslavia, dall'Ungheria
+    e dall'URSS
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2014/69 van de Commissie van 13 oktober 1969 tot
+    intrekking van het compenserende bedrag bij de invoer van zonnebloemolie van oorsprong
+    of van herkomst uit Bulgarije, Hongarije, Joegoslavië, Roemenië en de U.S.S.R.
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2014
+docidentifier:
+- content: EU Regulation 2014/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2014
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2014/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,96 @@
+---
+id: EURegulation1001976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 100/76 of 19 January 1976 on the common organization
+    of the market in fishery products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 100/76 du Conseil, du 19 janvier 1976, portant organisation
+    commune des marchés dans le secteur des produits de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 100/76 des Rates vom 19. Januar 1976 über die gemeinsame
+    Marktorganisation für Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 100/76 af 19. januar 1976 om den fælles
+    markedsordning for fiskerivarer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 100/76 του Συμβουλίου
+    της 19ης Ιανουαρίου 1976 περί κοινής οργανώσεως
+    αγοράς στον τομέα των προϊόντων αλιείας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 100/76 del Consiglio, del 19 gennaio 1976, relativo
+    all' organizzazione comune dei mercati nel settore dei prodotti della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 100/76 van de Raad van 19 januari 1976 houdende een
+    gemeenschappelijke ordening der markten in de sector visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0100
+docidentifier:
+- content: EU Regulation 100/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0100
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/100/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-01-19'
+- type: implemented
+  at: '1976-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2142
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

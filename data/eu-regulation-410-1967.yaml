@@ -1,0 +1,80 @@
+---
+id: EURegulation4101967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 410/67/CEE du Conseil, du 28 juillet 1967, modifiant, pour
+    le centre de commercialisation de Mersch, les prix d'intervention dérivés du
+    blé tendre, du seigle et de l'orge, fixés par le règlement n° 128/67/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 410/67/EWG des Rates vom 28. Juli 1967 zur Änderung der
+    durch die Verordnung Nr. 128/67/EWG festgesetzten abgeleiteten Interventionspreise
+    für Weichweizen, Roggen und Gerste für den Handelsplatz Mersch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 410/67/CEE del Consiglio, del 28 luglio 1967, che modifica,
+    per il centro di commercializzazione di Mersch, i prezzi d'intervento derivati
+    del grano tenero, della segala e dell'orzo fissati dal regolamento n. 128/67/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 410/67/EEG van de Raad van 28 juli 1967 houdende wijziging
+    voor het commercialisatiecentrum Mersch van de afgeleide interventieprijzen voor
+    zachte tarwe, rogge en gerst, welke bij Verordening Nr. 128/67/EEG zijn vastgesteld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0410
+docidentifier:
+- content: EU Regulation 410/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0410
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/410/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-28'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0128
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation4691967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 469/67/CEE de la Commission, du 21 août 1967, arrêtant
+    les modalités de détermination des prix CAF et des prélèvements du riz et
+    des brisures ainsi que les montants correcteurs y afférents
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 469/67/EWG der Kommission vom 21. August 1967 zum Erlaß
+    der Einzelheiten für die Bestimmung der cif-Preise und der Abschöpfungen auf
+    Reis und Bruchreis sowie der diesbezüglichen Berichtigungsbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 469/67/CEE della Commissione, del 21 agosto 1967, che stabilisce
+    le modalità per la determinazione dei prezzi cif e dei prelievi per il riso e
+    le rotture di riso nonché gli importi correttori che vi afferiscono
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 469/67/EEG van de Commissie van 21 augustus 1967 tot vaststelling
+    van de wijze waarop de c.i.f.-prijzen en de heffingen voor rijst en breukrijst
+    worden bepaald evenals de correctiebedragen die hierop betrekking hebben
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0469
+docidentifier:
+- content: EU Regulation 469/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0469
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/469/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-21'
+- type: implemented
+  at: '1967-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

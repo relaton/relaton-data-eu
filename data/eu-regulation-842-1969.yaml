@@ -1,0 +1,78 @@
+---
+id: EURegulation8421969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 842/69 de la Commission, du 6 mai 1969, relatif à
+    la vente à prix fixé forfaitairement à l'avance de certains produits provenant
+    de l'intervention dans le secteur de la viande bovine et détenus par l'organisme
+    français d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 842/69 der Kommission vom 6. Mai 1969 über den Verkauf
+    bestimmter Erzeugnisse, die aus Interventionen auf dem Rindfleischsektor stammen
+    und sich im Besitz der französischen Interventionsstelle befinden, zu einem im
+    voraus pauschal festgesetzten Preis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 842/69 della Commissione, del 6 maggio 1969, relativo
+    alla vendita a un prezzo fissato forfetariamente in anticipo di alcuni prodotti
+    provenienti dall'intervento nel settore delle carni bovine e che si trovano in
+    possesso dell'organismo d'intervento francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 842/69 van de Commissie van 6 mei 1969 betreffende
+    de verkoop voor een vooraf forfaitair vastgestelde prijs van bepaalde produkten
+    die afkomstig zijn van interventie in de sector rundvlees en in het bezit zijn
+    van het Franse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0842
+docidentifier:
+- content: EU Regulation 842/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0842
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/842/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-06'
+- type: implemented
+  at: '1969-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

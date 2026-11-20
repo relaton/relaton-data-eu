@@ -1,0 +1,136 @@
+---
+id: EURegulation8251985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 825/85 of 26 March 1985 amending Regulation
+    (EEC) No 1489/84 laying down the date for the entry into force of Regulations
+    (EEC) No 3284/83 and (EEC) No 3285/83 relating to the fruit and vegetables sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 825/85 du Conseil du 26 mars 1985 modifiant le règlement
+    (CEE) no 1489/84 fixant la date d' entrée en vigueur des règlements (CEE) no
+    3284/83 et (CEE) no 3285/83 relatifs au secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 825/85 des Rates vom 26. März 1985 zur Änderung
+    der Verordnung (EWG) Nr. 1489/84 über den Zeitpunkt des Inkrafttretens der Verordnungen
+    (EWG) Nr. 3284/83 und (EWG) Nr. 3285/83 über den Obst- und Gemüsesektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 825/85 af 26. marts 1985 om ændring af forordning
+    (EØF) nr. 1489/84 om fastsættelse af ikrafttrædelsesdatoen for forordning (EØF)
+    nr. 3284/83 og (EØF) nr. 3285/83 om frugt og grønsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 825/85 του Συμβουλίου
+    της 26ης Μαρτίου 1985 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 1489/84 για τον καθορισμό
+    της ημερομηνίας ενάρξεως ισχύος των κανονισμών
+    (ΕΟΚ) αριθ. 3284/83 και (ΕΟΚ) αριθ. 3285/83 σχετικά με
+    τον τομέα των οπωροκηπευτικών
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 825/85, annettu 26 päivänä maaliskuuta 1985,
+    hedelmä- ja vihannesalan asetusten (ETY) N:o 3284/83 ja (ETY) N:o 3285/83 voimaantulopäivän
+    vahvistamisesta annetun asetuksen (ETY) N:o 1489/84 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 825/85 del Consiglio del 26 marzo 1985 recante modifica
+    del regolamento (CEE) n. 1489/84 che fissa la data dell' entrata in vigore dei
+    regolamenti (CEE) n. 3284/83 e (CEE) n. 3285/83 relativi al settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 825/85 van de Raad van 26 maart 1985 tot wijziging
+    van Verordening (EEG) nr. 1489/84 tot vaststelling van de datum van inwerkingtreding
+    van de Verordeningen (EEG) nr. 3284/83 en (EEG) nr. 3285/83 betreffende de sector
+    groenten en fruit
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 825/85 do Conselho, de 26 de Março de 1985, que
+    altera o Regulamento (CEE) n.° 1489/84 que fixa a data de entrada em vigor dos
+    Regulamentos (CEE) n.° 3284/83 e (CEE) n.° 3285/83 relativos ao sector das frutas
+    e produtos hortícolas
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 825/85 del Consejo, de 26 de marzo de 1985, por el
+    que se modifica el Reglamento (CEE) n° 1489/84 por el que se establece la fecha
+    de entrada en vigor de los Reglamentos (CEE) n° 3284/83 y (CEE) n° 3285/83 relativos
+    al sector de las frutas y hortalizas
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 825/85 av den 26 mars 1985 om ändring av
+    förordning (EEG) nr 1489/84 om dagen för ikraftträdande av förordningarna
+    (EEG) nr 3284/83 och (EEG) nr 3285/83 om frukt- och grönsakssektorn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0825
+docidentifier:
+- content: EU Regulation 825/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0825
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/825/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-03-26'
+- type: implemented
+  at: '1985-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31984R1489
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

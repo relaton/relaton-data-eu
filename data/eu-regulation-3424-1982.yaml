@@ -1,0 +1,100 @@
+---
+id: EURegulation34241982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3424/82 of 17 December 1982 amending Regulation
+    (EEC) No 3286/80 on import arrangements in respect of State-trading countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3424/82 du Conseil, du 17 décembre 1982, modifiant
+    le règlement (CEE) n° 3286/80 relatif aux régimes d' importation à l' égard
+    des pays à commerce d' État
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3424/82 des Rates vom 17. Dezember 1982 zur Änderung
+    der Verordnung (EWG) Nr. 3286/80 über die Einfuhrregelungen gegenüber Staatshandelsländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3424/82 af 17. december 1982 om ændring
+    af forordning (EØF) nr. 3286/80 om importordningerne over for statshandelslandenei
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3424/82 τού Συμβουλίου
+    τής 17ης Δεκεμβρίου 1982 τροποποιητικός τού κανονισμού
+    (EOK) αριθ. 3286/80 περί τών καθεστώτων εισαγωγής
+    έναντι χωρών κρατικού εμπορίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3424/82 del Consiglio, del 17 dicembre 1982, che modifica
+    il regolamento (CEE) n. 3286/80 relativo ai regimi d' importazione nei confronti
+    dei paesi a commercio di Staton
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3424/82 van de Raad van 17 december 1982 tot wijziging
+    van Verordening (EEG) nr. 3286/80 betreffende de invoerregelingen ten opzichte
+    van de landen met staatshandel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R3424
+docidentifier:
+- content: EU Regulation 3424/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R3424
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/3424/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-12-17'
+- type: implemented
+  at: '1982-12-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R3286
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

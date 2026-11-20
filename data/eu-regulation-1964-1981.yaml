@@ -1,0 +1,103 @@
+---
+id: EURegulation19641981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1964/81 of 14 July 1981 amending Regulation
+    (EEC) No 2941/80 laying down detailed rules for the application of the system
+    of production aid for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1964/81 de la Commission, du 14 juillet 1981, modifiant
+    le règlement (CEE) n° 2941/80 portant modalités d'application du régime d'aide
+    à la production d'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1964/81 der Kommission vom 14. Juli 1981 zur Änderung
+    der Verordnung (EWG) Nr. 2941/80 über die Anwendungsbestimmungen der Erzeugungsbeihilferegelung
+    für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1964/81 af 14. juli 1981 om ændring
+    af forordning (EØF) nr. 2941/80 om gennemførelsesbestemmelser for produktionsstøtteordningen
+    for olivenolie
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1964/81 της Επιτροπής
+    της 14ης Ιουλίου 1981 περί τροποποίησης του κανονισμού
+    (ΕΟΚ) αριθ. 2941/80 «περί των λεπτομερειών εφαρμογής
+    του καθεστώτος ενίσχυσης στην παραγωγή ελαιολάδου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1964/81 della Commissione, del 14 luglio 1981, che
+    modifica il regolamento (CEE) n. 2941/80 recante modalità d'applicazione del
+    regime di aiuto alla produzione di olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1964/81 van de Commissie van 14 juli 1981 tot wijziging
+    van Verordening (EEG) nr. 2941/80 houdende uitvoeringsbepalingen van de regeling
+    inzake de produktiesteun voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R1964
+docidentifier:
+- content: EU Regulation 1964/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R1964
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/1964/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-07-14'
+- type: implemented
+  at: '1981-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R2941
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

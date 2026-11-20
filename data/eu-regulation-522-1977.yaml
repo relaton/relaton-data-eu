@@ -1,0 +1,95 @@
+---
+id: EURegulation5221977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 522/77 of 14 March 1977 laying down special
+    provisions applicable to trade in tomato concentrates and peeled tomatoes between
+    the Community as originally constituted and the new Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 522/77 du Conseil, du 14 mars 1977, portant dispositions
+    spéciales applicables aux échanges entre la Communauté dans sa composition
+    originaire et les nouveaux États membres pour les concentrés de tomates et les
+    tomates pelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 522/77 des Rates vom 14. März 1977 über Sondervorschriften
+    für den Handel mit Tomatenkonzentraten und geschälten Tomaten zwischen der Gemeinschaft
+    in ihrer ursprünglichen Zusammensetzung und den neuen Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 522/77 af 14. marts 1977 om særlige bestemmelser
+    for samhandelen mellem Fællesskabet i dets oprindelige udstrækning og de nye
+    medlemsstater for så vidt angår tomatkoncentrater og flåede tomater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 522/77 del Consiglio, del 14 marzo 1977, recante disposizioni
+    speciali applicabili agli scambi di concentrati di pomodori e di pomodori pelati
+    tra la Comunità nella sua composizione originaria e i nuovi Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 522/77 van de Raad van 14 maart 1977 houdende bijzondere
+    bepalingen voor het handelsverkeer in tomatenpasta en tomaten zonder schil tussen
+    de Gemeenschap in haar oorspronkelijke samenstelling en de nieuwe Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0522
+docidentifier:
+- content: EU Regulation 522/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0522
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/522/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-14'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1930
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

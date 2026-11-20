@@ -1,0 +1,108 @@
+---
+id: EURegulation1831964
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 183/64/EEC of the Council of 17 November 1964 laying down
+    common quality standards for asparagus and cucumbers
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 183/64/CEE du Conseil, du 17 novembre 1964, portant fixation
+    des normes communes de qualité pour les asperges et les concombres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 183/64/EWG des Rates vom 17. November 1964 zur Festsetzung
+    gemeinsamer Qualitätsnormen für Spargel und Gurken
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 183/64/EØF af 17. november 1964 om fastlæggelse
+    af fælles kvalitetsnormer for asparges og agurker
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός αριθ. 183/64/ΕΟΚ του Συμβουλίου
+    της 17ης Νοεμβρίου 1964 περί καθορισμού των κοινών
+    κανόνων ποιότητος για τα σπαράγγια και τα αγγούρια
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 183/64/CEE del Consiglio, del 17 novembre 1964, relativo
+    alla determinazione delle norme comuni di qualità per gli asparagi ed i cetrioli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening N° 183/64/EEG van de Raad van 17 november 1964 houdende vaststelling
+    van gemeenschappelijke kwaliteitsnormen voor asperges en komkommers
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento n.° 183/64/CEE do Conselho, de 17 de Novembro de 1964, que
+    fixa as normas comuns de qualidade relativas aos espargos e aos pepinos
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento n° 183/64/CEE del Consejo, de 17 de noviembre de 1964, por
+    el que se establecen normas comunes de calidad para los espárragos y los pepinos
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0183
+docidentifier:
+- content: EU Regulation 183/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0183
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/183/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-17'
+- type: implemented
+  at: '1964-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0023
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,66 @@
+---
+id: EURegulation19461972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1946/72 de la Commission, du 11 septembre 1972, fixant
+    les prélèvements à l'importation pour le sucre blanc et le sucre brut
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1946/72 der Kommission vom 11. September 1972 über
+    die Festsetzung der Abschöpfungen bei der Einfuhr von WeiDzucker und Rohzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1946/72 della Commissione, dell'11 settembre 1972,
+    che fissa i prelievi all'importazione per lo zucchero bianco e per lo zucchero
+    greggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1946/72 van de Commissie van 11 september 1972 houdende
+    vaststelling van de heffingen bij invoer voor witte suiker en ruwe suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1946
+docidentifier:
+- content: EU Regulation 1946/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1946
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1946/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,101 @@
+---
+id: EURegulation28701974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2870/74 of the Commission of 15 November 1974 amending
+    Regulation (EEC) No 2865/73 as regards the list of agencies and laboratories empowered
+    to issue the documents accompanying wines for direct human consumption imported
+    from third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2870/74 de la Commission, du 15 novembre 1974, modifiant
+    le règlement (CEE) n° 2865/73 en ce qui concerne les listes des organismes et
+    des laboratoires habilités à établir le document accompagnant les vins importés
+    des pays tiers destinés à la consommation humaine directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2870/74 der Kommission vom 15. November 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2865/73 hinsichtlich der Verzeichnisse der Stellen und
+    Laboratorien, die zur Ausstellung des Dokuments befugt sind, das aus Drittländern
+    eingeführten und zum unmittelbaren menschlichen Verbrauch bestimmten Wein begleiten
+    muß
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2870/74 af 15. november 1974 om ændring
+    af forordning (EØF) nr. 2865/73 for så vidt angår listerne over organerne og
+    de laboratorier, der er berettigede til at udstede en attest, som skal ledsage
+    vin, der fra tredjelande indføres til direkte menneskeligt forbrug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2870/74 della Commissione, del 15 novembre 1974, che
+    modifica il regolamento (CEE) n. 2865/73 relativamente agli elenchi degli organismi
+    e dei laboratori abilitati ad emettere il documento che accompagna i vini importati
+    in provenienza dai paesi terzi e destinati al consumo umano diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2870/74 van de Commissie van 15 november 1974 tot
+    wijziging van Verordening (EEG) nr. 2865/73 ten aanzien van de lijsten der instanties
+    en laboratoria die bevoegd zijn om het document op te stellen dat uit derde landen
+    ingevoerde wijn bestemd voor rechtstreekse menselijke consumptie vergezelt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2870
+docidentifier:
+- content: EU Regulation 2870/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2870
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2870/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-15'
+- type: implemented
+  at: '1974-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2865
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

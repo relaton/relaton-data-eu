@@ -1,0 +1,80 @@
+---
+id: EURegulation3361971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 336/71 de la Commission, du 16 février 1971, modifiant
+    le texte allemand du règlement (CEE) n° 1700/70 relatif au contrôle des vins
+    aptes à donner du vin de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 336/71 der Kommission vom 16. Februar 1971 zur Änderung
+    der deutschen Fassung der Verordnung (EWG) Nr. 1700/70 über die Kontrolle der
+    zur Gewinnung von Tafelwein geeigneten Weine
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 336/71 della Commissione, del 16 febbraio 1971, che
+    modifica il testo tedesco del regolamento (CEE) n. 1700/70 relativo al controllo
+    dei vini atti a diventare vini da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 336/71 van de Commissie van 16 februari 1971 houdende
+    wijziging van de Duitse tekst van Verordening (EEG) nr. 1700/70 betreffende de
+    controle op wijn die tot tafelwijn kan worden verwerkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0336
+docidentifier:
+- content: EU Regulation 336/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0336
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/336/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-16'
+- type: implemented
+  at: '1971-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1700
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

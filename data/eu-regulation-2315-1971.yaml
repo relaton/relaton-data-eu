@@ -1,0 +1,83 @@
+---
+id: EURegulation23151971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2315/71 du Conseil, du 29 octobre 1971, déterminant,
+    pour la campagne viticole 1971/1972, le prix à payer pour l'alcool livré aux
+    organismes d'intervention au titre de la distillation obligatoire des sous-produits
+    de la vinification et le montant de l'intervention dans ce prix du Fonds européen
+    d'orientation et de garantie agricole, section garantie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2315/71 des Rates vom 29. Oktober 1971 zur Festlegung
+    - für das Weinwirtschaftsjahr 1971/1972 - des von den Interventionsstellen zu
+    zahlenden Preises für den Alkohol, der ihnen im Rahmen der vorgeschriebenen Destillation
+    der Nebenerzeugnisse der Weinbereitung geliefert wird, und des dabei vom Europäischen
+    Ausrichtungs- und Garantiefonds für die Landwirtschaft, Abteilung Garantie, zu
+    übernehmenden Anteils
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2315/71 del Consiglio, del 29 ottobre 1971, che fissa,
+    per la campagna viticola 1971/1972, il prezzo dell'alcole consegnato agli organismi
+    d'intervento per la distillazione obbligatoria dei sottoprodotti della vinificazione
+    e determina l'importo dell'intervento in tale prezzo del Fondo europeo agricolo
+    di orientamento e di garanzia, sezione garanzia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2315/71 van de Raad van 29 oktober 1971 tot vaststelling,
+    voor het wijnoogstjaar 1971/1972, van de prijs die moet worden betaald voor de
+    aan de interventiebureaus uit hoofde van de verplichte distillatie van de bijprodukten
+    van de wijnbereiding geleverde alcohol, alsmede van de deelneming van het EOGFL,
+    afdeling Garantie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2315
+docidentifier:
+- content: EU Regulation 2315/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2315
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2315/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-29'
+- type: implemented
+  at: '1971-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

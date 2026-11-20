@@ -1,0 +1,80 @@
+---
+id: EURegulation781963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 78/63/CEE de la Commission du 26 juillet 1963 portant fixation
+    du montant des prélèvements intracommunautaires pour les oeufs en coquille de
+    volailles de basse-cour, les volailles vivantes d'un poids n'excédant pas 185
+    grammes et les volailles abattues pour les importations effectuées à partir
+    du 1er août 1963
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 78/63/EWG der Kommission vom 26. Juli 1963 über die Festsetzung
+    der innergemeinschaftlichen Abschöpfungsbeträge für Eier in der Schale von
+    Hausgeflügel, lebendes Hausgeflügel mit einem Gewicht von höchstens 185 Gramm
+    und geschlachtetes Hausgeflügel für die ab 1. August 1963 getätigten Einfuhren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 78/63/CEE della Commissione del 26 luglio 1963 relativo
+    alla fissazione dell'ammontare dei prelievi intracomunitari applicabili alle uova
+    in guscio di volatili da cortile, ai volatili da cortile vivi di peso non superiore
+    a 185 grammi e ai volatili da cortile macellati per le importazioni effettuate
+    dal 1 agosto 1963
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 78/63/EEG van de Commissie van 26 juli 1963 houdende vaststelling
+    van de intracommunautaire heffingen op eieren in de schaal van pluimvee, levend
+    pluimvee dat niet meer dan 185 gram weegt en geslacht pluimvee, voor de invoer
+    die van 1 augustus 1963 af plaatsvindt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0078
+docidentifier:
+- content: EU Regulation 78/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0078
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/78/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-26'
+- type: implemented
+  at: '1963-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

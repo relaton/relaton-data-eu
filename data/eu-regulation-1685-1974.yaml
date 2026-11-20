@@ -1,0 +1,94 @@
+---
+id: EURegulation16851974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1685/74 of the Council of 27 June 1974 amending in
+    particular Regulation (EEC) No 2958/73 on the exchange rate applied in agriculture
+    for the Italian lira
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1685/74 du Conseil, du 27 juin 1974, portant notamment
+    modification du règlement (CEE) n° 2958/73, relatif au taux de conversion à
+    appliquer dans le secteur agricole pour la lire italienne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1685/74 des Rates vom 27. Juni 1974 zur Änderung
+    insbesondere der Verordnung (EWG) Nr. 2958/73 betreffend den in der Landwirtschaft
+    anzuwendenden Umrechnungskurs für die italienische Lira
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1685/74 af 27. juni 1974 særlig om ændring
+    af forordning (EØF) nr. 2958/73 om den omregningskurs, der skal anvendes inden
+    for landbrugssektoren for den italienske lire
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1685/74 del Consiglio, del 27 giugno 1974, che modifica
+    in particolare il regolamento (CEE) n. 2958/73, relativo al tasso di conversione
+    da applicare nel settore agricolo per la lira italiana
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1685/74 van de Raad van 27 juni 1974 houdende met
+    name wijziging van Verordening (EEG) nr. 2958/73 betreffende de in de landbouwsector
+    voor de Italiaanse lire toe te passen omrekeningskoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1685
+docidentifier:
+- content: EU Regulation 1685/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1685
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1685/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-27'
+- type: implemented
+  at: '1974-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2958
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

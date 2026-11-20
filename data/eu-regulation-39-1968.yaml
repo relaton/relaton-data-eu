@@ -1,0 +1,92 @@
+---
+id: EURegulation391968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 39/68 of the Commission of 11 January 1968 amending
+    Regulation No 26/64/EEC as regards keeping the viticultural land register up to
+    date
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 39/68 de la Commission, du 11 janvier 1968, modifiant
+    le règlement n° 26/64/CEE relatif à la tenue à jour du cadastre viticole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 39/68 der Kommission vom 11. Januar 1968 zur Änderung
+    der Verordnung Nr. 26/64/EWG hinsichtlich der laufenden Vervollständigung des
+    Weinbaukatasters
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 39/68 af 11. januar 1968 om ændring
+    af forordning nr. 26/64/EØF vedrørende vinavlsmatriklens ajourføring
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 39/68 della Commissione, dell' 11 gennaio 1968, che
+    modifica il regolamento n. 26/64/CEE per quanto riguarda l' aggiornamento del
+    catasto viticolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 39/68 van de Commissie van 11 januari 1968 houdende
+    wijziging van Verordening nr. 26/64/EEG met betrekking tot de bijwerking van het
+    wijnbouwkadaster
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0039
+docidentifier:
+- content: EU Regulation 39/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0039
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/39/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-01-11'
+- type: implemented
+  at: '1968-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0026
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

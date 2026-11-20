@@ -1,0 +1,100 @@
+---
+id: EURegulation7051978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 705/78 of 4 April 1978 amending Regulation
+    (EEC) No 3330/74 on the common organization of the market in sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 705/78 du Conseil, du 4 avril 1978, modifiant le règlement
+    (CEE) n° 3330/74 portant organisation commune des marchés dans le secteur du
+    sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 705/78 des Rates vom 4. April 1978 zur Änderung der
+    Verordnung (EWG) Nr. 3330/74 über die gemeinsame Marktorganisation für Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 705/78 af 4. april 1978 om ændring af forordning
+    (EØF) nr. 3330/74 om den fælles markedsordning for sukker
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 705/78 τού Συμβουλίου
+    τής 4ης Απριλίου 1978 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 3330/74 «περί κοινής οργανώσεως
+    αγοράς στόν τομέα τής ζάχαρης»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 705/78 del Consiglio, del 4 aprile 1978, che modifica
+    il regolamento (CEE) n. 3330/74 relativo all' organizzazione comune dei mercati
+    nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 705/78 van de Raad van 4 april 1978 tot wijziging
+    van Verordening (EEG) nr. 3330/74 houdende een gemeenschappelijke ordening der
+    markten in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0705
+docidentifier:
+- content: EU Regulation 705/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0705
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/705/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-04-04'
+- type: implemented
+  at: '1978-04-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3330
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

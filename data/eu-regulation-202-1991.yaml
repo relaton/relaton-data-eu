@@ -1,0 +1,136 @@
+---
+id: EURegulation2021991
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 202/91 of 28 January 1991 amending Regulation
+    (EEC) No 3885/90 laying down detailed rules for the application of the import
+    arrangements provided for in Council Regulation (EEC) No 3838/90 for frozen meat
+    of bovine animals covered by CN code 0202 and products covered by CN code 0206
+    29 91
+  type: main
+- language: fr
+  script: Latn
+  content: 'RÈGLEMENT (CEE) No 202/91 DE LA COMMISSION du 28 janvier 1991 modifiant
+    le règlement (CEE) no 3885/90 portant modalités d'' application du régime d''
+    importation prévu par le règlement (CEE) no 3838/90 du Conseil pour la viande
+    bovine congelée relevant du code NC 0202 et les produits relevant du code NC
+    0206 29 91 #'
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 202/91 DER KOMMISSION vom 28. Januar 1991 zur Änderung
+    der Verordnung (EWG) Nr. 3885/90 über Durchführungsbestimmungen zu der in der
+    Verordnung (EWG) Nr. 3838/90 des Rates für gefrorenes Rindfleisch des KN-Codes
+    0202 sowie für Waren des KN-Codes 0206 29 91 vorgesehenen Einfuhrregelung #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 202/91 af 28. januar 1991 om ændring
+    af forordning (EØF) nr. 3885/90 om fastsættelse af gennemførelsesbestemmelserne
+    til den importordning, der er fastsat ved Rådets forordning (EØF) nr. 3838/90
+    for frosset kød af hornkvæg henhørende under KN-kode 0202 og for varer henhørende
+    under KN-kode 0206 29 91
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 202/91 της Επιτροπής
+    της 28ης Ιανουαρίου 1991 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 3885/90 για τον καθορισμό
+    των λεπτομερειών εφαρμογής του καθεστώτος
+    εισαγωγής που προβλέπεται από τον κανονισμό
+    (ΕΟΚ) αριθ. 3838/90 του Συμβουλίου για το κατεψυγμένο
+    βόειο κρέας που υπάγεται στον κωδικό ΣΟ 0202
+    και τα προϊόντα του κωδικού ΣΟ 0206 29 91
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 202/91 DELLA COMMISSIONE del 28 gennaio 1991 recante
+    modifica del regolamento (CEE) n. 3885/90 che stabilisce le modalità di applicazione
+    del regime d'' importazione istituito dal regolamento (CEE) n. 3838/90 del Consiglio
+    per quanto concerne le carni bovine congelate del codice NC 0202 e i prodotti
+    del codice NC 0206 29 91 #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 202/91 VAN DE COMMISSIE van 28 januari 1991 tot
+    wijziging van Verordening (EEG) nr. 3885/90 tot vaststelling van de uitvoeringsbepalingen
+    van de bij Verordening (EEG) nr. 3838/90 van de Raad ingestelde invoerregeling
+    voor bevroren rundvlees van GN-code 0202 en de produkten van GN-code 0206 29 91
+    #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) Nº 202/91 DA COMISSÃO de 28 de Janeiro de 1991 que
+    altera o Regulamento (CEE) nº 3885/90, que estabelece as regras de execução
+    do regime de importação previsto pelo Regulamento (CEE) nº 3838/90 do Conselho
+    para a carne de bovino congelada, do código NC 0202, e para os produtos do código
+    NC 0206 29 91 #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 202/91 DE LA COMISIÓN de 28 de enero de 1991 por
+    el que se modifica el Reglamento (CEE) no 3885/90 por el que se establecen las
+    disposiciones de aplicación del régimen de importación establecido en el Reglamento
+    (CEE) no 3838/90 del Consejo, para la carne de vacuno congelada del código NC
+    0202 y los productos del código NC 0206 29 91 #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991R0202
+docidentifier:
+- content: EU Regulation 202/1991
+  type: EU
+  primary: true
+- content: CELEX 31991R0202
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1991/202/oj
+  type: ELI
+date:
+- type: issued
+  at: '1991-01-28'
+- type: implemented
+  at: '1990-12-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31990R3885
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

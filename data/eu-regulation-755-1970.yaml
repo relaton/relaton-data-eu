@@ -1,0 +1,94 @@
+---
+id: EURegulation7551970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 755/70 of the Commission of 24 April 1970 supplementing
+    Regulation (EEC) No 142/69 laying down certain detailed rules for the application
+    of the quota system for sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 755/70 de la Commission, du 24 avril 1970, complétant
+    le règlement (CEE) n° 142/69 établissant certaines modalités nécessaires
+    pour l' application du régime des quotas dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 755/70 der Kommission vom 24. April 1970 zur Ergänzung
+    der Verordnung (EWG) Nr. 142/69 über gewisse zur Anwendung der Quotenregelung
+    notwendige Durchführungsbestimmungen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 755/70 af 24. april 1970 om tillæg
+    til forordning (EØF) nr. 142/69 om visse til anvendelse af kvotaordningen nødvendige
+    gennemførelsesbestemmelser inden for sukkersektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 755/70 della Commissione, del 24 aprile 1970, che
+    completa il regolamento (CEE) n. 142/69 che stabilisce talune modalità necessarie
+    per l' applicazione del sistema delle quote nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 755/70 van de Commissie van 24 april 1970 houdende
+    aanvulling van Verordening (EEG) nr. 142/69 tot vaststelling van enkele uitvoeringsbepalingen
+    welke noodzakelijk zijn voor de toepassing van het quotasysteem in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0755
+docidentifier:
+- content: EU Regulation 755/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0755
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/755/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-24'
+- type: implemented
+  at: '1970-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0142
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

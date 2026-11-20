@@ -1,0 +1,100 @@
+---
+id: EURegulation14111975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1411/75 of the Commission of 30 May 1975 amending Regulation
+    (EEC) No 1982/74 fixing, for the 1974/75 marketing year, the accession compensatory
+    amounts for certain categories of cereals, for rice and for processed products
+    derived from cereals or rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1411/75 de la Commission, du 30 mai 1975, modifiant
+    le règlement (CEE) n° 1982/74 de la Commission fixant pour la campagne 1974/1975,
+    les montants compensatoires adhésion pour certaines catégories de céréales,
+    le riz, ainsi que les produits transformés à base de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1411/75 der Kommission vom 30. Mai 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1982/74 der Kommission zur Festsetzung der Beitrittsausgleichsbeträge
+    für bestimmte Getreidearten, Reis sowie Getreide- und Reisverarbeitungserzeugnisse
+    für das Wirtschaftsjahr 1974/1975
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1411/75 af 30. maj 1975 om ændring
+    af Kommissionens forordning (EØF) nr. 1982/74 om fastsættelse af tiltrædelsesudligningsbeløb
+    for visse kategorier af korn, ris samt produkter forarbejdet på basis af korn
+    og ris for høståret 1974/1975
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1411/75 della Commissione, del 30 maggio 1975, recante
+    modifica del regolamento (CEE) n. 1982/74 che fissa per la campagna 1974/1975
+    gli importi compensativi adesione applicabili a talune categorie di cereali, di
+    riso e ai prodotti trasformati a base di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1411/75 van de Commissie van 30 mei 1975 houdende
+    wijziging van Verordening (EEG) nr. 1982/74 tot vaststelling, voor het verkoopseizoen
+    1974/1975, van de compenserende bedragen "toetreding" voor bepaalde graansoorten,
+    voor rijst en voor op basis van granen en rijst verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1411
+docidentifier:
+- content: EU Regulation 1411/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1411
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1411/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-30'
+- type: implemented
+  at: '1975-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1982
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,128 @@
+---
+id: EURegulation28351972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2835/72 of the Council of 29 December 1972 amending
+    Council Regulation No 79/65/EEC setting up a network for the collection of accountancy
+    data on the incomes and business operation of agricultural holdings in the European
+    Economic Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2835/72 du Conseil, du 29 décembre 1972, modifiant
+    le règlement n° 79/65/CEE portant création d' un réseau d' information comptable
+    agricole sur les revenus de l' économie des exploitations agricoles dans la Communauté
+    économique européenne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2835/72 des Rates vom 29. Dezember 1972 zur Änderung
+    der Verordnung Nr. 79/65/EWG zur Bildung eines Informationsnetzes landwirtschaftlicher
+    Buchführungen über die Einkommenslage und die betriebswirtschaftlichen Verhältnisse
+    landwirtschaftlicher Betriebe in der Europäischen Wirtschaftsgemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2835/72 af 29. december 1972 om ændring
+    af forordning nr. 79/65/EØF om oprettelser af et informationsnet for landøkonomisk
+    bogføring til belysning af indkomstforhold og driftsøkonomiske forhold i landbruget
+    i Det europæiske økonomiske Fællesskab
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2835/72 του Συμβουλίου
+    της 29ης Δεκεμβρίου 1972 περί τροποποιήσεως του
+    κανονισμού αριθ. 79/65/ΕΟΚ περί δημιουργίας δικτύου
+    γεωργικής λογιστικής πληροφορήσεως επί των
+    εισοδημάτων και της οικονομίας των γεωργικών
+    εκμεταλλεύσεων της Ευρωπαϊκής Οικονομικής
+    Κοινότητος
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 2835/72 annettu 29 päivänä joulukuuta 1972
+    verkoston luomisesta Euroopan talousyhteisön maatilojen tuloja ja taloutta koskevien
+    kirjanpitotietojen keruuta varten annetun asetuksen N:o 79/65/ETY muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2835/72 del Consiglio, del 29 dicembre 1972, che modifica
+    il regolamento n. 79/65/CEE relativo all' istituzione di una rete d' informazione
+    contabile agricola sui redditi e sull' economia delle aziende agricole nella Comunità
+    economica europea
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2835/72 van de Raad van 29 december 1972 tot wijziging
+    van Verordening nr. 79/65/EEG tot oprichting van een boekhoudkundig informatienet
+    betreffende de inkomens en de bedrijfseconomische positie van de landbouwbedrijven
+    in de Europese Economische Gemeenschap
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 2835/72 av den 29 december 1972 om ändring
+    av rådets förordning nr 79/65/EEG om upprättandet av ett informationssystem
+    för jordbruksföretagens redovisningsuppgifter för att belysa inkomstförhållanden
+    och andra ekonomiska förhållanden i jordbruksföretag i Europeiska ekonomiska
+    gemenskapen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2835
+docidentifier:
+- content: EU Regulation 2835/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2835
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2835/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-29'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0079
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

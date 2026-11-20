@@ -1,0 +1,80 @@
+---
+id: EURegulation22851971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2285/71 du Conseil, du 26 octobre 1971, modifiant
+    le règlement (CEE) n° 988/68 relatif au financement des dépenses d'intervention
+    et des institutions dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2285/71 des Rates vom 26. Oktober 1971 zur Änderung
+    der Verordnung (EWG) Nr. 988/68 über die Finanzierung der Interventionsausgaben
+    und der Erstattungen für Obst und Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2285/71 del Consiglio, del 26 ottobre 1971, che modifica
+    il regolamento (CEE) n. 988/68 relativo al finanziamento delle spese d'intervento
+    e delle restituzioni nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2285/71 van de Raad van 26 oktober 1971 houdende
+    wijziging van Verordening (EEG) nr. 988/68 betreffende de financiering van de
+    interventie-uitgaven en de restituties in de sector groenten en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2285
+docidentifier:
+- content: EU Regulation 2285/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2285
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2285/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-26'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0988
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

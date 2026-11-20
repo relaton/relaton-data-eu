@@ -1,0 +1,94 @@
+---
+id: EURegulation18351976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1835/76 of 28 July 1976 amending Regulation
+    (EEC) No 990/72 as regards the quantities of skimmed-milk powder which may be
+    denatured
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1835/76 de la Commission, du 28 juillet 1976, modifiant
+    le règlement (CEE) n° 990/72 en ce qui concerne les quantités de lait écrémé
+    en poudre pouvant être dénaturées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1835/76 der Kommission vom 28. Juli 1976 zur Änderung
+    der Verordnung (EWG) Nr. 990/72 hinsichtlich der Magermilchpulvermengen, die denaturiert
+    werden können
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1835/76 af 28. juli 1976 om ændring
+    af forordning (EØF) nr. 990/72 for så vidt angår de mængder skummetmælkspulver,
+    som kan denatureres
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1835/76 della Commissione, del 28 luglio 1976, che
+    modifica il regolamento (CEE) n. 990/72 per quanto concerne i quantitativi di
+    latte scremato in polvere che possono essere denaturati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1835/76 van de Commissie van 28 juli 1976 houdende
+    wijziging van Verordening (EEG) nr. 990/72 met betrekking tot de hoeveelheden
+    magere-melkpoeder die mogen worden gedenatureerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1835
+docidentifier:
+- content: EU Regulation 1835/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1835
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1835/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-28'
+- type: implemented
+  at: '1976-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0990
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

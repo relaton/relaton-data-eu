@@ -1,0 +1,94 @@
+---
+id: EURegulation3161971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 316/71 of the Commission of 12 February 1971 supplementing
+    Regulation (EEC) No 497/70 on rules for the application of export refunds on fruit
+    and vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 316/71 de la Commission, du 12 février 1971, complétant
+    le règlement (CEE) n° 497/70 portant modalités d' application des restitutions
+    à l' exportation dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 316/71 der Kommission vom 12. Februar 1971 zur Ergänzung
+    der Verordnung (EWG) Nr. 497/70 über Durchführungsbestimmungen für die Ausfuhrerstatungen
+    bei Obst und Gemüse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 316/71 af 12. februar 1971 om tillæg
+    til forordning (EØF) nr. 497/70 om gennemførelsesbestemmelser vedrørende eksportrestitutioner
+    inden for frugt- og grønsagssektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 316/71 della Commissione, del 12 febbraio 1971, che
+    completa il regolamento (CEE) n. 497/70 relativo alle modalità di applicazione
+    delle restituzioni all' esportazione nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 316/71 van de Commissie van 12 februari 1971 tot
+    aanvulling van Verordening (EEG) nr. 497/70 houdende uitvoeringsbepalingen inzake
+    de verlening van restituties bij de uitvoer van groenten en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0316
+docidentifier:
+- content: EU Regulation 316/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0316
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/316/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-12'
+- type: implemented
+  at: '1971-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0497
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

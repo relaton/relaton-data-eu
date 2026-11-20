@@ -1,0 +1,137 @@
+---
+id: EURegulation24401989
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2440/89 of 4 August 1989 amending Regulations
+    (EEC) No 3846/87 and (EEC) No 1700/84 on product nomenclature for export refunds
+    in the pigmeat sector and repealing Regulation (EEC) No 232/83
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2440/89 de la Commission du 4 août 1989 modifiant
+    les règlements (CEE) n° 3846/87 et (CEE) n 1700/84 en ce qui concerne la nomenclature
+    des produits pour les restitutions à l'exportation dans le secteur de la viande
+    de porc et abrogeant le règlement (CEE) n° 232/83
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG (EWG) Nr. 2440/89 DER KOMMISSION vom 4. August 1989 zur Aenderung
+    der Verordnungen (EWG) Nr. 3846/87 und (EWG) Nr. 1700/84 hinsichtlich der Nomenklatur
+    der Ausfuhrerstattungen im Sektor Schweinefleisch und zur Aufhebung der Verordnung
+    (EWG) Nr. 232/83
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2440/89 af 4. august 1989 om ændring
+    af forordning (EØF) nr. 3846/87 og (EØF) nr. 1700/84 for så vidt angår nomenklaturen
+    over eksportrestitutioner for svinekødsprodukter og om ophævelse af forordning
+    (EØF) nr. 232/83
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2440/89 της Επιτροπής
+    της 4ης Αυγούστου 1989 περί τροποποιήσεως των
+    κανονισμών (ΕΟΚ) αριθ. 3846/87 και (ΕΟΚ) αριθ. 1700/84
+    όσον αφορά την ονοματολογία των προϊόντων
+    για τις επιστροφές κατά την εξαγωγή στον τομέα
+    του χοιρείου κρέατος και περί καταργήσεως
+    του κανονισμού (ΕΟΚ) αριθ. 232/83
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO (CEE) N. 2440/89 DELLA COMMISSIONE del 4 agosto 1989 che modifica
+    i regolamenti (CEE) n. 3846/87 e (CEE) n. 1700/84 per quanto riguarda la nomenclatura
+    dei prodotti per le restituzioni all'esportazione nel settore delle carni suine
+    e che abroga il regolamento (CEE) n. 232/83
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING (EEG) Nr. 2440/89 VAN DE COMMISSIE van 4 augustus 1989 tot
+    wijziging van de Verordeningen (EEG) nr. 3846/87 en (EEG) nr. 1700/84 ten aanzien
+    van de produktennomenclatuur voor de uitvoerrestituties in de sector varkensvlees
+    en tot intrekking van Verordening (EEG) nr. 232/83
+  type: main
+- language: pt
+  script: Latn
+  content: REGULAMENTO (CEE) N* 2440/89 DA COMISSAO de 4 de Agosto de 1989 que altera
+    os Regulamentos (CEE) n* 3846/87 e (CEE) n* 1700/84 no que diz respeito à nomenclatura
+    dos produtos para as restituiçoes à exportaçao no sector da carne de suino
+    e que revoga o Regulamento (CEE) n* 232/83
+  type: main
+- language: es
+  script: Latn
+  content: REGLAMENTO (CEE) No 2440/89 DE LA COMISION de 4 de agosto de 1989 por el
+    que se modifican los Reglamentos (CEE) nos 3846/87 y 1700/84 en lo que se refiere
+    a la nomenclatura de productos para las restituciones a la exportacion en el sector
+    de la carne de porcino y se deroga el Reglamento (CEE) no 232/83
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989R2440
+docidentifier:
+- content: EU Regulation 2440/1989
+  type: EU
+  primary: true
+- content: CELEX 31989R2440
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1989/2440/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-08-04'
+- type: implemented
+  at: '1989-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R0232
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31984R1700
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31987R3846
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

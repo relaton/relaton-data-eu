@@ -1,0 +1,99 @@
+---
+id: EURegulation18771983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1877/83 of 8 July 1983 amending Regulation
+    (EEC) No 1223/83 on the exchange rates to be applied in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1877/83 du Conseil du 8 juillet 1983 modifiant le règlement
+    (CEE) no 1223/83 relatif aux taux de change à appliquer dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1877/83 des Rates vom 8. Juli 1983 zur Änderung der
+    Verordnung (EWG) Nr. 1223/83 über die in der Landwirtschaft anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1877/83 af 8. juli 1983 om ændring af forordning
+    (EØF) nr. 1223/83 om de vekselkurser, der skal anvendes inden for landbrugssektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1877/83 του Συμβουλίου
+    της 8ης Ιουλίου 1983 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 1223/83 περί των τιμών συναλλάγματος
+    που πρέπει να εφαρμοσθούν στον γεωργικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1877/83 del Consiglio dell' 8 luglio 1983 che modifica
+    il regolamento (CEE) n. 1223/83 relativo ai tassi di cambio da applicare nel settore
+    agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1877/83 van de Raad van 8 juli 1983 tot wijziging
+    van Verordening (EEG) nr. 1223/83 inzake de in de landbouwsector toe te passen
+    wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1877
+docidentifier:
+- content: EU Regulation 1877/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1877
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1877/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-07-08'
+- type: implemented
+  at: '1983-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R1223
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

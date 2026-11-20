@@ -1,0 +1,104 @@
+---
+id: EURegulation5751983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 575/83 of 14 March 1983 amending for the
+    fourth time Regulation (EEC) No 2192/82 laying down detailed rules for the application
+    of the special measures for peas and field beans
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 575/83 de la Commission du 14 mars 1983 portant quatrième
+    modification du règlement (CEE) no 2192/82 portant modalités d' application
+    des mesures spéciales pour les pois, fèves et féveroles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 575/83 der Kommission vom 14. März 1983 zur vierten
+    Änderung der Verordnung (EWG) Nr. 2192/82 mit Durchführungsbestimmungen für
+    die besonderen Maßnahmen für Erbsen, Puffbohnen und Ackerbohnen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 575/83 af 14. marts 1983 om fjerde
+    ændring af forordning (EØF) nr. 2192/82 om gennemførelsesbestemmelser vedrørende
+    særforanstaltninger for ærter, bønner og hestebønner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 575/83 της Επιτροπής
+    της 14ης Μαρτίου 1983 για τέταρτη τροποποίηση
+    του κανονισμού (ΕΟΚ) αριθ. 2192/82 περί των λεπτομερειών
+    εφαρμογής των ειδικών μέτρων για τα πίσα, τα
+    κουκιά και τα φούλια
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 575/83 della Commissione del 14 marzo 1983 recante
+    quarta modifica del regolamento (CEE) n. 2192/82 relativo alle modalità di applicazione
+    delle misure speciali per i piselli, le fave e le favette
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 575/83 van de Commissie van 14 maart 1983 tot vierde
+    wijziging van Verordening (EEG) nr. 2192/82 houdende bepalingen ter uitvoering
+    van de bijzondere maatregelen voor erwten, tuin- en veldbonen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0575
+docidentifier:
+- content: EU Regulation 575/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0575
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/575/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-03-14'
+- type: implemented
+  at: '1983-03-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R2192
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

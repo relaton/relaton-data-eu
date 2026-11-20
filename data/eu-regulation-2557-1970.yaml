@@ -1,0 +1,77 @@
+---
+id: EURegulation25571970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2557/70 du Conseil, du 15 décembre 1970, portant
+    ouverture, répartition et mode de gestion du contingent tarifaire communautaire
+    de viande bovine congelée, de la sous-position 02.01 à II a) 2 du tarif douanier
+    commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2557/70 des Rates vom 15. Dezember 1970 über die
+    Eröffnung, Aufteilung und Verwaltung des Gemeinschaftszollkontingents für gefrorenes
+    Rindfleisch der Tarifstelle 02.01 A II a) 2 des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2557/70 del Consiglio, del 15 dicembre 1970, relativo
+    all'apertura, alla ripartizione e al modo di gestione del contingente tariffario
+    comunitario di carni bovine congelate della sottovoce 02.01 A II a) 2 della tariffa
+    doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2557/70 van de Raad van 15 december 1970 betreffende
+    de opening, de verdeling en de wijze van beheer van een communautair tariefcontingent
+    voor bevroren rundvlees van onderverdeling 02.01 A II a) 2 van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2557
+docidentifier:
+- content: EU Regulation 2557/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2557
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2557/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

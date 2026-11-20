@@ -1,0 +1,94 @@
+---
+id: EURegulation4771975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 477/75 of the Council of 27 February 1975 amending
+    Regulation (EEC) No 2737/73 laying down general rules to be applied in the event
+    of the rice market being disturbed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 477/75 du Conseil, du 27 février 1975, modifiant
+    le règlement (CEE) n° 2737/73 définissant les règles générales à appliquer
+    dans le secteur du riz en cas de perturbation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 477/75 des Rates von 27. Februar 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2737/73 zur Festlegung der im Falle von Störungen auf
+    dem Reissektor anzuwendenden Grundregeln
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 477/75 af 27. februar 1975 om ændring af
+    forordning (EØF) nr. 2737/73 om fastsættelse af de almindelige regler, der skal
+    anvendes på ris i tilfælde af markedsforstyrrelser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 477/75 del Consiglio, del 27 febbraio 1975, recante
+    modifica del regolamento (CEE) n. 2737/73 che definisce le norme generali applicabili
+    nel settore del riso in caso di perturbazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 477/75 van de Raad van 27 februari 1975 houdende
+    wijziging van Verordening (EEG) nr. 2737/73 tot vaststelling van de algemene voorschriften
+    die in geval van verstoring gelden in de sector rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0477
+docidentifier:
+- content: EU Regulation 477/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0477
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/477/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-02-27'
+- type: implemented
+  at: '1975-03-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2737
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

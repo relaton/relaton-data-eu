@@ -1,0 +1,101 @@
+---
+id: EURegulation9721975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 972/75 of the Commission of 15 April 1975 amending
+    Regulations (EEC) No 1223/74 and (EEC) No 2637/70 as regards the period of validity
+    of certain export licences for cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 972/75 de la Commission, du 15 avril 1975, modifiant
+    les règlements (CEE) n° 1223/74 et (CEE) n° 2637/70 en ce qui concerne la durée
+    de validité de certains certificats d' exportation dans le secteur des céréales
+    et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 972/75 der Kommission vom 15. April 1975 zur Änderung
+    der Verordnungen (EWG) Nr. 1223/74 und (EWG) Nr. 2637/70 hinsichtlich der Gültigkeitsdauer
+    bestimmter Ausfuhrlizenzen für Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 972/75 af 15. april 1975 om ændring
+    af forordningerne (EØF) nr. 1223/74 og (EØF) nr. 2637/70 for så vidt angår
+    gyldighedsperioden for visse eksportlicenser for korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 972/75 della Commissione, del 15 aprile 1975, che
+    modifica i regolamenti (CEE) n. 1223/74 e (CEE) n. 2637/70 per quanto concerne
+    la durata di validità di determinati titoli di esportazione nel settore dei cereali
+    e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 972/75 van de Commissie van 15 april 1975 tot wijziging
+    van de Verordening (EEG) nr. 1223/74 en (EEG) nr. 2637/70 inzake de geldigheidsduur
+    van bepaalde uitvoercertificaten in de sector granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0972
+docidentifier:
+- content: EU Regulation 972/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0972
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/972/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-15'
+- type: implemented
+  at: '1975-04-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1223
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

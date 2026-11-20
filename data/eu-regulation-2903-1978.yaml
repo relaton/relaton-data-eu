@@ -1,0 +1,98 @@
+---
+id: EURegulation29031978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2903/78 of 5 December 1978 amending Annex II
+    to Regulation (EEC) No 100/76 as regards squid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2903/78 du Conseil, du 5 décembre 1978, modifiant
+    l' annexe II du règlement (CEE) n° 100/76 en ce qui concerne les calmars
+  type: main
+- language: de
+  script: Latn
+  content: Verodnung (EWG) Nr. 2903/78 des Rates vom 5. Dezember 1978 zur Änderung
+    von Anhang II der Verordnung (EWG) Nr. 100/76 hinsichtlich der Kalmare
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2903/78 af 5. december 1978 om ændring af
+    bilag II til forordning (EØF) nr. 100/76 for så vidt angår blæksprutter af
+    arten Kalmar
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2903/78 του Συμβουλίου
+    της 5ης Δεκεμβρίου 1978 περί τροποποιήσεως του
+    παραρτήματος του κανονισμού (ΕΟΚ) αριθ. 100/76
+    ως προς τα καλαμάρια
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2903/78 del Consiglio, del 5 dicembre 1978, che modifica
+    l' allegato II del regolamento (CEE) n. 100/76 per quanto riguarda i calamari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2903/78 van de Raad van 5 december 1978 tot wijziging
+    van bijlage II van Verordening (EEG) nr. 100/76, ten aanzien van de pijlinktvissen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2903
+docidentifier:
+- content: EU Regulation 2903/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2903
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2903/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-12-05'
+- type: implemented
+  at: '1979-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0100
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

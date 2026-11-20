@@ -1,0 +1,98 @@
+---
+id: EURegulation19541972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1954/72 of the Commission of 12 September 1972 on transitional
+    measures for butter intended for the manufacture of products falling within tariff
+    subheadings Nos 18.06 B and 21.07 C and amending Regulation (EEC) No 1716/72
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1954/72 de la Commission, du 12 septembre 1972, relatif
+    à des mesures transitoires pour le beurre destiné à la fabrication de produits
+    des positions tarifaires 18.06 B et 21.07 C et modifiant le règlement (CEE) n°
+    1716/72
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1954/72 der Kommission vom 12. September 1972 betreffend
+    Übergangsmaßnahmen für die zur Herstellung von Erzeugnissen der Tarifstellen
+    18.06 B und 21.07 C bestimmte Butter und zur Änderung der Verordnung (EWG) Nr.
+    1716/72
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1954/72 af 12. september 1972 om overgangsforanstaltninger
+    for smør til fremstilling af varer under positionerne 18.06 B og 21.07 C om ændring
+    af forordning (EØF) nr. 1716/72
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1954/72 della Commissione, del 12 settembre 1972,
+    che contiene disposizioni transitorie per il burro destinato alla fabbricazione
+    di prodotti delle voci tariffarie 18.06 B e 21.07 C e modifica il regolamento
+    (CEE) n. 1716/72
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1954/72 van de Commissie van 12 september 1972 met
+    betrekking tot overgangsmaatregelen voor boter, die is bestemd voor de vervaardiging
+    van produkten van de tariefposten 18.06 B en 21.07 C en houdende wijziging van
+    Verordening (EEG) nr. 1716/72
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1954
+docidentifier:
+- content: EU Regulation 1954/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1954
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1954/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-12'
+- type: implemented
+  at: '1972-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1716
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

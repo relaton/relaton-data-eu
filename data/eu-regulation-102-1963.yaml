@@ -1,0 +1,89 @@
+---
+id: EURegulation1021963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 102/63/CEE du Conseil, du 25 septembre 1963, portant fixation
+    du montant des prélèvements envers les pays tiers pour le porc et les produits
+    à base de viande de porc en ce qui concerne les importations effectuées entre
+    le 1er octobre et le 31 décembre 1963
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 102/63/EWG des Rats vom 25. September 1963 über die Festsetzung
+    der Abschöpfungsbeträge gegenüber dritten Ländern für Schweine und Schweinefleisch
+    enthaltende Erzeugnisse für Einfuhren, die vom 1. Oktober bis zum 31. Dezember
+    1963 getätigt werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 102/63/CEE del Consiglio del 25 settembre 1963 relativo
+    alla determinazione dell'ammontare dei prelievi nei confronti dei paesi terzi
+    per i suini e i prodotti a base di carne suina per le importazioni effettuate
+    dal 1 ottobre al 31 dicembre 1963
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 102/63/EEG van de Raad van 25 september 1963 houdende vaststelling
+    van het bedrag van de heffingen ten opzichte van derde landen voor varkens en
+    voor produkten op basis van varkensvlees voor invoer die plaatsvindt in het tijdvak
+    van 1 oktober tot en met 31 december 1963
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0102
+docidentifier:
+- content: EU Regulation 102/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0102
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/102/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-09-25'
+- type: implemented
+  at: '1963-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0155
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0086
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

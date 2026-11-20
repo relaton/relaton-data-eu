@@ -1,0 +1,94 @@
+---
+id: EURegulation28851977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2885/77 of 23 December 1977 adjusting the
+    allocation of the Community quantitative export quota for certain types of aluminium
+    waste and scrap
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2885/77 de la Commission, du 23 décembre 1977, relatif
+    à l'ajustement de la répartition du contingent quantitatif communautaire à
+    l'exportation pour certains déchets et débris d'aluminium
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2885/77 der Kommission vom 23. Dezember 1977 zur Anpassung
+    der Aufteilung des mengenmäßigen Ausfuhrkontingents der Gemeinschaft für bestimmte
+    Bearbeitungsabfälle und Schrott aus Aluminium
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2885/77 af 23. december 1977 om regulering
+    af fordelingen af Fællesskabets kvantitative eksportkontingent for affald og
+    skrot af aluminium
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2885/77 della Commissione, del 23 dicembre 1977, che
+    adegua la ripartizione del contingente quantitativo comunitario all'esportazione
+    per taluni cascami e rottami di alluminio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2885/77 van de Commissie van 23 december 1977 houdende
+    wijziging van de verdeling van het communautair kwantitatief uitvoercontingent
+    voor bepaalde resten en afvallen van aluminium
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2885
+docidentifier:
+- content: EU Regulation 2885/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2885
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2885/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-23'
+- type: implemented
+  at: '1977-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0030
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

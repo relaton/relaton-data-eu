@@ -1,0 +1,69 @@
+---
+id: EURegulation4001967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 400/67/CEE de la Commission, du 1er août 1967, relatif à
+    la détermination des centres d'intervention pour les graines oléagineuses, autres
+    que les centres principaux, et des prix d'intervention dérivés y applicables
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 400/67/EWG der Kommission vom 1. August 1967 zur Festlegung
+    der Interventionsorte für Ölsaaten, ausgenommen die Hauptinterventionsorte,
+    und der dort geltenden abgeleiteten Interventionspreise
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 400/67/CEE della Commissione, del 1 agosto 1967, relativo
+    alla determinazione dei centri d'intervento per i semi oleosi diversi dai centri
+    principali e dei prezzi d'intervento derivati in essi applicabili
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 400/67/EEG van de Commissie van 1 augustus 1967 tot vaststelling
+    van de interventiecentra voor oliehoudende zaden, andere dan de voornaamste centra,
+    en van de daar geldende afgeleide interventieprijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0400
+docidentifier:
+- content: EU Regulation 400/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0400
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/400/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

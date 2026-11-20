@@ -1,0 +1,128 @@
+---
+id: EURegulation34561980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3456/80 of 22 December 1980 amending Regulations
+    (EEC) No 337/79, (EEC) No 338/79 and (EEC) No 358/79 concerning the common organization
+    of the market in wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3456/80 du Conseil, du 22 décembre 1980, modifiant
+    les règlements (CEE) n° 337/79, (CEE) n° 338/79 et (CEE) n° 358/79 en matière
+    d' organisation commune du marché viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3456/80 des Rates vom 22. Dezember 1980 zur Änderung
+    der Verordnungen (EWG) Nr. 337/79, (EWG) Nr. 338/79 und (EWG) Nr. 358/79 auf dem
+    Gebiet der gemeinsamen Marktorganisation für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3456/80 af 22. december 1980 om ændring
+    af forordning (EØF) nr. 337/79, (EØF) nr. 338/79 og (EØF) nr. 358/79 vedrørende
+    den fælles markedsordning for vin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3456/80 τού Συμβουλίου
+    τής 22ας Δεκεμβρίου 1980 περί τροποποιήσεως τών
+    κανονισμών (EOK) αριθ. 337/79, (EOK) αριθ. 338/79 καί (EOK)
+    αριθ. 358/79 όσον αφορά τήν κοινή οργάνωση τής
+    αμπελοοινικής αγοράς
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3456/80 del Consiglio, del 22 dicembre 1980, che modifica
+    i regolamenti (CEE) n. 337/79, (CEE) n. 338/79 e (CEE) n. 358/79 in materia di
+    organizzazione comune del mercato vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3456/80 van de Raad van 22 december 1980 tot wijziging
+    van de Verordeningen (EEG) nr. 337/79, nr. 338/79 en nr. 358/79 aangaande de gemeenschappelijke
+    organisatie van de wijnmarkt
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 3456/80 do Conselho, de 22 de Dezembro de 1980,
+    que altera os Regulamentos (CEE) n.° 337/79, (CEE) n.° 338/79 e (CEE) n.° 358/79
+    em matéria de organização comum do mercado vitivinícola
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 3456/80 del Consejo, de 22 de diciembre de 1980, por
+    el que que se modifican los Reglamentos (CEE) n° 337/79, (CEE) n° 338/79 y (CEE)
+    n° 358/79 en materia de organización común del mercado vitivinícola
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R3456
+docidentifier:
+- content: EU Regulation 3456/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R3456
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/3456/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-12-22'
+- type: implemented
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0337
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0338
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0358
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,78 @@
+---
+id: EURegulation6451972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 645/72 de la Commission, du 29 mars 1972, dérogeant,
+    pour les organes de la variété sanguinello, au règlement (CEE) n° 193/70 établissant
+    les modalités d'application des mesures visant à promouvoir la commercialisation
+    des oranges et mandarines communautaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 645/72 der Kommission vom 29. März 1972 betreffend
+    die Abweichung für Apfelsinen der Sorte Sanguinello der Verordnung (EWG) Nr.
+    193/70 mit Durchführungsbestimmungen für die Maßnahmen zur Förderung der Vermarktung
+    von Apfelsinen und Mandarine 1 aus der Gemeinschaftserzeugung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 645/72 della Commissione, del 29 marzo 1972, che deroga,
+    per le arance della varietà « Sanguinello », al regolamento (CEE) n. 193/70
+    della Commissione che stabilisce le modalità d'applicazione delle misure volte
+    a promuovere la commercializzazione delle arance e mandarini comunitari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 645/72 van de Commissie van 29 maart 1972 houdende
+    afwijking, voor de sinaasappelen van de variëteit Sanguinello, van Verordening
+    (EEG) nr. 193/70 houdende vaststelling van uitvoeringsbepalingen voor de maatregelen
+    tot bevordering van de afzet van sinaasappelen en mandarijnen uit de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0645
+docidentifier:
+- content: EU Regulation 645/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0645
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/645/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-29'
+- type: implemented
+  at: '1972-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

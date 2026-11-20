@@ -1,0 +1,110 @@
+---
+id: EURegulation3201985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 320/85 of 6 February 1985 amending Regulation
+    (EEC) No 1224/80 on the valuation of goods for customs purposes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 320/85 du Conseil du 6 février 1985 portant modification
+    du règlement (CEE) no 1224/80 relatif à la valeur en douane des marchandises
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 320/85 des Rates vom 6. Februar 1985 zur Änderung
+    der Verordnung (EWG) Nr. 1224/80 über den Zollwert der Waren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 320/85 af 6. februar 1985 om ændring af
+    forordning (EØF) nr. 1224/80 om varers toldværdi
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 320/85 του Συμβουλίου
+    της 6ης Φεβρουαρίου 1985 που τροποποιεί τον κανονισμό
+    (ΕΟΚ) αριθ. 1224/80 περί της δασμολογητέας αξίας
+    των εμπορευμάτων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 320/85 del Consiglio del 6 febbraio 1985 che modifica
+    il regolamento (CEE) n. 1224/80 relativo al valore in dogana delle merci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 320/85 van de Raad van 6 februari 1985 tot wijziging
+    van Verordening (EEG) nr. 1224/80 inzake de douanewaarde van de goederen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 320/85 do Conselho, de 6 de Fevereiro de 1985, que
+    altera o Regulamento (CEE) n.° 1224/80 relativo ao valor aduaneiro das mercadorias
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 320/85 del Consejo, de 6 de febrero de 1985, por el
+    que se modifica el Reglamento (CEE) n° 1224/80 relativo al valor en aduana de
+    las mercancías
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0320
+docidentifier:
+- content: EU Regulation 320/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0320
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/320/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-02-06'
+- type: implemented
+  at: '1985-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1224
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

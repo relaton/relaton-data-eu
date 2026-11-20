@@ -1,0 +1,76 @@
+---
+id: EURegulation6861967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 686/67/CEE de la Commission du 9 octobre 1967 relatif au
+    processus de dénaturation des graines de colza, de navette et de tournesol
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 686/67/EWG der Kommission vom 9. Oktober 1967 über die
+    Denaturierungsmethode bei Raps- und Rübsensamen und Sonnenblumenkernen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 686/67/CEE della Commissione, del 9 ottobre 1967, relativo
+    al processo di denaturazione dei semi di colza, di ravizzone e di girasole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 686/67/EEG van de Commissie van 9 oktober 1967 betreffende
+    het denatureringsproces voor koolzaad, raapzaad en zonnebloemzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0686
+docidentifier:
+- content: EU Regulation 686/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0686
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/686/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-09'
+- type: implemented
+  at: '1967-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0396
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

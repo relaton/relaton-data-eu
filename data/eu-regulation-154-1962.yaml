@@ -1,0 +1,91 @@
+---
+id: EURegulation1541962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 154 du Conseil du 13 décembre 1962 portant prorogation
+    de la durée de validité des règlements n° 42, 45, 46 et 116 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 154 des Rats vom 13. Dezember 1962 über die Verlängerung
+    der Geltungsdauer der Verordnungen Nr. 42, 45, 46 und 116 des Rats
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 154 del Consiglio del 13 dicembre 1962 relativo alla proroga
+    della durata di validità dei regolamenti nn. 42, 45, 46 e 116 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 154 van de Raad van 13 december 1962 houdende verlenging
+    van de geldigheidsduur van Verordeningen Nrs. 42, 45, 46 en 116 van de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0154
+docidentifier:
+- content: EU Regulation 154/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0154
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/154/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-12-13'
+- type: implemented
+  at: '1962-12-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0042
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0045
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0046
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0116
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

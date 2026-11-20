@@ -1,0 +1,83 @@
+---
+id: EURegulation3671971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 367/71 de la Commission, du 19 février 1971, modifiant
+    le règlement (CEE) n° 1519/70 relatif à certaines mesures à prendre pour les
+    marchandises relevant du règlement (CEE) n° 1059/69 à la suite de la dévaluation
+    du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 367/71 der Kommission vom 19. Februar 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1519/70 über Maßnahmen für unter die Verordnung (EWG)
+    Nr. 1059/69 fallende Waren infolge der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 367/71 della Commissione, del 19 febbraio 1971, che
+    modifica il regolamento (CEE) n. 1519/70, relativo a talune misure da adottare
+    per le merci contemplate dal regolamento (CEE) n. 1059/69 a seguito della svalutazione
+    del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 367/71 van de Commissie van 19 februari 1971 tot
+    wijziging van Verordening (EEG) nr. 1519/70 betreffende bepaalde ingevolge de
+    devaluatie van de Franse frank voor de onder Verordening (EEG) nr. 1059/69 vallende
+    goederen te nemen maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0367
+docidentifier:
+- content: EU Regulation 367/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0367
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/367/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-19'
+- type: implemented
+  at: '1971-02-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1519
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

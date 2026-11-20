@@ -1,0 +1,72 @@
+---
+id: EUDecision1967697
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 67/697/CEE du Conseil du 20 novembre 1967, portant suspension
+    partielle des droits du Tarif douanier commun applicables à certaines marchandises
+  type: main
+- language: de
+  script: Latn
+  content: '67/697/EWG: Entscheidung des Rates vom 20. November 1967 über die teilweise
+    Aussetzung der Zollsätze des Gemeinsamen Zolltarifs für bestimmte Waren'
+  type: main
+- language: it
+  script: Latn
+  content: '67/697/CEE: Decisione del Consiglio, del 20 novembre 1967, relativa alla
+    sospensione parziale dei dazi della tariffa doganale comune applicabili a talune
+    merci'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/697/EEG: Beschikking van de Raad van 20 november 1967 houdende gedeeltelijke
+    schorsing van de rechten van het gemeenschappelijk douanetarief voor bepaalde
+    produkten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0697
+docidentifier:
+- content: EU Decision 1967/697
+  type: EU
+  primary: true
+- content: CELEX 31967D0697
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/697/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-20'
+- type: implemented
+  at: '1968-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

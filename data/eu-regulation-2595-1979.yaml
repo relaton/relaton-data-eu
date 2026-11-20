@@ -1,0 +1,94 @@
+---
+id: EURegulation25951979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2595/79 of 22 November 1979 amending Regulation
+    (EEC) No 348/79 on measures designed to adjust wine-growing potential to market
+    requirements
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2595/79 du Conseil, du 22 novembre 1979, modifiant
+    le règlement (CEE) n° 348/79 portant des mesures visant à adapter le potentiel
+    viticole aux besoins du marché
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2595/79 des Rates vom 22. November 1979 zur Änderung
+    der Verordnung (EWG) Nr. 348/79 über Maßnahmen zur Anpassung des Weinbaupotentials
+    an die Marktbedürfnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2595/79 af 22. november 1979 om ændring
+    af forordning (EØF) nr. 348/79 om foranstaltninger med henblik på at tilpasse
+    vinproduktionskapaciteten til markedets behov
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2595/79 del Consiglio, del 22 novembre 1979, che modifica
+    il regolamento (CEE) n. 348/79 recante misure intese ad adeguare il potenziale
+    viticolo alle esigenze del mercato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2595/79 van de Raad van 22 november 1979 tot wijziging
+    van Verordening (EEG) nr. 348/79 houdende maatregelen tot aanpassing van het wijnbouwpotentieel
+    aan de behoeften van de markt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2595
+docidentifier:
+- content: EU Regulation 2595/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2595
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2595/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-11-22'
+- type: implemented
+  at: '1979-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0348
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

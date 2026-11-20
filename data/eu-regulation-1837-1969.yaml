@@ -1,0 +1,94 @@
+---
+id: EURegulation18371969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1837/69 of the Council of 16 September 1969 amending
+    Regulation (EEC) No 865/68 on the common organisation of the market in products
+    processed from fruit and vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1837/69 du Conseil, du 16 septembre 1969, modifiant
+    le règlement (CEE) n° 865/68 portant organisation commune des marchés dans
+    le secteur des produits transformés à base de fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1837/69 des Rates vom 16. September 1969 zur Änderung
+    der Verordnung (EWG) Nr. 865/68 über die gemeinsame Marktorganisation für Verarbeitungserzeugnisse
+    aus Obst und Gemüse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1837/69 af 16. september 1969 om ændring
+    af forordning (EØF) nr. 865/68 om den fælles markedsordning for forarbejdede
+    produkter af frugt og grønsager
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1837/69 del Consiglio, del 16 settembre 1969, che
+    modifica il regolamento (CEE) n. 865/68 relativo all' organizzazione comune dei
+    mercati nel settore dei prodotti trasformati a base di ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1837/69 van de Raad van 16 september 1969 tot wijziging
+    van Verordening (EEG) nr. 865/68 houdende een gemeenschappelijke ordening der
+    markten in de sector van op basis van groenten en fruit verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1837
+docidentifier:
+- content: EU Regulation 1837/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1837
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1837/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-09-16'
+- type: implemented
+  at: '1969-09-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0865
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

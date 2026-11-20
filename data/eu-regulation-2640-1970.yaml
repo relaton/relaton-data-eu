@@ -1,0 +1,96 @@
+---
+id: EURegulation26401970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2640/70 of the Commission of 28 December 1970 amending
+    Regulation (EEC) No 756/70 and (EEC) No 1680/70 on milk and milk products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2640/70 de la Commission, du 28 décembre 1970, modifiant
+    les règlements (CEE) n° 756/70 et (CEE)" n° 1680/70 concernant le secteur du
+    lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2640/70 der Kommission vom 28. Dezember 1970 zur Änderung
+    der den Milchsektor betreffenden Verordnungen (EWG) Nr. 756/70 und Nr. 1680/70
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2640/70 af 28. december 1970 om ændring
+    af forordningerne (EØF) nr. 756/70 og (EØF) nr. 1680/70 angående mælk og mejeriprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2640/70 della Commissione, del 28 dicembre 1970, che
+    modifica i regolamenti (CEE) n. 756/70 e n. 1680/70 per quanto concerne il settore
+    del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2640/70 van de Commissie van 28 december 1970 houdende
+    wijziging van de Verordeningen (EEG) nr. 756/70 en nr. 1680/70 met betrekking
+    tot de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2640
+docidentifier:
+- content: EU Regulation 2640/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2640
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2640/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-28'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0756
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1680
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

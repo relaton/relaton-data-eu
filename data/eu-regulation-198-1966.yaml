@@ -1,0 +1,89 @@
+---
+id: EURegulation1981966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 10/66/Euratom, 198/66/CEE des Conseils, du 24 novembre 1966,
+    portant modification de l' article 95 du statut des fonctionnaires de la Communauté
+    économique européenne et de la Communauté européenne de l' énergie atomique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 10/66/Euratom, 198/66/EWG der Räte vom 24. November 1966
+    zur Änderung des Artikels 95 des Statuts der Beamten der Europäischen Wirtschaftsgemeinschaft
+    und der Europäischen Atomgemeinschaftr
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός αριθ. 10/66/Ευρατόμ 198/66/EOK του Συμβουλίου
+    της 24ης Νοεμβρίου 1966 περί τροποποιήσεως του
+    άρθρου 95 της υπηρεσιακής καταστάσεως των υπαλλήλων
+    της Ευρωπαϊκής Οικονομικής Κοινότητος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 10/66/Euratom, 198/66/CEE dei Consigli del 24 novembre 1966
+    relativo alla modifica dell' articolo 95 dello statuto dei funzionari della Comunità
+    Economica Europea e della Comunità Europea dell' Energia Atomica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 10/66/Euratom, 198/66/EEG van de Raden van 24 november
+    1966 tot wijziging van artikel 95 van het Statuut van de ambtenaren van de Europese
+    Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0198
+docidentifier:
+- content: EU Regulation 198/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0198
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/198/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-24'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0031(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

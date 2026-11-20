@@ -1,0 +1,102 @@
+---
+id: EURegulation8591984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 859/84 of 31 March 1984 amending Regulation
+    (EEC) No 2915/79 with regard to reduced levies for certain cheeses
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 859/84 du Conseil du 31 mars 1984 modifiant le règlement
+    (CEE) no 2915/79 en ce qui concerne l' application du prélèvement réduit à
+    certains fromages
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 859/84 des Rates vom 31. März 1984 zur Änderung
+    der Verordnung (EWG) Nr. 2915/79 hinsichtlich der Anwendung einer ermäßigten
+    Abschöpfung bei bestimmten Käsesorten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 859/84 af 31. marts 1984 om ændring af forordning
+    (EØF) nr. 2915/79 for så vidt angår anvendelsen af nedsat afgift for visse
+    former for ost
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 859/84 του Συμβουλίου
+    της 31ης Μαρτίου 1984 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 2915/79 όσον αφορά την επιβολή
+    μειωμένης εισφοράς σε ορισμένα τυριά
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 859/84 del Consiglio del 31 marzo 1984 che modifica
+    il regolamento (CEE) n. 2915/79 per quanto concerne l' applicazione di un prelievo
+    ridotto a taluni formaggi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 859/84 van de Raad van 31 maart 1984 tot wijziging
+    van Verordening (EEG) nr. 2915/79 ten aanzien van de toepassing van een verlaagde
+    heffing voor bepaalde kaassoorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R0859
+docidentifier:
+- content: EU Regulation 859/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R0859
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/859/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-03-31'
+- type: implemented
+  at: '1984-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2915
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

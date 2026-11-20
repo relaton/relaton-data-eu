@@ -1,0 +1,104 @@
+---
+id: EURegulation961970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (ECSC, EEC, Euratom) No 96/70 of the Council of 19 January 1970,
+    amending the Staff Regulations of Officials of the European Communities as regards
+    daily subsistence allowances for Officials on mission
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CECA, CEE, Euratom) n° 96/70 du Conseil, du 19 janvier 1970,
+    modifiant le statut des fonctionnaires des Communautés européennes en ce qui
+    concerne les indemnités journalières de mission
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EGKS, EWG, Euratom) Nr. 96/70 des Rates vom 19. Januar 1970
+    zur Änderung des Statuts der Beamten der Europäischen Gemeinschaften in bezug
+    auf die Tagegelder für Dienstreisen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EKSF, EØF, EURATOM) nr. 96/70 af 19. januar 1970 om
+    ændring af vedtægten for De europæiske Fællesskabers tjenestemænd med hensyn
+    til rejsedagpenge
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EKAX, EOK, Ευρατόμ) αριθ. 96/70 του
+    Συμβουλίου της 19ης Ιανουαρίου 1970 περί τροποποιήσεως
+    του κανονισμού περί της υπηρεσιακής καταστάσεως
+    των υπαλλήλων των Ευρωπαϊκών Κοινοτήτων όσον
+    αφορά τις ημερήσιες αποζημιώσεις αποστολής
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CECA, CEE, Euratom) n. 96/70 del Consiglio, del 19 gennaio
+    1970, che modifica lo statuto dei funzionari delle Comunità europee per quanto
+    riguarda le indennità giornaliere di missione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EGKS, EEG, Euratom) nr. 96/70 van de Raad van 19 januari 1970
+    houdende wijziging van het Statuut van de ambtenaren van de Europese Gemeenschappen,
+    voor wat betreft de dagvergoedingen voor dienstreizen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0096
+docidentifier:
+- content: EU Regulation 96/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0096
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/96/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-01-19'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

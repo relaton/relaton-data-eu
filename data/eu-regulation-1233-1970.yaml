@@ -1,0 +1,84 @@
+---
+id: EURegulation12331970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1233/70 du Conseil, du 29 juin 1970, portant augmentation
+    du contingent tarifaire communautaire de thons, frais, réfrigérés ou congelés,
+    entiers, décapités ou tronçonnés, destinés à l'industrie de la conserve,
+    de la position EX 03.01 B I b) du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1233/70 des Rates vom 29. Juni 1970 zur Erhöhung
+    des Gemeinschaftszollkontingents für Thunfische, frisch, gekühlt oder gefroren,
+    ganz, ohne Kopf oder zerteilt, für die Konservenindustrie, der Tarifnummer ex
+    03.01 B I b) des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1233/70 del Consiglio, del 29 giugno 1970, relativo
+    all'aumento del contingente tariffario comunitario di tonni, freschi, refrigerati
+    o congelati, interi, decapitati o in pezzi, destinati all'industria conserviera,
+    della voce ex 03.01 B I b) della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1233/70 van de Raad van 29 juni 1970 houdende vergroting
+    van het communautaire tariefcontingent voor tonijn, vers, gekoeld of bevroren,
+    ook indien ontdaan van kop of in moten gesneden, bestemd voor de conservenindustrie,
+    van post ex 03.01 B I b) van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1233
+docidentifier:
+- content: EU Regulation 1233/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1233
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1233/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2620
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

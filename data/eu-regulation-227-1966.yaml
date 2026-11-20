@@ -1,0 +1,69 @@
+---
+id: EURegulation2271966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 227/66/CEE de la Commission, du 22 décembre 1966, prorogeant
+    le règlement n 21/63/CEE portant dérogation transitoire aux normes communes
+    de qualité pour les agrumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 227/66/EWG der Kommission vom 22. Dezember 1966 zur Verlängerung
+    der Verordnung Nr. 21/63/EWG über die zeitweilige Änderung der gemeinsamen Qualitätsnormen
+    für Zitrusfrüchte
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 227/66/CEE della Commissione, del 22 dicembre 1966, che
+    proroga il regolamento n. 21/63/CEE recante deroga provvisoria alle norme comuni
+    di qualità per gli agrumi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 227/66/EEG van de Commissie van 22 december 1966 tot verlenging
+    van Verordening no. 21/63/EEG van de Commissie houdende tijdelijke afwijking van
+    de gemeenschappelijke kwaliteitsnormen voor citrusvruchten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0227
+docidentifier:
+- content: EU Regulation 227/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0227
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/227/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

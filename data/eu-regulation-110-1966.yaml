@@ -1,0 +1,79 @@
+---
+id: EURegulation1101966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 110/66/CEE du Conseil, du 28 juillet 1966, autorisant la
+    République italienne à suspendre les droits de douane et les prélèvements
+    applicables aux importations d'animaux vivants de l'espèce bovine, des espèces
+    domestiques, autres, d'un poids unitaire n'excédant pas 300 Kg, de la position
+    EX 01.02 à II
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 110/66/EWG des Rates vom 28. Juli 1966 zur Ermächtigung
+    der Italienischen Republik, ihre Zollsätze und Abschöpfungen auf Einfuhren von
+    Rindern, lebend, Hausrindern, anderen, mit einem Stückgewicht von höchstens
+    300 kg, der Tarifnummer ex 01.02 A II, auszusetzen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 110/66/CEE del Consiglio, del 28 luglio 1966, che autorizza
+    la Repubblica italiana a sospendere i dazi doganali e i prelievi applicabili alle
+    importazioni di animali vivi della specie bovina, delle specie domestiche, altri,
+    di peso unitario non superiore a 300 chilogrammi, della voce ex 01.02 A II
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 110/66/EEG van de Raad van 28 juli 1966 waarbij de Italiaanse
+    Republiek wordt gemachtigd de douanerechten en heffingen op de invoer van levende
+    runderen, huisdieren, andere, die per stuk niet meer wegen dan 300 kilogram, van
+    post ex 01.02 A II te schorsen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0110
+docidentifier:
+- content: EU Regulation 110/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0110
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/110/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-28'
+- type: implemented
+  at: '1966-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

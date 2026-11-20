@@ -1,0 +1,91 @@
+---
+id: EURegulation12911970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1291/70 of 1 July 1970 fixing the procedures
+    for giving effect to Article 11 (2) of Regulation No 23 on the progressive establishment
+    of a common organization of the market in fruit and vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1291/70 de la Commission, du 1er juillet 1970, fixant
+    les modalités d'application de l'article 11 paragraphe 2 du règlement n° 23
+    portant établissement graduel d'une organisation commune des marchés dans le
+    secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1291/70 der Kommission vom 1. Juli 1970 zur Festlegung
+    der Einzelheiten der Anwendung von Artikel 11 Absatz 2 der Verordnung Nr. 23 über
+    die schrittweise Errichtung einer gemeinsamen Marktorganisation für Obst und
+    Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1291/70 della Commissione, del 1 luglio 1970, che
+    fissa le modalità di applicazione dell'articolo 11, paragrafo 2, del regolamento
+    n. 23 relativo alla graduale attuazione di un'organizzazione comune dei mercati
+    nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1291/70 van de Commissie van 1 juli 1970 houdende
+    vaststelling van de uitvoeringsbepalingen van artikel 11, lid 2, van Verordening
+    nr. 23 houdende de geleidelijke totstandbrenging van een gemeenschappelijke ordening
+    der markten in de sector groenten en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1291
+docidentifier:
+- content: EU Regulation 1291/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1291
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1291/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-01'
+- type: implemented
+  at: '1970-07-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0099
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

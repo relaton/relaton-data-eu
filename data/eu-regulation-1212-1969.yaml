@@ -1,0 +1,75 @@
+---
+id: EURegulation12121969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1212/69 du Conseil, du 26 juin 1969, fixant un montant
+    compensatoire pour le froment dur et l'orge en stock à la fin de la campagne
+    de commercialisation 1968/1969 et destinés à l'exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1212/69 des Rates vom 26. Juni 1969 zur Festsetzung
+    des Ausgleichsbetrags für Hartweizen und Gerste, die am Ende des Wirtschaftsjahres
+    1968/1969 eingelagert und zur Ausfuhr bestimmt sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1212/69 del Consiglio, del 26 giugno 1969, che fissa
+    un importo compensativo per il frumento duro e l'orzo che si trovano in stock
+    alla fine della campagna di commercializzazione 1968/1969 e che sono destinati
+    all'esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1212/69 van de Raad van 26 juni 1969 houdende vaststelling
+    van een compenserend bedrag voor durum tarwe en gerst die aan het einde van het
+    verkoopseizoen 1968/1969 in voorraad zijn en bestemd zijn voor de uitvoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1212
+docidentifier:
+- content: EU Regulation 1212/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1212
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1212/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-26'
+- type: implemented
+  at: '1969-06-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

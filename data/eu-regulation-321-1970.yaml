@@ -1,0 +1,77 @@
+---
+id: EURegulation3211970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 321/70 du Conseil, du 17 février 1970, portant rétablissement
+    du droit de douane relatif à la soie grège (non moulinée), de la position 50.02
+    du tarif douanier commun, et portant ouverture d'un contingent tarifaire communautaire
+    pour le même produit
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 321/70 des Rates vom 17. Februar 1970 über die Wiedereinführung
+    des Zollsatzes und die Eröffnung eines Gemeinschaftszollkontingents für Grège,
+    weder gedreht noch gezwirnt, der Tarifnummer 50.02 des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 321/70 del Consiglio, del 17 febbraio 1970, relativo
+    al ristabilimento del dazio doganale per la seta greggia (non torta), della voce
+    50.02 della tariffa doganale comune, e all'apertura, per lo stesso prodotto, di
+    un contingente tariffario comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 321/70 van de Raad van 17 februari 1970 betreffende
+    de wederinstelling van het douanerecht voor ruwe zijde (haspelzijde of grège),
+    niet gemoulineerd, van post 50.02 van het gemeenschappelijk douanetarief, en de
+    opening van een communautair tariefcontingent voor dit produkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0321
+docidentifier:
+- content: EU Regulation 321/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0321
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/321/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-17'
+- type: implemented
+  at: '1970-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,65 @@
+---
+id: EURegulation891966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 89/66/CEE de la Commission, du 1er juillet 1966, portant fixation
+    des prix de référence pour les raisins de table de plein air
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 89/66/EWG der Kommission vom 1. Juli 1966 zur Festsetzung
+    der Referenzpreise für im Freien angebaute Tafeltrauben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 89/66/CEE della Commissione, del 1 luglio 1966, che fissa
+    i prezzi di riferimento per le uve da tavola di pieno campo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 89/66/EEG van de Commissie van 1 juli 1966 houdende vaststelling
+    van de referentieprijzen voor tafeldruiven van de open grond
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0089
+docidentifier:
+- content: EU Regulation 89/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0089
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/89/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

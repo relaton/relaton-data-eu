@@ -1,0 +1,93 @@
+---
+id: EURegulation3671967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 367/67/EEC of the Council of 25 July 1967 fixing production
+    refunds on maize groats and meal and broken rice used in the brewing industry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 367/67/CEE du Conseil, du 25 juillet 1967, portant fixation
+    des restitutions à la production pour les gruaux et semoules de maïs et les
+    brisures de riz utilisés dans la brasserie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 367/67/EWG des Rates vom 25. Juli 1967 über die Festsetzung
+    der Erstattungen bei der Erzeugung für Grob- und Feingrieß von Mais und für
+    Bruchreis, die in der Brauereiindustrie Verwendung finden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 367/67/EØF af 25. juli 1967 om fastsættelse af
+    produktionsrestitutioner til grove og fine gryn af majs samt brudris, der anvendes
+    i bryggeriindustrien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 367/67/CEE del Consiglio, del 25 luglio 1967, che fissa
+    le restituzioni alla produzione per le semole e i semolini di granturco e le rotture
+    di riso utilizzati nell' industria della birra
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 367/67/EEG van de Raad van 25 juli 1967 houdende vaststelling
+    van de restituties bij de produktie voor grutten, gries en griesmeel van maïs
+    en voor breukrijst die in de brouwerijen worden gebruikt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0367
+docidentifier:
+- content: EU Regulation 367/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0367
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/367/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-25'
+- type: implemented
+  at: '1967-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0138
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

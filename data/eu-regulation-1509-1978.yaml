@@ -1,0 +1,131 @@
+---
+id: EURegulation15091978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1509/78 of 30 June 1978 amending Regulations
+    (EEC) No 937/77 and (EEC) No 1054/78 laying down detailed rules for the application
+    of Regulation (EEC) No 878/77 on the exchange rates to be applied in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1509/78 de la Commission, du 30 juin 1978, modifiant
+    les règlements (CEE) n° 937/77 et (CEE) n° 1054/78 prévoyant les modalités
+    d' application du règlement (CEE) n° 878/77 relatif aux taux de change à appliquer
+    dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1509/78 der Kommission vom 30. Juni 1978 zur Änderung
+    der Verordnungen (EWG) Nr. 937/77 und (EWG) Nr. 1054/78 mit Durchführungsbestimmungen
+    zur Verordnung (EWG ) Nr. 878/77 des Rates über die in der Landwirtschaft anzuwendenden
+    Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1509/78 af 30. juni 1978 om ændring
+    af forordning (EØF) nr. 937/77 og (EØF) nr. 1054/78 om gennemførelsesbestemmelser
+    til forordning (EØF) nr. 878/77 om de vekselkurser, der skal anvendes inden for
+    landbrugssektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1509/78 της Επιτροπής
+    της 30ής Ιουνίου 1978 περί τροποποιήσεως των κανονισμών
+    (ΕΟΚ) αριθ. 937/77 και (ΕΟΚ) αριθ. 1054/78 που προβλέπουν
+    τις λεπτομέρειες εφαρμογής του κανονισμού
+    (ΕΟΚ) αριθ. 878/77 «περί των τιμών συναλλάγματος
+    που πρέπει να εφαρμοσθούν στο γεωργικό τομέα»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1509/78 della Commissione, del 30 giugno 1978, che
+    modifica i regolamenti (CEE) n. 937/77 e (CEE) n. 1054/78 che contengono le modalità
+    d' applicazione del regolamento (CEE) n. 878/77 relativo ai tassi di cambio da
+    applicare nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1509/78 van de Commissie van 30 juni 1978 houdende
+    wijziging van de Verordeningen (EEG) nr. 937/77 en (EEG) nr. 1054/78 waarbij bepalingen
+    zijn vastgesteld ter uitvoering van Verordening (EEG) nr. 878/77 inzake de in
+    de landbouwsector toe te passen wisselkoersen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1509/78 da Comissão, de 30 de Junho de 1978, que
+    altera os Regulamentos (CEE) n.° 937/77 e (CEE) n.° 1054/78 que prevîem as
+    modalidades de aplicação do Regulamento (CEE) n.° 878/77 relativo às taxas
+    de câmbio a aplicar no sector agrícola
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1509/78 de la Comisión, de 30 de junio de 1978, por
+    el que se modifican los Reglamentos (CEE) n° 937/77 y (CEE) n° 1054/78 por los
+    que se prevén las modalidades de aplicación del Reglamento (CEE) n° 878/77
+    relativo a los tipos de cambio que se deben aplicar en el sector agrícola
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1509
+docidentifier:
+- content: EU Regulation 1509/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1509
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1509/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-30'
+- type: implemented
+  at: '1978-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0937
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1054
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

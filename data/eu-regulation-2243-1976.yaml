@@ -1,0 +1,93 @@
+---
+id: EURegulation22431976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2243/76 of 15 September 1976 amending Regulation
+    (EEC) No 935/76 fixing the aid for skimmed-milk for use as feed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2243/76 de la Commission, du 15 septembre 1976, modifiant
+    le règlement (CEE) n° 935/76 fixant l' aide accordée pour le lait écrémé
+    destiné à l' alimentation des animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2243/76 der Kommission vom 15. September 1976 zur
+    Änderung der Verordnung (EWG) Nr. 935/76 zur Festsetzung der Beihilfe für zu
+    Futterzwecken verwendete Magermilch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2243/76 af 15. september 1976 om ændring
+    af forordning (EØF) nr. 935/76 om fastsættelse af den støtte, der skal ydes
+    for skummetmælk, som anvendes til foder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2243/76 della Commissione, del 15 settembre 1976,
+    che modifica il regolamento (CEE) n. 935/76 che determina gli aiuti concessi per
+    il latte scremato destinato all' alimentazione degli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2243/76 van de Commissie van 15 september 1976 houdende
+    wijziging van Verordening (EEG) nr. 935/76 tot vaststelling van de toe te kennen
+    steun voor ondermelk bestemd voor voederdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2243
+docidentifier:
+- content: EU Regulation 2243/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2243
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2243/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-09-15'
+- type: implemented
+  at: '1976-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0935
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

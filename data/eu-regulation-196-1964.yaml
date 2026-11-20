@@ -1,0 +1,73 @@
+---
+id: EURegulation1961964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 196/64/CEE de la Commission, du 22 décembre 1964, portant
+    prorogation de la durée de validité de l'annexe du règlement n 165/64/CEE relative
+    à certains frais de transport entrant dans le calcul des restitutions à l'exportation
+    de certains produits laitiers vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 196/64/EWG der Kommission vom 22. Dezember 1964 über die
+    Verlängerung der Geltungsdauer der Anlage zur Verordnung Nr. 165/ 64/EWG hinsichtlich
+    bestimmter Frachtkosten zur Errechnung der Ausfuhrerstattungen für bestimmte
+    Milcherzeugnisse nach dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 196/64/CEE della Commissione, del 22 dicembre 1964, che
+    proroga la durata di validità dell'allegato del regolamento n. 165/64/ CEE relativo
+    ad alcune spese di trasporto che entrano nel calcolo delle restituzioni all'esportazione
+    di alcuni prodotti lattiero-caseari verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 196/64/EEG van de Commissie van 22 december 1964 houdende
+    verlenging van de geldigheidsduur van de bijlage bij Verordening no. 165/64/EEG
+    betreffende bepaalde transportkosten, waarmee bij de berekening van de restituties
+    bij de export van bepaalde zuivelprodukten naar derde landen rekening wordt gehouden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0196
+docidentifier:
+- content: EU Regulation 196/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0196
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/196/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

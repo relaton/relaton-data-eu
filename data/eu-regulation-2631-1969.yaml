@@ -1,0 +1,74 @@
+---
+id: EURegulation26311969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2631/69 de la Commission, du 29 décembre 1969, modifiant
+    le règlement n° 1052/67/CEE en ce qui concerne la durée de validité des certificats
+    d'exonération de prélèvement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2631/69 der Kommission vom 29. Dezember 1969 zur Änderung
+    der Verordnung Nr. 1052/67/EWG hinsichtlich der Gültigkeitsdauer der Bescheinigungen
+    über die Befreiung von der Abschöpfung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2631/69 della Commissione, del 29 dicembre 1969, che
+    modifica il regolamento n. 1052/67/CEE per quanto riguarda la durata di validità
+    dei titoli di esonero dal prelievo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2631/69 van de Commissie van 29 december 1969 houdende
+    wijziging van Verordening nr. 1052/67/EEG met betrekking tot de geldigheidsduur
+    van de certificaten van vrijstelling van heffing
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2631
+docidentifier:
+- content: EU Regulation 2631/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2631
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2631/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-29'
+- type: implemented
+  at: '1969-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

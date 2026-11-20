@@ -1,0 +1,81 @@
+---
+id: EURegulation831967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 83/67 du Conseil, du 18 avril 1967, portant établissement
+    des spécifications tarifaires relatives aux marchandises auxquelles s'applique
+    le règlement n° 160/66/CEE du Conseil et déterminant les éléments fixes qui
+    leur sont applicables ainsi que les quantités de produits de base considérées
+    comme étant entrées dans leur fabrication
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 83/67/EWG des Rates vom 18. April 1967 zur Festlegung der
+    Zollspezifikationen für unter die Verordnung Nr. 160/66/EWG des Rates fallende
+    Erzeugnisse und zur Festsetzung der auf diese anwendbaren festen Teilbeträge
+    sowie der Richtmengen von verarbeiteten Grunderzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 83/67/CEE del Consiglio, del 18 aprile 1967, che stabilisce
+    le specificazioni tariffarie concernenti le merci cui si applica il regolamento
+    n. 160/66/CEE del Consiglio e determina gli elementi fissi applicabili a tali
+    merci nonché i quantitativi di prodotti di base che si considerano entrati nella
+    loro fabbricazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 83/67/EEG van de Raad van 18 april 1967 houdende vaststelling
+    van de tariefspecificaties voor de goederen waarop Verordening Nr. 160/66/EEG
+    van de Raad van toepassing is, alsmede van de vaste elementen die daarop van toepassing
+    zijn en van de hoeveelheden basisprodukten die worden geacht bij de vervaardiging
+    daarvan te zijn verwerkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0083
+docidentifier:
+- content: EU Regulation 83/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/83/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-04-18'
+- type: implemented
+  at: '1967-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

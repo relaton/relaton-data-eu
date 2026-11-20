@@ -1,0 +1,121 @@
+---
+id: EURegulation16521981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1652/81 of 28 April 1981 amending Council Regulations
+    (EEC) No 1311/80 and (EEC) No 1313/80 on the supply of skimmed-milk powder and
+    milk fats respectively to certain developing countries and specialized bodies
+    under the food-aid programmes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1652/81 du Conseil, du 28 avril 1981, modifiant les
+    règlements (CEE) n° 1311/80 et (CEE) n° 1313/80 relatifs respectivement à
+    la fourniture de lait écrémé en poudre et de matières grasses du lait, dans
+    le cadre des programmes d' aide alimentaire, à certains pays en voie de développement
+    et à certains organismes spécialisés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1652/81 des Rates vom 28. April 1981 zur Änderung
+    der Verordnungen (EWG) Nr. 1311/80 und (EWG) Nr. 1313/80 betreffend die Lieferung
+    von Magermilchpulver bzw. Milchfetten an bestimmte Entwicklungsländer und Spezialorganisationen
+    im Rahmen der Nahrungsmittelhilfeprogramme
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1652/81 af 28. april 1981 om ændring af
+    forordning (EØF) nr. 1311/80 og nr. 1313/80 om levering af henholdsvis skummetmælkspulver
+    og mælkefedt til en række udviklingslande og specialiserede organisationer inden
+    for fødevarehjælpeprogrammerne
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1652/81 τού Συμβουλίου
+    τής 28ης Απριλίου 1981 περί τροποποιήσεως τών
+    κανονισμών (ΕΟΚ) αριθ. 1311/80 καί (ΕΟΚ) αριθ. 1313/80
+    τού Συμβουλίου «περί προμηθείας, αντιστοίχως,
+    αποκορυφωμένου γάλακτος σέ σκόνη καί λιπαρών
+    ουσιών γάλακτος, στό πλαίσιο τών προγραμμάτων
+    επισιτιστικής βοήθειας σέ ορισμένες αναπτυσσόμενες
+    χώρες καί σέ ορισμένους ειδικευμένους οργανισμούς»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1652/81 del Consiglio, del 28 aprile 1981, recante
+    modifica dei regolamenti (CEE) n. 1311/80 e (CEE) n. 1313/80 relativi alla fornitura,
+    rispettivamente, di latte scremato in polvere e di grassi del latte, nel quadro
+    dei programmi di aiuto alimentare a taluni paesi in via di sviluppo e a taluni
+    organismi specializzati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1652/81 van de Raad van 28 april 1981 tot wijziging
+    van de Verordeningen (EEG) nr. 1311/80 en (EEG) nr. 1313/80 betreffende de levering
+    van respectievelijk magere-melkpoeder en melkvet aan bepaalde ontwikkelingslanden
+    en bepaalde gespecialiseerde instellingen in het kader van de desbetreffende voedselhulpprogramma'
+    s
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R1652
+docidentifier:
+- content: EU Regulation 1652/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R1652
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/1652/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-04-28'
+- type: implemented
+  at: '1981-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1311
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1313
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

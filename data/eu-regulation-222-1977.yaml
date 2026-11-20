@@ -1,0 +1,105 @@
+---
+id: EURegulation2221977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 222/77 of 13 December 1976 on Community transit
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 222/77 du Conseil, du 13 décembre 1976, relatif au
+    transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 222/77 des Rates vom 13. Dezember 1976 über das gemeinschaftliche
+    Versandverfahren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 222/77 af 13. december 1976 om fællesskabsforsendelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 222/77 τού Συμβουλίου
+    τής 13ης Δεκεμβρίου 1976 περί τής κοινοτικής διαμετακομίσεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 222/77 del Consiglio, del 13 dicembre 1976, relativo
+    al transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 222/77 van de Raad van 13 december 1976 betreffende
+    communautair douanevervoer
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 222/77 do Conselho, de 13 de Dezembro de 1976, relativo
+    ao trânsito comunitário
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 222/77 del Consejo, de 13 de diciembre de 1976, relativo
+    al tránsito comunitario
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0222
+docidentifier:
+- content: EU Regulation 222/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0222
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/222/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-13'
+- type: implemented
+  at: '1977-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0542
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

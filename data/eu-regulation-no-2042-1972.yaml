@@ -1,0 +1,76 @@
+---
+id: EURegulationNo20421972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2042/72 de la Commission, du 26 septembre 1972, fixant
+    la différence de prix du sucre blanc applicable pour le calcul du prélèvement
+    dans le secteur des produits transformés à base de fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2042/72 der Kommission vom 26. September 1972 zur
+    Festsetzung des bei der Berechnung der Abschöpfung für Verarbeitungserzeugnisse
+    aus Obst und Gemüse zu berücksichtigenden Unterschieds zwischen verschiedenen
+    Weißzuckerpreisen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2042/72 della Commissione, del 26 settembre 1972,
+    che fissa la differenza di prezzo dello zucchero bianco applicabile per il calcolo
+    del prelievo nel settore dei prodotti trasformati a base di ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2042/72 van de Commissie van 26 september 1972 tot
+    vaststelling van het prijsverschil voor witte suiker dat van toepassing is bij
+    de berekening van de heffing in de sector van op basis van groenten en fruit verwerkte
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2042
+docidentifier:
+- content: EU Regulation No 2042/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2042
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2042/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-26'
+- type: implemented
+  at: '1972-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

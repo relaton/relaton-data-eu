@@ -1,0 +1,74 @@
+---
+id: EURegulation13421971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1342/71 de la Commission, du 25 juin 1971, modifiant
+    le règlement n° 469/67/CEE en ce qui concerne le montant correcteur relatif
+    à la qualité médium d'Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1342/71 der Kommission vom 25. Juni 1971 zur Änderung
+    der Verordnung Nr. 469/67/EWG betreffend den Berichtigungsbetrag für die Reisqualität
+    "Medium aus Spanien"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1342/71 della Commissione, del 25 giugno 1971, che
+    modifica il regolamento n. 469/67/CEE per quanto riguarda l'importo correttore
+    relativo alla qualità « Medium della Spagna »
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1342/71 van de Commissie van 25 juni 1971 houdende
+    wijziging van Verordening nr. 469/67/EEG voor wat betreft het correctiebedrag
+    voor de kwaliteit "Spaanse Medium"
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1342
+docidentifier:
+- content: EU Regulation 1342/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1342
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1342/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-25'
+- type: implemented
+  at: '1971-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

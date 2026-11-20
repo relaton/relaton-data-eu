@@ -1,0 +1,69 @@
+---
+id: EURegulation3821967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 382/67/CEE de la Commission, du 28 juillet 1967, modifiant
+    le règlement n 41/67/CEE en ce qui concerne la restitution à accorder lors de
+    l'exportation d'aliments composés à base de produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 382/67/EWG der Kommission vom 28. Juli 1967 zur Änderung
+    der Verordnung Nr. 41/67/EWG über die zu gewährende Erstattung bei der Ausfuhr
+    von Milch-Mischfuttermitteln
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 382/67/CEE della Commissione, del 28 luglio 1967, che modifica
+    il regolamento n. 41/67/CEE relativo alla restituzione da accordarsi per l'esportazione
+    di alimenti composti a base di prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 382/67/EEG van de Commissie van 28 juli 1967 houdende wijziging
+    van Verordening no. 41/67/EEG met betrekking tot de te verlenen restituties bij
+    de uitvoer van mengvoeders op basis van zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0382
+docidentifier:
+- content: EU Regulation 382/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0382
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/382/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,85 @@
+---
+id: EURegulation601964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 60/64/CEE du Conseil, du 3 juin 1964, portant modification
+    de la quantité de céréales fourragères fixée pour la production d'un kilogramme
+    de pintade abattue et modification du prix d'écluse pour les pintades abattues
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 60/64/EWG des Rates vom 3. Juni 1964 zur Änderung der für
+    die Erzeugung von einem Kilogramm geschlachteter Perlhühner festgesetzten Futtergetreidemenge
+    sowie zur Änderung des Einschleusungspreises für geschlachtete Perlhühner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 60/64/CEE del Consiglio, del 3 giugno 1964, che modifica
+    la quantità di cereali da foraggio fissata per la produzione di un chilogrammo
+    di faraona macellata ed il prezzo limite per le faraone macellate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 60/64/EEG van de Raad van 3 juni 1964 houdende wijziging
+    van de voor de produktie van een kilogram geslachte parelhoenders vastgestelde
+    hoeveelheid voedergranen alsmede van de sluisprijs voor geslachte parelhoenders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0060
+docidentifier:
+- content: EU Regulation 60/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0060
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/60/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-03'
+- type: implemented
+  at: '1964-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0040
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0041
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

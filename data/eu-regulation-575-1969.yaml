@@ -1,0 +1,69 @@
+---
+id: EURegulation5751969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 575/69 de la Commission, du 27 mars 1969, modifiant
+    le règlement (CEE) n 338/69 établissant des modalités d'application particulières
+    pour l'exportation de certains fromages
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 575/69 der Kommission vom 27. März 1969 zur Änderung
+    der Verordnung (EWG) Nr. 338/69 über besondere Durchführungsbestimmungen für
+    die Ausfuhr bestimmter Käse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 575/69 della Commissione, del 27 marzo 1969, relativo
+    alla modifica del regolamento (CEE) n. 338/69 che stabilisce modalità d'applicazione
+    particolari per l'esportazione di alcuni formaggi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 575/69 van de Commissie van 27 maart 1969 houdende
+    wijziging van Verordening (EEG) nr. 338/69 houdende bijzondere uitvoeringsmodaliteiten
+    voor de uitvoer van bepaalde kazen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0575
+docidentifier:
+- content: EU Regulation 575/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0575
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/575/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

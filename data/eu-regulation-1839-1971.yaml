@@ -1,0 +1,76 @@
+---
+id: EURegulation18391971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1839/71 du Conseil, du 26 juillet 1971, portant ouverture,
+    répartition et mode de gestion d'un contingent tarifaire communautaire pour certains
+    produits pétroliers du chapitre 27 du tarif douanier commun, raffinés en Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1839/71 des Rates vom 26. Juli 1971 über die Eröffnung,
+    Aufteilung und Verwaltung eines Gemeinschaftszollkontingents für bestimmte in
+    der Türkei raffinierte Erdölerzeugnisse des Kapitels 27 des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1839/71 del Consiglio, del 26 luglio 1971, relativo
+    all'apertura, alla ripartizione e alle modalità di gestione di un contingente
+    tariffario comunitario per alcuni prodotti petroliferi del capitolo 27 della tariffa
+    doganale comune, raffinati in Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1839/71 van de Raad van 26 juli 1971 betreffende
+    de opening, de verdeling en de wijze van beheer van een communautair tariefcontingent
+    voor bepaalde in Turkije geraffineerde aardolieprodukten van hoofdstuk 27 van
+    het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1839
+docidentifier:
+- content: EU Regulation 1839/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1839
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1839/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

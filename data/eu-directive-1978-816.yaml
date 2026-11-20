@@ -1,0 +1,96 @@
+---
+id: EUDirective1978816
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 78/816/EEC of 26 September 1978 amending Directive 66/403/EEC
+    on the marketing of seed potatoes
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 78/816/CEE du Conseil, du 26 septembre 1978, modifiant la directive
+    66/403/CEE concernant la commercialisation des plants de pommes de terre
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 78/816/EWG des Rates vom 26. September 1978 zur Änderung der
+    Richtlinie 66/403/EWG über den Verkehr mit Pflanzkartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 78/816/EØF af 26. september 1978 om ændring af direktiv
+    66/403/EØF om handel med læggekartofler
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 78/816/ΕΟΚ του Συμβουλίου της 26ης Σεπτεμβρίου
+    1978 περί τροποποιήσεως της οδηγίας 66/403/ΕΟΚ «περί
+    της εμπορίας των σπόρων γεωμήλων προς φύτευση»
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 78/816/CEE del Consiglio, del 26 settembre 1978, che modifica
+    la direttiva 66/403/CEE relativa alla commercializzazione dei tuberi-seme di patate
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 78/816/EEG van de Raad van 26 september 1978 tot wijziging van
+    Richtlijn 66/403/EEG betreffende het in de handel brengen van pootaardappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978L0816
+docidentifier:
+- content: EU Directive 1978/816
+  type: EU
+  primary: true
+- content: CELEX 31978L0816
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1978/816/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-09-26'
+- type: implemented
+  at: '1978-09-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966L0403
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

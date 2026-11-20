@@ -1,0 +1,74 @@
+---
+id: EURegulation521964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 52/64/CEE du Conseil, du 30 avril 1964, établissant la
+    liste des produits de base pour le calcul du financement des restitutions à l'exportation
+    vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 52/64/EWG des Rats vom 30. April 1964 zur Aufstellung der
+    Liste der Grunderzeugnisse, die als Berechnungsgrundlage für die Finanzierung
+    der Erstattungen bei Ausfuhren nach dritten Ländern dienen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 52/64/CEE del Consiglio, del 30 aprile 1964, che stabilisce
+    l'elenco dei prodotti di base per il calcolo del finanziamento delle restituzioni
+    all'esportazione verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 52/64/EEG van de Raad van 30 april 1964 tot vaststelling
+    van de lijst van de basisprodukten voor de berekening van de financiering der
+    restituties bij de uitvoer naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0052
+docidentifier:
+- content: EU Regulation 52/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0052
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/52/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-04-30'
+- type: implemented
+  at: '1964-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

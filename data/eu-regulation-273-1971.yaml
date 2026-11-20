@@ -1,0 +1,74 @@
+---
+id: EURegulation2731971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 273/71 de la Commission, du 8 février 1971, relatif
+    à la fourniture de lait écrémé en poudre destiné à certains pays tiers à
+    titre d'aide communautaire au programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 273/71 der Kommission vom 8. Februar 1971 über die
+    Lieferung von Magermilchpulver an bestimmte Drittländer als Gemeinschaftshilfe
+    zugunsten des Welternährungsprogramms
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 273/71 della Commissione, dell'8 febbraio 1971, relativo
+    alla fornitura di latte scremato in polvere destinato ad alcuni paesi terzi a
+    titolo d'aiuto comunitario al programma alimentare mondiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 273/71 van de Commissie van 8 februari 1971 betreffende
+    de levering van magere- melkpoeder aan bepaalde derde landen als gemeenschapshulp
+    ten behoeve van het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0273
+docidentifier:
+- content: EU Regulation 273/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0273
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/273/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-08'
+- type: implemented
+  at: '1971-02-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

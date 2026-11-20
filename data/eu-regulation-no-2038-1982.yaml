@@ -1,0 +1,104 @@
+---
+id: EURegulationNo20381982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2038/82 of 19 July 1982 amending Regulation
+    (EEC) No 725/79 as regards the granting of financial support for demonstration
+    projects in the field of energy savinge
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2038/82 du Conseil, du 19 juillet 1982, modifiant
+    le règlement (CEE) n° 725/79 en ce qui concerne le soutien financier à des
+    projets de démonstration permettant des économies d' énergiep
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2038/82 des Rates vom 19. Juli 1982 zur Änderung
+    der Verordnung (EWG) Nr. 725/79 hinsichtlich der finanziellen Unterstützung von
+    Demonstrationsvorhaben zur Energieeinsparung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2038/82 af 19. juli 1982 om ændring af forordning
+    (EØF) nr. 725/79 for så vidt angår den finansielle støtte til demonstrationsprojekter
+    til energibesparelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 2038/82 τού Συμβουλίου
+    τής 19ης Ιουλίου 1982 περί τροποποιήσεως τού κανονισμού
+    (EOK) αριθ. 725/79 όσον αφορά τή χορήγηση χρηματοδοτικής
+    ενισχύσεως σέ προγράμματα επιδείξεως γιά εξοικονόμηση
+    ενεργείας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2038/82 del Consiglio, del 19 luglio 1982, che modifica
+    il regolamento (CEE) n. 725/79 per quanto riguarda il sostegno finanziario a progetti
+    dimostrativi che permettono risparmi d' energiao
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2038/82 van de Raad van 19 juli 1982 tot wijziging
+    van Verordening (EEG) nr. 725/79 voor wat betreft de financiële steun aan demonstratieprojecten
+    inzake energiebesparing
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R2038
+docidentifier:
+- content: EU Regulation No 2038/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R2038
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/2038/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-07-19'
+- type: implemented
+  at: '1982-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0725
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

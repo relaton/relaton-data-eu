@@ -1,0 +1,72 @@
+---
+id: EURegulation10131970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1013/70 de la Commission, du 29 mai 1970, fixant les
+    prix de référence des vins valables du 1er juin 1970 au 15 décembre 1970
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1013/70 der Kommission vom 29. Mai 1970 zur Festsetzung
+    der vom 1. Juni 1970 bis zum 15. Dezember 1970 geltenden Referenzpreise für Wein
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1013/70 della Commissione, del 29 maggio 1970, che
+    fissa i prezzi di riferimento dei vini, validi dal 1 giugno 1970 al 15 dicembre
+    1970
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1013/70 van de Commissie van 29 mei 1970 houdende
+    vaststelling van de referentieprijzen voor wijn voor het tijdvak van 1 juni 1970
+    tot en met 15 december 1970
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1013
+docidentifier:
+- content: EU Regulation 1013/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1013
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1013/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-29'
+- type: implemented
+  at: '1970-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation1721978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 172/78 of 30 January 1978 amending Regulation
+    (EEC) No 2073/74 as regards the selling prices for certain beef held by the French
+    intervention agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 172/78 de la Commission, du 30 janvier 1978, modifiant
+    le règlement (CEE) n° 2073/74 en ce qui concerne les prix de vente de certaines
+    viandes bovines détenues par l' organisme d' intervention français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 172/78 der Kommission vom 30. Januar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2073/74 hinsichtlich der Verkaufspreise von bestimmtem
+    Rindfleisch im Besitz der französischen Interventionsstelle
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 172/78 af 30. januar 1978 om ændring
+    af forordning (EØF) nr. 2073/74 for så vidt angår salgspriserne for visse former
+    for oksekød, som det franske interventionsorgan ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 172/78 della Commissione, del 30 gennaio 1978, che
+    modifica il regolamento (CEE) n. 2073/74 per quanto concerne i prezzi di vendita
+    di talune carni bovine detenute dall' organismo d' intervento francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 172/78 van de Commissie van 30 januari 1978 houdende
+    wijziging van Verordening (EEG) nr. 2073/74 met betrekking tot de verkoopprijzen
+    van bepaalde soorten rundvlees in het bezit van het Franse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0172
+docidentifier:
+- content: EU Regulation 172/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0172
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/172/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-01-30'
+- type: implemented
+  at: '1978-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

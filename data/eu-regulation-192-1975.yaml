@@ -1,0 +1,91 @@
+---
+id: EURegulation1921975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 192/75 of the Commission of 17 January 1975 laying
+    down detailed rules for the application of export refunds in respect of agricultural
+    products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 192/75 de la Commission, du 17 janvier 1975, portant
+    modalités d' application des restitutions à l' exportation pour les produits
+    agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 192/75 der Kommission vom 17. Januar 1975 über Durchführungsvorschriften
+    für Ausfuhrerstattungen bei landwirtschaftlichen Erzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 192/75 af 17. januar 1975 om gennemførelsesbestemmelser
+    for eksportrestitutioner for landbrugsprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 192/75 della Commissione, del 17 gennaio 1975, che
+    stabilisce le modalità d' applicazione delle restituzioni all' esportazione per
+    i prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 192/75 van de Commissie van 17 januari 1975 houdende
+    uitvoeringsbepalingen inzake de restituties bij uitvoer voor landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0192
+docidentifier:
+- content: EU Regulation 192/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0192
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/192/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-17'
+- type: implemented
+  at: '1975-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1041
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

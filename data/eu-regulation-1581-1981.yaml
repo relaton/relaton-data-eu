@@ -1,0 +1,99 @@
+---
+id: EURegulation15811981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1581/81 of 12 June 1981 laying down detailed
+    rules implementing the system of premiums for maintaining suckler cows
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1581/81 de la Commission, du 12 juin 1981, portant
+    modalités d' application du régime de prime au maintien du troupeau de vaches
+    allaitantes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1581/81 der Kommission vom 12. Juni 1981 zur Durchführung
+    der Prämienregelung für die Erhaltung des Mutterkuhbestands
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1581/81 af 12. juni 1981 om gennemførelsesbestemmelser
+    vedrørende præmieordningen for opretholdelse af besætninger af ammekøer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1581/81 τής Επιτροπής
+    τής 12ης Ιουνίου 1981 περί τών λεπτομερειών εφαρμογής
+    τού καθεστώτος πριμοδοτήσεως γιά τή διατήρηση
+    τών αγελών θηλαζουσών αγελάδων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1581/81 della Commissione, del 12 giugno 1981, recante
+    le modalità d' applicazione del regime di premio per il mantenimento delle vacche
+    nutrici
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1581/81 van de Commissie van 12 juni 1981 houdende
+    uitvoeringsbepalingen van de premieregeling voor het aanhouden van het zoogkoeienbestand
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R1581
+docidentifier:
+- content: EU Regulation 1581/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R1581
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/1581/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-06-12'
+- type: implemented
+  at: '1981-06-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1885
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

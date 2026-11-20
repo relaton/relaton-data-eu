@@ -1,0 +1,87 @@
+---
+id: EURegulation12031970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1203/70 of the Commission of 26 June 1970 on classification
+    of goods under sub-headings Nos 48.07 C and 48.15 B and under heading No 68.08
+    of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1203/70 de la Commission, du 26 juin 1970, relatif
+    au classement de marchandises dans les sous-positions 48.07 C, 48.15 B et la position
+    68.08 du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1203/70 der Kommission vom 26. Juni 1970 über die
+    Einreihung von Waren in die Tarifstellen 48.07 C, 48.15 B und in die Tarifnummer
+    68.08 des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1203/70 af 26. juni 1970 om tarifering
+    af varer under pos. 48.07 C, 48.15 B og 68.08 i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1203/70 della Commissione, del 26 giugno 1970, che
+    classifica merci nelle sottovoci 48.07 C, 48.15 B e nella voce n. 68.08 della
+    tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1203/70 van de Commissie van 26 juni 1970 betreffende
+    de indeling van goederen onder de postonderverdeling 48.07 C, 48.15 B en onder
+    post 68.08 van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1203
+docidentifier:
+- content: EU Regulation 1203/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1203
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1203/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-26'
+- type: implemented
+  at: '1970-07-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,92 @@
+---
+id: EURegulation7841977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 784/77 of 18 April 1977 amending Regulation
+    (EEC) No 1728/70 fixing the scales of price increases and reductions for raw tobacco
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 784/77 de la Commission, du 18 avril 1977, modifiant
+    le règlement (CEE) n° 1728/70 fixant les barèmes de bonifications et de réfactions
+    dans le secteur du tabac brut
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 784/77 der Kommission vom 18. April 1977 zur Änderung
+    der Verordnung (EWG) Nr. 1728/70 zur Festsetzung der Zu- und Abschläge für Rohtabak
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 784/77 af 18. april 1977 om ændring
+    af forordning (EØF) nr. 1728/70 om fastsættelse af tabeller over tillæg og
+    fradrag for råtobak
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 784/77 della Commissione, del 18 aprile 1977, recante
+    modifica del regolamento (CEE) n. 1728/70 che fissa le tabelle di maggiorazioni
+    e riduzioni nel settore del tabacco greggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 784/77 van de Commissie van 18 april 1977 tot wijziging
+    van Verordening (EEG) nr. 1728/70 houdende vaststelling van de tabellen van toeslagen
+    en kortingen in de sector ruwe tabak
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0784
+docidentifier:
+- content: EU Regulation 784/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0784
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/784/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-04-18'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1728
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

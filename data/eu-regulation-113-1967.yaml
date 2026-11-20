@@ -1,0 +1,85 @@
+---
+id: EURegulation1131967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 113/67/CEE du Conseil, du 6 juin 1967, prorogeant les règlements
+    n° 55/65/CEE et n 56/65/CEE concernant des dispositions particulières relatives
+    à l'écoulement de certains types de fromages
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 113/67/EWG des Rates vom 6. Juni 1967 zur Verlängerung
+    der Geltungsdauer der Verordnungen Nr. 55/65/EWG und Nr. 56/65/EWG, die besondere
+    Bestimmungen über den Absatz bestimmter Käsesorten enthalten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 113/67/CEE del Consiglio, del 6 giugno 1967, relativo alla
+    proroga della validità dei regolamenti n. 55/65/CEE e n. 56/65/CEE che prevedono
+    disposizioni particolari per lo smercio di determinati tipi di formaggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 113/67/EEG van de Raad van 6 juni 1967 tot verlenging en
+    wijziging van de Verordeningen Nr. 55/65/EEG en Nr. 56/65/EEG houdende bijzondere
+    bepalingen voor de afzet van bepaalde kaassoorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0113
+docidentifier:
+- content: EU Regulation 113/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0113
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-06'
+- type: implemented
+  at: '1967-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0055
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0056
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

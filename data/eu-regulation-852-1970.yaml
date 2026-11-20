@@ -1,0 +1,82 @@
+---
+id: EURegulation8521970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 852/70 du Conseil, du 12 mai 1970, portant suspension
+    temporaire du droit autonome du tarif douanier commun applicable aux lieus noirs
+    (gadus virens) salés, présentés en emballages immédiats, d'un contenu net
+    égal ou supérieur à 47 Kg et contenant au maximum 50 moitiés de poisson, de
+    la sous-position EX 03.02 A I F)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 852/70 des Rates vom 12. Mai 1970 über die zeitweilige
+    Aussetzung des autonomen Zollsatzes des Gemeinsamen Zolltarifs für Seelachs (gadus
+    virens), gesalzen, in unmittelbaren Umschließungen mit einem Gewicht des Inhalts
+    von 47 kg oder mehr und höchstens 50 Seiten enthaltend, der Tarifstelle ex 03.02
+    A I f)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 852/70 del Consiglio, del 12 maggio 1970, recante
+    sospensione temporanea del dazio autonomo della tariffa doganale comune sui merluzzi
+    carbonari (gadus virens) salati, in imballaggi immediati di contenuto netto uguale
+    o superiore a 47 kg e contenenti non più di 50 mezzi pesci della sottovoce ex
+    03.02 A I f)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 852/70 van de Raad van 12 mei 1970 houdende tijdelijke
+    schorsing van het autonome recht van het gemeenschappelijk douanetarief voor zeezalm
+    (gadus virens) gezouten, in verpakkingen met een netto-inhoud per onmiddellijke
+    verpakking van 47 kg of meer en bevattende ten hoogste 50 halve vissen, van onderverdeling
+    ex 03.02 A I f)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0852
+docidentifier:
+- content: EU Regulation 852/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0852
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/852/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-12'
+- type: implemented
+  at: '1970-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

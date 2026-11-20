@@ -1,0 +1,116 @@
+---
+id: EURegulation761974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 76/74 of the Commission of 9 January 1974 supplementing
+    Regulation (EEC) No 1018/70 applying classes to certain vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 76/74 de la Commission, du 9 janvier 1974, modifiant
+    le règlement (CEE) n° 1018/70 portant application des catégories de qualité
+    supplémentaires à certains légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 76/74 der Kommission vom 9. Januar 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1018/70 zur Anwendung der zusätzlichen Güteklassen
+    für bestimmtes Gemüse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 76/74 af 9. januar 1974 om ændring
+    af forordning (EØF) nr. 1018/70 om anvendelse af yderligere kvalitetsklasser
+    for visse grønsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 76/74 της Επιτροπής
+    της 9ης Ιανουαρίου 1974 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 1018/70 περί εφαρμογής συμπληρωματικών
+    κατηγοριών ποιότητος σε ορισμένα λαχανικά
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 76/74 della Commissione, del 9 gennaio 1974, che modifica
+    il regolamento (CEE) n. 1018/70 recante applicazione delle categorie di qualità
+    supplementari a taluni prodotti orticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 76/74 van de Commissie van 9 januari 1974 tot wijziging
+    van Verordening (EEG) nr. 1018/70 houdende toepassing van de bijkomende kwaliteitsklassen
+    voor bepaalde groenten
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 76/74 da Comissão, de 9 de Janeiro de 1974, que
+    altera o Regulamento (CEE) n.° 1018/70 que estabelece a aplicação das categorias
+    de qualidade suplementares a certos produtos hortícolas
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 76/74 de la Comisión, de 9 de enero de 1974, por
+    el que se modifica el Reglamento (CEE) n° 1018/70 sobre la aplicación de las
+    categorías de calidad suplementarias a determinadas hortalizas
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0076
+docidentifier:
+- content: EU Regulation 76/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0076
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/76/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-01-09'
+- type: implemented
+  at: '1974-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1018
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

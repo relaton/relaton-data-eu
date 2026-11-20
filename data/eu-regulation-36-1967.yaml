@@ -1,0 +1,80 @@
+---
+id: EURegulation361967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 36/67/CEE du Conseil, du 21 février 1967, modifiant les
+    annexes du règlement n° 111/64/CEE en ce qui concerne les produits relevant
+    de la position 17.02 A
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 36/67/EWG des Rates vom 21. Februar 1967 zur Änderung der
+    Anhänge der Verordnung Nr. 111/64/EWG in bezug auf die Waren der Tarifnummer
+    17.02 A
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 36/67/CEE del Consiglio, del 21 febbraio 1967, che modifica
+    gli allegati del regolamento n. 111/64/CEE per quanto riguarda i prodotti della
+    voce tariffaria 17.02 A
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 36/67/EEG van de Raad van 21 februari 1967 houdende wijziging
+    van de bijlagen van Verordening Nr. 111/64/EEG voor zover deze betrekking hebben
+    op de onder tariefpost 17.02 A vallende produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0036
+docidentifier:
+- content: EU Regulation 36/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0036
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/36/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-02-21'
+- type: implemented
+  at: '1967-03-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0111
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

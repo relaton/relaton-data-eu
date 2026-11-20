@@ -1,0 +1,67 @@
+---
+id: EURegulation271967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 27/67/CEE de la Commission, du 14 février 1967, relatif à
+    certaines dispositions transitoires applicables dans le secteur des arachides
+    et des huiles d'arachides en France
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 27/67/EWG der Kommission vom 14. Februar 1967 mit Übergangsbestimmungen
+    für den Sektor Erdnüsse und ErdnuDöle in Frankreich
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 27/67/CEE della Commissione, del 14 febbraio 1967, relativo
+    ad alcune disposizioni transitorie applicabili nel settore delle arachidi e degli
+    oli di arachidi in Francia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 27/67/EEG van de Commissie van 14 februari 1967 betreffende
+    bepaalde overgangsmaatregelen voor de sector grondnoten en grondnotenolie in Frankrijk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0027
+docidentifier:
+- content: EU Regulation 27/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0027
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/27/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

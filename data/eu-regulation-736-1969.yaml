@@ -1,0 +1,80 @@
+---
+id: EURegulation7361969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 736/69 de la Commission, du 21 avril 1969, modifiant
+    le règlement n° 473/67/CEE en ce qui concerne notamment la durée de validité
+    des certificats dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 736/69 der Kommission vom 21. April 1969 zur Änderung
+    der Verordnung Nr. 473/67/EWG in bezug auf die Geltungsdauer der Ausfuhrlizenzen
+    auf dem Getreidesektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 736/69 della Commissione, del 21 aprile 1969, che
+    modifica il regolamento n. 473/67/CEE soprattutto per quanto riguarda la durata
+    di validità dei titoli d'esportazione nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 736/69 van de Commissie van 21 april 1969 tot wijziging
+    van Verordening nr. 473/67/EEG voor wat betreft met name de geldigheidsduur van
+    de uitvoercertificaten in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0736
+docidentifier:
+- content: EU Regulation 736/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0736
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/736/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-21'
+- type: implemented
+  at: '1969-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0473
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,72 @@
+---
+id: EURegulation6021968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 602/68 de la Commission, du 16 mai 1968, relatif aux
+    conditions d'octroi des indemnités compensatrices pour le blé tendre et le seigle
+    de qualité panifiable, en stock à la fin de la campagne 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 602/68 der Kommission vom 16. Mai 1968 betreffend
+    die Voraussetzungen für die Gewährung von Übergangsvergütungen für bestimmte
+    Lagerbestände an Weichweizen und Roggen zur Brotherstellung am Ende des Wirtschaftsjahres
+    1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 602/68 della Commissione, del 16 maggio 1968, relativo
+    alle condizioni di concessione delle indennità di compensazione per il grano
+    tenero e la segala da panificazione che si trovano in stock alla fine della campagna
+    1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 602/68 van de Commissie van 16 mei 1968 betreffende
+    de voorwaarden voor het toekennen van de compenserende vergoedingen voor zachte
+    tarwe en rogge voor broodbereiding die zich aan het einde van het verkoopseizoen
+    1967/1968 in opslag bevinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0602
+docidentifier:
+- content: EU Regulation 602/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0602
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/602/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

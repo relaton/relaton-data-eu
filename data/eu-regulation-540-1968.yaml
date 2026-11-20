@@ -1,0 +1,77 @@
+---
+id: EURegulation5401968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 540/68 du Conseil, du 29 avril 1968, fixant un montant
+    compensatoire pour le blé tendre, le blé dur, l'orge et le maïs en stock à
+    la fin de la campagne 1967/1968 et destinés à l'exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 540/68 des Rates vom 29. April 1968 zur Festsetzung
+    eines Ausgleichsbetrags für Weichweizen, Hartweizen, Gerste und Mais, die sich
+    am Ende des Wirtschaftsjahres 1967/1968 auf Lager befinden und für die Ausfuhr
+    bestimmt sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 540/68 del Consiglio, del 29 aprile 1968, che fissa
+    un importo compensativo per il grano tenero, il grano duro, l'orzo e il granturco
+    che si trovano in stock alla fine della campagna 1967/1968 e che sono destinati
+    all'esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 540/68 van de Raad van 29 april 1968 tot vaststelling
+    van een compenserend bedrag voor aan het einde van het verkoopseizoen 1967/1968
+    in voorraad zijnde en voor uitvoer bestemde zachte tarwe, durum tarwe, gerst en
+    maïs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0540
+docidentifier:
+- content: EU Regulation 540/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0540
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/540/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-29'
+- type: implemented
+  at: '1968-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

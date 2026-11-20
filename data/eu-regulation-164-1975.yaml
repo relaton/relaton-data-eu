@@ -1,0 +1,77 @@
+---
+id: EURegulation1641975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 164/75 of the Commission of 23 January 1975 fixing
+    the export levies on rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 164/75 de la Commission, du 23 janvier 1975, fixant
+    les prélèvements à l'exportation dans le secteur du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 164/75 der Kommission vom 23. Januar 1975 zur Festsetzung
+    der Abschöpfungen bei der Ausfuhr im Reissektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 164/75 af 23. januar 1975 om fastsættelse
+    af eksportafgifterne inden for rissektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 164/75 della Commissione, del 23 gennaio 1975, che
+    fissa i prelievi all'esportazione nel settore del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 164/75 van de Commissie van 23 januari 1975 houdende
+    vaststelling van de uitvoerheffingen in de sector rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0164
+docidentifier:
+- content: EU Regulation 164/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0164
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/164/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

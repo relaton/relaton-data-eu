@@ -1,0 +1,99 @@
+---
+id: EURegulation4601974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 460/74 of the Commission of 21 February 1974 on the
+    definition of the concept of tariff preferences granted by the European Economic
+    Community in respect of certain products from developing countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 460/74 de la Commission, du 21 février 1974, relatif
+    à la définition de la notion de produits originaires pour l' application des
+    préférences tarifaires accordées par la Communauté économique européenne
+    à certains produits de pays en voie de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 460/74 der Kommission vom 21. Februar 1974 betreffend
+    die Begriffsbestimmung des Warenursprungs bei der Anwendung der von der Europäischen
+    Wirtschaftsgemeinschaft für bestimmte Waren aus Entwicklungsländern gewährten
+    Zollpräferenzen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 460/74 af 21. februar 1974 om definitionen
+    af begrebet varer med oprindelsesstatus til brug ved anvendelsen af de af Det
+    europæiske økonomiske Fællesskab ydede toldpræferencer for visse varer fra
+    udviklingslande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 460/74 della Commissione, del 21 febbraio 1974, relativo
+    alla definizione della nozione di prodotti originari per l' applicazione delle
+    preferenze tariffarie accordate dalla Comunità economica europea a taluni prodotti
+    di paesi in via di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 460/74 van de Commissie van 21 februari 1974 betreffende
+    de definitie van het begrip ,,produkten van oorsprong' ' voor de toepassing van
+    de tariefpreferenties die door de Europese Economische Gemeenschap voor bepaalde
+    produkten uit ontwikkelingslanden worden verleend
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0460
+docidentifier:
+- content: EU Regulation 460/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0460
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/460/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-02-21'
+- type: implemented
+  at: '1974-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3615
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

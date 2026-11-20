@@ -1,0 +1,97 @@
+---
+id: EURegulation27151972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2715/72 of the Council of 19 December 1972 completing
+    Regulation (EEC) No 647/72 and laying down the intervention prices for butter
+    in Denmark, Ireland and the United Kingdom for the 1972/73 milk year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2715/72 du Conseil, du 19 décembre 1972, complétant
+    le règlement (CEE) n° 647/72 par la fixation, pour la campagne laitière 1972/1973,
+    des prix d' intervention pour le beurre pour le Danemark, l' Irlande et le Royaume-Uni
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2715/72 des Rates vom 19. Dezember 1972 zur Ergänzung
+    der Verordnung (EWG) Nr. 647/72 zur Festsetzung der Interventionspreise für Butter
+    für Dänemark, Irland und das Vereinigte Königreich für das Milchwirtschaftsjahr
+    1972/1973
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2715/72 af 19. december 1972 om tillæg til
+    forordning (EØF) nr. 647/72 ved fastsættelse af interventionspriserne for smør
+    for mejeriåret 1972/1973 for Danmark, Irland og Det forenede Kongerige
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2715/72 del Consiglio, del 19 dicembre 1972, che completa
+    il regolamento (CEE) n. 647/72 con la fissazione, per la campagna lattiera 1972/1973,
+    dei prezzi d' intervento per il burro per la Danimarca, l' Irlanda e il Regno
+    Unito
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2715/72 van de Raad van 19 december 1972 tot aanvulling
+    van Verordening (EEG) nr. 647/72 door vaststelling van de interventieprijzen voor
+    boter voor Denemarken, Ierland en het Verenigd Koninkrijk voor het melkprijsjaar
+    1972/1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2715
+docidentifier:
+- content: EU Regulation 2715/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2715
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2715/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-19'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0647
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

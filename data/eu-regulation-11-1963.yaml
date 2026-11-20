@@ -1,0 +1,76 @@
+---
+id: EURegulation111963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 11/63/CEE du Conseil du 20 février 1963 portant prorogation
+    de la durée de validité du règlement n 156 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 11/63/EWG des Rats vom 20. Februar 1963 zur Verlängerung
+    der Geltungsdauer der Verordnung Nr. 156 des Rats
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 11/63/CEE del Consiglio del 20 febbraio 1963 relativo alla
+    proroga della durata di validità del regolamento n. 156 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 11/63/EEG van de Raad van 20 februari 1963 houdende verlenging
+    van de geldigheidsduur van Verordening Nr. 156 van de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0011
+docidentifier:
+- content: EU Regulation 11/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0011
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/11/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-02-20'
+- type: implemented
+  at: '1963-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0156
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

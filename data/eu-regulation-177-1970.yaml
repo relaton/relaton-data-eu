@@ -1,0 +1,65 @@
+---
+id: EURegulation1771970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 177/70 de la Commission, du 30 janvier 1970, portant
+    fixation de la restitution à l'exportation pour les graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 177/70 der Kommission vom 30. Januar 1970 über die
+    Festsetzung der Erstattung bei der Ausfuhr von Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 177/70 della Commissione, del 30 gennaio 1970, che
+    fissa l'importo della restituzione all'esportazione per i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 177/70 van de Commissie van 30 januari 1970 houdende
+    vaststelling van de uitvoerrestitutie voor oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0177
+docidentifier:
+- content: EU Regulation 177/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0177
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/177/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

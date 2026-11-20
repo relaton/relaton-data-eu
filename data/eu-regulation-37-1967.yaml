@@ -1,0 +1,76 @@
+---
+id: EURegulation371967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 37/67/CEE du Conseil, du 21 février 1967, portant modification
+    du règlement n° 9 concernant le Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 37/67/EWG des Rates vom 21. Februar 1967 zur Änderung der
+    Verordnung Nr. 9 über den Europäischen Sozialfonds
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 37/67/CEE del Consiglio, del 21 febbraio 1967, che modifica
+    il regolamento n. 9 concernente il Fondo sociale europeo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 37/67/EEG van de Raad van 21 februari 1967 houdende wijziging
+    van Verordening Nr. 9 betreffende het Europees Sociaal Fonds
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0037
+docidentifier:
+- content: EU Regulation 37/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0037
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/37/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-02-21'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31960R0009
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

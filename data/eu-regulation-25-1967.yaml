@@ -1,0 +1,69 @@
+---
+id: EURegulation251967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 25/67/CEE de la Commission, du 14 février 1967, relatif aux
+    modalités d'application de la suspension du prélèvement à l'importation d'huile
+    d'olive utilisée pour la fabrication de certaines conserves
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 25/67/EWG der Kommission vom 14. Februar 1967 über Durchführungsbestimmungen
+    für die Aussetzung der Einfuhrabschöpfung für Olivenöl zur Herstellung bestimmter
+    Konserven
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 25/67/CEE della Commissione, del 14 febbraio 1967, relativo
+    alle modalità d'applicazione della sospensione del prelievo all'importazione
+    d'olio d'oliva utilizzato nella fabbricazione di talune conserve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 25/67/EEG van de Commissie van 14 februari 1967 betreffende
+    de wijze van toepassing van de schorsing van de heffing bij invoer van olijfolie
+    die voor de vervaardiging van bepaalde conserven wordt gebruikt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0025
+docidentifier:
+- content: EU Regulation 25/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0025
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/25/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

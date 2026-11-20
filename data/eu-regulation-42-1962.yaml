@@ -1,0 +1,72 @@
+---
+id: EURegulation421962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 42 du Conseil relatif à la détermination de la quantité
+    de céréales fourragères nécessaire pour la production d'un Kg d'oeufs à couver
+    de volaille de basse-cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 42 des Rats über die Festsetzung der für die Erzeugung
+    von einem Kilogramm Bruteier von Hausgeflügel erforderlichen Futtergetreidemenge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 42 del Consiglio relativo alla determinazione del quantitativo
+    di cereali da foraggio necessario per la produzione di un chilogrammo di uova
+    da cova di volatili da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 42 van de Raad, betreffende de vaststelling van de hoeveelheid
+    voedergranen vereist voor de produktie van een kilogram broedeieren van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0042
+docidentifier:
+- content: EU Regulation 42/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0042
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/42/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-06-29'
+- type: implemented
+  at: '1962-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,72 @@
+---
+id: EURegulation1411965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 141/65/CEE de la Commission, du 12 octobre 1965, relatif à
+    la fixation des prix franco frontière en ce qui concerne les importations de
+    lait et de produits laitiers en provenance des pays tiers et modifiant les règlements
+    ns 156/64/CEE, 41/65/CEE et 42/65/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 141/65/EWG der Kommission vom 12. Oktober 1965 betreffend
+    die Festsetzung der Preise frei Grenze für Einfuhren von Milch und Milcherzeugnissen
+    aus dritten Ländern und zur Änderung der Verordnungen Nr. 156/64/EWG, Nr. 41/65/EWG
+    und Nr. 42/65/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 141/65/CEE della Commissione, del 12 ottobre 1965, che fissa
+    i prezzi franco frontiera all'importazione di latte e prodotti lattiero-caseari
+    dai paesi terzi e che modifica i regolamenti nn. 156/64/CEE, 41/65/CEE e 42/65/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 141/65/EEG van de Commissie van 12 oktober 1965 betreffende
+    de vaststelling van de prijzen franco-grens bij invoer van melk en zuivelprodukten
+    uit derde landen en voorts houdende wijziging van de Verordeningen nos. 156/64/EEG,
+    41/65/EEG en 42/65/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0141
+docidentifier:
+- content: EU Regulation 141/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0141
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/141/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-10-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,102 @@
+---
+id: EURegulation35131982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3513/82 of 23 December 1982 repealing the
+    measures suspending imports of frozen squid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3513/82 de la Commission, du 23 décembre 1982, abrogeant
+    les mesures de suspension des importations de calmars congelésh
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3513/82 der Kommission vom 23. Dezember 1982 zur Beendigung
+    der Aussetzung der Einfuhren von gefrorenen Kalmarene
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3513/82 af 23. december 1982 om ophævelse
+    af suspensionen af indførselen af frosne blæksprutter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3513/82 τής Επιτροπής
+    τής 23ης Δεκεμβρίου 1982 περί καταργήσεως τών
+    μέτρων αναστολής τών εισαγωγών κατεψυγμένων
+    καλαμαριών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3513/82 della Commissione, del 23 dicembre 1982, che
+    abroga le misure di sospensione delle importazioni di calamari congelati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3513/82 van de Commissie van 23 december 1982 tot
+    intrekking van de maatregelen tot schorsing van de invoer van bevroren pijlinktvis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R3513
+docidentifier:
+- content: EU Regulation 3513/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R3513
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/3513/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-12-23'
+- type: implemented
+  at: '1982-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2420
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R2123
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

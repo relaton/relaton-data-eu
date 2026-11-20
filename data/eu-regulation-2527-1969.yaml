@@ -1,0 +1,67 @@
+---
+id: EURegulation25271969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2527/69 de la Commission, du 17 décembre 1969, modifiant
+    la taxe compensatoire à l'importation d'oranges douces en provenance de Grèce
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2527/69 der Kommission vom 17. Dezember 1969 zur Änderung
+    der Ausgleichsabgabe auf die Einfuhren von Süßorangen aus Griechenland
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2527/69 della Commissione, del 17 dicembre 1969, che
+    modifica la tassa di compensazione alle importazioni di arance dolci in provenienza
+    dalla Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2527/69 van de Commissie van 17 december 1969 houdende
+    wijziging van de compenserende heffing bij invoer van zoete sinaasappelen uit
+    Griekenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2527
+docidentifier:
+- content: EU Regulation 2527/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2527
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2527/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation971967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 97/67/CEE de la Commission, du 18 mai 1967, concernant la
+    fixation de qualités type ainsi que les ajustements compensateurs des différences
+    de qualité pour les sucres blanc et brut pour la campagne 1967/68
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 97/67/EWG der Kommission vom 18. Mai 1967 zur Bestimmung
+    der Standardqualitäten sowie der Berichtigungen zum Ausgleich von Qualitätsunterschieden
+    bei WeiD- und Rohzucker für das Wirtschaftsjahr 1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 97/67/CEE della Commissione, del 18 maggio 1967, relativo
+    alla determinazione delle qualità tipo ed agli adattamenti per compensare le
+    differenze di qualità per lo zucchero bianco e quello greggio per la campagna
+    1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 97/67/EEG van de Commissie van 18 mei 1967 houdende vaststelling
+    van de standaardkwaliteit voor suiker en de aanpassingen ter compensering van
+    kwaliteitsverschillen bij witte en ruwe suiker voor het verkoopseizoen 1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0097
+docidentifier:
+- content: EU Regulation 97/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0097
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/97/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

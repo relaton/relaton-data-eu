@@ -1,0 +1,97 @@
+---
+id: EURegulation4351973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 435/73 of the Commission of 7 February 1973 amending
+    the Annex to Regulation (EEC) No 2683/70 laying down special procedures for the
+    advance fixing of export refunds on milk and milk products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 435/73 de la Commission, du 7 février 1973, modifiant
+    l' annexe du règlement (CEE) n° 2683/70 établissant des modalités particulières
+    pour la fixation à l' avance des restitutions à l' exportation dans le secteur
+    du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 435/73 der Kommission vom 7. Februar 1973 zur Änderung
+    des Anhangs der Verordnung (EWG) Nr. 2683/70 zur Festlegung besonderer Vorschriften
+    für die Vorausfestsetzung der Erstattungen bei der Ausfuhr von Milch und Milcherzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 435/73 af 7. februar 1973 om ændring
+    af bilag til forordning (EØF) nr. 2683/70 om fastsættelse af særlige regler
+    for forudfastsættelse af eksportrestitutioner for mælk og mejeriprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 435/73 della Commissione, del 7 febbraio 1973, che
+    modifica l' allegato del regolamento (CEE) n. 2683/70 che stabilisce modalità
+    particolari per la fissazione in anticipo delle restituzioni all' esportazione
+    nel settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 435/73 van de Commissie van 7 februari 1973 houdende
+    wijziging van de bijlage van Verordening (EEG) nr. 2683/70 tot vastlegging van
+    de bijzondere voorschriften voor het vooraf vaststellen van de restituties bij
+    de uitvoer van melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0435
+docidentifier:
+- content: EU Regulation 435/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0435
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/435/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-02-07'
+- type: implemented
+  at: '1973-02-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2683
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

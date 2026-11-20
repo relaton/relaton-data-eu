@@ -1,0 +1,105 @@
+---
+id: EURegulation25201969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2520/69 of the Council of 15 December 1969 amending
+    Regulation (EEC) No 1059/69 laying down the trade arrangements applicable to certain
+    goods resulting from the processing of agricultural products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2520/69 du Conseil, du 15 décembre 1969, modifiant
+    le règlement (CEE) n° 1059/69 déterminant le régime d' échanges applicable
+    à certaines marchandises résultant de la transformation de produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2520/69 des Rates vom 15. Dezember 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1059/69 zur Festlegung der Handelsregelung für bestimmte,
+    aus landwirtschaftlichen Erzeugnissen hergestellte Waren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2520/69 af 15. december 1969 om ændring
+    af forordning (EØF) nr. 1059/69 om fastsættelse af handelsregler for visse varer
+    fremstillet ved forarbejdning af landbrugsprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2520/69/ΕΟΚ τού Συμβουλίου
+    τής 15ης Δεκεμβρίου 1969 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1059/69 «περί καθορισμού
+    τού καθεστώτος συναλλαγών πού εφαρμόζεται
+    σέ ορισμένα εμπορεύματα τά οποία προκύπτουν
+    από τή μεταποίηση γεωργικών προϊόντων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2520/69 del Consiglio, del 15 dicembre 1969, che modifica
+    il regolamento (CEE) n. 1059/69 che determina il regime di scambi applicabile
+    a talune merci risultanti dalla trasformazione di prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2520/69 van de Raad van 15 december 1969 houdende
+    wijziging van Verordening (EEG) nr. 1059/69 tot vaststelling van de handelsregeling
+    die van toepassing is op bepaalde goederen, verkregen door verwerking van landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2520
+docidentifier:
+- content: EU Regulation 2520/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2520
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2520/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-15'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1059
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

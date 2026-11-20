@@ -1,0 +1,69 @@
+---
+id: EURegulation391965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement 39/65/CEE de la Commission, du 26 mars 1965, portant modification
+    de l'article 5 du règlement n 150/64/CEE relatif au régime des restitutions
+    à l'exportation vers les pays tiers dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 39/65/EWG der Kommission vom 26. März 1965 zur Änderung
+    des Artikels 5 der Verordnung Nr. 150/64/EWG über die Erstattungsregelung bei
+    Ausfuhren nach Drittländern auf dem Rindfleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 39/65/CEE della Commissione, del 26 marzo 1965, che modifica
+    l'articolo 5 del regolamento n. 150/64/CEE relativo al regime delle restituzioni
+    all'esportazione verso i paesi terzi nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 39/65/EEG van de Commissie van 26 maart 1965 houdende wijziging
+    van artikel 5 van Verordening no. 150/64/EEG betreffende de regeling der restitutie
+    bij de uitvoer naar derde landen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0039
+docidentifier:
+- content: EU Regulation 39/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0039
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/39/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

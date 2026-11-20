@@ -1,0 +1,134 @@
+---
+id: EURegulation3801989
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 380/89 of 15 February 1989 repealing Regulation
+    (EEC) No 3935/88 and (EEC) No 3936/88 fixing the quantitative restrictions on
+    imports into Portugal of certain fruit and vegetables from third countries and
+    from the Canary Islands
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 380/89 de la Commission du 15 février 1989 abrogeant
+    les règlements (CEE) n° 3935/88 et (CEE) n 3936/88 fixant le niveau des restrictions
+    quantitatives à l'importation au Portugal de certains fruits et légumes en provenance
+    des pays tiers et des îles Canaries
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 380/89 DER KOMMISSION vom 15. Februar 1989 zur Aufhebung
+    der Verordnungen (EWG) Nr. 3935/88 und (EWG) Nr. 3936/88 zur Festsetzung der mengenmäßigen
+    Beschränkungen bei der Einfuhr von bestimmtem Obst und Gemüse aus Drittländern
+    und den Kanarischen Inseln nach Portugal #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 380/89 af 15. februar 1989 om ophævelse
+    af forordning (EØF) nr. 3935/88 og (EØF) nr. 3936/88 vedrørende fastsættelse
+    af niveauet for de kvantitative restriktioner ved indførsel til Portugal af visse
+    frugter og grønsager fra tredjelande og De Kanariske Øer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 380/89 της επιτροπής
+    της 15ης Φεβρουαρίου 1989 για κατάργηση των κανονισμών
+    (ΕΟΚ) αριθ. 3935/88 και 3936/88 για τον καθορισμό του
+    επιπέδου των ποσοτικών περιορισμών κατά την
+    εισαγωγή στην Πορτογαλία ορισμένων οπωροκηπευτικών
+    που προέρχονται από τρίτες χώρες και από τις
+    Καναρίους Νήσους
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 380/89 DELLA COMMISSIONE del 15 febbraio 1989 che
+    abroga i regolamento (CEE) n. 3935/88 e (CEE) n. 3936/88 che fissano il livello
+    delle restrizioni quantitative all'' importazione in Portogallo di taluni prodotti
+    ortofruticoli provenienti dai paesi terzi e dalle Isole Canarie #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 380/89 VAN DE COMMISSIE van 15 februari 1989 tot
+    intrekking van de Verordeningen (EEG) nr. 3935/88 en (EEG) nr. 3936/88 tot vaststelling
+    van de kwantitatieve beperkingen bij invoer in Portugal van bepaalde soorten groenten
+    en fruit uit derde landen en uit de Canarische eilanden #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) Nº 380/89 DA COMISSÃO de 15 de Fevereiro de 1989 que
+    revoga os Regulamentos (CEE) nº 3935/88 e (CEE) nº 3936/88 que fixam o nível
+    das restrições quantitativas à importação em Portugal de determinadas frutas
+    e produtos hortícolas provenientes de países terceiros e das ilhas Canárias
+    #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 380/89 DE LA COMISIÓN de 15 de febrero de 1989 que
+    deroga los Reglamentos (CEE) nos 3935/88 y 3936/88 por los que se fija el nivel
+    de las restricciones cuantitativas a la importación en Portugal de determinadas
+    frutas y hortalizas procedentes de terceros países y de las Islas Canarias #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989R0380
+docidentifier:
+- content: EU Regulation 380/1989
+  type: EU
+  primary: true
+- content: CELEX 31989R0380
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1989/380/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-02-15'
+- type: implemented
+  at: '1989-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R3935
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R3936
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,88 @@
+---
+id: EUDecision1964259
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/259/CEE de la Commission, du 2 avril 1964, portant modification
+    de sa décision du 4 décembre 1963, autorisant la perception de taxes compensatoires
+    à l'importation, en République italienne, de dextrines, d'amidons et fécules
+    solubles ou torréfiés, ainsi que de parements et apprêts, préparés à base
+    de matières amylacées, en provenance de certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: '64/259/EWG: Entscheidung der Kommission vom 2. April 1964 zur Änderung
+    ihrer Entscheidung vom 4. Dezember 1963 über die Erhebung von Ausgleichsabgaben
+    auf Einfuhren von Dextrin, löslicher oder gerösteter Stärke, zubereiteten Zurichtemitteln
+    und zubereiteten Appreturen auf der Grundlage von Stärke, aus verschiedenen Mitgliedstaaten
+    in die Italienische Republik'
+  type: main
+- language: it
+  script: Latn
+  content: '64/259/CEE: Decisione della Commissione, del 2 aprile 1964, recante modifica
+    alla decisione del 4 dicembre 1963 che autorizza la riscossione di tasse di compensazione
+    all''importazione nella Repubblica italiana di destrine, amidi e fecole solubili
+    o torrefatti nonché di bozzime e appretti preparati a base di sostanze amidacee
+    in provenienza da taluni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/259/EEG: Beschikking van de Commissie van 2 april 1964 tot wijziging
+    van haar beschikking van 4 december 1963 houdende machtiging tot het leggen van
+    een compenserende heffing op de invoer in de Italiaanse Republiek van dextrine,
+    oplosbaar of geroost zetmeel en preparaten voor het appreteren op basis van zetmeel
+    of van zetmeelderivaten, uit bepaalde Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0259
+docidentifier:
+- content: EU Decision 1964/259
+  type: EU
+  primary: true
+- content: CELEX 31964D0259
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/259/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-04-02'
+- type: implemented
+  at: '1964-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963D0677
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

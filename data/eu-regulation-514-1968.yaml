@@ -1,0 +1,65 @@
+---
+id: EURegulation5141968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 514/68 de la Commission, du 26 avril 1968, modifiant
+    le montant supplémentaire pour certains produits du secteur de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 514/68 der Kommission vom 26. April 1968 zur Änderung
+    von Zusatzbeträgen für bestimmte Erzeugnisse des Sektors Geflügelfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 514/68 della Commissione, del 26 aprile 1968, relativo
+    alla modifica dell'importo supplementare per taluni prodotti del settore del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 514/68 van de Commissie van 26 april 1968 houdende
+    wijziging van het extra bedrag voor bepaalde produkten in de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0514
+docidentifier:
+- content: EU Regulation 514/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0514
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/514/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

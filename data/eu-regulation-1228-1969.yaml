@@ -1,0 +1,79 @@
+---
+id: EURegulation12281969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1228/69 du Conseil, du 30 juin 1969, portant inclusion
+    de nouveaux produits dans la liste reprise à l'annexe 1 du règlement (CEE) n°
+    2041/68
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1228/69 des Rates vom 30. Juni 1969 über die Aufnahme
+    neuer Waren in die Liste des Anhangs I der Verordnung (EWG) Nr. 2041/68
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1228/69 del Consiglio, del 30 giugno 1969, relativo
+    all'inclusione di nuovi prodotti nell'elenco di cui all'allegato I del regolamento
+    (CEE) n.2041/68
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1228/69 van de Raad van 30 juni 1969 tot opneming
+    van nieuwe produkten in de in bijlage I van Verordening (EEG) nr. 2041/68 voorkomende
+    lijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1228
+docidentifier:
+- content: EU Regulation 1228/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1228
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1228/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-30'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R2041
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

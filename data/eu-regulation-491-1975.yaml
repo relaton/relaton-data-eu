@@ -1,0 +1,94 @@
+---
+id: EURegulation4911975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 491/75 of the Commission of 27 February 1975 amending
+    Regulation (EEC) No 2637/70 as regards the security relating to export licences
+    for cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 491/75 de la Commission, du 27 février 1975, modifiant
+    le règlement (CEE) n° 2637/70 en ce qui concerne la caution relative aux certificats
+    d' exportation dans le secteur des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 491/75 der Kommission vom 27. Februar 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2637/70 hinsichtlich der Kaution für Ausfuhrlizenzen
+    im Getränke- und Reissektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 491/75 af 27. februar 1975 om ændring
+    af forordning (EØF) nr. 2637/70 med hensyn til sikkerhedsstillelse ved eksportlicenser
+    for korn og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n.491/75 della Commissione, del 27 febbraio 1975, che
+    modifica il regolamento (CEE) n. 2637/70 per quanto concerne la cauzione relativa
+    ai titoli d' esportazione nel settore dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 491/75 van de Commissie van 27 februari 1975 houdende
+    wijziging van Verordening (EEG) nr. 2637/70 voor wat betreft de waarborg inzake
+    de uitvoercertificaten in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0491
+docidentifier:
+- content: EU Regulation 491/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0491
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/491/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-02-27'
+- type: implemented
+  at: '1975-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

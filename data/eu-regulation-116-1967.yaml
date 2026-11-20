@@ -1,0 +1,70 @@
+---
+id: EURegulation1161967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 116/67/CEE du Conseil, du 6 juin 1967, relatif à l'aide
+    pour les graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 116/67/EWG des Rates vom 6. Juni 1967 über die Beihilfe
+    für Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 116/67/CEE del Consiglio, del 6 giugno 1967, relativo all'integrazione
+    concessa per i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 116/67/EEG van de Raad van 6 juni 1967 betreffende de steun
+    voor oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0116
+docidentifier:
+- content: EU Regulation 116/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0116
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/116/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-06'
+- type: implemented
+  at: '1967-06-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

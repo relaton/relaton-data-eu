@@ -1,0 +1,82 @@
+---
+id: EURegulation6311967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 631/67/CEE du Conseil, du 26 septembre 1967, modifiant le
+    règlement n° 14/64/CEE en ce qui concerne la détermination du prix à l'importation
+    et le calcul du prélèvement pour les produits dérivés dans le secteur de la
+    viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 631/67/EWG des Rates vom 26. September 1967 zur Änderung
+    der Verordnung Nr. 14/64/EWG in bezug auf die Festsetzung der Einfuhrpreise und
+    die Berechnung der Abschöpfungsbeträge für Rindfleischerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 631/67/CEE del Consiglio, del 26 settembre 1967, che modifica
+    il regolamento n. 14/64/CEE per quanto concerne la determinazione del prezzo all'importazione
+    e il calcolo del prelievo per i prodotti derivati nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 631/67/EEG van de Raad van 26 september 1967 tot wijziging
+    van Verordening Nr. 14/64/EEG voor wat betreft de vaststelling van de prijs bij
+    invoer en de berekening van de heffing voor de afgeleide produkten in de sector
+    rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0631
+docidentifier:
+- content: EU Regulation 631/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0631
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/631/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-26'
+- type: implemented
+  at: '1967-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0014
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

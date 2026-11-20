@@ -1,0 +1,70 @@
+---
+id: EURegulation1671966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 167/66/CEE du Conseil, du 27 octobre 1966, relatif aux restitutions
+    et prélèvement applicables à l'exportation d'huile d'olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 167/66/EWG des Rates vom 27. Oktober 1966 über die Erstattungen
+    und Abschöpfungen bei der Ausfuhr von Olivenöl
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 167/66/CEE del Consiglio, del 27 ottobre 1966, relativo
+    alle restituzioni ed ai prelievi applicabili all'esportazione di olio d'oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 167/66/EEG van de Raad van 27 oktober 1966 betreffende
+    de restituties en de heffingen bij uitvoer van olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0167
+docidentifier:
+- content: EU Regulation 167/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0167
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/167/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-27'
+- type: implemented
+  at: '1966-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

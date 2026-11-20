@@ -1,0 +1,71 @@
+---
+id: EURegulation501964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 50/64/CEE du Conseil, du 30 avril 1964, relatif au barème
+    des primes applicables aux importations de riz et de brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 50/64/EWG des Rats vom 30. April 1964 über die Prämientabelle
+    für die Einfuhr von Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 50/64/CEE del Consiglio, del 30 aprile 1964, relativo alla
+    tabella dei supplementi applicabili alle importazioni di riso e di rotture di
+    riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 50/64/EEG van de Raad van 30 april 1964 inzake de premieschaal
+    geldend bij de invoer van rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0050
+docidentifier:
+- content: EU Regulation 50/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0050
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/50/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-04-30'
+- type: implemented
+  at: '1964-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation4371970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 437/70 of the Council of 6 March 1970 supplementing
+    Regulation No 175/67/EEC as regards general rules for the advance fixing of export
+    refunds on eggs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 437/70 du Conseil, du 6 mars 1970, complétant le
+    règlement n° 175/67/CEE en ce qui concerne les règles générales de la fixation
+    à l' avance des restitutions à l' exportation dans le secteur des oeufs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 437/70 des Rates vom 6. März 1970 zur Ergänzung
+    der Verordnung Nr. 175/67/EWG in bezug auf die Grundregeln für die vorherige
+    Festsetzung der Erstattungen bei der Ausfuhr auf dem Eiersektor
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 437/70 af 6. marts 1970 som tillæg til forordning
+    nr. 175/67/EØF vedrørende de almindelige regler for forudfastsættelse af eksportrestitutioner
+    inden for ægsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 437/70 del Consiglio, del 6 marzo 1970, che completa
+    il regolamento n. 175/67/CEE per quanto concerne le regole generali di fissazione
+    anticipata delle restituzioni all' esportazione nel settore delle uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 437/70 van de Raad van 6 maart 1970 tot aanvulling
+    van Verordening nr. 175/67/EEG met algemene voorschriften betreffende de voorafgaande
+    vaststelling van restituties bij de uitvoer in de sector eieren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0437
+docidentifier:
+- content: EU Regulation 437/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0437
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/437/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-06'
+- type: implemented
+  at: '1970-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0175
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

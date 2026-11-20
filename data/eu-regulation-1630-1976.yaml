@@ -1,0 +1,97 @@
+---
+id: EURegulation16301976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1630/76 of 29 June 1976 increasing the Community
+    tariff quota opened for 1976 by Regulation (EEC) No 126/76 for unwrought magnesium
+    falling within subheading 77.01 A of the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1630/76 du Conseil, du 29 juin 1976, portant augmentation
+    du volume du contingent tarifaire communautaire, ouvert pour l'année 1976, par
+    le règlement (CEE) n° 126/76 pour le magnésium brut de la sous-position 77.01
+    A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1630/76 des Rates vom 29. Juni 1976 zur Aufstockung
+    des durch die Verordnung (EWG) Nr. 126/76 für das Jahr 1976 eröffneten Gemeinschaftszollkontingents
+    für Rohmagnesium der Tarifstelle 77.01 A des Gemeinsamen Zolltarifs
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1630/76 af 29. juni 1976 om forhøjelse af
+    det for 1976 ved forordning (EØF) nr. 126/76 åbnede fællesskabstoldkontingent
+    for ubearbejdet magnesium, henhørende under pos. 77.01 A i den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1630/76 del Consiglio, del 29 giugno 1976, che aumenta
+    il volume del contingente tariffario comunitario aperto, per il 1976, dal regolamento
+    (CEE) n. 126/76 per il magnesio greggio della sottovoce 77.01 A della tariffa
+    doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1630/76 van de Raad van 29 juni 1976 houdende verhoging
+    van het communautaire tariefcontingent geopend bij Verordening (EEG) nr. 126/76
+    voor het jaar 1976 voor ruw magnesium van onderverdeling 77.01 A van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1630
+docidentifier:
+- content: EU Regulation 1630/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1630
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1630/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-06-29'
+- type: implemented
+  at: '1976-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0126
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

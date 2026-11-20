@@ -1,0 +1,93 @@
+---
+id: EURegulation2201973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 220/73 of the Council of 31 January 1973 amending the
+    Common Customs Tariff in respect of certain fishery products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 220/73 du Conseil, du 31 janvier 1973, modifiant le
+    tarif douanier commun en ce qui concerne certains produits du secteur de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 220/73 des Rates vom 31. Januar 1973 zur Änderung
+    des Gemeinsamen Zolltarifs für bestimmte Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 220/73 af 31. januar 1973 om ændring af
+    den fælles toldtarif, for så vidt angår visse produkter fra fiskerisektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 220/73 del Consiglio, del 31 gennaio 1973, che modifica
+    la tariffa doganale comune relativamente a taluni prodotti del settore della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 220/73 van de Raad van 31 januari 1973 tot wijziging
+    van het gemeenschappelijk douanetarief voor bepaalde visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0220
+docidentifier:
+- content: EU Regulation 220/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0220
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/220/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-31'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2142
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0001
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EUDecision1978302
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '78/302/EEC: Commission Decision of 1 March 1978 amending the Annex to
+    Fifth Council Decision 76/539/EEC on the equivalence of seed produced in third
+    countries'
+  type: main
+- language: fr
+  script: Latn
+  content: '78/302/CEE: Décision de la Commission, du 1er mars 1978, modifiant l''
+    annexe de la cinquième décision 76/539/CEE du Conseil concernant l'' équivalence
+    des semences produites dans les pays tiers'
+  type: main
+- language: de
+  script: Latn
+  content: '78/302/EWG: Entscheidung der Kommission vom 1. März 1978 zur Änderung
+    des Anhangs der fünften Entscheidung 76/539/EWG des Rates über die Gleichstellung
+    von in dritten Ländern erzeugtem Saatgut'
+  type: main
+- language: da
+  script: Latn
+  content: '78/302/EØF: Kommissionens beslutning af 1. marts 1978 om ændring af
+    bilaget til Rådets femte beslutning 76/539/EØF om ligestilling af frø produceret
+    i tredjelande'
+  type: main
+- language: it
+  script: Latn
+  content: '78/302/CEE: Decisione della Commissione, del 1° marzo 1978, che modifica
+    l'' allegato della quinta decisione 76/539/CEE del Consiglio relativa all'' equivalenza
+    delle sementi prodotte in paesi terzi'
+  type: main
+- language: nl
+  script: Latn
+  content: '78/302/EEG: Beschikking van de Commissie van 1 maart 1978 tot wijziging
+    van de bijlage bij de Vijfde Beschikking 76/539/EEG van de Raad betreffende de
+    gelijkstelling van in derde landen voortgebracht zaaizaad'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978D0302
+docidentifier:
+- content: EU Decision 1978/302
+  type: EU
+  primary: true
+- content: CELEX 31978D0302
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1978/302/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-03-01'
+- type: implemented
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0539
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

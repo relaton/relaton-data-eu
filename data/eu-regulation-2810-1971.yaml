@@ -1,0 +1,89 @@
+---
+id: EURegulation28101971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2810/71 of the Commission of 23 December 1971 on special
+    import terms for certain frozen beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2810/71 de la Commission, du 23 décembre 1971, relatif
+    au régime spécial à appliquer à l' importation de certaines viandes bovines
+    congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2810/71 der Kommission vom 23. Dezember 1971 über
+    die Sonderregelung bei der Einfuhr bestimmter Sorten von gefrorenem Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2810/71 af 23. december 1971 om den
+    særlige importordning for visse former for frosset oksekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2810/71 della Commissione, del 23 dicembre 1971, relativo
+    al regime speciale da applicare all' importazione di talune carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2810/71 van de Commissie van 23 december 1971 betreffende
+    de bijzondere regeling voor de invoer van bepaalde soorten bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2810
+docidentifier:
+- content: EU Regulation 2810/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2810
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2810/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-23'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1084
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

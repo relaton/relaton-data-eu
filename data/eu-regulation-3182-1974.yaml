@@ -1,0 +1,91 @@
+---
+id: EURegulation31821974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3182/74 of the Commission of 17 December 1974 amending
+    Regulation (EEC) No 2300/73 on differential amounts for colza and rape seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3182/74 de la Commission, du 17 décembre 1974, modifiant
+    le règlement (CEE) n° 2300/73 relatif aux montants différentiels pour les graines
+    de colza et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3182/74 der Kommission vom 17. Dezember 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2300/73 betreffend Differenzbeträge für Raps- und Rübsensamen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3182/74 af 17. december 1974 om ændring
+    af forordning (EØF) nr. 2300/73 om differencebeløbene for raps- og rybsfrø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3182/74 della Commissione, del 17 dicembre 1974, che
+    modifica il regolamento (CEE) n. 2300/73 relativo agli importi differenziali per
+    i semi di colza e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3182/74 van de Commissie van 17 december 1974 tot
+    wijziging van Verordening (EEG) nr. 2300/73 inzake de differentiële bedragen
+    voor kool- en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3182
+docidentifier:
+- content: EU Regulation 3182/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3182
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3182/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-17'
+- type: implemented
+  at: '1974-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2300
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,123 @@
+---
+id: EURegulation3511989
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 351/89 of 13 February 1989 repealing Regulations
+    (EEC) No 596/86 and (EEC) No 597/86 fixing the quotas for imports into Portugal
+    of maize starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 351/89 de la Commission du 13 février 1989 abrogeant
+    les règlements (CEE) n° 596/86 et (CEE) n 597/86 fixant des contingents d'amidon
+    de maïs applicables à l'importation au Portugal
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 351/89 DER KOMMISSION vom 13. Februar 1989 zur Aufhebung
+    der Verordnungen (EWG) Nr. 596/86 und (EWG) Nr. 597/86 zur Festsetzung des bei
+    der Einfuhr nach Portugal anwendbaren Kontingents für Maisstärke #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 351/89 af 13. februar 1989 om ophævelse
+    af forordning (EØF) nr. 596/86 og (EØF) nr. 597/86 vedrørende fastsættelse
+    af de kontingenter majsstivelse, der anvendes ved indførsel til Portugal
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 351/89 της Επιτροπής
+    της 13ης Φεβρουαρίου 1989 για κατάργηση των κανονισμών
+    (ΕΟΚ) αριθ. 596/86 και (ΕΟΚ) αριθ. 597/86 για τον καθορισμό
+    των ποσοστώσεων αμύλου αραβοσίτου που εφαρμόζεται
+    κατά την εισαγωγή στην Πορτογαλία
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 351/89 DELLA COMMISSIONE del 13 febbraio 1989 che
+    abroga i regolamenti (CEE) n. 596/86 e (CEE) n. 597/86 i quali fissano i contingenti
+    di amido di granturco applicabili all'' importazione in Portogallo #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 351/89 VAN DE COMMISSIE van 13 februari 1989 tot
+    intrekking van de Verordeningen (EEG) nr. 596/86 en (EEG) nr. 597/86 tot vaststelling
+    van de contingenten voor maïszetmeel bij invoer in Portugal #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) Nº 351/89 DA COMISSÃO de 13 de Fevereiro de 1989 que
+    revoga os Regulamentos (CEE) nº 596/86 e (CEE) nº 597/86, que fixam contingentes
+    de amido de milho aplicáveis à importação em Portugal #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 351/89 DE LA COMISIÓN de 13 de febrero de 1989 que
+    deroga los Reglamentos (CEE) nos 596/86 y 597/86 por los que se fijan los contingentes
+    de almidón de maíz aplicables a las importaciones en Portugal #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989R0351
+docidentifier:
+- content: EU Regulation 351/1989
+  type: EU
+  primary: true
+- content: CELEX 31989R0351
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1989/351/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-02-13'
+- type: implemented
+  at: '1989-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31986R0596
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31986R0597
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

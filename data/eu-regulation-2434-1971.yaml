@@ -1,0 +1,74 @@
+---
+id: EURegulation24341971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2434/71 de la Commission, du 11 novembre 1971, modifiant
+    la date limite de dépôt, en France et en Italie, des demandes d'aide pour le
+    lin et le chanvre, pour la campagne 1971/1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2434/71 der Kommission vom 11. November 1971 zur Änderung
+    des Verfalldatums für die in Frankreich und in Italien gestellten Anträge für
+    Beihilfen für Flachs und Hanf im Wirtschaftsjahr 1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2434/71 della Commissione, dell'11 novembre 1971,
+    che modifica la data limite per il deposito in Francia e in Italia della domanda
+    di aiuto per il lino e la canapa per la campagna 1971/1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2434/71 van de Commissie van 11 november 1971 houdende
+    wijziging van de uiterste datum voor het indienen in Frankrijk en in Italië van
+    een aanvraag om steun voor vlas en hennep voor het verkoopseizoen 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2434
+docidentifier:
+- content: EU Regulation 2434/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2434
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2434/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-11'
+- type: implemented
+  at: '1971-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

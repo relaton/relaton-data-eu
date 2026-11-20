@@ -1,0 +1,87 @@
+---
+id: EUDecision1978545
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Decision of 12 June 1978 on import arrangements for certain textile
+    products originating in State-trading countries
+  type: main
+- language: fr
+  script: Latn
+  content: '78/545/CEE: Décision du Conseil du 12 juin 1978, relative au régime
+    d''importation pour certains produits textiles originaires des pays à commerce
+    d''état'
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung des Rates vom 12. Juni 1978 über die Einfuhrregelung für
+    bestimmte Textilwaren mit Ursprung in den Staatshandelsländern
+  type: main
+- language: da
+  script: Latn
+  content: Rådets beslutning af 12. juni 1978 om ordningen vedrørende indførsel
+    af visse tekstilvarer med oprindelse i statshandelslande
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio, del 12 giugno 1978, relativa al regime d'importazione
+    per taluni prodotti tessili originari dei paesi a commercio di Stato
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Raad van 12 juni 1978 betreffende de invoerregeling
+    voor sommige textielprodukten van oorsprong uit de landen met staatshandel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978D0545
+docidentifier:
+- content: EU Decision 1978/545
+  type: EU
+  primary: true
+- content: CELEX 31978D0545
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1978/545/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977D0809
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

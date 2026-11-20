@@ -1,0 +1,74 @@
+---
+id: EURegulation3501968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 350/68 du Conseil, du 27 mars 1968, relatif à la
+    contribution financière de la Communauté aux frais entraînés par les enquêtes
+    sur le cheptel porcin effectuées par les États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 350/68 des Rates vom 27. März 1968 über die finanzielle
+    Beteiligung der Gemeinschaft an den Kosten der von den Mitgliedstaaten durchzuführenden
+    Erhebungen des Schweinebestands
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 350/68 del Consiglio, del 27 mano 1968, relativo al
+    contributo finanziario della Comunità alle spese derivanti dalle inchieste sul
+    patrimonio suinicolo effettuate dagli Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 350/68 van de Raad van 27 maart 1968 betreffende
+    de financiële bijdrage van de Gemeenschap in de kosten verbonden aan de door
+    de Lid- Staten uitgevoerde enquêtes inzake de varkensstapel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0350
+docidentifier:
+- content: EU Regulation 350/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0350
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/350/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-03-27'
+- type: implemented
+  at: '1968-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

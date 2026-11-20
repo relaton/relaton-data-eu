@@ -1,0 +1,69 @@
+---
+id: EURegulation6901969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 690/69 de la Commission, du 15 avril 1969, prorogeant
+    pour la campagne 1966/1967 certains coefficients forfaitaires pour les produits
+    transformés à base de céréales fixés par le règlement n 148/66/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 690/69 der Kommission vom 15. April 1969 zur Verlängerung
+    der Geltungsdauer bestimmter in der Verordnung Nr. 148/66/EWG festgesetzter Pauschalkoeffizienten
+    für Getreideerzeugnisse auf das Wirtschaftsjahr 1966/1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 690/69 della Commissione, del 15 aprile 1969, che
+    proroga per la campagna 1966/1967 alcuni coefficienti forfettari fissati dal regolamento
+    n.148/66/CEE per i prodotti trasformati a base di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 690/69 van de Commissie van 15 april 1969 houdende
+    verlenging van de bij Verordening nr. 148/66/EEG vastgestelde forfaitaire coëfficiënten
+    voor de op basis van granen verwerkte produkten voor het verkoopseizoen 1966/1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0690
+docidentifier:
+- content: EU Regulation 690/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0690
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/690/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,65 @@
+---
+id: EURegulation451965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 45/65/CEE du Conseil, du 29 mars 1965, modifiant la date du
+    début de la campagne laitière 1965/1966
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 45/65/EWG des Rates vom 29. März 1965 zur Änderung des
+    Zeitpunkts für den Beginn des Milchwirtschaftsjahrs 1965/1966
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 45/65/CEE del Consiglio, del 29 marzo 1965, che modifica
+    la data d'inizio della campagna lattiero-casearia 1965/1966
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 45/65/EEG van de Raad van 29 maart 1965 waarbij de begindatum
+    van het melkprijsjaar 1965/1966 wordt gewijzigd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0045
+docidentifier:
+- content: EU Regulation 45/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0045
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/45/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

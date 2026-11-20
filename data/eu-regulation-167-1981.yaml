@@ -1,0 +1,96 @@
+---
+id: EURegulation1671981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 167/81 of 21 January 1981 fixing countervailing
+    charges in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 167/81 de la Commission, du 21 janvier 1981, fixant
+    les taxes compensatoires dans le secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 167/81 der Kommission vom 21. Januar 1981 zur Festsetzung
+    der Ausgleichsabgaben bei Wein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 167/81 af 21. januar 1981 om fastsættelse
+    af udligningsafgifterne for vin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 167/81 τής Επιτροπής
+    τής 21ης Ιανουαρίου 1981 περί καθορισμού τών εξισωτικών
+    εισφορών στόν αμπελοοινικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 167/81 della Commissione, del 21 gennaio 1981, che
+    fissa le tasse di compensazione nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 167/81 van de Commissie van 21 januari 1981 tot vaststelling
+    van de compenserende heffingen in de wijnsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0167
+docidentifier:
+- content: EU Regulation 167/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0167
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/167/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-01-21'
+- type: implemented
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R0896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

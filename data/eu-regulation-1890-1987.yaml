@@ -1,0 +1,126 @@
+---
+id: EURegulation18901987
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1890/87 of 2 July 1987 amending in particular
+    Regulation (EEC) No 1678/85 fixing the conversion rates to be applied in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1890/87 du Conseil du 2 juillet 1987 modifiant notamment
+    le règlement (CEE) n° 1678/85 fixant les taux de conversion à appliquer dans
+    le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1890/87 des Rates vom 2. Juli 1987 zur Änderung der
+    Verordnung (EWG) Nr. 1678/85 über die in der Landwirtschaft anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1890/87 af 2. juli 1987 om ændring af forordning
+    (EØF) nr. 1678/85 om fastsættelse af de omregningskurser, der skal anvendes
+    i landbrugssektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1890/87 του Συμβουλίου
+    της 2ας Ιουλίου 1987 που τροποποιεί ιδίως τον
+    κανονισμό (ΕΟΚ) αριθ. 1678/85 περί καθορισμού των
+    τιμών συναλλάγματος που πρέπει να εφαρμοσθούν
+    στο γεωργικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1890/87 del Consiglio del 2 luglio 1987 recante modifica
+    del regolamento (CEE) n. 1678/85 che fissa i tassi di conversione da applicare
+    nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1890/87 van de Raad van 2 juli 1987 houdende wijziging
+    van onder meer Verordening (EEG) nr. 1678/85 tot vaststelling van de in de landbouw
+    toe te passen omrekeningskoersen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1890/87 do Conselho de 2 de Julho de 1987 que altera,
+    nomeadamente, o Regulamento (CEE) n.° 1678/85 que fixa as taxas de conversão
+    aplicáveis no sector agrícola
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1890/87 del Consejo de 2 de julio de 1987 por el que
+    se modifica, en particular, el Reglamento (CEE) n° 1678/85 por el que se fijan
+    los tipos de conversión que se deben aplicar en el sector agrícola
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31987R1890
+docidentifier:
+- content: EU Regulation 1890/1987
+  type: EU
+  primary: true
+- content: CELEX 31987R1890
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1987/1890/oj
+  type: ELI
+date:
+- type: issued
+  at: '1987-07-02'
+- type: implemented
+  at: '1987-07-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R1678
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R3773
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R3774
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

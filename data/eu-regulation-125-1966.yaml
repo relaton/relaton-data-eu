@@ -1,0 +1,69 @@
+---
+id: EURegulation1251966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 125/66/CEE de la Commission, du 7 septembre 1966, modifiant
+    le règlement n 73/64/CEE en ce qui concerne les ports retenus pour le calcul
+    des prix C.A.F. du riz et des brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 125/66/EWG der Kommission vom 7. September 1966 zur Änderung
+    der Verordnung Nr. 73/64/EWG betreffend die Häfen, welche der Berechnung der
+    cif-Preise für Reis und Bruchreis zugrunde liegen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 125/66/CEE della Commissione, del 7 settembre 1966, che
+    modifica il regolamento n. 73/64/CEE, relativamente ai porti scelti per il calcolo
+    dei prezzi cif del riso e delle rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 125/66/EEG van de Commissie van 7 september 1966 houdende
+    wijziging van Verordening no. 73/64/EEG ten aanzien van de havens, aangehouden
+    voor de berekening van de c.i.f.-prijzen voor rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0125
+docidentifier:
+- content: EU Regulation 125/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0125
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/125/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-09-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

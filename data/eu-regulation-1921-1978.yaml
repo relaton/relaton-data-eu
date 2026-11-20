@@ -1,0 +1,105 @@
+---
+id: EURegulation19211978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1921/78 of 7 August 1978 amending Regulations
+    (EEC) No 1896/73 and (EEC) No 1045/78 as regards the products which may be bought
+    into intervention in the Federal Republic of Germany, and their coefficients in
+    the beef and veal sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1921/78 de la Commission, du 7 août 1978, modifiant
+    les règlements (CEE) n° 1896/73 et (CEE) n 1045/78 en ce qui concerne les produits
+    pouvant faire l'objet d'achats à l'intervention en République fédérale d'Allemagne,
+    ainsi que leurs coefficients dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1921/78 der Kommission vom 7. August 1978 zur Änderung
+    der Verordnungen (EWG) Nr. 1896/73 und (EWG) Nr. 1045/78 hinsichtlich der Erzeugnisse
+    des Rindfleischsektors, die Gegenstand von Interventionskäufen in der Bundesrepublik
+    Deutschland sein können, sowie ihrer Koeffizienten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1921/78 af 7. august 1978 om ændring
+    af forordning (EØF) nr. 1896/73 og forordning (EØF) nr. 1045/78 for så vidt
+    angår de produkter, der kan opkøbes ved intervention i Forbundsrepublikken Tyskland,
+    samt koefficienterne for disse i oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1921/78 della Commissione, del 7 agosto 1978, che
+    modifica i regolamenti (CEE) n. 1896/73 e (CEE) n. 1045/78 per quanto riguarda
+    i prodotti che possono formare oggetto di acquisti all' intervento nella Repubblica
+    federale di Germania e i relativi coefficienti nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1921/78 van de Commissie van 7 augustus 1978 tot
+    wijziging van de Verordeningen (EEG) nr. 1896/73 en (EEG) nr. 1045/78 met betrekking
+    tot de produkten die in Duitsland in de rundvleessector door de interventiebureaus
+    kunnen worden aangekocht en de daarvoor geldende coëfficiënten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1921
+docidentifier:
+- content: EU Regulation 1921/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1921
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1921/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-08-07'
+- type: implemented
+  at: '1978-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1045
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

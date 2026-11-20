@@ -1,0 +1,101 @@
+---
+id: EURegulation28801973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2880/73 of the Council of 22 October 1973 amending
+    Regulations (EEC) Nos 237/73 and 235/73 fixing the amounts applicable as compensatory
+    amounts for eggs and poultrymeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2880/73 du Conseil, du 22 octobre 1973, modifiant
+    les règlements (CEE) n°s 237/73 et 235/73 en vue de la fixation des montants
+    applicables au titre des montants compensatoires dans le secteur des oeufs et
+    de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2880/73 des Rates vom 22. Oktober 1973 zur Änderung
+    der Verordnungen (EWG) Nr. 237/73 und Nr. 235/73 hinsichtlich der Festsetzung
+    der als Ausgleichsbeträge anwendbaren Beträge für Eier und Geflügelfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2880/73 af 22. oktober 1973 om ændring af
+    forordningerne (EØF) nr. 237/73 og 235/73 med henblik på fastsættelse af udligningsbeløb
+    for æg og fjerkrækød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2880/73 del Consiglio, del 22 ottobre 1973, che modifica
+    i regolamenti (CEE) n. 237/73 e n. 235/73 ai fini della fissazione degli importi
+    applicabili a titolo di importi compensativi nei settori delle uova e del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2880/73 van de Raad van 22 oktober 1973 tot wijziging
+    van Verordening (EEG) nr. 237/73 en van Verordening (EEG) nr. 235/73 voor wat
+    betreft de vaststelling van de bedragen die gelden als compenserende bedragen
+    in de sector eieren en in de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2880
+docidentifier:
+- content: EU Regulation 2880/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2880
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2880/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-22'
+- type: implemented
+  at: '1973-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0235
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0237
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

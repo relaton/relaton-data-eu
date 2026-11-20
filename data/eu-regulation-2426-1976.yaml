@@ -1,0 +1,111 @@
+---
+id: EURegulation24261976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2426/76 of 4 October 1976 amending Regulation
+    (EEC) No 2893/74 on sparkling wines produced in the Community and specified in
+    item 12 of Annex II to Regulation (EEC) No 816/70 and Regulation (EEC) No 817/70
+    laying down special provisions relating to quality wines produced in specified
+    regions
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2426/76 du Conseil, du 4 octobre 1976, modifiant le
+    règlement (CEE) n° 2893/74 relatif aux vins mousseux, produits dans la Communauté,
+    définis au point 12 de l' annexe II du règlement (CEE) n° 816/70 et le règlement
+    (CEE) n° 817/70 établissant des dispositions particulières relatives aux vins
+    de qualité produits dans des régions déterminées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2426/76 des Rates vom 4. Oktober 1976 zur Änderung
+    der Verordnung (EWG) Nr. 2893/74 über in der Gemeinschaft hergestellte Schaumweine
+    im Sinne von Nummer 12 des Anhangs II der Verordnung (EWG) Nr. 816/70 und der
+    Verordnung (EWG) Nr. 817/70 zur Festlegung besonderer Vorschriften für Qualitätsweine
+    bestimmter Anbaugebiete
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2426/76 af 4. oktober 1976 om ændring af
+    forordning (EØF) nr. 2893/74 om mousserende vine produceret i Fællesskabet og
+    defineret under punkt 12 i bilag II til forordning (EØF) nr. 816/70 og forordning
+    (EØF) nr. 817/70 om fastlæggelse af særlige regler for kvalitetsvine fra bestemte
+    dyrkningsområder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2426/76 del Consiglio, del 4 ottobre 1976, che modifica
+    il regolamento (CEE) n. 2893/74, relativo ai vini spumanti prodotti nella Comunità
+    e definiti al punto 12 dell' allegato II del regolamento (CEE) n. 816/70, nonché
+    il regolamento (CEE) n. 817/70, che stabilisce disposizioni particolari relative
+    ai vini di qualità prodotti in regioni determinate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2426/76 van de Raad van 4 oktober 1976 houdende wijziging
+    van Verordening (EEG) nr. 2893/74 betreffende de in de Gemeenschap vervaardigde
+    mousserende wijnen omschreven in punt 12 van bijlage II van Verordening (EEG)
+    nr. 816/70 en van Verordening (EEG) nr. 817/70 houdende vaststelling van bijzondere
+    bepalingen betreffende in bepaalde gebieden voortgebrachte kwaliteitswijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2426
+docidentifier:
+- content: EU Regulation 2426/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2426
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2426/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-10-04'
+- type: implemented
+  at: '1976-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0817
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2893
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

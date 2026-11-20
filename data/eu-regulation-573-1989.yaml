@@ -1,0 +1,126 @@
+---
+id: EURegulation5731989
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 573/89 of 2 March 1989 amending Regulation
+    (EEC) No 1357/80 introducing a system of premiums for maintaining suckler cows
+    and repealing Regulation (EEC) No 1199/82
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 573/89 du Conseil du 2 mars 1989 modifiant le règlement
+    (CEE) n° 1357/80 instaurant un régime de prime au maintien du troupeau de vaches
+    allaitantes et abrogeant le règlement (CEE) n° 1199/82
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG (EWG) Nr. 573/89 DES RATES vom 2. Maerz 1989 zur Aenderung der
+    Verordnung (EWG) Nr. 1357/80 zur Einfuehrung einer Praemienregelung fuer die Erhaltung
+    des Mutterkuhbestands und zur Aufhebung der Verordnung (EWG) Nr. 1199/82
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 573/89 af 2. marts 1989 om ændring af forordning
+    (EØF) nr. 1357/80 om indførelse af en præmieordning for opretholdelse af besætninger
+    af ammekøer, og om ophævelse af forordning (EØF) nr. 1199/82
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 573/89 του Συμβουλίου
+    της 2ας Μαρτίου 1989 για την τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 1357/80 περί καθιερώσεως καθεστώτος
+    πριμοδότησης για τη διατήρηση του πληθυσμού
+    των θηλαζουσών αγελάδων και για την κατάργηση
+    του κανονισμού (ΕΟΚ) αριθ. 1199/82
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO (CEE) N. 573/89 DEL CONSIGLIO del 2 marzo 1989 recante modifica
+    del regolamento (CEE) n. 1357/80 che istituice un regime di premio per il mantenimento
+    delle vacche nutrici, nonché abrogazione del regolamento (CEE) n. 1199/82
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING (EEG) Nr. 573/89 VAN DE RAAD van 2 maart 1989 tot wijziging
+    van Verordening (EEG) nr. 1357/80 tot instelling van een premieregeling voor het
+    aanhouden van het zoogkoeienbestand en tot intrekking van Verordening (EEG) nr.
+    1199/82
+  type: main
+- language: pt
+  script: Latn
+  content: REGULAMENTO (CEE) N* 573/89 DO CONSELHO de 2 de Março de 1989 que altera
+    o Regulamento (CEE) n* 1357/80, que instaura um sistema de prémios para a manutençao
+    de vacas em aleitamento e que revoga o Regulamento (CEE) n* 1199/82
+  type: main
+- language: es
+  script: Latn
+  content: REGLAMENTO (CEE) No 573/89 DEL CONSEJO de 2 de marzo de 1989 que modifica
+    el Reglamento (CEE) no 1357/80 por el que se establece un régimen de prima para
+    el mantenimiento del censo de vacas que amamanten a sus crias, y deroga el Reglamento
+    (CEE) no 1199/82
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989R0573
+docidentifier:
+- content: EU Regulation 573/1989
+  type: EU
+  primary: true
+- content: CELEX 31989R0573
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1989/573/oj
+  type: ELI
+date:
+- type: issued
+  at: '1989-03-02'
+- type: implemented
+  at: '1989-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R1199
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1357
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

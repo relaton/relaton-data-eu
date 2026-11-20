@@ -1,0 +1,96 @@
+---
+id: EURegulation2071970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 207/70 of the Commission of 4 February 1970 amending
+    Regulation (EEC) No 1082/68 fixing coefficients expressing the meat content of
+    preserved meats manufactured from frozen meat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 207/70 de la Commission, du 4 février 1970, modifiant
+    le règlement (CEE) n° 1082/68 en ce qui concerne les coefficients exprimant
+    la teneur en viande des conserves fabriquées à partir de viande congelée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 207/70 der Kommission vom 4. Februar 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1082/68 zur Festsetzung der Koeffizienten, die den Fleischgehalt
+    jeder der verschiedenen, auf der Grundlage von Gefrierfleisch hergestellten Konservensorten
+    ausdrücken
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 207/70 af 4. februar 1970 om ændring
+    af forordning (EØF) nr. 1082/68 om fastsættelse af de koefficienter, der udtrykker
+    kødindholdet i de konservessorter, der er fremstillet på grundlag af frosset
+    kød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 207/70 della Commissione, del 4 febbraio 1970, che
+    modifica il regolamento (CEE) n. 1082/68 per quanto concerne i coefficienti che
+    esprimono il tenore in carne delle conserve fabbricate con carni congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 207/70 van de Commissie van 4 februari 1970 houdende
+    wijziging van Verordening (EEG) nr. 1082/68 met betrekking tot de coëfficiënten
+    voor het gehalte aan vlees van conserven vervaardigd uit bevroren vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0207
+docidentifier:
+- content: EU Regulation 207/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0207
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/207/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-04'
+- type: implemented
+  at: '1970-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1082
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,93 @@
+---
+id: EURegulation3411979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 341/79 of 5 February 1979 fixing the guide
+    prices for wine for the period 16 December 1978 to 15 December 1979
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 341/79 du Conseil, du 5 février 1979, fixant les
+    prix d' orientation dans le secteur du vin pour la période du 16 décembre 1978
+    au 15 décembre 1979
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 341/79 des Rates vom 5. Februar 1979 zur Festsetzung
+    der Orientierungspreise für Wein für die Zeit vom 16. Dezember 1978 bis 15.
+    Dezember 1979
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 341/79 af 5. februar 1979 om fastsættelse
+    af orienteringspriser for vin for perioden 16. december 1978 til 15. december
+    1979
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 341/79 del Consiglio, del 5 febbraio 1979, che fissa
+    i prezzi d' orientamento nel settore del vino per il periodo dal 16 dicembre 1978
+    al 15 dicembre 1979
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 341/79 van de Raad van 5 februari 1979 tot vaststelling
+    van de oriëntatieprijzen voor wijn voor het tijdvak van 16 december 1978 tot
+    en met 15 december 1979
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0341
+docidentifier:
+- content: EU Regulation 341/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0341
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/341/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-02-05'
+- type: implemented
+  at: '1979-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1299
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

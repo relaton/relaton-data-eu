@@ -1,0 +1,78 @@
+---
+id: EURegulation11701971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1170/71 du Conseil, du 3 juin 1971, portant suspension
+    partielle du droit autonome du tarif douanier commun sur les maquereaux frais,
+    réfrigérés ou congelés, entiers, décapités ou tronçonnés, destinés à
+    l'industrie de transformation, de la sous-position EX 03.01 B I M)2
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1170/71 des Rates vom 3. Juni 1971 über die teilweise
+    Aussetzung des autonomen Zollsatzes des Gemeinsamen Zolltarifs für Makrelen,
+    frisch, gekühlt oder gefroren, ganz, ohne Kopf oder zerteilt, für die Verarbeitungsindustrie,
+    der Tarifstelle ex 03.01 B I m) 2
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1170/71 del Consiglio, del 3 giugno 1971, che sospende
+    parzialmente il dazio autonomo della tariffa doganale comune sugli sgombri freschi,
+    refrigerati o congelati, interi, decapitati o in pezzi, destinati all'industria
+    di trasformazione, della sottovoce ex 03.01 B I m) 2
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1170/71 van de Raad van 3 juni 1971 houdende gedeeltelijke
+    schorsing van het autonome recht van het gemeenschappelijk douanetarief op makreel,
+    vers, gekoeld of bevroren, ook indien ontdaan van kop of in moten gesneden, bestemd
+    voor de verwerkende industrie, van onderverdeling ex 03.01 B I m) 2
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1170
+docidentifier:
+- content: EU Regulation 1170/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1170
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1170/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-03'
+- type: implemented
+  at: '1971-06-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

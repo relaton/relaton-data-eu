@@ -1,0 +1,74 @@
+---
+id: EURegulation21821969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2182/69 de la Commission, du 31 octobre 1969, relatif
+    à la réduction des délais durant lesquels certains produits laitiers peuvent
+    demeurer sous les régimes douaniers de paiement à l'avance des restitutions
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2182/69 der Kommission vom 31. Oktober 1969 über
+    die Verkürzung der Fristen, während welcher bestimmte Milchprodukte unter die
+    Regelung für die Vorauszahlung der Erstattungen fallen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2182/69 della Commissione, del 31 ottobre 1969, relativo
+    alla riduzione dei periodi durante i quali alcuni prodotti lattiero-caseari possono
+    formare oggetto di pagamento anticipato delle restituzioni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2182/69 van de Commissie van 31 oktober 1969 tot
+    verkorting van de termijnen gedurende welke bepaalde zuivelprodukten onder het
+    stelsel van het vooraf toekennen van restituties kunnen verblijven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2182
+docidentifier:
+- content: EU Regulation 2182/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2182
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2182/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-31'
+- type: implemented
+  at: '1969-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

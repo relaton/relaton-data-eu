@@ -1,0 +1,68 @@
+---
+id: EURegulation1401966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 140/66/CEE du Conseil, du 30 septembre 1966, concernant une
+    diminution temporaire du montant des prélèvements pour les porcs vivants et
+    la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 140/66/EWG des Rates vom 30. September 1966 über eine zeitweilige
+    Verringerung der Abschöpfungsbeträge für lebende Schweine und Schweinefleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 140/66/CEE del Consiglio, del 30 settembre 1966, relativo
+    a una riduzione temporanea dell'ammontare dei prelievi applicabili ai suini vivi
+    e alle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 140/66/EEG van de Raad van 30 september 1966 betreffende
+    een tijdelijke verlaging van het bedrag van de heffingen voor levende varkens
+    en varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0140
+docidentifier:
+- content: EU Regulation 140/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0140
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/140/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

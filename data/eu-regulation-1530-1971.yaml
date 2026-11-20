@@ -1,0 +1,79 @@
+---
+id: EURegulation15301971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1530/71 du Conseil, du 12 juillet 1971, fixant, pour
+    la campagne 1971/1972, les principaux centres de commercialisation des céréales
+    et les prix d'intervention dérivés s'y rapportant, ainsi que le prix d'intervention
+    pour le maïs et le prix d'intervention dérivé unique pour le froment dur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1530/71 des Rates vom 12. Juli 1971 zur Festlegung
+    der wesentlichsten Handelsplätze für Getreide, der für diese Handelsplätze
+    geltenden abgeleiteten Interventionspreise, des Interventionspreises für Mais
+    sowie des einzigen abgeleiteten Interventionspreises für Hartweizen für das
+    Wirtschaftsjahr 1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1530/71 del Consiglio, del 12 luglio 1971, che fissa,
+    per la campagna 1971/1972, i principali centri di commercializzazione dei cereali
+    e i relativi prezzi d'intervento derivati, nonché il prezzo d'intervento per
+    il granturco ed il prezzo d'intervento derivato unico per il frumento duro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1530/71 van de Raad van 12 juli 1971 houdende vaststelling
+    van de voornaamste commercialisatiecentra voor granen, de voor deze centra geldende
+    afgeleide interventieprijzen, alsmede de interventieprijs voor maïs en de enige
+    afgeleide interventieprijs voor durum tarwe voor het verkoopseizoen 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1530
+docidentifier:
+- content: EU Regulation 1530/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1530
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1530/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-12'
+- type: implemented
+  at: '1971-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

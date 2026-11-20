@@ -1,0 +1,80 @@
+---
+id: EURegulation24961971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2496/71 de la Commission, du 19 novembre 1971, relatif
+    aux modalités d'application de l'obligation de distiller les sous-produits de
+    la vinification et abrogeant le règlement (CEE) n° 1783/71
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2496/71 der Kommission vom 19. November 1971 über
+    die Durchführungsbestimmungen für die Verpflichtung zur Destillation von Nebenerzeugnissen
+    der Weinbereitung und zur Aufhebung der Verordnung (EWG) Nr. 1783/71
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2496/71 della Commissione, del 19 novembre 1971, relativo
+    alle modalità d'applicazione dell'obbligo di distillare i sottoprodotti della
+    vinificazione e all'abrogazione del regolamento (CEE) n. 1783/71
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2496/71 van de Commissie van 19 november 1971 houdende
+    uitvoeringsbepalingen inzake de verplichte distillatie van de bijprodukten van
+    de wijnbereiding en houdende intrekking van Verordening (EEG) nr. 1783/71
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2496
+docidentifier:
+- content: EU Regulation 2496/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2496
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2496/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-19'
+- type: implemented
+  at: '1971-11-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1783
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

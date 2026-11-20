@@ -1,0 +1,100 @@
+---
+id: EURegulation5611976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 561/76 of 15 March 1976 amending Regulation
+    (EEC) No 823/68 as regards the conditions of entry for certain kinds of cheeses
+    falling within certain tariff headings and Regulation (EEC) No 950/68 on the Common
+    Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 561/76 du Conseil, du 15 mars 1976, modifiant le règlement
+    (CEE) n° 823/68 en ce qui concerne les conditions d' admission de certains fromages
+    dans certaines positions tarifaires, ainsi que le règlement (CEE) n° 950/68
+    relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 561/76 des Rates vom 15. März 1976 zur Änderung
+    der Verordnung (EWG) Nr. 823/68 hinsichtlich der Bedingungen für die Zulassung
+    bestimmter Käsesorten zu bestimmten Tarifstellen sowie der Verordnung (EWG) Nr.
+    950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 561/76 af 15. marts 1976 om ændring af forordning
+    (EØF) nr. 823/68 for så vidt angår betingelserne for henførsel af bestemte
+    ostesorter under bestemte toldpositioner samt af forordning (EØF) nr. 950/68
+    om den fælles toldtarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 561/76 del Consiglio, del 15 marzo 1976, che modifica
+    il regolamento (CEE) n. 823/68 per quanto riguarda le condizioni di ammissione
+    di alcuni formaggi in talune posizioni tariffarie e il regolamento (CEE) n. 950/68
+    relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 561/76 van de Raad van 15 maart 1976 houdende wijziging
+    van Verordening (EEG) nr. 823/68 met betrekking tot de toelatingsvoorwaarden voor
+    bepaalde kaassoorten in bepaalde tariefposten, alsmede van Verordening (EEG) nr.
+    950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0561
+docidentifier:
+- content: EU Regulation 561/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0561
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/561/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-15'
+- type: implemented
+  at: '1976-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0823
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

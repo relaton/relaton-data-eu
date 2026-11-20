@@ -1,0 +1,66 @@
+---
+id: EURegulation251965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 25/65/CEE de la Commission, du 11 mars 1965, majorant le montant
+    supplémentaire pour les jaunes d'oeufs de volaille de basse-cour liquides ou
+    congelés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 25/65/EWG der Kommission vom 11. März 1965 zur Erhöhung
+    des Zusatzbetrags für flüssiges oder gefrorenes Eigelb von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 25/65/CEE della Commissione, dell'11 marzo 1965, che aumenta
+    l'importo supplementare per il giallo d'uova, fresco o congelato, di volatili
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 25/65/EEG van de Commissie van 11 maart 1965 houdende verhoging
+    van het extra-bedrag voor vloeibaar en bevroren eigeel van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0025
+docidentifier:
+- content: EU Regulation 25/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0025
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/25/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

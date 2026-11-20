@@ -1,0 +1,105 @@
+---
+id: EURegulation23091977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2309/77 of 20 October 1977 amending Regulations
+    (EEC) No 1896/73 and (EEC) No 930/77 as regards the products which may be bought
+    into intervention in the Kingdom of the Netherlands and their coefficients in
+    the beef and veal sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2309/77 de la Commission, du 20 octobre 1977, modifiant
+    les règlements (CEE) n° 1896/73 et (CEE) n° 930/77 en ce qui concerne les produits
+    pouvant faire l'objet d'achats à l'intervention au Royaume des Pays-Bas, ainsi
+    que leurs coefficients dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2309/77 der Kommission vom 20. Oktober 1977 zur Änderung
+    der Verordnungen (EWG) Nr. 1896/73 und (EWG) Nr. 930/77 hinsichtlich der Erzeugnisse
+    des Rindfleischsektors, die Gegenstand von Interventionskäufen im Königreich
+    der Niederlande sein können, sowie ihres Koeffizienten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2309/77 af 20. oktober 1977 om ændring
+    af forordning (EØF) nr. 1896/73 og forordning (EØF) nr. 930/77 for så vidt
+    angår de produkter, der kan opkøbes ved intervention i kongeriget Nederlandene,
+    samt koefficienterne for disse inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2309/77 della Commissione, del 20 ottobre 1977, che
+    modifica i regolamenti (CEE) n. 1896/73 e (CEE) n. 930/77 per quanto riguarda
+    i prodotti che possono formare oggetto di acquisti all' intervento nel Regno dei
+    Paesi Bassi e i relativi coefficienti nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2309/77 van de Commissie van 20 oktober 1977 tot
+    wijziging van de Verordeningen (EEG) nr. 1896/73 en (EEG) nr. 930/77 met betrekking
+    tot de produkten die in het Koninkrijk der Nederlanden in de rundvleessector door
+    de interventiebureaus kunnen worden aangekocht en de daarvoor geldende coëfficiënten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2309
+docidentifier:
+- content: EU Regulation 2309/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2309
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2309/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-20'
+- type: implemented
+  at: '1977-10-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0930
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

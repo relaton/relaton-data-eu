@@ -1,0 +1,66 @@
+---
+id: EURegulation671962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 67 de la Commission déterminant les critères de modification
+    des prélèvements perçus sur les céréales, les farines, les gruaux et les
+    semoules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 67 der Kommission zur Festlegung der Kriterien für die
+    Änderung der Abschöpfungssätze auf Getreide, Mehl, Grob-und FeingrieD
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 67 della Commissione relativo alla determinazione dei criteri
+    di modificazione dei prelievi riscossi sui cereali, le farine, le semole e i semolini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 67 van de Commissie tot vaststelling van de criteria voor
+    de wijziging van de heffingen op granen, meel, grutten, gries en griesmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0067
+docidentifier:
+- content: EU Regulation 67/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0067
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/67/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

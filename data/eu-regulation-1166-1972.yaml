@@ -1,0 +1,78 @@
+---
+id: EURegulation11661972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1166/72 de la Commission, du 5 juin 1972, relatif
+    aux modalités d'application concernant les avances destinées à couvrir les
+    dépenses résultant de la fourniture de produits laitiers au titre de l'aide
+    alimentaire et visées au règlement (CEE) n° 442/72
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1166/72 der Kommission vom 5. Juni 1972 betreffend
+    die Durchführungsvorschriften hinsichtlich der Vorschüsse zur Deckung der Ausgaben
+    für die Lieferung von Milcherzeugnissen im Rahmen der Nahrungsmittelhilfe laut
+    Verordnung (EWG) Nr. 442/72
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1166/72 della Commissione, del 5 giugno 1972, relativo
+    alle modalità di applicazione concernenti gli anticipi destinati a coprire le
+    spese derivanti dalla fornitura di prodotti lattiero-caseari a titolo di aiuto
+    alimentare di cui al regolamento (CEE) n. 442/72
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1166/72 van de Commissie van 5 juni 1972 betreffende
+    de uitvoeringsbepalingen aangaande de voorschotten ter dekking van de uitgaven,
+    die uit de levering van zuivelprodukten in het kader van de voedselhulp voortvloeien,
+    als bedoeld in Verordening (EEG) nr. 442/72
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1166
+docidentifier:
+- content: EU Regulation 1166/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1166
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1166/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-05'
+- type: implemented
+  at: '1972-06-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

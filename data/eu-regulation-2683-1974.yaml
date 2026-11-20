@@ -1,0 +1,98 @@
+---
+id: EURegulation26831974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2683/74 of the Council of 21 October 1974 amending
+    Regulation (EEC) No 2824/72 as regards the financing of certain measures by the
+    Guarantee Section of the European Agricultural Guidance and Guarantee Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2683/74 du Conseil, du 21 octobre 1974, modifiant
+    le règlement (CEE) n° 2824/72 en ce qui concerne le financement de certaines
+    mesures par le Fonds européen d' orientation et de garantie agricole, section
+    garantie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2683/74 des Rates vom 21. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 2824/72 betreffend die Finanzierung bestimmter Maßnahmen
+    des Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft, Abteilung
+    Garantie
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2683/74 af 21. oktober 1974 om ændring af
+    forordning (EØF) nr. 2824/72 for så vidt angår finansiering af visse foranstaltninger
+    gennem Den europæiske Udviklings- og Garantifond for Landbruget, garantisektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2683/74 del Consiglio, del 21 ottobre 1974, che modifica
+    il regolamento (CEE) n. 2824/72 per quanto riguarda il finanziamento di talune
+    misure da parte del Fondo europeo agricolo di orientamento e di garanzia, sezione
+    garanzia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2683/74 van de Raad van 21 oktober 1974 tot wijziging
+    van Verordening (EEG) nr. 2824/72 voor wat betreft de financiering van bepaalde
+    maatregelen door het Europees Oriëntatie- en Garantiefonds voor de Landbouw,
+    afdeling Garantie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2683
+docidentifier:
+- content: EU Regulation 2683/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2683
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2683/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-21'
+- type: implemented
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2824
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

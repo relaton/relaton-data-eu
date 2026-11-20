@@ -1,0 +1,73 @@
+---
+id: EURegulation5811970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 581/70 de la Commission, du 25 mars 1970, déterminant
+    les montants des éléments mobiles et les droits additionnels applicables, pendant
+    le deuxième trimestre de l'année 1970, à l'importation dans la Communauté
+    des marchandises relevant du règlement (CEE) n 1059/69 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 581/70 der Kommission vom 25. März 1970 zur Festsetzung
+    der Höhe der im zweiten Vierteljahr 1970 bei der Einfuhr der unter die Verordnung
+    (EWG) Nr. 1059/69 des Rates fallenden Waren in die Gemeinschaft anwendbaren beweglichen
+    Teilbeträge und Zusatzzölle
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 581/70 della Commissione, del 25 marzo 1970, che determina
+    gli importi degli elementi mobili e i dazi addizionali applicabili durante il
+    secondo trimestre 1970 all'importazione nella Comunità delle merci cui si applica
+    il regolamento (CEE) n. 1059/69 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 581/70 van de Commissie van 25 maart 1970 tot vaststelling
+    van de bedragen der gedurende het tweede kwartaal van 1970 bij invoer in de Gemeenschap
+    van onder Verordening (EEG) nr. 1059/69 van de Raad vallende goederen toe te passen
+    variabele elementen en aanvullende invoerrechten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0581
+docidentifier:
+- content: EU Regulation 581/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0581
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/581/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

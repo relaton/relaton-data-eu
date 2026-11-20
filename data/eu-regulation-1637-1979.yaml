@@ -1,0 +1,104 @@
+---
+id: EURegulation16371979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1637/79 of 24 July 1979 amending Regulation
+    (EEC) No 1080/77 on the supply of milk and certain milk products at reduced prices
+    to schoolchildren
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1637/79 du Conseil, du 24 juillet 1979, modifiant
+    le règlement (CEE) n° 1080/77 relatif à la cession à prix réduit de lait
+    et de certains produits laitiers aux élèves des établissements scolaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1637/79 des Rates vom 24. Juli 1979 zur Änderung
+    der Verordnung (EWG) Nr. 1080/77 über die verbilligte Abgabe von Milch und bestimmten
+    Milcherzeugnissen an Schüler in Schulen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1637/79 af 24. juli 1979 om ændring af forordning
+    (EØF) nr. 1080/77 om uddeling af mælk og visse mejeriprodukter til nedsat pris
+    til elever i skoler
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1637/79 τού Συμβουλίου
+    τής 24ης Ιουλίου 1979 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 1080/77 «περί παροχής γάλακτος καί ορισμένων
+    γαλακτοκομικών προϊόντων σέ μειωμένη τιμή
+    στούς μαθητές σχολικών ιδρυμάτων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1637/79 del Consiglio, del 24 luglio 1979, che modifica
+    il regolamento (CEE) n. 1080/77 relativo alla cessione a prezzo ridotto di latte
+    e di taluni prodotti lattiero-caseari agli allievi degli istituti scolastici
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1637/79 van de Raad van 24 juli 1979 tot wijziging
+    van Verordening (EEG) nr. 1080/77 betreffende de verstrekking van melk en bepaalde
+    zuivelprodukten tegen verlaagde prijs aan leerlingen van onderwijsinstellingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1637
+docidentifier:
+- content: EU Regulation 1637/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1637
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1637/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-24'
+- type: implemented
+  at: '1979-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1080
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

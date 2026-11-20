@@ -1,0 +1,84 @@
+---
+id: EURegulation22641970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2264/70 du Conseil, du 10 novembre 1970, portant augmentation
+    du contingent tarifaire communautaire de harengs frais, réfrigérés ou congelés,
+    entiers, décapités ou tronçonnés, de la sous-position 03.01 B I a) 2 aa) du
+    tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2264/70 des Rates vom 10. November 1970 zur Erhöhung
+    des Gemeinschaftszollkontingents für Heringe, frisch, gekühlt oder gefroren,
+    ganz, ohne Kopf oder zerteilt, der Tarifstelle 03.01 B I a) 2 aa) des Gemeinsamen
+    Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2264/70 del Consiglio, del 10 novembre 1970, relativo
+    all'aumento del contingente tariffario comunitario di aringhe fresche, refrigerate
+    o congelate, intere, decapitate o in pezzi della sottovoce 03.01 B I a) 2 aa)
+    della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2264/70 van de Raad van 10 november 1970 tot vergroting
+    van het communautaire tariefcontingent van haring, vers, gekoeld of bevroren,
+    ook indien ontdaan van kop of in moten gesneden, van onderverdeling 03.01 B I
+    a) 2 aa) van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2264
+docidentifier:
+- content: EU Regulation 2264/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2264
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2264/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-10'
+- type: implemented
+  at: '1970-11-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1075
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

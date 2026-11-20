@@ -1,0 +1,70 @@
+---
+id: EURegulation25261970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2526/70 de la Commission, du 15 décembre 1970, constatant
+    la situation de crise grave du marché des choux-fleurs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2526/70 der Kommission vom 15. Dezember 1970 zur Feststellung
+    einer ernsten Krise auf dem Blumenkohlmarkt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2526/70 della Commissione, del 15 dicembre 1970, con
+    cui si constata la situazione di crisi grave del mercato dei cavolfiori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2526/70 van de Commissie van 15 december 1970 houdende
+    constatering van een ernstige crisis op de markt van bloemkool
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2526
+docidentifier:
+- content: EU Regulation 2526/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2526
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2526/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+- type: implemented
+  at: '1970-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

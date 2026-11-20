@@ -1,0 +1,94 @@
+---
+id: EURegulation13691974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1369/74 of the Commission of 31 May 1974 amending Regulation
+    (EEC) No 722/74 authorizing the United Kingdom to grant a decreasing national
+    subsidy to pig producers
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1369/74 de la Commission, du 31 mai 1974, modifiant
+    le règlement (CEE) n° 722/74 autorisant le Royaume-Uni à octroyer une aide
+    nationale dégressive aux producteurs de porcs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1369/74 der Kommission vom 31. Mai 1974 zur Änderung
+    der Verordnung (EWG) Nr. 722/74 zur Ermächtigung des Vereinigten Königreichs
+    zur Gewährung einer degressiven einzelstaatlichen Beihilfe für Schweineerzeuger
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1369/74 af 31. maj 1974 til ændring
+    af forordning (EØF) nr. 722/74 om bemyndigelse til, at der til svineproducenterne
+    i Det forenede Kongerige ydes en national, faldende støtte
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1369/74 della Commissione, del 31 maggio 1974, che
+    modifica il regolamento (CEE) n. 722/74 che autorizza il Regno Unito a concedere
+    un aiuto nazionale degressivo ai produttori di suini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1369/74 van de Commissie van 31 mei 1974 houdende
+    wijziging van Verordening (EEG) nr. 722/74 waarbij het Verenigd Koninkrijk wordt
+    gemachtigd een aflopende nationale steun te verlenen aan producenten van varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1369
+docidentifier:
+- content: EU Regulation 1369/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1369
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1369/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-05-31'
+- type: implemented
+  at: '1974-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0722
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

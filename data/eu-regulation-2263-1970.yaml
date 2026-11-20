@@ -1,0 +1,84 @@
+---
+id: EURegulation22631970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2263/70 du Conseil, du 10 novembre 1970, portant augmentation
+    du contingent tarifaire communautaire de morues entières, décapitées ou tronçonnées,
+    simplement salées ou en saumure, ou séchées, de la position 03.02 à I b) du
+    tarif douanier commun (année 1970)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2263/70 des Rates vom 10. November 1970 zur Erhöhung
+    des Gemeinschaftszollkontingents für Kabeljau, ganz, ohne Kopf oder zerteilt,
+    nur gesalzen, in Salzlake oder getrocknet, der Tarifstelle 03.02 A I b) des Gemeinsamen
+    Zolltarifs (1970)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2263/70 del Consiglio, del 10 novembre 1970, relativo
+    all'aumento del contingente tariffario comunitario di merluzzi interi, decapitati
+    o in pezzi, semplicemente salati o in salamoia, o secchi, della voce 03.02 A I
+    b) della tariffa doganale comune (anno 1970)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2263/70 van de Raad van 10 november 1970 tot vergroting
+    van het communautaire tariefcontingent van kabeljauw, ook indien ontdaan van kop
+    of in moten gesneden, enkel gezouten, gepekeld of gedroogd, van post 03.02 A I
+    b) van het gemeenschappelijk douanetarief (1970)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2263
+docidentifier:
+- content: EU Regulation 2263/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2263
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2263/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-10'
+- type: implemented
+  at: '1970-11-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2616
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

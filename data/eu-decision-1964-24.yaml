@@ -1,0 +1,80 @@
+---
+id: EUDecision196424
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission n° 64/24/CEE, du 16 décembre 1963, autorisant
+    la République fédérale d'Allemagne à percevoir un montant compensatoire sur
+    l'importation de certaines catégories d'aliments pour animaux contenant du lait
+  type: main
+- language: de
+  script: Latn
+  content: '64/24/EWG: Entscheidung der Kommission vom 16. Dezember 1963, durch die
+    die Bundesrepublik Deutschland ermächtigt wird, bei der Einfuhr einiger Futtermittelarten,
+    die Milch enthalten, einen Ausgleichsbetrag zu erheben'
+  type: main
+- language: it
+  script: Latn
+  content: '64/24/CEE: Decisione della Commissione del 16 dicembre 1963 con la quale
+    si autorizza la Repubblica federale di Germania a riscuotere un ammontare compensativo
+    all''importazione di alcune categorie di alimenti per animali, contenenti latte'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/24/EEG: Beschikking van de Commissie van 16 december 1963 waarbij de
+    Bondsrepubliek Duitsland wordt gemachtigd een compenserend bedrag te heffen van
+    de invoer van sommige soorten melk bevattende veevoeders'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0024
+docidentifier:
+- content: EU Decision 1964/24
+  type: EU
+  primary: true
+- content: CELEX 31964D0024
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/24/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-16'
+- type: implemented
+  at: '1963-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963D0518
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

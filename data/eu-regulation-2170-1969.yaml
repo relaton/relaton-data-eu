@@ -1,0 +1,67 @@
+---
+id: EURegulation21701969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2170/69 de la Commission, du 31 octobre 1969, modifiant
+    le correctif applicable à la restitution pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2170/69 der Kommission vom 31. Oktober 1969 zur Änderung
+    der bei der Erstattung für Reis und Bruchreis anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2170/69 della Commissione, del 31 ottobre 1969, che
+    modifica il correttivo applicabile alla restituzione per il riso e le rotture
+    di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2170/69 van de Commissie van 31 oktober 1969 tot
+    wijziging van de bij uitvoer van rijst en breukrijst op de restitutie toe te passen
+    correctiefactor
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2170
+docidentifier:
+- content: EU Regulation 2170/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2170
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2170/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

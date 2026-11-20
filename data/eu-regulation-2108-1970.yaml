@@ -1,0 +1,88 @@
+---
+id: EURegulation21081970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2108/70 of the Council of 20 October 1970 determining
+    the Community scale for grading pig carcases
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2108/70 du Conseil, du 20 octobre 1970, portant détermination
+    de la grille communautaire de classement des carcasses de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2108/70 des Rates vom 20. Oktober 1970 zur Bestimmung
+    des gemeinschaftlichen Handelsklassenschemas für Schweinehälften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2108/70 af 20. oktober 1970 om fastsættelse
+    af Fællesskabets handelsklasseskema for svinekroppe
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2108/70 del Consiglio, del 20 ottobre 1970, che determina
+    la tabella comunitaria di classificazione delle carcasse di suino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2108/70 van de Raad van 20 oktober 1970 tot vaststelling
+    van het communautaire indelingsschema voor geslachte varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2108
+docidentifier:
+- content: EU Regulation 2108/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2108
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2108/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-20'
+- type: implemented
+  at: '1970-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0211
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

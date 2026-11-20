@@ -1,0 +1,74 @@
+---
+id: EURegulation26981970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2698/70 de la Commission, du 30 décembre 1970, relatif
+    à la fourniture de certaines quantités de lait écrémé en poudre à titre
+    d'aide communautaire au programme alimentaire mondial
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2698/70 der Kommission vom 30. Dezember 1970 über
+    die Lieferung bestimmter Mengen Magermilchpulver als Gemeinschaftshilfe zugunsten
+    des Welternährungsprogramms
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2698/70 della Commissione, del 30 dicembre 1970, relativo
+    alla fornitura di alcuni quantitativi di latte scremato in polvere a titolo d'aiuto
+    comunitario al Programma alimentare mondiale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2698/70 van de Commissie van 30 december 1970 betreffende
+    de levering van bepaalde hoeveelheden magere-melkpoeder als gemeenschapshulp aan
+    het Wereldvoedselprogramma
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2698
+docidentifier:
+- content: EU Regulation 2698/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2698
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2698/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-30'
+- type: implemented
+  at: '1971-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

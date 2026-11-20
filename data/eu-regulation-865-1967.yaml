@@ -1,0 +1,71 @@
+---
+id: EURegulation8651967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 865/67/CEE du Conseil du 14 novembre 1967 fixant les quantités
+    type du blé tendre, du seigle, de l'orge, du maïs et du riz blé dur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 865/67/EWG des Rates vom 14. November 1967 zur Festsetzung
+    der Standardqualitäten für Weichweizen, Roggen, Gerste, Mais und Hartweizen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 865/67/CEE del Consiglio, del 14 novembre 1967, che fissa
+    le qualità tipo del grano tenero, della segala, dell'orzo, del granturco e del
+    grano duro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 865/67/EEG van de Raad van 14 november 1967 tot vaststelling
+    van de standaardkwaliteit van zachte tarwe, rogge, gerst, maïs en durum tarwe
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0865
+docidentifier:
+- content: EU Regulation 865/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0865
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/865/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-14'
+- type: implemented
+  at: '1967-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation2931971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 293/71 de la Commission, du 10 février 1971, portant
+    fixation des prix de retrait visés à l'article 10 du règlement (CEE) n° 2142/70
+    pour certains produits de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 293/71 der Kommission vom 10. Februar 1971 über die
+    Festsetzung der in Artikel 10 der Verordnung (EWG) Nr. 2142/70 genannten Rücknahmepreise
+    für bestimmte Fischereierzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 293/71 della Commissione, del 10 febbraio 1971, che
+    fissa i prezzi di ritiro di cui all'articolo 10 del regolamento (CEE) n. 2142/70
+    per taluni prodotti della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 293/71 van de Commissie van 10 februari 1971 houdende
+    vaststelling van de ophoudprijzen bedoeld in artikel 10 van Verordening (EEG)
+    nr. 2142/70 voor bepaalde visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0293
+docidentifier:
+- content: EU Regulation 293/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0293
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/293/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-10'
+- type: implemented
+  at: '1971-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

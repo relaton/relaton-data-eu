@@ -1,0 +1,74 @@
+---
+id: EURegulation7391969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 739/69 du Conseil, du 22 avril 1969, fixant le prix
+    de base et le prix d'achat pour les choux-fleurs pour la période allant du 1er
+    mai au 31 décembre 1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 739/69 des Rates vom 22. April 1969 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Blumenkohl für die Zeit vom 1. Mai
+    bis zum 31. Dezember 1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 739/69 del Consiglio, del 22 aprile 1969, che fissa
+    il prezzo di base e il prezzo d'acquisto per i cavolfiori per il periodo 1 maggio
+    - 31 dicembre 1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 739/69 van de Raad van 22 april 1969 houdende vaststelling
+    van de basisprijs en de aankoopprijs voor bloemkool voor het tijdvak van 1 mei
+    tot en met 31 december 1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0739
+docidentifier:
+- content: EU Regulation 739/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0739
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/739/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-22'
+- type: implemented
+  at: '1969-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

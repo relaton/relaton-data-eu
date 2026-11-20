@@ -1,0 +1,99 @@
+---
+id: EURegulation3631975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 363/75 of the Commission of 13 February 1975 amending
+    Regulations (EEC) No 3062/74 and (EEC) No 314/75 concerning certain standing invitations
+    to tender for the importation of sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 363/75 de la Commission, du 13 février 1975, portant
+    modification des règlements (CEE) n° 3062/74 et (CEE) n° 314/75 concernant
+    certaines adjudications permanentes pour l' importation de sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 363/75 der Kommission vom 13. Februar 1975 zur Änderung
+    der Verordnungen (EWG) Nr. 3062/74 und (EWG) Nr. 314/75 betreffend bestimmte Dauerausschreibungen
+    zur Einfuhr von Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 363/75 af 13. februar 1975 om ændring
+    af forordning (EØF) nr. 3062/74 og (EØF) nr. 314/75 vedrørende visse løbende
+    licitationer angående indførsel af sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 363/75 della Commissione, del 13 febbraio 1975, che
+    modifica i regolamenti (CEE) n. 3062/74 e (CEE) n. 314/75 relativi a talune gare
+    permanenti per l' importazione dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 363/75 van de Commissie van 13 februari 1975 houdende
+    wijziging van de Verordeningen (EEG) nr. 3062/74 en (EEG) nr. 314/75 met betrekking
+    tot bepaalde permanente inschrijvingen voor invoer van suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0363
+docidentifier:
+- content: EU Regulation 363/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0363
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/363/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-02-13'
+- type: implemented
+  at: '1975-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3062
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0314
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

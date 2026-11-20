@@ -1,0 +1,116 @@
+---
+id: EURegulationNo20921970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2092/70 of the Council of 20 October 1970 amending
+    the Regulations on the financing of intervention expenditure in respect of the
+    internal market
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2092/70 du Conseil, du 20 octobre 1970, modifiant
+    les règlements relatifs au financement des dépenses d' intervention sur le marché
+    intérieur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2092/70 des Rates vom 20. Oktober 1970 zur Änderung
+    der Verordnungen über die Finanzierung von Interventionsausgaben auf dem Binnenmarkt
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2092/70 af 20. oktober 1970 om ændring af
+    forordningerne vedrørende finansiering af interventionsudgifter på hjemmemarkedet
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2092/70 του Συμβουλίου
+    της 20ής Οκτωβρίου 1970 περί τροποποιήσεως των
+    κανονισμών περί χρηματοδοτήσεως των δαπανών
+    παρεμβάσεως στην εσωτερική αγορά
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2092/70 del Consiglio, del 20 ottobre 1970, che modifica
+    i regolamenti relativi al finanziamento delle spese di intervento sul mercato
+    interno
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2092/70 van de Raad van 20 oktober 1970 tot wijziging
+    van de verordeningen betreffende de financiering van de interventie-uitgaven op
+    de interne markt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2092
+docidentifier:
+- content: EU Regulation No 2092/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2092
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2092/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-20'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0786
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0787
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0788
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2334
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

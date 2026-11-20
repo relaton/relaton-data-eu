@@ -1,0 +1,70 @@
+---
+id: EURegulation511962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 51 du Conseil portant fixation du montant des prélèvements
+    envers les pays tiers pour le porc abattu
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 51 des Rats über die Festsetzung der Abschöpfungsbeträge
+    gegenüber dritten Ländern für geschlachtete Schweine
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 51 del Consiglio relativo alla fissazione dell'ammontare
+    dei prelievi nei confronti dei paesi terzi applicabili ai suini macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 51 van de Raad, houdende vaststelling van het bedrag van
+    de heffingen ten opzichte van de derde landen voor geslachte varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0051
+docidentifier:
+- content: EU Regulation 51/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0051
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/51/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-06-29'
+- type: implemented
+  at: '1962-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

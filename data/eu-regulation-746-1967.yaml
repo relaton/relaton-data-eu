@@ -1,0 +1,69 @@
+---
+id: EURegulation7461967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 746/67/CEE de la Commission, du 24 octobre 1967, fixant, pour
+    certains fromages, le montant forfaitaire correspondant aux frais de livraison
+    jusqu'au territoire douanier de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 746/67/EWG der Kommission vom 24. Oktober 1967 zur Festsetzung
+    eines den Lieferkosten bis zum Zollgebiet der Gemeinschaft entsprechenden Pauschbetrags
+    für bestimmte Käsesorten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 746/67/CEE della Commissione, del 24 ottobre 1967, relativo
+    alla fissazione, per taluni formaggi, dell'ammontare forfettario corrispondente
+    alle spese di consegna fino al territorio doganale della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 746/67/EEG van de Commissie van 24 oktober 1967 houdende
+    vaststelling voor bepaalde kaassoorten van het forfaitaire bedrag dat overeenkomt
+    met de kosten van levering in het douanegebied van de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0746
+docidentifier:
+- content: EU Regulation 746/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0746
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/746/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,128 @@
+---
+id: EURegulation3031977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 303/77 of 14 February 1977 laying down general
+    rules for the supply of skimmed-milk powder and butteroil as food aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 303/77 de la Commission, du 14 février 1977, portant
+    modalités générales d' application relatives à la fourniture de lait écrémé
+    en poudre et de butter oil au titre de l' aide alimentaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 303/77 der Kommission vom 14. Februar 1977 über allgemeine
+    Durchführungsbestimmungen für die Lieferung von Magermilchpulver und Butteroil
+    im Rahmen der Nahrungsmittelhilfe
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 303/77 af 14. februar 1977 om almindelige
+    gennemførelsesbestemmelser for levering af skummetmælkspulver og butteroil som
+    fødevarehjælp
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 303/77 της Επιτροπής
+    της 14ης Φεβρουαρίου 1977 περί γενικών λεπτομερειών
+    εφαρμογής σχετικά με την προμήθεια αποκορυφωμένου
+    γάλακτος εις κόνιν και βουτυρελαίου στα πλαίσια
+    της επισιτιστικής βοηθείας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 303/77 della Commissione, del 14 febbraio 1977, recante
+    modalità generali d' applicazione per la fornitura di latte scremato in polvere
+    e di butteroil a titolo di aiuto alimentare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 303/77 van de Commissie van 14 februari 1977 houdende
+    algemene uitvoeringsbepalingen voor de levering van magere-melkpoeder en butteroil
+    als voedselhulp
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0303
+docidentifier:
+- content: EU Regulation 303/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0303
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/303/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-14'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1365
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2121
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0750
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2247
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2660
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1687
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

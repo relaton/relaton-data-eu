@@ -1,0 +1,139 @@
+---
+id: EUDirective199278
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 92/78/EEC of 19 October 1992 amending Directives 72/464/EEC
+    and 79/32/EEC on taxes other than turnover taxes which are levied on the consumption
+    of manufactured tobacco
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 92/78/CEE du Conseil, du 19 octobre 1992, modifiant les directives
+    72/464/CEE et 79/32/CEE concernant les impôts autres que les taxes sur le chiffre
+    d' affaires frappant la consommation des tabacs manufacturés
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 92/78/EWG des Rates vom 19. Oktober 1992 zur Änderung der Richtlinien
+    72/464/EWG und 79/32/EWG über die anderen Verbrauchsteuern auf Tabakwaren als
+    die Umsatzsteuer
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 92/78/EØF af 19. oktober 1992 om ændring af direktiv
+    72/464/EØF og 79/32/EØF om forbrugsbeskatning af forarbejdet tobak bortset fra
+    omsætningsafgift
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 92/78/ΕΟΚ του Συμβουλίου της 19ης Οκτωβρίου
+    1992 για την τροποποίηση των οδηγιών 72/464/ΕΟΚ
+    και 79/32/ΕΟΚ περί των φόρων, πλην των φόρων κύκλου
+    εργασιών, οι οποίοι βαρύνουν την κατανάλωση
+    βιομηχανοποιημένων καπνών
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 92/78/ETY, annettu 19 päivänä lokakuuta 1992, muista
+    valmistetun tupakan kulutukseen kohdistuvista veroista kuin liikevaihtoveroista
+    annettujen direktiivien 72/464/ETY ja 79/32/ muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 92/78/CEE del Consiglio, del 19 ottobre 1992, che modifica le
+    direttive 72/464/CEE e 79/32/CEE relative alle imposte diverse dall' imposta sulla
+    cifra d' affari che gravano sul consumo dei tabacchi lavorati
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 92/78/EEG van de Raad van 19 oktober 1992 tot wijziging van de
+    Richtlijnen 72/464/EEG en 79/32/EEG betreffende de belasting, andere dan omzetbelasting,
+    op het verbruik van tabaksfabrikaten
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 92/78/CEE do Conselho, de 19 de Outubro de 1992, que altera as
+    directivas 72/464/CEE e 79/32/CEE, relativas aos impostos que incidem sobre o
+    consumo de tabacos manufacturados com excepção dos impostos sobre o volume de
+    negócios
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 92/78/CEE del Consejo, de 19 de octubre de 1992, por la que se
+    modifican las Directivas 72/464/CEE y 79/32/CEE relativas a los impuestos distintos
+    de los impuestos sobre el volumen de negocios que gravan el consumo de las labores
+    del tabaco
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 92/78 /EEG av den 19 oktober 1992 med ändring av direktiv
+    72/464/EEG och 79/32/EEG om andra skatter än omsättningsskatter som påverkar
+    förbrukningen av tobaksvaror
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0078
+docidentifier:
+- content: EU Directive 1992/78
+  type: EU
+  primary: true
+- content: CELEX 31992L0078
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1992/78/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-10-19'
+- type: implemented
+  at: '1992-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972L0464
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979L0032
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

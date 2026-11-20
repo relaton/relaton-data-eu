@@ -1,0 +1,108 @@
+---
+id: EURegulation9831979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 983/79 of 14 May 1979 amending Regulation (EEC)
+    No 222/77 on Community transit
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 983/79 du Conseil, du 14 mai 1979, modifiant le règlement
+    (CEE) n° 222/77 relatif au transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 983/79 des Rates vom 14. Mai 1979 zur Änderung der
+    Verordnung (EWG) Nr. 222/77 über das gemeinschaftliche Versandverfahren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 983/79 af 14. maj 1979 om ændring af forordning
+    (EØF) nr. 222/77 om fællesskabsforsendelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 983/79 τού Συμβουλίου
+    τής 14ης Μαΐου 1979 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 222/77 περί κοινοτικής διαμετακομίσεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 983/79 del Consiglio, del 14 maggio 1979, che modifica
+    il regolamento (CEE) n. 222/77 relativo al transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 983/79 van de Raad van 14 mei 1979 tot wijziging
+    van Verordening (EEG) nr. 222/77 betreffende communautair douanevervoer
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 983/79 do Conselho, de 14 de Maio de 1979, que altera
+    o Regulamento (CEE) n.° 222/77 relativo ao trânsito comunitário
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 983/79 del Consejo, de 14 de mayo de 1979, por el
+    que se modifica el Reglamento (CEE) n° 222/77 relativo al tránsito comunitario
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0983
+docidentifier:
+- content: EU Regulation 983/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0983
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/983/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-05-14'
+- type: implemented
+  at: '1979-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0222
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

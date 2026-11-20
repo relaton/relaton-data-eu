@@ -1,0 +1,66 @@
+---
+id: EURegulation5301970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 530/70 de la Commission, du 20 mars 1970, relatif à
+    la suspension partielle de certains prélèvements fixés dans le secteur de la
+    viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 530/70 der Kommission vom 20. März 1970 zur teilweisen
+    Aussetzung bestimmter Abschöpfungen auf dem Schweinefleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 530/70 della Commissione, del 20 marzo 1970, relativo
+    alla sospensione parziale di alcuni prelievi fissati nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 530/70 van de Commissie van 20 maart 1970 betreffende
+    de tijdelijke schorsing van bepaalde heffingen in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0530
+docidentifier:
+- content: EU Regulation 530/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0530
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/530/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

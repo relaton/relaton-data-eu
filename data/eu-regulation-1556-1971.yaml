@@ -1,0 +1,74 @@
+---
+id: EURegulation15561971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1556/71 du Conseil, du 19 juillet 1971, prévoyant
+    des mesures spéciales pour la distillation de poires et de pêches ayant fait
+    l'objet de mesures d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1556/71 des Rates vom 19. Juli 1971 über Sondermaßnahmen
+    für das Brennen von Birnen und Pfirsichen, die Gegenstand von Interventionsmaßnahmen
+    waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1556/71 del Consiglio, del 19 luglio 1971, che stabilisce
+    misure speciali per la distillazione di pere e pesche che hanno formato oggetto
+    di misure d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1556/71 van de Raad van 19 juli 1971 houdende vaststelling
+    van bijzondere maatregelen voor het distilleren van peren en perziken waarop interventiemaatregelen
+    zijn toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1556
+docidentifier:
+- content: EU Regulation 1556/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1556
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1556/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-19'
+- type: implemented
+  at: '1971-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

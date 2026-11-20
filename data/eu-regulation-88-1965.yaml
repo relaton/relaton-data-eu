@@ -1,0 +1,76 @@
+---
+id: EURegulation881965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 88/65/CEE du Conseil, du 29 juin 1965, portant dérogation
+    aux dispositions des règlements n° 20, 21 et 22 relatives aux restitutions à
+    l'exportation vers les pays tiers dans les secteurs de la viande de porc, des
+    oeufs et de la viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 88/65/EWG des Rates vom 29. Juni 1965 über von den Verordnungen
+    Nr. 20, 21 und 22 abweichende Bestimmungen betreffend die Erstattungen bei der
+    Ausfuhr von Schweinefleisch, Eiern und Geflügelfleisch in dritte Länder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 88/65/CEE del Consiglio, del 29 giugno 1965, che deroga
+    alle disposizioni dei regolamenti nn. 20, 21 e 22 relative alle restituzioni all'esportazione
+    verso i paesi terzi nei settori delle carni suine, delle uova e del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 88/65/EEG van de Raad van 29 juni 1965 houdende afwijking
+    van de Verordeningen Nrs. 20, 21 en 22 voor wat betreft de bepalingen inzake de
+    restituties bij uitvoer naar derde landen in de sectoren varkensvlees, eieren
+    en slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0088
+docidentifier:
+- content: EU Regulation 88/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0088
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/88/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-29'
+- type: implemented
+  at: '1965-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

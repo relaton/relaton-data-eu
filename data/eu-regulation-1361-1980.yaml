@@ -1,0 +1,116 @@
+---
+id: EURegulation13611980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1361/80 of 5 June 1980 amending Regulation
+    (EEC) No 2915/79 in respect of the conditions for the admission of certain cheeses
+    into certain tariff subheadings, and amending Regulation (EEC) No 950/68 on the
+    Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1361/80 du Conseil, du 5 juin 1980, modifiant le règlement
+    (CEE) n° 2915/79 en ce qui concerne les conditions d' admission de certains fromages
+    dans certaines positions tarifaires, ainsi que le règlement (CEE) n° 950/68
+    relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1361/80 des Rates vom 5. Juni 1980 zur Änderung der
+    Verordnung (EWG) Nr. 2915/79 hinsichtlich der Bedingungen für die Zulassung bestimmter
+    Käsesorten in einigen Zolltarifnummern sowie der Verordnung (EWG) Nr. 950/68
+    über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1361/80 af 5. juni 1980 om ændring af forordning
+    (EØF) nr. 2915/79 for så vidt angår betingelserne for henførsel af visse ostesorter
+    til visse toldpositioner, samt om ændring af forordning (EØF) nr. 950/68 om
+    den fælles toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1361/80 του Συμβουλίου
+    της 5ης Ιουνίου 1980 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 2915/79 «περί των όρων αποδοχής ορισμένων
+    τυρών σε ορισμένες δασμολογικές κλάσεις»,
+    καθώς και του κανονισμού (ΕΟΚ) αριθ. 950/68 «περί
+    του Κοινού Δασμολογίου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1361/80 del Consiglio, del 5 giugno 1980, che modifica
+    il regolamento (CEE) n. 2915/79 per quanto riguarda le condizioni di ammissione
+    di determinati formaggi in talune voci tariffarie, nonché il regolamento (CEE)
+    n. 950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1361/80 van de Raad van 5 juni 1980 tot wijziging
+    van Verordening (EEG) nr. 2915/79 ten aanzien van de voorwaarden voor de indeling
+    van bepaalde kaassoorten onder bepaalde tariefposten, alsmede van Verordening
+    (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1361
+docidentifier:
+- content: EU Regulation 1361/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1361
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1361/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-06-05'
+- type: implemented
+  at: '1980-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0950
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2915
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

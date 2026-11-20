@@ -1,0 +1,76 @@
+---
+id: EURegulation5531969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 553/69 du Conseil, du 25 mars 1969, rectifiant le
+    texte du règlement (CEE) n° 2094/68 en langue allemande
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 553/69 des Rates vom 25. März 1969 zur Berichtigung
+    des Wortlauts der Verordnung (EWG) Nr. 2094/68 in deutscher Sprache
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 553/69 del Consiglio, del 25 marzo 1969, che rettifica
+    il testo in lingua tedesca del regolamento (CEE) n. 2094/68
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 553/69 van de Raad van 25 maart 1969 houdende verbetering
+    van de tekst in de Duitse taal van Verordening (EEG) nr. 2094/68
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0553
+docidentifier:
+- content: EU Regulation 553/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0553
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/553/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-25'
+- type: implemented
+  at: '1969-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R2094
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation4301968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 430/68 du Conseil, du 9 avril 1968, fixant les prix
+    dans le secteur du sucre pour la campagne sucrière 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 430/68 des Rates vom 9. April 1968 über die Festsetzung
+    der Preise für Zucker für das Zuckerwirtschaftsjahr 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 430/68 del Consiglio, del 9 aprile 1968, che fissa
+    i prezzi applicabili nel settore dello zucchero per la campagna saccarifera 1968/1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 430/68 van de Raad van 9 april 1968 houdende vaststelling
+    van de prijzen in de sector suiker voor het verkoopseizoen voor suiker 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0430
+docidentifier:
+- content: EU Regulation 430/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0430
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/430/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-09'
+- type: implemented
+  at: '1968-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

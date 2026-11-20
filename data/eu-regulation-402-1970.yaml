@@ -1,0 +1,71 @@
+---
+id: EURegulation4021970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 402/70 de la Commission, du 3 mars 1970, fixant les
+    restitutions à l'exportation pour certains fruits à coques, en coques ou décortiqués
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 402/70 der Kommission vom 3. März 1970 zur Festsetzung
+    der Ausfuhrerstattungen für gewisse Schalenfrüchte, in der Schale oder geschält
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 402/70 della Commissione, del 3 marzo 1970, che fissa
+    le restituzioni all'esportazione per alcune frutta a guscio, con guscio o sgusciate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 402/70 van de Commissie van 3 maart 1970 houdende
+    vaststelling van de restituties bij de uitvoer van bepaalde noten en amandelen
+    met of zonder dop of schaal
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0402
+docidentifier:
+- content: EU Regulation 402/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0402
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/402/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-03'
+- type: implemented
+  at: '1970-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

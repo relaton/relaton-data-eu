@@ -1,0 +1,104 @@
+---
+id: EURegulation16081971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1608/71 of the Commission of 26 July 1971 amending
+    Regulation No 467/67/EEC as regards the processing costs for the various stages
+    of rice processing
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1608/71 de la Commission, du 26 juillet 1971, modifiant
+    le règlement n° 467/67/CEE pour ce qui concerne les frais d' usinage afférents
+    aux divers stades de transformation du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1608/71 der Kommission vom 26. Juli 1971 zue Änderung
+    der Verordnung Nr. 467/67/EWG hinsichtlich der Bearbeitungskosten für die Verarbeitungsstufen
+    von Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1608/71 af 26. juli 1971 om ændring
+    af forordning nr. 467/67/EØF med hensyn til forarbejdningsomkostningerne for
+    de enkelte forarbejdningstrin for ris
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1608/71 της Επιτροπής
+    της 26ης Ιουλίου 1971 περί τροποποιήσεως του κανονισμού
+    αριθ. 467/67/ΕΟΚ όσον αφορά τα έξοδα βιομηχανικής
+    επεξεργασίας τα οποία αντιστοιχούν στα διάφορα
+    στάδια μεταποιήσεως της ορύζης
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1608/71 della Commissione, del 26 luglio 1971, che
+    modifica il regolamento n. 467/67/CEE per quanto riguarda le spese di lavorazione
+    relative alle varie fasi di trasformazione del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1608/71 van de Commissie van 26 juli 1971 houdende
+    wijziging van Verordening nr. 467/67/EEG voor wat betreft de bewerkingskosten
+    in de verschillende verwerkingsstadia van rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1608
+docidentifier:
+- content: EU Regulation 1608/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1608
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1608/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0467
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

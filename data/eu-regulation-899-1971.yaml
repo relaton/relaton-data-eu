@@ -1,0 +1,68 @@
+---
+id: EURegulation8991971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 899/71 de la Commission, du 28 avril 1971, fixant les
+    prélèvements applicables à l'importation des produits transformés à base
+    de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 899/71 der Kommission vom 28. April 1971 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Getreide- und Reisverarbeitungserzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 899/71 della Commissione, del 28 aprile 1971, che
+    fissa i prelievi applicabili all'importazione dei prodotti trasformati a base
+    di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 899/71 van de Commissie van 28 april 1971 houdende
+    vaststelling van de heffingen bij invoer van de op basis van granen en rijst verwerkte
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0899
+docidentifier:
+- content: EU Regulation 899/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0899
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/899/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

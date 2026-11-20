@@ -1,0 +1,108 @@
+---
+id: EURegulation3401979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 340/79 of 5 February 1979 determining the types
+    of table wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 340/79 du Conseil, du 5 février 1979, déterminant
+    les types de vin de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 340/79 des Rates vom 5. Februar 1979 zur Bestimmung
+    der Tafelweinarten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 340/79 af 5. februar 1979 om bestemmelse
+    af bordvinstyper
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 340/79 του Συμβουλίου
+    της 5ης Φεβρουαρίου 1979 περί καθορισμού των
+    τύπων επιτραπεζίων οίνων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 340/79 del Consiglio, del 5 febbraio 1979, che determina
+    i tipi di vino da tavola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 340/79 van de Raad van 5 februari 1979 houdende bepaling
+    van de soorten tafelwijn
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 340/79 do Conselho, de 5 de Fevereiro de 1979, que
+    determina os tipos de vinho de mesa
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 340/79 del Consejo, de 5 de febrero de 1979, por el
+    que se determinan los tipos de vino de mesa
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0340
+docidentifier:
+- content: EU Regulation 340/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0340
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/340/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-02-05'
+- type: implemented
+  at: '1979-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0945
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

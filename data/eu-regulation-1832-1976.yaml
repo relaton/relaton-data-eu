@@ -1,0 +1,94 @@
+---
+id: EURegulation18321976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1832/76 of 28 July 1976 amending Regulation
+    (EEC) No 1492/71 fixing the procedures and conditions for the taking over of cereals
+    by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1832/76 de la Commission, du 28 juillet 1976, modifiant
+    le règlement (CEE) n° 1492/71 fixant les procédures et conditions de prise
+    en charge des céréales par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1832/76 der Kommission vom 28. Juli 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1492/71 über das Verfahren und die Bedingungen für
+    die Übernahme von Getreide durch die Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1832/76 af 28. juli 1976 om ændring
+    af forordning (EØF) nr. 1492/71 om fremgangsmåden ved og betingelserne for interventionsorganernes
+    overtagelse af korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1832/76 della Commissione, del 28 luglio 1976, recante
+    modifica del regolamento (CEE) n. 1492/71 che stabilisce le procedure e le condizioni
+    di presa in consegna di cereali da parte degli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1832/76 van de Commissie van 28 juli 1976 tot wijziging
+    van Verordening (EEG) nr. 1492/71 houdende vaststelling van de procedure en voorwaarden
+    voor de overneming van granen door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1832
+docidentifier:
+- content: EU Regulation 1832/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1832
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1832/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-28'
+- type: implemented
+  at: '1976-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1492
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

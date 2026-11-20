@@ -1,0 +1,101 @@
+---
+id: EURegulation2631979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 263/79 of 12 February 1979 amending Regulations
+    (EEC) No 1687/76, (EEC) No 1036/78 and (EEC) No 182/79 in respect of butter sold
+    at reduced prices for use in the manufacture of foodstuffs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 263/79 de la Commission, du 12 février 1979, modifiant
+    les règlements (CEE) n° 1687/76, (CEE) n° 1036/78 et (CEE) n° 182/79 en ce
+    qui concerne le beurre vendu à prix réduit pour la fabrication de produits alimentaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 263/79 der Kommission vom 12. Februar 1979 zur Änderung
+    der Verordnungen (EWG) Nr. 1687/76, (EWG) Nr. 1036/78 und (EWG) Nr. 182/79 hinsichtlich
+    des Verkaufs von Butter zu herabgesetzten Preisen für die Herstellung von Nahrungsmitteln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 263/79 af 12. februar 1979 om ændring
+    af forordning (EØF) nr. 1687/76 og (EØF) nr. 1036/78 og (EØF) nr. 182/79 for
+    så vidt angår smør, der sælges til nedsat pris til fremstilling af levnedsmidler
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 263/79 della Commissione, del 12 febbraio 1979, che
+    modifica i regolamenti (CEE) n. 1687/76, (CEE) n. 1036/78 e (CEE) n. 182/79 per
+    quanto riguarda il burro venduto a prezzo ridotto per la fabbricazione di prodotti
+    alimentari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 263/79 van de Commissie van 12 februari 1979 tot
+    wijziging van de Verordening (EEG) nr. 1687/76, (EEG) nr. 1036/78 en (EEG) nr.
+    182/79 ten aanzien van de boter die tegen verlaagde prijs wordt verkocht voor
+    de vervaardiging van voedingsmiddelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0263
+docidentifier:
+- content: EU Regulation 263/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0263
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/263/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-02-12'
+- type: implemented
+  at: '1979-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1687
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0182
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

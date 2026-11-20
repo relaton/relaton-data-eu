@@ -1,0 +1,94 @@
+---
+id: EURegulation5441979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 544/79 of 22 March 1979 amending Regulation
+    (EEC) No 1944/78 laying down, for the wine-growing year 1978/79, detailed rules
+    governing the distillation of wines produced from table grapes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 544/79 de la Commission, du 22 mars 1979, modifiant
+    le règlement (CEE) n° 1944/78 portant modalités d' application de la distillation
+    des vins issus de raisins de table pour la campagne viticole 1978/1979
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 544/79 der Kommission vom 22. März 1979 zur Änderung
+    der Verordnung (EWG) Nr. 1944/78 über Einzelheiten der Destillation von Weinen
+    aus Tafeltrauben für das Weinwirtschaftsjahr 1978/79
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 544/79 af 22. marts 1979 om ændring
+    af forordning (EØF) nr. 1944/78 om gennemførelsesbestemmelser for vinproduktionsåret
+    1978/79 for destillering af vin, der stammer fra druer til spisebrug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 544/79 della Commissione, del 22 marzo 1979, che modifica
+    il regolamento (CEE) n. 1944/78 recante modalità d' applicazione, per la campagna
+    viticola 1978/1979, della distillazione dei vini ottenuti da uve da tavola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 544/79 van de Commissie van 22 maart 1979 tot wijziging
+    van Verordening (EEG) nr. 1944/78 houdende uitvoeringsbepalingen voor de distillatie
+    van uit tafeldruiven verkregen wijnen voor het wijnoogstjaar 1978/1979
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0544
+docidentifier:
+- content: EU Regulation 544/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0544
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/544/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-22'
+- type: implemented
+  at: '1978-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1944
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

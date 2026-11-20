@@ -1,0 +1,70 @@
+---
+id: EURegulation15991972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1599/72 de la Commission, du 26 juillet 1972, fixant
+    le montant de l'aide dans le secteur des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1599/72 der Kommission vom 26. Juli 1972 zur Festsetzung
+    des Betrages der Beihilfe für Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1599/72 della Commissione, del 26 luglio 1972, che
+    fissa l'importo dell'integrazione nel settore dei semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1599/72 van de Commissie van 26 juli 1972 houdende
+    vaststelling van het bedrag van de steun in de sector oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1599
+docidentifier:
+- content: EU Regulation 1599/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1599
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1599/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-26'
+- type: implemented
+  at: '1972-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

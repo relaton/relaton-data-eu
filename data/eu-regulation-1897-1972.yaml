@@ -1,0 +1,101 @@
+---
+id: EURegulation18971972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1897/72 of the Commission of 1 September 1972 on a
+    standing invitation to tender to determine the export refund for white sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1897/72 de la Commission, du 1er septembre 1972, concernant
+    une adjudication permanente pour la détermination de la restitution à l' exportation
+    pour le sucre blanc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1897/72 der Kommission vom 1. September 1972 über
+    eine Dauerausschreibung zur Bestimmung der Ausfuhrerstattungen für Weißzucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1897/72 af 1. september 1972 om en
+    løbende licitation til fastsættelse af eksportrestitutionen for hvidt sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1897/72 della Commissione, del 1° settembre 1972,
+    relativo ad una gara permanente per la determinazione della restituzione all'
+    esportazione di zucchero bianco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1897/72 van de Commissie van 1 september 1972 betreffende
+    een permanente openbare inschrijving voor de bepaling van de restitutie bij uitvoer
+    van witte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1897
+docidentifier:
+- content: EU Regulation 1897/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1897
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1897/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-01'
+- type: implemented
+  at: '1972-09-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0685
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1373
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

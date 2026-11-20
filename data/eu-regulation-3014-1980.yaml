@@ -1,0 +1,96 @@
+---
+id: EURegulation30141980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3014/80 of 21 November 1980 amending Regulation
+    (EEC) No 2776/79 fixing the free-at-frontier reference prices applicable to wine
+    imports from 16 December 1979
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3014/80 de la Commission, du 21 novembre 1980, modifiant
+    le règlement (CEE) n° 2776/79 fixant les prix franco frontière de référence
+    applicables à l' importation des vins à partir du 16 décembre 1979
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3014/80 der Kommission vom 21. November 1980 zur Änderung
+    der Verordnung (EWG) Nr. 2776/79 zur Festsetzung der ab 16. Dezember 1979 bei
+    der Einfuhr von Wein anzuwendenden Referenzpreise frei Grenze
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3014/80 af 21. november 1980 om ændring
+    af forordning (EØF) nr. 2776/79 om fastsættelse af referenceprisen franko grænse
+    ved indførsel af vin fra den 16. december 1979
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3014/80 della Commissione, del 21 novembre 1980, che
+    modifica il regolamento (CEE) n. 2776/79 che fissa i prezzi franco frontiera di
+    riferimento applicabili all' importazione dei vini a decorrere dal 16 dicembre
+    1979
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3014/80 van de Commissie van 21 november 1980 tot
+    wijziging van Verordening (EEG) nr. 2776/79 tot vaststelling van de met ingang
+    van 16 december 1979 bij invoer van wijn toe te passen referentieprijzen franco
+    grens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R3014
+docidentifier:
+- content: EU Regulation 3014/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R3014
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/3014/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-11-21'
+- type: implemented
+  at: '1980-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2776
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

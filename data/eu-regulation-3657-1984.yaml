@@ -1,0 +1,104 @@
+---
+id: EURegulation36571984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3657/84 of 19 December 1984 extending Regulation
+    (EEC) No 652/79 on the impact of the European Monetary System on the common agricultural
+    policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 3657/84 du Conseil du 19 décembre 1984 prorogeant
+    le règlement (CEE) no 652/79 relatif aux conséquences du système monétaire
+    européen dans le cadre de la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3657/84 des Rates vom 19. Dezember 1984 zur Verlängerung
+    der Verordnung (EWG) Nr. 652/79 über die Auswirkungen des Europäischen Währungssystems
+    im Rahmen der gemeinsamen Agrarpolitik
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3657/84 af 19. december 1984 om forlængelse
+    af gyldigheden af forordning (EØF) nr. 652/79 om det europæiske valutasystems
+    konsekvenser for den fælles landbrugspolitik
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3657/84 του Συμβουλίου
+    της 19ης Δεκεμβρίου 1984 για την παράταση ισχύος
+    του κανονισμού (ΕΟΚ) αριθ. 652/79 περί των επιπτώσεων
+    του ευρωπαϊκού νομισματικού συστήματος στα
+    πλαίσια της κοινής γεωργικής πολιτικής
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3657/84 del Consiglio del 19 dicembre 1984 che proroga
+    il regolamento (CEE) n. 652/79 relativo alle conseguenze del sistema monetario
+    europeo nel quadro della politica agricola comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3657/84 van de Raad van 19 december 1984 tot verlenging
+    van Verordening (EEG) nr. 652/79 inzake de consequenties van het Europees Monetair
+    Stelsel voor het gemeenschappelijk landbouwbeleid
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R3657
+docidentifier:
+- content: EU Regulation 3657/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R3657
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/3657/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-12-19'
+- type: implemented
+  at: '1984-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0652
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

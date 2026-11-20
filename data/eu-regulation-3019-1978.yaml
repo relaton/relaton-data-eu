@@ -1,0 +1,112 @@
+---
+id: EURegulation30191978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3019/78 of 21 December 1978 amending Regulation
+    No 91/66/EEC as regards the typology of reference for the selection of holdings
+    and the number of returning holdings per division
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3019/78 de la Commission, du 21 décembre 1978, modifiant
+    le règlement n° 91/66/CEE en ce qui concerne la typologie de référence pour
+    la sélection des exploitations ainsi que le nombre d' exploitations comptables
+    par circonscription
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3019/78 der Kommission vom 21. Dezember 1978 zur Änderung
+    der Verordnung Nr. 91/66/EWG über das Klassifizierungssystem, das bei der Auswahl
+    der Betriebe zugrunde gelegt wird, und über die Zahl der Buchführungsbetriebe
+    je Gebiet
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3019/78 af 21. december 1978 om ændring
+    af forordning nr. 91/66/EØF for så vidt angår referencetypeinddelingen for
+    udvælgelsen af bedrifter samt antallet af regnskabsførende bedrifter pr. område
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3019/78 τής Επιτροπής
+    τής 21ης Δεκεμβρίου 1978 περί τροποποιήσεως τού
+    κανονισμού αριθ. 91/66/ΕΟΚ όσον αφορά τήν τυπολογία
+    αναφοράς γιά τήν επιλογή τών εκμεταλλεύσεων
+    καθώς καί τόν αριθμό λογιστικών εκμεταλλεύσεων
+    κατά περιφέρεια
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n.3019/78 della Commissione, del 21 dicembre 1978, che
+    modifica il regolamento n. 91/66/CEE per quanto concerne la tipologia di riferimento
+    per la scelta delle aziende ed il numero delle aziende contabili per circoscrizione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3019/78 van de Commissie van 21 december 1978 tot
+    wijziging van Verordening nr. 91/66/EEG ten aanzien van de te gebruiken typologie
+    voor de keuze van de bedrijven en het aantal bedrijven met boekhouding per streek
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R3019
+docidentifier:
+- content: EU Regulation 3019/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R3019
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/3019/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-12-21'
+- type: implemented
+  at: '1978-12-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0091
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0091
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

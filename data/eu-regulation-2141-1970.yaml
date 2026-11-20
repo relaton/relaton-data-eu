@@ -1,0 +1,88 @@
+---
+id: EURegulation21411970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2141/70 of the Council of 20 October 1970 laying down
+    a common structural policy for the fishing industry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2141/70 du Conseil, du 20 octobre 1970, portant établissement
+    d' une politique commune des structures dans le secteur de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2141/70 des Rates vom 20. Oktober 1970 über die Einführung
+    einer gemeinsamen Strukturpolitik für die Fischwirtschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 2141/70/EØF af 20. oktober 1970 om etablering af
+    en fælles strukturpolitik for fiskerisektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2141/70 del Consiglio, del 20 ottobre 1970, relativo
+    all' attuazione di una politica comune delle strutture nel settore della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2141/70 van de Raad van 20 oktober 1970 houdende
+    de totstandbrenging van een gemeenschappelijk structuurbeleid in de visserijsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2141
+docidentifier:
+- content: EU Regulation 2141/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2141
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2141/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-10-20'
+- type: implemented
+  at: '1970-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

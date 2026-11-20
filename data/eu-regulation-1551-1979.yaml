@@ -1,0 +1,97 @@
+---
+id: EURegulation15511979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1551/79 of 24 July 1979 fixing, for the 1979/80
+    marketing year, the list of Community regions which qualify for aid in respect
+    of durum wheat and fixing the amount of such aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1551/79 du Conseil, du 24 juillet 1979, fixant, pour
+    la campagne de commercialisation 1979/1980, la liste des régions de la Communauté
+    qui bénéficient de l' aide pour le froment dur et fixant le montant de cette
+    aide
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1551/79 des Rates vom 24. Juli 1979 zur Festlegung
+    der Liste der Gebiete der Gemeinschaft, in denen eine Beihilfe für Hartweizen
+    gewährt wird, sowie des Betrages dieser Beihilfe für das Wirtschaftsjahr 1979/80
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1551/79 af 24. juli 1979 om fastsættelse
+    af høståret 1979/80 af listen over de områder i Fællesskabet, hvor der ydes
+    støtte til hård hvede og om fastsættelse af støttebeløbet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1551/79 del Consiglio, del 24 luglio 1979, che fissa,
+    per la campagna di commercializzazione 1979/1980, l' elenco delle regioni della
+    Comunità che beneficiano dell' aiuto al frumento duro e che fissa l' importo
+    di tale aiuto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1551/79 van de Raad van 24 juli 1979 tot vaststelling,
+    voor het verkoopseizoen 1979/1980, van de lijst van de gebieden in de Gemeenschap
+    die in aanmerking komen voor steun voor durum tarwe en houdende vaststelling van
+    het bedrag van deze steun
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1551
+docidentifier:
+- content: EU Regulation 1551/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1551
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1551/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-24'
+- type: implemented
+  at: '1979-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1259
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

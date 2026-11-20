@@ -1,0 +1,100 @@
+---
+id: EURegulation25001975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2500/75 of the Commission of 30 September 1975 amending
+    Regulation (EEC) No 1896/73 on detailed rules for the application of intervention
+    measures on the market in beef and veal with regard to wrapping of meat held by
+    intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2500/75 de la Commission, du 30 septembre 1975, modifiant,
+    en ce qui concerne l' emballage des viandes détenues par les organismes d' intervention,
+    le règlement (CEE) n° 1896/73 relatif aux modalités d' application des mesures
+    d' intervention dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2500/75 der Kommission vom 30. September 1975 zur
+    Änderung der Verordnung (EWG) Nr. 1896/73 über die Durchführungsbestimmungen
+    bei Interventionsmaßnahmen auf dem Rindfleischsektor hinsichtlich der Verpackung
+    von Fleisch aus Beständen der Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2500/75 af 30. september 1975 om ændring
+    for så vidt angår indpakning af kød, som interventionsorganerne ligger inde
+    med af forordning (EØF) nr. 1896/73 om de nærmere regler for anvendelse af interventionsforanstaltninger
+    inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2500/75 della Commissione, del 30 settembre 1975,
+    che modifica il regolamento (CEE) n. 1896/73 relativo alle modalità di applicazione
+    delle misure d' intervento nel settore delle carni bovine per quanto concerne
+    l' imballaggio delle carni detenute dagli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2500/75 van de Commissie van 30 september 1975 tot
+    wijziging van Verordening (EEG) nr. 1896/73 betreffende de wijze van toepassing
+    van de interventiemaatregelen in de sector rundvlees, voor wat het verpakken betreft
+    van het vlees in het bezit van de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2500
+docidentifier:
+- content: EU Regulation 2500/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2500
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2500/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-09-30'
+- type: implemented
+  at: '1975-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

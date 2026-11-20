@@ -1,0 +1,78 @@
+---
+id: EURegulation7011971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 701/71 de la Commission, du 31 mars 1971, modifiant
+    les règlements (CEE) n° 1430/70, 1679/70 et 1634/70 et portant prorogation du
+    régime applicable aux vins importés en provenance d'Algérie, du Maroc, de la
+    Tunisie ou de la Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 701/71 der Kommission vom 31. März 1971 zur Änderung
+    der Verordnungen (EWG) Nrn. 1430/70, 1679/70 und 1634/70 und zur Verlängerung
+    der Regelung für aus Algerien, Marokko, Tunesien oder der Türkei eingeführte
+    Weine
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 701/71 della Commissione, del 31 marzo 1971, che modifica
+    i regolamenti (CEE) nn. 1430/70, 1679/70 e 1634/70 e proroga il regime applicabile
+    ai vini importati in provenienza dall'Algeria, dal Marocco, dalla Tunisia o dalla
+    Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 701/71 van de Commissie van 31 maart 1971 houdende
+    wijziging van de Verordeningen (EEG) nrs. 1430/70, 1679/70 en 1634/70, ter verlenging
+    van de regeling welke van toepassing is op uit Algerije, Marokko, Tunesië of
+    Turkije ingevoerde wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0701
+docidentifier:
+- content: EU Regulation 701/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0701
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/701/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-31'
+- type: implemented
+  at: '1971-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

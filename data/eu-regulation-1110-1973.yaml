@@ -1,0 +1,93 @@
+---
+id: EURegulation11101973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1110/73 of the Council of 30 April 1973 amending Regulation
+    (EEC) No 813/73 extending the marketing year 1972/73 for beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1110/73 du Conseil, du 30 avril 1973, modifiant le
+    règlement (CEE) n° 813/73 portant prolongation de la campagne de commercialisation
+    1972/1973 dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1110/73 des Rates vom 30. April 1973 zur Änderung
+    der Verordnung (EWG) Nr. 813/73 zur Verlängerung des Wirtschaftsjahres 1972/
+    1973 für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1110/73 af 30. april 1973 om ændring af
+    forordning (EØF) nr. 813/73 om forlængelse af produktionsåret 1972/1973 inden
+    for oksekødssektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1110/73 del Consiglio, del 30 aprile 1973, che modifica
+    il regolamento (CEE) n. 813/73 che proroga la campagna di commercializzazione
+    1972/1973 nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1110/73 van de Raad van 30 april 1973 houdende wijziging
+    van Verordening (EEG) nr. 813/73 tot verlenging van het verkoopseizoen 1972/1973
+    in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1110
+docidentifier:
+- content: EU Regulation 1110/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1110
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1110/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-04-30'
+- type: implemented
+  at: '1973-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0813
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

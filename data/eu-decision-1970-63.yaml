@@ -1,0 +1,80 @@
+---
+id: EUDecision197063
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 30 décembre 1969, modifiant la décision
+    de la Commission, du 14 novembre 1969, autorisant le Royaume de Belgique à vendre
+    à prix réduit du beurre de stock sous forme de beurre concentré
+  type: main
+- language: de
+  script: Latn
+  content: '70/63/EWG: Entscheidung der Kommission vom 30. Dezember 1969 zur Änderung
+    der Entscheidung der Kommission vom 14. November 1969, durch die das Königreich
+    Belgien ermächtigt wird, Lagerbutter in Form von Butterfett zu herabgesetzten
+    Preisen zu verkaufen'
+  type: main
+- language: it
+  script: Latn
+  content: '70/63/CEE: Decisione della Commissione, del 30 dicembre 1969, che modifica
+    la decisione della Commissione, del 14 novembre 1969, che autorizza il Regno del
+    Belgio a vendere a prezzo ridotto burro d''ammasso sotto forma di burro concentrato'
+  type: main
+- language: nl
+  script: Latn
+  content: '70/63/EEG: Beschikking van de Commissie van 30 december 1969 tot wijziging
+    van de beschikking van de Commissie van 14 november 1969, waarbij het Koninkrijk
+    België wordt gemachtigd om koelhuisboter tegen verlaagde prijs in de vorm van
+    boterconcentraat te verkopen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970D0063
+docidentifier:
+- content: EU Decision 1970/63
+  type: EU
+  primary: true
+- content: CELEX 31970D0063
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1970/63/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969D0438
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

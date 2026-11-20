@@ -1,0 +1,98 @@
+---
+id: EURegulation19981974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1998/74 of the Council of 29 July 1974 amending Regulation
+    (EEC) No 1127/74 fixing, for the 1974/75 marketing year, the monthly price increases
+    for cereals, wheat and rye flour and wheat groats and meal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1998/74 du Conseil, du 29 juillet 1974, modifiant
+    le règlement (CEE) n° 1127/74 fixant, pour la campagne 1974/1975, les majorations
+    mensuelles des prix de S céréales, des farines de froment et de seigle ainsi
+    que des gruaux et semoules de froment
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1998/74 des Rates vom 29. Juli 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1127/74 zur Festsetzung der monatlichen Zuschläge zu
+    den Preisen für Getreide, Mehl von Weizen und Roggen sowie für Grob- und Feingrieß
+    von Weizen für das Wirtschaftsjahr 1974/1975
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1998/74 af 29. juli 1974 om ændring af forordning
+    nr. 1127/74 om fastsættelse for høståret 1974/1975 af de månedlige tillæg
+    til priserne for korn, mel af hvede og rug samt grove og fine gryn af hvede
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1998/74 del Consiglio, del 29 luglio 1974, che modifica
+    il regolamento (CEE) n. 1127/74 che fissa per la campagna 1974/1975 le maggiorazioni
+    mensili dei prezzi dei cereali, delle farine di frumento e di segala nonché delle
+    semole e dei semolini di frumento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1998/74 van de Raad van 29 juli 1974 tot wijziging
+    van Verordening (EEG) nr. 1127/74 houdende vaststelling van de maandelijkse verhogingen
+    van de prijzen voor granen, meel van tarwe of van rogge en gries en griesmeel
+    van tarwe voor het verkoopseizoen 1974/1975
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1998
+docidentifier:
+- content: EU Regulation 1998/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1998
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1998/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-29'
+- type: implemented
+  at: '1974-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1127
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

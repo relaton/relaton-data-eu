@@ -1,0 +1,78 @@
+---
+id: EUDecision1971166
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 30 mars 1971, abrogeant la décision, du
+    24 mars 1970, relative à l'écoulement de beurre à certaines catégories de
+    consommateurs bénéficiant d'une assistance sociale
+  type: main
+- language: de
+  script: Latn
+  content: '71/166/EWG: Entscheidung der Kommission vom 30. März 1971 zur Aufhebung
+    der Entscheidung vom 24. März 1970 über den Absatz von Butter an bestimmte Sozialhilfe
+    beziehende Verbrauchergruppen'
+  type: main
+- language: it
+  script: Latn
+  content: '71/166/CEE: Decisione della Commissione, del 30 marzo 1971, che abroga
+    la decisione del 24 marzo 1970, relativa allo smercio di burro ad alcune categorie
+    di consumatori beneficiari di un''assistenza sociale'
+  type: main
+- language: nl
+  script: Latn
+  content: '71/166/EEG: Beschikking van de Commissie van 30 maart 1971 tot intrekking
+    van de beschikking van 24 maart 1970 betreffende de afzet van boter aan bepaalde
+    groepen consumenten die sociale bijstand genieten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971D0166
+docidentifier:
+- content: EU Decision 1971/166
+  type: EU
+  primary: true
+- content: CELEX 31971D0166
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1971/166/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970D0228
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

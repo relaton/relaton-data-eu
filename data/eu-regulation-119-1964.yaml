@@ -1,0 +1,69 @@
+---
+id: EURegulation1191964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 119/64/CEE du Conseil, du 22 septembre 1964, portant fixation
+    du montant des prélèvements envers les pays tiers pour le porc, la viande de
+    porc et les produits à base de viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 119/64/EWG des Rates vom 22. September 1964 über die Festsetzung
+    der Abschöpfungsbeträge gegenüber dritten Ländern für Schweine, Schweinefleisch
+    und Schweinefleisch enthaltende Erzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 119/64/CEE del Consiglio, del 22 settembre 1964, relativo
+    alla fissazione dell'ammontare dei prelievi nei confronti dei paesi terzi applicabili
+    ai suini, alle carni suine ed ai prodotti a base di carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 119/64/EEG van de Raad van 22 september 1964 houdende vaststelling
+    van de heffingen ten opzichte van derde landen voor varkens, varkensvlees en produkten
+    op basis van varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0119
+docidentifier:
+- content: EU Regulation 119/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0119
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/119/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-09-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

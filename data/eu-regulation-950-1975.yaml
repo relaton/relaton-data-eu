@@ -1,0 +1,83 @@
+---
+id: EURegulation9501975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 950/75 of the Commission of 11 April 1975 derogating
+    in respect of the 1975 marketing year from the common quality standards for strawberries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 950/75 de la Commission, du 11 avril 1975, dérogeant,
+    pour la campagne 1975, aux normes communes de qualité pour les fraises
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 950/75 der Kommission vom 11. April 1975 zur Änderung
+    der gemeinsamen Qualitätsnormen für Erdbeeren für das Wirtschaftsjahr 1975
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 950/75 af 11. april 1975 om afvigelse
+    fra de fælles kvalitetsnormer for jordbær for høståret 1975
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 950/75 della Commissione, dell'11 aprile 1975, che
+    deroga per la campagna 1975 alle norme comuni di qualità per le fragole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 950/75 van de Commissie van 11 april 1975 houdende
+    afwijking van de gemeenschappelijke kwaliteitsnormen voor aardbeien voor het verkoopseizoen
+    1975
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0950
+docidentifier:
+- content: EU Regulation 950/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0950
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/950/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-11'
+- type: implemented
+  at: '1975-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

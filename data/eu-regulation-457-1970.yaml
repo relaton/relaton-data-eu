@@ -1,0 +1,101 @@
+---
+id: EURegulation4571970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 457/70 of the Commission of 11 March 1970 amending
+    Regulations (EEC) 1285/69 and 1286/69 concerning standing invitations to tender
+    for powdered skimmed milk
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 457/70 de la Commission, du 11 mars 1970, modifiant
+    les règlements (CEE) n° 1285/69 et 1286/69 relatifs à des adjudications permanentes
+    de lait écrémé en poudre
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG ( EWG ) NR. 457/70 DER KOMMISSION VOM 11. MAERZ 1970 ZUR AENDERUNG
+    DER VERORDNUNGEN ( EWG ) NR. 1285/69 UND NR. 1286/69 UEBER DAUERAUSSCHREIBUNGEN
+    FUER MAGERMILCHPULVER
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 457/70 της Επιτροπής,
+    της 11ης Μαρτίου 1970, περί τροποποίησης των κανονισμών
+    (ΕΟΚ) αριθ. 1285/69 και 1286/69 σχετικά με τις μόνιμες
+    κατακυρώσεις για πλήρες γάλα σε σκόνη
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO ( CEE ) N. 457/70 DELLA COMMISSIONE, DELL' 11 MARZO 1970, CHE
+    MODIFICA I REGOLAMENTI ( CEE ) NN. 1285/69 E 1286/69 RELATIVI AD ASTE PERMANENTI
+    PER LATTE SCREMATO IN POLVERE
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING ( EEG ) NR. 457/70 VAN DE COMMISSIE VAN 11 MAART 1970 TOT WIJZIGING
+    VAN DE VERORDENINGEN ( EEG ) NR. 1285/69 EN NR. 1286/69 BETREFFENDE PERMANENTE
+    VERKOPEN BIJ INSCHRIJVING VAN MAGERE-MELKPOEDER
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0457
+docidentifier:
+- content: EU Regulation 457/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0457
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/457/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-11'
+- type: implemented
+  at: '1970-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1285
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1286
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

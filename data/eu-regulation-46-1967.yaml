@@ -1,0 +1,70 @@
+---
+id: EURegulation461967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 46/67/CEE de la Commission, du 9 mars 1967, modifiant le règlement
+    n 56/66/CEE en ce qui concerne le calcul du montant maximum des restitutions à
+    l'exportation des fromages du groupe n 7 vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 46/67/EWG der Kommission vom 9. März 1967 zur Änderung
+    der Verordnung Nr. 56/66/EWG hinsichtlich der Errechnung der Höchstbeträge der
+    Erstattung bei der Ausfuhr von Käse der Gruppe Nr. 7 nach dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 46/67/CEE della Commissione, del 9 marzo 1967, che modifica
+    il regolamento n. 56/66/CEE per quanto concerne il calcolo dell'importo massimo
+    delle restituzioni all'esportazione verso i paesi terzi dei formaggi del gruppo
+    n. 7
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 46/67/EEG van de Commissie van 9 maart 1967 tot wijziging
+    van Verordening no. 56/66/EEG wat betreft de berekening van de maximumbedragen
+    der restituties bij de uitvoer van kaas van groep no. 7 naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0046
+docidentifier:
+- content: EU Regulation 46/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0046
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/46/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

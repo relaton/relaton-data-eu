@@ -1,0 +1,85 @@
+---
+id: EURegulation1911966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 191/66/CEE du Conseil, du 24 novembre 1966, prorogeant et
+    modifiant les règlements n° 55/65/CEE et n 56/65/CEE concernant des dispositions
+    particulières relatives à l'écoulement de certains types de fromages
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 191/66/EWG des Rates vom 24. November 1966 zur Verlängerung
+    der Geltungsdauer und zur Änderung der Verordnungen Nr. 55/65/ EWG und Nr. 56/65/EWG,
+    die besondere Bestimmungen über den Absatz bestimmter Käsesorten enthalten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 191/66/CEE del Consiglio, del 24 novembre 1966, relativo
+    alla proroga ed alla modifica dei regolamenti nn. 55/65/CEE e 56/65/CEE che prevedono
+    disposizioni particolari per lo smercio di determinati tipi di formaggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 191/66/EEG van de Raad van 24 november 1966 tot verlenging
+    en wijziging van de Verordeningen Nr. 55/65/EEG en Nr. 56/65/ EEG houdende bijzondere
+    bepalingen voor de afzet van bepaalde kaassoorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0191
+docidentifier:
+- content: EU Regulation 191/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0191
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/191/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-11-24'
+- type: implemented
+  at: '1966-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0055
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0056
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

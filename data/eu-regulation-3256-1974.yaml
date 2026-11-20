@@ -1,0 +1,95 @@
+---
+id: EURegulation32561974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3256/74 of the Council of 19 December 1974 extending
+    and amending Regulation (EEC) No 2829/72 regarding the Community quota for the
+    carriage of goods by road between Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3256/74 du Conseil, du 19 décembre 1974, prorogeant
+    et modifiant le règlement (CEE) n° 2829/72 relatif au contingent communautaire
+    pour les transports de marchandises par route effectués entre les États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3256/74 des Rates vom 19. Dezember 1974 zur Verlängerung
+    der Geltungsdauer und Änderung der Verordnung (EWG) Nr. 2829/72 über das Gemeinschaftskontingent
+    für den Güterkraftverkehr zwischen den Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3256/74 af 19. december 1974 om forlængelse
+    af gyldigheden af og ændring af forordning (EØF) nr. 2829/72 om fællesskabskontingentet
+    for godstransport ad landevej mellem medlemsstaterne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3256/74 del Consiglio, del 19 dicembre 1974, che proroga
+    e modifica il regolamento (CEE) n. 2829/72 relativo al contingente comunitario
+    per i trasporti di merci su strada effettuati tra gli Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3256/74 van de Raad van 19 december 1974 houdende
+    verlenging van de geldigheidsduur en wijziging van Verordening (EEG) nr. 2829/72
+    betreffende het communautaire contingent voor het goederenvervoer over de weg
+    tussen de Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3256
+docidentifier:
+- content: EU Regulation 3256/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3256
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3256/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-19'
+- type: implemented
+  at: '1975-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2829
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

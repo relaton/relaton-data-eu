@@ -1,0 +1,127 @@
+---
+id: EURegulation12061990
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1206/90 of 7 May 1990 laying down general rules
+    for the system of production aid for processed fruit and vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1206/90 du Conseil, du 7 mai 1990, fixant les règles
+    générales du régime d'aide à la production dans le secteur des fruits et légumes
+    transformés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1206/90 des Rates vom 7. Mai 1990 zur Festlegung von
+    Grundregeln zur Produktionsbeihilferegelung für Verarbeitungserzeugnisse aus
+    Obst und Gemüse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1206/90 af 7. maj 1990 om almindelige bestemmelser
+    for producentstøtteordningen i sektoren for forarbejdede frugter og grønsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1206/90 του Συμβουλίου
+    της 7ης Μαΐου 1990 για τον καθορισμό των γενικών
+    κανόνων του καθεστώτος ενίσχυσης στην παραγωγή
+    στον τομέα των μεταποιημένων οπωροκηπευτικών
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 1206/90, annettu 7 päivänä toukokuuta 1990,
+    hedelmä- ja vihannesjalostealan tuotantotukijärjestelmän yleisistä säännöistä
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1206/90 del Consiglio, del 7 maggio 1990, che stabilisce
+    le regole generali del regime di aiuto alla produzione nel settore degli ortofrutticoli
+    trasformati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1206/90 van de Raad van 7 mei 1990 houdende vaststelling
+    van de algemene voorschriften van de produktiesteunregeling in de sector verwerkte
+    groenten en fruit
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 1206/90 do Conselho, de 7 de Maio de 1990, que estabelece
+    as regras gerais do regime de ajuda à produção no sector das frutas e produtos
+    hortícolas transformados
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) nº 1206/90 del Consejo, de 7 de mayo de 1990, por el
+    que se fijan las normas generales del régimen de ayuda a la producción en el
+    sector de las frutas y hortalizas transformadas
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 1206/90 av den 7 maj 1990 om allmänna bestämmelser
+    för ordningen med produktionsstöd för bearbetade produkter av frukt och grönsaker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31990R1206
+docidentifier:
+- content: EU Regulation 1206/1990
+  type: EU
+  primary: true
+- content: CELEX 31990R1206
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1990/1206/oj
+  type: ELI
+date:
+- type: issued
+  at: '1990-05-07'
+- type: implemented
+  at: '1990-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31984R1277
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

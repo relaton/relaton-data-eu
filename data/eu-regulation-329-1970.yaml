@@ -1,0 +1,89 @@
+---
+id: EURegulation3291970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 329/70 de la Commission, du 23 février 1970, modifiant
+    les règlements (CEE) n° 2309/69 et (CEE) n° 911/68 en ce qui concerne le document
+    accompagnant les olives, les résidus contenant de l'huile et les graines oléagineuses
+    dans les échanges intracommunautaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 329/70 der Kommission vom 23. Februar 1970 zur Änderung
+    der Verordnungen (EWG) Nr. 2309/69 und (EWG) Nr. 911/68 in bezug auf die Begleitpapiere
+    von Oliven, ölenthaltenden Rückständen und Ölsaaten im innergemeinschaftlichen
+    Warenverkehr
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 329/70 della Commissione, del 23 febbraio 1970, che
+    modifica i regolamenti (CEE) n. 2309/69 e (CEE) n. 911/68 per quanto concerne
+    il documento che accompagna le olive, i residui contenenti olio e i semi oleosi
+    negli scambi intracomunitari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 329/70 van de Commissie van 23 februari 1970 tot
+    wijziging van de Verordeningen (EEG) nr. 2309/69 en (EEG) nr. 911/68 ten aanzien
+    van het document dat in het intracommunautaire handelsverkeer olijven, oliehoudende
+    afvallen en oliehoudende zaden begeleidt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0329
+docidentifier:
+- content: EU Regulation 329/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0329
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/329/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-23'
+- type: implemented
+  at: '1970-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0911
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2309
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

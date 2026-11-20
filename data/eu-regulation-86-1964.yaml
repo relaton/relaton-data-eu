@@ -1,0 +1,76 @@
+---
+id: EURegulation861964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 86/64/CEE de la Commission, du 15 juillet 1964, modifiant
+    les normes communes de qualité pour les agrumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 86/64/EWG der Kommission vom 15. Juli 1964 zur Änderung
+    der gemeinsamen Qualitätsnormen für Zitrusfrüchte
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 86/64/CEE della Commissione, del 15 luglio 1964, che modifica
+    le norme comuni di qualità per gli agrumi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 86/64/EEG van de Commissie van 15 juli 1964 houdende wijziging
+    van de gemeenschappelijke kwaliteitsnormen voor citrusvruchten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0086
+docidentifier:
+- content: EU Regulation 86/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0086
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/86/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-15'
+- type: implemented
+  at: '1964-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0064
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

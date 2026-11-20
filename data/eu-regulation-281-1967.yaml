@@ -1,0 +1,74 @@
+---
+id: EURegulation2811967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 281/67/CEE du Conseil, du 11 juillet 1967, fixant les montants
+    maxima de la restitution à la production pour les sucres utilisés dans l'industrie
+    chimique
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 281/67/EWG des Rates vom 11. Juli 1967 zur Festsetzung der
+    Höchstbeträge der Erstattung bei der Erzeugung für Zucker, der in der chemischen
+    Industrie verwendet wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 281/67/CEE del Consiglio, dell'11 luglio 1967, che fissa
+    gli importi massimi della restituzione alla produzione per gli zuccheri utilizzati
+    nell'industria chimica
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 281/67/EEG van de Raad van 11 juli 1967 tot vaststelling
+    van de maximumbedragen van de restitutie bij de produktie voor in de chemische
+    industrie gebruikte suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0281
+docidentifier:
+- content: EU Regulation 281/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0281
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/281/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-11'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

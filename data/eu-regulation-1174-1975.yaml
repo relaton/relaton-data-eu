@@ -1,0 +1,104 @@
+---
+id: EURegulation11741975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1174/75 of the Council of 28 April 1975 amending Regulation
+    (EEC) No 2305/70 on the financing of intervention expenditure in respect of the
+    domestic market in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1174/75 du Conseil, du 28 avril 1975, modifiant le
+    règlement (CEE) n° 2305/70 relatif au financement des dépenses d' intervention
+    sur le marché intérieur dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1174/75 des Rates vom 28. April 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2305/70 über die Finanzierung von Interventionsausgaben
+    auf dem Binnenmarkt für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1174/75 af 28. april 1975 om ændring af
+    forordning (EØF) nr. 2305/70 om finansiering af interventionsudgifter på det
+    interne marked for oksekød
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1174/75 τού Συμβουλίου
+    τής 28ης Απριλίου 1975 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 2305/70 περί χρηματοδοτήσεως
+    τών δαπανών παρεμβάσεως στήν εσωτερική αγορά
+    στόν τομέα τού βοείου κρέατος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1174/75 del Consiglio, del 28 aprile 1975, che modifica
+    il regolamento (CEE) n. 2305/70 relativo al finanziamento delle spese d' intervento
+    sul mercato interno nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1174/75 van de Raad van 28 april 1975 tot wijziging
+    van Verordening (EEG) nr. 2305/70 betreffende de financiering van de interventies
+    op de interne markt in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1174
+docidentifier:
+- content: EU Regulation 1174/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1174
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1174/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-28'
+- type: implemented
+  at: '1975-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2305
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

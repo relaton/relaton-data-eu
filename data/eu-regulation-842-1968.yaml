@@ -1,0 +1,80 @@
+---
+id: EURegulation8421968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 842/68 du Conseil, du 28, modifiant le règlement
+    n° 876/67/CEE instituant une aide supplémentaire pour les graines de colza et
+    de navette transformées en Italie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 842/68 des Rates vom 28. Juni 1968 zur Änderung der
+    Verordnung Nr. 876/67/EWG zur Einführung einer zusätzlichen Beihilfe für in
+    Italien verarbeitete Raps- und Rübsensamen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 842/68 del Consiglio, del 28 giugno 1968, relativo
+    alla modifica del regolamento n. 876/67/CEE che istituisce una integrazione supplementare
+    per i semi di colza e di ravizzone trasformati in Italia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 842/68 van de Raad van 28 juni 1968 houdende wijziging
+    van Verordening nr. 876/67/EEG tot instelling van een extra steun voor in Italië
+    verwerkt koolzaad en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0842
+docidentifier:
+- content: EU Regulation 842/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0842
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/842/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-28'
+- type: implemented
+  at: '1968-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0876
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

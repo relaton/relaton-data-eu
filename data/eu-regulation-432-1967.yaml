@@ -1,0 +1,69 @@
+---
+id: EURegulation4321967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 432/67/CEE de la Commission, du 9 août 1967, portant modification
+    du règlement n 350/67/CEE, délimitant les zones de destination pour l'application
+    des restitutions à l'exportation dans le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 432/67/EWG der Kommission vom 9. August 1967 zur Änderung
+    der Verordnung Nr. 350/67/EWG zur Begrenzung der Bestimmungszonen für die Anwendung
+    der Ausfuhrerstattungen für Getreide
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 432/67/CEE della Commissione, del 9 agosto 1967, che modifica
+    il regolamento n. 350/67/CEE che delimita alcune zone di destinazione per l'applicazione
+    delle restituzioni all'esportazione nel settore dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 432/67/EEG van de Commissie van 9 augustus 1967 houdende
+    wijziging van Verordening no. 350/67/EEG ter afbakening van de zones van bestemming
+    voor de toepassing van de restituties bij uitvoer in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0432
+docidentifier:
+- content: EU Regulation 432/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0432
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/432/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,137 @@
+---
+id: EURegulation6101990
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (Euratom, ECSC, EEC) No 610/90 of 13 March 1990 amending
+    the Financial Regulation of 21 December 1977 applicable to the general budget
+    of the European Communities
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom, CECA, CEE) n° 610/90 du Conseil du 13 mars 1990 modifiant
+    le règlement financier du 21 décembre 1977 applicable au budget général des
+    Communautés européennes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom, EGKS, EWG) Nr. 610/90 des Rates vom 13. März 1990
+    zur Änderung der Haushaltsordnung vom 21. Dezember 1977 für den Gesamthaushaltsplan
+    der Europäischen Gemeinschaften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (Euratom, EKSF, EØF), nr. 610/90 af 13. marts 1990
+    om ændring af finansforordningen af 21. december 1977 vedrørende De Europæiske
+    Fællesskabers almindelige budget
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (Ευρατόμ, ΕΚΑΧ,ΕΟΚ) αριθ. 610/90
+    του Συμβουλίου της 13ης Μαρτίου 1990 για την τροποποίηση
+    του δημοσιονομικού κανονισμού της 21ης Δεκεμβρίου
+    1977 που εφαρμόζεται στο γενικό προϋπολογισμό
+    των Ευρωπαϊκών Κοινοτήτων
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (Euratom, EHTY, ETY) N:o 610/90, annettu 13 päivänä
+    maaliskuuta 1990, Euroopan yhteisöjen yleiseen talousarvioon sovellettavan 21
+    päivänä joulukuuta 1977 annetun varainhoitoasetuksen muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom, CECA, CEE) n. 610/90 del Consiglio del 13 marzo 1990
+    che modifica il regolamento finanziario del 21 dicembre 1977 applicabile al bilancio
+    generale delle Comunità europee
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom, EGKS, EEG) nr. 610/90 van de Raad van 13 maart 1990
+    tot wijziging van het Financieel Reglement van 21 december 1977 van toepassing
+    op de algemene begroting der Europese Gemeenschappen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (Euratom, CECA, CEE) nº 610/90 do Conselho de 13 de Março
+    de 1990 que altera o Regulamento Financeiro de 21 de Dezembro de 1977 aplicável
+    ao orçamento geral das Comunidades Europeias
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (Euratom, CECA, CEE) n° 610/90 del Consejo de 13 de marzo de
+    1990 por el que se modifica el Reglamento financiero, de 21 de diciembre de 1977,
+    aplicable al presupuesto general de las Comunidades Europeas
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (Euratom, EKSG, EEG) nr 610/90 av den 13 mars 1990
+    om ändring av budgetförordningen av den 21 december 1977 för Europeiska gemenskapernas
+    allmänna budget
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31990R0610
+docidentifier:
+- content: EU Regulation 610/1990
+  type: EU
+  primary: true
+- content: CELEX 31990R0610
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1990/610/oj
+  type: ELI
+date:
+- type: issued
+  at: '1990-03-13'
+- type: implemented
+  at: '1990-03-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977Q1231
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977Q1231
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

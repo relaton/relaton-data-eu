@@ -1,0 +1,99 @@
+---
+id: EURegulation18471974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1847/74 of the Council of 15 July 1974 on certain measures
+    to be taken in agriculture in respect of Italy, following the fixing of a new
+    representative rate for the Italian lira
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1847/74 du Conseil, du 15 juillet 1974, relatif à
+    certaines mesures à prendre pour l' Italie dans le secteur agricole à la suite
+    de la fixation d' un nouveau taux représentatif pour la lire italienne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1847/74 des Rates vom 15. Juli 1974 über einige für
+    Italien auf dem Agrarsektor zu treffende Maßnahmen im Anschluß an die Festsetzung
+    eines neuen repräsentativen Kurses für die italienische Lira
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1847/74 af 15. juli 1974 om visse foranstaltninger,
+    der skal træffes inden for landbrugssektoren som følge af fastsættelsen af
+    en ny repræsentativ kurs for den italienske lire
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1847/74 del Consiglio, del 15 luglio 1974, relativo
+    a talune misure da adottare per l' Italia nel settore agricolo in seguito alla
+    fissazione di un nuovo tasso rappresentativo per la lira italiana
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1847/74 van de Raad van 15 juli 1974 betreffende
+    bepaalde voor Italië in de landbouwsector te nemen maatregelen naar aanleiding
+    van de vaststelling van een nieuwe representatieve koers voor de Italiaanse lire
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1847
+docidentifier:
+- content: EU Regulation 1847/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1847
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1847/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-15'
+- type: implemented
+  at: '1974-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1424
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1685
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

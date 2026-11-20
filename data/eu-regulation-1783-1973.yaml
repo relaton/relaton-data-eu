@@ -1,0 +1,88 @@
+---
+id: EURegulation17831973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1783/73 of the Commission of 2 July 1973 re-establishing
+    the normal period of validity of import licences for rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1783/73 de la Commission, du 2 juillet 1973, rétablissant
+    la durée normale de validité des certificats d' importation pour le riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1783/73 der Kommission vom 2. Juli 1973 zur Wiedereinführung
+    der normalen Geltungsdauer der Einfuhrlizenzen für Reis
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1783/73 af 2. juli 1973 med hensyn
+    til genoprettelsen af den normale gyldighedsperiode for importlicenser for ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1783/73 della Commissione, del 2 luglio 1973, che
+    ristabilisce la durata normale di validità dei titoli d' importazione del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1783/73 van de Commissie van 2 juli 1973 houdende
+    wederinvoering van de normale geldigheidsduur van de invoercertificaten voor rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R1783
+docidentifier:
+- content: EU Regulation 1783/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R1783
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/1783/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-07-02'
+- type: implemented
+  at: '1973-07-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2196
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

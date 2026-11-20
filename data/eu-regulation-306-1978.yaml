@@ -1,0 +1,94 @@
+---
+id: EURegulation3061978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 306/78 of 15 February 1978 amending Regulation
+    (EEC) No 2834/77 as regards the determination of certain French wine-growing areas
+    affected by natural disasters
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 306/78 de la Commission, du 15 février 1978, modifiant
+    le règlement (CEE) n° 2834/77 en ce qui concerne la délimitation de certaines
+    régions viticoles sinistrées françaises
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 306/78 der Kommission vom 15. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2834/77 hinsichtlich der Abgrenzung bestimmter wettergeschädigter
+    französischer Weinbaugebiete
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 306/78 af 15. februar 1978 om ændring
+    af forordning (EØF) nr. 2834/77 for så vidt angår afgrænsningen af visse katastroferamte
+    vindyrkningsområder i Frankrig
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 306/78 della Commissione, del 15 febbraio 1978, che
+    modifica il regolamento (CEE) n. 2834/77 per quanto riguarda la delimitazione
+    di talune regioni viticole sinistrate francesi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 306/78 van de Commissie van 15 februari 1978 houdende
+    wijziging van Verordening (EEG) nr. 2834/77 met betrekking tot de afbakening van
+    sommige door het slechte weer getroffen Franse wijnbouwgebieden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0306
+docidentifier:
+- content: EU Regulation 306/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0306
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/306/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-15'
+- type: implemented
+  at: '1978-02-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2834
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

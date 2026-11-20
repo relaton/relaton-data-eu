@@ -1,0 +1,75 @@
+---
+id: EURegulation10201967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 1020/67/CEE du Conseil, du 19 décembre 1967, complétant
+    le règlement n° 13/64/CEE en ce qui concerne la restitution à accorder aux
+    produits laitiers contenus dans la lactoalbumine exportée vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 1020/67/EWG des Rates vom 19. Dezember 1967 zur Ergänzung
+    der Verordnung Nr. 13/64/EWG in bezug auf die Erstattung für Milcherzeugnisse,
+    die in Milchalbumin enthalten sind, das nach dritten Ländern ausgeführt wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 1020/67/CEE del Consiglio, del 19 dicembre 1967, che completa
+    il regolamento n. 13/64/CEE per quanto concerne la restituzione da concedere ai
+    prodotti lattiero-caseari contenuti nella lattoalbumina esportata verso i paesi
+    terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 1020/67/EEG van de Raad van 19 december 1967 houdende aanvulling
+    van Verordening Nr. 13/64/EEG voor wat betreft de restitutie voor zuivelprodukten,
+    verwerkt in naar derde landen uitgevoerde lactoalbumine
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R1020
+docidentifier:
+- content: EU Regulation 1020/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R1020
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/1020/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-19'
+- type: implemented
+  at: '1967-12-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

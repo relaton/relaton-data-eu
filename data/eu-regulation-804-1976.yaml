@@ -1,0 +1,97 @@
+---
+id: EURegulation8041976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 804/76 of 7 April 1976 amending Regulation
+    (EEC) No 990/72 as regards certain detailed rules for the denaturing of skimmed-milk
+    powder and the conditions governing its incorporation into compound feedingstuffs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 804/76 de la Commission, du 7 avril 1976, modifiant
+    le règlement (CEE) n° 990/72 en ce qui concerne certaines modalités de dénaturation
+    du lait écrémé en poudre et les conditions d' incorporation dans les aliments
+    composés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 804/76 der Kommission vom 7. April 1976 zur Änderung
+    der Verordnung (EWG) Nr. 990/72 hinsichtlich der Denaturierung des Magermilchpulvers
+    und seiner Beimischung in Mischfutter
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 804/76 af 7. april 1976 om ændring
+    af forordning (EØF) nr. 990/72 for så vidt angår visse bestemmelser om denaturering
+    af skummetmælkspulver samt betingelserne for tilsætning til foderblandinger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 804/76 della Commissione, del 7 aprile 1976, che modifica
+    il regolamento (CEE) n. 990/72 per quanto concerne talune modalità di denaturazione
+    del latte scremato in polvere e le condizioni d' incorporazione negli alimenti
+    composti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 804/76 van de Commissie van 7 april 1976 houdende
+    wijziging van Verordening (EEG) nr. 990/72 met betrekking tot bepaalde maatregelen
+    voor de denaturering van magere-melkpoeder en de voorwaarden tot bijmenging in
+    mengvoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0804
+docidentifier:
+- content: EU Regulation 804/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0804
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/804/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-04-07'
+- type: implemented
+  at: '1976-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0990
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

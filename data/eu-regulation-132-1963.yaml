@@ -1,0 +1,66 @@
+---
+id: EURegulation1321963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 132/63/CEE de la Commission, du 19 décembre 1963, modifiant
+    le règlement n 89 de la Commission relatif à la fixation des prix franco frontière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 132/63/EWG der Kommission vom 19. Dezember 1963 zur Änderung
+    der Verordnung Nr. 89 der Kommission in bezug auf die Festsetzung von Frei-Grenze-Preisen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 132/63/CEE della Commissione del 19 dicembre 1963 che modifica
+    il regolamento n. 89 della Commissione per quanto riguarda la determinazione dei
+    prezzi franco frontiera
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 132/63/EEG van de Commissie van 19 december 1963 tot wijziging
+    van Verordening no. 89 van de Commissie betreffende de vaststelling van de franco-grensprijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0132
+docidentifier:
+- content: EU Regulation 132/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0132
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/132/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

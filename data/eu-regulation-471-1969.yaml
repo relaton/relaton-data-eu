@@ -1,0 +1,65 @@
+---
+id: EURegulation4711969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 471/69 de la Commission, du 13 mars 1969, fixant le
+    correctif applicable à la restitution pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 471/69 der Kommission vom 13. März 1969 zur Festsetzung
+    der bei der Erstattung für Reis und Bruchreis anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 471/69 della Commissione, del 13 marzo 1969, che fissa
+    il correttivo applicabile alla restituzione per il riso e le rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 471/69 van de Commissie van 13 maart 1969 tot vaststelling
+    van de bij uitvoer van rijst en breukrijst op de restitutie toe te passen correctiefactor
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0471
+docidentifier:
+- content: EU Regulation 471/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0471
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/471/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

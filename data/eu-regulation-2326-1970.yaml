@@ -1,0 +1,74 @@
+---
+id: EURegulation23261970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2326/70 de la Commission, du 18 novembre 1970, concernant
+    une adjudication pour la vente de sucre blanc détenu par l'organisme d'intervention
+    allemand
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2326/70 der Kommission vom 18. November 1970 über
+    eine Ausschreibung zum Verkauf von Weißzucker, der sich im Besitz der deutschen
+    Interventionsstelle befindet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2326/70 della Commissione, del 18 novembre 1970, relativo
+    ad una gara per la vendita di zucchero bianco detenuto dall'organismo d'intervento
+    tedesco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2326/70 van de Commissie van 18 november 1970 betreffende
+    een openbare inschrijving voor de verkoop van witte suiker welke in het bezit
+    is van het Duitse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2326
+docidentifier:
+- content: EU Regulation 2326/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2326
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2326/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-18'
+- type: implemented
+  at: '1970-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

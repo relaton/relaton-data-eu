@@ -1,0 +1,84 @@
+---
+id: EUDecision1966468
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/468/CEE de la Commission, du 29 juillet 1966, portant nouvelle
+    modification de sa décision du 21 décembre 1964 autorisant la perception de
+    taxes compensatoires sur les importations, en République fédérale d'Allemagne,
+    de caramels mous, de caramels durs, de dragées ainsi que de pâte à fondant
+    en provenance des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/468/EWG: Entscheidung der Kommission vom 29. Juli 1966 zur erneuten
+    Änderung ihrer Entscheidung vom 21. Dezember 1964 über die Erhebung von Ausgleichsabgaben
+    auf Einfuhren von Weichkaramellen, Hartkaramellen, Dragées und Fondantmasse aus
+    den anderen Mitgliedstaaten in die Bundesrepublik Deutschland'
+  type: main
+- language: it
+  script: Latn
+  content: '66/468/CEE: Decisione della Commissione del 29 luglio 1966 che modifica
+    nuovamente la decisione del 21 dicembre 1964 che autorizza la riscossione di una
+    tassa di compensazione sulle importazioni, nella Repubblica federale di Germania,
+    di caramelle tenere, di caramelle dure, di confetti e di pasta per fondente in
+    provenienza dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/468/EEG: Beschikking van de Commissie van 29 juli 1966 tot nieuwe wijziging
+    van haar beschikking van 21 december 1964 houdende machtiging tot het leggen van
+    compenserende heffingen op de invoer in de Bondsrepubliek Duitsland van zachte
+    karamels, harde karamels, dragees en fondant uit de overige Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0468
+docidentifier:
+- content: EU Decision 1966/468
+  type: EU
+  primary: true
+- content: CELEX 31966D0468
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/468/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965D0012
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

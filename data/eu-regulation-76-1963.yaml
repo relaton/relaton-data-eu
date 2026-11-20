@@ -1,0 +1,83 @@
+---
+id: EURegulation761963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 76/63/CEE du Conseil, du 18 juillet 1963, portant fixation
+    dans le cas prévu à l'article 3 paragraphe 2 du règlement n° 22 du Conseil,
+    du montant des prélèvements intracommunautaires applicables aux poules, poulets
+    et dindes abattus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 76/63/EWG des Rats vom 18. Juli 1963 über die Festsetzung
+    der innergemeinschaftlichen Abschöpfungsbeträge für geschlachtete Hühner und
+    Puten in dem Fall des Artikels 3 Absatz (2) der Verordnung Nr. 22 des Rats
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 76/63/CEE del Consiglio, del 18 luglio 1963, relativo alla
+    determinazione nel caso previsto dall'articolo 3, paragrafo 2, del regolamento
+    n. 22 del Consiglio dei prelievi intracomunitari applicabili alle galline, ai
+    polli ed ai tacchini macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 76/63/EEG van de Raad van 18 juli 1963 houdende vaststelling
+    van het bedrag van de intracommunautaire heffingen voor geslachte kippen, kuikens
+    en kalkoenen in het gevat, voorzien in artikel 3, lid 2, Verordening Nr. 22 van
+    de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0076
+docidentifier:
+- content: EU Regulation 76/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0076
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/76/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-07-18'
+- type: implemented
+  at: '1963-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0044
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

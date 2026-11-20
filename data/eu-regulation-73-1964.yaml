@@ -1,0 +1,69 @@
+---
+id: EURegulation731964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 73/64/CEE de la Commission, du 23 juin 1964, relatif aux prix
+    C.A.F., aux prix franco frontière et aux modifications des prélèvements pour
+    le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 73/64/EWG der Kommission vom 23. Juni 1964 über die Bestimmung
+    der cif-Preise und der Frei-Grenze-Preise für Reis und Bruchreis sowie über
+    die Änderung der auf Reis und Bruchreis zu erhebenden Abschöpfungsbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 73/64/CEE della Commissione, del 23 giugno 1964, relativo
+    ai prezzi cif, ai prezzi franco frontiera ed alle modifiche dei prelievi per il
+    riso e le rotture di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 73/64/EEG van de Commissie van 23 juni 1964 betreffende
+    de c.i.f.-prijzen, de prijzen franco-grens en de wijzigingen van de heffingen
+    op rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0073
+docidentifier:
+- content: EU Regulation 73/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0073
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/73/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

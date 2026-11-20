@@ -1,0 +1,93 @@
+---
+id: EURegulation15551974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1555/74 of the Council of 17 June 1974 supplementing
+    Regulation (EEC) No 2142/70 as regards the import arrangements for carp and trout
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1555/74 du Conseil, du 17 juin 1974, complétant le
+    règlement (CEE) n° 2142/70 en ce qui concerne le régime à l'importation des
+    carpes et des truites
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1555/74 des Rates vom 17. Juni 1974 zur Ergänzung
+    der Verordnung (EWG) Nr. 2142/70 bezüglich der Einfuhrregelung für Karpfen und
+    Forellen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1555/74 af 17. juni 1974 om supplering af
+    forordning (EØF) nr. 2142/70, for så vidt angår ordningen for indførsel af
+    karper og ørreder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1555/74 del Consiglio, del 17 giugno 1974, che completa
+    il regolamento (CEE) n. 2142/70 per quanto concerne il regime all'importazione
+    per le carpe e le trote
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1555/74 van de Raad van 17 juni 1974 tot aanvulling
+    van Verordening (EEG) nr. 2142/70 ten aanzien van de invoerregeling voor karpers
+    en forellen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1555
+docidentifier:
+- content: EU Regulation 1555/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1555
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1555/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-17'
+- type: implemented
+  at: '1974-06-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2142
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

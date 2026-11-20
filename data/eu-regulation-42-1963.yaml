@@ -1,0 +1,69 @@
+---
+id: EURegulation421963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 42/63/CEE de la Commission, du 24 mai 1963, rectifiant le
+    règlement n 68 de la Commission fixant les critères en vue de la détermination
+    des prix C.A.F. pour les céréales, farines, gruaux et semoules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 42/63/EWG der Kommission vom 24. Mai 1963 zur Berichtigung
+    der Verordnung Nr. 68 der Kommission über die Kriterien für die Bestimmung der
+    cif-Preise für Getreide, Mehl, Grob- und Feingrieß
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 42/63/CEE della Commissione del 24 maggio 1963 che rettifica
+    il regolamento n. 68 della Commissione relativo ai criteri per la determinazione
+    dei prezzi cif per i cereali, le farine, le semole e i semolini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 42/63/EEG van de Commissie van 24 mei 1963 houdende verbetering
+    van Verordening no. 68 van de Commissie tot vaststelling van de criteria voor
+    de bepaling der c.i.f.-prijzen voor granen, meel, grutten, gries en griesmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0042
+docidentifier:
+- content: EU Regulation 42/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0042
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/42/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-05-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

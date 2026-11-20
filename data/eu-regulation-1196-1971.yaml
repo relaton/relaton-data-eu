@@ -1,0 +1,78 @@
+---
+id: EURegulation11961971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1196/71 de la Commission, du 8 juin 1971, relatif
+    aux conditions d'octroi des indemnités compensatrices pour le froment tendre,
+    le seigle de qualité panifiable et le maïs en stock à la fin de la campagne
+    1970/1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1196/71 der Kommission vom 8. Juni 1971 über die
+    Bedingungen zur Gewährung einer Übergangsvergütung für die am Ende des Wirtschaftsjahres
+    1970/1971 vorhandenen Bestände an Weichweizen, zur Brotherstellung geeignetem
+    Roggen und Mais
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1196/71 della Commissione, dell'8 giugno 1971, relativo
+    alle modalità di concessione delle indennità di compensazione per il frumento
+    tenero, la segala da panificazione e il granturco che si trovano in giacenza alla
+    fine della campagna 1970/1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1196/71 van de Commissie van 8 juni 1971 betreffende
+    de voorwaarden voor het toekennen van compenserende vergoedingen voor zachte tarwe,
+    rogge die geschikt is voor de broodbakkerij en maïs, die zich aan het einde van
+    het verkoopseizoen 1970/1971 in opslag bevinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1196
+docidentifier:
+- content: EU Regulation 1196/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1196
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1196/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-06-08'
+- type: implemented
+  at: '1971-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

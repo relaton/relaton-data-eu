@@ -1,0 +1,72 @@
+---
+id: EUDecision1966633
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/633/CEE du Conseil du 27 octobre 1966, portant suspension
+    temporaire des droits du Tarif douanier commun applicables aux segments de pamplemousses
+  type: main
+- language: de
+  script: Latn
+  content: '66/633/EWG: Entscheidung des Rates vom 27. Oktober 1966 über die zeitweilige
+    Aussetzung der Sätze des Gemeinsamen Zolltarifs für Segmente von Pampelmusen'
+  type: main
+- language: it
+  script: Latn
+  content: '66/633/CEE: Decisione del Consiglio, del 27 ottobre 1966, relativa alla
+    sospensione temporanea dei dazi della tariffa doganale comune applicabili ai segmenti
+    di pompelmo'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/633/EEG: Beschikking van de Raad van 27 oktober 1966 houdende tijdelijke
+    schorsing van de rechten van het gemeenschappelijk douanetarief op partjes van
+    pompelmoezen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0633
+docidentifier:
+- content: EU Decision 1966/633
+  type: EU
+  primary: true
+- content: CELEX 31966D0633
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/633/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-27'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

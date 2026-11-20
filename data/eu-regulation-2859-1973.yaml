@@ -1,0 +1,94 @@
+---
+id: EURegulation28591973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2859/73 of the Commission of 19 October 1973 amending
+    Regulation (EEC) No 1897/73, fixing the denaturing premium for common wheat for
+    the 1973/74 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2859/73 de la Commission, du 19 octobre 1973, modifiant
+    le règlement (CEE) n° 1897/73 portant fixation de la prime de dénaturation
+    du froment tendre pour la campagne 1973/1974
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2859/73 der Kommission vom 19. Oktober 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1897/73 bezüglich der Festsetzung der Denaturierungsprämie
+    für Weichweizen für das Wirtschaftsjahr 1973/1974
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2859/73 af 19. oktober 1973 om ændring
+    af forordning (EØF) nr. 1897/73 om fastsættelse af denatureringspræmien for
+    blød hvede for høståret 1973/1974
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2859/73 della Commissione, del 19 ottobre 1973, che
+    modifica il regolamento (CEE) n. 1897/73, che fissa il premio di denaturazione
+    del frumento tenero per la campagna 1973/1974
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2859/73 van de Commissie van 19 oktober 1973 houdende
+    wijziging van Verordening (EEG) nr. 1897/73 houdende vaststelling van de denatureringspremie
+    voor zachte tarwe voor het verkoopseizoen 1973/1974
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2859
+docidentifier:
+- content: EU Regulation 2859/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2859
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2859/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-19'
+- type: implemented
+  at: '1973-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1897
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

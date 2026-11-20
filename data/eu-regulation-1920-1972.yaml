@@ -1,0 +1,65 @@
+---
+id: EURegulation19201972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1920/72 de la Commission, du 6 septembre 1972, fixant
+    le montant de l'aide dans le secteur des graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1920/72 der Kommission vom 6. September 1972 zur Festsetzung
+    des Betrages der Beihilfe für Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1920/72 della Commissione, del 6 settembre 1972, che
+    fissa l'importo dell'integrazione nel settore dei semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1920/72 van de Commissie van 6 september 1972 houdende
+    vaststelling van het bedrag van de steun in de sector oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1920
+docidentifier:
+- content: EU Regulation 1920/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1920
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1920/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

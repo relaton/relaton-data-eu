@@ -1,0 +1,73 @@
+---
+id: EURegulation15011972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1501/72 de la Commission, du 13 juillet 1972, déterminant
+    les montants des éléments mobiles rectifiés applicables, à compter du 15 juillet
+    1972, à l'importation dans la Communauté de certaines marchandises relevant
+    du règlement (CEE) n 1059/69 du Conseil fabriquées à partir de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1501/72 der Kommission vom 13. Juli 1972 zur Festsetzung
+    der Höhe der berichtigten beweglichen Teilbeträge, die ab 15. Juli 1972 bei
+    der Einfuhr der unter die Verordnung (EWG) Nr. 1059/69 des Rates fallenden, aus
+    Reis hergestellten Waren gelten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1501/72 della Commissione, del 13 luglio 1972, che
+    determina gli importi degli elementi mobili rettificati applicabili dal 15 luglio
+    1972 all'importazione nella Comunità di talune merci fabbricate con riso alle
+    quali si applica il regolamento (CEE) n. 1059/69 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1501/72 van de Commissie van 13 juli 1972 tot vaststelling
+    van de verbeterde variabele elementen welke met ingang van 15 juli 1972 bij invoer
+    in de Gemeenschap van toepassing zijn op bepaalde onder Verordening (EEG) nr.
+    1059/69 van de Raad vallende goederen vervaardigd op basis van rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1501
+docidentifier:
+- content: EU Regulation 1501/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1501
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1501/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

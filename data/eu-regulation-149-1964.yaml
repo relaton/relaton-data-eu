@@ -1,0 +1,66 @@
+---
+id: EURegulation1491964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 149/64/CEE de la Commission, du 27 octobre 1964, relatif
+    au calcul des prélèvements et restitutions applicables à certains produits
+    laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 149/64/EWG der Kommission vom 27. Oktober 1964 über die
+    Berechnung der Abschöpfungsbeträge und Erstattungen für bestimmte Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 149/64/CEE della Commissione, del 27 ottobre 1964, relativo
+    al calcolo dei prelievi e delle restituzioni per alcuni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 149/64/EEG van de Commissie van 27 oktober 1964 betreffende
+    de berekening van heffingen en restituties geldende voor bepaalde zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0149
+docidentifier:
+- content: EU Regulation 149/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0149
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/149/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

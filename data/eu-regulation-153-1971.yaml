@@ -1,0 +1,95 @@
+---
+id: EURegulation1531971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation No 153/71/EEC of 26 January 1971 amending Regulation
+    No 70/66/EEC concerning the organisation of the basic survey in Italy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 153/71 du Conseil, du 26 janvier 1971, modifiant le
+    règlement n° 70/66/CEE en ce qui concerne l'exécution de l'enquête de base
+    en Italie
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG ( EWG ) NR. 153/71 DES RATES VOM 26. JANUAR 1971 ZUR AENDERUNG
+    DER VERORDNUNG NR. 70/66/EWG HINSICHTLICH DER DURCHFUEHRUNG DER GRUNDERHEBUNG
+    IN ITALIEN
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 153/71 του Συμβουλίου,
+    της 26ης Ιανουαρίου 1971, περί τροποποίησης του
+    κανονισμού αριθ. 70/66/ΕΟΚ όσον αφορά την πραγματοποίηση
+    βασικής έρευνας στην Ιταλία
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento ( CEE ) n. 153/71 del Consiglio, del 26 gennaio 1971, che modifica
+    il regolamento n. 70/66/CEE per quanto concerne l' esecuzione dell' indagine principale
+    in Italia
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING ( EEG ) NR. 153/71 VAN DE RAAD VAN 26 JANUARI 1971 TOT WIJZIGING
+    VAN VERORDENING NR. 70/66/EEG BETREFFENDE DE UITVOERING VAN DE BASISENQUETE IN
+    ITALIE
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0153
+docidentifier:
+- content: EU Regulation 153/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0153
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/153/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-26'
+- type: implemented
+  at: '1971-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0070
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

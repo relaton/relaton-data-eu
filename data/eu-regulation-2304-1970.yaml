@@ -1,0 +1,70 @@
+---
+id: EURegulation23041970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2304/70 de la Commission, du 13 novembre 1970, relatif
+    aux modalités concernant les importations des huiles d'olive de Tunisie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2304/70 der Kommission vom 13. November 1970 über
+    die Einzelheiten der Einfuhr von Olivenöl aus Tunesien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2304/70 della Commissione, del 13 novembre 1970, relativo
+    alle modalità concernenti le importazioni degli oli d'oliva dalla Tunisia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2304/70 van de Commissie van 13 november 1970 houdende
+    nadere voorschriften ten aanzien van de invoer van olijfolie uit Tunesië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2304
+docidentifier:
+- content: EU Regulation 2304/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2304
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2304/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-13'
+- type: implemented
+  at: '1970-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

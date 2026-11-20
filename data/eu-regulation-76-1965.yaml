@@ -1,0 +1,65 @@
+---
+id: EURegulation761965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 76/65/CEE de la Commission, du 9 juin 1965, modifiant les
+    règlements ns 77 et 131/64/CEE en ce qui concerne les parties de volailles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 76/65/EWG der Kommission vom 9. Juni 1965 zur Änderung
+    der Verordnungen Nr. 77 und 131/64/EWG, Teile von Hausgeflügel betreffend
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 76/65/CEE della Commissione, del 9 giugno 1965, che modifica
+    i regolamenti nn. 77 e 131/64/CEE per le parti di volatili da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 76/65/EEG van de Commissie van 9 juni 1965 houdende wijziging
+    van de Verordeningen nos. 77 en 131/64/EEG betreffende delen van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0076
+docidentifier:
+- content: EU Regulation 76/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0076
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/76/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

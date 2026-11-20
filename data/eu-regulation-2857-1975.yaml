@@ -1,0 +1,97 @@
+---
+id: EURegulation28571975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2857/75 of the Commission of 31 October 1975 amending
+    for the fifth time the EXIM system of import licences for beef and veal introduced
+    as a protective measure by Regulation (EEC) No 1090/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2857/75 de la Commission, du 31 octobre 1975, portant
+    cinquième modification du régime des certificats d' importation "EXIM" introduit
+    au titre des mesures de sauvegarde par le règlement (CEE) n° 1090/75 dans le
+    secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2857/75 der Kommission vom 31. Oktober 1975 zur fünften
+    Änderung des im Rahmen von Schutzmaßnahmen mit der Verordnung (EWG) Nr. 1090/75
+    für den Rindfleischsektor eingeführten Einfuhrlizenzsystems ,,EXIM' '
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2857/75 af 31. oktober 1975 om femte
+    ændring af importlicensordningen "EXIM" indført som beskyttelsesforanstaltninger
+    inden for oksekødsektoren ved forordning (EØF) nr. 1090/75
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2857/75 della Commissione, del 31 ottobre 1975, recante
+    quinta modifica del regime di rilascio dei titoli d' importazione "EXIM" istituito
+    dal regolamento (CEE) n. 1090/75 nel settore delle carni bovine in applicazione
+    delle misure di salvaguardia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2857/75 van de Commissie van 31 oktober 1975 houdende
+    vijfde wijziging van de bij Verordening (EEG) nr. 1090/75 in het kader van de
+    vrijwaringsmaatregelen voor de rundvleessector ingestelde regeling voor ,,EXIM'
+    ' invoercertificaten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2857
+docidentifier:
+- content: EU Regulation 2857/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2857
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2857/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-31'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1090
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

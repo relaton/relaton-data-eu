@@ -1,0 +1,104 @@
+---
+id: EURegulation8931983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 893/83 of 15 April 1983 amending Regulation
+    (EEC) No 593/83 concerning the system of differential payment for milk according
+    to quality
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 893/83 de la Commission du 15 avril 1983 modifiant
+    le règlement (CEE) no 593/83 en ce qui concerne le système de paiement différencié
+    du lait selon sa qualité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 893/83 der Kommission vom 15. April 1983 zur Änderung
+    der Verordnung (EWG) Nr. 593/83 hinsichtlich des Systems der differenzierten Bezahlung
+    der Milch nach ihrer Qualität
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 893/83 af 15. april 1983 om ændring
+    af forordning (EØF) nr. 593/83 for så vidt angår ordningen for differentieret
+    betaling for mælk efter kvaliteten
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 893/83 της Επιτροπής
+    της 15ης Απριλίου 1983 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 593/83 όσον αφορά το διαφοροποιημένο
+    σύστημα πληρωμής του γάλακτος ανάλογα με την
+    ποιότητά του
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 893/83 della Commissione del 15 aprile 1983 che modifica
+    il regolamento (CEE) n. 593/83 per quanto concerne il sistema di pagamento del
+    latte differenziato a seconda della qualità del prodotto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 893/83 van de Commissie van 15 april 1983 houdende
+    wijziging van Verordening (EEG) nr. 593/83 ten aanzien van de regeling voor een
+    gedifferentieerde betaling van melk naar gelang van de kwaliteit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0893
+docidentifier:
+- content: EU Regulation 893/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0893
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/893/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-04-15'
+- type: implemented
+  at: '1983-03-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R0593
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

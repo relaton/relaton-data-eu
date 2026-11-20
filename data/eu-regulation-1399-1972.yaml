@@ -1,0 +1,68 @@
+---
+id: EURegulation13991972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1399/72 de la Commission, du 30 juin 1972, fixant la
+    restitution à la production pour les huiles d'olive utilisées pour la fabrication
+    de certaines conserves de poissons et de légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1399/72 der Kommission vom 30. Juni 1972 zur Festsetzung
+    der Erstattung bei der Erzeugung für Olivenöl zur Herstellung von Fischund Gemüsekonserven
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1399/72 della Commissione, del 30 giugno 1972, che
+    fissa la restituzione alla produzione per gli oli d'oliva impiegati nella fabbricazione
+    di alcune conserve di pesci e di legumi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1399/72 van de Commissie van 30 juni 1972 houdende
+    vaststelling van de restitutie bij de produktie voor olijfolie die gebruikt wordt
+    voor de vervaardiging van bepaalde vis- en groenteconserven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1399
+docidentifier:
+- content: EU Regulation 1399/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1399
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1399/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

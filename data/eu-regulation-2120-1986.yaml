@@ -1,0 +1,118 @@
+---
+id: EURegulation21201986
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2120/86 of 7 July 1986 on the issue of STM
+    licences for certain floricultural products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2120/86 de la Commission du 7 juillet 1986 relatif
+    à la délivrance des certificats "MCE" pour certains produits de la floriculture
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2120/86 der Kommission vom 7. Juli 1986 über die
+    Erteilung von EHM-Lizenzen für bestimmte Waren des Blumenhandels
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2120/86 af 7. juli 1986 om udstedelse
+    af SMS-licenser for visse af blomsterdyrkningens produkter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2120/86 της Επιτροπής
+    της 7ης Ιουλίου 1986 σχετικά με την έκδοση πιστοποιητικών
+    ΣΜΣ για ορισμένα προϊόντα της ανθοκομίας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2120/86 della Commissione del 7 luglio 1986 relativo
+    al rilascio dei titolo "MCS" per taluni prodotti della floricoltura
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2120/86 van de Commissie van 7 juli 1986 betreffende
+    de afgifte van ARH-certificaten voor bepaalde produkten van de bloementeelt
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2120/86 da Comissão de 7 de Julho de 1986 relativo
+    à emissão dos certificados "MCT" para determinados produtos da floricultura
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2120/86 de la Comisión de 7 de julio de 1986 relativo
+    a la expedición de los certificados "MCI" para determinados productos de la floricultura
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986R2120
+docidentifier:
+- content: EU Regulation 2120/1986
+  type: EU
+  primary: true
+- content: CELEX 31986R2120
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1986/2120/oj
+  type: ELI
+date:
+- type: issued
+  at: '1986-07-07'
+- type: implemented
+  at: '1986-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31986R1376
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31986R1768
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31986R0643
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

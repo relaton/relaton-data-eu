@@ -1,0 +1,105 @@
+---
+id: EURegulation1741983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 174/83 of 25 January 1983 allocating among
+    Member States catch quotas available in 1982 to the Community under the Agreement
+    on fisheries between the Community and Canada
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 174/83 du Conseil du 25 janvier 1983 répartissant
+    entre les États membres les quotas de capture alloués en 1982 à la Communauté
+    dans le cadre de l' accord de pêche entre la Communauté et le Canada
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 174/83 des Rates vom 25. Januar 1983 zur Aufteilung
+    der nach dem Fischereiabkommen zwischen der Gemeinschaft und Kanada für die Gemeinschaft
+    1982 verfügbaren Fangquoten auf die Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 174/83 af 25. januar 1983 om fordeling mellem
+    medlemsstaterne af fangstkvoter tildelt Fællesskabet for 1982 i henhold til fiskeriaftalen
+    mellem Fællesskabet og Canada
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 174/83 του Συμβουλίου
+    της 25ης Ιανουαρίου 1983 περί κατανομής μεταξύ
+    των Κρατών μελών των ποσοστώσεων αλιείας που
+    έχουν χορηγηθεί για το 1982 στην Κοινότητα στο
+    πλαίσιο της αλιευτικής συμφωνίας μεταξύ της
+    Κοινότητας και του Καναδά
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 174/83 del Consiglio del 25 gennaio 1983 che ripartisce
+    tra gli Stati membri i contingenti di cattura concessi nel 1982 alla Comunità
+    nel quadro dell' accordo di pesca tra la Comunità e il Canada
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 174/83 van de Raad van 25 januari 1983 houdende verdeling
+    over de Lid-Staten van de vangstquota die in 1982 in het kader van de Visserijovereenkomst
+    tussen de Gemeenschap en de Regering van Canada aan de Gemeenschap zijn toegewezen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0174
+docidentifier:
+- content: EU Regulation 174/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0174
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/174/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-01-25'
+- type: implemented
+  at: '1982-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R0369
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

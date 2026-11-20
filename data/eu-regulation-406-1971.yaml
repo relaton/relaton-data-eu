@@ -1,0 +1,70 @@
+---
+id: EURegulation4061971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 406/71 de la Commission, du 25 février 1971, modifiant
+    le règlement (CEE) n 92/71 fixant les restitutions à l'exportation dans le secteur
+    de la viande de porc pour la période débutant le 1er février 1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 406/71 der Kommission vom 25. Februar 1971 zur Änderung
+    der Verordnung (EWG) Nr. 92/71 zur Festsetzung der Erstattungen bei der Ausfuhr
+    auf dem Schweinefleischsektor für den am 1. Februar 1971 beginnenden Zeitraum
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 406/71 della Commissione, del 25 febbraio 1971, che
+    modifica il regolamento (CEE) n. 92/71 che fissa le restituzioni nel settore delle
+    carni suine a partire dal 1 febbraio 1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 406/71 van de Commissie van 25 februari 1971 tot
+    wijziging van Verordening (EEG) nr. 92/71 houdende vaststelling van de restituties
+    bij uitvoer in de sector varkensvlees voor het tijdvak dat begint op 1 februari
+    1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0406
+docidentifier:
+- content: EU Regulation 406/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0406
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/406/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

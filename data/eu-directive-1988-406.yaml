@@ -1,0 +1,131 @@
+---
+id: EUDirective1988406
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 88/406/EEC of 14 June 1988 amending Directive 64/432/EEC
+    as regards enzootic bovine leukosis and repealing Directive 80/1102/EEC
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 88/406/CEE du Conseil du 14 juin 1988 modifiant la directive
+    64/432/CEE en ce qui concerne la leucose bovine enzootique et abrogeant la directive
+    80/1102/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 88/406/EWG des Rates vom 14. Juni 1988 zur Änderung der Richtlinie
+    64/432/EWG hinsichtlich der Rinderleukose und zur Aufhebung der Richtlinie 80/1102/EWG
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 88/406/EØF af 14. juni 1988 om ændring af direktiv 64/432/EØF
+    for så vidt angår enzootisk kvægleukose og om ophævelse af direktiv 80/1102/EØF
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 88/406/ΕΟΚ του Συμβουλίου της 14ης Ιουνίου
+    1988 για την τροποποίηση της οδηγίας 64/432/ΕΟΚ
+    όσον αφορά την ενζωοτική λεύκωση βοοειδών
+    και την κατάργηση της οδηγίας 80/1102/ΕΟΚ
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 88/406/ETY, annettu 14 päivänä kesäkuuta 1988,
+    direktiivin 64/432/ETY muuttamisesta nautaeläinten tarttuvan leukoosin osalta
+    ja direktiivin 80/1102/ETY kumoamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 88/406/CEE del Consiglio del 14 giugno 1988 che modifica la direttiva
+    64/432/CEE per quanto concerne la leucosi bovina e che abroga la direttiva 80/1102/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 88/406/EEG van de Raad van 14 juni 1988 houdende wijziging van
+    Richtlijn 64/432/EEG met betrekking tot endemische runderleukose en houdende intrekking
+    van Richtlijn 80/1102/EEG
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 88/406/CEE do Conselho de 14 de Junho de 1988 que altera a Directiva
+    64/432/CEE no que diz respeito à leucose bovina enzoótica e revoga a Directiva
+    80/1102/CEE
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 88/406/CEE del Consejo de 14 de junio de 1988 por la que se modifica
+    la Directiva 64/432/CEE y por la que se deroga la Directiva 80/1102/CEE en lo
+    referente a la leucosis enzoótica bovina
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 88/406/EEG av den 14 juni 1988 om ändring av direktiv
+    64/432/EEG i fråga om enzootisk bovin leukos och om upphävande av direktiv 80/1102/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31988L0406
+docidentifier:
+- content: EU Directive 1988/406
+  type: EU
+  primary: true
+- content: CELEX 31988L0406
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1988/406/oj
+  type: ELI
+date:
+- type: issued
+  at: '1988-06-14'
+- type: implemented
+  at: '1988-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980L1102
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964L0432
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

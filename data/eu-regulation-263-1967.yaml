@@ -1,0 +1,65 @@
+---
+id: EURegulation2631967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 263/67/CEE de la Commission, du 5 juillet 1967, portant
+    fixation du prix de référence pour les raisins de table de plein air
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 263/67/EWG der Kommission vom 5. Juli 1967 zur Festsetzung
+    der Referenzpreise für im Freien angebaute Tafeltrauben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 263/67/CEE della Commissione, del 5 luglio 1967, che fissa
+    i prezzi di riferimento per le uve da tavola di pieno campo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 263/67/EEG van de Commissie van 5 juli 1967 houdende vaststelling
+    van de referentieprijzen voor tafeldruiven van de open grond
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0263
+docidentifier:
+- content: EU Regulation 263/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0263
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/263/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

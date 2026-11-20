@@ -1,0 +1,80 @@
+---
+id: EURegulation26051969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2605/69 du Conseil, du 19 décembre 1969, portant
+    ouverture d'un contingent tarifaire communautaire supplémentaire, pour l'année
+    1969, de papier journal de la sous-position 48.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2605/69 des Rates vom 19. Dezember 1969 über die
+    Eröffnung eines zusätzlichen Gemeinschaftszollkontingents für Zeitungsdruckpapier
+    der Tarifstelle 48.01 A des Gemeinsamen Zolltarifs für das Jahr 1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2605/69 del Consiglio, del 19 dicembre 1969, relativo
+    all'apertura di un contingente tariffario comunitario supplementare di carta da
+    giornali della sottovoce 48.01 A della tariffa doganale comune per il 1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2605/69 van de Raad van 19 december 1969 houdende
+    opening van een extra communautair tariefcontingent voor courantenpapier van onderverdeling
+    48.01 A van het gemeenschappelijk douanetarief voor 1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2605
+docidentifier:
+- content: EU Regulation 2605/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2605
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2605/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-19'
+- type: implemented
+  at: '1969-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2050
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

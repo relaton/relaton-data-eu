@@ -1,0 +1,101 @@
+---
+id: EURegulation3561973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 356/73 of the Commission of 31 January 1973 Amending
+    Regulation (EEC) No 757/71 on special rules of application for granting aid for
+    exports of skimmed-milk powder for use as feed and skimmed milk processed into
+    compound feedingstuffs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 356/73 de la Commission, du 31 janvier 1973, modifiant
+    le règlement (CEE) n° 757/71 relatif à des modalités d'application particulières
+    concernant l'octroi d'aides pour le lait écrémé en poudre destiné à l'alimentation
+    des animaux et le lait écrémé transformé en aliments composés lors de l'exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 356/73 der Kommission vom 31. Januar 1973 zur Änderung
+    der Verordnung (EWG) Nr. 757/71 über besondere Durchführungsbestimmungen hinsichtlich
+    der Beihilfengewährung für Magermilchpulver für Futterzwecke und zu Mischfutter
+    verarbeitete Magermilch bei der Ausfuhr
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 356/73 af 31. januar 1973 om ændring
+    af forordning (EØF) nr. 757/71 om særlige ved udførsel anvendelige gennemførelses
+    bestemmelser vedrørende ydelse af støtte til skummetmælkspulver til foderbrug
+    og skummetmælk, der forarbejdes til foderblandinger
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 356/73 della Commissione, del 31 gennaio 1973, che
+    modifica il regolamento (CEE) n. 757/71 relativo a modalità d'applicazione particolari
+    concernenti la concessione di aiuti per il latte scremato in polvere destinato
+    all'alimentazione degli animali e per il latte scremato trasformato in alimenti
+    composti al momento dell'esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 356/73 van de Commissie van 31 januari 1973 houdende
+    wijziging van Verordening (EEG) nr. 757/71 betreffende bijzondere uitvoeringsbepalingen
+    met betrekking tot de steunverlening bij uitvoer voor magere-melkpoeder bestemd
+    voor voederdoeleinden en tot mengvoeder verwerkte ondermelk
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0356
+docidentifier:
+- content: EU Regulation 356/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0356
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/356/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-31'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0757
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

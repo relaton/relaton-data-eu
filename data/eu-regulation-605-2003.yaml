@@ -1,0 +1,121 @@
+---
+id: EURegulation6052003
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 605/2003 of 2 April 2003 amending Regulation
+    (EC) No 851/2002 as regards the model certificate
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 605/2003 de la Commission du 2 avril 2003 modifiant
+    le règlement (CE) n° 851/2002 en ce qui concerne le modèle de certificat
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 605/2003 der Kommission vom 2. April 2003 zur Änderung
+    der Verordnung (EG) Nr. 851/2002 hinsichtlich des Bescheinigungsmusters
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 605/2003 af 2. april 2003 om ændring
+    af forordning (EF) nr. 851/2002 for så vidt angår attestmodellen
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 605/2003 της Επιτροπής,
+    της 2ας Απριλίου 2003, για τροποποίηση του κανονισμού
+    (ΕΚ) αριθ. 851/2002 όσον αφορά το υπόδειγμα πιστοποιητικού
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 605/2003, annettu 2 päivänä huhtikuuta 2003,
+    asetuksen (EY) N:o 851/2002 muuttamisesta todistusmallin osalta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 605/2003 della Commissione, del 2 aprile 2003, che
+    modifica il regolamento (CE) n. 851/2002 per quanto riguarda il modello di certificato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 605/2003 van de Commissie van 2 april 2003 tot wĳziging
+    van Verordening (EG) nr. 851/2002 wat het modelcertificaat betreft
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 605/2003 da Comissão, de 2 de Abril de 2003, que
+    altera o Regulamento (CE) n.° 851/2002 no que diz respeito ao modelo de certificado
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 605/2003 de la Comisión, de 2 de abril de 2003, por
+    el que se modifica el Reglamento (CE) n° 851/2002 en lo que atañe al modelo
+    de certificado
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 605/2003 av den 2 april 2003 om ändring
+    av förordning (EG) nr 851/2002 när det gäller intygsförlagan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R0605
+docidentifier:
+- content: EU Regulation 605/2003
+  type: EU
+  primary: true
+- content: CELEX 32003R0605
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2003/605/oj
+  type: ELI
+date:
+- type: issued
+  at: '2003-04-02'
+- type: implemented
+  at: '2003-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32002R0851
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

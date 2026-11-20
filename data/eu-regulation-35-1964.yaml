@@ -1,0 +1,65 @@
+---
+id: EURegulation351964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 35/64/CEE de la Commission, du 26 mars 1964, modifiant la
+    liste des produits en ce qui concerne certains produits à base de viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 35/64/EWG der Kommission vom 26. März 1964 zur Änderung
+    des Warenverzeichnisses für einige Schweinefleischerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 35/64/CEE della Commissione, del 26 marzo 1964, relativo
+    alla modifica dell'elenco dei prodotti per alcuni prodotti a base di carne suina
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 35/64/EEG van de Commissie van 26 maart 1964 tot wijziging
+    van de lijst van produkten voor sommige varkensvleesprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0035
+docidentifier:
+- content: EU Regulation 35/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0035
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/35/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,82 @@
+---
+id: EURegulation3571972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 357/72 de la Commission, du 18 février 1972, abrogeant
+    le règlement (CEE) n° 316/72 portant application du droit du tarif douanier
+    commun aux importations de certaines variétés d'oranges douces originaires d'Israël
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 357/72 der Kommission vom 18. Februar 1972 zur Aufhebung
+    der Verordnung (EWG) Nr. 316/72 zur Anwendung des Zollsatzes des Gemeinsamen Zolltarifs
+    auf Einfuhren von bestimmten Orangensorten mit Ursprung in Israel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 357/72 della Commissione, del 18 febbraio 1972, che
+    abroga il regolamento (CEE) n. 316/72 relativo all'applicazione del dazio della
+    tariffa doganale comune alle importazioni di alcune varietà di arance dolci originarie
+    d'Israele
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 357/72 van de Commissie van 18 februari 1972 tot
+    intrekking van Verordening (EEG) nr. 316/72 houdende toepassing van het recht
+    van het gemeenschappelijk douanetarief op de invoer van bepaalde variëteiten
+    zoete sinaasappelen van oorsprong uit Israël
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0357
+docidentifier:
+- content: EU Regulation 357/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0357
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/357/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-02-18'
+- type: implemented
+  at: '1972-02-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0316
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

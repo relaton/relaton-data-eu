@@ -1,0 +1,115 @@
+---
+id: EURegulation10511976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1051/76 of 4 May 1976 increasing the volume
+    of the Community tariff quotas opened for 1976 by Regulations (EEC) No 3150/75,
+    (EEC) No 3151/75, (EEC) No 3152/75 and (EEC) No 3153/75 in respect of certain
+    textile products originating in Malta
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1051/76 du Conseil, du 4 mai 1976, portant augmentation
+    des volumes des contingents tarifaires communautaires ouverts au titre de l'année
+    1976 par les règlements (CEE) n° 3150/75, n 3151/75, n 3152/75 et n° 3153/75
+    pour certains produits textiles originaires de Malte
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1051/76 des Rates vom 4. Mai 1976 zur Erhöhung der
+    Mengen der Gemeinschaftszollkontingente, die durch die Verordnungen (EWG) Nr.
+    3150/75, Nr. 3151/75, Nr. 3152/75 und Nr. 3153/75 für bestimmte Spinnstoffwaren
+    mit Ursprung in Malta für 1976 eröffnet worden sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1051/76 af 4. maj 1976 om forhøjelse af
+    de fællesskabstoldkontingentmængder, der for 1976 er blevet åbnet ved forordning
+    (EØF) nr. 3150/75, 3151/75, 3152/75 og 3153/75 for visse tekstilvarer med oprindelse
+    i Malta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1051/76 del Consiglio, del 4 maggio 1976, che aumenta
+    i volumi dei contingenti tariffari comunitari aperti, per il 1976, dai regolamenti
+    (CEE) n. 3150/75, n. 3151/75, n. 3152/75 e n. 3153/75 per taluni prodotti tessili
+    originari di Malta
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1051/76 van de Raad van 4 mei 1976 betreffende de
+    verhoging van de voor 1976 bij de Verordeningen (EEG) nrs. 3150/75, 3151/75, 3152/75
+    en 3153/75 geopende communautaire tariefcontingenten voor bepaalde textielprodukten,
+    van oorsprong uit Malta
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1051
+docidentifier:
+- content: EU Regulation 1051/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1051
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1051/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-05-04'
+- type: implemented
+  at: '1976-05-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3150
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3151
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3152
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3153
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

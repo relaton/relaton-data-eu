@@ -1,0 +1,102 @@
+---
+id: EURegulation2521970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 252/70 of the Commission of 11 February 1970 amending
+    Regulation No 785/67/EEC on the buying-in of olive oil by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 252/70 de la Commission, du 11 février 1970, modifiant
+    le règlement n° 785/67/CEE relatif aux modalités d' achat de l' huile d' olive
+    par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 252/70 der Kommission vom 11. Februar 1970 zur Änderung
+    der Verordnung Nr. 785/67/EWG betreffend den Ankauf von Olivenöl durch die Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 252/70 af 11. februar 1970 om ændring
+    af forordning nr. 785/67/EØF vedrørende de nærmere regler for interventionsorganernes
+    opkøb af olivenolie
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 252/70 τής Επιτροπής
+    τής 11ης Φεβρουαρίου 1970 περί τροποποιήσεως
+    τού κανονισμού αριθ. 785/67/ΕΟΚ «περί τών λεπτομερειών
+    αγοράς τού ελαιολάδου από τούς οργανισμούς
+    παρεμβάσεως»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 252/70 della Commissione, dell' 11 febbraio 1970,
+    che modifica il regolamento n. 785/67/CEE relativo alle modalità d' acquisto
+    dell' olio d' oliva da parte degli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 252/70 van de Commissie van 11 februari 1970 houdende
+    wijziging van Verordening nr. 785/67/EEG betreffende de wijze van aankoop van
+    olijfolie door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0252
+docidentifier:
+- content: EU Regulation 252/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0252
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/252/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-11'
+- type: implemented
+  at: '1970-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0785
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

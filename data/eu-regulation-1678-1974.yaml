@@ -1,0 +1,95 @@
+---
+id: EURegulation16781974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1678/74 of the Commission of 28 June 1974 amending
+    for the second time Regulation (EEC) No 722/74 authorizing the United Kingdom
+    to grant a decreasing national subsidy to pig producers
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1678/74 de la Commission, du 28 juin 1974, portant
+    deuxième modification du règlement (CEE) n 722/74 autorisant le Royaume-Uni
+    à octroyer une aide nationale dégressive aux producteurs de porcs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1678/74 der Kommission vom 28. Juni 1974 zur zweiten
+    Änderung der Verordnung (EWG) Nr. 722/74 zur Ermächtigung des Vereinigten Königreichs
+    zur Gewährung einer degressiven einzelstaatlichen Beihilfe für Schweineerzeuger
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1678/74 af 28. juni 1974 til den anden
+    ændring af forordning (EØF) nr. 722/74 om bemyndigelse til, at der til svineproducenterne
+    i Det forenede Kongerige ydes en national, faldende støtte
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1678/74 della Commissione, del 28 giugno 1974, relativo
+    alla seconda modifica del regolamento (CEE) n. 722/74 che autorizza il Regno-Unito
+    a concedere un aiuto nazionale degressivo ai produttori di suini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1678/74 van de Commissie van 28 juni 1974 houdende
+    een tweede wijziging van Verordening (EEG) nr. 722/74 waarbij het Verenigd Koninkrijk
+    wordt gemachtigd een aflopende nationale steun te verlenen aan de producenten
+    van varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1678
+docidentifier:
+- content: EU Regulation 1678/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1678
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1678/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-28'
+- type: implemented
+  at: '1974-06-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0722
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

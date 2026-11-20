@@ -1,0 +1,109 @@
+---
+id: EURegulation27431975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2743/75 of the Council of 29 October 1975 on the system
+    to be applied to cereal-based compound feedingstuffs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2743/75 du Conseil, du 29 octobre 1975, relatif au
+    régime applicable aux aliments composés à base de céréales pour les animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2743/75 des Rates vom 29. Oktober 1975 über die Regelung
+    für Getreidemischfuttermittel
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2743/75 af 29. oktober 1975 om regler for
+    kornfoderblandinger
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2743/75 του Συμβουλίου
+    της 29ης Οκτωβρίου 1975 περί του καθεστώτος που
+    εφαρμόζεται στις σύνθετες ζωοτροφές με βάση
+    τα σιτηρά
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2743/75 del Consiglio, del 29 ottobre 1975, relativo
+    al regime applicabile agli alimenti composti a base di cereali per gli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2743/75 van de Raad van 29 oktober 1975 houdende
+    vaststelling van de regeling voor mengvoeders op basis van granen
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2743/75 do Conselho, de 29 de Outubro de 1975, relativo
+    ao regime aplicável aos alimentos compostos para animais à base de cereais
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2743/75 del Consejo, de 29 de octubre de 1975, relativo
+    al régimen aplicable a los piensos compuestos a base de cereales
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2743
+docidentifier:
+- content: EU Regulation 2743/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2743
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2743/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0968
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

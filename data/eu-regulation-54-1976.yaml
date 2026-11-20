@@ -1,0 +1,94 @@
+---
+id: EURegulation541976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 54/76 of 14 January 1976 on the country
+    nomenclature for the external trade statistics of the Community and statistics
+    of trade between Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 54/76 de la Commission, du 14 janvier 1976, relatif
+    à la nomenclature des pays pour les statistiques du commerce extérieur de la
+    Communauté et du commerce entre les États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 54/76 der Kommission vom 14. Januar 1976 über das
+    Länderverzeichnis für die Statistik des Außenhandels der Gemeinschaft und des
+    Handels zwischen ihren Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 54/76 af 14. januar 1976 om den statistiske
+    landefortegnelse for Fællesskabets udenrigshandel og for samhandelen mellem dets
+    medlemsstater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 54/76 della Commissione, del 14 gennaio 1976, relativo
+    alla nomenclatura dei paesi per le statistiche del commercio estero della Comunità
+    e del commercio tra gli Stati membri della stessa
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 54/76 van de Commissie van 14 januari 1976 betreffende
+    de landennomenclatuur voor de statistieken van de buitenlandse handel van de Gemeenschap
+    en de handel tussen de Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0054
+docidentifier:
+- content: EU Regulation 54/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0054
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/54/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-01-14'
+- type: implemented
+  at: '1976-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1736
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

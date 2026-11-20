@@ -1,0 +1,69 @@
+---
+id: EURegulation5121967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 512/67/CEE de la Commission, du 30 août 1967, fixant les
+    prélèvements applicables à l'importation des produits transformés à base
+    de céréales et de riz, y compris les aliments composés pour les animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 512/67/EWG der Kommission vom 30. August 1967 über die
+    Festsetzung der auf die Einfuhren von Getreide- und Reisverarbeitungserzeugnissen
+    einschlieDlich Mischfuttermittel anzuwendenden Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 512/67/CEE della Commissione, del 30 agosto 1967, che fissa
+    i prelievi applicabili all'importazione dei prodotti trasformati a base di cereali
+    e di riso, compresi gli alimenti composti per gli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 512/67/EEG van de Commissie van 30 augustus 1967 houdende
+    vaststelling van de heffingen bij invoer van de op basis van granen en rijst verwerkte
+    produkten, met inbegrip van mengvoeders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0512
+docidentifier:
+- content: EU Regulation 512/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0512
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/512/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

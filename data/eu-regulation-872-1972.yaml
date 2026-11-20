@@ -1,0 +1,102 @@
+---
+id: EURegulation8721972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 872/72 of the Commission of 27 April 1972 amending
+    Regulation (EEC) No 685/69 as regards the end of the storage period for butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 872/72 de la Commission, du 27 avril 1972, modifiant
+    le règlement (CEE) n° 685/69 en ce qui concerne la fin de la période de stockage
+    du beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 872/72 der Kommission vom 27. April 1972 zur Änderung
+    der Verordnung (EWG) Nr. 685/69 hinsichtlich der Beendigung der Einlagerungszeit
+    für Butter
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 872/72 af 27. april 1972 om ændring
+    af forordning (EØF) nr. 685/69 for så vidt angår udløbet af oplagringsperioden
+    for smør
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 872/72 της Επιτροπής
+    της 27ης Απριλίου 1972 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 685/69 όσον αφορά το τέλος
+    της περιόδου αποθεματοποιήσεως του βουτύρου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 872/72 della Commissione, del 27 aprile 1972, che
+    modifica il regolamento (CEE) n. 685/69 per quanto riguarda la fine del periodo
+    di ammasso del burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 872/72 van de Commissie van 27 april 1972 tot wijziging
+    van Verordening (EEG) nr. 685/69 betreffende het einde van de opslagperiode van
+    boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0872
+docidentifier:
+- content: EU Regulation 872/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0872
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/872/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-04-27'
+- type: implemented
+  at: '1972-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0685
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

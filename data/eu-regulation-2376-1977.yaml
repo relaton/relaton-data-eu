@@ -1,0 +1,94 @@
+---
+id: EURegulation23761977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2376/77 of 28 October 1977 amending Regulation
+    (EEC) No 3113/76 as regards the fixing of the standard values for certain fishery
+    products withdrawn from the market
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2376/77 de la Commission, du 28 octobre 1977, modifiant
+    le règlement (CEE) n° 3113/76 en ce qui concerne la fixation de la valeur forfaitaire
+    de certains produits de la pêche retirés du marché
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2376/77 der Kommission vom 28. Oktober 1977 zur Änderung
+    der Verordnung (EWG) Nr. 3113/76 hinsichtlich der Festsetzung des Pauschalwerts
+    für bestimmte aus dem Handel genommene Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2376/77 af 28. oktober 1977 om ændring
+    af forordning (EØF) nr. 3113/76 for så vidt angår fastsættelsen af den fikserede
+    værdi af visse fiskerivarer, der fjernes fra handelen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2376/77 della Commissione, del 28 ottobre 1977, che
+    modifica il regolamento (CEE) n. 3113/76 per quanto concerne il valore forfettario
+    di alcuni prodotti della pesca ritirati dal mercato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2376/77 van de Commissie van 28 oktober 1977 tot
+    wijziging van Verordening (EEG) nr. 3113/76 met betrekking tot de vaststelling
+    van de forfaitaire waarde van bepaalde uit de markt genomen visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2376
+docidentifier:
+- content: EU Regulation 2376/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2376
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2376/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-28'
+- type: implemented
+  at: '1977-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R3113
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

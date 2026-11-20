@@ -1,0 +1,94 @@
+---
+id: EURegulation10771971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1077/71 of the Council of 25 May 1971 amending Regulation
+    No 143/67/EEC on the compensatory amount applicable to imports of certain vegetable
+    oils
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1077/71 du Conseil, du 25 mai 1971, modifiant le règlement"
+    n° 143/67/CEE relatif au montant compensatoire applicable à l' importation de
+    certaines huiles végétales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1077/71 des Rates vom 25. Mai 1971 zur Änderung der
+    Verordnung Nr. 143/67/EWG über die Ausgleichsabgabe bei der Einfuhr bestimmter
+    pflanzlicher Öle
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1077/71 af 25. maj 1971 om ændring af forordning
+    nr. 143/67/EØF om den udligningsafgift, som gælder for indførsel af visse vegetabilske
+    olier
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1077/71 del Consiglio, del 25 maggio 1971, che modifica
+    il regolamento n. 143/67/CEE relativo all' ammontare di compensazione applicabile
+    all' importazione di taluni oli vegetali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1077/71 van de Raad van 25 mei 1971 tot wijziging
+    van Verordening nr. 143/67/EEG betreffende het compenserende bedrag bij de invoer
+    van bepaalde plantaardige oliën
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1077
+docidentifier:
+- content: EU Regulation 1077/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1077
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1077/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-25'
+- type: implemented
+  at: '1971-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0143
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

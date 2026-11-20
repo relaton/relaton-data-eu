@@ -1,0 +1,98 @@
+---
+id: EURegulation7981976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 798/76 of 6 April 1976 amending Regulation
+    (EEC) No 567/76 laying down general rules governing the distillation of table
+    wines for which the distillation contract must be approved before 15 April 1976
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 798/76 du Conseil, du 6 avril 1976, modifiant le règlement
+    (CEE) n° 567/76 établissant les règles générales relatives à des opérations
+    de distillation des vins de table dont le contrat de distillation doit être agréé
+    avant le 15 avril 1976
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 798/76 des Rates vom 6. April 1976 zur Änderung der
+    Verordnung (EWG) Nr. 567/76 über allgemeine Regeln für die Destillation von
+    Tafelwein, für den der Destillationsvertrag vor dem 15. April 1976 genehmigt
+    werden muß
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 798/76 af 6. april 1976 om ændring af forordning
+    (EØF) nr. 567/76 om de almindelige regler for destillation af bordvin, for hvilken
+    destilleringskontrakten skal godkendes inden den 15. april 1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 798/76 del Consiglio, del 6 aprile 1976, che modifica
+    il regolamento (CEE) n. 567/76 che stabilisce le norme generali relative ad operazioni
+    di distillazione dei vini da pasto il cui contratto di distillazione deve essere
+    approvato entro il 15 aprile 1976
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 798/76 van de Raad van 6 april 1976 tot wijziging
+    van Verordening (EEG) nr. 567/76 houdende vaststelling van de algemene regels
+    betreffende de distillatie van tafelwijn waarvan het distillatiecontract vóór
+    15 april 1976 moet zijn goedgekeurd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0798
+docidentifier:
+- content: EU Regulation 798/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0798
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/798/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-04-06'
+- type: implemented
+  at: '1976-04-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0567
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

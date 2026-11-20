@@ -1,0 +1,92 @@
+---
+id: EURegulation27051972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2705/72 of 22 December 1972 amending Regulation
+    (EEC) No 979/72 in respect of the compensatory amounts to be applied, consequent
+    upon changes in the monetary situation, to certain agricultural products and to
+    certain goods obtained therefrom
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2705/72 de la Commission du 22 décembre 1972 modifiant
+    le règlement (CEE) n° 979/72 en ce qui concerne les montants compensatoires
+    applicables, à la suite des événements monétaires, pour certains produits
+    agricoles ainsi que pour certaines marchandises obtenues à partir de ces produits
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG (EWG) Nr. 2705/72 DER KOMMISSION vom 22. Dezember 1972 zur Änderung
+    der Verordnung (EWG) Nr. 979/72 hinsichtlich der Ausgleichsabgaben, die im Anschluß
+    an die Währungsereignisse für bestimmte landwirtschaftliche Erzeugnisse und
+    aus diesen gewonnene Waren anzuwenden sind
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO (CEE) N. 2705/72 DELLA COMMISSIONE del 22 dicembre 1972 che
+    modifica il regolamento (CEE) n. 979/72 per quanto concerne gli importi di compensazione
+    applicabili per taluni prodotti agricoli e per alcune merci ottenute da tali prodotti
+    in seguito agli avvenimenti monetari
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING (EEG) Nr. 2705/72 VAN DE COMMISSIE van 22 december 1972 houdende
+    wijziging van Verordening (EEG) nr. 979/72 betreffende de compenserende bedragen
+    die ten gevolge van de monetaire toestand van toepassing zijn op enkele landbouwprodukten
+    alsmede op enkele goederen welke zijn verkregen door verwerking van deze produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2705
+docidentifier:
+- content: EU Regulation 2705/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2705
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2705/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-22'
+- type: implemented
+  at: '1972-12-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0979
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

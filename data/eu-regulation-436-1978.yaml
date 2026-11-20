@@ -1,0 +1,95 @@
+---
+id: EURegulation4361978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 436/78 of 1 March 1978 amending Regulation
+    (EEC) No 459/76 establishing a system of minimum prices applicable to the importation
+    of tomato concentrates originating in Greece
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 436/78 de la Commission, du 1er mars 1978, modifiant
+    le règlement (CEE) n° 459/76 instaurant un système de prix minimal applicable
+    à l' importation de concentrés de tomates originaires de Grèce
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 436/78 der Kommission vom 1. März 1978 zur Änderung
+    der Verordnung (EWG) Nr. 459/76 zur Einführung einer Mindestpreisregelung für
+    die Einfuhr von Tomatenmark mit Ursprung in Griechenland
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 436/78 af 1. marts 1978 om ændring
+    af forordning (EØF) nr. 459/76 om indførelse af en ordning med minimumspriser
+    gældende for indførsel af tomatkoncentrater med oprindelse i Grækenland
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 436/78 della Commissione, del 1° marzo 1978, recante
+    modifica del regolamento (CEE) n. 459/76, che istituisce un sistema di prezzi
+    minimi applicabili all' importazione di concentrati di pomodoro originari della
+    Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 436/78 van de Commissie van 1 maart 1978 houdende
+    wijziging van Verordening (EEG) nr. 459/76 tot invoering van een stelsel van minimumprijzen
+    voor de invoer van tomatenpasta van oorsprong uit Griekenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0436
+docidentifier:
+- content: EU Regulation 436/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0436
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/436/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-03-01'
+- type: implemented
+  at: '1978-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0459
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

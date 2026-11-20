@@ -1,0 +1,102 @@
+---
+id: EURegulation15011980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1501/80 of 16 June 1980 amending Regulation
+    (EEC) No 1445/76 specifying the different varieties of Lolium perenne L
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1501/80 de la Commission, du 16 juin 1980, modifiant
+    le règlement (CEE) n° 1445/76 fixant la liste des différentes variétés du
+    "Lolium perenne L"
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1501/80 der Kommission vom 16. Juni 1980 zur Änderung
+    der Verordnung (EWG) Nr. 1445/76 zur Festsetzung der Liste der verschiedenen Sorten
+    von Lolium perenne L.
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1501/80 af 16. juni 1980 om ændring
+    af forordning (EØF) nr. 1445/76 om fastsættelse af listen over de forskellige
+    sorter af Lolium perenne L
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1501/80 της Επιτροπής
+    της 16ης Ιουνίου 1980 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 1445/76 που καθορίζει τον πίνακα των
+    διαφόρων ποικιλιών του "Lolium perenne L"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1501/80 della Commissione, del 16 giugno 1980, che
+    modifica il regolamento (CEE) n. 1445/76 che stabilisce l' elenco delle diverse
+    varietà di Lolium perenne L
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1501/80 van de Commissie van 16 juni 1980 houdende
+    wijziging van Verordening (EEG) nr. 1445/76 houdende vaststelling van de lijst
+    van de verschillende rassen van Lolium perenne L
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1501
+docidentifier:
+- content: EU Regulation 1501/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1501
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1501/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-06-16'
+- type: implemented
+  at: '1980-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1445
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

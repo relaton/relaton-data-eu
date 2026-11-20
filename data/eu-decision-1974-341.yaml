@@ -1,0 +1,102 @@
+---
+id: EUDecision1974341
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '74/341/EEC: Commission Decision of 18 June 1974 amending the Commission
+    Decisions of 8 December 1972 and 22 December 1972 authorizing certain Member States
+    to sell butter at reduced prices as concentrated butter'
+  type: main
+- language: fr
+  script: Latn
+  content: '74/341/CEE: Décision de la Commission, du 18 juin 1974, modifiant les
+    décisions de la Commission du 8 décembre 1972 et du 22 décembre 1972, autorisant
+    certains États membres à vendre du beurre à prix réduit sous forme de beurre
+    concentré'
+  type: main
+- language: de
+  script: Latn
+  content: '74/341/EWG: Entscheidung der Kommission vom 18. Juni 1974 zur Änderung
+    der Entscheidungen der Kommission vom 8. Dezember 1972 und 22. Dezember 1972 zur
+    Ermächtigung bestimmter Mitgliedstaaten zum Verkauf von Butter zu herabgesetzten
+    Preisen in Form von Butterreinfett'
+  type: main
+- language: da
+  script: Latn
+  content: '74/341/EØF: Kommissionens Beslutning af 18. juni 1974 om ændring af
+    Kommissionens beslutninger af 8. december 1972 og 22. december 1972 om bemyndigelse
+    til visse medlemsstater vedrørende salg af smør til nedsat pris i form af koncentreret
+    smør'
+  type: main
+- language: it
+  script: Latn
+  content: '74/341/CEE: Decisione della Commissione, del 18 giugno 1974, che modifica
+    le decisioni della Commissione dell'' 8 dicembre 1972 e del 22 dicembre 1972,
+    che autorizzano gli Stati membri a vendere burro a prezzo ridotto sotto forma
+    di burro concentrato'
+  type: main
+- language: nl
+  script: Latn
+  content: '74/341/EEG: Beschikking van de Commissie van 18 juni 1974 tot wijziging
+    van de beschikkingen van de Commissie van 8 december 1972 en van 22 december 1972
+    houdende machtiging van bepaalde Lid-Staten tot de verkoop van boter tegen verlaagde
+    prijs in de vorm van boterconcentraat'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974D0341
+docidentifier:
+- content: EU Decision 1974/341
+  type: EU
+  primary: true
+- content: CELEX 31974D0341
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1974/341/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0465
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972D0475
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

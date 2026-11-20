@@ -1,0 +1,98 @@
+---
+id: EURegulation16761974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1676/74 of the Commission of 28 June 1974 amending
+    Regulation (EEC) No 1461/73 of 16 May 1973 on the use of loading lists as the
+    descriptive part of Community transit declarations
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1676/74 de la Commission, du 28 juin 1974, modifiant
+    et complétant le règlement (CEE) n° 1461/73, du 16 mai 1973, relatif à l'utilisation
+    des listes de chargement comme partie descriptive des déclarations de transit
+    communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1676/74 der Kommission vom 28. Juni 1974 zur Änderung
+    und Ergänzung der Verordnung (EWG) Nr. 1461/73 vom 16. Mai 1973 über die Verwendung
+    von Ladelisten als beschreibenden Teil der Anmeldungen zum gemeinschaftlichen
+    Versandverfahren
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1676/74 af 28. juni 1974 om ændring
+    af Kommissionens forordning (EØF) nr. 1461/73 af 16. maj 1973 om anvendelse af
+    ladelister, som beskrivende del af de fælles forsendelsesangivelser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1676/74 della Commissione, del 28 giugno 1974, che
+    modifica e completa il regolamento (CEE) n. 1461/73 del 16 maggio 1973 relativo
+    all'utilizzazione delle distinte di carico come parte descrittiva delle dichiarazioni
+    di transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1676/74 van de Commissie van 28 juni 1974 tot wijziging
+    en aanvulling van Verordening (EEG) nr. 1461/73 van 16 mei 1973 betreffende het
+    gebruik van ladingslijsten als beschrijvend gedeelte van de aangiften voor communautair
+    douanevervoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1676
+docidentifier:
+- content: EU Regulation 1676/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1676
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1676/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-28'
+- type: implemented
+  at: '1974-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1461
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

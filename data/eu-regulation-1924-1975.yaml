@@ -1,0 +1,97 @@
+---
+id: EURegulation19241975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1924/75 of the Commission of 25 July 1975 amending
+    for the sixth time Regulation (EEC) No 2223/70 waiving the countervailing charge
+    on imports of certain wines originating in and coming from certain third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1924/75 de la Commission, du 25 juillet 1975, portant
+    sixième modification du règlement (CEE) n° 2223/70 relatif à la non-perception
+    d' une taxe compensatoire sur les importations de certains vins originaires et
+    en provenance de certains pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1924/75 der Kommission vom 25. Juli 1975 zur sechsten
+    Änderung der Verordnung (EWG) Nr. 2223/70 über die Nichterhebung einer Ausgleichsabgabe
+    bei Einfuhren von Wein mit Ursprung in und Herkunft aus bestimmten Drittländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1924/75 af 25. juli 1975 om en sjette
+    ændring af forordning (EØF) nr. 2223/70 om undladelse af opkrævning af en udligningsafgift
+    ved indførsel af vin, der har oprindelse i eller kommer fra visse tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1924/75 della Commissione, del 25 luglio 1975, recante
+    sesta modifica del regolamento (CEE) n. 2223/70 relativo alla non riscossione
+    di una tassa di compensazione all' importazione di taluni vini originari e in
+    provenienza da alcuni paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1924/75 van de Commissie van 25 juli 1975 houdende
+    zesde wijziging van Verordening (EEG) nr. 2223/70 betreffende het niet-toepassen
+    van een compenserende heffing bij invoer van bepaalde wijnen van oorsprong en
+    van herkomst uit sommige derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1924
+docidentifier:
+- content: EU Regulation 1924/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1924
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1924/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-25'
+- type: implemented
+  at: '1975-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2223
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

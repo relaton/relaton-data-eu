@@ -1,0 +1,98 @@
+---
+id: EURegulation7281970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 728/70 of the Council of 21 April 1970 on additional
+    provisions for the financing of the common agricultural policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 728/70 du Conseil, du 21 avril 1970, portant dispositions
+    complémentaires pour le financement de la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 728/70 des Rates vom 21. April 1970 zur Festlegung
+    ergänzender Vorschriften für die Finanzierung der gemeinsamen Agrarpolitik
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 728/70 af 21. april 1970 om supplerende bestemmelser
+    for finansieringen af den fælles landbrugspolitik
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 728/70 del Consiglio, del 21 aprile 1970, recante
+    disposizioni complementari per il finanziamento della politica agricola comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 728/70 van de Raad van 21 april 1970 houdende aanvullende
+    bepalingen voor de financiering van het gemeenschappelijk landbouwbeleid
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0728
+docidentifier:
+- content: EU Regulation 728/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0728
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/728/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-21'
+- type: implemented
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0025
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964Q0127
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

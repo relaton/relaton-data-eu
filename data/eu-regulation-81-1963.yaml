@@ -1,0 +1,67 @@
+---
+id: EURegulation811963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 81/63/CEE de la Commission, du 31 juillet 1963, revisant la
+    limite du montant maximum de la restitution applicable aux exportations de sons
+    vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 81/63/EWG der Kommission vom 31. Juli 1963 zur Änderung
+    des Höchstbetrags der Erstattung bei der Ausfuhr von Kleie nach dritten Ländern.
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 81/63/CEE della Commissione, del 31 luglio 1963, relativo
+    alla revisione del limite dell'ammontare massimo della restituzione applicabile
+    alle esportazioni di crusche verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 81/63/EEG van de Commissie van 31 juli 1963, houdende herziening
+    van het maximumbedrag van de restitutie bij uitvoer van zemelen naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0081
+docidentifier:
+- content: EU Regulation 81/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0081
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/81/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

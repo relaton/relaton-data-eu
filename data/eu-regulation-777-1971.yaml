@@ -1,0 +1,97 @@
+---
+id: EURegulation7771971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 777/71 of the Council of 14 April 1971 amending certain
+    provisions concerning intervention measures provided for by Regulation No 121/67/EEC
+    on the common organisation of the market in pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 777/71 du Conseil, du 14 avril 1971, modifiant certaines
+    dispositions relatives aux mesures d' intervention prévues au règlement n°
+    121/67/CEE portant organisation commune des marchés dans le secteur de la viande
+    porcine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 777/71 des Rates vom 14. April 1971 zur Änderung
+    einiger Bestimmungen betreffend die in der Verordnung Nr. 121/67/EWG über die
+    gemeinsame Marktorganisation für Schweinefleisch vorgesehenen Interventionsmaßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 777/71 af 14. april 1971 om ændring af visse
+    bestemmelser vedrørende de interventionsforanstaltninger, der omhandles i forordning
+    nr. 121/67/EØF om den fælles markedsordning for svinekød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 777/71 del Consiglio, del 14 aprile 1971, che modifica
+    alcune disposizioni relative alle misure d' intervento previste dal regolamento
+    n. 121/67/CEE, relativo all' organizzazione comune dei mercati nel settore delle
+    carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 777/71 van de Raad van 14 april 1971 houdende wijziging
+    van enige bepalingen betreffende de interventiemaatregelen, voorzien bij Verordening
+    nr. 121/67/EEG houdende een gemeenschappelijke ordening der markten in de sector
+    varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0777
+docidentifier:
+- content: EU Regulation 777/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0777
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/777/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-04-14'
+- type: implemented
+  at: '1971-04-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0121
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation19201975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1920/75 of the Commission of 25 July 1975 supplementing
+    Regulation (EEC) No 824/75 as regards the importation of sugar under the Agreement
+    with India on cane sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1920/75 de la Commission, du 25 juillet 1975, complétant
+    le règlement (CEE) n° 824/75 en ce qui concerne les importations de sucre en
+    vertu de l'accord avec l'Inde sur le sucre de canne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1920/75 der Kommission vom 25. Juli 1975 zur Ergänzung
+    der Verordnung (EWG) Nr. 824/75 betreffend Zuckereinfuhren auf Grund des Abkommens
+    mit Indien über Rohrzucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1920/75 af 25. juli 1975 om supplering
+    af forordning (EØF) nr. 824/75 for så vidt angår import af sukker i medfør
+    af aftalen med Indien om rørsukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1920/75 della Commissione, del 25 luglio 1975, che
+    completa il regolamento (CEE) n. 824/75 per quanto riguarda le importazioni di
+    zucchero ai sensi dell'accordo con l'India sullo zucchero di canna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1920/75 van de Commissie van 25 juli 1975 tot aanvulling
+    van Verordening (EEG) nr. 824/75 inzake de invoer van suiker krachtens de Overeenkomst
+    met India betreffende rietsuiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1920
+docidentifier:
+- content: EU Regulation 1920/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1920
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1920/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-25'
+- type: implemented
+  at: '1975-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0824
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

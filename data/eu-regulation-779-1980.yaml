@@ -1,0 +1,104 @@
+---
+id: EURegulation7791980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 779/80 of 27 March 1980 amending, as regards
+    the French franc, Regulation (EEC) No 878/77 on the exchange rates to be applied
+    in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 779/80 du Conseil, du 27 mars 1980, modifiant, en
+    ce qui concerne le franc français, le règlement (CEE) n° 878/77 relatif aux
+    taux de change à appliquer dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 779/80 des Rates vom 27. März 1980 zur Änderung
+    - in bezug auf den französischen Franken - der Verordnung (EWG) Nr. 878/77 über
+    die in der Landwirtschaft anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 779/80 af 27. marts 1980 om ændring, for
+    så vidt angår den franske franc, af forordning (EØF) nr. 878/77 om de vekselkurser,
+    der skal anvendes inden for landbrugssektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 779/80 τού Συμβουλίου
+    τής 27ης Μαρτίου 1980 περί τροποποιήσεως, ως πρός
+    τό γαλλικό φράγκο, τού κανονισμού (ΕΟΚ) αριθ.
+    878/77 «περί τών τιμών συναλλάγματος πού πρέπει
+    νά εφαρμόζονται στόν γεωργικό τομέα»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 779/80 del Consiglio, del 27 marzo 1980, che modifica,
+    per quanto concerne il franco francese, il regolamento (CEE) n. 878/77 relativo
+    ai tassi di cambio da applicare nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 779/80 van de Raad van 27 maart 1980 tot wijziging,
+    ten aanzien van de Franse frank, van Verordening (EEG) nr. 878/77 inzake de in
+    de landbouwsector toe te passen wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0779
+docidentifier:
+- content: EU Regulation 779/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0779
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/779/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-03-27'
+- type: implemented
+  at: '1980-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

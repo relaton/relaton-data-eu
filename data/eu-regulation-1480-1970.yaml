@@ -1,0 +1,74 @@
+---
+id: EURegulation14801970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1480/70 de la Commission, du 23 juillet 1970, fixant
+    les montants compensatoires applicables dans les échanges de certains produits
+    laitiers pendant la campagne laitière 1970/1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1480/70 der Kommission vom 23. Juli 1970 zur Festsetzung
+    der Berichtigungsbeträge im Handelsverkehr mit bestimmten Milcherzeugnissen im
+    Milchwirtschaftsjahr 1970/1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1480/70 della Commissione, del 23 luglio 1970, che
+    fissa gli importi di compensazione applicabili per alcuni prodotti lattiero-caseari
+    nella campagna lattiera 1970/1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1480/70 van de Commissie van 23 juli 1970 houdende
+    vaststelling van de compenserende bedragen welke van toepassing zijn voor het
+    handelsverkeer in bepaalde zuivelprodukten gedurende het melkprijsjaar 1970/1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1480
+docidentifier:
+- content: EU Regulation 1480/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1480
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1480/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-23'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

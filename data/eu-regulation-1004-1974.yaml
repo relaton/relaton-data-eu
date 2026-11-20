@@ -1,0 +1,103 @@
+---
+id: EURegulation10041974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1004/74 of the Commission of 26 April 1974 amending
+    Regulation No 45/64/EEC on applications for aid submitted to the Guidance Section
+    of the EAGGF
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1004/74 de la Commission, du 26 avril 1974, modifiant
+    le règlement n° 45/64/CEE relatif aux demandes de concours présentées au FEOGA,
+    section orientation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1004/74 der Kommission vom 26. April 1974 zur Änderung
+    der Verordnung Nr. 45/64/EWG über die Anträge auf Beihilfe, die dem EAGFL, Abteilung
+    Ausrichtung, vorgelegt werden
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1004/74 af 26. april 1974 om ændring
+    af forordning nr. 45/64/EØF om ansøgninger om støtte, der indgives til Den
+    europæiske Udviklings- og Garantifond - udviklingssektionen
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1004/74 της Επιτροπής
+    της 26ης Απριλίου 1974 περί τροποποιήσεως του
+    κανονισμού αριθ. 45/64/ΕΟΚ περί των αιτήσεων συνδρομής
+    που υποβάλλονται στο ΕΓΤΠΕ, Τμήμα Προσανατολισμού
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1004/74 della Commissione, del 26 aprile 1974, che
+    modifica il regolamento n. 45/64/CEE relativo alle domande di contributo presentate
+    al FEAOG sezione orientamento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1004/74 van de Commissie van 26 april 1974 tot wijziging
+    van Verordening nr. 45/64/EEG betreffende de bij het E.O.G.F.L., afdeling Oriëntatie,
+    ingediende aanvragen om bijstand
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1004
+docidentifier:
+- content: EU Regulation 1004/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1004
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1004/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-26'
+- type: implemented
+  at: '1974-04-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0045
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

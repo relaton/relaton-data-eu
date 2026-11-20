@@ -1,0 +1,69 @@
+---
+id: EURegulation1591964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 159/64/CEE de la Commission, du 28 octobre 1964, prévoyant
+    des dispositions en vue d'éviter les détournements de trafic dans le commerce
+    des produits laitiers pour lesquels il est appliqué un montant compensatoire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 159/64/EWG der Kommission vom 28. Oktober 1964 über Bestimmungen
+    zur Vermeidung von Verkehrsverlagerungen im Handel mit Milcherzeugnissen, für
+    die eine Ausgleichsabgabe erhoben wird
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 159/64/CEE della Commissione del 28 ottobre 1964 recante
+    disposizioni volte ad evitare gli sviamenti di traffico nel commercio dei prodotti
+    lattiero-caseari ai quali è stato applicato un importo di compensazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 159/64/EEG van de Commissie van 28 oktober 1964 houdende
+    bepalingen om verleggingen van het handelsverkeer ten aanzien van zuivelprodukten
+    waarvoor een compenserend bedrag wordt toegepast te vermijden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0159
+docidentifier:
+- content: EU Regulation 159/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0159
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/159/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

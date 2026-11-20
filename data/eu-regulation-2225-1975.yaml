@@ -1,0 +1,100 @@
+---
+id: EURegulation22251975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2225/75 of the Commission of 28 August 1975 amending
+    Regulation (EEC) No 2115/75, laying down in respect of the 1975/76 wine growing
+    year detailed rules for applying the obligation to distil the by-products of wine-making,
+    and repealing Regulation (EEC) No 2179/74
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2225/75 de la Commission, du 28 août 1975, modifiant
+    le règlement (CEE) n° 2115/75 relatif aux modalités d'application de l'obligation
+    de distiller les sous-produits de la vinification pour la campagne 1975/1976 et
+    abrogeant le règlement (CEE) n° 2179/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2225/75 der Kommission vom 28. August 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2115/75 über Durchführungsbestimmungen für die Verpflichtung
+    zur Destillation von Nebenerzeugnissen der Weinbereitung im Wirtschaftsjahr 1975/1976
+    und zur Aufhebung der Verordnung (EWG) Nr. 2179/74
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2225/75 af 28. august 1975 om ændring
+    af forordning (EØF) nr. 2115/75 om gennemførelsesbestemmelser for forpligtelsen
+    til at destillere biprodukter ved vinfremstilling i produktionsåret 1975/1976
+    og om ophævelse af forordning (EØF) nr. 2179/74
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2225/75 della Commissione, del 28 agosto 1975, recante
+    modifica del regolamento (CEE) n. 2115/75 che stabilisce le modalità di applicazione
+    dell'obbligo di distillare i sottoprodotti della vinificazione per la campagna
+    1975/1976 e abroga il regolamento (CEE) n. 2179/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2225/75 van de Commissie van 28 augustus 1975 houdende
+    wijziging van Verordening (EEG) nr. 2115/75 houdende uitvoeringsbepalingen inzake
+    de verplichte distillatie van de bijprodukten van de wijnbereiding in het wijnoogstjaar
+    1975/1976 en houdende intrekking van Verordening (EEG) nr. 2179/74
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2225
+docidentifier:
+- content: EU Regulation 2225/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2225
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2225/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-28'
+- type: implemented
+  at: '1975-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2115
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

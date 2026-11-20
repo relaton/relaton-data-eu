@@ -1,0 +1,103 @@
+---
+id: EUDecision1979252
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '79/252/EEC: Council Decision of 21 December 1978 amending the unilateral
+    import arrangements in respect of State-trading countries'
+  type: main
+- language: fr
+  script: Latn
+  content: '79/252/CEE: Décision du Conseil, du 21 décembre 1978, portant modification
+    des régimes autonomes d'' importation à l'' égard des pays à commerce d''
+    État'
+  type: main
+- language: de
+  script: Latn
+  content: '79/252/EWG: Entscheidung des Rates vom 21. Dezember 1978 zur Änderung
+    der autonomen Einfuhrregelungen gegenüber Staatshandelsländern'
+  type: main
+- language: da
+  script: Latn
+  content: '79/252/EØF: Rådets beslutning af 21. december 1978 om ændring af de
+    autonome ordninger for indførsel fra statshandelslande'
+  type: main
+- language: el
+  script: Grek
+  content: '79/252/ΕΟΚ: Απόφαση τού Συμβουλίου τής 21ης
+    Δεκεμβρίου 1978 περί τροποποιήσεως τών αυτονόμων
+    καθεστώτων εισαγωγής έναντι χωρών κρατικού
+    εμπορίου(1)'
+  type: main
+- language: it
+  script: Latn
+  content: '79/252/CEE: Decisione del Consiglio, del 21 dicembre 1978, che modifica
+    i regimi autonomi di importazione nei confronti dei paesi a commercio di Stato'
+  type: main
+- language: nl
+  script: Latn
+  content: '79/252/EEG: Beschikking van de Raad van 21 december 1978 tot wijziging
+    van de autonome invoerregelingen ten opzichte van de landen met staatshandel'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979D0252
+docidentifier:
+- content: EU Decision 1979/252
+  type: EU
+  primary: true
+- content: CELEX 31979D0252
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1979/252/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-12-21'
+- type: implemented
+  at: '1979-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978D0545
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975D0210
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

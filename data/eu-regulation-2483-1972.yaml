@@ -1,0 +1,70 @@
+---
+id: EURegulation24831972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2483/72 du Conseil, du 29 novembre 1972, fixant les
+    primes octroyées aux acheteurs de tabac en feuilles de la récolte 1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2483/72 des Rates vom 29. November 1972 zur Festsetzung
+    der Prämien für die Käufer von Tabakblättern der Ernte 1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2483/72 del Consiglio, del 29 novembre 1972, che fissa
+    i premi concessi agli acquirenti di tabacco in foglia del raccolto 1972
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2483/72 van de Raad van 29 november 1972 houdende
+    vaststelling van de premies voor kopers van tabaksbladeren van de oogst 1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2483
+docidentifier:
+- content: EU Regulation 2483/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2483
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2483/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-11-29'
+- type: implemented
+  at: '1972-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

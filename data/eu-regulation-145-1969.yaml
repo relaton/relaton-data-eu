@@ -1,0 +1,87 @@
+---
+id: EURegulation1451969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation No 145/69/EEC of 16 January 1969 modifying Regulation
+    No 823/68/EEC concerning the levy to be raised when importing tilsit, havarti
+    and esrom cheeses
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 145/69 du Conseil, du 16 janvier 1969, modifiant le
+    règlement (CEE) n° 823/68 en ce qui concerne le prélèvement à percevoir lors
+    de l'importation des fromages tilsit, havarti et esrom
+  type: main
+- language: de
+  script: Latn
+  content: VERORDNUNG ( EWG ) NR. 145/69 DES RATES VOM 16. JANUAR 1969 ZUR AENDERUNG
+    DER VERORDNUNG ( EWG ) NR. 823/68 HINSICHTLICH DER BEI DER EINFUHR DER KAESESORTEN
+    TILSITER, HAVARTI UND ESROM ZU ERHEBENDEN ABSCHOEPFUNG
+  type: main
+- language: it
+  script: Latn
+  content: REGOLAMENTO ( CEE ) N. 145/69 DEL CONSIGLIO, DEL 16 GENNAIO 1969, CHE MODIFICA
+    IL REGOLAMENTO ( CEE ) N. 823/68 PER QUANTO RIGUARDA IL PRELIEVO APPLICABILE ALL'
+    IMPORTAZIONE DEI FORMAGGI TILSIT, HAVARTI E ESROM
+  type: main
+- language: nl
+  script: Latn
+  content: VERORDENING ( EEG ) NR. 145/69 VAN DE RAAD VAN 16 JANUARI 1969 HOUDENDE
+    WIJZIGING VAN VERORDENING ( EEG ) NR. 823/68 BETREFFENDE DE BIJ INVOER VAN TILSIT,
+    HAVARTI EN ESROM TOE TE PASSEN HEFFING
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0145
+docidentifier:
+- content: EU Regulation 145/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0145
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/145/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-01-16'
+- type: implemented
+  at: '1969-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0823
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

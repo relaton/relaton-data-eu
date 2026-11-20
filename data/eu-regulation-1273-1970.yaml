@@ -1,0 +1,65 @@
+---
+id: EURegulation12731970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1273/70 de la Commission, du 30 juin 1970, fixant les
+    prix moyens à la production dans le secteur du vin
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1273/70 der Kommission vom 30. Juni 1970 über die
+    Festsetzung der durchschnittlichen Erzeugerpreise für Wein
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1273/70 della Commissione, del 30 giugno 1970, che
+    fissa i prezzi medi alla produzione nel settore del vino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1273/70 van de Commissie van 30 juni 1970 houdende
+    vaststelling der gemiddelde produktieprijzen in de sector wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1273
+docidentifier:
+- content: EU Regulation 1273/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1273
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1273/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

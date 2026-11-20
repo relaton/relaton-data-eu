@@ -1,0 +1,74 @@
+---
+id: EURegulation1291967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 129/67/CEE du Conseil, du 13 juin 1967, déterminant les
+    qualités type pour le blé tendre, le seigle, l'orge, le maïs et le blé dur,
+    pour la campagne 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 129/67/EWG des Rates vom 13. Juni 1967 zur Festsetzung der
+    Standardqualitäten für Weichweizen, Roggen, Gerste, Mais und Hartweizen für
+    das Wirtschaftsjahr 1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 129/67/CEE del Consiglio, del 13 giugno 1967, che fissa
+    le qualità tipo del grano tenero, della segala, dell'orzo, del granturco e del
+    grano duro per la campagna 1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 129/67/EEG van de Raad van 13 juni 1967 tot vaststelling
+    van de standaardkwaliteiten voor zachte tarwe, rogge, gerst, maïs en durum tarwe
+    voor het verkoopseizoen 1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0129
+docidentifier:
+- content: EU Regulation 129/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0129
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/129/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-13'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

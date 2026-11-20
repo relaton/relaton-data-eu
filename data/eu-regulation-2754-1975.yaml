@@ -1,0 +1,88 @@
+---
+id: EURegulation27541975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2754/75 of the Council of 29 October 1975 on imports
+    of certain cereals from Turkey
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2754/75 du Conseil, du 29 octobre 1975, relatif aux
+    importations de certaines céréales de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2754/75 des Rates vom 29. Oktober 1975 über die Einfuhr
+    bestimmter Getreidearten aus der Türkei
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2754/75 af 29. oktober 1975 om indførsel
+    af visse kornarter fra Tyrkiet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2754/75 del Consiglio, del 29 ottobre 1975, relativo
+    alle importazioni di alcuni cereali dalla Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2754/75 van de Raad van 29 oktober 1975 met betrekking
+    tot de invoer van bepaalde graansoorten uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2754
+docidentifier:
+- content: EU Regulation 2754/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2754
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2754/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1234
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

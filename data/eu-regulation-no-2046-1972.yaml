@@ -1,0 +1,76 @@
+---
+id: EURegulationNo20461972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2046/72 du Conseil, du 25 septembre 1972, portant
+    conclusion d'un accord intérimaire entre la Communauté économique européenne
+    et la République d'Autriche et arrêtant des dispositions pour son application
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2046/72 des Rates vom 25. September 1972 über den
+    Abschluß eines Interimsabkommens zwischen der Europäischen Wirtschaftsgemeinschaft
+    und der Republik Österreich sowie zur Festlegung von Durchführungsbestimmungen
+    zu diesem Abkommen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2046/72 del Consiglio, del 25 settembre 1972, che
+    reca conclusione di un accordo interinale tra la Comunità economica europea e
+    la Repubblica d'Austria e che ne stabilisce le disposizioni d'applicazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2046/72 van de Raad van 25 september 1972 houdende
+    sluiting van een interimovereenkomst tussen de Europese Economische Gemeenschap
+    en de Republiek Oostenrijk en houdende vaststelling van bepalingen ter uitvoering
+    daarvan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2046
+docidentifier:
+- content: EU Regulation No 2046/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2046
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2046/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-09-25'
+- type: implemented
+  at: '1972-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

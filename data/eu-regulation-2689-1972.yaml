@@ -1,0 +1,95 @@
+---
+id: EURegulation26891972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2689/72 of the Council of 12 December 1972 supplementing
+    Regulation No 176/67/EEC as regards general rules for the advance fixing of export
+    refunds on poultrymeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2689/72 du Conseil, du 12 décembre 1972, complétant
+    le règlement n° 176/67/CEE en ce qui concerne les règles générales de fixation
+    à l' avance des restitutions à l' exportation dans le secteur de la viande de
+    volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2689/72 des Rates vom 12. Dezember 1972 zur Ergänzung
+    der Verordnung Nr. 176/67/EWG in bezug auf die Grundregeln für die Vorausfestsetzung
+    der Erstattungen bei der Ausfuhr von Geflügelfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2689/72 af 12. december 1972 om tillæg til
+    forordning nr. 176/67/EØF for så vidt angår de almindelige regler om forudfastsættelse
+    af eksportrestitutioner for fjerkrækød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2689/72 del Consiglio, del 12 dicembre 1972, che completa
+    il regolamento n. 176/67/CEE per quanto riguarda le norme generali di fissazione
+    anticipata delle restituzioni all' esportazione nel settore del pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2689/72 van de Raad van 12 december 1972 tot aanvulling
+    van Verordening nr. 176/67/EEG ten aanzien van de algemene voorschriften voor
+    de vaststelling vooraf van restituties bij uitvoer in de sector slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2689
+docidentifier:
+- content: EU Regulation 2689/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2689
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2689/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-12'
+- type: implemented
+  at: '1972-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0176
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,72 @@
+---
+id: EURegulation751967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 75/67/CEE de la Commission, du 17 avril 1967, tendant à éviter
+    les détournements de trafic pouvant résulter de la hausse des prix de seuil
+    du riz dans les États membres non producteurs le 1er mai 1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 75/67/EWG der Kommission vom 17. April 1967 zur Vermeidung
+    von Verkehrsverlagerungen, die sich aus der am 1. Mai 1967 eintretenden Erhöhung
+    des Schwellenpreises für Reis in den Mitgliedstaaten ohne eigene Produktion ergeben
+    können
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 75/67/CEE della Commissione, del 17 aprile 1967, inteso
+    ad evitare le deviazioni di traffico che potranno risultare dell'aumento del prezzo
+    d'entrata del riso negli Stati membri non produttori a decorrere dal 1 maggio
+    1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 75/67/EEG van de Commissie van 17 april 1967 ter voorkoming
+    van verleggingen van het handelsverkeer die door de verhoging van de drempelprijs
+    voor rijst in de niet-producerende Lid-Staten op 1 mei 1967 zouden kunnen worden
+    veroorzaakt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0075
+docidentifier:
+- content: EU Regulation 75/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0075
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/75/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-04-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

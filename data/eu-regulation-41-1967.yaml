@@ -1,0 +1,71 @@
+---
+id: EURegulation411967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 41/67/CEE de la Commission, du 28 février 1967, portant modalités
+    d'application du règlement n 215/66/CEE relatif au régime applicable aux aliments
+    composés à base de produits laitiers et au lait en poudre destiné à l'alimentation
+    du bétail
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 41/67/EWG der Kommission vom 28. Februar 1967 über die
+    Durchführungsbestimmungen zur Verordnung Nr. 215/66/EWG über die Regelung für
+    Milch-Mischfuttermittel und für Milchpulver für Futterzwecke
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 41/67/CEE della Commissione, del 28 febbraio 1967, che stabilisce
+    le modalità di applicazione del regolamento n. 215/66/CEE relativo al regime
+    applicabile agli alimenti composti a base di prodotti lattiero-caseari e al latte
+    in polvere destinati all'alimentazione del bestiame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 41/67/EEG van de Commissie van 28 februari 1967 inzake
+    de wijze van uitvoering van Verordening no. 215/66/EEG betreffende de regeling
+    voor mengvoeders op basis van zuivelprodukten en voor melkpoeder voor voederdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0041
+docidentifier:
+- content: EU Regulation 41/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0041
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/41/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

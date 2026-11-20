@@ -1,0 +1,103 @@
+---
+id: EUDirective1980371
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 80/371/EEC of 26 March 1980 derogating, in favour of
+    the French Republic, from Directive 73/403/EEC on the synchronization of general
+    population censuses
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 80/371/CEE du Conseil, du 26 mars 1980, portant dérogation en
+    faveur de la République française à la directive 73/403/CEE relative à la
+    synchronisation des recensements généraux de la population
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 80/371/EWG des Rates vom 26. März 1980 zur Ermächtigung der
+    Französischen Republik, von der Richtlinie 73/403/EWG zur Synchronisierung der
+    allgemeinen Volkszählungen abzuweichen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 80/371/EØF af 26. marts 1980 om afvigelse til fordel
+    for Den franske Republik fra direktiv 73/403/EØF om synkronisering af de almindelige
+    folketællinger
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 80/371/EOK του Συμβουλίου της 26ης Μαρτίου
+    1980 περί παρεκκλίσεως υπέρ της Γαλλικής Δημοκρατίας
+    από των οδηγία 73/403/EOK περί συγχρονισμού των
+    γενικών απογραφών πληθυσμού
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 80/371/CEE del Consiglio, del 26 marzo 1980, che deroga in favore
+    della Repubblica francese alla direttiva 73/403/CEE relativa alla sincronizzazione
+    dei censimenti generali della popolazione
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 80/371/EEG van de Raad van 26 maart 1980 houdende afwijking,
+    ten behoeve van de Franse Republiek, van Richtlijn 73/403/EEG inzake de synchronisatie
+    van algemene volkstellingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980L0371
+docidentifier:
+- content: EU Directive 1980/371
+  type: EU
+  primary: true
+- content: CELEX 31980L0371
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1980/371/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-03-26'
+- type: implemented
+  at: '1980-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973L0403
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

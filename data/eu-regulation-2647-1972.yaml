@@ -1,0 +1,114 @@
+---
+id: EURegulation26471972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (ECSC, EEC, Euratom) No 2647/72 of the Council of 12 December
+    1972 adjusting the remuneration and pensions of officials of the European Communities
+    and the remuneration of other servants of the Communities
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom, CECA, CEE) n° 2647/72 du Conseil, du 12 décembre
+    1972, portant adaptation des rémunérations et pensions des fonctionnaires des
+    Communautés européennes et des autres agents de ces Communautés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom, EGKS, EWG) Nr. 2647/72 des Rates vom 12. Dezember
+    1972 zur Angleichung der Dienst- und Versorgungsbezüge der Beamten der Europäischen
+    Gemeinschaften und der sonstigen Bediensteten dieser Gemeinschaften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EURATOM, EKSF, EØF) nr. 2647/72 af 12. december 1972
+    om tilpasning af vederlag og pensioner til tjenestemænd i De europæiske Fællesskaber
+    og øvrige ansatte i Fællesskaberne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom, CECA, CEE) n. 2647/72 del Consiglio, del 12 dicembre
+    1972, relativo all' adeguamento delle retribuzioni e delle pensioni dei funzionari
+    delle Comunità europee e degli altri agenti di tali Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom, EGKS, EEG) nr. 2647/72 van de Raad van 12 december
+    1972 houdende aanpassing van de bezoldiging en de pensioenen van de ambtenaren
+    der Europese Gemeenschappen en van de personeelsleden van deze Gemeenschappen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2647
+docidentifier:
+- content: EU Regulation 2647/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2647
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2647/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-12'
+- type: implemented
+  at: '1972-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2653
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0600
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1725
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(01)
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0259(02)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

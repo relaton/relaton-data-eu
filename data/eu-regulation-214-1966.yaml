@@ -1,0 +1,85 @@
+---
+id: EURegulation2141966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 214/66/CEE du Conseil du 14 décembre 1966 modifiant la
+    liste des produits relevant du règlement n° 19, et la liste des produits relevant
+    du règlement n° 13/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 214/66/EWG des Rates vom 14. Dezember 1966 zur Änderung
+    der Liste der Erzeugnisse der Verordnung Nr. 19 und der Liste der Erzeugnisse
+    der Verordnung Nr. 13/64/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 214/66/CEE del Consiglio, del 14 dicembre 1966, che modifica
+    l'elenco dei prodotti di cui al regolamento n. 19 e l'elenco dei prodotti di cui
+    al regolamento n. 13/64/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 214/66/EEG van de Raad van 14 december 1966 tot wijziging
+    van de lijsten van de produkten vallende respectievelijk onder Verordening Nr.
+    19 en Verordening Nr. 13/64/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0214
+docidentifier:
+- content: EU Regulation 214/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0214
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/214/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-14'
+- type: implemented
+  at: '1967-03-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0019
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0013
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,82 @@
+---
+id: EURegulation12641969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1264/69 du Conseil, du 30 juin 1969, portant suspension
+    temporaire du régime des interventions en ce qui concerne les graines de colza
+    et de navette
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1264/69 des Rates vom 30. Juni 1969 zur zeitweiligen
+    Aussetzung der Interventionsregelung für Raps- und Rübsensamen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1264/69 del Consiglio, del 30 giugno 1969, recante
+    sospensione temporanea del regime degli interventi per i semi di colza e di ravizzone
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1264/69 van de Raad van 30 juni 1969 houdende tijdelijke
+    schorsing van het interventiestelsel voor koolzaad en raapzaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1264
+docidentifier:
+- content: EU Regulation 1264/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1264
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1264/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-30'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0136
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0172
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

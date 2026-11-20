@@ -1,0 +1,94 @@
+---
+id: EURegulation9131971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 913/71 of the Commission of 30 April 1971 on the restriction
+    of products to which the special rules for payment of the refund laid down in
+    Regulation (EEC) No 441/69 are applicable
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 913/71 de la Commission, du 30 avril 1971, relatif
+    à la limitation des produits auxquels s' applique le régime particulier de paiement
+    de la restitution institué par le règlement (CEE) n° 441/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 913/71 der Kommission vom 30. April 1971 über die
+    Beschränkung der Erzeugnisse, auf die die durch die Verordnung (EWG) Nr. 441/69
+    eingeführte besondere Regelung für die Zahlung der Erstattung angewandt wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 913/71 af 30. april 1971 vedrørende
+    begrænsning af de varer for hvilke den ved forordning (EØF) nr. 441/69 indførte
+    særlige restitutionsbetalingsordning kommer til anvendelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 913/71 della Commissione, del 30 aprile 1971, relativo
+    alla limitazione dei prodotti ai quali si applica il regime particolare di pagamento
+    della restituzione stabilito dal regolamento (CEE) n. 441/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 913/71 van de Commissie van 30 april 1971 met betrekking
+    tot de beperking van produkten, waarop de met Verordening (EEG) nr. 441/69 ingevoerde
+    bijzondere regeling voor de betaling van de restituties wordt toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0913
+docidentifier:
+- content: EU Regulation 913/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0913
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/913/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-04-30'
+- type: implemented
+  at: '1971-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0441
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

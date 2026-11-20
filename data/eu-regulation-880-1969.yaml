@@ -1,0 +1,114 @@
+---
+id: EURegulation8801969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 880/69 of the Commission of 12 May 1969 amending Regulations
+    (EEC) Nos 198/69, 507/69 and 685/69 on intervention on the market in butter and
+    cream
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 880/69 de la Commission, du 12 mai 1969, modifiant
+    les règlements (CEE) n°s 198/69, 507/69 et 685/69 relatifs aux interventions
+    sur le marché du beurre et de la crème de lait
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 880/69 der Kommission vom 12. Mai 1969 zur Änderung
+    der Verordnung (EWG) Nr. 198/69, 507/69 und 685/69 über Interventionen auf dem
+    Markt für Butter und Rahm
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 880/69 af 12. maj 1969 om ændring
+    af forordningerne (EØF) nr. 198/69, 507/69 og 685/69 om interventioner på markedet
+    for smør og fløde
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 880/69 της Επιτροπής
+    της 12ης Μαΐου 1969 περί τροποποιήσεως των κανονισμών
+    (ΕΟΚ) αριθ. 198/69, (ΕΟΚ) αριθ. 507/69 και (ΕΟΚ) αριθ.
+    685/69 περί των παρεμβάσεων στην αγορά του βουτύρου
+    και της κρέμας γάλακτος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 880/69 della Commissione, del 12 maggio 1969, che
+    modifica i regolamenti (CEE) nn. 198/69, 507/69 e 685/69 relativi agli interventi
+    sul mercato del burro e della crema di latte
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 880/69 van de Commissie van 12 mei 1969 houdende
+    wijziging van de Verordeningen (EEG) nr. 198/69, nr. 507/69 en nr. 685/69 betreffende
+    de interventiemaatregelen op de markt voor boter en room
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0880
+docidentifier:
+- content: EU Regulation 880/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0880
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/880/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-12'
+- type: implemented
+  at: '1969-05-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0198
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0507
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0685
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation5461975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 546/75 of the Commission of 3 March 1975 altering the
+    amount of aid provided for in Regulation (EEC) No 1437/70 on storage contracts
+    for table wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 546/75 de la Commission, du 3 mars 1975, modifiant
+    le montant de l' aide prévu par le règlement (CEE) n° 1437/70 relatif aux contrats
+    de stockage pour le vin de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 546/75 der Kommission vom 3. März 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1437/70 über die Lagervorräte für Tafelwein hinsichtlich
+    des Beihilfebetrags
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 546/75 af 3. marts 1975 om ændring
+    af det støttebeløb, der er fastsat i forordning (EØF) nr. 1437/70 om lagerkontrakter
+    for bordvin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 546/75 della Commissione, del 3 marzo 1975, che modifica,
+    per quanto riguarda l' importo dell' aiuto, il regolamento (CEE) n. 1437/70 relativo
+    ai contratti di magazzinaggio per il vino da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 546/75 van de Commissie van 3 maart 1975 tot wijziging
+    van het bij Verordening (EEG) nr. 1437/70 betreffende opslagcontracten voor tafelwijn
+    vastgestelde steunbedrag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0546
+docidentifier:
+- content: EU Regulation 546/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0546
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/546/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-03'
+- type: implemented
+  at: '1975-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1437
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

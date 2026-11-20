@@ -1,0 +1,107 @@
+---
+id: EURegulation1071976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 107/76 of 19 January 1976 laying down general
+    rules for determining the percentage of the guide price to be used to calculate
+    the withdrawal price for certain fishery products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 107/76 du Conseil, du 19 janvier 1976, établissant
+    les règles générales relatives à la détermination du pourcentage du prix
+    d' orientation servant comme élément de calcul du prix de retrait pour certains
+    produits de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 107/76 des Rates vom 19. Januar 1976 über allgemeine
+    Regeln für die Bestimmung des bei der Berechnung des Rücknahmepreises für bestimmte
+    Fischereierzeugnisse zugrunde zu legenden Hundertsatzes des Orientierungspreises
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 107/76 af 19. januar 1976 om fastsættelse
+    af de almindelige regler for bestemmelse af den procentdel af orienteringsprisen,
+    der lægges til grund ved beregning af tilbagetagelsesprisen for visse fiskerivarer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 107/76 τού Συμβουλίου
+    τής 19ης Ιανουαρίου 1976 περί γενικών κανόνων
+    σχετικά μέ τόν καθορισμό τού ποσοστού τής τιμής
+    προσανατολισμού πού χρησιμεύει ως στοιχείο
+    υπολογισμού τής τιμής αποσύρσεως γιά ορισμένα
+    προϊόντα αλιείας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 107/76 del Consiglio, del 19 gennaio 1976, che stabilisce
+    le norme generali relative alla determinazione della percentuale del prezzo d'
+    orientamento da adottare come elemento di calcolo del prezzo di ritiro per alcuni
+    prodotti della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 107/76 van de Raad van 19 januari 1976 houdende vaststelling
+    van de algemene regels voor de bepaling van het percentage van de oriëntatieprijs
+    waarvan wordt uitgegaan voor de berekening van de ophoudprijs voor bepaalde visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0107
+docidentifier:
+- content: EU Regulation 107/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0107
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/107/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-01-19'
+- type: implemented
+  at: '1976-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0173
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

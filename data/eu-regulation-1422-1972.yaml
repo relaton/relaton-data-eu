@@ -1,0 +1,94 @@
+---
+id: EURegulation14221972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1422/72 of the Commission of 4 July 1972 amending Regulation
+    (EEC) No 1492/71 fixing the procedure and conditions for the taking over of cereals
+    by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1422/72 de la Commission,du 4 juillet 1972, modifiant
+    le règlement (CEE) n° 1492/71 fixant les procédures et conditions de prise
+    en charge des céréales par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1422/72 der Kommission vom 4. Juli 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1492/71 über das Verfahren und die Bedingungen für
+    die Übernahme von Getreide durch die Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1422/72 af 4. juli 1972 om ændring
+    af forordning (EØF) nr. 1492/71 om fremgangsmåden ved og betingelserne for interventionsorganernes
+    overtagelse af korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1422/72 della Commissione, del 4 luglio 1972, che
+    modifica il regolamento (CEE) n. 1492/71 che stabilisce le procedure e le condizioni
+    di presa in consegna di cereali da parte degli organismi di intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1422/72 van de Commissie van 4 juli 1972 houdende
+    wijziging van Verordening (EEG) nr. 1492/71 houdende vaststelling van de procedures
+    en voorwaarden voor de overneming van granen door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1422
+docidentifier:
+- content: EU Regulation 1422/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1422
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1422/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-04'
+- type: implemented
+  at: '1972-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1492
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

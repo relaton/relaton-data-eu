@@ -1,0 +1,85 @@
+---
+id: EUDecision1967659
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 13 octobre 1967, relative à la fixation
+    des moyennes arithmétiques des prélèvements agricoles envers les pays tiers
+    servant de base pour le calcul du prélèvement compensateur institué en vertu
+    de l'article 10 du Traité
+  type: main
+- language: de
+  script: Latn
+  content: '67/659/EWG: Entscheidung der Kommission vom 13. Oktober 1967 über die
+    Festsetzung der mittleren Abschöpfungen gegenüber dritten Ländern, die der
+    Berechnung des gemäß Artikel 10 des Vertrages eingeführten anteiligen Zolls
+    zugrunde zu legen sind'
+  type: main
+- language: it
+  script: Latn
+  content: '67/659/CEE: Decisione della Commissione, del 13 ottobre 1967, relativa
+    alla fissazione delle medie aritmetiche dei prelievi agricoli nei confronti dei
+    paesi terzi, da servire di base per il calcolo del prelievo compensativo istituito
+    in virtù dell''articolo 10 del Trattato'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/659/EEG: Beschikking van de Commissie van 13 oktober 1967 betreffende
+    de vaststelling van de rekenkundige gemiddelden van de landbouwheffingen, ten
+    opzichte van derde landen, welke gemiddelden aan de berekening van de ingevolge
+    artikel 10 van het Verdrag ingestelde compenserende heffing ten grondslag worden
+    gelegd'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0659
+docidentifier:
+- content: EU Decision 1967/659
+  type: EU
+  primary: true
+- content: CELEX 31967D0659
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/659/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-13'
+- type: implemented
+  at: '1967-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965D0010
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

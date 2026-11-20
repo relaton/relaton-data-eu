@@ -1,0 +1,80 @@
+---
+id: EURegulation501967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 50/67/CEE du Conseil, du 7 mars 1967, portant prorogation,
+    pour l'année 1966, du délai prévu par l'article 20 paragraphe 1 du règlement
+    n° 17/64/CEE relatif au FEOGA
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 50/67/EWG des Rates vom 7. März 1967 zur Verlängerung
+    der in Artikel 20 Absatz (1) der Verordnung Nr. 17/64/EWG über den EAGFL festgesetzten
+    Frist für das Jahr 1966
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 50/67/CEE del Consiglio, del 7 marzo 1967, che proroga per
+    il 1966 il termine di cui all'articolo 20, paragrafo 1, del regolamento n. 17/
+    64/CEE relativo al Fondo europeo agricolo di orientamento e di garanzia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 50/67/EEG van de Raad van 7 maart 1967 houdende verlenging
+    voor het jaar 1966 van de termijn bedoeld in artikel 20, lid 1, van Verordening
+    Nr. 17/64/EEG betreffende het Europees Oriëntatie- en Garantiefonds voor de Landbouw.
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0050
+docidentifier:
+- content: EU Regulation 50/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0050
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/50/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-07'
+- type: implemented
+  at: '1967-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

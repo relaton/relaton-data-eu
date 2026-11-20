@@ -1,0 +1,69 @@
+---
+id: EURegulation571962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 57 du Conseil portant dérogation au règlement n° 20 du
+    Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 57 des Rats zur Änderung der Verordnung Nr. 20 des Rats
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 57 del Consiglio relativo alla deroga al regolamento n.
+    20 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 57 van de Raad, houdende afwijking van Verordening Nr.
+    20 van de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0057
+docidentifier:
+- content: EU Regulation 57/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0057
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/57/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-06-30'
+- type: implemented
+  at: '1962-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

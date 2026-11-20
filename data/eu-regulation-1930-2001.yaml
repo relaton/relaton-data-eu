@@ -1,0 +1,134 @@
+---
+id: EURegulation19302001
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1930/2001 of 1 October 2001 amending Regulations
+    (EC) No 1779/2001 and (EC) No 1780/2001 concerning the issue of A licences for
+    the import of garlic
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1930/2001 de la Commission du 1er octobre 2001 modifiant
+    les règlements (CE) n° 1779/2001 et (CE) n° 1780/2001 concernant la délivrance
+    des certificats A d'importation d'ail
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1930/2001 der Kommission vom 1. Oktober 2001 zur Änderung
+    der Verordnungen (EG) Nr. 1779/2001 und (EG) Nr. 1780/2001 zur Erteilung von A-Lizenzen
+    für die Einfuhr von Knoblauch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1930/2001 af 1. oktober 2001 om ændring
+    af forordning (EF) nr. 1779/2001 og (EF) nr. 1780/2001 om udstedelse af A-licenser
+    for import af hvidløg
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1930/2001 της Επιτροπής,
+    της 1ης Οκτωβρίου 2001, για την τροποποίηση των
+    κανονισμών (ΕΚ) αριθ. 1779/2001 και (ΕΚ) αριθ. 1780/2001
+    σχετικά με την έκδοση των πιστοποιητικών Α
+    εισαγωγής σκόρδου
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1930/2001, annettu 1 päivänä lokakuuta 2001,
+    vientisipulin A-tuontitodistusten myöntämisestä annettujen asetusten (EY) N:o
+    1779/2001 ja (EY) N:o 1780/2001 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1930/2001 della Commissione, del 1° ottobre 2001,
+    che modifica i regolamenti (CE) n. 1779/2001 e (CE) n. 1780/2001 relativi al rilascio
+    dei titoli A per l'importazione di aglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1930/2001 van de Commissie van 1 oktober 2001 tot
+    wĳziging van de Verordeningen (EG) nr. 1779/2001 en (EG) nr. 1780/2001 betreffende
+    de afgifte van A-certificaten voor de invoer van knoflook
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 1930/2001 da Comissão, de 1 de Outubro de 2001,
+    que altera os Regulamentos (CE) n.° 1779/2001 e (CE) n.° 1780/2001 relativos
+    à emissão de certificados A de importação de alhos
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1930/2001 de la Comisión, de 1 de octubre de 2001,
+    que modifica los Reglamentos (CE) n° 1779/2001 y (CE) n° 1780/2001, relativos
+    a la expedición de los certificados A de importación de ajos
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1930/2001 av den 1 oktober 2001 om ändring
+    av förordningarna (EG) nr 1779/2001 och (EG) nr 1780/2001 om utfärdande av A-licenser
+    för import av vitlök
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1930
+docidentifier:
+- content: EU Regulation 1930/2001
+  type: EU
+  primary: true
+- content: CELEX 32001R1930
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2001/1930/oj
+  type: ELI
+date:
+- type: issued
+  at: '2001-10-01'
+- type: implemented
+  at: '2001-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32001R1779
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 32001R1780
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

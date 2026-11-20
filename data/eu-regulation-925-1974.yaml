@@ -1,0 +1,101 @@
+---
+id: EURegulation9251974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 925/74 of the Commission of 17 April 1974 making a
+    fourth amendment to Regulation (EEC) No 2005/70 on the classification of vine
+    varieties
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 925/74 de la Commission, du 17 avril 1974, portant
+    quatrième modification du règlement (CEE) n° 2005/70 relatif au classement
+    des variétés de vigne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 925/74 der Kommission vom 17. April 1974 zur vierten
+    Änderung der Verordnung (EWG) Nr. 2005/70 über die Klassifizierung von Rebsorten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 925/74 af 17. april 1974 om fjerde
+    ændring af forordning (EØF) nr. 2005/70 om klassificering af vinstoksorterne
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 925/74 τής Επιτροπής
+    τής 17ης Απριλίου 1974 περί τετάρτης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 2005/70 «περί κατατάξεως
+    τών ποικιλιών αμπέλου»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 925/74 della Commissione, del 17 aprile 1974, recante
+    quarta modificazione del regolamento (CEE) n. 2005/70 relativo alla classificazione
+    delle varietà di vite
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 925/74 van de Commissie van 17 april 1974 houdende
+    vierde wijziging van Verordening (EEG) nr. 2005/70 betreffende de indeling van
+    de wijnstokrassen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0925
+docidentifier:
+- content: EU Regulation 925/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0925
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/925/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-17'
+- type: implemented
+  at: '1974-04-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2005
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

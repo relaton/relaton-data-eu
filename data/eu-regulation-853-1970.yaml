@@ -1,0 +1,90 @@
+---
+id: EURegulation8531970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 853/70 of the Council of 12 May 1970 amending Regulation
+    No 1009/67/EEC on the common organisation of the market in sugar
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 853/70 du Conseil, du 12 mai 1970, modifiant le règlement
+    n° 1009/67/CEE portant organisation commune des marchés dans le secteur du sucre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 853/70 des Rates vom 12. Mai 1970 zur Änderung der
+    Verordnung Nr. 1009/67/EWG über die gemeinsame Marktorganisation für Zucker
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 853/70 af 12. maj 1970 om ændring af forordning
+    nr. 1009/67/EØF om den fælles markedsordning for sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 853/70 del Consiglio, del 12 maggio 1970, che modifica
+    il regolamento n. 1009/67/CEE, relativo all' organizzazione comune dei mercati
+    nel settore dello zucchero
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 853/70 van de Raad van 12 mei 1970 tot wijziging
+    van Verordening nr. 1009/67/EEG houdende een gemeenschappelijke ordening der markten
+    in de sector suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0853
+docidentifier:
+- content: EU Regulation 853/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0853
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/853/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-12'
+- type: implemented
+  at: '1968-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1009
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

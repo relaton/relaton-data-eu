@@ -1,0 +1,104 @@
+---
+id: EURegulation25511983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2551/83 of 12 September 1983 amending for
+    the seventh time Regulation (EEC) No 3172/80 laying down implementing rules in
+    respect of the system of consumption aid for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2551/83 de la Commission du 12 septembre 1983 portant
+    septième modification du règlement (CEE) no 3172/80 portant modalités d' application
+    du régime d' aide à la consommation pour l' huile d' olive
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2551/83 der Kommission vom 12. September 1983 zur
+    siebenten Änderung der Verordnung (EWG) Nr. 3172/80 über die Durchführungsvorschriften
+    für die Verbrauchsbeihilfe für Olivenöl
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2551/83 af 12. september 1983 om syvende
+    ændring af forordning (EØF) nr. 3172/80 om gennemførelsesbestemmelser for ordningen
+    vedrørende støtte til forbruget af olivenolie
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2551/83 της Επιτροπής
+    της 12ης Σεπτεμβρίου 1983 για την έβδομη τροποποίηση
+    του κανονισμού (ΕΟΚ) αριθ. 3172/80 σχετικά με τις
+    λεπτομέρειες εφαρμογής του καθεστώτος ενίσχυσης
+    στην κατανάλωση ελαιολάδου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2551/83 della Commissione del 12 settembre 1983 recante
+    settima modifica del regolamento (CEE) n. 3172/80 recante modalità di applicazione
+    del regime di aiuto al consumo per l' olio d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2551/83 van de Commissie van 12 september 1983 houdende
+    zevende wijziging van Verordening (EEG) nr. 3172/80 houdende uitvoeringsbepalingen
+    van de consumptiesteunregeling voor olijfolie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R2551
+docidentifier:
+- content: EU Regulation 2551/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R2551
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/2551/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-09-12'
+- type: implemented
+  at: '1983-09-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R3172
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

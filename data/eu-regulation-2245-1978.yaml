@@ -1,0 +1,104 @@
+---
+id: EURegulation22451978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2245/78 of 26 September 1978 amending Regulation
+    (EEC) No 2744/75 on the import and export system for products processed from cereals
+    and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2245/78 du Conseil, du 26 septembre 1978, modifiant
+    le règlement (CEE) n° 2744/75 relatif au régime d' importation et d' exportation
+    des produits transformés à base de céréales et de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2245/78 des Rates vom 26. September 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2744/75 über die Regelung für die Einfuhr und die Ausfuhr
+    von Getreide- und Reisverarbeitungserzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2245/78 af 26. september 1978 om ændring
+    af forordning (EØF) nr. 2744/75 om regler for indførsel og udførsel af produkter
+    forarbejdet på basis af korn og ris
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2245/78 του Συμβουλίου
+    της 26ης Σεπτεμβρίου 1978 περί τροποποιήσεως
+    του κανονισμού (ΕΟΚ) αριθ. 2744/75 «περί του καθεστώτος
+    εισαγωγής και εξαγωγής των μεταποιημένων προϊόντων
+    με βάση τα σιτηρά και την όρυζα»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2245/78 del Consiglio, del 26 settembre 1978, che
+    modifica il regolamento (CEE) n. 2744/75 relativo al regime di importazione e
+    d' esportazione dei prodotti trasformati a base di cereali e di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2245/78 van de Raad van 26 september 1978 tot wijziging
+    van Verordening (EEG) nr. 2744/75 betreffende de regeling voor de invoer en de
+    uitvoer van op basis van granen en rijst verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2245
+docidentifier:
+- content: EU Regulation 2245/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2245
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2245/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-09-26'
+- type: implemented
+  at: '1978-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2744
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

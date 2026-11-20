@@ -1,0 +1,134 @@
+---
+id: EURegulation1622000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 162/2000 of 24 January 2000 amending Regulation
+    (EC) No 2705/1999 establishing the standard import values for determining the
+    entry price of certain fruit and vegetables
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 162/2000 de la Commission, du 24 janvier 2000, rectifiant
+    le règlement (CE) n° 2705/1999 établissant des valeurs forfaitaires à l'importation
+    pour la détermination du prix d'entrée de certains fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 162/2000 der Kommission vom 24. Januar 2000 zur Berichtigung
+    der Verordnung (EG) Nr. 2705/1999 zur Festlegung pauschaler Einfuhrwerte für
+    die Bestimmung der im Sektor Obst und Gemüse geltenden Einfuhrpreise
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 162/2000 af 24. januar 2000 til berigtigelse
+    af forordning (EF) nr. 2705/1999 om faste importværdier med henblik på fastsættelsen
+    af indgangsprisen for visse frugter og grøntsager
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 162/2000 της Επιτροπής,
+    της 24ης Ιανουαρίου 2000, σχετικά με τη διόρθωση
+    του κανονισμού (ΕΚ) αριθ. 2705/1999 όσον αφορά τον
+    καθορισμό των κατ' αποκοπή τιμών κατά την εισαγωγή
+    για τον καθορισμό της τιμής εισόδου ορισμένων
+    οπωροκηπευτικών
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 162/2000, annettu 24 päivänä tammikuuta 2000,
+    tuonnin kiinteistä arvoista tiettyjen hedelmien ja vihannesten tulohinnan määrittämiseksi
+    annetun asetuksen (EY) N:o 2705/1999 oikaisemisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 162/2000 della Commissione, del 24 gennaio 2000, che
+    rettifica il regolamento (CE) n. 2705/1999 recante fissazione dei valori forfettari
+    all'importazione ai fini della determinazione del prezzo di entrata di alcuni
+    ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 162/2000 van de Commissie van 24 januari 2000 houdende
+    rectificatie van Verordening (EG) nr. 2705/1999 tot vaststelling van forfaitaire
+    invoerwaarden voor de bepaling van de invoerprijzen van bepaalde soorten groenten
+    en fruit
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 162/2000 da Comissão, de 24 de Janeiro de 2000,
+    que rectifica o Regulamento (CE) n.° 2705/1999 que estabelece valores forfetários
+    de importação para a determinação do preço de entrada de certos frutos e
+    produtos hortícolas
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 162/2000 de la Comisión, de 24 de enero de 2000, por
+    el que se rectifica el Reglamento (CE) n° 2705/1999 por los que se establecen
+    valores globales de importación para la determinación del precio de entrada
+    de determinadas frutas y hortalizas
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 162/2000 av den 24 januari 2000 om ändring
+    av förordning (EG) nr 2705/1999 om fastställande av schablonvärden vid import
+    för bestämning av ingångspriset för vissa frukter och grönsaker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R0162
+docidentifier:
+- content: EU Regulation 162/2000
+  type: EU
+  primary: true
+- content: CELEX 32000R0162
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2000/162/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-01-24'
+- type: implemented
+  at: '2000-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31999R2705
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

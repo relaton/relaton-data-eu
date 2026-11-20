@@ -1,0 +1,106 @@
+---
+id: EURegulation19421974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1942/74 of the Council of 22 July 1974 extending for
+    the third time Regulations (EEC) No 2313/71 and (EEC) No 2823/71 partially and
+    temporarily suspending Common Customs Tariff duties applicable to wines originating
+    in and coming from Algeria, Morocco, Tunisia and Turkey
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1942/74 du Conseil, du 22 juillet 1974, prorogeant
+    pour la troisième fois les règlements (CEE) n° 2313/71 et n 2823/71 portant
+    suspension temporaire partielle des droits du tarif douanier commun applicables
+    aux vins originaires et en provenance de l'Algérie, du Maroc, de la Tunisie et
+    de la Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1942/74 des Rates vom 22. Juli 1974 zur dritten Verlängerung
+    der Verordnungen (EWG) Nrn. 2313/71 und 2823/71 über die zeitweilige teilweise
+    Aussetzung der Zollsätze des Gemeinsamen Zolltarifs für Wein mit Ursprung in
+    und Herkunft aus Algerien, Marokko, Tunesien und der Türkei
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1942/74 af 22. juli 1974 om den tredje forlængelse
+    af forordningerne (EØF) nr. 2313/71 og 2823/71 om midlertidig og delvis suspension
+    af satserne i den fælles toldtarif for vin, der har oprindelse i og kommer fra
+    Algeriet, Marokko, Tunesien og Tyrkiet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1942/74 del Consiglio, del 22 luglio 1974, che proroga
+    per la terza volta i regolamenti (CEE) n. 2313/71 e n. 2823/71, recanti sospensione
+    temporanea parziale dei dazi della tariffa doganale comune applicabili ai vini
+    originari e provenienti dall'Algeria, dal Marocco, dalla Tunisia e dalla Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1942/74 van de Raad van 22 juli 1974 houdende derde
+    verlenging van de Verordeningen (EEG) nr. 2313/71 en nr. 2823/71 houdende tijdelijke
+    gedeeltelijke schorsing van de rechten van het gemeenschappelijke douanetarief
+    voor wijn van oorsprong en herkomst uit Algerië, Marokko, Tunesië en Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1942
+docidentifier:
+- content: EU Regulation 1942/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1942
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1942/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-22'
+- type: implemented
+  at: '1974-08-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2313
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2823
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

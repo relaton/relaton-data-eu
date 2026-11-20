@@ -1,0 +1,76 @@
+---
+id: EURegulation11971969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1197/69 du Conseil, du 26 juin 1969, portant répartition
+    et mode de gestion de la deuxième tranche pour 1969 du contingent tarifaire communautaire
+    pour le magnésium brut de la position 77.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1197/69 des Rates vom 26. Juni 1969 über die Aufteilung
+    und Verwaltung der zweiten Tranche des Gemeinschaftszollkontingents für Rohmagnesium
+    der Tarifnummer 77.01 A des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1197/69 del Consiglio, del 26 giugno 1969, relativo
+    alla suddivisione ed alle modalità di gestione della seconda frazione per il
+    1969 del contingente tariffario comunitario di magnesio greggio della voce 77.01
+    A della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1197/69 van de Raad van 26 juni 1969 betreffende
+    de verdeling en de wijze van beheer van het tweede gedeelte voor 1969 van het
+    communautaire tariefcontingent voor ruw magnesium van post 77.01 A van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1197
+docidentifier:
+- content: EU Regulation 1197/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1197
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1197/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-26'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

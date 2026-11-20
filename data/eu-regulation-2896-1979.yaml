@@ -1,0 +1,104 @@
+---
+id: EURegulation28961979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2896/79 of 18 December 1979 amending Regulation
+    (EEC) No 2762/75 establishing the list of representative markets for pigmeat in
+    the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2896/79 du Conseil, du 18 décembre 1979, modifiant
+    le règlement (CEE) n° 2762/75 établissant la liste des marchés représentatifs
+    pour le secteur de la viande de porc dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2896/79 des Rates vom 18. Dezember 1979 zur Änderung
+    der Verordnung (EWG) Nr. 2762/75 über das Verzeichnis der repräsentativen Märkte
+    für den Schweinefleischsektor in der Gemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2896/79 af 18. december 1979 om ændring
+    af forordning (EØF) nr. 2762/75 om oprettelse af fortegnelsen over de repræsentative
+    markeder for svinekødsektoren inden for Fællesskabet
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2896/79 του Συμβουλίου
+    της 18ης Δεκεμβρίου 1979 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 2762/75 «περί καταρτίσεως
+    του καταλόγου των αντιπροσωπευτικών αγορών
+    για τον τομέα του χοιρείου κρέατος στην Κοινότητα»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2896/79 del Consiglio, del 18 dicembre 1979, recante
+    modifica del regolamento (CEE) n. 2762/75 che stabilisce l' elenco dei mercati
+    rappresentativi per il settore delle carni suine nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2896/79 van de Raad van 18 december 1979 tot wijziging
+    van Verordening (EEG) nr. 2762/75 tot vaststelling van de lijst van de representatieve
+    markten voor de sector varkensvlees in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R2896
+docidentifier:
+- content: EU Regulation 2896/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R2896
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/2896/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-12-18'
+- type: implemented
+  at: '1980-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2762
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

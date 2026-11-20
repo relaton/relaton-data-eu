@@ -1,0 +1,123 @@
+---
+id: EUDecision1993616
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '93/616/EC: Commission Decision of 30 November 1993 repealing Decisions
+    90/552/EEC, 90/553/EEC, 91/93/EEC and 92/101/EEC'
+  type: main
+- language: fr
+  script: Latn
+  content: '93/616/CE: Décision de la Commission du 30 novembre 1993 abrogeant les
+    décisions 90/552/CEE, 90/553/CEE, 91/93/CEE et 92/101/CEE'
+  type: main
+- language: de
+  script: Latn
+  content: '93/616/EG: ENTSCHEIDUNG DER KOMMISSION vom 30. November 1993 zur Aufhebung
+    der Entscheidungen 90/552/EWG, 90/553/EWG, 91/93/EWG und 92/101/EWG'
+  type: main
+- language: da
+  script: Latn
+  content: '93/616/EF: KOMMISSIONENS BESLUTNING af 30. november 1993 om ophævelse
+    af beslutning 90/552/EØF, 90/553/EØF, 91/93/EØF og 92/101/EØF'
+  type: main
+- language: el
+  script: Grek
+  content: '93/616/ΕΚ: ΑΠΟΦΑΣΗ ΤΗΣ ΕΠΙΤΡΟΠΗΣ της 30ής Νοεμβρίου
+    1993 για την κατάργηση των αποφάσεων 90/552/ΕΟΚ,
+    90/553/ΕΟΚ, 91/93/ΕΟΚ και 92/101/ΕΟΚ'
+  type: main
+- language: it
+  script: Latn
+  content: '93/616/CE: DECISIONE DELLA COMMISSIONE del 30 novembre 1993 che abroga
+    le decisioni 90/552/CEE, 90/553/CEE, 91/93/CEE e 92/101/CEE'
+  type: main
+- language: nl
+  script: Latn
+  content: '93/616/EG: BESCHIKKING VAN DE COMMISSIE van 30 november 1993 tot intrekking
+    van de Beschikkingen 90/552/EEG, 90/553/EEG, 91/93/EEG en 92/101/EEG'
+  type: main
+- language: pt
+  script: Latn
+  content: '93/616/CE: DECISÃO DA COMISSÃO de 30 de Novembro de 1993 que revoga
+    as Decisões 90/552/CEE, 90/553/CEE, 91/93/CEE e 92/101/CEE'
+  type: main
+- language: es
+  script: Latn
+  content: '93/616/CE: DECISIÓN DE LA COMISIÓN de 30 de noviembre de 1993 por la
+    que se derogan las Decisiones 90/552/CEE, 90/553/CEE, 91/93/CEE y 92/101/CEE'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31993D0616
+docidentifier:
+- content: EU Decision 1993/616
+  type: EU
+  primary: true
+- content: CELEX 31993D0616
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1993/616/oj
+  type: ELI
+date:
+- type: issued
+  at: '1993-11-30'
+- type: implemented
+  at: '1993-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31990D0552
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31990D0553
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31991D0093
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31992D0101
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,101 @@
+---
+id: EURegulation2611975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 261/75 of the Commission of 31 January 1975 derogating
+    in respect of oranges of the Sanguinello variety from Regulation (EEC) No 193/70
+    establishing the procedure for giving effect to measures to promote the marketing
+    of oranges and mandarins in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 261/75 de la Commission, du 31 janvier 1975, dérogeant,
+    pour les oranges de la variété sanguinello, au règlement (CEE) n° 193/70 établissant
+    les modalités d' application des mesures visant à promouvoir la commercialisation
+    des oranges et mandarines communautaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 261/75 der Kommission vom 31. Januar 1975 zur Abweichung
+    von der Verordnung (EWG) Nr. 193/70 mit Durchführungsbestimmungen für die Maßnahmen
+    zur Förderung der Vermarktung von Apfelsinen und Mandarinen aus der Gemeinschaftserzeugung
+    hinsichtlich Apfelsinen der Sorte Sanguinello
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 261/75 af 31. januar 1975 om undtagelse
+    - for appelsiner af sorten Sanguinello - fra forordning (EØF) nr. 193/70 om gennemførelsesbestemmelser
+    for foranstaltninger til fremme af afsætningen af appelsiner og mandariner fra
+    Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 261/75 della Commissione, del 31 gennaio 1975, che
+    deroga, per la arance dolci della varietà "Sanguinello", al regolamento (CEE)
+    n. 193/70 della Commissione che stabilisce le modalità d' applicazione delle
+    misure volte a promuovere la commercializzazione delle arance e dei mandarini
+    comunitari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 261/75 van de Commissie van 31 januari 1975 houdende
+    afwijking, voor sinaasappelen van de variëteit Sanguinello, van Verordening (EEG)
+    nr. 193/70 houdende vaststelling van uitvoeringsbepalingen voor de maatregelen
+    tot bevordering van de afzet van sinaasappelen en mandarijnen uit de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0261
+docidentifier:
+- content: EU Regulation 261/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0261
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/261/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-01-31'
+- type: implemented
+  at: '1975-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0193
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

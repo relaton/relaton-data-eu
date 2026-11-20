@@ -1,0 +1,109 @@
+---
+id: EURegulation7301980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 730/80 of 27 March 1980 amending for the
+    sixth time Regulation (EEC) No 1608/76 laying down detailed rules for the description
+    and presentation of wines and grape musts
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 730/80 de la Commission, du 27 mars 1980, portant
+    sixième modification du règlement (CEE) n° 1608/76 portant modalités d' application
+    pour la désignation et la présentation des vins et des moûts de raisins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 730/80 der Kommission vom 27. März 1980 zur sechsten
+    Änderung der Verordnung (EWG) Nr. 1608/76 über Durchführungsbestimmungen für
+    die Bezeichnung und Aufmachung der Weine und Traubenmoste
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 730/80 af 27. marts 1980 om sjette
+    ændring af forordning (EØF) nr. 1608/76 om gennemførelsesbestemmelser vedrørende
+    betegnelse og præsentation af vin og druemost
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 730/80 τής Επιτροπής
+    τής 27ης Μαρτίου 1980 περί έκτης τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 1608/76 «περί καθορισμού
+    λεπτομερειών εφαρμογής γιά τήν περιγραφή καί
+    τήν παρουσίαση οίνων καί γλευκών σταφυλής»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 730/80 della Commissione, del 27 marzo 1980, recante
+    sesta modifica del regolamento (CEE) n. 1608/76 recante modalità di applicazione
+    per la designazione e la presentazione dei vini e dei mosti di uve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 730/80 van de Commissie van 27 maart 1980 houdende
+    zesde wijziging van Verordening (EEG) nr. 1608/76 houdende uitvoeringsbepalingen
+    voor de omschrijving en de aanbiedingsvorm van wijn en druivemost
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R0730
+docidentifier:
+- content: EU Regulation 730/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R0730
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/730/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-03-27'
+- type: implemented
+  at: '1980-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1608
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1608
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

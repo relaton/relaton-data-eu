@@ -1,0 +1,74 @@
+---
+id: EURegulation6711971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 671/71 du Conseil, du 30 mars 1971, fixant les aides
+    accordées pour le lait écrémé et le lait écrémé en poudre destinés à
+    l'alimentation des animaux valables pour la campagne laitière 1971/1972
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 671/71 des Rates vom 30. März 1971 zur Festsetzung
+    der im Milchwirtschaftsjahr 1971/1972 gültigen Beihilfen für Magermilch und
+    Magermilchpulver, die für Futterzwecke verwendet werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 671/71 del Consiglio, del 30 marzo 1971, che fissa
+    per la campagna lattiera 1971/1972 gli aiuti concessi per il latte scremato e
+    il latte scremato in polvere utilizzati nell'alimentazione degli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 671/71 van de Raad van 30 maart 1971 houdende vaststelling,
+    voor het melkprijsjaar 1971/1972, van de steun voor ondermelk en mageremelkpoeder,
+    die bestemd zijn voor voederdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0671
+docidentifier:
+- content: EU Regulation 671/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0671
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/671/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-30'
+- type: implemented
+  at: '1971-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

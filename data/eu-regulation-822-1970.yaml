@@ -1,0 +1,74 @@
+---
+id: EURegulation8221970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 822/70 de la Commission, du 4 mai 1970, concernant
+    une adjudication permanente pour la vente de sucre blanc destiné à l'alimentation
+    animale et détenu par l'organisme d'intervention allemand
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 822/70 der Kommission vom 4. Mai 1970 über eine Dauerausschreibung
+    zum Verkauf von Weißzucker, der zur Tierfütterung bestimmt ist und sich im Besitz
+    der deutschen Interventionsstelle befindet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 822/70 della Commissione, del 4 maggio 1970, relativo
+    ad una gara permanente per la vendita di zucchero bianco destinato all'alimentazione
+    animale e detenuto dall'organismo d'intervento tedesco
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 822/70 van de Commissie van 4 mei 1970 betreffende
+    een permanente inschrijving voor de verkoop van witte suiker welke bestemd is
+    voor veevoeder en in het bezit is van het Duitse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0822
+docidentifier:
+- content: EU Regulation 822/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0822
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/822/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-05-04'
+- type: implemented
+  at: '1970-05-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

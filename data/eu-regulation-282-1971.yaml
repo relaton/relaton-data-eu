@@ -1,0 +1,96 @@
+---
+id: EURegulation2821971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 282/71 of the Commission of 9 February 1971 amending
+    Regulation (EEC) No 193/70 establishing the procedure for giving effect to measures
+    to promote the marketing of oranges and mandarins in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 282/71 de la Commission, du 9 février 1971, modifiant
+    le règlement (CEE) n° 193/70 établissant les modalités d' application des
+    mesures visant à promouvoir la commercialisation des oranges et mandarines communautaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 282/71 der Kommission vom 9. Februar 1971 zur Änderung
+    der Verordnung (EWG) Nr. 193/70 mit Durchführungsbestimmungen für die Maßnahmen
+    zur Förderung der Vermarktung von Apfelsinen und Mandarinen aus der Gemeinschaftserzeugung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 282/71 af 9. februar 1971 om ændring
+    af forordning (EØF) nr. 193/70 om gennemførelsesbestemmelser vedrørende foranstaltninger
+    til fremme af afsætningen af appelsiner og mandariner fra Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 282/71 della Commissione, del 9 febbraio 1971, che
+    modifica il regolamento (CEE) n. 193/70 che stabilisce le modalità di applicazione
+    delle misure intese a promuovere la commercializzazione delle arance e dei mandarini
+    comunitari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 282/71 van de Commissie van 9 februari 1971 tot wijziging
+    van Verordening (EEG) nr. 193/70 houdende vaststelling van uitvoeringsbepalingen
+    voor de maatregelen tot bevordering van de afzet van sinaasappelen en mandarijnen
+    uit de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0282
+docidentifier:
+- content: EU Regulation 282/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0282
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/282/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-09'
+- type: implemented
+  at: '1970-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0193
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

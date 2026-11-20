@@ -1,0 +1,85 @@
+---
+id: EURegulation17481968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE, Euratom, CECA) 1748/68 du Conseil, du 29 octobre 1968,
+    modifiant les coefficients correcteurs dont sont affectées les rémunérations
+    et les pensions des fonctionnaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG, Euratom, EGKS) Nr. 1748/68 des Rates vom 29. Oktober 1968
+    zur Änderung der Berichtigungskoeffizienten für die Dienst- und Versorgungsbezüge
+    der Beamten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE, Euratom, CECA) n. 1748/68 del Consiglio, del 29 ottobre
+    1968, che modifica i coefficienti correttori applicabili alle retribuzioni e alle
+    pensioni dei funzionari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG, Euratom, EGKS) nr. 1748/68 van de Raad van 29 oktober
+    1968 tot wijziging van de aanpassingscoëfficiënten die op de bezoldiging en
+    de pensioenen van de ambtenaren worden toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1748
+docidentifier:
+- content: EU Regulation 1748/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1748
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1748/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-10-29'
+- type: implemented
+  at: '1968-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0009
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0988
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

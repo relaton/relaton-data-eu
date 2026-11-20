@@ -1,0 +1,69 @@
+---
+id: EURegulation5211968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 521/68 de la Commission, du 29 avril 1968, fixant les
+    coefficients d'adaptation à appliquer au prix d'achat prévu pour les choux-fleurs
+    par le règlement (CEE) n 518/68
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 521/68 der Kommission vom 29. April 1968 zur Festsetzung
+    der Anpassungskoeffizienten für den Ankaufspreis für Blumenkohl nach Verordnung
+    (EWG) Nr. 518/68 des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 521/68 della Commissione, del 29 aprile 1968, che
+    fissa i coefficienti di adattamento da applicare al prezzo di acquisto previsto
+    per i cavolfiori dal regolamento (CEE) n. 518/68 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 521/68 van de Commissie van 29 april 1968 houdende
+    vaststelling van de aanpassingscoëfficiënten die moeten worden toegepast op
+    de bij Verordening nr. 518/68 van de Raad voor bloemkool vastgestelde aankoopprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0521
+docidentifier:
+- content: EU Regulation 521/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0521
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/521/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

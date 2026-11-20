@@ -1,0 +1,95 @@
+---
+id: EURegulation23101977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2310/77 of 20 October 1977 amending Regulation
+    (EEC) No 2793/76 on the disposal of frozen beef made available to the Italian
+    intervention agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2310/77 de la Commission, du 20 octobre 1977, modifiant
+    le règlement (CEE) n° 2793/76 en ce qui concerne l' écoulement des viandes
+    bovines congelées mises à la disposition de l' organisme d' intervention italien
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2310/77 der Kommission vom 20. Oktober 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2793/76 über den Absatz von gefrorenem Rindfleisch,
+    das der italienischen Interventionsstelle zur Verfügung gestellt wurde
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2310/77 af 20. oktober 1977 om ændring
+    af forordning (EØF) nr. 2793/76 for så vidt angår afsætning af frosset oksekød,
+    der er stillet til rådighed for det italienske interventionsorgan
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2310/77 della Commissione, del 20 ottobre 1977, che
+    modifica il regolamento (CEE) n. 2793/76, per quanto concerne lo smercio di talune
+    carni bovine congelate, messe a disposizione dell' organismo d' intervento italiano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2310/77 van de Commissie van 20 oktober 1977 tot
+    wijziging van Verordening (EEG) nr. 2793/76 met betrekking tot de afzet van bepaalde
+    soorten bevroren rundvlees die ter beschikking van het Italiaanse interventiebureau
+    zijn gesteld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2310
+docidentifier:
+- content: EU Regulation 2310/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2310
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2310/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-20'
+- type: implemented
+  at: '1977-10-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2793
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

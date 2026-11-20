@@ -1,0 +1,69 @@
+---
+id: EURegulation441963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 44/63/CEE de la Commission, du 27 mai 1963, dérogeant au
+    règlement n 91 de la Commission en ce qui concerne l'octroi d'une restitution
+    sous la forme d'importation en franchise de prélèvement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 44/63/EWG der Kommission vom 27. Mai 1963 zur Änderung
+    der Verordnung Nr. 91 der Kommission hinsichtlich der Gewährung von Erstattungen
+    in Form abschöpfungsfreier Einfuhren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 44/63/CEE della Commissione del 27 maggio 1963 recante deroga
+    al regolamento n. 91 della Commissione per quanto riguarda la concessione di una
+    restituzione sotto forma d'importazione in esenzione da prelievo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 44/63/EEG van de Commissie van 27 mei 1963 houdende wijziging
+    van Verordening no. 91 van de Commissie wat betreft het verlenen van een restitutie
+    in de vorm van invoer met vrijstelling van heffing
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0044
+docidentifier:
+- content: EU Regulation 44/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0044
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/44/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-05-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

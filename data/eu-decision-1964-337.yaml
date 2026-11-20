@@ -1,0 +1,82 @@
+---
+id: EUDecision1964337
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/337/CEE de la Commission, du 19 mai 1964, prorogeant de nouveau
+    et modifiant sa décision du 5 août 1963, portant octroi d'un contingent tarifaire
+    à la République italienne pour l'alcool éthylique non dénaturé de 95 degrés
+    et plus
+  type: main
+- language: de
+  script: Latn
+  content: '64/337/EWG: Entscheidung der Kommission vom 19. Mai 1964 über die erneute
+    Verlängerung und Änderung ihrer Entscheidung vom 5. August 1963 über die Gewährung
+    eines Zollkontingents für Äthylalkohol, unvergällt, von 95 und mehr an die
+    Republik Italien'
+  type: main
+- language: it
+  script: Latn
+  content: '64/337/CEE: Decisione della Commissione, del 19 maggio 1964, che proroga
+    nuovamente e modifica la propria decisione del 5 agosto 1963 relativa alla concessione
+    di un contingente tariffario alla Repubblica italiana per l''alcole etilico non
+    denaturato di 95 e più'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/337/EEG: Beschikking van de Commissie van 19 mei 1964 tot hernieuwde
+    verlenging en tot wijziging van haar beschikking van 5 augustus 1963 houdende
+    toekenning van een tariefcontingent aan de Italiaanse Republiek voor ethylalcohol,
+    niet gedenatureerd, met een sterkte van 95 graden of meer'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0337
+docidentifier:
+- content: EU Decision 1964/337
+  type: EU
+  primary: true
+- content: CELEX 31964D0337
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/337/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-05-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963D0499
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

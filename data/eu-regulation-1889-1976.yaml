@@ -1,0 +1,101 @@
+---
+id: EURegulation18891976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1889/76 of 29 July 1976 laying down detailed
+    rules for granting private storage aid for pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1889/76 de la Commission, du 29 juillet 1976, portant
+    modalités d' application de l' octroi d' aides au stockage privé dans le secteur
+    de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1889/76 der Kommission vom 29. Juli 1976 über Durchführungsbestimmungen
+    für die Gewährung von Beihilfen für die private Lagerhaltung auf dem Sektor
+    Schweinefleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1889/76 af 29. juli 1976 om gennemførelsesbestemmelser
+    vedrørende ydelse af støtte til privat oplagring af svinekød
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1889/76 τής Επιτροπής
+    τής 29ης Ιουλίου 1976 περί τών λεπτομερειών εφαρμογής
+    τής χορηγήσεως ενισχύσεως γιά ιδιωτική αποθεματοποίηση
+    στόν τομέα τού χοιρείου κρέατος
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1889/76 della Commissione, del 29 luglio 1976, recante
+    modalità di applicazione per la concessione di aiuti all' ammasso privato nel
+    settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1889/76 van de Commissie van 29 juli 1976 houdende
+    uitvoeringsbepalingen inzake de verlening van steun aan de particuliere opslag
+    in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1889
+docidentifier:
+- content: EU Regulation 1889/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1889
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1889/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-29'
+- type: implemented
+  at: '1976-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0289
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

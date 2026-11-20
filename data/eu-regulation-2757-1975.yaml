@@ -1,0 +1,91 @@
+---
+id: EURegulation27571975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2757/75 of the Council of 29 October 1975 laying down
+    general rules for the system of accession compensatory amounts for cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2757/75 du Conseil, du 29 octobre 1975, déterminant
+    les règles générales du régime des montants compensatoires adhésion dans
+    le secteur des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2757/75 des Rates vom 29. Oktober 1975 zur Festlegung
+    der Grundregeln für die Beitrittsausgleichsbeträge für Getreide
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2757/75 af 29. oktober 1975 om fastsættelse
+    af almindelige regler for ordningen med tiltrædelsesudligningsbeløb for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2757/75 del Consiglio, del 29 ottobre 1975, che determina
+    le norme generali del regime degli importi compensativi "adesione" nel settore
+    dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2757/75 van de Raad van 29 oktober 1975 houdende
+    vaststelling van de algemene regels van het stelsel van compenserende bedragen
+    ,,toetreding' ' in de sector granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2757
+docidentifier:
+- content: EU Regulation 2757/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2757
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2757/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0229
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

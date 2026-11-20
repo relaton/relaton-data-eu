@@ -1,0 +1,94 @@
+---
+id: EURegulation26211978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2621/78 of 7 November 1978 amending Regulation
+    (EEC) No 1251/78 making the import of certain textile products from certain third
+    countries subject to Community surveillance
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2621/78 de la Commission, du 7 novembre 1978, modifiant
+    le règlement (CEE) n° 1251/78 soumettant à un régime de surveillance communautaire
+    les importations de certains produits textiles originaires de certains pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2621/78 der Kommission vom 7. November 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1251/78, mit der die Einfuhr bestimmter Textilwaren aus
+    bestimmten Drittlándern einer Gemeinschaftsúberwachung unterworfen wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2621/78 af 7. november 1978 om ændring
+    af forordning (EØF) nr. 1251/78 om indførelse af et fællesskabstilsyn med indførselen
+    af visse tekstilvarer fra en række tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2621/78 della Commissione, del 7 novembre 1978, recante
+    modifica del regolamento (CEE) n. 1251/78 che sottopone a sorveglianza comunitaria
+    le importazioni di taluni prodotti tessili provenienti da alcuni paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2621/78 van de Commissie van 7 november 1978 tot
+    wijziging van Verordening (EEG) nr. 1251/78 houdende plaatsing onder communautair
+    toezicht van de invoer van bepaalde textielprodukten uit enkele derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2621
+docidentifier:
+- content: EU Regulation 2621/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2621
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2621/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-11-07'
+- type: implemented
+  at: '1978-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1251
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

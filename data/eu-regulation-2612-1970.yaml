@@ -1,0 +1,94 @@
+---
+id: EURegulation26121970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2612/70 of the Council of 15 December 1970 amending
+    Regulation (EEC) No 816/70 making additional provisions for the common organisation
+    of the market in wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2612/70 du Conseil, du 15 décembre 1970, modifiant
+    le règlement (CEE) n° 816/70 portant dispositions complémentaires en matière
+    d' organisation commune du marché viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2612/70 des Rates vom 15. Dezember 1970 zur Änderung
+    der Verordnung (EWG) Nr. 816/70 zur Festlegung ergänzender Vorschriften für
+    die gemeinsame Marktorganisation für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2612/70 af 15. december 1970 om ændring
+    af forordning (EØF) nr. 816/70 om supplerende regler for den fælles markedsordning
+    for vin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2612/70 del Consiglio, del 15 dicembre 1970, che modifica
+    il regolamento (CEE) n. 816/70 relativo a disposizioni complementari in materia
+    di organizzazione comune del mercato vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2612/70 van de Raad van 15 december 1970 tot wijziging
+    van Verordening (EEG) nr. 816/70 houdende aanvullende bepalingen inzake de gemeenschappelijke
+    ordening van de wijnmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2612
+docidentifier:
+- content: EU Regulation 2612/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2612
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2612/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-12-15'
+- type: implemented
+  at: '1971-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,78 @@
+---
+id: EURegulation27741971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2774/71 du Conseil, du 29 décembre 1971, portant
+    ouverture, répartition et mode de gestion d'un contingent tarifaire communautaire
+    pour les fils entièrement de soie, non conditionnés pour la vente au détail,
+    de la position EX 50.04 du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2774/71 des Rates vom 20. Dezember 1971 über die
+    Eröffnung, Aufteilung und Verwaltung des Gemeinschaftszollkontingents für Garne,
+    ganz aus Seide, nicht in Aufmachungen für den Einzelverkauf, der Tarifnummer
+    ex 50.04 des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2774/71 del Consiglio, del 20 dicembre 1971, relativo
+    all'apertura, alla ripartizione ed alle modalità di gestione del contingente
+    tariffario comunitario per i filati interamente di seta non preparati per la vendita
+    al minuto, della voce ex 50.04 della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2774/71 van de Raad van 20 december 1971 betreffende
+    de opening, de verdeling en de wijze van beheer van een communautair tariefcontingent
+    voor garens, geheel van zijde, niet gereed voor de verkoop in het klein, van post
+    ex 50.04 van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2774
+docidentifier:
+- content: EU Regulation 2774/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2774
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2774/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-20'
+- type: implemented
+  at: '1972-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

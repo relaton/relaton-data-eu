@@ -1,0 +1,70 @@
+---
+id: EURegulation451962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 45 du Conseil portant fixation du prix d'écluse pour les
+    oeufs à couver de volaille de basse- cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 45 des Rats über die Festsetzung des Einschleusungspreises
+    für Bruteier von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 45 del Consiglio relativo alla determinazione del prezzo
+    limite delle uova da cova di volatili da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 45 van de Raad, houdende vaststelling van de sluisprijs
+    voor broedeieren van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0045
+docidentifier:
+- content: EU Regulation 45/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0045
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/45/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-06-29'
+- type: implemented
+  at: '1962-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

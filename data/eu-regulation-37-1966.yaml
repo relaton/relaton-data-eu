@@ -1,0 +1,88 @@
+---
+id: EURegulation371966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 37/66/CEE du Conseil, du 30 mars 1966, concernant les mesures
+    à appliquer en matière de prix dans le secteur du lait et des produits laitiers
+    pour la campagne 1966/1967 et portant modification du règlement n 113/64/CEE
+    du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 37/66/EWG des Rates vom 30. März 1966 über Maßnahmen
+    bei den Preisen für Milch und Milcherzeugnisse im Milchwirtschaftsjahr 1966/1967
+    und zur Änderung der Verordnung Nr. 113/64/EWG des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 37/66/CEE del Consiglio, del 30 marzo 1966, relativo alle
+    misure da applicare in materia di prezzi nel settore del latte e dei prodotti
+    lattiero- caseari per la campagna 1966/1967 e che modifica il regolamento n. 113/64/CEE
+    del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 37/66/EEG van de Raad van 30 maart 1966 inzake de voor
+    het melkprijsjaar 1966/1967 met betrekking tot de prijs voor melk en zuivelprodukten
+    te treffen maatregelen en houdende wijziging van Verordening Nr. 113/64/EEG van
+    de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0037
+docidentifier:
+- content: EU Regulation 37/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0037
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/37/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-03-30'
+- type: implemented
+  at: '1966-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0013
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0113
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

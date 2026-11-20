@@ -1,0 +1,67 @@
+---
+id: EURegulation811962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 81 de la Commission portant fixation du prix d'écluse envers
+    les pays tiers pour les porcs vivants à l'exclusion des truies de boucherie vivantes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 81 der Kommission über die Festsetzung des Einschleusungspreises
+    gegenüber dritten Ländern für lebende Schweine auDer lebenden Schlachtsauen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 81 della Commissione relativo alla fissazione del prezzo
+    limite, nei confronti dei paesi terzi, per i suini vivi, escluse le scrofe vive
+    da macello
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 81 van de Commissie tot vaststelling van de sluisprijs
+    ten opzichte van derde landen voor levende varkens, met uitzondering van levende
+    slachtzeugen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0081
+docidentifier:
+- content: EU Regulation 81/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0081
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/81/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

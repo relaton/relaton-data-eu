@@ -1,0 +1,70 @@
+---
+id: EURegulation861968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 86/68 de la Commission, du 23 janvier 1968, portant
+    modification des éléments mobiles applicables aux marchandises relevant des
+    positions 21.07 F I a) 3, 21.07 F I b) 2 et 21.07 F I c) du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 86/68 der Kommission vom 23. Januar 1968 zur Änderung
+    der beweglichen Teilbeträge für die Waren der Tarifnummern 21.07 F I a) 3, 21.07
+    F I b) 2 und 21.07 F I c) des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 86/68 della Commissione, del 23 gennaio 1968, che
+    modifica gli elementi mobili applicabili alle merci comprese nelle voci 21.07
+    F I a) 3, 21.07 F I b) 2 e 21.07 F I c) della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 86/68 van de Commissie van 23 januari 1968 houdende
+    wijziging van de variabele elementen die van toepassing zijn op de produkten vallende
+    onder de posten 21.07 F I a) 3, 21.07 F I b) 2 en 21.07 F I c) van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0086
+docidentifier:
+- content: EU Regulation 86/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0086
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/86/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-01-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

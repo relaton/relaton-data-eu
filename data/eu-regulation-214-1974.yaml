@@ -1,0 +1,113 @@
+---
+id: EURegulation2141974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 214/74 of the Commission of 25 January 1974 defining
+    additional measures to be taken in agriculture following the fixing of a new representative
+    rate for the Italian lira and the floating of the French franc and amending Regulation
+    (EEC) No 3494/73
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 214/74 de la Commission, du 25 janvier 1974, définissant
+    les mesures supplémentaires à prendre dans le secteur agricole suite à la fixation
+    d' un nouveau taux représentatif pour la lire italienne et à la flottaison du
+    franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 214/74 der Kommission vom 25. Januar 1974 über zusätzliche
+    Maßnahmen, die in der Landwirtschaft infolge der Festsetzung eines neuen repräsentativen
+    Umrechnungskurses für die italienische Lira und infolge der Freigabe des Kurses
+    des französischen Franken zu treffen sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 214/74 af 25. januar 1974 om fastsættelse
+    af de supplerende foranstaltninger, der skal træffes inden for landbrugssektoren,
+    som følge af fastsættelsen af en ny repræsentativ kurs for den italienske lire
+    og som følge af, at den franske franc flyder
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 214/74 τής Επιτροπής
+    τής 25ης Ιανουαρίου 1974 περί καθορισμού συμπληρωματικών
+    μέτρων πού πρέπει νά ληφθούν στόν γεωργικό
+    τομέα μετά από τόν καθορισμό νέας αντιπροσωπευτικής
+    τιμής γιά τήν ιταλική λιρέττα καί από τήν ελεύθερη
+    διακύμανση τού γαλλικού φράγκου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 214/74 della Commissione, del 25 gennaio 1974, che
+    definisce le misure supplementari da adottare nel settore agricolo in seguito
+    alla fissazione di un nuovo tasso rappresentativo per la lira italiana ed alla
+    fluttuazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 214/74 van de Commissie van 25 januari 1974 houdende
+    aanvullende maatregelen in de landbouwsector in verband met de vaststelling van
+    een nieuwe representatieve koers voor de Italiaanse lire en het zweven van de
+    Franse frank
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0214
+docidentifier:
+- content: EU Regulation 214/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0214
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/214/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-01-25'
+- type: implemented
+  at: '1974-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2300
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3494
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

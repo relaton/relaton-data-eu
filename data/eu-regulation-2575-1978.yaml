@@ -1,0 +1,94 @@
+---
+id: EURegulation25751978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2575/78 of 30 October 1978 extending the area
+    within which vessels flying the flag of Norway are permitted by Regulation (EEC)
+    No 1849/78 to fish for certain species
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2575/78 du Conseil, du 30 octobre 1978, étendant
+    la zone dans laquelle les navires battant pavillon de la Norvège sont autorisés
+    à pêcher certaines espèces en vertu du règlement (CEE) n° 1849/78
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2575/78 des Rates vom 30. Oktober 1978 zur Erweiterung
+    des Gebietes, in dem Schiffe, die die Flagge Norwegens führen, nach der Verordnung
+    (EWG) Nr. 1849/78 bestimmte Fischarten fischen dúrfen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2575/78 af 30. oktober 1978 om udvidelse
+    af det område, i hvilket fartøjer, som fører norsk flag, ifølge forordning
+    (EØF) nr. 1849/78 har tilladelse til at fiske efter visse arter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2575/78 del Consiglio, del 30 ottobre 1978, che estende
+    la zona nella quale le navi battenti bandiera della Norvegia sono autorizzate
+    a pescare talune specie in virtù del regolamento (CEE) n. 1849/78
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2575/78 van de Raad van 30 oktober 1978 houdende
+    uitbreiding van het gebied waarin vaartuigen die de vlag van Noorwegen voeren
+    krachtens Verordening (EEG) nr. 1849/78 bepaalde vissoorten mogen vangen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2575
+docidentifier:
+- content: EU Regulation 2575/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2575
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2575/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-30'
+- type: implemented
+  at: '1978-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1849
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

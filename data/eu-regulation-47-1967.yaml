@@ -1,0 +1,85 @@
+---
+id: EURegulation471967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 47/67/CEE du Conseil, du 7 mars 1967, modifiant et complétant
+    certaines dispositions des règlements n° 3 et 4 concernant la sécurité sociale
+    des travailleurs migrants (gens de mer)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 47/67/EWG des Rates vom 7. März 1967 zur Änderung und
+    Ergänzung einiger Bestimmungen der Verordnungen Nr. 3 und Nr. 4 über die soziale
+    Sicherheit der Wanderarbeitnehmer (Seeleute)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 47/67/CEE del Consiglio, del 7 marzo 1967, che modifica
+    ed integra alcune disposizioni dei regolamenti nn. 3 e 4 sulla sicurezza sociale
+    dei lavoratori migranti (gente di mare)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 47/67/EEG van de Raad van 7 maart 1967 tot wijziging en
+    aanvulling van sommige bepalingen van de Verordeningen Nrs. 3 en 4 inzake de sociale
+    zekerheid van migrerende werknemers (zeelieden)
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0047
+docidentifier:
+- content: EU Regulation 47/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0047
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/47/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-07'
+- type: implemented
+  at: '1967-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

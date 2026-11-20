@@ -1,0 +1,74 @@
+---
+id: EURegulation1281967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 128/67/CEE du Conseil, du 13 juin 1967, fixant les prix
+    et les principaux centres de commercialisation dans le secteur des céréales
+    pour la campagne 1967/1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 128/67/EWG des Rates vom 13. Juni 1967 zur Festsetzung der
+    Preise und der wesentlichsten Handelsplätze für Getreide für das Wirtschaftsjahr
+    1967/1968
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 128/67/CEE del Consiglio, del 13 giugno 1967, che fissa
+    i prezzi e i principali centri di commercializzazione nel settore dei cereali
+    per la campagna 1967/1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 128/67/EEG van de Raad van 13 juni 1967 houdende vaststelling
+    van de prijzen en de voornaamste commercialisatiecentra in de sector granen voor
+    het verkoopseizoen 1967/1968
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0128
+docidentifier:
+- content: EU Regulation 128/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0128
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/128/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-13'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

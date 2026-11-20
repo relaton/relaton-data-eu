@@ -1,0 +1,78 @@
+---
+id: EURegulation8891971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 889/71 de la Commission, du 29 avril 1971, portant
+    fixation des coefficients d'adaptation servant au calcul des indemnités et des
+    compensations financières pour les produits de la pêche retirés du marché
+    et au calcul du prix d'achat des sardines et anchois
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 889/71 der Kommission vom 29. April 1971 zur Festsetzung
+    von Anpassungskoeffizienten für die Berechnung der Entschädigungen und des finanziellen
+    Ausgleichs für aus dem Handel genommene Fischereierzeugnisse und die Berechnung
+    des Ankaufspreises von Sardinen und Sardellen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 889/71 della Commissione, del 29 aprile 1971, che
+    fissa i coefficienti di adattamento per il calcolo delle indennità e delle compensazioni
+    finanziarie applicabili ai prodotti della pesca ritirati dal mercato e per il
+    calcolo del prezzo d'acquisto delle sardine e delle acciughe
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 889/71 van de Commissie van 29 april 1971 houdende
+    vaststelling van de aanpassingscoëfficiënten voor de berekening van de financiële
+    vergoedingen voor uit de markt genomen visserijprodukten en voor de berekening
+    van de aankoopprijs van sardines en ansjovis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0889
+docidentifier:
+- content: EU Regulation 889/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0889
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/889/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-04-29'
+- type: implemented
+  at: '1971-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,101 @@
+---
+id: EURegulation25021974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2502/74 of the Council of 2 October 1974 amending Regulation
+    (EEC) No 1967/74 as regards the maximum amounts of the premiums for the orderly
+    marketing of certain adult bovine animals for slaughter and introducing a system
+    of premiums for the retention of cattle
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2502/74 du Conseil, du 2 octobre 1974, modifiant le
+    règlement (CEE) n° 1967/74 en ce qui concerne les montants maximaux de la prime
+    pour une mise sur le marché ordonnée de certains gros bovins de boucherie et
+    instituant un régime de prime de maintien du cheptel bovin
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2502/74 des Rates vom 2. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1967/74 hinsichtlich der Höchstbeträge der Prämie
+    für eine geregelte Vermarktung bestimmter ausgewachsener Schlachtrinder und zur
+    Einführung eines Prämiensystems für die Erhaltung von Rinderbeständen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2502/74 af 2. oktober 1974 om ændring af
+    forordning (EØF) nr. 1967/74 for så vidt angår maksimalbeløbene for præmien
+    for reguleret markedsføring af visse former for voksent slagtekvæg og om oprettelse
+    af en præmieordning for bevarelse af kvægbestanden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2502/74 del Consiglio, del 2 ottobre 1974, che modifica
+    il regolamento (CEE) n. 1967/74 per quanto riguarda gli importi massimi del premio
+    per una ordinata immissione in commercio di taluni bovini adulti destinati alla
+    macellazione e che istituisce un regime di premio per il mantenimento del bestiame
+    bovino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2502/74 van de Raad van 2 oktober 1974 tot wijziging
+    van Verordening (EEG) nr. 1967/74 voor wat betreft de maximumbedragen van de premie
+    voor het geordend op de markt brengen van bepaalde volwassen slachtrunderen en
+    tot invoering van een premieregeling voor het aanhouden van de rundveestapel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2502
+docidentifier:
+- content: EU Regulation 2502/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2502
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2502/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-02'
+- type: implemented
+  at: '1974-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1967
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

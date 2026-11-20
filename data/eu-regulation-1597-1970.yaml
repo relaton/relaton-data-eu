@@ -1,0 +1,81 @@
+---
+id: EURegulation15971970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1597/70 du Conseil, du 27 juillet 1970, portant ouverture,
+    répartition et mode de gestion du contingent tarifaire communautaire de raisins
+    secs, présentés en emballages immédiats d'un contenu net inférieur ou égal
+    à 15 Kg, de la position 08.04 B I du tarif douanier commun, originaires d'Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1597/70 des Rates vom 27. Juli 1970 über die Eröffnung,
+    Aufteilung und Verwaltung des Gemeinschaftszollkontingents für getrocknete Weintrauben,
+    in unmittelbaren Umschließungen mit einem Gewicht des Inhalts von 15 kg oder
+    weniger, der Tarifstelle 08.04 B I des Gemeinsamen Zolltarifs, mit Ursprung in
+    Spanien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1597/70 del Consiglio, del 27 luglio 1970, relativo
+    all'apertura, alla ripartizione e alle modalità di gestione del contingente tariffario
+    comunitario di uve secche, presentate in imballaggi immediati di contenuto netto
+    di 15 kg o meno, della voce 08.04 B I della tariffa doganale comune, originarie
+    della Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1597/70 van de Raad van 27 juli 1970 betreffende
+    de opening, de verdeling en de wijze van beheer van het communautaire tariefcontingent
+    voor rozijnen en krenten, in verpakkingen met een netto- inhoud per onmiddellijke
+    verpakking van 15 kilogram of minder, van postonderverdeling 08.04 B I van het
+    gemeenschappelijk douanetarief, van oorsprong uit Spanje
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1597
+docidentifier:
+- content: EU Regulation 1597/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1597
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1597/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-27'
+- type: implemented
+  at: '1970-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

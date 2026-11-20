@@ -1,0 +1,65 @@
+---
+id: EURegulation1151969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 115/69 de la Commission, du 22 janvier 1969, fixant
+    le prélèvement à l'importation pour la mélasse
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 115/69 der Kommission vom 22. Januar 1969 über die
+    Festsetzung der Abschöpfung bei der Einfuhr von Melasse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 115/69 della Commissione, dell' 22 gennaio 1969, che
+    fissa il prelievo all'importazione per il melasso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 115/69 van de Commissie van 22 januari 1969 houdende
+    vaststelling van de heffingen bij invoer van melasse
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0115
+docidentifier:
+- content: EU Regulation 115/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0115
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/115/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-01-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

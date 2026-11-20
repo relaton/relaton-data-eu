@@ -1,0 +1,113 @@
+---
+id: EURegulation411966
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 41/66/EEC of the Council of 29 March 1966 laying down common
+    quality standards for cabbages, brussels sprouts and ribbed celery
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 41/66/CEE du Conseil, du 29 mars 1966, portant fixation
+    des normes communes de qualité pour les choux pommés, les choux de Bruxelles
+    et les céleris à côtes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 41/66/EWG des Rates vom 29. März 1966 zur Festsetzung gemeinsamer
+    Qualitätsnormen für Kopfkohl, Rosenkohl und Bleichsellerie
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 41/66/EØF af 29. marts 1966 om fastsættelse af
+    fælles kvalitetsnormer for hovedkål, rosenkål og bladselleri
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός αριθ. 41/66/ΕΟΚ του Συμβουλίου
+    της 29ης Μαρτίου 1966 περί καθορισμού κοινών κανόνων
+    ποιότητος για τα σφικτά λάχανα, τα λάχανα Βρυξελλών
+    και τα σέλινα με ραβδώσεις
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 41/66/CEE del Consiglio, del 29 marzo 1966, relativo alla
+    determinazione delle norme comuni di qualità per i cavoli cappucci e verzotti,
+    i cavoli di Bruxelles ed i sedani da coste
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening N° 41/66/EEG van de Raad van 29 maart 1966 houdende vaststelling
+    van gemeenschappelijke kwaliteitsnormen voor sluitkool, spruiten en bleekselderij
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento n.° 41/66/CEE do Conselho, de 29 de Março de 1966, que fixa
+    as normas comuns de qualidade para as couves-repolhos, couves de Bruxelas e aipo
+    alongado
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento n° 41/66/CEE del Consejo, de 29 de marzo de 1966, por el que
+    se establecen normas comunes de calidad para los repollos, las coles de Bruselas
+    y los apios
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0041
+docidentifier:
+- content: EU Regulation 41/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0041
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/41/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-03-29'
+- type: implemented
+  at: '1966-05-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0023
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

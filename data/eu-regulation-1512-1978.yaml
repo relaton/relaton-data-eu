@@ -1,0 +1,93 @@
+---
+id: EURegulation15121978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1512/78 of 30 June 1978 amending Regulation
+    No 282/67/EEC on detailed rules for intervention for oil seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1512/78 de la Commission, du 30 juin 1978, modifiant
+    le règlement n° 282/67/CEE relatif aux modalités d' intervention pour les graines
+    oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1512/78 der Kommission vom 30. Juni 1978 zur Änderung
+    der Verordnung Nr. 282/67/EWG über Durchführungsbestimmungen betreffend die
+    Intervention bei Ölsaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1512/78 af 30. juni 1978 om ændring
+    af forordning nr. 282/67/EØF om de nærmere regler for intervention ved olieholdige
+    frø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1512/78 della Commissione, del 30 giugno 1978, che
+    modifica il regolamento n. 282/67/CEE relativo alle modalità d' intervento nel
+    settore dei semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1512/78 van de Commissie van 30 juni 1978 tot wijziging
+    van Verordening nr. 282/67/EEG betreffende de interventieregeling voor oliehoudende
+    zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1512
+docidentifier:
+- content: EU Regulation 1512/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1512
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1512/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-06-30'
+- type: implemented
+  at: '1978-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0282
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

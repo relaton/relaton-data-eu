@@ -1,0 +1,85 @@
+---
+id: EURegulation10401967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 1040/67/CEE du Conseil, du 21 décembre 1967, modifiant
+    les règlements n° 23 et 158/66/CEE relatifs à l'organisation commune des marchés
+    dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 1040/67/EWG des Rates vom 21. Dezember 1967 zur Änderung
+    der Verordnungen Nr. 23 und Nr. 158/66/EWG über die gemeinsame Marktorganisation
+    für Obst und Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 1040/67/CEE del Consiglio, del 21 dicembre 1967, che modifica
+    i regolamenti nn. 23 e 158/66/CEE relativi all'organizzazione comune dei mercati
+    nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 1040/67/EEG van de Raad van 21 december 1967 houdende wijziging
+    van de Verordeningen Nr. 23 en Nr. 158/66/EEG betreffende de gemeenschappelijke
+    ordening der markten in de sector groenten en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R1040
+docidentifier:
+- content: EU Regulation 1040/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R1040
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/1040/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-21'
+- type: implemented
+  at: '1968-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0023
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0158
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

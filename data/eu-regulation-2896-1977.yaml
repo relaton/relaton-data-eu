@@ -1,0 +1,95 @@
+---
+id: EURegulation28961977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2896/77 of 20 December 1977 extending to other
+    products the Annex to Regulation (EEC) No 109/70 establishing common rules for
+    imports from State-trading countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2896/77 du Conseil, du 20 décembre 1977, étendant
+    à d' autres produits l' annexe du règlement (CEE) n° 109/70 portant établissement
+    d' un régime commun applicable aux importations de pays à commerce d' État
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2896/77 des Rates vom 20. Dezember 1977 zur Ausdehnung
+    des Anhangs der Verordnung (EWG) Nr. 109/70 zur Festlegung einer gemeinsamen Regelung
+    für die Einfuhr aus Staatshandelsländern auf weitere Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2896/77 af 20. december 1977 om udvidelse
+    af bilaget til forordning (EØF) nr. 109/70 om fastlæggelse af en fælles ordning
+    for indførsel fra statshandelslande, til også at omfatte andre varer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2896/77 del Consiglio, del 20 dicembre 1977, che estende
+    ad altri prodotti l' allegato del regolamento (CEE) n. 109/70 che istituisce un
+    regime comune applicabile alle importazioni dai paesi a commercio di Stato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2896/77 van de Raad van 20 december 1977 houdende
+    uitbreiding tot andere produkten van de bijlage bij Verordening (EEG) nr. 109/70
+    houdende totstandbrenging van een gemeenschappelijke regeling voor de invoer uit
+    de landen met staatshandel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2896
+docidentifier:
+- content: EU Regulation 2896/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2896
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2896/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-20'
+- type: implemented
+  at: '1977-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0109
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

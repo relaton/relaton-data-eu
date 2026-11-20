@@ -1,0 +1,104 @@
+---
+id: EURegulation19491980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1949/80 of 23 July 1980 amending Regulation
+    (EEC) No 1603/79 laying down rules for the payment of a premium to producers of
+    potato starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1949/80 de la Commission du 23 juillet 1980, modifiant
+    le règlement (CEE) n° 1603/79 fixant les modalités de paiement d' une prime
+    aux producteurs de fécule de pommes de terre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1949/80 der Kommission vom 23. Juli 1980 zur Änderung
+    der Verordnung (EWG) Nr. 1603/79 zur Festsetzung von Regeln für die Zahlung einer
+    Prämie an Erzeuger von Kartoffelstärke
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1949/80 af 23. juli 1980 om ændring
+    af forordning (EØF) nr. 1603/79 om fastsættelse af regler for betaling af en
+    præmie til producenter af kartoffelstivelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1949/80 τής Επιτροπής
+    τής 23ης Ιουλίου 1980 περί τροποποιήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 1603/79 «περί καθορισμού τών τρόπων
+    πληρωμής μιάς πριμοδοτήσεως στούς παραγωγούς
+    αμύλου γεωμήλων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1949/80 della Commissione, del 23 luglio 1980, che
+    modifica il regolamento (CEE) n. 1603/79 relativo alle modalità di versamento
+    di un premio ai fabbricanti di fecola di patate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1949/80 van de Commissie van 23 juli 1980 houdende
+    wijziging van Verordening (EEG) nr. 1603/79 tot vaststelling van uitvoeringsbepalingen
+    voor de betaling van een premie aan de producenten van aardappelzetmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1949
+docidentifier:
+- content: EU Regulation 1949/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1949
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1949/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-07-23'
+- type: implemented
+  at: '1980-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R1603
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

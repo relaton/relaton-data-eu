@@ -1,0 +1,73 @@
+---
+id: EURegulation1881964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 188/64/CEE du Conseil, du 12 décembre 1964, relatif à
+    l'organisation d'une enquête sur la structure et la répartition des salaires
+    dans l'industrie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 188/64/EWG des Rates vom 12. Dezember 1964 zur Durchführung
+    einer Erhebung über Struktur und Verteilung der Löhne in Industrie und Handwerk
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 188/64/CEE del Consiglio, del 12 dicembre 1964, relativo
+    all'organizzazione di un'inchiesta sulla struttura e sulla ripartizione dei salari
+    nell'industria
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 188/64/EEG van de Raad van 12 december 1964 betreffende
+    de organisatie van een enquête over de structuur en de spreiding van de lonen
+    in de industrie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0188
+docidentifier:
+- content: EU Regulation 188/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0188
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/188/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-12'
+- type: implemented
+  at: '1965-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

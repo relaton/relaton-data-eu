@@ -1,0 +1,70 @@
+---
+id: EURegulation23891971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2389/71 du Conseil, du 8 novembre 1971, fixant le
+    prix de base et le prix d'achat des mandarines
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2389/71 des Rates vom 8. November 1971 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Mandarinen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2389/71 del Consiglio, dell'8 novembre 1971, che fissa
+    il prezzo di base ed il prezzo d'acquisto per i mandarini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2389/71 van de Raad van 8 november 1971 tot vaststelling
+    van de basisprijs en de aankoopprijs voor mandarijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2389
+docidentifier:
+- content: EU Regulation 2389/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2389
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2389/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-08'
+- type: implemented
+  at: '1971-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,73 @@
+---
+id: EURegulation1741964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 174/64/CEE de la Commission, du 6 novembre 1964, fixant des
+    coefficients forfaitaires applicables aux découpes de porcs abattus et aux préparations
+    et conserves à base de viande de porc, pour le calcul des restitutions à l'exportation
+    vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 174/64/EWG der Kommission vom 6. November 1964 über die
+    Festsetzung von Pauschalkoeffizienten für Teilstücke geschlachteter Schweine
+    sowie für Schweinefleisch enthaltende Zubereitungen und Konserven zur Berechnung
+    der Erstattungen bei der Ausfuhr nach Drittländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 174/64/CEE della Commissione, del 6 novembre 1964, che fissa
+    i coefficienti forfettari applicabili ai tagli di suini macellati, nonché alle
+    preparazioni e conserve a base di carni suine, per il calcolo delle restituzioni
+    all'esportazione verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 174/64/EEG van de Commissie van 6 november 1964 houdende
+    vaststelling van forfaitaire coëfficiënten voor delen van geslachte varkens
+    alsmede voor varkensvlees bevattende bereidingen en conserven ter berekening van
+    de restituties bij uitvoer naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0174
+docidentifier:
+- content: EU Regulation 174/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0174
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/174/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

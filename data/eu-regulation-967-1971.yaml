@@ -1,0 +1,75 @@
+---
+id: EURegulation9671971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 967/71 du Conseil, du 10 mai 1971, modifiant le règlement
+    n° 159/66/CEE en ce qui concerne la destination des produits ayant fait l'objet
+    d'intervention dans le secteur des fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 967/71 des Rates vom 10. Mai 1971 zur Änderung der
+    Verordnung Nr. 159/66/EWG in bezug auf den Bestimmungszweck der Erzeugnisse, die
+    Gegenstand einer Intervention auf dem Sektor Obst und Gemüse waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 967/71 del Consiglio, del 10 maggio 1971, che modifica
+    il regolamento n. 159/66/CEE per quanto concerne la destinazione dei prodotti
+    che hanno formato oggetto d'intervento nel settore degli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 967/71 van de Raad van 10 mei 1971 tot wijziging
+    van Verordening nr. 159/66/EEG voor wat betreft de bestemming van de produkten
+    ten aanzien waarvan interventiemaatregelen zijn genomen in sector groenten en
+    fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0967
+docidentifier:
+- content: EU Regulation 967/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0967
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/967/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-10'
+- type: implemented
+  at: '1971-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

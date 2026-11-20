@@ -1,0 +1,67 @@
+---
+id: EURegulation22941971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2294/71 de la Commission, du 28 octobre 1971, fixant
+    les primes s'ajoutant aux prélèvements pour les céréales et le malt
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2294/71 der Kommission vom 28. Oktober 1971 über
+    die Festsetzung der Prämien, die den Abschöpfungen für Getreide und Malz hinzugefügt
+    werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2294/71 della Commissione, del 28 ottobre 1971, che
+    fissa i supplementi da aggiungere ai prelievi per i cereali e il malto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2294/71 van de Commissie van 28 oktober 1971 houdende
+    vaststelling van de premies die aan de heffingen toegevoegd worden voor granen
+    en mout
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2294
+docidentifier:
+- content: EU Regulation 2294/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2294
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2294/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

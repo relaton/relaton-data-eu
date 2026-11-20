@@ -1,0 +1,73 @@
+---
+id: EURegulation1641965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 164/65/CEE de la Commission, du 9 décembre 1965, fixant un
+    montant supplémentaire pour les oeufs entiers séchés et diminuant les montants
+    supplémentaires pour les oeufs entiers liquides ou congelés ainsi que pour les
+    jaunes d'oeufs séchés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 164/65/EWG der Kommission vom 9. Dezember 1965 zur Festsetzung
+    des Zusatzbetrags für getrocknetes Vollei von Hausgeflügel und zur Verringerung
+    der Zusatzbeträge für flüssiges oder gefrorenes Vollei sowie für getrocknetes
+    Eigelb von Hausgeflügel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 164/65/CEE della Commissione, del 9 dicembre 1965, che fissa
+    l'importo supplementare per le uova sgusciate ed essiccate e che diminuisce gli
+    importi supplementari per le uova sgusciate fresche o conservate e per il giallo
+    d'uova essiccato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 164/65/EEG van de Commissie van 9 december 1965 houdende
+    vaststelling van een extra-bedrag voor gedroogd heelei van pluimvee en verlaging
+    van de extra-bedragen voor vloeibaar of bevroren heelei alsmede voor gedroogd
+    eigeel van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0164
+docidentifier:
+- content: EU Regulation 164/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0164
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/164/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

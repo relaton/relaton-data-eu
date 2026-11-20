@@ -1,0 +1,69 @@
+---
+id: EURegulation23181972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2318/72 de la Commission, du 31 octobre 1972, modifiant
+    le règlement (CEE) n 979/72 en ce qui concerne les montants compensatoires applicables
+    dans le secteur de la viande de porc, à la suite des événements monétaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2318/72 der Kommission vom 31. Oktober 1972 zur Änderung
+    der Verordnung (EWG) Nr. 979/72 hinsichtlich der Ausgleichsabgaben, die im AnschluD
+    an die Währungsereignisse auf dem Schweinefleischsektor anzuwenden sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2318/72 della Commissione, del 31 ottobre 1972, che
+    modifica il regolamento (CEE) n. 979/72 per quanto concerne gli importi di compensazione
+    applicabili, nel settore delle carni suine, in seguito agli avvenimenti monetari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2318/72 van de Commissie van 31 oktober 1972 houdende
+    wijziging van Verordening (EEG) nr. 979/72 betreffende de compenserende bedragen
+    die ten gevolge van de monetaire toestand van toepassing zijn in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2318
+docidentifier:
+- content: EU Regulation 2318/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2318
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2318/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

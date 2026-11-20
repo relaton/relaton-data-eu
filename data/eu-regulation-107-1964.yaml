@@ -1,0 +1,82 @@
+---
+id: EURegulation1071964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 107/64/CEE du Conseil, du 30 juillet 1964, portant prorogation
+    et extension du champ d'application du règlement n° 3/63/CEE du Conseil, relatif
+    aux relations commerciales avec les pays à commerce d'état en ce qui concerne
+    certains produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 107/64/EWG des Rates vom 30. Juli 1964 zur Verlängerung
+    und Erweiterung des Geltungsbereichs der Verordnung Nr. 3/63/EWG des Rates betreffend
+    die wirtschaftlichen Beziehungen zu den Ländern mit Staatshandel in bezug auf
+    gewisse landwirtschaftliche Erzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 107/64/CEE del Consiglio, del 30 luglio 1964, recante modifica
+    e proroga al regolamento n. 3/63/CEE, relativo alle relazioni commerciali con
+    i paesi a commercio di Stato per quanto concerne taluni prodotti agricoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 107/64/EEG van de Raad van 30 juli 1964 houdende verlenging
+    en uitbreiding van de werkingssfeer van Verordening Nr. 3/63/EEG van de Raad betreffende
+    de handelsbetrekkingen met de landen met staatshandel aangaande sommige landbouwprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0107
+docidentifier:
+- content: EU Regulation 107/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0107
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/107/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-30'
+- type: implemented
+  at: '1964-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31963R0003
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

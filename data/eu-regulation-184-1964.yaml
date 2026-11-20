@@ -1,0 +1,70 @@
+---
+id: EURegulation1841964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 184/64/CEE de la Commission, du 13 novembre 1964, déterminant
+    les modalités de fonctionnement du Fonds européen de développement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 184/64/EWG der Kommission vom 13. November 1964 zur Regelung
+    der Arbeitsweise des Europäischen Entwicklungsfonds
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 184/64/CEE della Commissione, del 13 novembre 1964, che
+    stabilisce le modalità di funzionamento del Fondo europeo di sviluppo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 184/64/EEG van de Commissie van 13 november 1964 tot vaststelling
+    van de werkingswijze van het Europees Ontwikkelingsfonds
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0184
+docidentifier:
+- content: EU Regulation 184/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0184
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/184/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-11-13'
+- type: implemented
+  at: '1964-11-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

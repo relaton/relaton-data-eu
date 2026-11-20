@@ -1,0 +1,65 @@
+---
+id: EURegulation1011965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 101/65/CEE de la Commission, du 7 juillet 1965, portant fixation
+    des prix de référence pour les pêches
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 101/65/EWG der Kommission vom 7. Juli 1965 zur Festsetzung
+    der Referenzpreise für Pfirsiche
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 101/65/CEE della Commissione, del 7 luglio 1965, che fissa
+    i prezzi di riferimento per le pesche
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 101/65/EEG van de Commissie van 7 juli 1965 houdende vaststelling
+    van de referentieprijzen voor perziken
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0101
+docidentifier:
+- content: EU Regulation 101/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0101
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/101/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

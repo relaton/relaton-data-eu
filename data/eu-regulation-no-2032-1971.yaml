@@ -1,0 +1,65 @@
+---
+id: EURegulationNo20321971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2032/71 de la Commission, du 22 septembre 1971, fixant
+    le prélèvement à l'importation pour la mélasse
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2032/71 der Kommission vom 22. September 1971 über
+    die Festsetzung der Abschöpfungen bei der Einfuhr von Melasse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2032/71 della Commissione, del 22 settembre 1971,
+    che fissa il prelievo all'importazione per il melasso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2032/71 van de Commissie van 22 september 1971 houdende
+    vaststelling van de heffingen bij invoer voor melasse
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2032
+docidentifier:
+- content: EU Regulation No 2032/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2032
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2032/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-09-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

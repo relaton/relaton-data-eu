@@ -1,0 +1,84 @@
+---
+id: EURegulation7581968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 758/68/Euratom du Conseil, du 18 juin 1968, modifiant les
+    conditions applicables en matière de rémunération et de sécurité sociale
+    aux agents d'établissement du Centre Commun de Recherches Nucléaires affectés
+    en République Fédérale d'Allemagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom) Nr. 758/68 des Rates vom 18. Juni 1968 zur Änderung
+    der Regelung der Bezüge und der sozialen Sicherheit der Atomanlagenbediensteten
+    der Gemeinsamen Kernforschungsstelle, die in der Bundesrepublik Deutschland dienstlich
+    verwendet werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom) n. 758/68 del Consiglio, del 18 giugno 1968, che
+    modifica le condizioni applicabili in materia di retribuzione e di sicurezza sociale
+    agli agenti degli stabilimenti del Centro comune di ricerche nucleari che prestano
+    servizio nella Repubblica federale di Germania
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom) nr. 758/68 van de Raad van 18 juni 1968 tot wijziging
+    van de regeling inzake de bezoldiging en de sociale zekerheid van de functionarissen,
+    verbonden aan een inrichting van het Gemeenschappelijk Centrum voor Onderzoek
+    op het gebied van de Kernenergie, en tewerkgesteld in de Bondsrepubliek Duitsland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0758
+docidentifier:
+- content: EU Regulation 758/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0758
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/758/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-18'
+- type: implemented
+  at: '1968-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0009(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

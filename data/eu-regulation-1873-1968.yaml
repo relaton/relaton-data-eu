@@ -1,0 +1,71 @@
+---
+id: EURegulation18731968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1873/68 du Conseil, du 5 novembre 1968, prorogeant
+    la validité de la note complémentaire du chapitre 58 du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1873/68 des Rates vom 5. November 1968 zur Verlängerung
+    der Geltungsdauer der zusätzlichen Vorschrift zu Kapitel 58 des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1873/68 del Consiglio, del 5 novembre 1968, che proroga
+    la validità della nota complementare del capitolo 58 della tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1873/68 van de Raad van 5 november 1968 houdende
+    verlenging van de geldigheidsduur van de Aanvullende aantekening bij hoofdstuk
+    58 van het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1873
+docidentifier:
+- content: EU Regulation 1873/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1873
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1873/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-11-05'
+- type: implemented
+  at: '1968-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

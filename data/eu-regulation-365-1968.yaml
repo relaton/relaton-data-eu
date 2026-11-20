@@ -1,0 +1,72 @@
+---
+id: EURegulation3651968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 365/68 de la Commission, du 28 mars 1968, modifiant
+    la période prévue par le règlement n 941/67/CEE pour la préfixation du prélèvement
+    et de la restitution applicables aux aliments composés à base de céréales
+    pour les animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 365/68 der Kommission vom 28. März 1968 zur Änderung
+    des in der Verordnung Nr. 941/67/EWG vorgesehenen Zeitraums für die vorherige
+    Festsetzung der Abschöpfung und der Erstattung für Getreide- Mischfuttermittel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 365/68 della Commissione, del 28 marzo 1968, che modifica
+    il periodo previsto dal regolamento n. 941/67/CEE per la fissazione in anticipo
+    del prelievo e della restituzione applicabili agli alimenti composti a base di
+    cereali per gli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 365/68 van de Commissie van 28 maart 1968 houdende
+    wijziging van de in Verordening nr. 941/67/EEG voorgeschreven termijn voor de
+    voorfixatie van de heffing en van de restitutie voor mengvoeders op basis van
+    granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0365
+docidentifier:
+- content: EU Regulation 365/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0365
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/365/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

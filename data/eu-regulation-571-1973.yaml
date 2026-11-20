@@ -1,0 +1,97 @@
+---
+id: EURegulation5711973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 571/73 of the Commission of 26 February 1973 amending
+    Regulation (EEC) Nos 1373/70 and 2637/70 as regards the detailed rules for the
+    application of the system of advance fixing certificates for poultrymeat and eggs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 571/73 de la Commission, du 26 février 1973, modifiant
+    les règlements (CEE) n° 1373/70 et n° 2637/70 en ce qui concerne les modalités
+    d' application du régime des certificats de préfixation pour les oeufs et la
+    viande de volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 571/73 der Kommission vom 26. Februar 1973 zur Änderung
+    der Verordnungen (EWG) Nr. 1373/70 und Nr. 2637/70 hinsichtlich der Durchführungsbestimmungen
+    zur Regelung über Vorausfestsetzungsbescheinigungen für Eier und Geflügelfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 571/73 af 26. februar 1973 om ændring
+    af forordningerne (EØF) nr. 1373/70 og 2637/70 vedrørende gennemførelsesbestemmelser
+    for ordningen med forudfastsættelsesattester for æg og fjerkrækød
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 571/73 della Commissione, del 26 febbraio 1973, che
+    modifica i regolamenti (CEE) n. 1373/70 e n. 2637/70 per quanto riguarda le modalità
+    di applicazione del regime dei certificati di fissazione anticipata per le uova
+    e il pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 571/73 van de Commissie van 26 februari 1973 houdende
+    wijziging van de Verordeningen (EEG) nr. 1373/70 en nr. 2637/70 met betrekking
+    tot de uitvoeringsbepalingen van het stelsel van voorfixatiecertificaten voor
+    eieren en slachtpluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0571
+docidentifier:
+- content: EU Regulation 571/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0571
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/571/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-02-26'
+- type: implemented
+  at: '1973-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

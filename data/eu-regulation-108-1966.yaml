@@ -1,0 +1,68 @@
+---
+id: EURegulation1081966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 108/66/CEE de la Commission, du 27 juillet 1966, modifiant
+    le règlement n 192/64/CEE relatif aux modalités d'intervention sur le marché
+    du beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 108/66/EWG der Kommission vom 27. Juli 1966 zur Änderung
+    der Verordnung Nr. 192/64/EWG zur Festsetzung der Einzelheiten für die Interventionen
+    auf dem Buttermarkt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 108/66/CEE della Commissione, del 27 luglio 1966, che modifica
+    il regolamento n. 192/64/CEE relativo alla modalità d'intervento sul mercato
+    del burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 108/66/EEG van de Commissie van 27 juli 1966 houdende wijziging
+    van Verordening no. 192/64/EEG betreffende de wijze van interventie op de botermarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0108
+docidentifier:
+- content: EU Regulation 108/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0108
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/108/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

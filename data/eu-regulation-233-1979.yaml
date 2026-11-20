@@ -1,0 +1,95 @@
+---
+id: EURegulation2331979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 233/79 of 5 February 1979 extending the period
+    of validity of Regulation (EEC) No 2862/77 on levies applicable to imports of
+    certain adult bovine animals and beef from Yugoslavia
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 233/79 du Conseil, du 5 février 1979, prorogeant
+    le règlement (CEE) n° 2862/77 concernant les prélèvements applicables aux
+    importations de certains gros bovins et de leurs viandes en provenance de Yougoslavie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 233/79 des Rates vom 5. Februar 1979 zur Verlängerung
+    der Verordnung (EWG) Nr. 2862/77 über die Abschöpfungen, die bei der Einfuhr
+    von bestimmten ausgewachsenen Rindern und Fleisch von solchen aus Jugoslawien
+    anzuwenden sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 233/79 af 5. februar 1979 om forlængelse
+    af forordning (EØF) nr. 2862/77 om importafgifter for visse former for voksent
+    kvæg og oksekød fra Jugoslavien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 233/79 del Consiglio, del 5 febbraio 1979, che proroga
+    il regolamento (CEE) n. 2862/77 concernente i prelievi applicabili alle importazioni
+    di alcuni bovini adulti e delle loro carni in provenienza dalla Iugoslavia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 233/79 van de Raad van 5 februari 1979 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 2862/77 inzake de heffingen bij
+    invoer van bepaalde volwassen runderen en vlees daarvan uit Joegoslavië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0233
+docidentifier:
+- content: EU Regulation 233/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0233
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/233/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-02-05'
+- type: implemented
+  at: '1979-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2862
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,131 @@
+---
+id: EUDirective200023
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Directive 2000/23/EC of 27 April 2000 amending Directive 92/76/EEC
+    recognising protected zones exposed to particular plant health risks in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 2000/23/CE de la Commission, du 27 avril 2000, modifiant la directive
+    92/76/CEE reconnaissant des zones protégées, exposées à des dangers phytosanitaires
+    particuliers, dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 2000/23/EG der Kommission vom 27. April 2000 zur Änderung der
+    Richtlinie 92/76/EWG zur Anerkennung von gemeinschaftlichen Schutzgebieten mit
+    besonderen pflanzengesundheitlichen Risiken
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens direktiv 2000/23/EF af 27. april 2000 om ændring af direktiv
+    92/76/EØF om anerkendelse af beskyttede zoner, som er udsat for særlige plantesundhedsrisici
+    i Fællesskabet
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 2000/23/ΕΚ της Επιτροπής, της 27ης Απριλίου
+    2000, για την τροποποίηση της οδηγίας 92/76/ΕΟΚ
+    περί αναγνωρίσεως προστατευόμενων, περιοχών
+    που είναι εκτεθειμένες σε ιδιαίτερους φυτοϋγειονομικούς
+    κινδύνους στην Κοινότητα
+  type: main
+- language: fi
+  script: Latn
+  content: Komission direktiivi 2000/23/EY, annettu 27 päivänä huhtikuuta 2000,
+    kasvien terveyteen liittyville erityisille vaaroille alttiina olevien yhteisön
+    alueiden tunnustamisesta suojelluiksi annetun direktiivin 92/76/ETY muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 2000/23/CE della Commissione, del 27 aprile 2000, che modifica
+    la direttiva 92/76/CEE relativa al riconoscimento di zone protette esposte a particolari
+    rischi in campo fitosanitario nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 2000/23/EG van de Commissie van 27 april 2000 houdende wijziging
+    van Richtlijn 92/76/EEG tot erkenning van beschermde gebieden in de Gemeenschap
+    waar bijzondere plantenziekterisico's bestaan
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 2000/23/CE da Comissão, de 27 de Abril de 2000, que altera a
+    Directiva 92/76/CEE que reconhece zonas protegidas na Comunidade, expostas a riscos
+    fitossanitários específicos
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 2000/23/CE de la Comisión, de 27 de abril de 2000, que modifica
+    la Directiva 92/76/CEE por la que se reconocen zonas protegidas en la Comunidad
+    expuestas a riesgos fitosanitarios específicos
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens direktiv 2000/23/EG av den 27 april 2000 om ändring av direktiv
+    92/76/EEG om erkännande av skyddade zoner som utsätts för särskilda växtskyddsrisker
+    i gemenskapen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0023
+docidentifier:
+- content: EU Directive 2000/23
+  type: EU
+  primary: true
+- content: CELEX 32000L0023
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/2000/23/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-04-27'
+- type: implemented
+  at: '2000-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31992L0076
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

@@ -1,0 +1,73 @@
+---
+id: EURegulation2171966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 217/66/CEE du Conseil, du 14 décembre 1966, relatif au
+    régime de suspension du prélèvement à l'importation des huiles d'olive utilisées
+    pour la fabrication de certaines conserves
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 217/66/EWG des Rates vom 14. Dezember 1966 über die Aussetzung
+    der Einfuhrabschöpfung für Olivenöl zur Herstellung bestimmter Konserven
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 217/66/CEE del Consiglio, del 14 dicembre 1966, relativo
+    al regime di sospensione del prelievo all'importazione degli oli d'oliva impiegati
+    nella fabbricazione di alcune conserve
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 217/66/EEG van de Raad van 14 december 1966 betreffende
+    de regeling inzake schorsing van de heffing bij invoer van olijfolie die voor
+    de vervaardiging van bepaalde soorten conserven wordt gebruikt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0217
+docidentifier:
+- content: EU Regulation 217/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0217
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/217/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-14'
+- type: implemented
+  at: '1966-12-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

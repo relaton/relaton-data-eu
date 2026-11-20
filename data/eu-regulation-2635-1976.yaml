@@ -1,0 +1,108 @@
+---
+id: EURegulation26351976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2635/76 of 29 October 1976 amending the Community
+    tariff quotas opened for 1976 by Regulations (EEC) No 2956/75, (EEC) No 2957/75
+    and (EEC) No 2958/75 for the importation of certain wines originating in Portugal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2635/76 du Conseil, du 29 octobre 1976, modifiant
+    les contingents tarifaires communautaires ouverts au titre de l'année 1976 par
+    les règlements (CEE) n° 2956/75, (CEE) n 2957/75 et (CEE) n 2958/75 pour l'importation
+    de certains vins originaires du Portugal
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2635/76 des Rates vom 29. Oktober 1976 zur Änderung
+    der für 1976 durch die Verordnungen (EWG) Nrn. 2956/75, 2957/75 und 2958/75 eröffneten
+    Gemeinschaftszollkontingente für die Einfuhr bestimmter Weine mit Ursprung in
+    Portugal
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2635/76 af 29. oktober 1976 om ændring af
+    de ved forordning (EØF) nr. 2956/75, nr. 2957/75 og nr. 2958/75 for 1976 åbnede
+    fællesskabstoldkontingenter for indførsel af visse vine med oprindelse i Portugal
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2635/76 del Consiglio, del 29 ottobre 1976, che modifica
+    i contingenti tariffari comunitari aperti per l'anno 1976 dai regolamenti (CEE)
+    n. 2956/75, (CEE) n. 2957/75 e (CEE) n. 2958/75 relativamente all'importazione
+    di alcuni vini originari del Portogallo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2635/76 van de Raad van 29 oktober 1976 tot wijziging
+    van de bij de Verordeningen (EEG) nr. 2956/75, (EEG) nr. 2957/75 en (EEG) nr.
+    2958/75 voor de invoer van bepaalde soorten wijn, van oorsprong uit Portugal,
+    voor het jaar 1976 geopende communautaire tariefcontingenten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2635
+docidentifier:
+- content: EU Regulation 2635/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2635
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2635/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-10-29'
+- type: implemented
+  at: '1976-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2956
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2957
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2958
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

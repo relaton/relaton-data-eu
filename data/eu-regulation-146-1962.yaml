@@ -1,0 +1,85 @@
+---
+id: EURegulation1461962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 146 du Conseil modifiant les règlements n 44 et 114 du
+    Conseil en ce qui concerne les prélèvements à l'importation en France de certaines
+    volailles en provenance du Luxembourg
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 146 des Rats zur Änderung der Verordnungen Nr. 44 und 114
+    des Rats in bezug auf die Abschöpfungsbeträge bei der Einfuhr bestimmter Geflügelarten
+    aus Luxemburg nach Frankreich
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 146 del Consiglio che modifica i regolamenti nn. 44 e 114
+    del Consiglio per quanto riguarda i prelievi all'importazione in Francia dal Lussemburgo
+    di talune specie di pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 146 van de Raad tot wijziging van de Verordeningen Nrs.
+    44 en 114 van de Raad ten aanzien van de heffingen voor bepaalde soorten pluimvee
+    bij invoer in Frankrijk uit Luxemburg
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0146
+docidentifier:
+- content: EU Regulation 146/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0146
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/146/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-12-04'
+- type: implemented
+  at: '1962-12-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0044
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0114
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

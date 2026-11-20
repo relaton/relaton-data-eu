@@ -1,0 +1,70 @@
+---
+id: EURegulation6461972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 646/72 du Conseil, du 30 mars 1972, relatif à la
+    limitation de l'exportation de lait en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 646/72 des Rates vom 30. März 1972 zur Beschränkung
+    der Ausfuhr von Magermilchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 646/72 del Consiglio, del 30 marzo 1972, relativo
+    alla limitazione dell'esportazione del latte scremato in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 646/72 van de Raad van 30 maart 1972 betreffende
+    beperking van de uitvoer van magere- melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0646
+docidentifier:
+- content: EU Regulation 646/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0646
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/646/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-30'
+- type: implemented
+  at: '1972-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

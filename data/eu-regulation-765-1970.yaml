@@ -1,0 +1,76 @@
+---
+id: EURegulation7651970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 765/70 du Conseil, du 27 avril 1970, modifiant le
+    règlement (CEE) n° 950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 765/70 des Rates vom 27. April 1970 zur Änderung
+    der Verordnung (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 765/70 del Consiglio, del 27 aprile 1970, che modifica
+    il regolamento (CEE) n. 950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 765/70 van de Raad van 27 april 1970 tot wijziging
+    van Verordening (EEG) nr. 950/68 betreffende het gemeenschappelijk douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0765
+docidentifier:
+- content: EU Regulation 765/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0765
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/765/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-27'
+- type: implemented
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2451
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

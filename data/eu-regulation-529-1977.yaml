@@ -1,0 +1,110 @@
+---
+id: EURegulation5291977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 529/77 of 14 March 1977 amending Regulation
+    (EEC) No 2893/74 on sparkling wines produced in the Community and specified in
+    item 12 of Annex II to Regulations (EEC) No 816/70 and (EEC) No 817/70 laying
+    down special provisions relating to quality wines produced in specified regions
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 529/77 du Conseil, du 14 mars 1977, modifiant le règlement
+    (CEE) n° 2893/74 relatif aux vins mousseux produits dans la Communauté, définis
+    au point 12 de l' annexe II du règlement (CEE) n° 816/70 et le règlement (CEE)
+    n° 817/70 établissant des dispositions particulières relatives aux vins de
+    qualité produits dans des régions déterminées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 529/77 des Rates vom 14. März 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2893/74 über in der Gemeinschaft hergestellte Schaumweine
+    im Sinne von Nummer 12 des Anhangs II der Verordnung (EWG) Nr. 816/70 und zur
+    Änderung der Verordnung (EWG) Nr. 817/70 zur Festlegung besonderer Vorschriften
+    für Qualitätsweine bestimmter Anbaugebiete
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 529/77 af 14. marts 1977 om ændring af forordning
+    (EØF) nr. 2893/74 om mousserende vine produceret i Fællesskabet og defineret
+    under punkt 12 i bilag II til forordning (EØF) nr. 816/70 og forordning (EØF)
+    nr. 817/70 om fastlæggelse af særlige regler for kvalitetsvine fra bestemte
+    dyrkningsområder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 529/77 del Consiglio, del 14 marzo 1977, che modifica
+    il regolamento (CEE) n. 2893/74, relativo ai vini spumanti prodotti nella Comunità
+    e definiti al punto 12 dell' allegato II del regolamento (CEE) n. 816/70, nonché
+    il regolamento (CEE) n. 817/70, che stabilisce disposizioni particolari relative
+    ai vini di qualità prodotti in regioni determinate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 529/77 van de Raad van 14 maart 1977 tot wijziging
+    van Verordening (EEG) nr. 2893/74 betreffende de in de Gemeenschap vervaardigde
+    mousserende wijnen omschreven in punt 12 van bijlage II van Verordening (EEG)
+    nr. 816/70 en tot wijziging van Verordening (EEG) nr. 817/70 houdende vaststelling
+    van bijzondere bepalingen betreffende in bepaalde gebieden voortgebrachte kwaliteitswijnen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0529
+docidentifier:
+- content: EU Regulation 529/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0529
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/529/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-14'
+- type: implemented
+  at: '1977-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0817
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2893
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,100 @@
+---
+id: EURegulation29951973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2995/73 of the Council of 29 October 1973 extending
+    and amending Regulation (EEC) No 984/73 on the definition of the concept of 'originating
+    products' in trade with Austria, Finland, Iceland, Norway, Portugal, Sweden and
+    Switzerland
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2995/73 du Conseil, du 29 octobre 1973, prorogeant
+    et modifiant le règlement (CEE) n° 984/73 relatif à la définition de la notion
+    de "produits originaires" dans le cadre des échanges avec l'Autriche, la Finlande,
+    l'Islande, la Norvège, le Portugal, la Suède et la Suisse
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2995/73 des Rates vom 29. Oktober 1973 zur Verlängerung
+    und Änderung der Verordnung (EWG) Nr. 984/73 über die Bestimmung des Begriffs
+    "Erzeugnisse mit Ursprung in ..." oder "Ursprungserzeugnisse" im Warenverkehr
+    mit Finnland, Island, Norwegen, Österreich, Portugal, Schweden und der Schweiz
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2995/73 af 29. oktober 1973 om forlængelse
+    og ændring af forordning (EØF) nr. 984/73 om definition af begrebet »varers
+    oprindelse« i samhandelen med Østrig, Finland, Island, Norge, Portugal, Sverige
+    og Schweiz
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2995/73 del Consiglio, del 29 ottobre 1973, che proroga
+    e modifica il regolamento (CEE) n. 984/73 relativo alla definizione della nozione
+    di «prodotti originari» nel quadro degli scambi con l'Austria, la Finlandia,
+    l'Islanda, la Norvegia, il Portogallo, la Svezia e la Svizzera
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2995/73 van de Raad van 29 oktober 1973 ter verlenging
+    en wijziging van Verordening (EEG) nr. 984/73 betreffende de definitie van het
+    begrip "produkten van oorsprong" in het kader van het handelsverkeer met Oostenrijk,
+    Finland, IJsland, Noorwegen, Portugal, Zweden en Zwitserland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2995
+docidentifier:
+- content: EU Regulation 2995/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2995
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2995/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-29'
+- type: implemented
+  at: '1973-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0984
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

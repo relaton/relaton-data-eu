@@ -1,0 +1,104 @@
+---
+id: EURegulation27081980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2708/80 of 23 October 1980 amending Regulation
+    (EEC) No 2826/79 laying down special detailed rules in respect of import and export
+    licences in the wine sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2708/80 de la Commission, du 23 octobre 1980, modifiant
+    le règlement (CEE) n° 2826/79 portant modalités particulières d' application
+    du régime des certificats d' importation et d' exportation dans le secteur viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2708/80 der Kommission vom 23. Oktober 1980 zur Änderung
+    der Verordnung (EWG) Nr. 2826/79 über besondere Durchführungsvorschriften für
+    Einfuhr- und Ausfuhrlizenzen für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2708/80 af 23. oktober 1980 om ændring
+    af forordning (EØF) nr. 2826/79 om særlige gennemførelsesbestemmelser for ordningen
+    med import- og eksportlicenser for vin
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2708/80 τής Επιτροπής
+    τής 23ης Οκτωβρίου 1980 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 2826/79 «περί ειδικών λεπτομερειών
+    εφαρμογής τού καθεστώτος τών πιστοποιητικών
+    εισαγωγής καί εξαγωγής στόν αμπελοοινικό τομέα»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2708/80 della Commissione, del 23 ottobre 1980, che
+    modifica il regolamento (CEE) n. 2826/79 recante modalità particolari d' applicazione
+    del regime dei titoli d' importazione e di esportazione nel settore vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2708/80 van de Commissie van 23 oktober 1980 tot
+    wijziging van Verordening (EEG) nr. 2826/79 houdende bijzondere uitvoeringsbepalingen
+    inzake het stelsel van invoer- en uitvoercertificaten in de sector wijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R2708
+docidentifier:
+- content: EU Regulation 2708/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R2708
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/2708/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-10-23'
+- type: implemented
+  at: '1980-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2826
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

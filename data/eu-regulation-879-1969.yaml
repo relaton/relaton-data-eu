@@ -1,0 +1,69 @@
+---
+id: EURegulation8791969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 879/69 de la Commission, du 12 mai 1969, modifiant le
+    règlement (CEE) n 1787/68 portant exemption partielle du prélèvement sur certaines
+    quantités de cossettes séchées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 879/69 der Kommission vom 12. Mai 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1787/68 zur teilweisen Freistellung von der Abschöpfung
+    bestimmter Mengen getrockneter Zuckerrübenschnitzel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 879/69 della Commissione, del 12 maggio 1969, che
+    modifica il regolamento (CEE) n. 1787/68 relativo ad un'esenzione dal prelievo
+    su determinati quantitativi di fettucce disseccate di barbabietole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 879/69 van de Commissie van 12 mei 1969 tot wijziging
+    van Verordening (EEG) nr. 1787/68 houdende gedeeltelijke vrijstelling van de heffing
+    voor bepaalde hoeveelheden gedroogde suikerbietesnijdsels
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0879
+docidentifier:
+- content: EU Regulation 879/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0879
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/879/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

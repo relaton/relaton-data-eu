@@ -1,0 +1,105 @@
+---
+id: EURegulation15571978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1557/78 of 5 July 1978 on the sale, at a
+    price fixed at a standard rate in advance, of preserved beef held by the intervention
+    agencies, amending Regulation (EEC) No 1687/76 and repealing Regulation (EEC)
+    No 2311/77
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1557/78 de la Commission, du 5 juillet 1978, relatif
+    à la vente à prix fixé forfaitairement à l' avance de conserves de viande
+    bovine détenues par les organismes d' intervention, modifiant le règlement (CEE)
+    n° 1687/76 et abrogeant le règlement (CEE) n° 2311/77
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1557/78 der Kommission vom 5. Juli 1978 über den
+    Verkauf von Rindfleischkonserven aus Bestánden der Interventionsstellen zu im
+    voraus festgesetztem Pauschpreis, zur Ánderung der Verordnung (EWG) Nr. 1687/76
+    und zur Aufhebung der Verordnung (EWG) Nr. 2311/77
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1557/78 af 5. juli 1978 om salg til
+    forudfastsat pris af oksekødkonserves, som interventionsorganerne ligger inde
+    med, om ændring af forordning (EØF) nr. 1687/76 og om ophævelse af forordning
+    (EØF) nr. 2311/77
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1557/78 della Commissione, del 5 luglio 1978, relativo
+    alla vendita, ad un prezzo fissato forfettariamente in anticipo, di conserve di
+    carni bovine detenute dagli organismi d' intervento e recante modifica del regolamento
+    (CEE) n. 1687/76 nonché abrogazione del regolamento (CEE) n. 2311/77
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1557/78 van de Commissie van 5 juli 1978 inzake de
+    verkoop van rundvleesconserven uit interventievoorraden tegen een vooraf forfaitair
+    vastgestelde prijs, tevens houdende wijziging van Verordening (EEG) nr. 1687/76
+    en intrekking van Verordening (EEG) nr. 2311/77
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1557
+docidentifier:
+- content: EU Regulation 1557/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1557
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1557/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-07-05'
+- type: implemented
+  at: '1978-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2311
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1687
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

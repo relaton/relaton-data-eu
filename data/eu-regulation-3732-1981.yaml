@@ -1,0 +1,101 @@
+---
+id: EURegulation37321981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3732/81 of 21 December 1981 amending Regulation
+    (EEC) No 2420/79 suspending imports of frozen squid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3732/81 de la Commission, du 21 décembre 1981, modifiant
+    le règlement (CEE) n° 2420/79 portant suspension des importations de calmars
+    ou encornets congelés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3732/81 der Kommission vom 21. Dezember 1981 zur Änderung
+    der Verordnung (EWG) Nr. 2420/79 zur Aussetzung der Einfuhren von gefrorenen Kalmaren
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3732/81 af 21. december 1981 om ændring
+    af forordning (EØF) nr. 2420/79 om suspension af indførelsen af frosne tiarmede
+    blæksprutter af arten Kalmar
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3732/81 τής Επιτροπής
+    τής 21ης Δεκεμβρίου 1981 περί τοποποιήσεως τού
+    κανονισμού (EOK) αριθ. 2420/79 περί αναστολής τών
+    εισαγωγών κατεψυγμένων καλαμαριών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3732/81 della Commissione, del 21 dicembre 1981, che
+    modifica il regolamento (CEE) n. 2420/79, recante sospensione delle importazioni
+    di calamari o totani congelati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3732/81 van de Commissie van 21 december 1981 tot
+    wijziging van Verordening (EEG) nr. 2420/79 houdende schorsing van de invoer van
+    bevroren pijlinktvis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R3732
+docidentifier:
+- content: EU Regulation 3732/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R3732
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/3732/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-12-21'
+- type: implemented
+  at: '1982-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R2420
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

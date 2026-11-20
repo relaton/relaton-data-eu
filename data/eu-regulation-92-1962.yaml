@@ -1,0 +1,65 @@
+---
+id: EURegulation921962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 92 de la Commission relatif aux restitutions applicables aux
+    exportations de produits transformés à base de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 92 der Kommission über die Erstattungsbeträge, die auf
+    Ausfuhren von Getreideverarbeitungserzeugnissen anzuwenden sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 92 della Commissione relativo alle restituzioni applicabili
+    alle esportazioni dei prodotti trasformati a base di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 92 van de Commissie betreffende de restituties voor de
+    uitvoer voor de op basis van granen verwerkte produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0092
+docidentifier:
+- content: EU Regulation 92/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0092
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/92/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EUDecision1973313
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Decision of 24 July 1973 amending the Decision of 29 September
+    1970 on the association of the Overseas Countries and Territories with the European
+    Economic Community
+  type: main
+- language: fr
+  script: Latn
+  content: Décision 73/313/CEE du Conseil du 24 juillet 1973, modifiant la décision
+    du 29 septembre 1970 relative à l'association des pays et territoires d'outre-mer
+    à la Communauté économique européenne
+  type: main
+- language: de
+  script: Latn
+  content: Beschluß des Rates vom 24. Juli 1973 zur Änderung des Beschlusses vom
+    29. September 1970 über die Assoziation der überseeischen Länder und Gebiete
+    mit der Europäischen Wirtschaftsgemeinschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Afgørelse af 24. juli 1973 om ændring af afgørelse af 29. september
+    1970 om de oversøiske landes og territoriers associering med Det europæiske
+    økonomiske Fællesskab
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio, del 24 luglio 1973, che modifica la decisione
+    del 29 settembre 1970 relativa all'associazione dei paesi e territori d'oltremare
+    alla Comunità economica europea
+  type: main
+- language: nl
+  script: Latn
+  content: Besluit van de Raad van 24 juli 1973 tot wijziging van het besluit van
+    29 september 1970 inzake de associatie van de landen en gebieden overzee met de
+    Europese Economische Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973D0313
+docidentifier:
+- content: EU Decision 1973/313
+  type: EU
+  primary: true
+- content: CELEX 31973D0313
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1973/313/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-07-24'
+- type: implemented
+  at: '1973-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970D0549
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

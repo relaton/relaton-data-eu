@@ -1,0 +1,74 @@
+---
+id: EURegulation16091970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1609/70 de la Commission, du 6 août 1970, relatif
+    au prix de la canne à sucre à payer à la Réunion par les fabricants de sucre
+    aux vendeurs DE canne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1609/70 der Kommission vom 6. August 1970 über den
+    auf Réunion von den Zuckerherstellern an die Zuckerrohrverkäufer zu bezahlenden
+    Preis für Zuckerrohr
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1609/70 della Commissione, del 6 agosto 1970, relativo
+    al prezzo della canna da zucchero che i fabbricanti di zucchero devono pagare
+    ai venditori di canna alla Riunione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1609/70 van de Commissie van 6 augustus 1970 met
+    betrekking tot de in Réunion door de suikerfabrikanten aan de rietverkopers te
+    betalen prijs voor het suikerriet
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1609
+docidentifier:
+- content: EU Regulation 1609/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1609
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1609/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-08-06'
+- type: implemented
+  at: '1970-08-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

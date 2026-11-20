@@ -1,0 +1,74 @@
+---
+id: EURegulation14461971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1446/71 de la Commission, du 7 juillet 1971, fixant
+    les coefficients d'adaptation à appliquer au prix d'achat prévu pour les poires
+    par le règlement (CEE) n° 1357/71 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1446/71 der Kommission vom 7. Juli 1971 zur Festsetzung
+    der Anpassungskoeffizienten für den Ankaufspreis für Birnen nach Verordnung
+    (EWG) Nr. 1357/71 des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1446/71 della Commissione, del 7 luglio 1971, che
+    fissa i coefficienti di adattamento da applicare al prezzo di acquisto previsto
+    per le pere dal regolamento (CEE) n. 1357/71 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1446/71 van de Commissie van 7 juli 1971 houdende
+    vaststelling van de aanpassingscoëfficiënten die moeten worden toegepast op
+    de bij Verordening (EEG) nr. 1357/71 van de Raad voor peren vastgestelde aankoopprijs
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1446
+docidentifier:
+- content: EU Regulation 1446/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1446
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1446/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-07'
+- type: implemented
+  at: '1971-07-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

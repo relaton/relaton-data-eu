@@ -1,0 +1,98 @@
+---
+id: EURegulation23841971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2384/71 of the Council of 8 November 1971 including
+    further products in the list given in Annex I to Regulation (EEC)"No 1025/70 establishing
+    common rules for imports from third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2384/71 du Conseil, du 8 novembre 1971, portant inclusion
+    de nouveaux produits dans la liste figurant à l' annexe I du règlement (CEE)
+    n° 1025/70 portant établissement d' un régime commun applicable aux importations
+    de pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2384/71 des Rates vom 8. November 1971 zur Aufnahme
+    weiterer Waren in die im Anhang I der Verordnung (EWG) Nr. 1025/70 zur Festlegung
+    einer gemeinsamen Regelung für die Einfuhr aus dritten Ländern aufgeführte
+    Liste
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2384/71 af 8. november 1971 om optagelse
+    af nye varer på den i bilag I til forordning (EØF) nr. 1025/70 om fastlæggelse
+    af en fælles ordning for indførsel fra tredjelande opførte liste
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2384/71 del Consiglio, dell' 8 novembre 1971, relativo
+    all' inclusione di nuovi prodotti nell' elenco di cui all' allegato I del regolamento
+    (CEE) n. 1025/70 che istituisce un regime comune applicabile alle importazioni
+    da paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2384/71 van de Raad van 8 november 1971 houdende
+    opname van nieuwe produkten op de lijst van bijlage I van Verordening (EEG) nr.
+    1025/70 houdende de totstandbrenging van een gemeenschappelijke regeling voor
+    de invoer uit derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2384
+docidentifier:
+- content: EU Regulation 2384/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2384
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2384/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-08'
+- type: implemented
+  at: '1971-11-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1025
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,100 @@
+---
+id: EURegulation32941980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3294/80 of 18 December 1980 amending Regulation
+    (EEC) No 2315/76 on the sale of butter from public storage
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3294/80 de la Commission, du 18 décembre 1980, modifiant
+    le règlement (CEE) n° 2315/76 relatif à la vente de beurre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3294/80 der Kommission vom 18. Dezember 1980 zur Änderung
+    der Verordnung (EWG) Nr. 2315/76 über den Verkauf von Butter aus staatlicher
+    Lagerhaltung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3294/80 af 18. december 1980 om ændring
+    af forordning (EØF) nr. 2315/76 om salg af smør fra offentlige lagre
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3294/80 της Επιτροπής
+    της 18ης Δεκεμβρίου 1980 περί τροποποιήσεως του
+    κανονισμού (EOK) αριθ. 2315/76 «περί της πωλήσεως
+    βουτύρου δημοσίων αποθεμάτων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3294/80 della Commissione, del 18 dicembre 1980, che
+    modifica il regolamento (CEE) n. 2315/76 relativo alla vendita di burro d' ammasso
+    pubblico
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3294/80 van de Commissie van 18 december 1980 houdende
+    wijziging van Verordening (EEG) nr. 2315/76 met betrekking tot de verkoop van
+    boter uit openbare opslag
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R3294
+docidentifier:
+- content: EU Regulation 3294/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R3294
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/3294/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-12-18'
+- type: implemented
+  at: '1980-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2315
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

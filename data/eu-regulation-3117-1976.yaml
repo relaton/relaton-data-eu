@@ -1,0 +1,112 @@
+---
+id: EURegulation31171976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3117/76 of 21 December 1976 amending and
+    repealing the linking systems introduced in the beef and veal sector, by way of
+    protective measures, by Regulations (EEC) No 76/76 and (EEC) No 223/76
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3117/76 de la Commission, du 21 décembre 1976, modifiant
+    et abrogeant les régimes de jumelage, instaurés au titre de mesures de sauvegarde,
+    dans le secteur de la viande bovine par les règlements (CEE) n° 76/76 et (CEE)
+    n 223/76
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3117/76 der Kommission vom 21. Dezember 1976 zur Änderung
+    und Aufhebung der durch die Verordnungen (EWG) Nr. 76/76 und (EWG) Nr. 223/76
+    im Sektor Rindfleisch als Schutzmaßnahmen eingeführten Koppelungsregelungen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3117/76 af 21. december 1976 om ændring
+    og ophævelse af de ordninger om kobling, der som beskyttelsesforanstaltninger
+    er indført i oksekødsektoren ved forordning (EØF) nr. 76/76 og (EØF) nr. 223/76
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3117/76 della Commissione, del 21 dicembre 1976, che
+    modifica ed abroga i regimi di abbinamento, istituiti dai regolamenti (CEE) n.
+    76/76 e (CEE) n. 223/76 nel quadro delle misure di salvaguardia nel settore delle
+    carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3117/76 van de Commissie van 21 december 1976 tot
+    wijziging en intrekking van de regelingen voor de koppeling, die in het kader
+    van de vrijwaringsmaatregelen in de sector rundvlees door de Verordeningen (EEG)
+    nr. 76/76 en (EEG) nr. 223/76 werden ingesteld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R3117
+docidentifier:
+- content: EU Regulation 3117/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R3117
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/3117/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-21'
+- type: implemented
+  at: '1976-12-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0076
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0223
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0076
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0223
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

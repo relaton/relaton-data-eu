@@ -1,0 +1,69 @@
+---
+id: EURegulation1351968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 135/68 de la Commission, du 1er février 1968, modifiant
+    l'annexe du règlement n 158/64/CEE en ce qui concerne l'incidence des impositions
+    intérieures perçues à l'importation en France sur le lactose
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 135/68 der Kommission vom 1. Februar 1968 zur Änderung
+    des Anhangs der Verordnung Nr. 158/64/EWG hinsichtlich der Auswirkung der bei
+    der Einfuhr nach Frankreich auf Laktose erhobenen inländischen Abgaben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 135/68 della Commissione, del 1 febbraio 1968, che
+    modifica l'allegato del regolamento n. 158/64/CEE per quanto riguarda l'incidenza
+    delle imposizioni interne riscosse all'importazione in Francia per il lattosio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 135/68 van de Commissie van 1 februari 1968 houdende
+    wijziging van de bijlage van Verordening nr. 158/64/EEG voor wat betreft de invloed
+    van de binnenlandse belastingen, opgelegd bij de invoer in Frankrijk van lactose
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0135
+docidentifier:
+- content: EU Regulation 135/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0135
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/135/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

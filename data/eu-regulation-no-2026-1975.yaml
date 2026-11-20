@@ -1,0 +1,94 @@
+---
+id: EURegulationNo20261975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2026/75 of the Commission of 4 August 1975 laying down
+    detailed rules for the application of Regulation (EEC) No 1955/75 as regards production
+    refunds on starches
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2026/75 de la Commission, du 4 août 1975, portant
+    modalités d'application du règlement (CEE) n 1955/75 en ce qui concerne les
+    restitutions à la production pour les produits amylacés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2026/75 der Kommission vom 4. August 1975 mit Durchführungsbestimmungen
+    zur Verordnung (EWG) Nr. 1955/75 betreffend Erstattungen bei der Erzeugung von
+    stärkehaltigen Erzeugnissen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2026/75 af 4. august 1975 om gennemførelsesbestemmelser
+    til forordning (EØF) nr. 1955/75 om produktionsrestitutioner for stivelsesholdige
+    varer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2026/75 della Commissione, del 4 agosto 1975, recante
+    modalità d'applicazione del regolamento (CEE) n. 1955/75 per quanto concerne
+    le restituzioni alla produzione per i prodotti amidacei
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2026/75 van de Commissie van 4 augustus 1975 houdende
+    uitvoeringsbepalingen van Verordening (EEG) nr. 1955/75 met betrekking tot de
+    restituties bij de reproduktie voor zetmeelhoudende produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2026
+docidentifier:
+- content: EU Regulation No 2026/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2026
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2026/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-04'
+- type: implemented
+  at: '1975-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2012
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

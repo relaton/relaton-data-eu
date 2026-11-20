@@ -1,0 +1,94 @@
+---
+id: EURegulationNo20871975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2087/75 of the Commission of 8 August 1975 closing
+    the standing invitation to tender for white sugar for UNRWA provided for in Regulation
+    (EEC) No 1071/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2087/75 de la Commission, du 8 août 1975, clôturant
+    l'adjudication permanente de sucre blanc pour l'UNRWA effectuée en vertu du règlement
+    (CEE) n° 1071/75
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2087/75 der Kommission vom 8. August 1975 zur Einstellung
+    der auf Grund der Verordnung (EWG) Nr. 1071/75 durchgeführten Dauerausschreibung
+    von Weißzucker für das UNRWA
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2087/75 af 8. august 1975 om lukning
+    af den løbende licitation for hvidt sukker, der skal leveres til UNRWA i henhold
+    til forordning (EØF) nr. 1071/75
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2087/75 della Commissione, dell'8 agosto 1975, che
+    chiude la gara permanente di zucchero bianco destinato all'UNRWA di cui al regolamento
+    (CEE) n. 1071/75
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2087/75 van de Commissie van 8 augustus 1975 tot
+    sluiting van de permanente inschrijving voor witte suiker te leveren aan de UNRWA
+    in het kader van Verordening (EEG) nr. 1071/75
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2087
+docidentifier:
+- content: EU Regulation No 2087/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2087
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2087/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-08'
+- type: implemented
+  at: '1975-08-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1071
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

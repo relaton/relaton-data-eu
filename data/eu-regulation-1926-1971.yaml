@@ -1,0 +1,84 @@
+---
+id: EURegulation19261971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1926/71 de la Commission, du 2 septembre 1971, abrogeant
+    le règlement (CEE) n° 1515/71 relatif à la non-fixation de montants supplémentaires
+    pour les importations de porcs vivants et abattus ainsi que de certaines découpes
+    de porcs en provenance de Yougoslavie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1926/71 der Kommission vom 2. September 1971 zur Aufhebung
+    der Verordnung (EWG) Nr. 1515/71 über die Nichtfestsetzung von Zusatzbeträgen
+    bei Einfuhren von lebenden und geschlachteten Schweinen sowie bestimmten Teilstücken
+    von Schweinen aus Jugoslawien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1926/71 della Commissione, del 2 settembre 1971, che
+    abroga il regolamento (CEE) n. 1515/71 relativo alla non fissazione di importi
+    supplementari per le importazioni di suini vivi e macellati e di tagli di carni
+    suine in provenienza dalla Iugoslavia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1926/71 van de Commissie van 2 september 1971 houdende
+    intrekking van Verordening (EEG) nr. 1515/71 betreffende het nietvaststellen van
+    extrabedragen voor de invoer van levende en geslachte varkens en van bepaalde
+    deelstukken van varkens uit Joegoslavië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1926
+docidentifier:
+- content: EU Regulation 1926/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1926
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1926/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-09-02'
+- type: implemented
+  at: '1971-09-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1515
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,100 @@
+---
+id: EUDecision1962430
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'EEC: Council Decision (amendment of the Rules governing the Monetary Committee)'
+  type: main
+- language: fr
+  script: Latn
+  content: 'CEE: Décision du Conseil (modification du statut du Comité monétaire)'
+  type: main
+- language: de
+  script: Latn
+  content: 'EWG: Beschluß des Rats (Änderung der Satzung des Währungsausschusses)'
+  type: main
+- language: da
+  script: Latn
+  content: 'EØF: Rådets afgørelse (ændring af Det monetære Udvalgs regler)'
+  type: main
+- language: el
+  script: Grek
+  content: 'ΕΟΚ: Απόφαση τού Συμβουλίου (τροποποίηση
+    τού καταστατικού τής Νομισματικής Επιτροπής)'
+  type: main
+- language: it
+  script: Latn
+  content: 'CEE: Decisione del Consiglio (modificazione dello Statuto del Comitato
+    monetario)'
+  type: main
+- language: nl
+  script: Latn
+  content: 'EEG: Besluit van de Raad (wijziging van het statuut van het Monetair Comité)'
+  type: main
+- language: pt
+  script: Latn
+  content: Decisão do Conselho
+  type: main
+- language: es
+  script: Latn
+  content: Decisión del Consejo
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962D0430(05)
+docidentifier:
+- content: EU Decision 1962/430
+  type: EU
+  primary: true
+- content: CELEX 31962D0430(05)
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1962/430/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-04-02'
+- type: implemented
+  at: '1962-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958Q1006
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

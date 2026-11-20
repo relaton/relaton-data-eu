@@ -1,0 +1,75 @@
+---
+id: EURegulation731962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 73 de la Commission portant fixation du montant des prélèvements
+    pour les oeufs dépourvus de leur coquille et les jaunes d'oeufs de volaille de
+    basse-cour, propres à des usages alimentaires, frais, conservés, séchés ou
+    sucrés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 73 der Kommission über die Festsetzung der Abschöpfungsbeträge
+    für Eier ohne Schale und Eigelb, von Hausgeflügel, genießbar, frisch, haltbar
+    gemacht, getrocknet oder gezuckert
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 73 della Commissione relativo alla fissazione dell'ammontare
+    del prelievo per le uova sgusciate e del giallo d'uova di volatili da cortile,
+    atti ad usi alimentari, freschi, conservati, essiccati o con aggiunta di zuccheri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 73 van de Commissie betreffende de vaststelling van het
+    bedrag der heffingen op eieren uit de schaal en eigeel, van pluimvee, geschikt
+    voor menselijke consumptie, vers, verduurzaamd, gedroogd of met toegevoegde suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0073
+docidentifier:
+- content: EU Regulation 73/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0073
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/73/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-23'
+- type: implemented
+  at: '1962-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

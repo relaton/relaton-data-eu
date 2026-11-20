@@ -1,0 +1,105 @@
+---
+id: EURegulation19101975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1910/75 of the Council of 22 July 1975 increasing the
+    Community tariff quota opened by Regulation (EEC) No 3110/74 for 1975 in respect
+    of certain handwoven fabrics of silk, and amending the list of textile products
+    entitled to be admitted under the quotas opened by this Regulation
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1910/75 du Conseil, du 22 juillet 1975, portant augmentation
+    du contingent tarifaire communautaire ouvert par le règlement (CEE) n° 3110/74
+    pour l'année 1975 en ce qui concerne certains tissus de soie tissés sur métiers
+    à main, et modifiant la liste des produits textiles admis à bénéficier des
+    contingents ouverts par ce règlement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1910/75 des Rates vom 22. Juli 1975 über die Erhöhung
+    des Gemeinschaftszollkontingents, das durch Verordnung (EWG) Nr. 3110/74 für
+    das Jahr 1975 für bestimmte Gewebe aus Seide, auf Handwebstühlen hergestellt,
+    eröffnet worden ist, sowie zur Änderung der Liste von Spinnstoffwaren, die zu
+    den durch diese Verordnung eröffneten Kontingenten zugelassen sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1910/75 af 22. juli 1975 om forhøjelse af
+    det fællesskabstoldkontingent, der ved forordning (EØF) nr. 3110/74 blev åbnet
+    for året 1975 for så vidt angår visse stoffer af silke fremstillet på håndvæv,
+    og om ændring af listen over tekstilvarer, der kan omfattes af de kontingenter,
+    der er åbnet ved nævnte forordning
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1910/75 del Consiglio, del 22 luglio 1975, che aumenta
+    il contingente tariffario comunitario aperto con regolamento (CEE) n. 3110/74
+    per l'anno 1975 per quanto riguarda taluni tessuti di seta lavorati su telai a
+    mano e che modifica l'elenco dei prodotti tessili ammessi al beneficio dei contingenti
+    aperti da detto regolamento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1910/75 van de Raad van 22 juli 1975 tot verhoging
+    van het communautaire tariefcontingent dat voor 1975 is geopend bij Verordening
+    (EEG) nr. 3110/74 voor bepaalde weefsels van zijde, vervaardigd op handweefgetouwen,
+    en tot wijziging van de lijst van textielprodukten die tot de bij die verordening
+    geopende contingenten zijn toegelaten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1910
+docidentifier:
+- content: EU Regulation 1910/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1910
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1910/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-22'
+- type: implemented
+  at: '1975-08-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3110
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,67 @@
+---
+id: EURegulation841964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 84/64/CEE de la Commission, du 7 juillet 1964, fixant les
+    montants forfaitaires pour le riz décortiqué et les brisures jusqu'au 31 août
+    1965
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 84/64/EWG der Kommission vom 7. Juli 1964 zur Festsetzung
+    der Pauschbeträge für Reis und Bruchreis bis zum 31. August 1965
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 84/64/CEE della Commissione, del 7 luglio 1964, che fissa
+    gli ammontari forfettari per il riso semigreggio e le rotture di riso fino al
+    31 agosto 1965
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 84/64/EEG van de Commissie van 7 juli 1964 houdende vaststelling
+    van de forfaitaire bedragen voor rijst en breukrijst tot en met 31 augustus 1965
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0084
+docidentifier:
+- content: EU Regulation 84/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0084
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/84/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

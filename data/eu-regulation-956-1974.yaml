@@ -1,0 +1,122 @@
+---
+id: EURegulation9561974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 956/74 of the Commission of 22 April 1974 amending
+    the Dutch versions of Regulations (EEC) Nos 1770/72 and 3282/73 relating to wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 956/74 de la Commission, du 22 avril 1974, modifiant
+    la version néerlandaise des règlements (CEE) n° 1770/72 et n° 3282/73 relatifs
+    au secteur du vin
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 956/74 der Kommission vom 22. April 1974 zur Änderung
+    der niederländischen Fassung der Verordnungen (EWG) Nrn. 1770/72 und 3282/73
+    betreffend Wein
+  type: main
+- language: da
+  script: Latn
+  content: Kommpssionens Forordning (EØF) nr. 956/74 af 22. april 1974 om ændring
+    af den nederlandske oversættelse af forordning (EØF) nr. 1770/72 og 3282/73
+    vedrørende vinsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 956/74 της Επιτροπής
+    της 22ας Απριλίου 1974 περί τροποποιήσεως της
+    ολλανδικής μεταφράσεως των κανονισμών (ΕΟΚ)
+    αριθ. 1770/72 και (ΕΟΚ) αριθ. 3282/73 σχετικών με τον
+    τομέα του οίνου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 956/74 della Commissione, del 22 aprile 1974, che
+    modifica la versione olandese dei regolamenti (CEE) n. 1770/72 e (CEE) n. 3282/73
+    relativi al settore del vino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 956/74 van de Commissie van 22 april 1974 tot wijziging
+    van de Nederlandse versie van de Verordeningen (EEG) nr. 1770/72 en nr. 3282/73
+    betreffende de wijnsector
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 956/74 da Comissão, de 22 de Abril de 1974, que
+    altera a versão neerlandesa dos Regulamentos (CEE) n.° 1770/72 e (CEE) n.°
+    3282/73 relativos ao sector do vinho
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 956/74 de la Comisión, de 22 de abril de 1974, por
+    el que se modifica la versión neerlandesa de los Reglamentos (CEE) n° 1770/72
+    y (CEE) n° 3282/73 relativos al sector del vino
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0956
+docidentifier:
+- content: EU Regulation 956/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0956
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/956/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-22'
+- type: implemented
+  at: '1973-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1770
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R3282
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

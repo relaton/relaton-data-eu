@@ -1,0 +1,102 @@
+---
+id: EURegulation31591973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3159/73 of the Council of 19 November 1973 amending
+    the Annexes to Regulation (EEC) Nos 2142/70 and 950/68 by reason in particular
+    of the alteration in the tariff classification of certain fisheries products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3159/73 du Conseil, du 19 novembre 1973, modifiant
+    les annexes des règlements (CEE) n°s 2142/70 et 950/68, notamment en raison
+    du changement de la classification tarifaire de certains produits relevant du
+    secteur de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3159/73 des Rates vom 19. November 1973 zur Änderung
+    der Anhänge der Verordnungen (EWG) Nr. 2142/70 und Nr. 950/68, insbesondere infolge
+    der Änderung der Tarifierung einiger Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3159/73 af 19. november 1973 om ændring
+    af bilagene til forordningerne (EØF) nr. 2142/70 og nr. 950/68, navnlig med hensyn
+    til ændringer i klassificiering i toldtariffen af visse fiskeriprodukter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3159/73 del Consiglio, del 19 novembre 1973, che modifica
+    gli allegati dei regolamenti (CEE) nn. 2142/70 e 950/68 in particolare a motivo
+    della modifica della classificazione doganale di taluni prodotti del settore della
+    pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3159/73 van de Raad van 19 november 1973 tot wijziging
+    van de bijlagen bij de Verordeningen (EEG) nr. 2142/70 en nr. 950/68, met name
+    ten gevolge van een wijziging in de tariefindeling van bepaalde produkten uit
+    de visserijsector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3159
+docidentifier:
+- content: EU Regulation 3159/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3159
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3159/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-11-19'
+- type: implemented
+  at: '1973-11-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2142
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0001
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

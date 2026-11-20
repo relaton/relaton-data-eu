@@ -1,0 +1,74 @@
+---
+id: EURegulation10691969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1069/69 du Conseil, du 10 juin 1969, fixant le prix
+    de base et le prix d'achat pour les citrons pour la période allant du 1er juin
+    1969 au 31 décembre 1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1069/69 des Rates vom 10. Juni 1969 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Zitronen für den Zeitraum vom 1.
+    Juni 1969 bis zum 31. Dezember 1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1069/69 del Consiglio, del 10 giugno 1969, che fissa
+    il prezzo di base e il prezzo d'acquisto per i limoni per il periodo dal 1 giugno
+    1969 al 31 dicembre 1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1069/69 van de Raad van 10 juni 1969 houdende vaststelling
+    van de basisprijs en de aankoopprijs voor citroenen voor het tijdvak van 1 juni
+    1969 tot en met 31 december 1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1069
+docidentifier:
+- content: EU Regulation 1069/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1069
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1069/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-10'
+- type: implemented
+  at: '1969-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

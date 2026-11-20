@@ -1,0 +1,93 @@
+---
+id: EURegulation3901976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 390/76 of 17 February 1976 amending Regulation
+    (EEC) No 464/75 establishing systems of premiums for producers of bovine animals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 390/76 du Conseil, du 17 février 1976, modifiant
+    le règlement (CEE) n° 464/75 instituant des régimes de primes en faveur des
+    producteurs de bovins
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 390/76 des Rates vom 17. Februar 1976 zur Änderung
+    der Verordnung (EWG) Nr. 464/75 zur Einführung von Prämienregelungen zugunsten
+    der Rindfleischerzeuger
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 390/76 af 17. februar 1976 om ændring af
+    forordning (EØF) nr. 464/75 om indførelse af præmieordninger til fordel for
+    oksekødproducenter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 390/76 del Consiglio, del 17 febbraio 1976, che modifica
+    il regolamento (CEE) n. 464/75 che istituisce dei regimi di premi a favore dei
+    produttori di bovini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 390/76 van de Raad van 17 februari 1976 houdende
+    wijziging van Verordening (EEG) nr. 464/75 tot instelling van premieregelingen
+    voor rundveehouders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0390
+docidentifier:
+- content: EU Regulation 390/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0390
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/390/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-17'
+- type: implemented
+  at: '1976-02-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0464
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

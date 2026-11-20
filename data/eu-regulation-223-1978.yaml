@@ -1,0 +1,107 @@
+---
+id: EURegulation2231978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 223/78 of 2 February 1978 amending Regulation
+    (EEC) No 1570/70 establishing a system of standard average values for citrus fruits
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 223/78 de la Commission, du 2 février 1978, modifiant
+    le règlement (CEE) n° 1570/70 portant établissement d' un système de valeurs
+    moyennes forfaitaires pour les agrumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 223/78 der Kommission vom 2. Februar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1570/70 über die Einrichtung eines Systems von Mittelwerten
+    für Zitrusfrüchte
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 223/78 af 2. februar 1978 om ændring
+    af Kommissionens forordning (EØF) nr. 1570/70 om oprettelse af et system af middelværdier
+    for citrusfrugter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 223/78 τής Επιτροπής
+    τής 2ας Φεβρουαρίου 1978 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 1570/70 περί καθορισμού
+    συστήματος μέσων κατ αποκοπή τιμών γιά τά εσπεριδοειδή
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 223/78 della Commissione, del 2 febbraio 1978, che
+    modifica il regolamento (CEE) n. 1570/70, che istituisce un sistema di valori
+    medi forfettari per gli agrumi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 223/78 van de Commissie van 2 februari 1978 tot wijziging
+    van Verordening (EEG) nr. 1570/70 houdende invoering van een stelsel inzake forfaitaire
+    waarden voor citrusvruchten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0223
+docidentifier:
+- content: EU Regulation 223/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0223
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/223/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-02-02'
+- type: implemented
+  at: '1978-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2313
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1570
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

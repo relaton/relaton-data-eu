@@ -1,0 +1,74 @@
+---
+id: EURegulation1121966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 112/66/CEE du Conseil, du 28 juillet 1966, autorisant la
+    République fédérale d'Allemagne à prendre pendant l'année 1966 des mesures
+    d'intervention en vue de permettre l'importation de bovins en provenance du Danemark
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 112/66/EWG des Rates vom 28. Juli 1966, durch die die Bundesrepublik
+    Deutschland ermächtigt wird, im Jahre 1966 Interventionsmaßnahmen zu ergreifen,
+    um die Einfuhr von Rindern aus Dänemark zu ermöglichen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 112/66/CEE del Consiglio, del 28 luglio 1966, che autorizza
+    la Repubblica federale di Germania ad adottare per il 1966 talune misure d'intervento
+    per consentire l'importazione di bovini in provenienza dalla Danimarca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 112/66/EEG van de Raad van 28 juli 1966 waarbij de Bondsrepubliek
+    Duitsland wordt gemachtigd in 1966 interventiemaatregelen te nemen ten einde de
+    invoer van runderen uit Denemarken mogelijk te maken
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0112
+docidentifier:
+- content: EU Regulation 112/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0112
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/112/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-28'
+- type: implemented
+  at: '1966-08-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

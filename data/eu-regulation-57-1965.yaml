@@ -1,0 +1,66 @@
+---
+id: EURegulation571965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 57/65/CEE de la Commission, du 28 avril 1965, fixant un montant
+    supplémentaire pour les moitiés ou quarts de poulets et poules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 57/65/EWG der Kommission vom 28. April 1965 über die Festsetzung
+    eines Zusatzbetrags für Hälften oder Viertel von Hühnern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 57/65/CEE della Commissione, del 28 aprile 1965, relativo
+    alla determinazione di un importo supplementare per le metà o quarti di polli
+    e galline
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 57/65/EEG van de Commissie van 28 april 1965 houdende vaststelling
+    van een extra-bedrag voor helften en vierendelen van kuikens en kippen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0057
+docidentifier:
+- content: EU Regulation 57/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0057
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/57/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

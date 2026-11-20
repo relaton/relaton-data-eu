@@ -1,0 +1,67 @@
+---
+id: EURegulation1471965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 147/65/CEE de la Commission, du 26 octobre 1965, portant modification
+    du règlement n 161/64/CEE relatif au prix du marché mondial de la viande congelée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 147/65/EWG der Kommission vom 26. Oktober 1965 zur Abänderung
+    der Verordnung Nr. 161/64/EWG über den Weltmarktpreis für Gefrierfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 147/65/CEE della Commissione, del 26 ottobre 1965, che modifica
+    il regolamento n. 161/64/CEE relativo al prezzo del mercato mondiale della carne
+    congelata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 147/65/EEG van de Commissie van 26 oktober 1965 houdende
+    wijziging van Verordening no. 161/64/EEG met betrekking tot de wereldmarktprijs
+    voor bevroren vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0147
+docidentifier:
+- content: EU Regulation 147/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0147
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/147/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

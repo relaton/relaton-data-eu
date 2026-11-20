@@ -1,0 +1,111 @@
+---
+id: EURegulation24701982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2470/82 of 10 September 1982 correcting
+    the French and Danish versions of Regulation (EEC) No 1912/82 as regards the conditions
+    for the taking over of cereals by intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2470/82 de la Commission, du 10 septembre 1982, rectifiant
+    les versions danoise et française du règlement (CEE) n° 1912/82 en ce qui concerne
+    les conditions de prise en charge des céréales par les organismes d' interventions
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2470/82 der Kommission vom 10. September 1982 zur
+    Berichtigung der dänischen und französischen Fassung der Verordnung (EWG) Nr.
+    1912/82 hinsichtlich der Bedingungen für die Übernahme von Getreide durch die
+    Interventionsstellenb
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2470/82 af 10. september 1982 om berigtigelse
+    af den danske og franske udgave af forordning (EØF) nr. 1912/82 for så vidt
+    angår betingelserne for interventionsorganernes overtagelse af korn
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 2470/82 τής Επιτροπής
+    τής 10ης Σεπτεμβρίου 1982 περί διορθώσεως τής
+    γαλλικής καί δανικής αποδόσεως τού κονονισμού
+    (EOK) αριθ. 1912/82 περί τών όρων αναλήψεως τών σιτηρών
+    από τούς οργανισμούς παρεμβάσεως
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2470/82 della Commissione, del 10 settembre 1982,
+    che rettifica le versioni danese e francese del regolamento (CEE) n. 1912/82 per
+    quanto concerne le condizioni di presa in consegna dei cereali da parte degli
+    organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2470/82 van de Commissie van 10 september 1982 houdende
+    rectificatie van de Deense en de Franse versie van Verordening (EEG) nr. 1912/82
+    met betrekking tot de voorwaarden voor de overneming van granen door de interventiebureaus
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R2470
+docidentifier:
+- content: EU Regulation 2470/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R2470
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/2470/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-09-10'
+- type: implemented
+  at: '1982-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1569
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R1912
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

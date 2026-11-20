@@ -1,0 +1,77 @@
+---
+id: EURegulation28571972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2857/72 du Conseil, du 28 décembre 1972, portant
+    ouverture, répartition et mode de gestion du contingent tarifaire communautaire
+    de certains produits pétroliers, du chapitre 27 du tarif douanier commun, raffinés
+    en Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2857/72 des Rates vom 28. Dezember 1972 über die
+    Eröffnung, Aufteilung und Verwaltung des Gemeinschaftszollkontingents für bestimmte
+    in Spanien raffinierte Erdölerzeugnisse des Kapitels 27 des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2857/72 del Consiglio, del 28 dicembre 1972, relativo
+    all'apertura, alla suddivisione e alle modalità di gestione del contingente tariffario
+    comunitario di taluni prodotti petroliferi, del capitolo 27 della tariffa doganale
+    comune, raffinati in Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2857/72 van de Raad van 28 december 1972 betreffende
+    de opening, de verdeling en de wijze van beheer van het communautaire tariefcontingent
+    voor bepaalde aardolieprodukten, van hoofdstuk 27 van het gemeenschappelijk douanetarief,
+    die in Spanje zijn geraffineerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2857
+docidentifier:
+- content: EU Regulation 2857/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2857
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2857/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-28'
+- type: implemented
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

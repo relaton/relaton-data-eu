@@ -1,0 +1,99 @@
+---
+id: EURegulation26001974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2600/74 of the Commission of 11 October 1974 amending
+    Regulation (EEC) No 289/71 as regards detailed rules for granting private storage
+    aid for certain dried or dried and smoked pigmeat products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2600/74 de la Commission, du 11 octobre 1974, modifiant
+    le règlement (CEE) n° 289/71 en ce qui concerne les modalités d'application
+    de l'octroi d'aides au stockage privé pour certains produits séchés ou séchés
+    et fumés du secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2600/74 der Kommission vom 11. Oktober 1974 zur Änderung
+    der Verordnung (EWG) Nr. 289/71 hinsichtlich der Durchführungsbestimmungen für
+    die Gewährung von Beihilfen für die private Lagerhaltung von bestimmten getrockneten
+    oder getrockneten und geräucherten Erzeugnissen des Sektors Schweinefleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2600/74 af 11. oktober 1974 om ændring
+    af forordning (EØF) nr. 289/71 for så vidt angår de nærmere regler for ydelse
+    af støtte til privat oplagring af visse tørrede eller tørrede og røgede produkter
+    inden for svinekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2600/74 della Commissione, dell'11 ottobre 1974, che
+    modifica il regolamento (CEE) n. 289/71 per quanto riguarda le modalità di applicazione
+    della concessione di aiuti all'ammasso privato per alcuni prodotti stagionati
+    o stagionati e affumicati del settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2600/74 van de Commissie van 11 oktober 1974 houdende
+    wijziging van Verordening (EEG) nr. 289/71 ten aanzien van de uitvoeringsbepalingen
+    betreffende de toekenning van steun aan de particuliere opslag voor bepaalde gedroogde
+    of gedroogde en gerookte produkten uit de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2600
+docidentifier:
+- content: EU Regulation 2600/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2600
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2600/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-11'
+- type: implemented
+  at: '1974-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0289
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

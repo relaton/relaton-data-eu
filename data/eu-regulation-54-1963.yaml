@@ -1,0 +1,79 @@
+---
+id: EURegulation541963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 54/63/CEE du Conseil du 21 juin 1963 reportant la date de
+    mise en application du régime des prélèvements pour certains produits du secteur
+    de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 54/63/EWG des Rats vom 21. Juni 1963 zur Verlegung des Zeitpunkts
+    für den Beginn der Anwendung der Abschöpfungsregelung für einige Schweinefleischerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 54/63/CEE del Consiglio del 21 giugno 1963 che rinvia la
+    data dell'applicazione del regime dei prelievi per taluni prodotti' del settore
+    delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 54/63/EEG van de Raad van 21 juni 1963 houdende verschuiving
+    van de datum waarop het stelsel van heffingen voor bepaalde produkten van de sector
+    varkensvlees van toepassing wordt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0054
+docidentifier:
+- content: EU Regulation 54/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0054
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/54/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-06-21'
+- type: implemented
+  at: '1963-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0057
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

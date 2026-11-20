@@ -1,0 +1,91 @@
+---
+id: EURegulation19801974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1980/74 of the Commission of 25 July 1974 determining
+    the quantity of potatoes required for the manufacture of 100 kilogrammes of starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1980/74 de la Commission, du 25 juillet 1974, déterminant
+    la quantité de pommes de terre nécessaire à la fabrication de 100 kilogrammes
+    de fécule
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1980/74 der Kommission vom 25. Juli 1974 zur Feststellung
+    der zur Herstellung von 100 kg Kartoffelstärke nötigen Menge Kartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1980/74 af 25. juli 1974 om fastsættelse
+    af den mængde kartofler, der er nødvendig til fremstilling af 100 kg kartoffelstivelse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1980/74 della Commissione, del 25 luglio 1974, che
+    determina la quantità di patate necessaria per la fabbricazione di 100 kg di
+    fecola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1980/74 van de Commissie van 25 juli 1974 houdende
+    bepaling van de hoeveelheid aardappelen die nodig is voor de vervaardiging van
+    100 kg zetmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1980
+docidentifier:
+- content: EU Regulation 1980/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1980
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1980/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-25'
+- type: implemented
+  at: '1974-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0451
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

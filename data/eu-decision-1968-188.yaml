@@ -1,0 +1,91 @@
+---
+id: EUDecision1968188
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '68/188/EEC: Council Decision of 9 April 1968 amending the Rules of the
+    Committee of the European Social Fund'
+  type: main
+- language: fr
+  script: Latn
+  content: '68/188/CEE: Décision du Conseil, du 9 avril 1968, portant modification
+    du statut du Comité du Fonds social européen'
+  type: main
+- language: de
+  script: Latn
+  content: '68/188/EWG: Beschluß des Rates vom 9. April 1968 zur Änderung der Satzung
+    des Ausschusses des Europäischen Sozialfonds'
+  type: main
+- language: da
+  script: Latn
+  content: '68/188/EØF: Rådets afgørelse af 9. april 1968 om ændring af Vedtægten
+    for Udvalget for Den europæiske Socialfond'
+  type: main
+- language: el
+  script: Grek
+  content: '68/188/ΕΟΚ: Απόφαση τού Συμβουλίου τής 9ης
+    Απριλίου 1968 περί τροποποιήσεως τού καταστατικού
+    τής Επιτροπής τού Ευρωπαϊκού Κοινωνικού Ταμείου'
+  type: main
+- language: it
+  script: Latn
+  content: '68/188/CEE: Decisione del Consiglio, del 9 aprile 1968, recante modifica
+    dello statuto del Comitato del Fondo sociale europeo'
+  type: main
+- language: nl
+  script: Latn
+  content: '68/188/EEG: Besluit van de Raad van 9 april 1968 houdende wijziging van
+    het statuut van het Comité van het Europees Sociaal Fonds'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968D0188
+docidentifier:
+- content: EU Decision 1968/188
+  type: EU
+  primary: true
+- content: CELEX 31968D0188
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1968/188/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31960Q0802
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation9201975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 920/75 of the Commission of 9 April 1975 repealing
+    Commission Regulation (EEC) No 2790/73 on the prohibition of the export to third
+    countries of certain goods of Italian origin falling within Regulation (EEC) No
+    1059/69
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 920/75 de la Commission, du 9 avril 1975, abrogeant
+    le règlement (CEE) n° 2790/73 portant interdiction d'exportation de certaines
+    marchandises d'origine italienne relevant du règlement (CEE) n° 1059/69 à destination
+    des pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 920/75 der Kommission vom 9. April 1975 zur Aufhebung
+    der Verordnung (EWG) Nr. 2790/73 über ein Ausfuhrverbot gewisser Waren italienischer
+    Herkunft nach dritten Ländern, die unter die Verordnung (EWG) Nr. 1059/69 fallen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 920/75 af 9. april 1975 der ophæver
+    Kommissionens forordning (EØF) nr. 2790/73 forbydende udførsel af visse varer
+    med italiensk oprindelse med destination i tredjelande ifølge forordning (EØF)
+    nr. 1059/69
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 920/75 della Commissione, del 9 aprile 1975, che abroga
+    il regolamento (CEE) n. 2790/73 relativo al divieto di esportazione verso paesi
+    terzi di talune merci d'origine italiana cui si applica il regolamento (CEE) n.
+    1059/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 920/75 van de Commissie van 9 april 1975 houdende
+    intrekking van Verordening (EEG) nr. 2790/73 houdende verbod van uitvoer van bepaalde
+    goederen van oorsprong uit Italië, vallend onder Verordening (EEG) nr. 1059/69,
+    naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0920
+docidentifier:
+- content: EU Regulation 920/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0920
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/920/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-09'
+- type: implemented
+  at: '1975-04-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2790
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

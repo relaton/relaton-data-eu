@@ -1,0 +1,99 @@
+---
+id: EURegulation591978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 59/78 of 12 January 1978 amending Regulation
+    (EEC) No 1613/71 laying down detailed rules for fixing cif prices and levies on
+    rice and broken rice and the corrective amounts relating thereto
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 59/78 de la Commission, du 12 janvier 1978, modifiant
+    le règlement (CEE) n° 1613/71 arrêtant les modalités de détermination des
+    prix caf et des prélèvements du riz et des brisures ainsi que les montants correcteurs
+    y afférents
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 59/78 der Kommission vom 12. Januar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 1613/71 über die Festsetzung der Einzelheiten für die
+    Bestimmung der cif-Preise und der Abschöpfungen für Reis und Bruchreis sowie
+    der diesbezüglichen Berichtigungsbeträge
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 59/78 af 12. januar 1978 om ændring
+    af forordning (EØF) nr. 1613/71 om fastsættelse af de nærmere bestemmelser
+    for fastsættelse af cif-priser og afgifter for ris og brudris samt for fastsættelse
+    af de korrektionsbeløb, som anvendes hertil
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 59/78 della Commissione, del 12 gennaio 1978, che
+    modifica il regolamento (CEE) n. 1613/71 che stabilisce le modalità per la determinazione
+    dei prezzi cif e dei prelievi del riso e delle rotture di riso nonché i relativi
+    importi correttori
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 59/78 van de Commissie van 12 januari 1978 houdende
+    wijziging van Verordening (EEG) nr. 1613/71 tot vaststelling van de wijze waarop
+    de cif-prijzen en de heffingen voor rijst en breukrijst worden bepaald, evenals
+    van de correctiebedragen die hierop betrekking hebben
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0059
+docidentifier:
+- content: EU Regulation 59/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0059
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/59/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-01-12'
+- type: implemented
+  at: '1978-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1613
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

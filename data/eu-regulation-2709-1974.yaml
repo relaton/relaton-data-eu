@@ -1,0 +1,110 @@
+---
+id: EURegulation27091974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2709/74 of the Commission of 25 October 1974 amending
+    for the third time Regulation (EEC) No 722/74 authorizing the United Kingdom to
+    grant a decreasing national subsidy to pig producers and derogating from the provisions
+    of Regulation (EEC) No 723/74 concerning aid to Irish pig producers
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2709/74 de la Commission, du 25 octobre 1974, portant
+    troisième modification du règlement (CEE) n° 722/74 autorisant le Royaume-Uni
+    à octroyer une aide nationale dégressive aux producteurs de porcs et dérogeant
+    aux dispositions du règlement (CEE) n° 723/74 concernant l'aide à octroyer
+    aux producteurs de porcs irlandais
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2709/74 der Kommission vom 25. Oktober 1974 zur dritten
+    Änderung der Verordnung (EWG) Nr. 722/74 zur Ermächtigung des Vereinigten Königreichs
+    zur Gewährung einer degressiven einzelstaatlichen Beihilfe für Schweineerzeuger
+    und zur Abweichung von der Verordnung (EWG) Nr. 723/74 über Beihilfen an die
+    irischen Erzeuger von Schweinefleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2709/74 af 25. oktober 1974 til den
+    tredje ændring af forordning (EØF) nr. 722/74 om bemyndigelse til at der til
+    svineproducenterne i Det forenede Kongerige ydes en national, faldende støtte
+    og til ændring af bestemmelserne i forordning (EØF) nr. 723/74 om den støtte,
+    der skal ydes til irske svineproducenter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2709/74 della Commissione, del 25 ottobre 1974, relativo
+    alla terza modifica del regolamento (CEE) n. 722/74 che autorizza il Regno Unito
+    a concedere un aiuto nazionale degressivo ai produttori di suini e che deroga
+    alle disposizioni del regolamento (CEE) n. 723/74 relativo all'aiuto da concedere
+    ai produttori di suini irlandesi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2709/74 van de Commissie van 25 oktober 1974 houdende
+    een derde wijziging van Verordening (EEG) nr. 722/74 waarbij het Verenigd Koninkrijk
+    wordt gemachtigd een aflopende nationale steun te verlenen aan producenten van
+    varkens in afwijking van het bepaalde in Verordening (EEG) nr. 723/74 inzake de
+    aan de Ierse varkenshouders toe te kennen steun
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2709
+docidentifier:
+- content: EU Regulation 2709/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2709
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2709/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-10-25'
+- type: implemented
+  at: '1974-09-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0722
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0723
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

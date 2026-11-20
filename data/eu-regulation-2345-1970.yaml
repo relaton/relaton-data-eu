@@ -1,0 +1,70 @@
+---
+id: EURegulation23451970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2345/70 de la Commission, du 20 novembre 1970, fixant
+    les prix de référence pour les oranges douces
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2345/70 der Kommission vom 20. November 1970 zur Festsetzung
+    der Referenzpreise für Apfelsinen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2345/70 della Commissione, del 20 novembre 1970, che
+    fissa i prezzi di riferimento per le arance dolci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2345/70 van de Commissie van 20 november 1970 houdende
+    vaststelling van de referentieprijzen voor zoete sinaasappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2345
+docidentifier:
+- content: EU Regulation 2345/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2345
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2345/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-20'
+- type: implemented
+  at: '1970-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,109 @@
+---
+id: EURegulation27601975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2760/75 of the Council of 29 October 1975 determining
+    the Community scale for grading pig carcases
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2760/75 du Conseil, du 29 octobre 1975, portant détermination
+    de la grille communautaire de classement des carcasses de porcs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2760/75 des Rates vom 29. Oktober 1975 zur Bestimmung
+    des gemeinschaftlichen Handelsklassenschemas für Schweinehälften
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2760/75 af 29. oktober 1975 om fastsættelse
+    af Fællesskabets handelsklasseskema for svinekroppe
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2760/75 τού Συμβουλίου
+    τής 29ης Οκτωβρίου 1975 περί καθορισμού τής κοινοτικής
+    κλίμακας ταξινομήσεως τών σφαγίων τών χοίρων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2760/75 del Consiglio, del 29 ottobre 1975, che determina
+    la tabella comunitaria di classificazione delle carcasse di suino
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2760/75 van de Raad van 29 oktober 1975 tot vaststelling
+    van het communautaire indelingsschema voor geslachte varkens
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2760/75 do Conselho, del 29 de Outubro de 1975,
+    que estabelece a tabela comunitária de classificação das carcaças des suíno
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2760/75 del Consejo, del 29 de octubre de 1975, por
+    el que se determina el modelo comunitario de clasificación de las canales de
+    porcino
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2760
+docidentifier:
+- content: EU Regulation 2760/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2760
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2760/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2108
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,75 @@
+---
+id: EURegulation1131963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 113/63/CEE de la Commission, du 14 octobre 1963, concernant
+    les modalités d'examen et de vérification des demandes de concours présentées
+    au Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 113/63/EWG der Kommission vom 14. Oktober 1963 über das
+    Verfahren bei der Prüfung und Nachprüfung der Anträge auf Gewährung von Zuschüssen
+    aus dem Europäischen Sozialfonds
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 113/63/CEE della Commissione del 14 ottobre 1963 concernente
+    le modalità di esame e di verifica delle richieste di contributo presentate al
+    Fondo sociale europeo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 113/63/EEG van de Commissie van 14 oktober 1963 houdende
+    vaststelling van de procedure welke bij het onderzoek en de verificatie van de
+    bij het Europees Sociaal Fonds ingediende aanvragen om een bijdrage dient te worden
+    gevolgd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0113
+docidentifier:
+- content: EU Regulation 113/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0113
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-10-14'
+- type: implemented
+  at: '1963-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

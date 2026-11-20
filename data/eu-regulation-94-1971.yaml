@@ -1,0 +1,71 @@
+---
+id: EURegulation941971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 94/71 de la Commission, du 18 janvier 1971, relatif
+    au régime spécial à appliquer à l'importation de certaines viandes bovines
+    congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 94/71 der Kommission vom 18. Januar 1971 über die
+    Sonderregelung bei der Einfuhr bestimmter Sorten von gefrorenem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 94/71 della Commissione, del 18 gennaio 1971, relativo
+    al regime speciale applicabile all'importazione di alcune carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 94/71 van de Commissie van 18 januari 1971 betreffende
+    de bijzondere regeling voor de invoer van bepaalde soorten bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0094
+docidentifier:
+- content: EU Regulation 94/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0094
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/94/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-18'
+- type: implemented
+  at: '1971-01-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation1001967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 100/67/CEE du Conseil, du 22 mai 1967, portant suspension
+    de l'application de l'article 14 du règlement n° 160/66/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 100/67/EWG des Rates vom 22. Mai 1967 über die Aussetzung
+    der Anwendung des Artikels 14 der Verordnung Nr. 160/66/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 100/67/CEE del Consiglio, del 22 maggio 1967, relativo alla
+    sospensione dell'applicazione dell'articolo 14 del regolamento n. 160/ 66/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 100/67/EEG van de Raad van 22 mei 1967 houdende schorsing
+    van artikel 14 van Verordening Nr. 160/66/EEG.
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0100
+docidentifier:
+- content: EU Regulation 100/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0100
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/100/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-22'
+- type: implemented
+  at: '1967-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

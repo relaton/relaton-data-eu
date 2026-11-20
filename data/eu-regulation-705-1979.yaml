@@ -1,0 +1,104 @@
+---
+id: EURegulation7051979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 705/79 of 9 April 1979 amending, with respect
+    to the Italian lira, Regulation (EEC) No 878/77 on the exchange rates to be applied
+    in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 705/79 du Conseil, du 9 avril 1979, modifiant, en
+    ce qui concerne la lire italienne, le règlement (CEE) n° 878/77 relatif aux
+    taux de change à appliquer dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 705/79 des Rates vom 9. April 1979 zur Änderung der
+    Verordnung (EWG) Nr. 878/77 über die in der Landwirtschaft anzuwendenden Umrechnungskurse
+    hinsichtlich der italienischen Lira
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 705/79 af 9. april 1979 om ændring af forordning
+    (EØF) nr. 878/77 om de vekselkurser, der skal anvendes inden for landbrugssektoren,
+    for så vidt angår den italienske lire
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 705/79 του Συμβουλίου,
+    της 9ης Απριλίου 1979, με τον οποίο τροποποιείται
+    όσον αφορά την Ιταλική λιρέττα, ο Κανονισμός
+    ( ΕΟΚ ) αριθ. 878/77 σχετικά με τις ισοτιμίες που
+    ισχύουν για τον γεωργικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 705/79 del Consiglio, del 9 aprile 1979, che modifica,
+    per quanto concerne la lira italiana, il regolamento (CEE) n. 878/77 relativo
+    ai tassi di cambio da applicare nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 705/79 van de Raad van 9 april 1979 tot wijziging,
+    ten aanzien van de Italiaanse lire, van Verordening (EEG) nr. 878/77 inzake de
+    in de landbouwsector toe te passen wisselkoersen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0705
+docidentifier:
+- content: EU Regulation 705/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0705
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/705/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-04-09'
+- type: implemented
+  at: '1979-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

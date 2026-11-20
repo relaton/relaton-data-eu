@@ -1,0 +1,96 @@
+---
+id: EURegulation5271974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 527/74 of the Commission of 5 March 1974 amending the
+    Annex to Regulation (EEC) No 389/74, laying down detailed rules for applying the
+    special export levy on syrups and other sugars
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 527/74 de la Commission, du 5 mars 1974, modifiant
+    l'annexe du règlement (CEE) n° 389/74, établissant les modalités d'application
+    concernant le prélèvement spécial à l'exportation pour les sirops et les autres
+    sucres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 527/74 der Kommission vom 5. März 1974 zur Änderung
+    des Anhangs der Verordnung (EWG) Nr. 389/74 über Durchführungsvorschriften betreffend
+    die besondere Abschöpfung bei der Ausfuhr von Sirupen und anderen Zuckern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 527/74 af 5. marts 1974 om ændring
+    af bilaget til forordning (EØF) nr. 389/74 om gennemførelsesbestemmelserne for
+    den særlige eksportafgift for sirup og andre sukkeropløsninger og for andet
+    sukker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 527/74 della Commissione, del 5 marzo 1974, che modifica
+    l'allegato del regolamento (CEE) n. 389/74, che stabilisce le modalità di applicazione
+    relative al prelievo speciale all'esportazione per gli sciroppi e gli altri zuccheri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 527/74 van de Commissie van 5 maart 1974 tot wijziging
+    van de bijlage bij Verordening (EEG) nr. 389/74 houdende vaststelling van de uitvoeringsbepalingen
+    voor de speciale uitvoerheffing voor andere suikers en stroop
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0527
+docidentifier:
+- content: EU Regulation 527/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0527
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/527/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-05'
+- type: implemented
+  at: '1974-03-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0389
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

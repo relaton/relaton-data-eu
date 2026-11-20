@@ -1,0 +1,140 @@
+---
+id: EURegulation38081981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3808/81 of 21 December 1981 amending Regulations
+    (EEC) No 2358/71 on the common organization of the market in seeds, (EEC) No 2727/75
+    on the common organization of the market in cereals and (EEC) No 950/68 on the
+    Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3808/81 du Conseil, du 21 décembre 1981, modifiant
+    les règlements (CEE) n° 2358/71 portant organisation commune des marchés dans
+    le secteur des semences, (CEE) n° 2727/75 dans le secteur des céréales et (CEE)
+    n° 950/68 relatif au tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3808/81 des Rates vom 21. Dezember 1981 zur Änderung
+    der Verordnungen (EWG) Nr. 2358/71 zur Errichtung einer gemeinsamen Marktorganisation
+    für Saatgut, (EWG) Nr. 2727/75 über die gemeinsame Marktorganisation für Getreide
+    und (EWG) Nr. 950/68 über den Gemeinsamen Zolltariff
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3808/81 af 21. december 1981 om ændring
+    af forordning (EØF) nr. 2358/71 om den fælles markedsordning for frø, (EØF)
+    nr. 2727/75 om den fælles markedsordning for korn og (EØF) nr. 950/68 om den
+    fælles toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3808/81 τού Συμβουλίου
+    τής 21ης Δεκεμβρίου 1981 περί τροποποιήσεως τών
+    κανονισμών (EOK) αριθ. 2358/71 περί κοινής οργανώσεως
+    αγοράς στόν τομέα τών σπόρων πρός σπορά, (EOK)
+    αριθ. 2727/75 περί κοινής οργανώσεως αγοράς στόν
+    τομέα τών σιτηρών καί (EOK) αριθ. 950/68 περί Κοινού
+    Δασμολογίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3808/81 del Consiglio, del 21 dicembre 1981, che modifica
+    i regolamenti (CEE) n. 2358/71, relativo all' organizzazione comune dei mercati
+    nel settore delle sementi, (CEE) n. 2727/75, relativo all' organizzazione comune
+    dei mercati nel settore dei cereali, e (CEE) n. 950/68, relativo alla tariffa
+    doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3808/81 van de Raad van 21 december 1981 tot wijziging
+    van de Verordeningen (EEG) nr. 2358/71 houdende een gemeenschappelijke ordening
+    der markten in de sector zaaizaad, (EEG) nr. 2727/75 houdende een gemeenschappelijke
+    ordening der markten in de sector granen en (EEG) nr. 950/68 betreffende het gemeenschappelijk
+    douanetarief
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 3808/81 do Conselho, de 21 de Dezembro de 1981,
+    que altera os Regulamentos (CEE) n.° 2358/71 que estabelece a organização comum
+    de mercado no sector das sementes, (CEE) n.° 2727/75 no sector dos cereais e
+    (CEE) n.° 950/68 relativo à pauta aduaneira comum
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 3808/81 del Consejo, de 21 de diciembre de 1981, por
+    el que se modifican los Reglamentos (CEE) n° 2358/71 por el que se establece
+    la organización común de mercados en el sector de las semillas, (CEE) n° 2727/75
+    en el sector de los cereales y (CEE) n° 950/68 relativo al arancel aduanero común
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R3808
+docidentifier:
+- content: EU Regulation 3808/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R3808
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/3808/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-12-21'
+- type: implemented
+  at: '1982-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2358
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2727
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R3300
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

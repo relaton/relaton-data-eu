@@ -1,0 +1,94 @@
+---
+id: EURegulation14381971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1438/71 of the Commission of 6 July 1971 further amending
+    the Annex to Regulation No 451/67/EEC determining the quantity of potatoes required
+    for the manufacture of 100 kg of starch
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1438/71 de la Commission, du 6 juillet 1971, portant
+    nouvelle modification de l' annexe du règlement" n° 451/67/CEE déterminant
+    la quantité de pommes de terre nécessaire à la fabrication de 100 kg de fécule
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1438/71 der Kommission vom 6. Juli 1971 zur neuerlichen
+    Änderung der Anlage der Verordnung Nr. 451/67/EWG zur Feststellung der zur Herstellung
+    von 100 kg Kartoffelstärke nötigen Menge Kartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1438/71 af 6. juli 1971 om fornyet
+    ændring af bilaget til forordning nr. 451/67/EØF om konstatering af den til
+    fremstilling af 100 kg kartoffelstivelse nødvendige mængde kartofler
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1438/71 della Commissione del 6 luglio 1971, recante
+    nuova modifica dell' allegato del regolamento n. 451/67/CEE che determina la quantità
+    di patate necessaria per la fabbricazione di 100 kg di fecola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1438/71 van de Commissie van 6 juli 1971 houdende
+    nieuwe wijziging van de bijlage van Verordening nr. 451/67/EEG waarbij de hoeveelheid
+    aardappelen, die benodigd is voor de vervaardiging van 100 kg zetmeel, wordt bepaald
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1438
+docidentifier:
+- content: EU Regulation 1438/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1438
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1438/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-06'
+- type: implemented
+  at: '1971-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0451
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

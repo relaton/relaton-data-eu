@@ -1,0 +1,141 @@
+---
+id: EURegulation39451987
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3945/87 of 21 December 1987 amending Regulations
+    (EEC) No 171/78, (EEC) No 232/83 and (EEC) No 1700/84 on export refunds for pigmeat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3945/87 de la Commission du 21 décembre 1987 modifiant
+    les règlements (CEE) n° 171/78, (CEE) n° 232/83 et (CEE) n 1700/84 en matière
+    de restitutions à l'exportation dans le secteur de la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3945/87 der Kommission vom 21. Dezember 1987 zur Änderung
+    der Verordnungen (EWG) Nr. 171/78, (EWG) Nr. 232/83 und (EWG) Nr. 1700/84 über
+    die Ausfuhrerstattungen im Sektor Schweinefleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3945/87 af 21. december 1987 om ændring
+    af forordning (EØF) nr. 171/78, (EØF) nr. 232/83 og (EØF) nr. 1700/84 om eksportrestitutioner
+    for svinekød
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 3945/87 της Επιτροπής
+    της 21ης Δεκεμβρίου 1987 για την τροποποίηση των
+    κανονισμών (ΕΟΚ) αριθ. 171/78, (ΕΟΚ) αριθ. 232/83 και
+    (ΕΟΚ) αριθ. 1700/84 του τομέα του χοιρείου κρέατος
+    σχετικών με την επιστροφή κατά την εξαγωγή
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (ETY) N:o 3945/87, annettu 21 päivänä joulukuuta 1987,
+    asetusten (ETY) N:o 171/78, (ETY) N:o 232/83 ja (ETY) N:o 1700/84 muuttamisesta
+    sianliha-alan vientitukien osalta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3945/87 della Commissione del 21 dicembre 1987 che
+    modifica i regolamenti (CEE) n. 171/78, (CEE) n. 232/83 e (CEE) n. 1700/84 relativi
+    alle restituzioni all'esportazione nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3945/87 van de Commissie van 21 december 1987 tot
+    wijziging van de Verordeningen (EEG) nr. 171/78, (EEG) nr. 232/83 en (EEG) nr.
+    1700/84 met betrekking tot de uitvoerrestitutie in de varkensvleessector
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 3945/87 da Comissão de 21 de Dezembro de 1987 que
+    altera os Regulamentos (CEE) nº 171/78, (CEE) nº 232/83 e (CEE) nº 1700/84
+    do sector da carne de suíno em matéria de restituições à exportação
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 3945/87 de la Comisión de 21 de diciembre de 1987
+    por el que se modifican los Reglamentos (CEE) n°s 171/78, 232/83 y 1700/84 en
+    materia de restituciones a la exportación en el sector de la carne de porcino
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EEG) nr 3945/87 av den 21 december 1987 om ändring
+    av förordning (EEG) nr 171/78, förordning (EEG) 232/83 och förordning (EEG)
+    nr 1700/84 om exportbidrag för griskött
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31987R3945
+docidentifier:
+- content: EU Regulation 3945/1987
+  type: EU
+  primary: true
+- content: CELEX 31987R3945
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1987/3945/oj
+  type: ELI
+date:
+- type: issued
+  at: '1987-12-21'
+- type: implemented
+  at: '1988-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R0171
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R0232
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31984R1700
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

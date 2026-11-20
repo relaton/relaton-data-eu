@@ -1,0 +1,69 @@
+---
+id: EURegulation1981967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 198/67/CEE de la Commission, du 28 juin 1967, fixant les prélèvements
+    et les prix d'écluse dans le secteur des oeufs pour la période allant du 1er
+    juillet au 31 octobre 1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 198/67/EWG der Kommission vom 28. Juni 1967 zur Festsetzung
+    der Abschöpfungen und Einschleusungspreise für Eier für den Zeitraum vom 1.
+    Juli bis 31. Oktober 1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 198/67/CEE della Commissione, del 28 giugno 1967, che fissa
+    i prelievi e i prezzi limite nel settore delle uova per il periodo dal 1 luglio
+    al 31 ottobre 1967
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 198/67/EEG van de Commissie van 28 juni 1967 houdende vaststelling
+    van de heffingen en sluisprijzen in de sector eieren voor het tijdvak van 1 juli
+    tot en met 31 oktober 1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0198
+docidentifier:
+- content: EU Regulation 198/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0198
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/198/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

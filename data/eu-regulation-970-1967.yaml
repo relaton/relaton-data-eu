@@ -1,0 +1,65 @@
+---
+id: EURegulation9701967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 970/67/CEE de la Commission, du 8 décembre 1967, modifiant
+    le montant supplémentaire pour certains produits du secteur des oeufs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 970/67/EWG der Kommission vom 8. Dezember 1967 zur Änderung
+    des Zusatzbetrags für bestimmte Eiererzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 970/67/CEE della Commissione, dell'8 dicembre 1967, che
+    modifica l'importo supplementare per taluni prodotti del settore delle uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 970/67/EEG van de Commissie van 8 december 1967 houdende
+    wijziging van het extra bedrag voor bepaalde produkten in de sector eieren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0970
+docidentifier:
+- content: EU Regulation 970/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0970
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/970/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

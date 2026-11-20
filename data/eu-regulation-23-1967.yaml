@@ -1,0 +1,68 @@
+---
+id: EURegulation231967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 23/67/CEE de la Commission, du 6 février 1967, modifiant
+    certains prélèvements fixés par le règlement n 202/66/CEE pour les pintades
+    abattues
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 23/67/EWG der Kommission vom 6. Februar 1967 zur Änderung
+    bestimmter in der Verordnung Nr. 202/66/EWG festgesetzter Abschöpfungsbeträge
+    für geschlachtete Perlhühner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 23/67/CEE della Commissione, del 6 febbraio 1967, che modifica
+    alcuni prelievi fissati dal regolamento n. 202/66/CEE per le faraone macellate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 23/67/EEG van de Commissie van 6 februari 1967 tot wijziging
+    van sommige heffingen die in Verordening no. 202/66/EEG zijn vastgesteld voor
+    geslachte parelhoenders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0023
+docidentifier:
+- content: EU Regulation 23/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0023
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/23/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-02-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

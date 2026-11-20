@@ -1,0 +1,69 @@
+---
+id: EURegulation6881967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 688/67/CEE de la Commission, du 9 octobre 1967, modifiant
+    l'article 23 du règlement n 224/67/CEE relatif à certaines modalités concernant
+    l'aide pour les graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 688/67/EWG der Kommission vom 9. Oktober 1967 zur Änderung
+    von Artikel 23 der Verordnung Nr. 224/67/EWG mit Durchführungsbestimmungen über
+    die Beihilfe für Ölsaaten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 688/67/CEE della Commissione, del 9 ottobre 1967, che modifica
+    l'articolo 23 del regolamento n. 224/67/CEE concernente talune modalità riguardanti
+    l'integrazione per i semi oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 688/67/EEG van de Commissie van 9 oktober 1967 houdende
+    wijziging van artikel 23 van Verordening no. 224/67/EEG houdende enkele bepalingen
+    betreffende de steun voor oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0688
+docidentifier:
+- content: EU Regulation 688/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0688
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/688/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

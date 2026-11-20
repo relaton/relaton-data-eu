@@ -1,0 +1,93 @@
+---
+id: EURegulation28091973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2809/73 of the Council of 15 October 1973 on aid from
+    the European Agricultural Guidance Fund, guidance section for 1973
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2809/73 du Conseil, du 15 octobre 1973, relatif au
+    concours du Fonds européen d'orientation et de garantie agricole, section orientation,
+    pour l'année 1973
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2809/73 des Rates vom 15. Oktober 1973 über die Beteiligung
+    des Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft, Abteilung
+    Ausrichtung für das Jahr 1973
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2809/73 af 15. oktober 1973 om støtte fra
+    Den europæiske udviklings- og garantifond for Landbruget, udviklingssektionen,
+    for året 1973
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2809/73 del Consiglio, del 15 ottobre 1973, relativo
+    al concorso del Fondo europeo agricolo di orientamento e di garanzia, sezione
+    orientamento, per il 1973
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2809/73 van de Raad van 15 oktober 1973 betreffende
+    de bijstand van het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling
+    Oriëntatie, voor het jaar 1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2809
+docidentifier:
+- content: EU Regulation 2809/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2809
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2809/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-15'
+- type: implemented
+  at: '1973-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0017
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

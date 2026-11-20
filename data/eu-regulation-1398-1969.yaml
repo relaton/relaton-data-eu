@@ -1,0 +1,122 @@
+---
+id: EURegulation13981969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1398/69 du Conseil, du 17 juillet 1969, reportant
+    la date d'extension à toute la Communauté du champ d'application des certificats
+    d'importation, d'exportation et de préfixation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1398/69 des Rates vom 17. Juli 1969 zur Verschiebung
+    des Zeitpunkts, zu dem der Geltungsbereich der Einfuhr- und Ausfuhrlizenzen sowie
+    der Bescheinigungen über die vorherige Festsetzung auf die gesamte Gemeinschaft
+    ausgedehnt werden soll
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1398/69 del Consiglio, del 17 luglio 1969, che rinvia
+    la data di estensione a tutta la Comunità del campo di applicazione dei titoli
+    d'importazione e d'esportazione e dei certificati di fissazione anticipata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1398/69 van de Raad van 17 juli 1969 tot verschuiving
+    van de datum waarop het toepassingsgebied van de invoer- en uitvoercertificaten
+    en van de certificaten van vaststelling vooraf tot de gehele Gemeenschap zal worden
+    uitgebreid
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1398
+docidentifier:
+- content: EU Regulation 1398/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1398
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1398/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-07-17'
+- type: implemented
+  at: '1969-07-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0121
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0168
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0359
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1009
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0804
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0805
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0865
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0204
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

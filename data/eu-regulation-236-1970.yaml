@@ -1,0 +1,69 @@
+---
+id: EURegulation2361970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 236/70 de la Commission, du 6 février 1970, portant
+    application du droit du tarif douanier commun aux importations de certaines variétés
+    d'oranges douces originaires d'Israël
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 236/70 der Kommission vom 6. Februar 1970 zur Anwendung
+    des Zollsatzes des Gemeinsamen Zolltarifs auf Einfuhren bestimmter Sorten SüDorangen
+    mit Ursprung in Israel
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 236/70 della Commissione, del 6 febbraio 1970, relativo
+    all'applicazione del dazio della tariffa doganale comune alle importazioni di
+    alcune varietà di arance dolci originarie d'Israele
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 236/70 van de Commissie van 6 februari 1970 houdende
+    toepassing van het recht van het gemeenschappelijk douanetarief op de invoer van
+    bepaalde variëteiten zoete sinaasappelen van oorsprong uit Israël
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0236
+docidentifier:
+- content: EU Regulation 236/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0236
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/236/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

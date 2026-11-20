@@ -1,0 +1,71 @@
+---
+id: EURegulation211965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 21/65/CEE du Conseil, du 2 mars 1965, portant modification
+    du régime des échanges intracommunautaires de lait condensé sucré
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 21/65/EWG des Rates vom 2. März 1965 zur Änderung der
+    innergemeinschaftlichen Handelsregelung für gezuckerte Kondensmilch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 21/65/CEE del Consiglio, del 2 marzo 1965, relativo alla
+    modifica del regime di scambi intracomunitari di latte condensato zuccherato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 21/65/EEG van de Raad van 2 maart 1965 houdende wijziging
+    van de regeling van het intracommunautaire handelsverkeer in gecondenseerde melk
+    met toegevoegde suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0021
+docidentifier:
+- content: EU Regulation 21/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0021
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/21/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-03-02'
+- type: implemented
+  at: '1965-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

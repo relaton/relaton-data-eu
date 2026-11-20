@@ -1,0 +1,122 @@
+---
+id: EURegulation9992000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 999/2000 of 12 May 2000 suspending the buying-in
+    of butter in certain Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 999/2000 de la Commission du 12 mai 2000 suspendant
+    les achats de beurre dans certains États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 999/2000 der Kommission vom 12. Mai 2000 zur Aussetzung
+    des Ankaufs von Butter in bestimmten Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 999/2000 af 12. maj 2000 om suspension
+    af opkøb af smør i visse medlemsstater
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 999/2000 της Επιτροπής,
+    της 12ης Μαΐου 2000, για την αναστολή των αγορών
+    βουτύρου σε ορισμένα κράτη μέλη
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 999/2000, annettu 12 päivänä toukokuuta 2000,
+    voin ostojen keskeyttämisestä tietyissä jäsenvaltioissa
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 999/2000 della Commissione, del 12 maggio 2000, che
+    sospende gli acquisti di burro in taluni Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 999/2000 van de Commissie van 12 mei 2000 tot schorsing
+    van de boteraankopen in sommige lidstaten
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 999/2000 da Comissão, de 12 de Maio de 2000, que
+    suspende as compras de manteiga em determinados Estados-Membros
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 999/2000 de la Comisión, de 12 de mayo de 2000, por
+    el que se suspenden las compras de mantequilla en algunos Estados miembros
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 999/2000 av den 12 maj 2000 om tillfälligt
+    upphörande med uppköp av smör i vissa medlemsstater
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R0999
+docidentifier:
+- content: EU Regulation 999/2000
+  type: EU
+  primary: true
+- content: CELEX 32000R0999
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2000/999/oj
+  type: ELI
+date:
+- type: issued
+  at: '2000-05-12'
+- type: implemented
+  at: '2000-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 32000R0783
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31999R1255
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

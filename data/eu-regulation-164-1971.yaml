@@ -1,0 +1,70 @@
+---
+id: EURegulation1641971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 164/71 de la Commission, du 27 janvier 1971, instituant
+    une taxe compensatoire à l'importation de mandarines, satsumas, clémentines,
+    tangérines et autres hybrides similaires d'agrumes en provenance d'Algérie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 164/71 der Kommission vom 27. Januar 1971 zur Einführung
+    einer Ausgleichsabgabe auf die Einfuhr von Mandarinen, Satsumas, Clementinen,
+    Tangerinen und anderen ähnlichen Kreuzungen von Zitrusfrüchten aus Algerien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 164/71 della Commissione, del 27 gennaio 1971, che
+    istituisce una tassa di compensazione all'importazione di mandarini, satsuma,
+    clementine, tangerini ed altri ibridi similari di agrumi in provenienza dall'Algeria
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 164/71 van de Commissie van 27 januari 1971 houdende
+    instelling van een compenserende heffing bij invoer van mandarijnen, satsuma's,
+    clementines, tangerines en andere dergelijke kruisingen van citrusvruchten uit
+    Algerië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0164
+docidentifier:
+- content: EU Regulation 164/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0164
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/164/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

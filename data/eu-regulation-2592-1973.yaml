@@ -1,0 +1,100 @@
+---
+id: EURegulation25921973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2592/73 of the Council of 24 September 1973 supplementing
+    Regulation (EEC) No 816/70 as regards the total maximum content of sulphur dioxide
+    (SO*) in wines other than sparkling wines and liqueur wines intended for direct
+    human consumption in the Community
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2592/73 du Conseil, du 24 septembre 1973, complétant
+    le règlement (CEE) n° 816/70 en ce qui concerne les teneurs maximales totales
+    en anhydride sulfureux des vins autres que mousseux et de liqueurs destinés à
+    la consommation humaine directe dans la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2592/73 des Rates vom 24. September 1973 zur Ergänzung
+    der Verordnung (EWG) Nr. 816/70 hinsichtlich des höchsten Gesamtschwefeldioxidgehalts
+    der Weine - mit Ausnahme von Schaumwein und Likörwein -, die zum unmittelbaren
+    menschlichen Verbrauch in der Gemeinschaft bestimmt sind
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2592/73 af 24. september 1973 om supplering
+    af forordning (EØF) nr. 816/70 for så vidt angår det maksimale totalindhold
+    af svovldioxid i vin, bortset fra mousserende vin og hedvin, der er bestemt til
+    direkte konsumforbrug inden for Fællesskabet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2592/73 del Consiglio, del 24 settembre 1973, che
+    completa il regolamento (CEE) n. 816/70 per quanto concerne i tenori massimi totali
+    in anidride solforosa dei vini diversi dagli spumanti e dai vini liquorosi destinati
+    al consumo umano diretto nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2592/73 van de Raad van 24 september 1973 tot aanvulling
+    van Verordening (EEG) nr. 816/70 met betrekking tot de totale maximumgehalten
+    aan zwaveldioxyde van andere wijnen dan mousserende wijn en likeurwijn die zijn
+    bestemd voor rechtstreekse menselijke consumptie in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2592
+docidentifier:
+- content: EU Regulation 2592/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2592
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2592/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-09-24'
+- type: implemented
+  at: '1973-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1599
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

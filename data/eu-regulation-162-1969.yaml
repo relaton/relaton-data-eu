@@ -1,0 +1,70 @@
+---
+id: EURegulation1621969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 162/69 du Conseil, du 28 janvier 1969, relatif au
+    trafic de perfectionnement actif de certains produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 162/69 des Rates vom 28. Januar 1969 betreffend den
+    aktiven Veredelungsverkehr bestimmter Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 162/69 del Consiglio, del 28 gennaio 1969, relativo
+    al traffico di perfezionamento attivo di alcuni prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 162/69 van de Raad van 28 januari 1969 betreffende
+    het actieve veredelingsverkeer in bepaalde zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0162
+docidentifier:
+- content: EU Regulation 162/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0162
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/162/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-01-28'
+- type: implemented
+  at: '1969-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

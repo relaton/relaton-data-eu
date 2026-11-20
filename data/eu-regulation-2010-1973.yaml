@@ -1,0 +1,98 @@
+---
+id: EURegulation20101973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (Euratom) No 2010/73 of the Council of 24 July 1973 altering
+    the conditions governing remuneration and social security for establishment staff
+    of the Joint Research Centre employed in the Federal Republic of Germany
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (Euratom) n° 2010/73 du Conseil, du 24 juillet 1973, modifiant
+    les conditions applicables en matière de rémunération et de sécurité sociale
+    aux agents d'établissement du Centre commun de recherche affectés en République
+    fédérale d'Allemagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (Euratom) Nr. 2010/73 des Rates vom 24. Juli 1973 zur Änderung
+    der Regelung der Bezüge und der sozialen Sicherheit der Anlagenbediensteten der
+    Gemeinsamen Forschungsstelle, die in der Bundesrepublik Deutschland dienstlich
+    verwendet werden
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (Euratom) nr. 2010/73 af 24. juli 1973 om ændring af
+    reglerne om vederlag og social sikring for ansatte under Det fælles Forskningscenter,
+    som gør tjeneste i Den tyske Forbundsrepublik
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (Euratom) n. 2010/73 del Consiglio, del 24 luglio 1973, che
+    modifica le condizioni applicabili in materia di retribuzione e di sicurezza sociale
+    agli agenti di stabilimento del Centro comune di ricerca che prestano servizio
+    nella Repubblica federale di Germania
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (Euratom) nr. 2010/73 van de Raad van 24 juli 1973 houdende
+    wijziging van de regeling inzake de bezoldiging en de sociale zekerheid van de
+    functionarissen, verbonden aan een inrichting van het Gemeenschappelijk Centrum
+    voor Onderzoek en tewerkgesteld in de Bondsrepubliek Duitsland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2010
+docidentifier:
+- content: EU Regulation 2010/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2010
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2010/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-07-24'
+- type: implemented
+  at: '1973-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31965R0009(01)
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

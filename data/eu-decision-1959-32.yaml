@@ -1,0 +1,74 @@
+---
+id: EUDecision195932
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision n° 32-59 du 1er juin 1959 prorogeant la décision n° 22-59
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung Nr. 32-59 vom 1. Juni 1959 zur Verlängerung der Geltungsdauer
+    der Entscheidung Nr.22/59
+  type: main
+- language: it
+  script: Latn
+  content: Decisione N° 32-59 del 1° giugno 1959 che proroga la decisione N° 22-59
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking No. 32-59 van 1 juni 1959 houdende verlenging van de toepassing
+    van Beschikking No. 22-59
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31959D0032
+docidentifier:
+- content: EU Decision 1959/32
+  type: EU
+  primary: true
+- content: CELEX 31959D0032
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1959/32/oj
+  type: ELI
+date:
+- type: issued
+  at: '1959-06-01'
+- type: implemented
+  at: '1959-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: High Authority
+    abbreviation:
+      content: ECSC_HA
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31959D0022
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

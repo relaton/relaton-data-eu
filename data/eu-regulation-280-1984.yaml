@@ -1,0 +1,116 @@
+---
+id: EURegulation2801984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 280/84 of 1 February 1984 altering the time
+    limits for implementation of the measures referred to in Regulation (EEC) No 592/83
+    and (EEC) No 594/83 on measures for expanding the markets in milk and milk products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 280/84 de la Commission du 1er février 1984 modifiant
+    les délais relatifs à l' exécution des actions visées aux règlements (CEE)
+    no 592/83 et (CEE) no 594/83 concernant l' élargissement des marchés dans le
+    secteur du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 280/84 der Kommission vom 1. Februar 1984 zur Änderung
+    der Fristen für die Durchführung der Aktionen gemäß den Verordnungen (EWG)
+    Nr. 592/83 und (EWG) Nr. 594/83 bezüglich der Erweiterung der Märkte für Milch
+    und Milcherzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 280/84 af 1. februar 1984 om ændring
+    af fristerne for gennemførelse af de foranstaltninger, der er omhandlet i forordning
+    (EØF) nr. 592/83 og (EØF) nr. 594/83 vedrørende udvidelse af markederne for
+    mælk og mejeriprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 280/84 της Επιτροπής
+    της 1ης Φεβρουαρίου 1984 περί τροποποιήσεως των
+    προθεσμιών σχετικά με την εκτέλεση των ενεργειών
+    που αναφέρονται στους κανονισμούς (ΕΟΚ) αριθ.
+    592/83 και (ΕΟΚ) αριθ. 594/83 όσον αφορά τη διεύρυνση
+    των αγορών στον τομέα του γάλακτος και των
+    γαλακτοκομικών προϊόντων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 280/84 della Commissione del 1o febbraio 1984 che
+    modifica i termini relativi all' esecuzione delle azioni previste dai regolamenti
+    (CEE) n. 592/83 e (CEE) n. 594/83 per quanto concerne l' ampliamento dei mercati
+    nel settore del latte e dei prodotti lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 280/84 van de Commissie van 1 februari 1984 tot wijziging
+    van de termijnen voor de uitvoering van de acties bedoeld in de Verordeningen
+    (EEG) nr. 592/83 en (EEG) nr. 594/83 betreffende de verruiming van de markten
+    in de sector melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R0280
+docidentifier:
+- content: EU Regulation 280/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R0280
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/280/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-02-01'
+- type: implemented
+  at: '1984-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R0592
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R0594
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

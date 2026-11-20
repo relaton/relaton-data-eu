@@ -1,0 +1,112 @@
+---
+id: EURegulation8301968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 830/68 of the Council of 28 June 1968 amending Regulations
+    Nos 120/67/EEC, 121/67/EEC, 122/67/EEC and 359/67/EEC on the common organisation
+    of the markets in cereals, pigmeat, eggs and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 830/68 du Conseil, du 28 juin 1968, portant modification
+    des règlements n°s 120/67/CEE, 121/67/CEE, 122/67/CEE et 359/67/CEE portant
+    organisation commune des marchés dans les secteurs des céréales, de la viande
+    de porc, des oeufs et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 830/68 des Rates vom 28. Juni 1968 zur Änderung der
+    Verordnungen Nrn. 120/67/EWG, 121/67/EWG, 122/67/EWG und 359/67/EWG über die
+    gemeinsamen Marktorganisationen für Getreide, Schweinefleisch, Eier und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 830/68 af 28. juni 1968 om ændring af forordningerne
+    nr. 120/67/EØF, 121/67/EØF, 122/67/EØF og 359/67/EØF om de fælles markedsordninger
+    for korn, svinekød, æg og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 830/68 del Consiglio, del 28 giugno 1968, che modifica
+    i regolamenti nn. 120/67/CEE, 121/67/CEE, 122/67/CEE e 359/67/CEE, relativi all'
+    organizzazione comune dei mercati nei settori dei cereali, delle carni suine,
+    delle uova e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 830/68 van de Raad van 28 juni 1968 houdende wijziging
+    van de Verordeningen nr. 120/67/EEG, nr. 121/67/EEG, nr. 122/67/EEG en nr. 359/67/EEG
+    houdende een gemeenschappelijke ordening der markten in de sectoren granen, varkensvlees,
+    eieren en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0830
+docidentifier:
+- content: EU Regulation 830/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0830
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/830/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-28'
+- type: implemented
+  at: '1968-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0121
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0122
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0359
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

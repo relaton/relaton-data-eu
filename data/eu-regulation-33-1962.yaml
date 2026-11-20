@@ -1,0 +1,73 @@
+---
+id: EURegulation331962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 33 du Conseil relatif à la détermination de la quantité
+    de céréales fourragères nécessaire pour la production d'un kilogramme de poulet
+    d'engraissement abattu
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 33 des Rats über die Festsetzung der Futtergetreidemenge,
+    die zur Erzeugung von einem Kilogramm geschlachtete Jungmasthühner erforderlich
+    ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 33 del Consiglio relativo alla determinazione del quantitativo
+    di cereali da foraggio necessario per la produzione di un chilogrammo di pollo
+    da ingrasso macellato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 33 van de Raad betreffende de vaststelling van de hoeveelheid
+    voedergranen vereist voor de produktie van een kilogram geslacht mestkuiken
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0033
+docidentifier:
+- content: EU Regulation 33/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0033
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/33/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-05-29'
+- type: implemented
+  at: '1962-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

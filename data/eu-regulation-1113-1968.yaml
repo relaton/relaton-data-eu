@@ -1,0 +1,70 @@
+---
+id: EURegulation11131968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1113/68 du Conseil, du 29 juillet 1968, portant adjonction
+    d'un article 17 ter au règlement n° 160/66/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1113/68 des Rates vom 29. Juli 1968 zur Einfügung
+    eines Artikels 17b in die Verordnung Nr. 160/66/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1113/68 del Consiglio, del 29 luglio 1968, relativo
+    all'aggiunta di un articolo 17 ter al regolamento n. 160/66/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1113/68 van de Raad van 29 juli 1968 houdende toevoeging
+    van een artikel 17 ter aan Verordening nr. 160/66/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1113
+docidentifier:
+- content: EU Regulation 1113/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1113
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-29'
+- type: implemented
+  at: '1968-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,67 @@
+---
+id: EURegulation24931971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2493/71 de la Commission, du 19 novembre 1971, modifiant
+    les montants supplémentaires pour certains produits dans le secteur de la viande
+    de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2493/71 der Kommission vom 19. November 1971 zur Änderung
+    der Zusatzbeträge für bestimmte Erzeugnisse des Schweinefleischsektors
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2493/71 della Commissione, del 19 novembre 1971, che
+    modifica gli importi supplementari per taluni prodotti nel settore delle carni
+    suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2493/71 van de Commissie van 19 november 1971 houdende
+    wijziging van de extra bedragen voor bepaalde produkten in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2493
+docidentifier:
+- content: EU Regulation 2493/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2493
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2493/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,102 @@
+---
+id: EURegulation14041983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1404/83 of 1 June 1983 amending Regulation
+    (EEC) No 2742/82 on protective measures applicable to imports of dried grapes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1404/83 de la Commission du 1er juin 1983 modifiant
+    le règlement (CEE) no 2742/82 relatif à des mesures de sauvegarde applicables
+    aux importations de raisins secs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1404/83 der Kommission vom 1. Juni 1983 zur Änderung
+    der Verordnung (EWG) Nr. 2742/82 über Schutzmaßnahmen bei der Einfuhr von getrockneten
+    Trauben
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1404/83 af 1. juni 1983 om ændring
+    af forordning (EØF) nr. 2742/82 om beskyttelsesforanstaltninger over for indførsel
+    af tørrede druer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1404/83 της Επιτροπής
+    της 1ης Ιουνίου 1983 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 2742/82 για τα προστατευτικά μέτρα που
+    πρέπει να εφαρμοστούν στις εισαγωγές σταφίδας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1404/83 della Commissione del 1o giugno 1983 che modifica
+    il regolamento (CEE) n. 2742/82 recante misure di salvaguardia applicabili all'
+    importazione di uve secche
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1404/83 van de Commissie van 1 juni 1983 tot wijziging
+    van Verordening (EEG) nr. 2742/82 houdende beschermende maatregelen inzake de
+    invoer van gedroogde druiven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1404
+docidentifier:
+- content: EU Regulation 1404/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1404
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1404/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-06-01'
+- type: implemented
+  at: '1983-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R2742
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation7651972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 765/72 of the Commission of 14 April 1972 on a second
+    amendment to Regulation (EEC) No 1020/70 on recording quotations and fixing average
+    prices for table wines
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 765/72 de la Commission, du 14 avril 1972, portant
+    seconde modification du règlement (CEE) n° 1020/70 concernant la constatation
+    des cours et la fixation des prix moyens pour les vins de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 765/72 der Kommission vom 14. April 1972 zur zweiten
+    Änderung der Verordnung (EWG) Nr. 1020/70 über die Feststellung der Kurse und
+    die Festsetzung der Durchschnittspreise für Tafelwein
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 765/72 af 14. april 1972 om den anden
+    ændring af forordning (EØF) nr. 1020/70 om konstatering af priser på og fastsættelse
+    af gennemsnitspriser for bordvin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 765/72 della Commissione, del 14 aprile 1972, recante
+    seconda modifica del regolamento (CEE) n. 1020/70 che constata i corsi e fissa
+    i prezzi medi per i vini da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 765/72 van de Commissie van 14 april 1972 houdende
+    tweede wijziging van Verordening (EEG) nr. 1020/70 betreffende het constateren
+    van de prijzen en de vaststelling van de gemiddelde prijzen voor tafelwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0765
+docidentifier:
+- content: EU Regulation 765/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0765
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/765/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-04-14'
+- type: implemented
+  at: '1972-04-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1020
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

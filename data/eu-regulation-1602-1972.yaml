@@ -1,0 +1,70 @@
+---
+id: EURegulation16021972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 1602/72 de la Commission, du 26 juillet 1972, modifiant
+    le règlement (CEE) n 979/72 en ce qui concerne les montants compensatoires applicables,
+    à la suite des événements monétaires, pour certains produits agricoles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1602/72 der Kommission vom 26. Juli 1972 zur Änderung
+    der Verordnung (EWG) Nr. 979/72 hinsichtlich der Ausgleichsabgaben, die im AnschluD
+    an die Währungsereignisse für bestimmte landwirtschaftliche Erzeugnisse anzuwenden
+    sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1602/72 della Commissione, del 26 luglio 1972, che
+    modifica il regolamento (CEE) n. 979/72 per quanto concerne gli importi di compensazione,
+    applicabili per taluni prodotti agricoli, in seguito agli avvenimenti monetari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1602/72 van de Commissie van 26 juli 1972 houdende
+    wijziging van Verordening (EEG) nr. 979/72 betreffende de voor sommige landbouwprodukten
+    ten gevolge van de monetaire toestand toepasselijke compenserende bedragen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1602
+docidentifier:
+- content: EU Regulation 1602/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1602
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1602/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

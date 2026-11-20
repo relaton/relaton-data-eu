@@ -1,0 +1,94 @@
+---
+id: EURegulation31661974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3166/74 of the Council of 10 December 1974 amending
+    Annex IV to Regulation (EEC) No 816/70 laying down additional provisions for the
+    common organization of the market in wine
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3166/74 du Conseil, du 10 décembre 1974, modifiant
+    l' annexe IV du règlement (CEE) n° 816/70 portant dispositions complémentaires
+    en matière d' organisation commune du marché viti-vinicole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3166/74 des Rates vom 10. Dezember 1974 zur Änderung
+    des Anhangs IV der Verordnung (EWG) Nr. 816/70 zur Festlegung ergänzender Vorschriften
+    für die gemeinsame Marktorganisation für Wein
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3166/74 af 10. december 1974 om ændring
+    af bilag IV til forordning (EØF) nr. 816/70 om supplerende regler for den fælles
+    markedsordning for vin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3166/74 del Consiglio, del 10 dicembre 1974, che modifica
+    l' allegato IV del regolamento (CEE) n. 816/70 relativo a disposizioni complementari
+    in materia di organizzazione comune del mercato vitivinicolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3166/74 van de Raad van 10 december 1974 tot wijziging
+    van bijlage IV van Verordening (EEG) nr. 816/70 houdende aanvullende bepalingen
+    inzake de gemeenschappelijke ordening van de wijnmarkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R3166
+docidentifier:
+- content: EU Regulation 3166/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R3166
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/3166/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-12-10'
+- type: implemented
+  at: '1975-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0816
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

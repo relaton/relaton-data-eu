@@ -1,0 +1,123 @@
+---
+id: EURegulation30091991
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3009/91 of 15 October 1991 repealing Regulations
+    (EEC) No 983/88 and (EEC) No 1860/88 establishing special marketing standards
+    for olive oil
+  type: main
+- language: fr
+  script: Latn
+  content: 'RÈGLEMENT (CEE) No 3009/91 DE LA COMMISSION du 15 octobre 1991 abrogeant
+    les règlements (CEE) no 983/88 et (CEE) no 1860/88 établissant des normes particulières
+    de commercialisation dans le secteur de l'' huile d'' olive #'
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 3009/91 DER KOMMISSION vom 15. Oktober 1991 zur Aufhebung
+    der Verordnungen (EWG) Nr. 983/88 und (EWG) Nr. 1860/88 zur Festlegung besonderer
+    Vermarktungsnormen für Olivenöl #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 3009/91 af 15. oktober 1991 om ophævelse
+    af forordning (EØF) nr. 983/88 og (EØF) nr. 1860/88 om fastsættelse af særlige
+    handelsnormer for olivenolie
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 3009/91 της Επιτροπής
+    της 15ης Οκτωβρίου 1991 για την κατάργηση των
+    κανονισμών ( ΕΟΚ ) αριθ. 983/88 και ( ΕΟΚ ) αριθ. 1860/88
+    για τον καθορισμό ειδικών κανόνων εμπορίας
+    στον τομέα του ελαιολάδου
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 3009/91 DELLA COMMISSIONE del 15 ottobre 1991 che
+    abroga i regolamenti (CEE) n. 983/88 e (CEE) n. 1860/88 che stabiliscono norme
+    particolari di commercializzazione nel settore dell'' olio d'' oliva #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 3009/91 VAN DE COMMISSIE van 15 oktober 1991 houdende
+    intrekking van de Verordeningen (EEG) nr. 983/88 en (EEG) nr. 1860/88 tot vaststelling
+    van bijzondere afzetnormen in de sector olijfolie #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) No 3009/91 DA COMISSÃO de 15 de Outubro de 1991 que
+    revoga os Regulamentos (CEE) no 983/88 e (CEE) no 1860/88 que estabelecem normas
+    especiais de comercialização no sector do azeite #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 3009/91 DE LA COMISIÓN de 15 de octubre de 1991 que
+    deroga los Reglamentos (CEE) nos 983/88 y 1860/88 por el que se establecen las
+    normas especiales de comercialización en el sector del aceite de oliva #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991R3009
+docidentifier:
+- content: EU Regulation 3009/1991
+  type: EU
+  primary: true
+- content: CELEX 31991R3009
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1991/3009/oj
+  type: ELI
+date:
+- type: issued
+  at: '1991-10-15'
+- type: implemented
+  at: '1991-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R0983
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R1860
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

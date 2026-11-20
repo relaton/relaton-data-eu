@@ -1,0 +1,88 @@
+---
+id: EURegulation1611962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 161 de la Commission portant nouvelle fixation du prix d'écluse
+    et du montant des prélèvements pour les oeufs dépourvus de leur coquille et
+    les jaunes d'oeufs de volaille de basse-cour, propres à des usages alimentaires,
+    frais, conservés, séchés ou sucrés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 161 der Kommission über die Neufestsetzung der Einschleusungspreise
+    und der Abschöpfungsbeträge für Eier ohne Schale und Eigelb, von Hausgeflügel,
+    genießbar, frisch, haltbar gemacht, getrocknet oder gezuckert
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 161 della Commissione relativo alla fissazione dei prezzi
+    limite e dei prelievi per le uova sgusciate ed il giallo d'uova di volatili da
+    cortile, atti ad usi alimentari, freschi, conservati, essiccati o con l'aggiunta
+    di zuccheri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 161 van de Commissie betreffende de nieuwe vaststelling
+    van de sluisprijzen en de heffingen voor eieren uit de schaal en eigeel, van pluimvee,
+    geschikt voor menselijke consumptie, vers, verduurzaamd, gedroogd of met toegevoegde
+    suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0161
+docidentifier:
+- content: EU Regulation 161/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0161
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/161/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-12-20'
+- type: implemented
+  at: '1963-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962D1008P2595
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0073
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

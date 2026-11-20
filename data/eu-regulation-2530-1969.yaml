@@ -1,0 +1,75 @@
+---
+id: EURegulation25301969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2530/69 du Conseil, du 15 décembre 1969, portant
+    ouverture, répartition et mode de gestion des contingents tarifaires communautaires
+    pour certains produits textiles originaires et en provenance de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2530/69 des Rates vom 15. Dezember 1969 über die
+    Eröffnung, Aufteilung und Verwaltung von Gemeinschaftszollkontingenten für bestimmte
+    Spinnstoffe mit Ursprung in und Herkunft aus der Türkei
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2530/69 del Consiglio, del 15 dicembre 1969, relativo
+    all'apertura, alla ripartizione e alle modalità di gestione dei contingenti tariffari
+    comunitari per alcuni prodotti tessili, originari della Turchia e in provenienza
+    da questo paese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2530/69 van de Raad van 15 december 1969 betreffende
+    de opening, de verdeling en de wijze van beheer van de communautaire tariefcontingenten
+    voor bepaalde textielprodukten, van oorsprong en van herkomst uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2530
+docidentifier:
+- content: EU Regulation 2530/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2530
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2530/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-15'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

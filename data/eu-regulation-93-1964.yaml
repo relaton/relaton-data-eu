@@ -1,0 +1,65 @@
+---
+id: EURegulation931964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 93/64/CEE du Conseil, du 16 juillet 1964, portant modification
+    de l'annexe du règlement n 19 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 93/64/EWG des Rates vom 16. Juli 1964 zur Änderung der
+    Anlage der Verordnung Nr. 19 des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 93/64/CEE del Consiglio, del 16 luglio 1964, che modifica
+    l'allegato del regolamento n. 19 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 93/64/EEG van de Raad van 16 juli 1964 tot wijziging van
+    de bijlage van Verordening no. 19 van de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0093
+docidentifier:
+- content: EU Regulation 93/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0093
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/93/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

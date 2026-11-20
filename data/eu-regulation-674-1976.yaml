@@ -1,0 +1,99 @@
+---
+id: EURegulation6741976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 674/76 of 26 March 1976 synchronizing the
+    times for the submission of tenders for the invitations to tender for the export
+    of cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 674/76 de la Commission, du 26 mars 1976, harmonisant
+    les heures de dépôt des offres pour les adjudications à l' exportation dans
+    le secteur des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 674/76 der Kommission vom 26. März 1976 zur Harmonisierung
+    der Fristen für die Abgabe von Angeboten für die Ausfuhrausschreibungen im Getreide-
+    und Reissektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 674/76 af 26. marts 1976 om harmonisering
+    af tidspunkterne for indgivelse af bud ved licitationer for udførsel af korn
+    og ris
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 674/76 della Commissione, del 26 marzo 1976, che armonizza
+    le ore della presentazione delle offerte per le gare all' esportazione nel settore
+    dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 674/76 van de Commissie van 26 maart 1976 houdende
+    harmonisatie van de tijdslimieten voor het indienen van de offertes bij de openbare
+    inschrijvingen bij uitvoer in de sector granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0674
+docidentifier:
+- content: EU Regulation 674/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0674
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/674/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-26'
+- type: implemented
+  at: '1976-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0318
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0358
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

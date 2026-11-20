@@ -1,0 +1,99 @@
+---
+id: EURegulation7061977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 706/77 of 1 April 1977 supplementing Regulation
+    (EEC) No 2044/75 as regards export licences for butter and amending Regulation
+    (EEC) No 210/69
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 706/77 de la Commission, du 1er avril 1977, complétant
+    le règlement (CEE) n° 2044/75 en ce qui concerne le certificat d'exportation
+    pour le beurre et modifiant le règlement (CEE) n° 210/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 706/77 der Kommission vom 1. April 1977 zur Ergänzung
+    der Verordnung (EWG) Nr. 2044/75 in bezug auf die Ausfuhrlizenz für Butter und
+    zur Änderung der Verordnung (EWG) Nr. 210/69
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 706/77 af 1. april 1977 om tillæg
+    til forordning (EØF) nr. 2044/75 for så vidt angår eksportlicenser for smør
+    og om ændring af forordning (EØF) nr. 210/69
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 706/77 della Commissione, del 1 aprile 1977, che completa
+    il regolamento (CEE) n. 2044/75 per quanto riguarda il titolo di esportazione
+    per il burro e modifica il regolamento (CEE) n. 210/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 706/77 van de Commissie van 1 april 1977 tot aanvulling
+    van Verordening (EEG) nr. 2044/75 met betrekking tot de uitvoercertificaten voor
+    boter en tot wijziging van Verordening (EEG) nr. 201/69
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0706
+docidentifier:
+- content: EU Regulation 706/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0706
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/706/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-04-01'
+- type: implemented
+  at: '1977-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0210
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2044
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

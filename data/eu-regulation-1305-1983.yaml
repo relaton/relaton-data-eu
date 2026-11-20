@@ -1,0 +1,104 @@
+---
+id: EURegulation13051983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1305/83 of 26 May 1983 amending Regulation
+    (EEC) No 1754/81 as regards the minimum quantity of cereals which may be offered
+    for intervention in Greece
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1305/83 de la Commission du 26 mai 1983 modifiant le
+    règlement (CEE) no 1754/81 en ce qui concerne la quantité minimale de céréales
+    pouvant être offerte à l' intervention en Grèce
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1305/83 der Kommission vom 26. Mai 1983 zur Änderung
+    der Verordnung (EWG) Nr. 1754/81 hinsichtlich der Mindestmenge Getreide, das von
+    der griechischen Interventionsstelle übernommen werden kann
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1305/83 af 26. maj 1983 om ændring
+    af forordning (EØF) nr. 1754/81 for så vidt angår den minimumsmængde af korn,
+    der kan tilbydes til intervention i Grækenland
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1305/83 της Επιτροπής
+    της 26ης Μαΐου 1983 που τροποποιεί τον κανονισμό
+    (ΕΟΚ) αριθ. 1754/81 σχετικά με την ελάχιστη ποσότητα
+    σιτηρών που μπορεί να προσκομιστεί στην παρέμβαση
+    στην Ελλάδα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1305/83 della Commissione del 26 maggio 1983 che modifica
+    il regolamento (CEE) n. 1754/81 per quanto concerne la quantità minima di cereali
+    che può essere offerta all' intervento in Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1305/83 van de Commissie van 26 mei 1983 tot wijziging
+    van Verordening (EEG) nr. 1754/81 met betrekking tot de minimumhoeveelheid graan
+    die in Griekenland voor interventie mag worden aangeboden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1305
+docidentifier:
+- content: EU Regulation 1305/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1305
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1305/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-05-26'
+- type: implemented
+  at: '1983-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R1754
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

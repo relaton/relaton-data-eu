@@ -1,0 +1,104 @@
+---
+id: EURegulation21441987
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2144/87 of 13 July 1987 on customs debt
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2144/87 du Conseil du 13 juillet 1987 relatif à la
+    dette douanière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2144/87 des Rates vom 13. Juli 1987 über die Zollschuld
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2144/87 af 13. juli 1987 om toldskyld
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2144/87 του Συμβουλίου
+    της 13ης Ιουλίου 1987 σχετικά με την τελωνειακή
+    οφειλή
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2144/87 del Consiglio del 13 luglio 1987 riguardante
+    l' obbligazione doganale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2144/87 van de Raad van 13 juli 1987 inzake de douaneschuld
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 2144/87 do Conselho de 13 de Julho de 1987 relativo
+    à dívida aduaneira
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 2144/87 del Consejo de 13 de julio de 1987 relativo
+    a la deuda aduanera
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31987R2144
+docidentifier:
+- content: EU Regulation 2144/1987
+  type: EU
+  primary: true
+- content: CELEX 31987R2144
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1987/2144/oj
+  type: ELI
+date:
+- type: issued
+  at: '1987-07-13'
+- type: implemented
+  at: '1987-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979L0623
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

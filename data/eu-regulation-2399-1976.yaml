@@ -1,0 +1,94 @@
+---
+id: EURegulation23991976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2399/76 of 1 October 1976 amending Regulation
+    (EEC) No 1500/76 on the granting of private aid for beef at a standard rate fixed
+    in advance
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2399/76 de la Commission, du 1er octobre 1976, modifiant
+    le règlement (CEE) n° 1500/76 prévoyant l' octroi d' une aide au stockage privé,
+    fixée forfaitairement à l' avance, dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2399/76 der Kommission vom 1. Oktober 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1500/76 zur Gewährung von im voraus festgesetzten pauschalen
+    Beihilfen für die private Lagerhaltung von Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2399/76 af 1. oktober 1976 om ændring
+    af forordning (EØF) nr. 1500/76 om ydelse af en forudfastsat fikseret støtte
+    til privat oplagring inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2399/76 della Commissione, del 1° ottobre 1976, recante
+    modifica del regolamento (CEE) n. 1500/76 che prevede la concessione di un aiuto,
+    fissato forfettariamente in anticipo, all' ammasso privato delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2399/76 van de Commissie van 1 oktober 1976 tot wijziging
+    van Verordening (EEG) nr. 1500/76 houdende toekenning van een vooraf forfaitair
+    vastgesteld steunbedrag voor de particuliere opslag in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2399
+docidentifier:
+- content: EU Regulation 2399/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2399
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2399/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-10-01'
+- type: implemented
+  at: '1976-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1500
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

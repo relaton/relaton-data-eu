@@ -1,0 +1,100 @@
+---
+id: EURegulation33371975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3337/75 of the Commission of 22 December 1975 amending
+    for the eighth time Regulation (EEC) No 1770/72 on detailed rules of application
+    relating to the additional conditions with which imported wines for direct human
+    consumption have to comply
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3337/75 de la Commission, du 22 décembre 1975, modifiant
+    pour la huitième fois le règlement (CEE) n° 1770/72 portant modalités d' application
+    relatives aux conditions supplémentaires auxquelles doivent répondre les vins
+    importés des pays tiers, destinés à la consommation humaine directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3337/75 der Kommission vom 22. Dezember 1975 zur achten
+    Änderung der Verordnung (EWG) Nr. 1770/72 über Durchführungsbestimmungen zu
+    den zusätzlichen Bedingungen, denen aus Drittländern eingeführter Wein für
+    den unmittelbaren menschlichen Verbrauch entsprechen muß
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3337/75 af 22. december 1975 om ottende
+    ændring af forordning (EØF) nr. 1770/72 om gennemførelsesbestemmelser til de
+    yderligere betingelser, som skal opfyldes for vin, der fra tredjelande er indført
+    til direkte menneskeligt forbrug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3337/75 della Commissione, del 22 dicembre 1975, recante
+    ottava modifica del regolamento (CEE) n. 1770/72, recante modalità d' applicazione
+    relative alle condizioni supplementari cui devono rispondere i vini importati
+    dai paesi terzi destinati al consumo umano diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3337/75 van de Commissie van 22 december 1975 houdende
+    achtste wijziging van Verordening (EEG) nr. 1770/72 betreffende de nadere voorwaarden
+    waaraan uit derde landen ingevoerde wijn voor rechtstreekse menselijke consumptie
+    moet voldoen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3337
+docidentifier:
+- content: EU Regulation 3337/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3337
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3337/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-12-22'
+- type: implemented
+  at: '1975-12-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1770
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

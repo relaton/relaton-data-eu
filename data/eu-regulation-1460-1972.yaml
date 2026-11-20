@@ -1,0 +1,98 @@
+---
+id: EURegulation14601972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1460/72 of the Commission of 10 July 1972 amending
+    Regulation (EEC) No 1493/71 as regards the calculation of the increases and reductions
+    to be applied to the price of durum wheat and maize taken over by intervention
+    agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1460/72 de la Commission, du 10 juillet 1972, modifiant
+    le règlement (CEE) n° 1493/71 en ce qui concerne le calcul des bonifications
+    et réfactions à appliquer au prix du froment dur et du maïs lors de la prise
+    en charge à l' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1460/72 der Kommission vom 10. Juli 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1493/71 bezüglich der Berechnung der bei der Intervention
+    auf den Preis von Hartweizen und Mais anzuwendenden Zu- und Abschläge
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1460/72 af 10. juli 1972 om ændring
+    af forordning (EØF) nr. 1493/71 vedrørende beregningen af de tillæg og fradrag,
+    der ved interventionen skal anvendes på prisen for hård hvede og majs
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1460/72 della Commissione, del 10 luglio 1972, che
+    modifica il regolamento (CEE) n. 1493/71 per quanto riguarda il calcolo delle
+    maggiorazioni e detrazioni applicabili ai prezzi del frumento duro e del granturco
+    all' atto della presa in consegna da parte degli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1460/72 van de Commissie van 10 juli 1972 houdende
+    wijziging van Verordening (EEG) nr. 1493/71 voor wat betreft de berekening van
+    de bij overneming in interventie op de prijs van durum tarwe en maïs toe te passen
+    toeslagen en kortingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1460
+docidentifier:
+- content: EU Regulation 1460/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1460
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1460/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-10'
+- type: implemented
+  at: '1972-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1493
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

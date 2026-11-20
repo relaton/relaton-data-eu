@@ -1,0 +1,94 @@
+---
+id: EURegulation21391972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2139/72 of the Council of 3 October 1972 amending Regulation
+    No 134/67/EEC as regards the standard amounts for calculating the sluice-gate
+    price for pig carcases
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2139/72 du Conseil, du 3 octobre 1972, modifiant le
+    règlement" n° 134/67/CEE en ce qui concerne les montants forfaitaires pour le
+    calcul du prix d' écluse du porc abattu
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2139/72 des Rates vom 3. Oktober 1972 zur Änderung
+    der Verordnung Nr. 134/67/EWG in bezug auf die Pauschalbeträge für die Berechnung
+    der Einschleusungspreise für geschlachtete Schweine
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2139/72 af 3. oktober 1972 om ændring af
+    forordning nr. 134/67/EØF for så vidt angår faste beløb for beregning af sluseprisen
+    for slagtede svin
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2139/72 del Consiglio, del 3 ottobre 1972, che modifica
+    il regolamento n. 134/67/CEE per quanto riguarda gli importi forfettari per il
+    calcolo del prezzo limite dei suini macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2139/72 van de Raad van 3 oktober 1972 tot wijziging
+    van Verordening nr. 134/67/EEG voor wat betreft de forfaitaire bedragen voor de
+    berekening van de sluisprijs voor geslachte varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2139
+docidentifier:
+- content: EU Regulation 2139/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2139
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2139/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-03'
+- type: implemented
+  at: '1972-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0134
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

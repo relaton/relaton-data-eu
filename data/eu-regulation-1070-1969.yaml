@@ -1,0 +1,70 @@
+---
+id: EURegulation10701969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1070/69 du Conseil, du 10 juin 1969, fixant le prix
+    de base et le prix d'achat pour les raisins de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1070/69 des Rates vom 10. Juni 1969 zur Festsetzung
+    des Grundpreises und des Ankaufspreises für Tafeltrauben
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1070/69 del Consiglio, del 10 giugno 1969, che fissa
+    il prezzo di base ed il prezzo d'acquisto per le uve da tavola
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1070/69 van de Raad van 10 juni 1969 houdende vaststelling
+    van de basisprijs en de aankoopprijs voor tafeldruiven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1070
+docidentifier:
+- content: EU Regulation 1070/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1070
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1070/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-10'
+- type: implemented
+  at: '1969-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

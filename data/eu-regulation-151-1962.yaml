@@ -1,0 +1,70 @@
+---
+id: EURegulation1511962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 151 du Conseil, relatif à l'organisation de trois enquêtes
+    sur les salaires dans l'industrie manufacturière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 151 des Rats zur Durchführung von drei Lohnerhebungen im
+    verarbeitenden Gewerbe
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 151 del Consiglio relativo alla organizzazione di tre inchieste
+    sui safari nell'industria manifatturiera
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 151 van de Raad betreffende de organisatie van drie loonenquêtes
+    in de verwerkende industrie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0151
+docidentifier:
+- content: EU Regulation 151/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0151
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/151/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-12-03'
+- type: implemented
+  at: '1963-01-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

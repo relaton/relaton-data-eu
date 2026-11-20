@@ -1,0 +1,74 @@
+---
+id: EURegulation2001964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 200/64/CEE, 7/64/Euratom des Conseils du 10 décembre 1964,
+    portant modification du règlement des Conseils fixant le régime pécuniaire
+    des membres de la Cour de Justice
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 200/64/EWG, 7/64/Euratom der Räte vom 10. Dezember 1964
+    zur Änderung der Verordnung der Räte über die Regelung der Amtsbezüge für
+    die Mitglieder des Gerichtshofes
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 200/64/CEE, 7/64/Euratom dei Consigli, del 10 dicembre 1964,
+    che modifica il regolamento dei Consigli relativo alla fissazione del trattamento
+    economico dei membri della Corte di Giustizia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 200/64/EEG, 7/64/Euratom der Raden van 10 december 1964
+    houdende wijziging van de verordening der Raden tot vaststelling van de geldelijke
+    regeling voor de leden van het Hof van Justitie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0200
+docidentifier:
+- content: EU Regulation 200/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0200
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/200/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-12-10'
+- type: implemented
+  at: '1962-01-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

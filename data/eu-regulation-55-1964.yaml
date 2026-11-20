@@ -1,0 +1,67 @@
+---
+id: EURegulation551964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 55/64/CEE du Conseil, du 21 mai 1964, portant établissement
+    des critères relatifs au régime d'intervention dans le secteur de la viande
+    bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 55/64/EWG des Rats vom 21. Mai 1964 über die Festlegung
+    der Kriterien für die Interventionsregelung auf dem Rindfleischmarkt
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 55/64/CEE del Consiglio, del 21 maggio 1964, relativo alla
+    determinazione dei criteri relativi al regime di intervento nel settore delle
+    carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 55/64/EEG van de Raad van 21 mei 1964 houdende vaststelling
+    van de criteria met betrekking tot de interventieregeling in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0055
+docidentifier:
+- content: EU Regulation 55/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0055
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/55/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

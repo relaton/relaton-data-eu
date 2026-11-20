@@ -1,0 +1,115 @@
+---
+id: EURegulation6071977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 607/77 of 23 March 1977 concerning notification
+    to the Commission by the Member States of import licences issued for wine products,
+    repealing Regulation (EEC) No 2866/73 and amending Regulation (EEC) No 1614/76
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 607/77 de la Commission, du 23 mars 1977, relatif
+    aux communications des États membres à la Commission des certificats d' importation
+    délivrés dans le secteur viti-vinicole et abrogeant le règlement (CEE) n°
+    2866/73 et modifiant le règlement (CEE) n° 1614/76
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 607/77 der Kommission vom 23. März 1977 über die
+    Mitteilungen der Mitgliedstaaten an die Kommission über die erteilten Einfuhrlizenzen
+    für Wein, zur Aufhebung der Verordnung (EWG) Nr. 2866/73 und zur Änderung der
+    Verordnung (EWG) Nr. 1614/76
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 607/77 af 23 marts 1977 om meddelelser
+    fra medlemsstaterne til Kommissionen om udstedte importlicenser for vin, om ophævelse
+    af forordning (EØF) nr. 2866/73 og om ændring af forordning (EØF) nr. 1614/76
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 607/77 τής Επιτροπής
+    τής 23ης Μαρτίου 1977 περί γνωστοποιήσεων από
+    τά Κράτη μέλη στήν Επιτροπή τών πιστοποιητικών
+    εισαγωγής πού έχουν χορηγηθεί στόν αμπελοοινικό
+    τομέα καί περί καταργήσεως τού κανονισμού
+    (ΕΟΚ) αριθ. 2866/73, καβώς καί περί τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 1614/76
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 607/77 della Commissione, del 23 marzo 1977, relativo
+    alle comunicazioni degli Stati membri alla Commissione dei titoli d' importazione
+    rilasciati nel settore vitivinicolo e recante abrogazione del regolamento (CEE)
+    n. 2866/73 e modifica del regolamento (CEE) n. 1614/76
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 607/77 van de Commissie van 23 maart 1977 betreffende
+    de door de Lid-Staten aan de Commissie te verstrekken mededelingen inzake de in
+    de sector wijn afgegeven invoercertificaten en houdende intrekking van Verordening
+    (EEG) nr. 2866/73 en wijziging van Verordening (EEG) nr. 1614/76
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0607
+docidentifier:
+- content: EU Regulation 607/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0607
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/607/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-23'
+- type: implemented
+  at: '1977-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2866
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1614
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

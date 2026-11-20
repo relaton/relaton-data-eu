@@ -1,0 +1,78 @@
+---
+id: EUDecision197179
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 26 janvier 1971, portant modification de
+    ses Décision des 29 juillet 1964 et 8 juillet 1965 concernant le comité consultatif
+    pour les problèmes de la politique de structure agricole
+  type: main
+- language: de
+  script: Latn
+  content: '71/79/EWG: Beschluß der Kommission vom 26. Januar 1971 zur Änderung
+    ihrer Beschlüsse vom 29. Juli 1964 und 8. Juli 1965 hinsichtlich des Beratenden
+    Ausschusses für Fragen der landwirtschaftlichen Strukturpolitik'
+  type: main
+- language: it
+  script: Latn
+  content: '71/79/CEE: Decisione della Commissione, del 26 gennaio 1971, che modifica
+    le decisioni del 29 luglio 1964 e dell''8 luglio 1965 relative al Comitato consultivo
+    per i problemi della politica di struttura agricola'
+  type: main
+- language: nl
+  script: Latn
+  content: '71/79/EEG: Besluit van de Commissie van 26 januari 1971 tot wijziging
+    van de besluiten van 29 juli 1964 en 8 juli 1965 betreffende het Raadgevend Comité
+    voor de problemen van het landbouwstructuurbeleid'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971D0079
+docidentifier:
+- content: EU Decision 1971/79
+  type: EU
+  primary: true
+- content: CELEX 31971D0079
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1971/79/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0488
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulationNo20271969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2027/69 of the Commission of 15 October 1969 amending
+    Regulation (EEC) No 1473/69 as regards the yield required from certain varieties
+    of rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2027/69 de la Commission, du 15 octobre 1969, modifiant
+    le règlement (CEE) n° 1473/69 en ce qui concerne le rendement à l' usinage
+    exigé pour certaines variétés de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2027/69 der Kommission vom 15. Oktober 1969 zur Änderung
+    der Verordnung (EWG) Nr. 1473/69 in bezug auf die für bestimmte Reissorten geforderte
+    Ausbeute bei der Verarbeitung
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2027/69 af 15. oktober 1969 om ændring
+    af forordning (EØF) nr. 1473/69 med hensyn til det krævede udbytte ved forarbejdningen
+    af visse rissorter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2027/69 della Commissione, del 15 ottobre 1969, che
+    modifica il regolamento (CEE) n. 1473/69 per quanto concerne la resa alla lavorazione
+    richiesta per alcune varietà di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2027/69 van de Commissie van 15 oktober 1969 houdende
+    wijziging van Verordening (EEG) nr. 1473/69 met betrekking tot het voor bepaalde
+    rijstvariëteiten vereiste rendement bij bewerking
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2027
+docidentifier:
+- content: EU Regulation No 2027/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2027
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2027/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-15'
+- type: implemented
+  at: '1969-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1473
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

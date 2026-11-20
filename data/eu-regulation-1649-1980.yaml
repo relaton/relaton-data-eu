@@ -1,0 +1,121 @@
+---
+id: EURegulation16491980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1649/80 of 26 June 1980 on the sale at a
+    price fixed in advance of boned beef and veal held by the Irish intervention agency
+    and intended for export, and amending Regulation (EEC) No 1687/76 and repealing
+    Regulation (EEC) No 1302/80
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1649/80 de la Commission, du 26 juin 1980, relatif
+    à la vente à prix fixé forfaitairement à l' avance de certaines viandes bovines
+    désossées détenues par l' organisme d' intervention irlandais et destinées
+    à être exportées, modifiant le règlement (CEE) n° 1687/76 et abrogeant le
+    règlement (CEE) n° 1302/80
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1649/80 der Kommission vom 26. Juni 1980 über den
+    Verkauf von zur Ausfuhr bestimmtem entbeintem Rindfleisch aus Beständen der irischen
+    Interventionsstelle zu pauschal im voraus festgesetzten Preisen und zur Änderung
+    der Verordnung (EWG) Nr. 1687/76 und zur Aufhebung der Verordnung (EWG) Nr. 1302/80
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1649/80 af 26. juni 1980 om salg til
+    forudfastsat pris med henblik på udførsel af visse former for udbenet oksekød
+    fra det irske interventionsorgan, om ændring af forordning (EØF) nr. 1687/76
+    og om ophævelse af forordning (EØF) nr. 1302/80
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 1649/80 της Επιτροπής
+    της 26ης Ιουνίου 1980 περί της πωλήσεως σε τιμή
+    που καθορίζεται κατ’αποκοπή εκ των προτέρων
+    ορισμένων αποστεωμένων βοείων κρεάτων που
+    κατέχει ο ιρλανδικός οργανισμός παρεμβάσεως
+    και που προορίζονται για την εξαγωγή, και περί
+    τροποποιήσεως του κανονισμού (EOK) αριθ. 1687/76
+    και καταργήσεως του κανονισμού (EOK) αριθ. 1302/80
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1649/80 della Commissione, del 26 giugno 1980, relativo
+    alla vendita, a prezzo fissato forfettariamente in anticipo, di talune carni bovine
+    dissossate detenute dall' organismo d' intervento irlandese e destinate ad essere
+    esportate, recante modifica del regolamento (CEE) n. 1687/76 e abrogazione del
+    regolamento (CEE) n. 1302/80
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1649/80 van de Commissie van 26 juni 1980 betreffende
+    de verkoop, tegen vooraf vastgestelde prijs, van bepaald voor uitvoer bestemd
+    en door het Ierse interventiebureau opgeslagen rundvlees zonder been en houdende
+    wijziging van Verordening (EEG) nr. 1687/76 en tot intrekking van Verordening
+    (EEG) nr. 1302/80
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R1649
+docidentifier:
+- content: EU Regulation 1649/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R1649
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/1649/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-06-26'
+- type: implemented
+  at: '1980-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31980R1302
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1687
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation1261964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 126/64/CEE de la Commission, du 29 septembre 1964, fixant
+    des coefficients d'équivalence entre la qualité de seigle en provenance de la
+    Turquie et le standard de qualité fixé pour le prix de seuil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 126/64/EWG der Kommission vom 29. September 1964 zur Festsetzung
+    von Ausgleichskoeffizienten zwischen der Roggenqualität aus der Türkei und der
+    für den Schwellenpreis maDgebenden Standardqualität
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 126/64/CEE della Commissione, del 29 settembre 1964, che
+    fissa i coefficienti di equivalenza tra la qualità di segala proveniente dalla
+    Turchia e la qualità tipo per la quale è fissato il prezzo d'entrata
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 126/64/EEG van de Commissie van 29 september 1964 houdende
+    vaststelling van de gelijkwaardigheidscoëfficiënten voor de aanpassing tussen
+    de kwaliteit van Turkse rogge en de standaardkwaliteit waarvoor de drempelprijs
+    is bepaald
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0126
+docidentifier:
+- content: EU Regulation 126/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0126
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/126/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

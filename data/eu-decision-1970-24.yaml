@@ -1,0 +1,80 @@
+---
+id: EUDecision197024
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 18 décembre 1969, relative à la mise à
+    jour de la liste des organismes de droit public, prévue à l'article 18 du règlement
+    n° 9 du Conseil concernant le Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: '70/23/EWG: Entscheidung der Kommission vom 17. Dezember 1969 zur Festsetzung
+    des Höchstbetrags der Erstattung für die in der Verordnung (EWG) Nr. 2395/69
+    vorgesehene Ausschreibung für Rohrrohzucker'
+  type: main
+- language: it
+  script: Latn
+  content: '70/23/CEE: Decisione della Commissione, del 17 dicembre 1969, che fissa
+    l''importo massimo della restituzione per la gara inerente allo zucchero greggio
+    di canna di cui al regolamento (CEE) n. 2395/69'
+  type: main
+- language: nl
+  script: Latn
+  content: '70/23/EEG: Beschikking van de Commissie van 17 december 1969 betreffende
+    de vaststelling van het maximumbedrag van de restitutie voor de in Verordening
+    (EEG) nr. 2395/69 bedoelde openbare inschrijving voor ruwe rietsuiker'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970D0024
+docidentifier:
+- content: EU Decision 1970/24
+  type: EU
+  primary: true
+- content: CELEX 31970D0024
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1970/24/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-18'
+- type: implemented
+  at: '1970-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31961D1203P0144
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

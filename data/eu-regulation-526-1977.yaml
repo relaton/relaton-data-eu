@@ -1,0 +1,95 @@
+---
+id: EURegulation5261977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 526/77 of 14 March 1977 fixing, for the 1976/77
+    marketing year, the production aid for tinned pineapple and the minimum price
+    to be paid to pineapple producers
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 526/77 du Conseil, du 14 mars 1977, fixant pour la
+    campagne 1976/1977, le montant de l'aide à la production pour les conserves d'ananas
+    ainsi que le prix minimal à payer aux producteurs d'ananas
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 526/77 des Rates vom 14. März 1977 zur Festsetzung
+    des Betrages der Beihilfe für die Erzeugung von Ananaskonserven und des an die
+    Ananaserzeuger zu zahlenden Mindestpreises für das Wirtschaftsjahr 1976/1977
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 526/77 af 14. marts 1977 om fastsættelse
+    for produktionsåret 1976/1977 af producentstøtten til ananaskonserves samt den
+    minimumspris, der skal betales til ananasproducenterne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 526/77 del Consiglio, del 14 marzo 1977, che fissa
+    per la campagna 1976/1977 l'importo dell'aiuto alla produzione per le conserve
+    di ananassi e il prezzo minimo da pagare ai produttori di ananassi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 526/77 van de Raad van 14 maart 1977 houdende vaststelling,
+    voor het verkoopseizoen 1976/1977, van het bedrag van de steun voor de produktie
+    van ananasconserven en van de minimumprijs die aan de ananasproducenten moet worden
+    betaald
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0526
+docidentifier:
+- content: EU Regulation 526/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0526
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/526/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-14'
+- type: implemented
+  at: '1976-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1492
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

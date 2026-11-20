@@ -1,0 +1,74 @@
+---
+id: EURegulation23681970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2368/70 du Conseil, du 23 novembre 1970, portant conclusion
+    d'un accord sous forme d'échange de lettres entre la Communauté économique
+    européenne et la Nouvelle-Zélande
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2368/70 des Rates vom 23. November 1970 über den
+    Abschluß eines Abkommens in Form eines Briefwechsels zwischen der Europäischen
+    Wirtschaftsgemeinschaft und Neuseeland
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2368/70 del Consiglio, del 23 novembre 1970, relativo
+    alla conclusione di un accordo tra la Comunità economica europea e la Nuova Zelanda
+    sotto forma di scambio di lettere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2368/70 van de Raad van 23 november 1970 houdende
+    sluiting van een Overeenkomst, in de vorm van een briefwisseling, tussen de Europese
+    Economische Gemeenschap en Nieuw-Zeeland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2368
+docidentifier:
+- content: EU Regulation 2368/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2368
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2368/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-23'
+- type: implemented
+  at: '1970-11-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

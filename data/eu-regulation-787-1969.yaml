@@ -1,0 +1,105 @@
+---
+id: EURegulation7871969
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 787/69 of the Council of 22 April 1969 on the financing
+    of intervention expenditure in respect of the domestic market in cereals and rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 787/69 du Conseil, du 22 avril 1969, relatif au financement
+    des dépenses d' intervention sur le marché intérieur dans le secteur des céréales
+    et dans celui du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 787/69 des Rates vom 22. April 1969 über die Finanzierung
+    von Interventionsausgaben auf dem Binnenmarkt für Getreide und Reis
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 787/69 af 22. april 1969 om finansiering
+    af interventionsudgifter på hjemmemarkedet for korn og ris
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 787/69 του Συμβουλίου
+    της 22ας Απριλίου 1969 περί χρηματοδοτήσεως των
+    δαπανών παρεμβάσεως στην εσωτερική αγορά στον
+    τομέα των σιτηρών και της ορύζης
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 787/69 del Consiglio, del 22 aprile 1969, relativo
+    al finanziamento delle spese d' intervento sul mercato interno nei settori dei
+    cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 787/69 van de Raad van 22 april 1969 betreffende
+    de financiering van de interventie-uitgaven op de interne markt in de sectoren
+    granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0787
+docidentifier:
+- content: EU Regulation 787/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0787
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/787/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-04-22'
+- type: implemented
+  at: '1967-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0018
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0155
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation25511976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2551/76 of 19 October 1976 increasing the indicative
+    ceilings established by Regulation (EEC) No 91/76 for imports of certain products
+    originating in Portugal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2551/76 du Conseil, du 19 octobre 1976, portant augmentation
+    des plafonds indicatifs fixés par le règlement (CEE) n° 91/76 à l'égard des
+    importations de certains produits originaires du Portugal
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2551/76 des Rates vom 19. Oktober 1976 zur Erhöhung
+    der mit Verordnung (EWG) Nr. 91/76 für die Einfuhr bestimmter Waren mit Ursprung
+    in Portugal festgesetzten Richtplafonds
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2551/76 af 19. oktober 1976 om forhøjelse
+    af de indikativlofter, der er fastsat ved forordning (EØF) nr. 91/76 for indførsler
+    af visse varer med oprindelse i Portugal
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2551/76 del Consiglio, del 19 ottobre 1976, relativo
+    all'aumento dei massimali indicativi stabiliti dal regolamento (CEE) n. 91/76
+    per le importazioni di alcuni prodotti del Portogallo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2551/76 van de Raad van 19 oktober 1976 houdende
+    verhoging van de indicatieve maxima die bij Verordening (EEG) nr. 91/76 zijn vastgesteld
+    voor de invoer van bepaalde produkten van oorsprong uit Portugal
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2551
+docidentifier:
+- content: EU Regulation 2551/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2551
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2551/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-10-19'
+- type: implemented
+  at: '1976-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0091
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

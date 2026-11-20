@@ -1,0 +1,65 @@
+---
+id: EURegulationNo20301969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2030/69 de la Commission, du 16 octobre 1969, fixant
+    le correctif applicable à la restitution pour les céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2030/69 der Kommission vom 16. Oktober 1969 zur Festsetzung
+    der bei der Erstattung für Getreide anzuwendenden Berichtigung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2030/69 della Commissione, del 16 ottobre 1969, che
+    fissa il correttivo applicabile alla restituzione per i cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2030/69 van de Commissie van 16 oktober 1969 houdende
+    vaststelling van het op de restitutie voor granen toe te passen correctief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2030
+docidentifier:
+- content: EU Regulation No 2030/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2030
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2030/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

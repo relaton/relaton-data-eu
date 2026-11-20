@@ -1,0 +1,75 @@
+---
+id: EURegulationNo20501969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2050/69 du Conseil, du 17 octobre 1969, portant ouverture
+    et répartition d'un contingent tarifaire communautaire pour l'année 1969 de
+    papier journal de la sous-position 48.01 A du tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2050/69 des Rates vom 17. Oktober 1969 über die Eröffnung
+    und Aufteilung eines zusätzlichen Gemeinschaftszollkontingents für Zeitungsdruckpapier
+    der Tarifstelle 48.01 A des Gemeinsamen Zolltarifs für das Jahr 1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2050/69 del Consiglio, del 17 ottobre 1969, relativo
+    all'apertura e alla suddivisione di un contingente tariffario comunitario supplementare
+    di carta da giornali della sottovoce 48.01 A della tariffa doganale comune per
+    il 1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2050/69 van de Raad van 17 oktober 1969 houdende
+    opening en verdeling van een extra communautair tariefcontingent voor courantenpapier
+    van onderverdeling 48.01 A van het gemeenschappelijk douanetarief voor 1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2050
+docidentifier:
+- content: EU Regulation No 2050/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2050
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2050/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-17'
+- type: implemented
+  at: '1969-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

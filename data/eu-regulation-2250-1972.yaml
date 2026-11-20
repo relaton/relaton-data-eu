@@ -1,0 +1,65 @@
+---
+id: EURegulation22501972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2250/72 de la Commission, du 24 octobre 1972, fixant
+    les prélèvements à l'importation de viandes bovines congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2250/72 der Kommission vom 24. Oktober 1972 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von gefrorenem Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2250/72 della Commissione, del 24 ottobre 1972, che
+    fissa i prelievi all'importazione di carni bovine congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2250/72 van de Commissie van 24 oktober 1972 houdende
+    vaststelling van de heffingen bij invoer van bevroren rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2250
+docidentifier:
+- content: EU Regulation 2250/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2250
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2250/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,97 @@
+---
+id: EURegulation9101984
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 910/84 of 3 April 1984 derogating from the
+    quality standards for cucumbers for the 1984 marketing year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 910/84 de la Commission du 3 avril 1984 dérogeant
+    aux normes de qualité pour les concombres pour la campagne 1984
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 910/84 der Kommission vom 3. April 1984 zur Abweichung
+    von den Qualitätsnormen für Gurken für das Wirtschaftsjahr 1984
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 910/84 af 3. april 1984 om undtagelser
+    fra kvalitetsnormerne for agurker for produktionsåret 1984
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 910/84 της Επιτροπής
+    της 3ης Απριλίου 1984 για την παρέκκλιση από τους
+    κανόνες ποιότητας για τα αγγούρια για την περίοδο
+    1984
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 910/84 della Commissione del 3 aprile 1984 che deroga
+    alle norme di qualità per i cetrioli per la campagna 1984
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 910/84 van de Commissie van 3 april 1984 houdende
+    afwijking van de kwaliteitsnormen voor komkommers voor het verkoopseizoen 1984
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984R0910
+docidentifier:
+- content: EU Regulation 910/1984
+  type: EU
+  primary: true
+- content: CELEX 31984R0910
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1984/910/oj
+  type: ELI
+date:
+- type: issued
+  at: '1984-04-03'
+- type: implemented
+  at: '1984-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0183
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

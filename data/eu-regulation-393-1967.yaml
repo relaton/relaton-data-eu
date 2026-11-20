@@ -1,0 +1,67 @@
+---
+id: EURegulation3931967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 393/67/CEE de la Commission, du 31 juillet 1967, modifiant
+    les prélèvements applicables à l'importation des produits transformés à base
+    de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 393/67/EWG der Kommission vom 31. Juli 1967 zur Änderung
+    der bei der Einfuhr von Getreideverarbeitungserzeugnissen zu erhebenden Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 393/67/CEE della Commissione, del 31 luglio 1967, che modifica
+    i prelievi applicabili all'importazione di prodotti trasformati a base di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 393/67/EEG van de Commissie van 31 juli 1967 houdende wijziging
+    van de bij de invoer van op basis van granen verwerkte produkten van toepassing
+    zijnde heffingen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0393
+docidentifier:
+- content: EU Regulation 393/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0393
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/393/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

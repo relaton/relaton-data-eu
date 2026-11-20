@@ -1,0 +1,93 @@
+---
+id: EURegulation8141973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 814/73 of the Council of 27 March 1973 amending the
+    arrangements for the suspension of import charges and compensatory amounts for
+    beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 814/73 du Conseil, du 27 mars 1973, modifiant le régime
+    de suspension des charges à l'importation et des montants compensatoires dans
+    le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 814/73 des Rates vom 27. März 1973 zur Änderung
+    der Regelung betreffend die Aussetzung der Abgaben bei der Einfuhr und der Ausgleichsbeträge
+    für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 814/73 af 27. marts 1973 om ændring af ordningen
+    med suspension af importbelastninger og udligningsbeløb inden for oksekødssektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 814/73 del Consiglio, del 27 marzo 1973, che modifica
+    il regime di sospensione degli oneri all'importazione e degli importi compensativi
+    nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 814/73 van de Raad van 27 maart 1973 tot wijziging
+    van de regeling inzake de schorsing van de belastingen bij invoer en van de compenserende
+    bedragen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0814
+docidentifier:
+- content: EU Regulation 814/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0814
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/814/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-27'
+- type: implemented
+  at: '1973-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0182
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

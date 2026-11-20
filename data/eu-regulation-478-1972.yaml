@@ -1,0 +1,67 @@
+---
+id: EURegulation4781972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 478/72 de la Commission, du 7 mars 1972, modifiant les
+    restitutions à l'exportation pour le sucre blanc et le sucre brut en l'état
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 478/72 der Kommission vom 7. März 1972 zur Änderung
+    der Erstattung bei der Ausfuhr in unverändertem Zustand für WeiDzucker und Rohzucker
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 478/72 della Commissione, del 7 marzo 1972, che modifica
+    le restituzioni all'esportazione per lo zucchero bianco e lo zucchero greggio
+    allo stato naturale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 478/72 van de Commissie van 7 maart 1972 houdende
+    wijziging van de restituties bij de uitvoer van witte en ruwe suiker in onveranderde
+    vorm
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0478
+docidentifier:
+- content: EU Regulation 478/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0478
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/478/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

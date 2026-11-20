@@ -1,0 +1,102 @@
+---
+id: EURegulation7611985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 761/85 of 25 March 1985 repealing Regulation
+    (EEC) No 315/85 laying down protective measures in respect of imports of olives
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 761/85 de la Commission du 25 mars 1985 abrogeant le
+    règlement (CEE) no 315/85 arrêtant des mesures de sauvegarde à l' importation
+    des olives
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 761/85 der Kommission vom 25. März 1985 zur Aufhebung
+    der Verordnung (EWG) Nr. 315/85 zum Erlaß von Schutzmaßnahmen bei der Einfuhr
+    von Oliven
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 761/85 af 25. marts 1985 om ophævelse
+    af forordning (EØF) nr. 315/85 om beskyttelsesforanstaltninger over for import
+    af oliven
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 761/85 της Επιτροπής
+    της 25ης Μαρτίου 1985 που καταργεί τον κανονισμό
+    (ΕΟΚ) αριθ. 315/85 που θεσπίζει μέτρα διασφαλίσεως
+    κατά την εισαγωγή ελαιών
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 761/85 della Commissione del 25 marzo 1985 che abroga
+    il regolamento (CEE) n. 315/85 che adotta misure di salvaguardia all' importazione
+    delle olive
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 761/85 van de Commissie van 25 maart 1985 tot intrekking
+    van Verordening (EEG) nr. 315/85 houdende vaststelling van vrijwaringsmaatregelen
+    bij de invoer van olijven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R0761
+docidentifier:
+- content: EU Regulation 761/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R0761
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/761/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-03-25'
+- type: implemented
+  at: '1985-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R0315
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

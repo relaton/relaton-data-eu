@@ -1,0 +1,74 @@
+---
+id: EURegulation12301969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1230/69 du Conseil, du 30 juin 1969, relatif à l'application
+    de montants compensatoires lors des échanges de certaines marchandises relevant
+    du règlement (CEE) n° 1059/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1230/69 des Rates vom 30. Juni 1969 über die Anwendung
+    von Ausgleichsbeträgen beim Handel mit bestimmten, unter die Verordnung (EWG)
+    Nr. 1059/69 fallenden Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1230/69 del Consiglio, del 30 giugno 1969, relativo
+    all'applicazione di importi di compensazione negli scambi di talune delle merci
+    di cui al regolamento (CEE) n. 1059/69
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1230/69 van de Raad van 30 juni 1969 betreffende
+    de toepassing van compenserende bedragen bij het handelsverkeer in bepaalde goederen
+    die onder Verordening (EEG) nr. 1059/69 vallen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R1230
+docidentifier:
+- content: EU Regulation 1230/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R1230
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/1230/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-06-30'
+- type: implemented
+  at: '1969-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

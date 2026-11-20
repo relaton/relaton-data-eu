@@ -1,0 +1,79 @@
+---
+id: EURegulation1041963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 104/63/CEE du Conseil, du 25 septembre 1963, relatif à
+    la détermination de la quantité de céréales fourragères nécessaire pour
+    la production d'un kilogramme d'oeufs de volaille en coquille, destinés à la
+    consommation, et pour la production d'un kilogramme d'oeufs à couver de volaille
+    de basse-cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 104/63/EWG des Rats vom 25. September 1963 über die Festsetzung
+    der Futtergetreidemenge, die zur Erzeugung von einem Kilogramm zum Verbrauch bestimmter
+    Geflügeleier in der Schale und zur Erzeugung von einem Kilogramm Bruteier von
+    Hausgeflügel erforderlich ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 104/63/CEE del Consiglio del 25 settembre 1963 relativo
+    alla determinazione del quantitativo di cereali da foraggio necessario per la
+    produzione di un chilogrammo di uova in guscio di pollame destinate al consumo
+    e per la produzione di un chilogrammo di uova da cova di pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 104/63/EEG van de Raad van 25 september 1963 betreffende
+    de vaststelling van de hoeveelheid voedergranen, vereist voor de produktie van
+    een kilogram eieren van pluimvee, in de schaal, die bestemd zijn voor consumptie,
+    en voor de produktie van een kilogram broedeieren van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0104
+docidentifier:
+- content: EU Regulation 104/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0104
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/104/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-09-25'
+- type: implemented
+  at: '1963-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

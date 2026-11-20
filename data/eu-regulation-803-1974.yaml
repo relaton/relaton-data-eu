@@ -1,0 +1,93 @@
+---
+id: EURegulation8031974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 803/74 of the Commission of 3 April 1974 abolishing
+    the compensatory amount for imports of certain olive oils originating in or coming
+    from Spain
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 803/74 de la Commission, du 3 avril 1974, portant
+    suppression du montant compensatoire à l'importation de certaines huiles d'olive
+    originaires ou en provenance d'Espagne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 803/74 der Kommission vom 3. April 1974 zur Abschaffung
+    der Ausgleichsabgabe bei der Einfuhr von bestimmtem Olivenöl aus Spanien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 803/74 af 3. april 1974 om ophævelse
+    af udligningsbeløb ved indførsel af visse olivenolier med oprindelse i eller
+    indført fra Spanien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 803/74 della Commissione, del 3 aprile 1974, che sopprime
+    l'importo compensativo applicato all'importazione di taluni oli d'oliva originari
+    o provenienti dalla Spagna
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 803/74 van de Commissie van 3 april 1974 houdende
+    afschaffing van het compenserende bedrag bij invoer van bepaalde soorten olijfolie
+    van oorsprong of van herkomst uit Spanje
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0803
+docidentifier:
+- content: EU Regulation 803/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0803
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/803/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-04-03'
+- type: implemented
+  at: '1974-04-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0502
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

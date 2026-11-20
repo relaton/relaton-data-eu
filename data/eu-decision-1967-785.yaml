@@ -1,0 +1,78 @@
+---
+id: EUDecision1967785
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 67/785/CEE de la Commission, du 13 décembre 1967, modifiant
+    sa décision du 9 novembre 1967 autorisant la France à appliquer des mesures
+    particulières d'intervention dans le secteur du blé tendre
+  type: main
+- language: de
+  script: Latn
+  content: '67/785/EWG: Entscheidung der Kommission vom 13. Dezember 1967 zur Änderung
+    ihrer Entscheidung vom 9. November 1967 zur Ermächtigung Frankreichs zur Anwendung
+    besonderer Interventionsmaßnahmen für Weichweizen'
+  type: main
+- language: it
+  script: Latn
+  content: '67/785/CEE: Decisione della Commissione, del 13 dicembre 1967, che modifica
+    la decisione del 9 novembre 1967 che autorizza la Francia ad applicare misure
+    particolari d''intervento nel settore del grano tenero'
+  type: main
+- language: nl
+  script: Latn
+  content: '67/785/EEG: Beschikking van de Commissie van 13 december 1967 houdende
+    wijziging van haar beschikking van 9 november 1967 waar bij Frankrijk wordt gemachtigd
+    bijzondere interventiemaatregelen toe te passen in de sector zachte tarwe'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967D0785
+docidentifier:
+- content: EU Decision 1967/785
+  type: EU
+  primary: true
+- content: CELEX 31967D0785
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1967/785/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967D0699
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

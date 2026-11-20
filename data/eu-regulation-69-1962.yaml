@@ -1,0 +1,65 @@
+---
+id: EURegulation691962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 69 de la Commission fixant les montants forfaitaires pour
+    les céréales et pour les farines, gruaux et semoules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 69 der Kommission über die Festsetzung der Pauschbeträge
+    für Getreide, Mehl, Grob- und FeingrieD
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 69 della Commissione relativo alla determinazione degli
+    ammontari forfettari per i cereali e le farine, semole e semolini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 69 van de Commissie houdende vaststelling van de forfaitaire
+    bedragen voor granen en voor meel, grutten, gries en griesmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0069
+docidentifier:
+- content: EU Regulation 69/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0069
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/69/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

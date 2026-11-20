@@ -1,0 +1,94 @@
+---
+id: EURegulation13631972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1363/72 of the Commission of 29 June 1972 amending
+    Regulation (EEC) No 1492/71 as regards the price to be paid when cereals are offered
+    for intervention
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1363/72 de la Commission, du 29 juin 1972, modifiant
+    le règlement (CEE) n° 1492/71 de la Commission en ce qui concerne le prix à
+    payer lors d' une offre de vente à l' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1363/72 der Kommission vom 29. Juni 1972 zur Änderung
+    der Verordnung (EWG) Nr. 1492/71 der Kommission bezüglich des bei einem Interventionsangebot
+    zu zahlenden Preises
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1363/72 af 29. juni 1972 om ændring
+    af Kommissionens forordning (EØF) nr. 1492/71 vedrørende den pris, der skal
+    betales ved interventionstilbud
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1363/72 della Commissione, del 29 giugno 1972, che
+    modifica il regolamento (CEE) n. 1492/71 della Commissione per quanto riguarda
+    il prezzo da pagare all' atto di un' offerta di vendita all' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1363/72 van de Commissie van 29 juni 1972 houdende
+    wijziging van Verordening (EEG) nr. 1492/71 van de Commissie voor wat betreft
+    de te betalen prijs bij een aanbieding inzake verkoop bij interventie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1363
+docidentifier:
+- content: EU Regulation 1363/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1363
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1363/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-06-29'
+- type: implemented
+  at: '1972-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1492
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

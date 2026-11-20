@@ -1,0 +1,94 @@
+---
+id: EURegulation3791976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 379/76 of 20 February 1976 amending Regulation
+    (EEC) No 232/75 as regards the date of entry into storage of butter put up for
+    sale
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 379/76 de la Commission, du 20 février 1976, modifiant
+    le règlement (CEE) n° 232/75 en ce qui concerne la date de l' entrée en stock
+    du beurre mis en vente
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 379/76 der Kommission vom 20. Februar 1976 zur Änderung
+    der Verordnung (EWG) Nr. 232/75 hinsichtlich des Einlagerungsdatums der zum Verkauf
+    stehenden Butter
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 379/76 af 20. februar 1976 om ændring
+    af forordning (EØF) nr. 232/75 for så vidt angår lagerindgangsdatoen for smør,
+    der udbydes til salg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 379/76 della Commissione, del 20 febbraio 1976 che
+    modifica il regolamento (CEE) n. 232/75 per quanto riguarda la data di entrata
+    all' ammasso del burro messo in vendita
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 379/76 van de Commissie van 20 februari 1976 houdende
+    wijziging van Verordening (EEG) nr. 232/75 met betrekking tot de opslagdatum van
+    de ten verkoop aangeboden boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0379
+docidentifier:
+- content: EU Regulation 379/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0379
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/379/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-20'
+- type: implemented
+  at: '1976-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0232
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation4391969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 439/69 de la Commission, du 7 mars 1969, abrogeant le
+    règlement (CEE) n 1954/68 relatif à l'extension en Allemagne des mesures d'intervention
+    dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 439/69 der Kommission vom 7. März 1969 zur Aufhebung
+    der Verordnung (EWG) Nr. 1954/68 betreffend die Ausdehnung von Interventionsmaßnahmen
+    auf dem Rindfleischsektor in Deutschland
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 439/69 della Commissione, del 7 marzo 1969, che abroga
+    il regolamento (CEE) n. 1954/68 relativo all'estensione in Germania delle misure
+    d'intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 439/69 van de Commissie van 7 maart 1969 houdende
+    intrekking van Verordening (EEG) nr. 1954/68 betreffende de uitbreiding in Duitsland
+    van interventiemaatregelen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0439
+docidentifier:
+- content: EU Regulation 439/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0439
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/439/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

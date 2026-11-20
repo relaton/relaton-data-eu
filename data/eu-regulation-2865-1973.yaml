@@ -1,0 +1,102 @@
+---
+id: EURegulation28651973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2865/73 of the Commission of 16 October 1973 amending
+    Regulation (EEC) No 1770/72 and drawing up the lists of agencies and laboratories
+    which are empowered to issue the document accompanying wines for direct human
+    consumption imported from third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2865/73 de la Commission, du 16 octobre 1973, modifiant
+    le règlement (CEE) n° 1770/72 et établissant les listes des organismes et des
+    laboratoires habilités à établir le document accompagnant les vins importés
+    des pays tiers destinés à la consommation humaine directe
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2865/73 der Kommission vom 16. Oktober 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1770/72 und zur Aufstellung der Verzeichnisse der Stellen
+    und Laboratorien, die zur Ausstellung des Dokuments befugt sind, das aus Drittländern
+    eingeführten und zum unmittelbaren menschlichen Verbrauch bestimmten Wein begleiten
+    muß
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2865/73 af 16. oktober 1973 om ændring
+    af forordning (EØF) nr. 1770/72 om oprettelse af lister over de organer og laboratorier,
+    som er berettigede til at udstede den attest, der skal ledsage vin, der fra tredjelande
+    er indført til direkte menneskeligt forbrug
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2865/73 della Commissione, del 16 ottobre 1973, che
+    modifica il regolamento (CEE) n. 1770/72 e stabilisce gli elenchi degli organismi
+    e dei laboratori adibiti ad emettere il documento che accompagna i vini importati
+    in provenienza dai paesi terzi, destinati al consumo umano diretto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2865/73 van de Commissie van 16 oktober 1973 tot
+    wijziging van Verordening (EEG) nr. 1770/72 en houdende vaststelling van de lijsten
+    der instanties en laboratoria die bevoegd zijn om het document op te stellen dat
+    uit derde landen ingevoerde wijn bestemd voor rechtstreekse menselijke consumptie
+    vergezelt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2865
+docidentifier:
+- content: EU Regulation 2865/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2865
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2865/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-10-16'
+- type: implemented
+  at: '1973-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1770
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

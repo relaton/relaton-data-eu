@@ -1,0 +1,103 @@
+---
+id: EURegulation10521975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1052/75 of the Commission of 23 April 1975 amending
+    Regulation (EEC) No 1109/71 on detailed rules for determining the entry price
+    for certain fishery products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1052/75 de la Commission, du 23 avril 1975, modifiant
+    le règlement (CEE) n° 1109/71 relatif aux modalités d' établissement du prix
+    d' entrée pour certains produits de la pêche
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1052/75 der Kommission vom 23. April 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1109/71 zur Ermittlung des Einfuhrpreises für bestimmte
+    Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1052/75 af 23. april 1975 om ændring
+    af forordning (EØF) nr. 1109/71 om fastsættelse af importpriser for visse fiskerivarer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός ( ΕΟΚ ) αριθ. 1052/75 της Επιτροπής,
+    της 23ης Απριλίου 1975, περί τροποποίησης του
+    Κανονισμού ( ΕΟΚ ) αριθ. 1109/71 σχετικά με τους
+    τρόπους καθορισμού της τιμής εισόδου για ορισμένα
+    αλιευτικά προϊόντα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1052/75 della Commissione, del 23 aprile 1975, che
+    modifica il regolamento (CEE) n. 1109/71 relativo alle modalità di determinazione
+    del prezzo d' entrata per taluni prodotti della pesca
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1052/75 van de Commissie van 23 april 1975 tot wijziging
+    van Verordening (EEG) nr. 1109/71 betreffende nadere regelen voor de vaststelling
+    van de invoerprijs voor bepaalde visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1052
+docidentifier:
+- content: EU Regulation 1052/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1052
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1052/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-23'
+- type: implemented
+  at: '1975-04-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R1109
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

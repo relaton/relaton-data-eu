@@ -1,0 +1,78 @@
+---
+id: EURegulation12291970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1229/70 du Conseil, du 29 juin 1970, prorogeant la
+    durée de validité du règlement (CEE) n° 1267/69 fixant les dispositions particulières
+    applicables lors de l'importation dans la Communauté, en provenance de la Grèce,
+    des marchandises relevant du règlement (CEE) n° 1059/69
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1229/70 des Rates vom 29. Juni 1970 zur Verlängerung
+    der Geltungsdauer der Verordnung (EWG) Nr. 1267/69 zur Festlegung der Sonderbestimmungen,
+    die bei der Einfuhr von unter die Verordnung (EWG) Nr. 1059/69 fallenden Waren
+    aus Griechenland in die Gemeinschaft anwendbar sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1229/70 del Consiglio, del 29 giugno 1970, che proroga
+    la durata di validità del regolamento (CEE) n. 1267/69 che fissa le disposizioni
+    particolari applicabili all'importazione nella Comunità di merci soggette al
+    regolamento (CEE) n. 1059/69 e provenienti dalla Grecia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1229/70 van de Raad van 29 juni 1970 tot verlenging
+    van de geldigheidsduur van Verordening (EEG) nr. 1267/69 houdende vaststelling
+    van de speciale voorschriften die van toepassing zijn bij de invoer in de Gemeenschap
+    van onder Verordening (EEG) nr. 1059/69 vallende goederen van oorsprong uit Griekenland
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1229
+docidentifier:
+- content: EU Regulation 1229/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1229
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1229/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

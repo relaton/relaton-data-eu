@@ -1,0 +1,69 @@
+---
+id: EURegulation1541965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 154/65/CEE de la Commission, du 8 novembre 1965, en vue d'éviter
+    les détournements de trafic pouvant résulter du système d'abattement sur le
+    prélèvement applicable aux importations de riz décortiqué
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 154/65/EWG der Kommission vom 8. November 1965 zur Vermeidung
+    von Verkehrsverlagerungen, die sich aus der Einführung eines Abschlags auf Abschöpfungen
+    auf Einfuhren von geschältem Reis ergeben können
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 154/65/CEE della Commissione, dell'8 novembre 1965, destinato
+    ad evitare le deviazioni di traffico che possono risultare dal sistema di riduzione
+    del prelievo applicabile alle importazioni di riso semigreggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 154/65/EEG van de Commissie van 8 november 1965 ter voorkoming
+    van de verleggingen van het handelsverkeer welke uit het systeem van aftrek op
+    de heffing bij invoer van gedopte rijst kunnen voortvloeien
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0154
+docidentifier:
+- content: EU Regulation 154/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0154
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/154/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-11-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

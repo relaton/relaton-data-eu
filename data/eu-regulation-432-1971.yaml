@@ -1,0 +1,91 @@
+---
+id: EURegulation4321971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 432/71 of the Commission of 26 February 1971 on information
+    on the working of the system of import licences for beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 432/71 de la Commission, du 26 février 1971, en ce
+    qui concerne les communications relatives à l' adaptation du régime des certificats
+    d' importation dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 432/71 der Kommission vom 26. Februar 1971 betreffend
+    die Mitteilungen über die Anwendung der Einfuhrlizenzregelung auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 432/71 af 26. februar 1971 vedrørende
+    meddelelser om anvendelsen af importlicensordningen inden for oksekødssektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 432/71 della Commissione, del 26 febbraio 1971, per
+    quanto riguarda le comunicazioni relative all' applicazione del regime dei titoli
+    d' importazione nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 432/71 van de Commissie van 26 februari 1971 betreffende
+    de mededelingen inzake de toepassing van het stelsel van invoercertificaten in
+    de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0432
+docidentifier:
+- content: EU Regulation 432/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0432
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/432/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-02-26'
+- type: implemented
+  at: '1971-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1083
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

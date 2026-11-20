@@ -1,0 +1,107 @@
+---
+id: EURegulation731977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 73/77 of 14 January 1977 amending Regulations
+    (EEC) No 1896/73 and (EEC) No 582/76 as regards the coefficients used to calculate
+    buying-in prices for intervention beef in Ireland, and as regards the buying-in
+    prices for those products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 73/77 de la Commission, du 14 janvier 1977, modifiant
+    le règlement (CEE) n° 1896/73 en ce qui concerne les coefficients servant au
+    calcul des prix d' achat de viande bovine à l' intervention en Irlande, ainsi
+    que le règlement (CEE) n° 582/76 en ce qui concerne les prix d' achat de ces
+    produits
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 73/77 der Kommission vom 14. Januar 1977 zur Änderung
+    der Verordnung (EWG) Nr. 1896/73 in bezug auf die bei der Berechnung der Ankaufspreise
+    für Interventionen bei Rindfleisch in Irland zugrunde gelegten Koeffizienten
+    sowie der Verordnung (EWG) Nr. 582/76 in bezug auf die Ankaufspreise dieser Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 73/77 af 14. januar 1977 om ændring
+    af forordning (EØF) nr. 1896/73 og forordning (EØF) nr. 582/76 for så vidt
+    angår de koefficienter, der anvendes ved beregningen af opkøbsprisen for oksekød
+    ved intervention i Irland, samt opkøbspriserne for disse produkter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 73/77 della Commissione, del 14 gennaio 1977, che
+    modifica il regolamento (CEE) n. 1896/73, per quanto concerne i coefficienti impiegati
+    per calcolare i prezzi d' acquisto delle carni bovine applicabili all' intervento
+    in Irlanda, nonché il regolamento (CEE) n. 582/76, per quanto concerne i prezzi
+    d' acquisto degli stessi prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 73/77 van de Commissie van 14 januari 1977 tot wijziging
+    van Verordening (EEG) nr. 1896/73 ten aanzien van de coëfficiënten voor de berekening
+    van de interventie-aankoopprijzen voor rundvlees in Ierland en van Verordening
+    (EEG) nr. 582/76 ten aanzien van de aankoopprijzen van die produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0073
+docidentifier:
+- content: EU Regulation 73/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0073
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/73/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-01-14'
+- type: implemented
+  at: '1977-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0582
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

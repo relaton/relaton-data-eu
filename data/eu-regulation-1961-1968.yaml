@@ -1,0 +1,81 @@
+---
+id: EURegulation19611968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1961/68 de la Commission, du 4 décembre 1968, modifiant
+    le règlement (CEE) n° 1306/68 relatif à la vente du beurre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1960/68 der Kommission vom 4. Dezember 1968 zur Änderung
+    der Verordnung (EWG) Nr. 1105/68 hinsichtlich der Beihilfengewährung für Magermilch
+    für Futterzwecke, die einer Verwaltungskontrolle unterstellt ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1960/68 della Commissione, del 4 dicembre 1968, che
+    modifica il regolamento (CEE) n. 1105/68 in quanto concerne le modalità d'applicazione
+    per la concessione degli aiuti per il latte magro destinato all'alimentazione
+    degli animali, sottoposto ad un controllo amministrativo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1960/68 van de Commissie van 4 december 1968 houdende
+    wijziging van Verordening (EEG) nr. 1105/68 voor wat betreft de toekenning van
+    steun voor ondermelk, bestemd voor veevoeding, onderworpen aan een administratieve
+    controle
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1961
+docidentifier:
+- content: EU Regulation 1961/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1961
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1961/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-12-04'
+- type: implemented
+  at: '1968-12-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1306
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

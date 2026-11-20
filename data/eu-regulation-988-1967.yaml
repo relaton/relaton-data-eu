@@ -1,0 +1,85 @@
+---
+id: EURegulation9881967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 1/67/CECA, 988/67/CEE, 9/67/Euratom du Conseil, du 12 décembre
+    1967, portant modification des coefficients correcteurs dont sont affectées les
+    rémunérations et les pensions des fonctionnaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 1/67/EGKS, 988/67/EWG, 9/67/Euratom des Rates vom 12. Dezember
+    1967 zur Änderung der Berichtigungskoeffizienten für die Dienst- und Versorgungsbezüge
+    der Beamten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 1/67/CECA, 988/67/CEE, 9/67/Euratom del Consiglio, del 12
+    dicembre 1967, che modifica i coefficienti correttori applicabili alle retribuzioni
+    e alle pensioni dei funzionari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 1/67/EGKS, 988/67/EEG, 9/67/Euratom van de Raad van 12
+    december 1967 tot wijziging van de aanpassingscoëfficiënten die op de bezoldiging
+    en de pensioenen van de ambtenaren worden toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0988
+docidentifier:
+- content: EU Regulation 988/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0988
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/988/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-12'
+- type: implemented
+  at: '1967-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0066
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0222
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,139 @@
+---
+id: EURegulation14852001
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EC) No 1485/2001 of the European Parliament and of the Council
+    of 27 June 2001 amending Council Regulation (EEC) No 2158/92 on protection of
+    the Community's forests against fire
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1485/2001 du Parlement européen et du Conseil du 27
+    juin 2001 modifiant le règlement (CEE) n° 2158/92 du Conseil relatif à la protection
+    des forêts dans la Communauté contre les incendies
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1485/2001 des Europäischen Parlaments und des Rates
+    vom 27. Juni 2001 zur Änderung der Verordnung (EWG) Nr. 2158/92 des Rates zum
+    Schutz des Waldes in der Gemeinschaft gegen Brände
+  type: main
+- language: da
+  script: Latn
+  content: Europa-Parlamentets og Rådets forordning (EF) nr. 1485/2001 af 27. juni
+    2001 om ændring af Rådets forordning (EØF) nr. 2158/92 om beskyttelse af skovene
+    i Fællesskabet mod brande
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1485/2001 του Ευρωπαϊκού
+    Κοινοβουλίου και του Συμβουλίου, της 27ης Ιουνίου
+    2001, για την τροποποίηση του κανονισμού (ΕΟΚ)
+    αριθ. 2158/92 του Συμβουλίου για την πυροπροστασία
+    των κοινοτικών δασών
+  type: main
+- language: fi
+  script: Latn
+  content: Euroopan parlamentin ja neuvoston asetus (EY) N:o 1485/2001, annettu 27
+    päivänä kesäkuuta 2001, metsäpalojen torjunnasta yhteisössä annetun neuvoston
+    asetuksen (ETY) N:o 2158/92 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1485/2001 del Parlamento europeo e del Consiglio, del
+    27 giugno 2001, che modifica il regolamento (CEE) n. 2158/92 del Consiglio relativo
+    alla protezione delle foreste nella Comunità contro gli incendi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1485/2001 van het Europees Parlement en de Raad van
+    27 juni 2001 tot wĳziging van Verordening (EEG) nr. 2158/92 van de Raad betreffende
+    de bescherming van de bossen in de Gemeenschap tegen brand
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n.° 1485/2001 do Parlamento Europeu e do Conselho, de
+    27 de Junho de 2001, que altera o Regulamento (CEE) n.° 2158/92 do Conselho relativo
+    à protecção das florestas da Comunidade contra os incêndios
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1485/2001 del Parlamento Europeo y del Consejo, de
+    27 de junio de 2001, por el que se modifica el Reglamento (CEE) n° 2158/92 del
+    Consejo relativo a la protección de los bosques comunitarios contra los incendios
+  type: main
+- language: sv
+  script: Latn
+  content: Europaparlamentets och rådets förordning (EG) nr 1485/2001 av den 27
+    juni 2001 om ändring av rådets förordning (EEG) nr 2158/92 om skydd av gemenskapens
+    skogar mot bränder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1485
+docidentifier:
+- content: EU Regulation 1485/2001
+  type: EU
+  primary: true
+- content: CELEX 32001R1485
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/2001/1485/oj
+  type: ELI
+date:
+- type: issued
+  at: '2001-06-27'
+- type: implemented
+  at: '2001-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Parliament
+    abbreviation:
+      content: EP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31992R2158
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

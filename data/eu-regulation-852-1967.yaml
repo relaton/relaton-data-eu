@@ -1,0 +1,98 @@
+---
+id: EURegulation8521967
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation No 852/67/EEC of the Council of 14 November 1967 on the production
+    refund on broken rice used for the manufacture of starch and quellmehl and in
+    the brewing industry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement n° 852/67/CEE du Conseil, du 14 novembre 1967, relatif à la
+    restitution à la production pour les brisures de riz utilisées par l' amidonnerie
+    et l' industrie fabriquant le quellmehl, et par la brasserie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 852/67/EWG des Rates vom 14. November 1967 über die Erstattung
+    bei der Erzeugung von Bruchreis, der in der Stärke- und Quellmehlindustrie sowie
+    in der Brauereiindustrie verwendet wird
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning nr. 852/67/EØF af 14. november 1967 om produktionsrestitution
+    for brudris, der anvendes i stivelses- og kvældemelsindustrien samt i bryggeriindustrien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 852/67/CEE del Consiglio, del 14 novembre 1967, relativo
+    alla restituzione alla produzione delle rotture di riso utilizzate nella fabbricazione
+    degli amidi e del quellmehl e nell' industria della birra
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening nr. 852/67/EEG van de Raad van 14 november 1967 betreffende
+    de restitutie bij de produktie voor breukrijst die gebruikt wordt door de zetmeelindustrie,
+    de Quellmehl-industrie en de brouwerijen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0852
+docidentifier:
+- content: EU Regulation 852/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0852
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/852/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-11-14'
+- type: implemented
+  at: '1967-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0367
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0371
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

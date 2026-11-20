@@ -1,0 +1,74 @@
+---
+id: EURegulation16521970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1652/70 de la Commission, du 13 août 1970, concernant
+    une adjudication permanente pour la vente de sucre blanc détenu par l'organisme
+    d'intervention français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1652/70 der Kommission vom 13. August 1970 über eine
+    Dauerausschreibung zum Verkauf von Weißzucker, der sich im Besitz der französischen
+    Interventionsstelle befindet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1652/70 della Commissione, del 13 agosto 1970, relativo
+    ad una gara permanente per la vendita di zucchero bianco detenuto dall'organismo
+    d'intervento francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1652/70 van de Commissie van 13 augustus 1970 betreffende
+    een permanente openbare inschrijving voor de verkoop van witte suiker in het bezit
+    van het Franse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1652
+docidentifier:
+- content: EU Regulation 1652/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1652
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1652/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-08-13'
+- type: implemented
+  at: '1970-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

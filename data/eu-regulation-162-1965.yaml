@@ -1,0 +1,68 @@
+---
+id: EURegulation1621965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 162/65/CEE de la Commission, du 17 novembre 1965, modifiant
+    le règlement n 149/64/CEE en ce qui concerne le régime des prélèvements applicables
+    au lait en poudre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 162/65/EWG der Kommission vom 17. November 1965 zur Änderung
+    der Verordnung Nr. 149/64/EWG im Hinblick auf die Abschöpfungsregelung für Milchpulver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 162/65/CEE della Commissione, del 17 novembre 1965, che
+    modifica il regolamento n. 149/64/CEE per quanto concerne il regime dei prelievi
+    applicabili al latte in polvere
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 162/65/EEG van de Commissie van 17 november 1965 houdende
+    wijziging van Verordening no. 149/64/EEG met betrekking tot de regeling inzake
+    de heffingen voor melkpoeder
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0162
+docidentifier:
+- content: EU Regulation 162/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0162
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/162/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

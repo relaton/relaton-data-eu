@@ -1,0 +1,101 @@
+---
+id: EURegulation28401977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2840/77 of 19 December 1977 amending Regulation
+    (EEC) No 878/77 as regards the exchange rate for the French franc to be applied
+    in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2840/77 du Conseil, du 19 décembre 1977, modifiant
+    le règlement (CEE) n° 878/77 en ce qui concerne le taux de change à appliquer
+    pour le franc français dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2840/77 des Rates vom 19. Dezember 1977 zur Änderung
+    der Verordnung (EWG) Nr. 878/77 in bezug auf den Umrechnungskurs, der in der Landwirtschaft
+    auf den französischen Franken anzuwenden ist
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2840/77 af 19. december 1977 om ændring
+    af forordning (EØF) nr. 878/77 for så vidt angår den vekselkurs, der inden
+    for landbrugssektoren skal anvendes for den franske franc
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2840/77 τού Συμβουλίου
+    τής 19ης Δεκεμβρίου 1977 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 878/77 ως πρός τίς τιμές
+    συναλλάγματος γιά τό γαλλικό φράγκο πού πρέπει
+    νά εφαρμόζονται στό γεωργικό τομέα
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2840/77 del Consiglio, del 19 dicembre 1977, che modifica
+    il regolamento (CEE) n. 878/77 per quanto concerne il tasso di cambio da applicare
+    per il franco francese nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2840/77 van de Raad van 19 december 1977 tot wijziging
+    van Verordening (EEG) nr. 878/77 ten aanzien van de in de landbouwsector voor
+    de Franse frank toe te passen wisselkoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2840
+docidentifier:
+- content: EU Regulation 2840/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2840
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2840/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-12-19'
+- type: implemented
+  at: '1977-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

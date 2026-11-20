@@ -1,0 +1,110 @@
+---
+id: EURegulation28941985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2894/85 of 17 October 1985 amending Regulations
+    (EEC) No 2121/85 and (EEC) No 2122/85 as regards the time limit for the purchase
+    of pigmeat by the Belgian intervention agency
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 2894/85 de la Commission du 17 octobre 1985 modifiant
+    les règlements (CEE) no 2121/85 et (CEE) no 2122/85 en ce qui concerne le délai
+    accordé à l' organisme d' intervention belge pour l' achat de viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2894/85 der Kommission vom 17. Oktober 1985 zur Änderung
+    der Verordnungen (EWG) Nr. 2121/85 und (EWG) Nr. 2122/85 hinsichtlich der Frist
+    für den Ankauf von Schweinefleisch durch die belgische Interventionsstelle
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2894/85 af 17. oktober 1985 om ændring
+    af forordning (EØF) nr. 2121/85 og (EØF) nr. 2122/85 for så vidt angår fristen
+    for det belgiske interventionsorgans køb af svinekød
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2894/85 της Επιτροπής
+    της 17ης Οκτωβρίου 1985 που τροποποιεί τους κανονισμούς
+    (ΕΟΚ) αριθ. 2121/85 και (ΕΟΚ) αριθ. 2122/85 όσον αφορά
+    την προθεσμία για την αγορά χοιρινού κρέατος
+    από τον βελγικό οργανισμό παρέμβασης
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2894/85 della Commissione del 17 ottobre 1985 che
+    modifica i regolamenti (CEE) n. 2121/85 e (CEE) n. 2122/85, per quanto concerne
+    il termine accordato all' organismo d' intervento belga per l' acquisto di carni
+    suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2894/85 van de Commissie van 17 oktober 1985 tot
+    wijziging van de Verordeningen (EEG) nr. 2121/85 en (EEG) nr. 2122/85 met betrekking
+    tot de termijn voor de aankoop van varkensvlees door het Belgische interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R2894
+docidentifier:
+- content: EU Regulation 2894/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R2894
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/2894/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-10-17'
+- type: implemented
+  at: '1985-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R2121
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R2122
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

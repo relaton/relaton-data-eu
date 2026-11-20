@@ -1,0 +1,95 @@
+---
+id: EURegulation27371975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2737/75 of the Council of 29 October 1975 on the transfer
+    to and sale by the Italian intervention agency of common wheat held by the German,
+    French and Belgian intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2737/75 du Conseil, du 29 octobre 1975, relatif au
+    transfert et à la mise en vente par l' organisme d' intervention italien de blé
+    tendre détenu par les organismes d' intervention allemand, français et belge
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2737/75 des Rates vom 29. Oktober 1975 über den Transfer
+    und den Verkauf von Weichweizen aus Beständen der deutschen, der französischen
+    und der belgischen Interventionsstelle durch die italienische Interventionsstelle
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2737/75 af 29. oktober 1975 om overførelse
+    til det italienske interventionsorgan og dettes salg af blød hvede, som det tyske,
+    franske og belgiske interventionsorgan ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2737/75 del Consiglio, del 29 ottobre 1975, relativo
+    al trasferimento e alla vendita da parte dell' organismo d' intervento italiano
+    di frumento tenero detenuto dagli organismi d' intervento tedesco, francese e
+    belga
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2737/75 van de Raad van 29 oktober 1975 betreffende
+    de overdracht aan en de verkoop door het Italiaanse interventiebureau van zachte
+    tarwe in het bezit van het Duitse, Franse en Belgische interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2737
+docidentifier:
+- content: EU Regulation 2737/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2737
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2737/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-10-29'
+- type: implemented
+  at: '1975-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R2104
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation28081976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2808/76 of 19 November 1976 amending Regulation
+    (EEC) No 2054/76 on the sale for export to third countries of skimmed-milk powder
+    held by intervention agencies and intended for use as feed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2808/76 de la Commission, du 19 novembre 1976, modifiant
+    notamment le règlement (CEE) n° 2054/76 relatif à la vente en vue de l' exportation
+    vers les pays tiers de lait écrémé en poudre par les organismes d' intervention
+    et destiné à l' alimentation des animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2808/76 der Kommission vom 19. November 1976 zur Änderung
+    insbesondere der Verordnung (EWG) Nr. 2054/76 über den Verkauf von Magermilchpulver
+    zu Futterzwecken aus Beständen der Interventionsstellen für die Ausfuhr nach
+    Drittländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2808/76 af 19. november 1976 om ændring
+    af blandt andet forordning (EØF) nr. 2054/76 om salg med henblik på udførsel
+    til tredjelande af skummetmælkspulver, som interventionsorganerne ligger inde
+    med, og som er bestemt til foder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2808/76 della Commissione, del 19 novembre 1976, che
+    modifica in particolare il regolamento (CEE) n. 2054/76, relativo alla vendita,
+    ai fini dell' esportazione verso i paesi terzi, di latte scremato in polvere detenuto
+    dagli organismi d' intervento e destinato all' alimentazione degli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2808/76 van de Commissie van 19 november 1976 met
+    name tot wijziging van Verordening (EEG) nr. 2054/76 inzake de verkoop van magere-melkpoeder
+    uit de voorraad van de interventiebureaus met het oog op uitvoer naar derde landen
+    en bestemd voor diervoeding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R2808
+docidentifier:
+- content: EU Regulation 2808/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R2808
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/2808/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-11-18'
+- type: implemented
+  at: '1976-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2054
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

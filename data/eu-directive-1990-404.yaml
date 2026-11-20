@@ -1,0 +1,121 @@
+---
+id: EUDirective1990404
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 90/404/EEC of 27 July 1990 amending Directive 66/403/EEC
+    on the marketing of seed potatoes
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 90/404/CEE du Conseil du 27 juillet 1990 modifiant la directive
+    66/403/CEE concernant la commercialisation des plants de pommes de terre
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 90/404/EWG des Rates vom 27. Juli 1990 zur Änderung der Richtlinie
+    66/403/EWG über den Verkehr mit Pflanzkartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 90/404/EØF af 27. juli 1990 om ændring af direktiv 66/403/EØF
+    om handel med læggekartofler
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 90/404/ΕΟΚ του Συμβουλίου της 27ης Ιουλίου
+    1990 για τροποποίηση της οδηγίας 66/403/ΕΟΚ περί
+    εμπορίας σπόρων γεωμήλων προς φύτευση
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 90/404/ETY, annettu 27 päivänä heinäkuuta 1990,
+    siemenperunoiden pitämisestä kaupan annetun direktiivin 66/403/ETY muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 90/404/CEE del Consiglio del 27 luglio 1990 recante modifica
+    della direttiva 66/403/CEE relativa alla commercializzazione dei tuberi-seme di
+    patate
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 90/404/EEG van de Raad van 27 juli 1990 tot wijziging van Richtlijn
+    66/403/EEG betreffende het in de handel brengen van pootaardappelen
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 90/404/CEE do Conselho de 27 de Julho de 1990 que altera a Directiva
+    66/403/CEE relativa à comercialização de batatas de semente
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 90/404/CEE del Consejo de 27 de julio de 1990 por la que se modifica
+    la Directiva 66/403/CEE relativa a la comercialización de patatas de siembra
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 90/404/EEG av den 27 juli 1990 om ändring av direktiv
+    66/403/EEG om saluföring av utsädespotatis
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31990L0404
+docidentifier:
+- content: EU Directive 1990/404
+  type: EU
+  primary: true
+- content: CELEX 31990L0404
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1990/404/oj
+  type: ELI
+date:
+- type: issued
+  at: '1990-07-27'
+- type: implemented
+  at: '1990-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966L0403
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

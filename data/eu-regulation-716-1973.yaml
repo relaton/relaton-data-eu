@@ -1,0 +1,101 @@
+---
+id: EURegulation7161973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 716/73 of the Commission of 6 March 1973 amending Regulation
+    (EEC) No 1728/70 fixing the scales of price increases and reductions for raw tobacco
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 716/73 de la Commission, du 6 mars 1973, modifiant
+    le règlement (CEE) n° 1728/70 fixant les barèmes de bonifications et de réfactions
+    dans le secteur du tabac brut
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 716/73 der Kommission vom 6. März 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1728/70 zur Festsetzung der Zu- und Abschläge für Rohtabak
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 716/73 af 6. marts 1973 der ændrer
+    forordning (EØF) nr. 1728/70 om fastsættelse af tabeller over tillæg og fradrag
+    for råtobak
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 716/73 της Επιτροπής
+    της 6ης Μαρτίου 1973 περί τροποποιήσεως του κανονισμού
+    (ΕΟΚ) αριθ. 1728/70 περί καθορισμού κλιμάκων προσαυξήσεων
+    και μειώσεων στον τομέα του ακατέργαστου καπνού
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 716/73 della Commissione, del 6 marzo 1973, recante
+    modifica del regolamento (CEE) n. 1728/70, che fissa le tabelle di maggiorazioni
+    e riduzioni nel settore del tabacco greggio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 716/73 van de Commissie van 6 maart 1973 tot wijziging
+    van Verordening (EEG) nr. 1728/70 houdende vaststelling van de tabellen van toeslagen
+    en kortingen in de sector ruwe tabak
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0716
+docidentifier:
+- content: EU Regulation 716/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0716
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/716/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-06'
+- type: implemented
+  at: '1973-03-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1728
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

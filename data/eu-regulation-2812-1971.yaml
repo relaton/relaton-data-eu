@@ -1,0 +1,74 @@
+---
+id: EURegulation28121971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2812/71 de la Commission, du 23 décembre 1971, fixant
+    pour la campagne sucrière 1971/1972 le montant provisoire de la cotisation à
+    la production
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2812/71 der Kommission vom 23. Dezember 1971 zur Festsetzung
+    des vorläufigen Betrages der Produktionsabgabe für das Zuckerwirtschaftsjahr
+    1971/1972
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2812/71 della Commissione, del 23 dicembre 1971, che
+    fissa per la campagna saccarifera 1971/1972, l'importo provvisorio del contributo
+    gravante sulla produzione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2812/71 van de Commissie van 23 december 1971 tot
+    vaststelling van het voorlopig bedrag van de produktieheffing voor het verkoopseizoen
+    voor suiker 1971/1972
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2812
+docidentifier:
+- content: EU Regulation 2812/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2812
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2812/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-12-23'
+- type: implemented
+  at: '1972-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

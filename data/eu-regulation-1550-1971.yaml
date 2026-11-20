@@ -1,0 +1,92 @@
+---
+id: EURegulation15501971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1550/71 of the Council of 19 July 1971 amending Regulation
+    No 120/67/EEC as regards cereals for food aid
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1550/71 du Conseil, du 19 juillet 1971, modifiant
+    le règlement" n° 120/67/CEE en ce qui concerne l' aide alimentaire en matière
+    de céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1550/71 des Rates vom 19. Juli 1971 zur Änderung
+    der Verordnung Nr. 120/67/EWG im Hinblick auf die Bereitstellung von Getreide
+    für die Nahrungsmittelhilfe
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1550/71 af 19. juni 1971 om ændring af forordning
+    nr. 120/67/EØF for så vidt angår levering af korn til fødevarehjælp
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1550/71 del Consiglio, del 19 luglio 1971, che modifica
+    il regolamento n. 120/67/CEE per quanto concerne gli aiuti alimentari in materia
+    di cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1550/71 van de Raad van 19 juli 1971 tot wijziging
+    van Verordening nr. 120/67/EEG voor wat betreft de voedselhulp in de vorm van
+    graan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1550
+docidentifier:
+- content: EU Regulation 1550/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1550
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1550/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-19'
+- type: implemented
+  at: '1971-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0120
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

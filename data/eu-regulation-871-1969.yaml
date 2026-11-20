@@ -1,0 +1,69 @@
+---
+id: EURegulation8711969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 871/69 de la Commission, du 9 mai 1969, fixant définitivement
+    le montant de l'aide pour les graines de colza et de navette, déterminé provisoirement
+    depuis le 31 mars 1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 871/69 der Kommission vom 9. Mai 1969 zur endgültigen
+    Festsetzung des seit 31. März 1969 vorläufig festgesetzten Beihilfebetrags für
+    Raps- und Rübsensamen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 871/69 della Commissione, del 9 maggio 1969, che fissa
+    definitivamente l'importo dell'integrazione per i semi di colza e di ravizzone
+    determinato provvisoriamente dal 31 marzo 1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 871/69 van de Commissie van 9 mei 1969 houdende definitieve
+    vaststellingen van het bedrag van de steun voor koolzaad en raapzaad, welke voorlopig
+    vanaf 31 maart 1969 werd vastgesteld
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0871
+docidentifier:
+- content: EU Regulation 871/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0871
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/871/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

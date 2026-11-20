@@ -1,0 +1,89 @@
+---
+id: EURegulation24231970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2423/70 du Conseil, du 30 novembre 1970, modifiant
+    le règlement n° 23 et le règlement n 158/66/CEE, notamment en ce qui concerne
+    la fixation et la modification des normes communes de qualité applicables aux
+    fruits et légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2423/70 des Rates vom 30. November 1970 zur Änderung
+    der Verordnung Nr. 23 und der Verordnung Nr. 158/66/EWG, insbesondere in bezug
+    auf die Festsetzung und Änderung der gemeinsamen Qualitätsnormen für Obst und
+    Gemüse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2423/70 del Consiglio, del 30 novembre 1970, che modifica
+    il regolamento n. 23 ed il regolamento n. 158/66/CEE, in particolare per quanto
+    concerne la fissazione e la modifica delle norme comuni di qualità applicabili
+    agli ortofrutticoli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2423/70 van de Raad van 30 november 1970 houdende
+    wijziging van Verordening nr. 23 en Verordening nr. 158/66/EEG, met name inzake
+    het vaststellen en wijzigen van de gemeenschappelijke kwaliteitsnormen voor groenten
+    en fruit
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2423
+docidentifier:
+- content: EU Regulation 2423/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2423
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2423/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-11-30'
+- type: implemented
+  at: '1970-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0023
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0158
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

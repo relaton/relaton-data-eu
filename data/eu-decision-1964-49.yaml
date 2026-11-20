@@ -1,0 +1,74 @@
+---
+id: EUDecision196449
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission n° 64/49/CEE, du 18 décembre 1963, portant
+    octroi de contingents tarifaires à la République italienne pour certains poissons
+    (thons, morues et filets de morues)
+  type: main
+- language: de
+  script: Latn
+  content: '64/49/EWG: Entscheidung der Kommission vom 18. Dezember 1963 über die
+    Gewährung von Zollkontingenten für bestimmte Fische (Thunfisch, Kabeljau und
+    Filets von Kabeljau) an die Republik Italien'
+  type: main
+- language: it
+  script: Latn
+  content: '64/49/CEE: Decisione della Commissione, del 18 dicembre 1963, relativa
+    alla concessione di contingenti tariffari alla Repubblica italiana per alcune
+    specie di pesci (tonni, merluzzi e filetti di merluzzi)'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/49/EEG: Beschikking van de Commissie van 18 december 1963 houdende
+    toekenning van tariefcontingenten voor sommige vissoorten (tonijn, kabeljauw en
+    filets van kabeljauw) aan de Italiaanse Republiek'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0049
+docidentifier:
+- content: EU Decision 1964/49
+  type: EU
+  primary: true
+- content: CELEX 31964D0049
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/49/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-18'
+- type: implemented
+  at: '1964-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

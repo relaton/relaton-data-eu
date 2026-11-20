@@ -1,0 +1,81 @@
+---
+id: EURegulation15261970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1526/70 of the Council of 20 July 1970 on the conclusion
+    of an Agreement between the European Economic Community and the State of Israel
+    and on the provisions for its implementation
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1526/70 du Conseil, du 20 juillet 1970, portant conclusion
+    d'un accord entre la CEE et l'État d'Israël et arrêtant des dispositions pour
+    son application
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1526/70 des Rates vom 20. Juli 1970 über den Abschluß
+    eines Abkommens zwischen der EWG und dem Staat Israel sowie zur Festlegung von
+    Durchführungsbestimmungen zu diesem Abkommen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1526/70 del Consiglio, del 20 luglio 1970, relativo
+    alla conclusione di un Accordo tra la Comunità economica europea e lo Stato di
+    Israele ed alle disposizioni per la sua applicazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1526/70 van de Raad van 20 juli 1970 houdende sluiting
+    van een Overeenkomst tussen de EEG en de Staat Israël en tot vaststelling van
+    uitvoeringsbepalingen daarvan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1526
+docidentifier:
+- content: EU Regulation 1526/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1526
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1526/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-20'
+- type: implemented
+  at: '1970-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

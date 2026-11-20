@@ -1,0 +1,82 @@
+---
+id: EUDecision1969353
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 17 octobre 1969, modifiant la décision
+    du 10 octobre 1969 fixant les montants compensatoires maxima que la République
+    fédérale d'Allemagne est autorisée à percevoir lors de l'importation de certains
+    produits
+  type: main
+- language: de
+  script: Latn
+  content: '69/353/EWG: Entscheidung der Kommission vom 17. Oktober 1969 zur Änderung
+    der Entscheidung vom 10. Oktober 1969 zur Festsetzung der Höchstausgleichsbeträge,
+    die die Bundesrepublik Deutschland bei der Einfuhr bestimmter Erzeugnisse zu erheben
+    berechtigt ist'
+  type: main
+- language: it
+  script: Latn
+  content: '69/353/CEE: Decisione della Commissione, del 17 ottobre 1969, che modifica
+    la decisione del 10 ottobre 1969 con cui vengono fissati gli importi compensativi
+    massimi che la Repubblica federale di Germania è autorizzata a riscuotere sull''importazione
+    di determinati prodotti'
+  type: main
+- language: nl
+  script: Latn
+  content: '69/353/EEG: Beschikking van de Commissie van 17 oktober 1969 houdende
+    wijziging van de beschikking van 10 oktober 1969 tot vaststelling van de maximale
+    compenserende bedragen welke de Bondsrepubliek Duitsland bij de invoer van bepaalde
+    produkten mag heffen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969D0353
+docidentifier:
+- content: EU Decision 1969/353
+  type: EU
+  primary: true
+- content: CELEX 31969D0353
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1969/353/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969D0350
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

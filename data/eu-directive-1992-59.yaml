@@ -1,0 +1,114 @@
+---
+id: EUDirective199259
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Directive 92/59/EEC of 29 June 1992 on general product safety
+  type: main
+- language: fr
+  script: Latn
+  content: Directive 92/59/CEE du Conseil, du 29 juin 1992, relative à la sécurité
+    générale des produits
+  type: main
+- language: de
+  script: Latn
+  content: Richtlinie 92/59/EWG des Rates vom 29. Juni 1992 über die allgemeine Produktsicherheit
+  type: main
+- language: da
+  script: Latn
+  content: Rådets direktiv 92/59/EØF af 29. juni 1992 om produktsikkerhed i almindelighed
+  type: main
+- language: el
+  script: Grek
+  content: Οδηγία 92/59/ΕΟΚ του Συμβουλίου της 29ης Ιουνίου
+    1992 για τη γενική ασφάλεια των προϊόντων
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston direktiivi 92/59/ETY, annettu 29 päivänä kesäkuuta 1992,
+    yleisestä tuoteturvallisuudesta
+  type: main
+- language: it
+  script: Latn
+  content: Direttiva 92/59/CEE del Consiglio, del 29 giugno 1992, relativa alla sicurezza
+    generale dei prodotti
+  type: main
+- language: nl
+  script: Latn
+  content: Richtlijn 92/59/EEG van de Raad van 29 juni 1992 inzake algemene produktveiligheid
+  type: main
+- language: pt
+  script: Latn
+  content: Directiva 92/59/CEE do Conselho, de 29 de Junho de 1992, relativa à segurança
+    geral dos produtos
+  type: main
+- language: es
+  script: Latn
+  content: Directiva 92/59/CEE del Consejo, de 29 de junio de 1992, relativa a la
+    seguridad general de los productos
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets direktiv 92/59/EEG av den 29 juni 1992 om allmän produktsäkerhet
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0059
+docidentifier:
+- content: EU Directive 1992/59
+  type: EU
+  primary: true
+- content: CELEX 31992L0059
+  type: CELEX
+- content: http://data.europa.eu/eli/dir/1992/59/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-06-29'
+- type: implemented
+  at: '1992-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31989D0045
+      type: CELEX
+ext:
+  doctype:
+    content: directive
+  flavor: eu

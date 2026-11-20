@@ -1,0 +1,70 @@
+---
+id: EURegulation4041969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 404/69 de la Commission, du 3 mars 1969, modifiant la
+    restitution fixée par le règlement (CEE) n 351/69 pour le beurre exporté sous
+    forme de marchandises ne relevant pas de l'annexe II du traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 404/69 der Kommission vom 3. März 1969 zur Änderung
+    der Erstattung, die durch die Verordnung (EWG) Nr. 351/69 für die in Form von
+    nicht unter Anhang II des Vertrages fallenden Waren ausgeführte Butter festgesetzt
+    wurde
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 404/69 della Commissione, del 3 marzo 1969, che modifica
+    la restituzione fissata dal regolamento (CEE) n. 351/69 per il burro esportato
+    sotto forma di merci non comprese nell'allegato II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 404/69 van de Commissie van 3 maart 1969 tot wijziging
+    van de restitutie vastgesteld bij Verordening (EEG) nr. 351/69 voor boter uitgevoerd
+    in de vorm van niet onder bijlage II van het Verdrag vallende goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0404
+docidentifier:
+- content: EU Regulation 404/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0404
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/404/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,93 @@
+---
+id: EURegulation2251973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 225/73 of the Council of 31 January 1973 amending Regulation
+    (EEC) No 1349/72 on the production and marketing of eggs for hatching and poultry
+    chicks
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 225/73 du Conseil, du 31 janvier 1973, modifiant le
+    règlement (CEE) n° 1349/72 concernant la production et la commercialisation
+    des oeufs à couver et des poussins de volailles de basse-cour
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 225/73 des Rates vom 31. Januar 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1349/72 über die Erzeugung von und den Verkehr mit Bruteiern
+    und Küken von Hausgeflügel
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 225/73 af 31. januar 1973 som ændrer forordning
+    (EØF) nr. 1349/72 om produktion og afsætning af rugeæg og kyllinger af fjerkræ
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 225/73 del Consiglio, del 31 gennaio 1973, che modifica
+    il regolamento (CEE) n. 1349/72 relativo alla produzione e alla commercializzazione
+    di uova da cova e pulcini di volatili da cortile
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 225/73 van de Raad van 31 januari 1973 tot wijziging
+    van Verordening (EEG) nr. 1349/72 van de Raad betreffende de produktie van en
+    de handel in broedeieren en kuikens van pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0225
+docidentifier:
+- content: EU Regulation 225/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0225
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/225/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-31'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1349
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

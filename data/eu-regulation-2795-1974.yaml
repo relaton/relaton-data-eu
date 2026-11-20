@@ -1,0 +1,95 @@
+---
+id: EURegulation27951974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2795/74 of the Commission of 5 November 1974 extending
+    the period of application of Regulation (EEC) No 1841/74 on an invitation to tender
+    for the levy for export of common wheat to certain third countries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2795/74 de la Commission, du 5 novembre 1974, portant
+    prorogation du règlement (CEE) n° 1841/74 relatif à l'ouverture d'une adjudication
+    du prélèvement à l'exportation de froment tendre vers certains pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2795/74 der Kommission vom 5. November 1974 zur Verlängerung
+    der Verordnung (EWG) Nr. 1841/74 zur Durchführung einer Ausschreibung der Abschöpfung
+    für die Ausfuhr von Weichweizen nach bestimmten Drittländern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2795/74 af 5. november 1974 om forlængelse
+    af forordning (EØF) nr. 1841/74 om åbning af en licitation over afgiften ved
+    udførsel af blød hvede til visse tredjelande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2795/74 della Commissione, del 5 novembre 1974, che
+    proroga il regolamento (CEE) n. 1841/74 relativo all'indizione di una gara per
+    il prelievo all'esportazione di frumento tenero verso alcuni paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2795/74 van de Commissie van 5 november 1974 houdende
+    verlenging van de geldigheidsduur van Verordening (EEG) nr. 1841/74 betreffende
+    het houden van een openbare inschrijving voor de heffing bij uitvoer van zachte
+    tarwe naar bepaalde derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2795
+docidentifier:
+- content: EU Regulation 2795/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2795
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2795/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-11-05'
+- type: implemented
+  at: '1974-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1841
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

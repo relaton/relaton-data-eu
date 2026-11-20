@@ -1,0 +1,124 @@
+---
+id: EURegulation4961977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 496/77 of 8 March 1977 amending Regulations
+    (EEC) No 787/69, (EEC) No 2305/70 and (EEC) No 2306/70 on the financing of intervention
+    expenditure in respect of the international market in cereals and rice, in beef
+    and veal and in milk products respectively
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 496/77 du Conseil, du 8 mars 1977, modifiant les règlements
+    (CEE) n° 787/69, n° 2305/70 et n° 2306/70 relatifs au financement des dépenses
+    d' intervention sur le marché intérieur, respectivement dans les secteurs des
+    céréales et du riz, de la viande bovine, ainsi que du lait et des produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 496/77 des Rates vom 8. März 1977 zur Änderung der
+    Verordnungen (EWG) Nr. 787/69, Nr. 2305/70 und Nr. 2306/70, die die Finanzierung
+    von Interventionsausgaben auf dem Binnenmarkt für Getreide und Reis bzw. für
+    Rindfleisch bzw. für Milch und Milcherzeugnisse betreffen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 496/77 af 8. marts 1977 om ændring af forordning
+    (EØF) nr. 787/69, (EØF) nr. 2305/70 og (EØF) nr. 2306/70 om finansiering af
+    interventionsudgifter på det interne marked for henholdsvis korn og ris, oksekød
+    samt mælk og mejeriprodukter
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 496/77 τού Συμβουλίου
+    τής 8ης Μαρτίου 1977 περί τροποποιήσεως τών κανονισμών
+    (ΕΟΚ) αριθ. 787/69, (ΕΟΚ) αριθ. 2305/70 καί (ΕΟΚ) αριθ.
+    2306/70 «περί χρηματοδοτήσεως τών δαπανών παρεμβάσεως
+    στήν εσωτερική αγορά, αντίστοιχα, στούς τομείς
+    τών σιτηρών καί τής ορύζης, τού βοείου κρέατος
+    καθώς καί τού γάλακτος καί τών γαλακτοκομικών
+    προϊόντων»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 496/77 del Consiglio, dell' 8 marzo 1977, che modifica
+    i regolamenti (CEE) n. 787/69, (CEE) n. 2305/70 e (CEE) n. 2306/70, relativi al
+    finanziamento delle spese d' intervento sul mercato interno, rispettivamente nel
+    settore dei cereali e del riso, delle carni bovine e del latte e dei prodotti
+    lattiero-caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 496/77 van de Raad van 8 maart 1977 tot wijziging
+    van de Verordeningen (EEG) nr. 787/69, (EEG) nr. 2305/70 en (EEG) nr. 2306/70
+    betreffende de financiering der uitgaven voor interventie op de interne markt
+    respectievelijk in de sectoren granen en rijst, rundvlees en melk en zuivelprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0496
+docidentifier:
+- content: EU Regulation 496/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0496
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/496/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-08'
+- type: implemented
+  at: '1973-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0787
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2305
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2306
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

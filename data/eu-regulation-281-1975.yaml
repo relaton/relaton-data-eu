@@ -1,0 +1,92 @@
+---
+id: EURegulation2811975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 281/75 of the Commission of 3 February 1975 amending
+    Regulation (EEC) No 1981/74 as regards export levies on starches
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 281/75 de la Commission, du 3 février 1975, modifiant
+    le règlement (CEE) n° 1981/74 relatif aux prélèvements à l' exportation pour
+    les produits amylacés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 281/75 der Kommission vom 3. Februar 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1981/74 hinsichtlich der Ausfuhrabschöpfungen für Stärkeprodukte
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 281/75 af 3. februar 1975 om ændring
+    af forordning (EØF) nr. 1981/74 for så vidt angår eksportafgifterne for stivelsesholdige
+    produkter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 281/75 della Commissione, del 3 febbraio 1975, che
+    modifica il regolamento (CEE) n. 1981/74, recante modalità di applicazione di
+    un prelievo all' esportazione per i prodotti amidacei
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 281/75 van de Commissie van 3 februari 1975 tot wijziging
+    van Verordening (EEG) nr. 1981/74 inzake de uitvoerheffingen voor zetmeelhoudende
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0281
+docidentifier:
+- content: EU Regulation 281/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0281
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/281/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-02-03'
+- type: implemented
+  at: '1975-02-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1981
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

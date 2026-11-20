@@ -1,0 +1,104 @@
+---
+id: EURegulation5171979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 517/79 of 16 March 1979 amending Regulations
+    (EEC) No 2073/74 and (EEC) No 1027/78 as regards the date of acceptance of beef
+    and veal offered for sale by the intervention agencies and as regards certain
+    selling prices
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 517/79 de la Commission, du 16 mars 1979, modifiant
+    les règlements (CEE) n° 2073/74 et (CEE) n° 1027/78 en ce qui concerne la date
+    de prise en charge de la viande bovine mise en vente par les organismes d' intervention
+    et certains prix de vente
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 517/79 der Kommission vom 16. März 1979 zur Änderung
+    der Verordnungen (EWG) Nr. 2073/74 und (EWG) Nr. 1027/78 hinsichtlich des Zeitpunkts
+    der Übernahme des von den Interventionsstellen verkauften Rindfleisches und bestimmter
+    Verkaufspreise
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 517/79 af 16. marts 1979 om ændring
+    af forordning (EØF) nr. 2073/74 og (EØF) nr. 1027/78 for så vidt angår overtagelsestidspunktet
+    for oksekød, der udbydes til salg af interventionsorganerne, samt visse salgspriser
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 517/79 della Commissione, del 16 marzo 1979, che modifica
+    i regolamenti (CEE) n. 2073/74 e (CEE) n. 1027/78 per quanto concerne la data
+    di presa in consegna delle carni bovine messe in vendita dagli organismi d' intervento
+    e taluni prezzi di vendita
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 517/79 van de Commissie van 16 maart 1979 houdende
+    wijziging van de Verordening (EEG) nr. 2073/74 en 1027/78 ten aanzien van de overnamedatum
+    voor het rundvlees dat door de interventiebureaus wordt verkocht en van sommige
+    verkoopprijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0517
+docidentifier:
+- content: EU Regulation 517/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0517
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/517/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-16'
+- type: implemented
+  at: '1979-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1027
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,92 @@
+---
+id: EURegulation6821974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 682/74 of the Commission of 27 March 1974 abolishing
+    the countervailing charge on certain varieties of sweet oranges imported from
+    Algeria
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 682/74 de la Commission, du 27 mars 1974, supprimant
+    la taxe compensatoire à l'importation de certaines variétés d'oranges douces
+    en provenance d'Algérie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 682/74 der Kommission vom 27. März 1974 zur Aufhebung
+    der Ausgleichsabgabe auf die Einfuhr von bestimmten Sorten Süßorangen aus Algerien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 682/74 af 27. marts 1974 om ophævelse
+    af udligningsafgiften ved indførsel af visse appelsinsorter fra Algeriet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 682/74 della Commissione, del 27 marzo 1974, che sopprime
+    la tassa di compensazione all'importazione di alcune varietà di arance dolci
+    in provenienza dall'Algeria
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 682/74 van de Commissie van 27 maart 1974 houdende
+    intrekking van de compenserende heffing bij invoer van bepaalde variëteiten zoete
+    sinaasappelen uit Algerië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0682
+docidentifier:
+- content: EU Regulation 682/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0682
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/682/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-27'
+- type: implemented
+  at: '1974-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0547
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

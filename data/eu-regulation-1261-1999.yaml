@@ -1,0 +1,126 @@
+---
+id: EURegulation12611999
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EC) No 1261/1999 of the European Parliament and of the Council
+    of 21 June 1999 on the European Regional Development Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1261/1999 du Parlement européen et du Conseil du 21
+    juin 1999 relatif au Fonds européen de développement régional
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1261/1999 des Europäischen Parlaments und des Rates
+    vom 21. Juni 1999 über den Europäischen Fonds für regionale Entwicklung
+  type: main
+- language: da
+  script: Latn
+  content: Europa-Parlamentets og Rådets forordning (EF) nr. 1261/1999 af 21. juni
+    1999 om Den Europæiske Fond for Regionaludvikling
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμοσ (ΕΚ) αριθ. 1261/1999 του Ευρωπαϊκου
+    Κοινοβουλιου και του Συμβουλιου της 21ης Ιουνίου
+    1999 σχετικά με το Ευρωπαϊκό Ταμείο Περιφερειακής
+    Ανάπτυξης
+  type: main
+- language: fi
+  script: Latn
+  content: Euroopan parlamentin ja neuvoston asetus (EY) N:o 1261/1999, annettu 21
+    päivänä kesäkuuta 1999, Euroopan aluekehitysrahastosta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1261/1999 del Parlamento europeo e del Consiglio del
+    21 giugno 1999 relativo al Fondo europeo di sviluppo regionale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1261/1999 van het Europees Parlement en de Raad van
+    21 juni 1999 met betrekking tot het Europees Fonds voor Regionale Ontwikkeling
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n° 1261/1999 do Parlamento europeu e do Conselho de 21
+    de Junho de 1999 relativo ao Fundo Europeu de Desenvolvimento Regional
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1261/1999 del Parlamento europeo y del Consejo de 21
+    de junio de 1999 relativo al Fondo Europeo de Desarrollo Regional
+  type: main
+- language: sv
+  script: Latn
+  content: Europaparlamentets och rådets förordning (EG) nr 1261/1999 av den 21
+    juni 1999 om Europeiska regionala utvecklingsfonden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999R1261
+docidentifier:
+- content: EU Regulation 1261/1999
+  type: EU
+  primary: true
+- content: CELEX 31999R1261
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1999/1261/oj
+  type: ELI
+date:
+- type: issued
+  at: '1999-06-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Parliament
+    abbreviation:
+      content: EP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R4254
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

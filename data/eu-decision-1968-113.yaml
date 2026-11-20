@@ -1,0 +1,84 @@
+---
+id: EUDecision1968113
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 13 février 1968, portant augmentation du
+    volume du contingent tarifaire octroyé au Royaume des Pays-Bas pour les harengs
+    frais, réfrigérés ou congelés destinés à la transformation (position tarifaire
+    Ex 03.01 B I A) 2)
+  type: main
+- language: de
+  script: Latn
+  content: '68/113/EWG: Entscheidung der Kommission vom 13. Februar 1968 über die
+    Erhöhung des dem Königreich der Niederlande gewährten Zollkontingents für
+    Heringe, frisch, gekühlt oder gefroren, zur Verarbeitung bestimmt (Tarifnummer
+    ex 03.01 B I a) 2)'
+  type: main
+- language: it
+  script: Latn
+  content: '68/113/CEE: Decisione della Commissione, del 13 febbraio 1968, relativa
+    all''aumento del volume del contingente tariffario concesso al Regno dei Paesi
+    Bassi per le aringhe fresche, refrigerate o congelate, destinate alla trasformazione
+    (voce tariffaria ex 03.01 B I a) 2)'
+  type: main
+- language: nl
+  script: Latn
+  content: '68/113/EEG: Beschikking van de Commissie van 13 februari 1968 houdende
+    verhoging van het tariefcontingent toegekend aan het Koninkrijk der Nederlanden
+    voor haring, vers, gekoeld of bevroren, bestemd voor verwerking (tariefpost ex
+    03.01 B I a) 2)'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968D0113
+docidentifier:
+- content: EU Decision 1968/113
+  type: EU
+  primary: true
+- content: CELEX 31968D0113
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1968/113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-02-13'
+- type: implemented
+  at: '1967-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967D0500
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

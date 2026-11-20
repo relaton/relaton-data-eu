@@ -1,0 +1,94 @@
+---
+id: EURegulation4621974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 462/74 of the Commission of 25 February 1974 extending
+    Regulation (EEC) No 442/74 on protective measures for beef and veal to Belgium
+    and Luxembourg
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 462/74 de la Commission, du 25 février 1974, portant
+    extension à la Belgique et au Luxembourg, du règlement (CEE) n° 442/74 concernant
+    des mesures de sauvegarde dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 462/74 der Kommission vom 25. Februar 1974 zur Ausdehnung
+    der Verordnung (EWG) Nr. 442/74 über Schutzmaßnahmen für Rindfleisch auf Belgien
+    und Luxemburg
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 462/74 af 25. februar 1974 om udvidelse
+    af anvendelsen af forordning (EØF) nr. 442/74 om beskyttelsesforanstaltninger
+    inden for oksekødssektoren til også at omfatte Belgien og Luxembourg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 462/74 della Commissione, del 25 febbraio 1974, che
+    estende al Belgio ed al Lussemburgo il regolamento (CEE) n. 442/74 recante misure
+    di salvaguardia nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 462/74 van de Commissie van 25 februari 1974 waarbij
+    Verordening (EEG) nr. 442/74 betreffende vrijwaringsmaatregelen in de sector rundvlees
+    wordt uitgebreid tot België en Luxemburg
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0462
+docidentifier:
+- content: EU Regulation 462/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0462
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/462/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-02-25'
+- type: implemented
+  at: '1974-02-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0442
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

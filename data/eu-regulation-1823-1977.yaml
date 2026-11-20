@@ -1,0 +1,98 @@
+---
+id: EURegulation18231977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1823/77 of 5 August 1977 amending Regulation
+    (EEC) No 1089/77 on detailed rules of application for granting special aid for
+    skimmed milk for use as feed for animals other than young calves
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1823/77 de la Commission, du 5 août 1977, modifiant
+    le règlement (CEE) n° 1089/77 relatif aux modalités d' application d' une aide
+    spéciale pour le lait écrémé destiné à l' alimentation des animaux à l'
+    exclusion des jeunes veaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1823/77 der Kommission vom 5. August 1977 zur Änderung
+    der Verordnung (EWG) Nr. 1089/77 über die Durchführungsbestimmungen für eine
+    Sonderbeihilfe für Magermilch zur Fütterung von Tieren mit Ausnahme von jungen
+    Kälbern
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1823/77 af 5. august 1977 om ændring
+    af forordning (EØF) nr. 1089/77 om gennemførelsesbestemmelser for en særlig
+    støtte til skummetmælk, der er bestemt til foder til andre dyr end unge kalve
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1823/77 della Commissione, del 5 agosto 1977, che
+    modifica il regolamento (CEE) n.1089/77 relativo alle modalità di applicazione
+    di un aiuto speciale per il latte scremato destinato all' alimentazione degli
+    animali, esclusi i giovani vitelli
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1823/77 van de Commissie van 5 augustus 1977 tot
+    wijziging van Verordening (EEG) nr. 1089/77 houdende uitvoeringsbepalingen betreffende
+    een speciale steun voor ondermelk bestemd voor voederdoeleinden, behalve voor
+    jonge kalveren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R1823
+docidentifier:
+- content: EU Regulation 1823/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R1823
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/1823/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-08-05'
+- type: implemented
+  at: '1977-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1089
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

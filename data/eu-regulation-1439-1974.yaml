@@ -1,0 +1,87 @@
+---
+id: EURegulation14391974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1439/74 of the Council of 4 June 1974 on common rules
+    for imports
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1439/74 du Conseil, du 4 juin 1974, relatif au régime
+    commun applicable aux importations
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1439/74 des Rates vom 4. Juni 1974 betreffend die
+    gemeinsame Einfuhrregelung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1439/74 af 4. juni 1974 om den fælles importordning
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1439/74 del Consiglio, del 4 giugno 1974, relativo
+    al regime comune applicabile alle importazioni
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1439/74 van de Raad van 4 juni 1974 inzake de gemeenschappelijke
+    regeling voor de invoer
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1439
+docidentifier:
+- content: EU Regulation 1439/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1439
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1439/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-04'
+- type: implemented
+  at: '1974-06-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1025
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

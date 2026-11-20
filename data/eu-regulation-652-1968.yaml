@@ -1,0 +1,70 @@
+---
+id: EURegulation6521968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 652/68 du Conseil, du 29 mai 1968, fixant l'aide à
+    la production du blé dur pour la campagne 1968/1969
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 652/68 des Rates vom 29. Mai 1968 zur Festsetzung
+    der Beihilfe für die Erzeugung von Hartweizen für das Wirtschaftsjahr 1968/1969
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 652/68 del Consiglio, del 29 maggio 1968, che determina
+    l'aiuto alla produzione di grano duro per la campagna 1968/1969
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 652/68 van de Raad van 29 mei 1968 tot vaststelling
+    van de steun bij de produktie van durum tarwe voor het verkoopseizoen 1968/1969
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0652
+docidentifier:
+- content: EU Regulation 652/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0652
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/652/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-05-29'
+- type: implemented
+  at: '1968-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

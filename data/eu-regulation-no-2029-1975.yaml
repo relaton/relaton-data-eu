@@ -1,0 +1,90 @@
+---
+id: EURegulationNo20291975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2029/75 of the Council of 4 August 1975 amending Regulation
+    (EEC) No 1192/74 on aid for dehydrated fodder
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2029/75 du Conseil, du 4 août 1975, modifiant le
+    règlement (CEE) n° 1192/74 relatif à l' aide pour les fourrages déshydratés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2029/75 des Rates vom 4. August 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1192/74 über die Beihilfe für künstlich getrocknetes
+    Futter
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2029/75 af 4. august 1975 om ændring af
+    forordning (EØF) nr. 1192/74 om støtte til kunsttørret foder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2029/75 del Consiglio, del 4 agosto 1975, che modifica
+    il regolamento n. 1192/74, relativo all' aiuto per i foraggi disidratati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2029/75 van de Raad van 4 augustus 1975 houdende
+    wijziging van Verordening (EEG) nr. 1192/74 inzake de steun voor kunstmatig gedroogde
+    voedergewassen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2029
+docidentifier:
+- content: EU Regulation No 2029/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2029
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2029/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-08-04'
+- type: implemented
+  at: '1975-08-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1192
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

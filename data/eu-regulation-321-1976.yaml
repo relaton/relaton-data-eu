@@ -1,0 +1,94 @@
+---
+id: EURegulation3211976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 321/76 of 13 February 1976 on an amended
+    system for the importation of certain young bovine animals of highland breeds
+    intended for fattening while protective measures are in force
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 321/76 de la Commission, du 13 février 1976, concernant
+    un régime modifié d'importation de certains jeunes bovins de races alpines destinés
+    à l'engraissement, pendant la période d'application de mesures de sauvegarde
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 321/76 der Kommission vom 13. Februar 1976 über eine
+    geänderte Einfuhrregelung für bestimmte Jungrinder der Alpenrassen für die
+    Mast während der Anwendung von Schutzmaßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 321/76 af 13. februar 1976 om en ændret
+    ordning så vidt angår indførsel af ungkvæg af alpine racer, der er bestemt
+    til opfedning, i den periode, hvor beskyttelsesforanstaltninger anvendes
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 321/76 della Commissione, del 13 febbraio 1976, relativo
+    a un regime modificato d'importazione, durante il periodo d'applicazione di misure
+    di salvaguardia, di determinati giovani bovini di razze alpine destinati all'ingrasso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 321/76 van de Commissie van 13 februari 1976 betreffende
+    een gewijzigde regeling voor de invoer tijdens de toepassing van de vrijwaringsmaatregelen
+    van bepaalde jonge runderen van Alpenrassen bestemd voor de mesterij
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0321
+docidentifier:
+- content: EU Regulation 321/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0321
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/321/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-02-13'
+- type: implemented
+  at: '1976-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3248
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

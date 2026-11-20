@@ -1,0 +1,69 @@
+---
+id: EURegulation1391964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 139/64/CEE de la Commission, du 19 octobre 1964, relatif à
+    l'établissement des modalités d'application concernant les certificats d'importation
+    visés par le règlement n 14/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 139/64/EWG der Kommission vom 19. Oktober 1964 über den
+    ErlaD von Durchführungsbestimmungen über die in der Verordnung Nr. 14/64/EWG
+    vorgesehenen Einfuhrlizenzen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 139/64/CEE della Commissione, del 19 ottobre 1964, che fissa
+    le modalità d'applicazione relative ai titoli d'importazione, previsti dal regolamento
+    n. 14/64/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 139/64/EEG van de Commissie van 19 oktober 1964 houdende
+    invoeringsbepalingen met betrekking tot de in Verordening no. 14/64/EEG bedoelde
+    vaststelling van de wijze van toepassing van de invoercertificaten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0139
+docidentifier:
+- content: EU Regulation 139/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0139
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/139/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,103 @@
+---
+id: EURegulation3301983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 330/83 of 9 February 1983 amending Regulation
+    (EEC) No 2742/82 on protective measures applicable to imports of dried grapes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 330/83 de la Commission du 9 février 1983 modifiant
+    le règlement (CEE) no 2742/82 relatif à des mesures de sauvegarde applicables
+    aux importations de raisins secs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 330/83 der Kommission vom 9. Februar 1983 zur Änderung
+    der Verordnung (EWG) Nr. 2742/82 über Schutzmaßnahmen bei der Einfuhr von getrockneten
+    Trauben
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 330/83 af 9. februar 1983 om ændring
+    af forordning (EØF) nr. 2742/82 om beskyttelsesforanstaltninger over for indførsel
+    af tørrede druer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 330/83 της Επιτροπής
+    της 9ης Φεβρουαρίου 1983 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 2742/82 για τα προστατευτικά
+    μέτρα που πρέπει να εφαρμοστούν στις εισαγωγές
+    σταφίδας
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 330/83 della Commissione del 9 febbraio 1983 che modifica
+    il regolamento (CEE) n. 2742/82 recante misure di salvaguardia applicabili all'
+    importazione di uve secche
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 330/83 van de Commissie van 9 februari 1983 tot wijziging
+    van Verordening (EEG) nr. 2742/82 houdende beschermende maatregelen inzake de
+    invoer van gedroogde druiven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R0330
+docidentifier:
+- content: EU Regulation 330/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R0330
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/330/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-02-09'
+- type: implemented
+  at: '1983-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31982R2742
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

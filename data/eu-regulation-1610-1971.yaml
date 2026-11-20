@@ -1,0 +1,94 @@
+---
+id: EURegulation16101971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1610/71 of the Commission of 26 July 1971 amending
+    Regulation No 470/67/EEC as regards the corrective amounts and the basic processing
+    yield of certain qualities of rice
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1610/71 de la Commission, du 26 juillet 1971, modifiant
+    le règlement n° 470/67/CEE en ce qui concerne les montants correcteurs et le
+    rendement de base à l' usinage de certaines qualités de riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1610/71 der Kommission vom 26. Juli 1971 zur Änderung
+    der Verordnung Nr. 470/67/EWG bezüglich der Berichtigungsbeträge und der Grundausbeute
+    bei der Verarbeitung bestimmter Reisqualitäten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1610/71 af 26. juli 1971 om ændring
+    af forordning nr. 470/67/EØF med hensyn til korrektionsbeløbene og grundudbyttet
+    ved forarbejdning af visse riskvaliteter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1610/71 della Commissione, del 26 luglio 1971, che
+    modifica il regolamento n. 470/67/CEE per quanto riguarda gli importi correttori
+    e il rendimento di base alla lavorazione di talune qualità di riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1610/71 van de Commissie van 26 juli 1971 houdende
+    wijziging van Verordening nr. 470/67/EEG ten aanzien van de correctiebedragen
+    en het basisrendement bij de bewerking van bepaalde kwaliteiten rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1610
+docidentifier:
+- content: EU Regulation 1610/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1610
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1610/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-07-26'
+- type: implemented
+  at: '1971-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0470
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

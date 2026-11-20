@@ -1,0 +1,102 @@
+---
+id: EURegulation5901979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 590/79 of 26 March 1979 amending Regulation
+    No 136/66/EEC on the establishment of a common organization of the market in oils
+    and fats
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 590/79 du Conseil, du 26 mars 1979, modifiant le règlement
+    n° 136/66/CEE portant établissement d' une organisation commune des marchés
+    dans le secteur des matières grasses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 590/79 des Rates vom 26. März 1979 zur Änderung
+    der Verordnung Nr. 136/66/EWG über de Errichtung einer gemeinsamen Marktorganisation
+    für Fette
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 590/79 af 26. marts 1979 om ændring af forordning
+    nr. 136/66/EØF om oprettelse af en fælles markedsordning for fedtstoffer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 590/79 του Συμβουλίου
+    της 26ης Μαρτίου 1979 περί τροποποιήσεως του κανονισμού
+    αριθ. 136/66/ΕΟΚ «περί δημιουργίας κοινής οργανώσεως
+    αγοράς στον τομέα των λιπαρών ουσιών»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 590/79 del Consiglio, del 26 marzo 1979, che modifica
+    il regolamento n. 136/66/CEE relativo all' attuazione di un' organizzazione comune
+    dei mercati nel settore dei grassi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 590/79 van de Raad van 26 maart 1979 tot wijziging
+    van Verordening nr. 136/66/EEG houdende de totstandbrenging van een gemeenschappelijke
+    ordening van de markten in de sector oliën en vetten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0590
+docidentifier:
+- content: EU Regulation 590/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0590
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/590/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-26'
+- type: implemented
+  at: '1979-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0136
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

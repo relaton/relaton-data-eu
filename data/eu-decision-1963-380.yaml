@@ -1,0 +1,89 @@
+---
+id: EUDecision1963380
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '63/380/EEC: Council Decision of 18 June 1963 adapting the text of the
+    Common Customs Tariff to a change in the legal situation'
+  type: main
+- language: fr
+  script: Latn
+  content: '63/380/CEE: Décision du Conseil du 18 juin 1963, portant adaptation du
+    texte du Tarif douanier commun à une modification de la situation de droit'
+  type: main
+- language: de
+  script: Latn
+  content: '63/380/EWG: Entscheidung des Rats vom 18. Juni 1963 über die Anpassung
+    des Wortlauts des gemeinsamen Zolltarifs an eine Änderung der Rechtslage'
+  type: main
+- language: el
+  script: Grek
+  content: '63/380/EOK: Απόφαση του Συμβουλίου της 18ης Ιουνίου
+    1963 περί προσαρμογής του κειμένου του κοινού
+    δασμολογίου σε μία τροποποίηση της κατάστασης
+    του δικαίου'
+  type: main
+- language: it
+  script: Latn
+  content: '63/380/CEE: Decisione del Consiglio del 18 giugno 1963 che adatta il testo
+    della tariffa doganale comune a una modifica della situazione di diritto'
+  type: main
+- language: nl
+  script: Latn
+  content: '63/380/EEG: Beschikking van de Raad van 18 juni 1963 houdende aanpassing
+    van de tekst van het gemeenschappelijk douanetarief aan een wijziging in de rechtssituatie'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963D0380
+docidentifier:
+- content: EU Decision 1963/380
+  type: EU
+  primary: true
+- content: CELEX 31963D0380
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1963/380/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-06-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962D0011
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

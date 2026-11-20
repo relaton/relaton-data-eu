@@ -1,0 +1,90 @@
+---
+id: EURegulation5421968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 542/68 du Conseil du 30 avril 1968 modifiant le règlement
+    n° 215/66/CEE en ce qui concerne la fixation du prix franco frontière spécial
+    pour le lait en poudre destiné à l'alimentation du bétail
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 542/68 des Rates vom 30. April 1968 zur Änderung
+    der Verordnung Nr. 215/66/EWG hinsichtlich der Festsetzung des besonderen Preises
+    frei Grenze für Milchpulver für Futterzwecke
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) άριθ. 542/68 τού Συμβουλίου
+    τής 30ής Άπριλίου 1968 περί τροποποιήσεως τού
+    κανονισνού άριθ. 215/66/ΕΟΚ όσον άφορά τόν καθορισμό
+    είδικής τιμής «έλεύθερο στά σύνορα» γιά τό
+    γάλα είς κόνιν πού προοπίζεται γιά ζωοτροφές
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 542/68 del Consiglio, del 30 aprile 1968, che modifica
+    il regolamento n. 215/66/CEE per quanto riguarda la fissazione del prezzo franco
+    frontiera speciale per il latte in polvere destinato all'alimentazione del bestiame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 542/68 van de Raad van 30 april 1968 houdende wijziging
+    van Verordening nr. 215/66/EEG voor wat betreft de vaststelling van de bijzondere
+    prijs franco-grens voor melkpoeder voor voederdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0542
+docidentifier:
+- content: EU Regulation 542/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0542
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/542/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-30'
+- type: implemented
+  at: '1968-05-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0215
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

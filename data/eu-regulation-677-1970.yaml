@@ -1,0 +1,81 @@
+---
+id: EURegulation6771970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 677/70 du Conseil, du 14 avril 1970, modifiant le
+    règlement (CEE) n° 1586/69 relatif à certaines mesures relevant de la politique
+    de conjonctions à prendre dans le secteur agricole à la suite de la dévaluation
+    du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 677/70 des Rates vom 14. April 1970 zur Änderung
+    der Verordnung (EWG) Nr. 1586/69 über konjunkturpolitische Maßnahmen auf dem
+    Gebiet der Landwirtschaft infolge der Abwertung des französischen Franken
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 677/70 del Consiglio, del 14 aprile 1970, che modifica
+    il regolamento (CEE) n. 1586/69 relativo a talune misure di politica di congiuntura
+    da applicare nel settore agricolo in seguito alla svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 677/70 van de Raad van 14 april 1970 houdende wijziging
+    van Verordening (EEG) nr. 1586/69 betreffende ingevolge de devaluatie van de Franse
+    frank op landbouwgebied te nemen conjunctuurpolitieke maatregelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0677
+docidentifier:
+- content: EU Regulation 677/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0677
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/677/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-04-14'
+- type: implemented
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1586
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

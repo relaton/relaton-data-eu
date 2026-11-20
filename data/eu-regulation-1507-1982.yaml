@@ -1,0 +1,137 @@
+---
+id: EURegulation15071982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1507/82 of 14 June 1982 amending for the
+    second time Regulation (EEC) No 3011/79 fixing the coefficients for calculating
+    levies on derived poultrymeat products and amending Regulation (EEC) No 950/68
+    on the Common Customs Tariff
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1507/82 de la Commission, du 14 juin 1982, modifiant,
+    pour la deuxième fois, le règlement (CEE) n° 3011/79 portant fixation des coefficients
+    pour calculer les prélèvements pour les produits dérivés dans le secteur de
+    la viande de volaille, et modifiant le règlement (CEE) n° 950/68 relatif au
+    tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1507/82 der Kommission vom 14. Juni 1982 zur zweiten
+    Änderung der Verordnung (EWG) Nr. 3011/79 zur Festsetzung der Koeffizienten zur
+    Berechnung der Abschöpfungen für abgeleitete Erzeugnisse auf dem Geflügelfleischsektor
+    und zur Änderung der Verordnung (EWG) Nr. 950/68 über den Gemeinsamen Zolltarif
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1507/82 af 14. juni 1982 om anden ændring
+    af forordning (EØF) nr. 3011/79 om fastsættelse af koefficienter til beregning
+    af importafgifter for følgeprodukter inden for fjerkræsektoren, og om ændring
+    af forordning (EØF) nr. 950/68 om den fælles toldtarif
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 1507/82 τής Επιτροπής
+    τής 14ης Ιουνίου 1982 περί τής δευτέρας τροποποιήσεως
+    τού κανονισμού (EOK) αριθ. 3011/79 περί καθορισμού
+    τών συντελεστών γιά τόν υπολογισμό τών εισφορών
+    στά παράγωγα προϊόντα τού τομέα τού κρέατος
+    πουλερικών καί περί τροποποιήσεως τού κανονισμού
+    (EOK) αριθ. 950/68 περί τού Κοινού Δασμολογίου
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1507/82 della Commissione, del 14 giugno 1982, recante
+    seconda modifica del regolamento (CEE) n. 3011/79 che fissa i coefficienti per
+    il calcolo dei prelievi applicabili ai prodotti derivati nel settore del pollame
+    e che modifica il regolamento (CEE) n. 950/68 relativo alla tariffa doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1507/82 van de Commissie van 14 juni 1982 tot tweede
+    wijziging van Verordening (EEG) nr. 3011/79 houdende vaststelling van de coëfficiënten
+    voor de berekening van de heffingen voor afgeleide produkten in de sector slachtpluimvee,
+    en tot wijziging van Verordening (EEG) nr. 950/68 betreffende het gemeenschappelijk
+    douanetarief
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1507/82 da Comissão, de 14 de Junho de 1982, que
+    altera pela segunda vez o Regulamento (CEE) n.° 3011/79 que estabelece a fixação
+    dos coeficientes para o cálculo dos direitos niveladores para os produtos derivados
+    no sector da carne de aves de capoeira e que altera o Regulamento (CEE) n.° 950/68
+    relativo à pauta aduaneira comum
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1507/82 de la Comisión, de 14 de junio de 1982, por
+    el que se modifica, por segunda vez, el Reglamento (CEE) n° 3011/79 sobre fijación
+    de los coeficientes para calcular las exacciones reguladoras para los productos
+    derivados en el sector de la carne de aves de corral, y por el que se modifica
+    el Reglamento (CEE) n° 950/68 relativo al arancel aduanero común
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R1507
+docidentifier:
+- content: EU Regulation 1507/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R1507
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/1507/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-06-14'
+- type: implemented
+  at: '1982-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R3011
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31981R3300
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

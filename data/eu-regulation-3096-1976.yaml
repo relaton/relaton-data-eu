@@ -1,0 +1,93 @@
+---
+id: EURegulation30961976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 3096/76 of 17 December 1976 repealing Regulation
+    (EEC) No 2107/74 laying down protective measures applicable to imports of preserved
+    mushrooms
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3096/76 de la Commission, du 17 décembre 1976, abrogeant
+    le règlement (CEE) n° 2107/74 arrêtant les mesures de sauvegarde applicables
+    à l'importation des conserves de champignons
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3096/76 der Kommission vom 17. Dezember 1976 zur Aufhebung
+    der Verordnung (EWG) Nr. 2107/74 über Schutzmaßnahmen bei der Einfuhr von Pilzkonserven
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3096/76 af 17. december 1976 om ophævelse
+    af forordning (EØF) nr. 2107/74 om fastsættelse af beskyttelsesforanstaltninger
+    ved import af svampekonserves
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3096/76 della Commissione, del 17 dicembre 1976, recante
+    abrogazione del regolamento (CEE) n. 2107/74 che stabilisce le misure di salvaguardia
+    applicabili all'importazione di conserve di funghi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3096/76 van de Commissie van 17 december 1976 houdende
+    intrekking van Verordening (EEG) nr. 2107/74 tot vaststelling van vrijwaringsmaatregelen
+    voor de invoer van champignonconserven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R3096
+docidentifier:
+- content: EU Regulation 3096/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R3096
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/3096/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-17'
+- type: implemented
+  at: '1976-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2107
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

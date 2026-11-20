@@ -1,0 +1,81 @@
+---
+id: EURegulation5191970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 519/70 du Conseil, du 17 mars 1970, relatif au régime
+    applicable aux produits transformés à base de fruits et légumes, originaires
+    des États africains et malgache associés ou des pays et territoires d'outre-mer
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 519/70 des Rates vom 17. März 1970 über die Regelung
+    für Verarbeitungserzeugnisse aus Obst und Gemüse mit Ursprung in den assoziierten
+    afrikanischen Staaten und Madagaskar oder den überseeischen Ländern und Gebieten
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 519/70 del Consiglio, del 17 marzo 1970, relativo
+    al regime applicabile ai prodotti trasformati a base di ortofrutticoli originari
+    degli Stati africani e malgascio associati o dei paesi e territori d'oltremare
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 519/70 van de Raad van 17 maart 1970 betreffende
+    de regeling voor op basis van groenten en fruit verwerkte produkten van oorsprong
+    uit de geassocieerde Afrikaanse Staten en Madagaskar of de landen en gebieden
+    overzee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0519
+docidentifier:
+- content: EU Regulation 519/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0519
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/519/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-03-17'
+- type: implemented
+  at: '1970-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0866
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

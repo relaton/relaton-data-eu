@@ -1,0 +1,140 @@
+---
+id: EURegulation4271977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 427/77 of 14 February 1977 adapting Regulations
+    (EEC) No 885/68 and (EEC) No 1302/73 to the changes made in the common organization
+    of the market in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 427/77 du Conseil, du 14 février 1977, adaptant les
+    règlements (CEE) n° 885/68 et (CEE) n° 1302/73 suite à la modification du
+    régime de l' organisation commune des marchés dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 427/77 des Rates vom 14. Februar 1977 zur Anpassung
+    der Verordnungen (EWG) Nr. 885/68 und Nr. 1302/73 infolge der Änderung der gemeinsamen
+    Marktorganisation für Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 427/77 af 14. februar 1977 om tilpasning
+    af forordning (EØF) nr. 885/68 og (EØF) nr. 1302/73 som følge af ændring af
+    den fælles markedsordning for oksekød
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 427/77 του Συμβουλίου
+    της 14ης Φεβρουαρίου 1977 περί προσαρμογής των
+    κανονισμών (ΕΟΚ) αριθ. 885/68 και (ΕΟΚ) αριθ. 1302/73
+    κατόπιν της τροποποιήσεως του καθεστώτος της
+    κοινής οργανώσεως αγοράς στον τομέα του βοείου
+    κρέατος
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 427/77 annettu 14 päivänä helmikuuta 1977
+    asetusten (ETY) N:o 885/68 ja (ETY) N:o 1302/73 mukauttamisesta naudanliha-alan
+    yhteistä markkinajärjestelyä koskevan muutoksen vuoksi
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 427/77 del Consiglio, del 14 febbraio 1977, che adatta
+    i regolamenti (CEE) n. 885/68 e (CEE) n. 1302/73 in seguito alla modifica del
+    regime dell' organizzazione comune dei mercati nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 427/77 van de Raad van 14 februari 1977 tot aanpassing
+    van de Verordeningen (EEG) nr. 885/68 en (EEG) nr. 1302/73 in verband met de wijziging
+    van de gemeenschappelijke ordening der markten in de sector rundvlees
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 427/77 do Conselho, de 14 de Fevereiro de 1977,
+    que adapta os Regulamentos (CEE) n.° 885/68 e (CEE) n.° 1302/73 na sequência
+    da alteração do regime da organização comum de mercado no sector de carne
+    de bovino
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 427/77 del Consejo, de 14 de febrero de 1977, por
+    el que se adaptan los Reglamentos (CEE) n° 885/68 y (CEE) n° 1302/73 a consecuencia
+    de la modificación del régimen de la organizacion común de mercados en el sector
+    de la carne de bovina
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 427/77 av den 14 februari 1977 om anpassning
+    av förordningarna (EEG) nr 885/68 och (EEG) nr 1302/73 till de ändringar som
+    gjorts av den gemensamma organisationen av marknaden för nötkött
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0427
+docidentifier:
+- content: EU Regulation 427/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0427
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/427/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-02-14'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0885
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1302
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

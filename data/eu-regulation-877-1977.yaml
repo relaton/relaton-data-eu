@@ -1,0 +1,98 @@
+---
+id: EURegulation8771977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 877/77 of 26 April 1977 amending Regulation
+    (EEC) No 1807/76 on the granting of special aid for liquid skimmed milk for use
+    as feedingstuffs for certain animals in regions affected by drought
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 877/77 du Conseil, du 26 avril 1977, modifiant le
+    règlement (CEE) n° 1807/76 concernant l'octroi d'une aide spéciale pour le
+    lait écrémé liquide destiné à l'alimentation de certains animaux dans les
+    régions affectées par la sécheresse
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 877/77 des Rates vom 26. April 1977 zur Änderung
+    der Verordnung (EWG) Nr. 1807/76 über die Gewährung einer Sonderbeihilfe für
+    Magermilch zur Fütterung bestimmter Vieharten in den von der Trockenheit betroffenen
+    Gebieten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 877/77 af 26. april 1977 om ændring af forordning
+    (EØF) nr. 1807/76 om ydelse af en særlig støtte til skummetmælk til foder
+    til visse dyr i tørkeramte områder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 877/77 del Consiglio, del 26 aprile 1977, che modifica
+    il regolamento (CEE) n. 1807/76 relativo alla concessione di un aiuto speciale
+    per il latte scremato liquido destinato all'alimentazione di taluni animali nelle
+    regioni colpite dalla siccità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 877/77 van de Raad van 26 april 1977 tot wijziging
+    van Verordening (EEG) nr. 1807/76 betreffende de toekenning van speciale steun
+    voor ondermelk voor het voederen van bepaalde dieren in door de droogte getroffen
+    gebieden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0877
+docidentifier:
+- content: EU Regulation 877/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0877
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/877/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-04-26'
+- type: implemented
+  at: '1977-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1807
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,76 @@
+---
+id: EURegulation901965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 90/65/CEE du Conseil, du 29 juin 1965, portant fixation,
+    dans le cas prévu à l'article 3 paragraphe 2 du règlement n° 22 du Conseil,
+    du montant des prélèvements intracommunautaires applicables aux poules, poulets
+    et dindes abattus
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 90/65/EWG des Rates vom 29. Juni 1965 über die Festsetzung
+    der innergemeinschaftlichen Abschöpfungsbeträge für geschlachtete Hühner und
+    Truthühner in dem Fall des Artikels 3 Absatz (2) der Verordnung Nr. 22 des Rates
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 90/65/CEE del Consiglio, del 29 giugno 1965, relativo alla
+    determinazione, nel caso previsto dall'articolo 3, paragrafo 2, del regolamento
+    n. 22 del Consiglio, dell'ammontare dei prelievi intracomunitari applicabili alle
+    galline, ai polli e ai tacchini macellati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 90/65/EEG van de Raad van 29 juni 1965 houdende vaststelling
+    van het bedrag van de intracommunautaire heffingen voor geslachte kippen, kuikens
+    en kalkoenen in het geval, voorzien in artikel 3, lid 2, van Verordening Nr. 22
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0090
+docidentifier:
+- content: EU Regulation 90/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0090
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/90/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-29'
+- type: implemented
+  at: '1965-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

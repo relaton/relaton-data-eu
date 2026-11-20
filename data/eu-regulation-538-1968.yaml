@@ -1,0 +1,97 @@
+---
+id: EURegulation5381968
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 538/68 of the Council of 29 April 1968 amending Regulation
+    No 131/67/EEC as regards the transport costs taken for the calculation of derived
+    intervention prices for cereals
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 538/68 du Conseil, du 29 avril 1968, modifiant le
+    règlement n° 131/67/CEE en ce qui concerne les frais de transport pris en considération
+    pour la détermination des prix d' intervention dérivés dans le secteur des
+    céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 538/68 des Rates vom 29. April 1968 zur Änderung
+    der Verordnung Nr. 131/67/EWG hinsichtlich der bei der Bestimmung der abgeleiteten
+    Interventionspreise für Getreide zu berücksichtigenden Transportkosten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 538/68 af 29. april 1968 om ændring af forordning
+    nr. 131/67/EØF for så vidt angår de transportomkostninger, der skal tages i
+    betragtning ved bestemmelsen af de afledte interventionspriser for korn
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 538/68 del Consiglio, del 29 aprile 1968, che modifica
+    il regolamento n. 131/67/CEE per quanto riguarda le spese di trasporto prese in
+    considerazione per la determinazione dei prezzi d' intervento derivati nel settore
+    dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 538/68 van de Raad van 29 april 1968 houdende wijziging
+    van Verordening nr. 131/67/EEG voor wat betreft de vervoerkosten waarmede rekening
+    wordt gehouden bij de vaststelling van de afgeleide interventieprijzen in de sector
+    granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0538
+docidentifier:
+- content: EU Regulation 538/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0538
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/538/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-29'
+- type: implemented
+  at: '1968-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0131
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

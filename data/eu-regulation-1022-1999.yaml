@@ -1,0 +1,138 @@
+---
+id: EURegulation10221999
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EC) No 1022/1999 of 18 May 1999 amending Regulations
+    (EC) No 1123/98 and (EC) No 1641/98 opening standing invitations to tender for
+    the export of rye held by certain intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CE) n° 1022/1999 de la Commission, du 18 mai 1999, modifiant
+    les règlements (CE) n° 1123/98 et (CE) n° 1641/98 relatifs à l'ouverture d'adjudications
+    permanentes pour l'exportation de seigle, détenu par certains organismes d'intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EG) Nr. 1022/1999 der Kommission vom 18. Mai 1999 zur Änderung
+    der Verordnungen (EG) Nr. 1123/98 und (EG) Nr. 1641/98 zur Eröffnung von Dauerausschreibungen
+    zur Ausfuhr von Roggen aus Beständen bestimmter Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EF) nr. 1022/1999 af 18. maj 1999 om ændring
+    af forordning (EF) nr. 1123/98 og (EF) nr. 1641/98 om åbning af løbende licitationer
+    med henblik på eksport af rug, som er i visse interventionsorganers besiddelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΚ) αριθ. 1022/1999 της Επιτροπής,
+    της 18ης Μαΐου 1999, για την τροποποίηση των κανονισμών
+    (ΕΚ) αριθ. 1123/98 και (ΕΚ) αριθ. 1641/98 για την έναρξη
+    διαρκούς διαγωνισμού για την εξαγωγή σίκαλης,
+    που κατέχουν ορισμένοι οργανισμοί παρέμβασης
+  type: main
+- language: fi
+  script: Latn
+  content: Komission asetus (EY) N:o 1022/1999, annettu 18 päivänä toukokuuta 1999,
+    eräiden interventioelinten hallussa olevan rukiin vientiä koskevien pysyvien
+    tarjouskilpailujen avaamisesta annettujen asetusten (EY) N:o 1123/98 ja (EY) N:o
+    1641/98 muuttamisesta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CE) n. 1022/1999 della Commissione, del 18 maggio 1999, che
+    modifica i regolamenti (CE) n. 1123/98 e (CE) n. 1641/98 relativi all'apertura
+    di gare permanenti per l'esportazione di segala detenuta da taluni organismi d'intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EG) nr. 1022/1999 van de Commissie van 18 mei 1999 tot wijziging
+    van de Verordeningen (EG) nr. 1123/98 en (EG) nr. 1641/98 inzake de opening van
+    permanente openbare inschrijvingen voor de uitvoer van rogge die in het bezit
+    is van een aantal interventiebureaus
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CE) n° 1022/1999 da Comissão, de 18 de Maio de 1999, que
+    altera os Regulamentos (CE) n° 1123/98 e (CE) n° 1641/98 relativos à abertura
+    de concursos permanentes para a exportação de centeio detida por determinados
+    organismos de intervenção
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CE) n° 1022/1999 de la Comisión, de 18 de mayo de 1999, por
+    el que se modifican los Reglamentos (CE) nos 1123/98 y 1641/98 relativos a la
+    apertura de licitaciones permanentes para la exportación de centeno en poder
+    de determinados organismos de intervención
+  type: main
+- language: sv
+  script: Latn
+  content: Kommissionens förordning (EG) nr 1022/1999 av den 18 maj 1999 om ändring
+    av förordningarna (EG) nr 1123/98 och (EG) nr 1641/98 om inledandet av stående
+    anbudsinfordringar för export av råg som innehas av vissa interventionsorgan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999R1022
+docidentifier:
+- content: EU Regulation 1022/1999
+  type: EU
+  primary: true
+- content: CELEX 31999R1022
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1999/1022/oj
+  type: ELI
+date:
+- type: issued
+  at: '1999-05-18'
+- type: implemented
+  at: '1999-05-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31998R1123
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31998R1641
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation3841967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 384/67/CEE de la Commission, du 28 juillet 1967, fixant les
+    prélèvements applicables à l'importation des produits transformés à base
+    de céréales, y compris les aliments composés à base de céréales pour les
+    animaux
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 384/67/EWG der Kommission vom 28. Juli 1967 über die Festsetzung
+    der auf die Einfuhren von Getreideverarbeitungserzeugnissen einschlieDlich Getreide-Mischfuttermittel
+    anzuwendenden Abschöpfungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 384/67/CEE della Commissione, del 28 luglio 1967, che fissa
+    i prelievi applicabili all'importazione dei prodotti trasformati a base di cereali,
+    compresi gli alimenti composti a base di cereali per gli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 384/67/EEG van de Commissie van 28 juli 1967 houdende vaststelling
+    van de heffingen bij invoer van de op basis van granen verwerkte produkten, met
+    inbegrip van mengvoeders op basis van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0384
+docidentifier:
+- content: EU Regulation 384/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0384
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/384/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

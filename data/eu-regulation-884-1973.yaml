@@ -1,0 +1,93 @@
+---
+id: EURegulation8841973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 884/73 of the Council of 27 March 1973 amending Regulation
+    (EEC) No 922/72 concerning the general rules for granting aid in respect of silkworms
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 884/73 du Conseil, du 27 mars 1973, modifiant le règlement
+    (CEE) n° 922/72 concernant les règles générales d' octroi de l' aide pour
+    les vers à soie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 884/73 des Rates vom 27. März 1973 zur Änderung
+    der Verordnung (EWG) Nr. 922/72 über die Grundregeln für die Gewährung der
+    Beihilfe für Seidenraupen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 884/73 af 27. marts 1973 om ændring af forordning
+    (EØF) nr. 922/72 om de almindelige regler for ydelse af støtte med hensyn til
+    silkeormlarver
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 884/73 del Consiglio, del 27 marzo 1973, che modifica
+    il regolamento (CEE) n. 922/72 relativo alle norme generali di concessione dell'
+    aiuto per i bachi da seta
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 884/73 van de Raad van 27 maart 1973 tot wijziging
+    van Verordening (EEG) nr. 922/72 betreffende de algemene voorschriften voor het
+    verlenen van steun voor zijderupsen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0884
+docidentifier:
+- content: EU Regulation 884/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0884
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/884/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-03-27'
+- type: implemented
+  at: '1973-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0922
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,74 @@
+---
+id: EURegulation12241970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1224/70 du Conseil, du 29 juin 1970, fixant les aides
+    accordées pour le lait écrémé et le lait écrémé en poudre destinés à
+    l'alimentation des animaux valables pour la campagne laitière 1970/1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1224/70 des Rates vom 29. Juni 1970 zur Festsetzung
+    der im Milchwirtschaftsjahr 1970/1971 gültigen Beihilfen für Magermilch und
+    Magermilchpulver, die für Futterzwecke verwendet werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1224/70 del Consiglio, del 29 giugno 1970, che fissa
+    per la campagna lattiera 1970/1971 gli aiuti concessi per il latte scremato e
+    il latte scremato in polvere utilizzati nell'alimentazione degli animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1224/70 van de Raad van 29 juni 1970 houdende vaststelling,
+    voor het melkprijsjaar 1970/1971, van de steun voor ondermelk en magere- melkpoeder,
+    die bestemd zijn voor voederdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1224
+docidentifier:
+- content: EU Regulation 1224/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1224
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1224/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

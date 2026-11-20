@@ -1,0 +1,97 @@
+---
+id: EURegulation19251978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1925/78 of 25 July 1978 amending Regulation
+    (EEC) No 2636/77 on the opening, allocation and administration of a Community
+    tariff quota for certain hand-made products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1925/78 du Conseil, du 25 juillet 1978, modifiant
+    le règlement (CEE) n° 2636/77 portant ouverture, répartition et mode de gestion
+    d'un contingent tarifaire communautaire concernant certains produits faits à
+    la main
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1925/78 des Rates vom 25. Juli 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2636/77 über die Eröffnung, Aufteilung und Verwaltung
+    eines Gemeinschaftszollkontingents für bestimmte handgearbeitete Waren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1925/78 af 25. juli 1978 om ændring af forordning
+    (EØF) nr. 2636/77 om åbning, fordeling og forvaltning af et fællesskabstoldkontingent
+    for visse varer fremstillet i hånden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1925/78 del Consiglio, del 25 luglio 1978, che modifica
+    il regolamento (CEE) n. 2636/77 recante apertura, ripartizione e modalità di
+    gestione di un contingente tariffario comunitario per alcuni prodotti fatti a
+    mano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1925/78 van de Raad van 25 juli 1978 tot wijziging
+    van Verordening (EEG) nr. 2636/77 betreffende de opening, de verdeling en de wijze
+    van beheer van een communautair tariefcontingent voor bepaalde met de hand vervaardigde
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R1925
+docidentifier:
+- content: EU Regulation 1925/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R1925
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/1925/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-07-25'
+- type: implemented
+  at: '1978-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2636
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

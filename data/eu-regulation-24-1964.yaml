@@ -1,0 +1,89 @@
+---
+id: EURegulation241964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 24/64/CEE du Conseil, du 10 mars 1964, portant modification
+    de l'article 13 du règlement n° 3 et de l'article 11 du règlement n° 4 (législation
+    applicable aux travailleurs détachés et aux travailleurs exerçant normalement
+    leur activité dans plusieurs pays)
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 24/64/EWG des Rats vom 10. März 1964 zur Änderung des
+    Artikels 13 der Verordnung Nr. 3 und des Artikels 11 der Verordnung Nr. 4 (Rechtsvorschriften,
+    die auf entsandte Arbeitnehmer sowie auf Arbeitnehmer anzuwenden sind, die ihre
+    Berufstätigkeit gewöhnlich in mehreren Mitgliedstaaten ausüben)
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 24/64/CEE del Consiglio, del 10 marzo 1964, che modifica
+    l'articolo 13 del regolamento n. 3 e l'articolo 11 del regolamento n. 4 (legislazione
+    applicabile ai lavoratori distaccati ed ai lavoratori che svolgono normalmente
+    la loro attività in più paesi)
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 24/64/EEG van de Raad van 10 maart 1964 tot wijziging van
+    artikel 13 van Verordening Nr. 3 en van artikel 11 van Verordening Nr. 4 (wetgeving
+    die van toepassing is op uitgezonden werknemers en werknemers die in de regel
+    werkzaam zijn in verscheidene landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0024
+docidentifier:
+- content: EU Regulation 24/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0024
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/24/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-03-10'
+- type: implemented
+  at: '1964-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0003
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31958R0004
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

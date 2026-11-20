@@ -1,0 +1,89 @@
+---
+id: EURegulation25721969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2572/69 de la Commission, du 22 décembre 1969, abrogeant
+    le règlement (CEE) n° 2185/69 ainsi que l'article 5 du règlement (CEE) n°
+    1666/69 concernant la constatation des prix des veaux et des gros bovins dans
+    la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2572/69 der Kommission vom 22. Dezember 1969 zur Aufhebung
+    der Verordnung (EWG) Nr. 2185/69 sowie zur Aufhebung des Artikels 5 der Verordnung
+    (EWG) Nr. 1666/69 über die Feststellung der Preise für Kälber und ausgewachsene
+    Rinder in der Gemeinschaft
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2572/69 della Commissione, del 22 dicembre 1969, che
+    abroga il regolamento (CEE) n. 2185/69 nonché l'articolo 5 del regolamento (CEE)
+    n. 1666/69 per quanto riguarda la constatazione dei prezzi dei vitelli e dei bovini
+    adulti nella Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2572/69 van de Commissie van 22 december 1969 houdende
+    intrekking van Verordening (EEG) nr. 2185/69, evenals van artikel 5 van Verordening
+    (EEG) nr. 1666/69 met betrekking tot de constatering der prijzen voor kalveren
+    en voor volwassen runderen in de Gemeenschap
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2572
+docidentifier:
+- content: EU Regulation 2572/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2572
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2572/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-22'
+- type: implemented
+  at: '1970-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R2185
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1666
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

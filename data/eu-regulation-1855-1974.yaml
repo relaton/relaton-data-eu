@@ -1,0 +1,138 @@
+---
+id: EURegulation18551974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1855/74 of the Council of 16 July 1974 supplementing
+    Regulation (EEC) No 805/68 as regards measures to be taken in the case of a substantial
+    fall in prices for beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1855/74 du Conseil, du 16 juillet 1974, complétant
+    le règlement (CEE) n° 805/68 en ce qui concerne les mesures à prendre en cas
+    de baisse sensible des prix dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1855/74 des Rates vom 16. Juli 1974 zur Ergänzung
+    der Verordnung (EWG) Nr. 805/68 hinsichtlich der bei einem erheblichen Preisrückgang
+    auf dem Rindfleischsektor zu ergreifenden Maßnahmen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1855/74 af 16. juli 1974 om tillæg til forordning
+    (EØF) nr. 805/68 for så vidt angår de foranstaltninger, der skal træffes i
+    tilfælde af en væsentlig nedgang i priserne inden for oksekødsektoren
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1855/74 του Συμβουλίου
+    της 16ης Ιουλίου 1974 περί συμπληρώσεως του κανονισμού
+    (ΕΟΚ) αριθ. 805/68 όσον αφορά τα μέτρα που πρέπει
+    να ληφθούν σε περίπτωση αισθητής πτώσεως των
+    τιμών στον τομέα του βοείου κρέατος
+  type: main
+- language: fi
+  script: Latn
+  content: Neuvoston asetus (ETY) N:o 1855/74, annettu 16 päivänä heinäkuuta 1974,
+    asetuksen (ETY) N:o 805/68 täydentämisestä huomattavan hintojen laskun johdosta
+    naudanliha-alalla toteutettavien toimenpiteiden osalta
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1855/74 del Consiglio, del 16 luglio 1974, che completa
+    il regolamento (CEE) n. 805/68 per quanto riguarda le misure da adottare in caso
+    di una diminuzione notevole dei prezzi nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1855/74 van de Raad van 16 juli 1974 houdende aanvulling
+    van Verordening (EEG) nr. 805/68 voor wat de maatregelen betreft die moeten worden
+    getroffen in geval van een aanmerkelijke prijsdaling in de sector rundvlees
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) nº 1855/74 do Conselho, de 16 de Julho de 1974, que
+    completa o Regulamento (CEE) nº 805/68 no que respeita às medidas a tomar no
+    caso de uma baixa sensível dos preços no sector da carne de bovino
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1855/74 del Consejo, del 16 de julio de 1974, por
+    el que se completa el Reglamento (CEE) n° 805/68 en lo que se refiere a las medidas
+    que deberán tomarse en caso de sensible baja de los precios en el sector de la
+    carne de bovino
+  type: main
+- language: sv
+  script: Latn
+  content: Rådets förordning (EEG) nr 1855/74 av den 16 juli 1974 om tillägg till
+    förordning (EEG) nr 805/68 vad avser åtgärder som skall vidtas vid väsentliga
+    prisfall för nötkött
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1855
+docidentifier:
+- content: EU Regulation 1855/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1855
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1855/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-16'
+- type: implemented
+  at: '1974-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0805
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0805
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

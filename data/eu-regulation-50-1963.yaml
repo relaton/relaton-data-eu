@@ -1,0 +1,80 @@
+---
+id: EURegulation501963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 50/63/CEE du Conseil du 21 juin 1963 portant prorogation
+    et adaptation de certaines dispositions relatives à la restitution à la production
+    pour les amidons et fécules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 50/63/EWG des Rats vom 21. Juni 1963 zur Verlängerung und
+    Anpassung einiger Bestimmungen über die Erstattung bei der Erzeugung von Getreide-
+    und Kartoffelstärke
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 50/63/CEE del Consiglio del 21 giugno 1963 che proroga ed
+    adatta alcune disposizioni relative alla restituzione alla produzione per gli
+    amidi e le fecole
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 50/63/EEG van de Raad van 21 juni 1963 houdende verlenging
+    en aanpassing van enkele bepalingen inzake de restitutie bij de produktie voor
+    zetmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0050
+docidentifier:
+- content: EU Regulation 50/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0050
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/50/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-06-21'
+- type: implemented
+  at: '1963-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0055
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

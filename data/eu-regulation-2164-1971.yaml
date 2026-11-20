@@ -1,0 +1,100 @@
+---
+id: EURegulation21641971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2164/71 of the Commission of 8 October 1971 amending
+    Regulation (EEC) No 258/71 and reopening the standing invitation to tender relating
+    to the exportation of raw beet sugar provided for in that Regulation
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2164/71 de la Commission, du 8 octobre 1971, modifiant
+    le règlement (CEE) n° 258/71 et portant réouverture de l' adjudication permanente
+    en matière d' exportation de sucre brut de betterave visée audit règlement
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2164/71 der Kommission vom 8. Oktober 1971 zur Änderung
+    der Verordnung (EWG) Nr. 258/71 und zur Wiedereröffnung der dort vorgesehenen
+    Dauerausschreibung zur Ausfuhr von Rübenrohzucker
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2164/71 af 8. oktober 1971 om ændring
+    af forordning (EØF) nr. 258/71 og om genåbning af den i denne forordning med
+    henblik på udførsel af roeråsukker omhandlede løbende licitation
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2164/71 della Commissione, dell' 8 ottobre 1971, che
+    modifica il regolamento (CEE) n. 258/71 e relativo alla riapertura della gara
+    permanente in materia di esportazione di zucchero greggio di barbabietole di cui
+    al regolamento stesso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2164/71 van de Commissie van 8 oktober 1971 tot wijziging
+    van Verordening (EEG) nr. 258/71 en heropening van de bedoelde permanente openbare
+    inschrijving voor de uitvoer van ruwe beetwortelsuiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2164
+docidentifier:
+- content: EU Regulation 2164/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2164
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2164/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-10-08'
+- type: implemented
+  at: '1971-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0632
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0258
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

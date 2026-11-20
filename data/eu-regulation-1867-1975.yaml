@@ -1,0 +1,98 @@
+---
+id: EURegulation18671975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1867/75 of the Commission of 18 July 1975 amending
+    for the fifth time Regulation (EEC) No 320/73 on the determination of prices of
+    calves and adult bovine animals on representative Community markets
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1867/75 de la Commission, du 18 juillet 1975, portant
+    cinquième modification du règlement (CEE) n° 320/73 relatif à la détermination
+    des prix des veaux et des gros bovins constatés sur les marchés représentatifs
+    de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1867/75 der Kommission vom 18. Juli 1975 zur fünften
+    Änderung der Verordnung (EWG) Nr. 320/73 über die Bestimmung der auf den repräsentativen
+    Märkten der Gemeinschaft festgestellten Preise für Kälber und für ausgewachsene
+    Rinder
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1867/75 af 18. juli 1975 om femte ændring
+    af forordning (EØF) nr. 320/73 om bestemmelse af priserne for kalve og voksent
+    kvæg, der konstateres på Fællesskabets repræsentative markeder
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1867/75 della Commissione, del 18 luglio 1975, recante
+    quinta modifica del regolamento (CEE) n. 320/73, relativo alla determinazione
+    dei prezzi dei vitelli e dei bovini adulti constatati sui mercati rappresentativi
+    della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1867/75 van de Commissie van 18 juli 1975 houdende
+    vijfde wijziging van Verordening (EEG) nr. 320/73 betreffende de vaststelling
+    van de op de representatieve markten van de Gemeenschap geconstateerde prijzen
+    voor kalveren en voor volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1867
+docidentifier:
+- content: EU Regulation 1867/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1867
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1867/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-07-18'
+- type: implemented
+  at: '1975-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

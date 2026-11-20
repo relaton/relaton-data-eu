@@ -1,0 +1,86 @@
+---
+id: EURegulation561963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 56/63/CEE du Conseil du 21 juin 1963 portant dérogation
+    à certaines dispositions des règlements n° 20, 21 et 22 du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 56/63/EWG des Rats vom 21. Juni 1963 über Maßnahmen, die
+    von einzelnen Bestimmungen der Verordnungen Nr. 20, 21 und 22 des Rats abweichen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 56/63/CEE del Consiglio del 21 giugno 1963 relativo ad una
+    deroga a talune disposizioni dei regolamenti n. 20, 21 e 22 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 56/63/EEG van de Raad van 21 juni 1963 houdende afwijking
+    van enkele bepalingen van de Verordeningen Nrs. 20, 21 en 22 van de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0056
+docidentifier:
+- content: EU Regulation 56/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0056
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/56/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-06-21'
+- type: implemented
+  at: '1963-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0020
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0021
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0022
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation23721978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2372/78 of 10 October 1978 amending Regulation
+    (EEC) No 2898/77 maintaining in force the rules whereby imports into Italy of
+    electric filament lamps originating in certain European State-trading countries
+    are subject to import authorizations
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2372/78 du Conseil, du 10 octobre 1978, modifiant
+    le règlement (CEE) n° 2898/77 portant maintien du régime d' autorisation d'
+    importation en Italie de lampes à incandescence originaires de certains pays
+    européens à commerce d' État
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2372/78 des Rates vom 10. Oktober 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2898/77 zur Aufrechterhaltung der Genehmigungspflicht
+    für die Einfuhr von Glühlampen mit Ursprung in verschiedenen europäischen Staatshandelsländern
+    nach Italien
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2372/78 af 10. oktober 1978 om ændring af
+    forordning (EØF) nr. 2898/77 om opretholdelse af bevillingsordningen for indførsel
+    til Italien af glødelamper med oprindelse i visse europæiske statshandelslande
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2372/78 del Consiglio, del 10 ottobre 1978, che modifica
+    il regolamento (CEE) n. 2898/77 che mantiene in vigore il regime che sottopone
+    ad autorizzazione le importazioni in Italia di lampade a incandescenza originarie
+    di alcuni paesi europei a commercio di Stato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2372/78 van de Raad van 10 oktober 1978 tot wijziging
+    van Verordening (EEG) nr. 2898/77 houdende handhaving van het vergunningenstelsel
+    voor de invoer in Italië van gloeilampen van oorsprong uit sommige Europese landen
+    met staatshandel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R2372
+docidentifier:
+- content: EU Regulation 2372/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R2372
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/2372/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-10-10'
+- type: implemented
+  at: '1978-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R2898
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

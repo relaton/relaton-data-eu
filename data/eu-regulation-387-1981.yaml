@@ -1,0 +1,100 @@
+---
+id: EURegulation3871981
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 387/81 of 10 February 1981 amending Regulation
+    (EEC) No 1111/77 laying down common provisions for isoglucose
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 387/81 du Conseil, du 10 février 1981, modifiant
+    le règlement (CEE) n° 1111/77 établissant des dispositions communes pour I'
+    isoglucose
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 387/81 des Rates vom 10. Februar 1981 zur Änderung
+    der Verordnung (EWG) Nr. 1111/77 zur Einführung gemeinsamer Vorschriften für
+    Isoglukose
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 387/81 af 10. februar 1981 om ændring af
+    forordning (EØF) nr. 1111/77 om indførelse af fælles bestemmelser for isoglucose
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 387/81 τού Συμβουλίου
+    τής 10ης Φεβρουαρίου 1981 περί τροποποιήσεως
+    τού κανονισμού (ΕΟΚ) αριθ. 1111/77 «περί θεσπίσεως
+    κοινών διατάξεων γιά τήν ισογλυκόζη»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 387/81 del Consiglio, del 10 febbraio 1981, che modifica
+    il regolamento (CEE) n. 1111/77 che stabilisce disposizioni comuni per l' isoglucosio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 387/81 van de Raad van 10 februari 1981 houdende
+    wijziging van Verordening (EEG) nr. 1111/77 tot vaststelling van de gemeenschappelijke
+    bepalingen voor isoglucose
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981R0387
+docidentifier:
+- content: EU Regulation 387/1981
+  type: EU
+  primary: true
+- content: CELEX 31981R0387
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1981/387/oj
+  type: ELI
+date:
+- type: issued
+  at: '1981-02-10'
+- type: implemented
+  at: '1979-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1111
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

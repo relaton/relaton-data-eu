@@ -1,0 +1,113 @@
+---
+id: EURegulation18981976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1898/76 of 29 July 1976 amending Regulations
+    (EEC) No 2036/74, (EEC) No 2073/74 and (EEC) No 2320/74 as regards the selling
+    prices for certain beef held by the intervention agencies and bringing forward
+    the qualifying date for the sale of certain meat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1898/76 de la Commission, du 29 juillet 1976, modifiant
+    les règlements (CEE) n°s 2036/74, 2073/74 et 2320/74 en ce qui concerne les
+    prix de vente de certaines viandes bovines détenues par les organismes d' intervention
+    et reportant à une date ultérieure la prise en charge de certaines viandes mises
+    en vente
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1898/76 der Kommission vom 29. Juli 1976 zur Änderung
+    der Verordnungen (EWG) Nr. 2036/74, Nr. 2073/74 und Nr. 2320/74 hinsichtlich der
+    Verkaufspreise von bestimmtem Rindfleisch im Besitz der Interventionsstellen und
+    des Übernahmetermins für bestimmtes zum Verkauf angebotenes Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1898/76 af 29. juli 1976 om ændring
+    af forordning (EØF) nr. 2036/74, 2073/74 og 2320/74 for så vidt angår salgspriserne
+    for visse former for oksekød, som interventionsorganerne ligger inde med og om
+    forlængelse af fristen for overtagelse af visse former for kød, der udbydet
+    til salg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1898/76 della Commissione, del 29 luglio 1976, che
+    modifica i regolamenti, (CEE) n. 2036/74, (CEE) n. 2073/74 e (CEE) n. 2320/74
+    per quanto riguarda i prezzi di vendita di talune carni bovine detenute dagli
+    organismi d' intervento e che proroga la data di presa in consegna di talune carni
+    messe in vendita
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1898/76 van de Commissie van 29 juli 1976 tot wijziging
+    van de Verordeningen (EEG) nr. 2036/74, 2073/74 en 2320/74 ten aanzien van de
+    verkoopprijzen van rundvlees uit interventievoorraden en tot verschuiving van
+    de overnamedatum voor bepaalde soorten ten verkoop aangeboden vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1898
+docidentifier:
+- content: EU Regulation 1898/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1898
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1898/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-29'
+- type: implemented
+  at: '1976-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2036
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

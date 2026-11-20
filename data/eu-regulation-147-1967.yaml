@@ -1,0 +1,78 @@
+---
+id: EURegulation1471967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 147/67/CEE du Conseil, du 21 juin 1967, portant modification
+    du règlement n° 111/64/CEE en ce qui concerne certains produits laitiers sucrés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 147/67/EWG des Rates vom 21. Juni 1967 zur Änderung der
+    Verordnung Nr. 111/64/EWG hinsichtlich bestimmter gezuckerter Milcherzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 147/67/CEE del Consiglio, del 21 giugno 1967, che modifica
+    il regolamento n. 111/64/CEE per quanto concerne alcuni prodotti lattiero-caseari
+    zuccherati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 147/67/EEG van de Raad van 21 juni 1967 houdende wijziging
+    van Verordening Nr. 111/64/EEG voor wat betreft bepaalde zuivelprodukten met toegevoegde
+    suiker
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0147
+docidentifier:
+- content: EU Regulation 147/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0147
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/147/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-21'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0111
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

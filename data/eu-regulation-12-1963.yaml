@@ -1,0 +1,95 @@
+---
+id: EURegulation121963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 12/63/CEE du Conseil du 20 février 1963 portant modification
+    du règlement n° 42 du Conseil et prorogation des règlements n° 45, 46 et 116
+    du Conseil
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 12/63/EWG des Rats vom 20. Februar 1963 zur Änderung der
+    Verordnung Nr. 42 des Rats und zur Verlängerung der Verordnungen Nr. 45, 46 und
+    116 des Rats
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 12/63/CEE del Consiglio del 20 febbraio 1963 relativo alla
+    modifica del regolamento n. 42 del Consiglio e alla proroga dei regolamenti nn.
+    45, 46 e 116 del Consiglio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 12/63/EEG van de Raad van 20 februari 1963 houdende wijziging
+    van Verordening no. 42 van de Raad en verlenging van de Verordeningen nos. 45,
+    46 en 116 van de Raad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0012
+docidentifier:
+- content: EU Regulation 12/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0012
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/12/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-02-20'
+- type: implemented
+  at: '1963-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0042
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0045
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0046
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0116
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,70 @@
+---
+id: EURegulation14831970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1483/70 de la Commission, du 24 juillet 1970, relatif
+    à des mesures concernant le riz pour la campagne 1970/1971
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1483/70 der Kommission vom 24. Juli 1970 über Maßnahmen
+    auf dem Reissektor für das Wirtschaftsjahr 1970/1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1483/70 della Commissione, del 24 luglio 1970, relativo
+    a misure applicabili al riso per la campagna 1970/1971
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1483/70 van de Commissie van 24 juli 1970 houdende
+    maatregelen inzake rijst voor het verkoopseizoen 1970/1971
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1483
+docidentifier:
+- content: EU Regulation 1483/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1483
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1483/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-24'
+- type: implemented
+  at: '1970-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

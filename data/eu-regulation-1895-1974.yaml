@@ -1,0 +1,98 @@
+---
+id: EURegulation18951974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1895/74 of the Commission of 19 July 1974 defining
+    additional measures to be taken in agriculture following the fixing, with effect
+    from 22 July 1974, of a new representative rate for the Italian lira
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1895/74 de la Commission, du 19 juillet 1974, définissant
+    les mesures supplémentaires à prendre dans le secteur agricole suite à la fixation
+    avec effet au 22 juillet 1974, d'un nouveau taux représentatif pour la lire italienne
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1895/74 der Kommission vom 19. Juli 1974 zur Bestimmung
+    der zusätzlichen Maßnahmen, die in der Landwirtschaft infolge der Festsetzung
+    eines neuen repräsentativen Umrechnungskurses, der für die italienische Lira
+    ab 22. Juli 1974 gilt, zu treffen sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1895/74 af 19. juli 1974 om supplerende
+    foranstaltninger, der skal træffes inden for landbrugssektoren som følge af
+    fastsættelsen af en ny repræsentativ kurs for den italienske lire, der har virkning
+    fra den 22. juli 1974
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1895/74 della Commissione, del 19 luglio 1974, che
+    definisce le misure supplementari da adottare nel settore agricolo in seguito
+    alla fissazione, con effetto dal 22 luglio 1974, di un nuovo tasso rappresentativo
+    per la lira italiana
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1895/74 van de Commissie van 19 juli 1974 houdende
+    vaststelling van aanvullende maatregelen in de landbouwsector naar aanleiding
+    van de vaststelling van een nieuwe met ingang van 22 juli 1974 voor de Italiaanse
+    lire toe te passen representatieve koers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1895
+docidentifier:
+- content: EU Regulation 1895/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1895
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1895/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-07-19'
+- type: implemented
+  at: '1974-07-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0456
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

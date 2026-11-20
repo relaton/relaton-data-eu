@@ -1,0 +1,80 @@
+---
+id: EURegulation10161967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 1016/67/CEE de la Commission, du 19 décembre 1967, modifiant
+    le règlement n° 473/67/CEE relatif aux certificats d'importation et d'exportation
+    dans les secteurs des céréales et du riz
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 1016/67/EWG der Kommission vom 19. Dezember 1967 zur Änderung
+    der Verordnung Nr. 473/67/EWG, insbesondere über die Lizenzen im Getreide- und
+    Reissektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 1016/67/CEE della Commissione, del 19 dicembre 1967, che
+    modifica il regolamento n. 473/67/CEE relativo ai titoli d'importazione e d'esportazione
+    nel settore dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 1016/67/EEG van de Commissie van 19 december 1967 houdende
+    wijziging van Verordening Nr. 473/67/EEG met betrekking tot de invoeren uitvoercertificaten
+    in de sectoren granen en rijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R1016
+docidentifier:
+- content: EU Regulation 1016/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R1016
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/1016/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-12-19'
+- type: implemented
+  at: '1967-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0473
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

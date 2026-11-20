@@ -1,0 +1,69 @@
+---
+id: EURegulation1791967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 179/67/CEE de la Commission, du 27 juin 1967, portant modification
+    du règlement n 65/67/CEE en ce qui concerne les impositions à l'importation
+    pour certaines albumines à percevoir par l'Union économique belgo-luxembourgeoise
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 179/67/EWG der Kommission vom 27. Juni 1967 zur Änderung
+    der Verordnung Nr. 65/67/EWG hinsichtlich der Abgaben bei der Einfuhr bestimmter
+    Albumine nach der Belgisch-Luxemburgischen Wirtschaftsunion
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 179/67/CEE della Commissione, del 27 giugno 1967, che modifica
+    il regolamento n. 65/67/CEE per quanto riguarda le imposte all'importazione, per
+    alcune albumine, che devono essere riscosse dall'Unione economica belgo-lussemburghese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening No. 179/67/EEG van de Commissie van 27 juni 1967 houdende wijziging
+    van de Verordening no. 65/67/EEG betreffende de door de Belgisch - Luxemburgse
+    Economische Gemeenschap te heffen belastingen op bepaalde eiwitten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0179
+docidentifier:
+- content: EU Regulation 179/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0179
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/179/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

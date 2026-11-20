@@ -1,0 +1,72 @@
+---
+id: EURegulation10831968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1083/68 de la Commission, du 26 juillet 1968, fixant
+    les modalités d'application relatives aux certificats d'importation dans le secteur
+    de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1083/68 der Kommission vom 26. Juli 1968 zur Festsetzung
+    der Durchführungsbestimmungen zu den Einfuhrlizenzen für Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1083/68 della Commissione, del 26 luglio 1968, che
+    stabilisce le modalità di applicazione relative ai titoli d'importazione nel
+    settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1083/68 van de Commissie van 26 juli 1968 houdende
+    uitvoeringsbepalingen inzake de invoercertificaten in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R1083
+docidentifier:
+- content: EU Regulation 1083/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R1083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/1083/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-07-26'
+- type: implemented
+  at: '1968-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,113 @@
+---
+id: EURegulation1911977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 191/77 of 28 January 1977 amending Regulations
+    (EEC) No 2036/74, (EEC) No 2073/74 and (EEC) No 2320/74 as regards the selling
+    prices for certain beef held by intervention agencies and bringing forward the
+    qualifying date for the sale of certain meat
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 191/77 de la Commission, du 28 janvier 1977, modifiant
+    les règlements (CEE) n° 2036/74, (CEE) n° 2073/74 et (CEE) n° 2320/74 en ce
+    qui concerne les prix de vente de certaines viandes bovines détenues par les
+    organismes d' intervention et reportant à une date ultérieure la prise en charge
+    de certaines viandes mises en vente
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 191/77 der Kommission vom 28. Januar 1977 zur Änderung
+    der Verordnungen (EWG) Nr. 2036/74, Nr. 2073/74 und Nr. 2320/74 hinsichtlich der
+    Verkaufspreise von bestimmtem Rindfleisch im Besitz der Interventionsstellen und
+    des Übernahmetermins für bestimmtes zum Verkauf angebotenes Rindfleisch
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 191/77 af 28. januar 1977 om ændring
+    af forordning (EØF) nr. 2036/74, 2073/74 og 2320/74 for så vidt angår salgspriserne
+    for visse former for oksekød, som interventionsorganerne ligger inde med, og
+    om forlængelse af fristen for overtagelse af visse former for kød, der udbydes
+    til salg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 191/77 della Commissione, del 28 gennaio 1977, che
+    modifica i regolamenti (CEE) n. 2036/74, (CEE) n. 2073/74 e (CEE) n. 2320/74 per
+    quanto riguarda i prezzi di vendita di talune carni bovine detenute dagli organismi
+    d' intervento e che proroga la data di presa in consegna di talune carni messe
+    in vendita
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 191/77 van de Commissie van 28 januari 1977 tot wijziging
+    van de Verordeningen (EEG) nrs. 2036/74, 2073/74 en 2320/74 ten aanzien van de
+    verkoopprijzen van rundvlees uit interventievoorraden en houdende verschuiving
+    van de overnamedatum voor bepaalde soorten te koop aangeboden vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0191
+docidentifier:
+- content: EU Regulation 191/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0191
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/191/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-01-28'
+- type: implemented
+  at: '1977-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2036
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2320
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

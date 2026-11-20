@@ -1,0 +1,72 @@
+---
+id: EURegulation2261967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 226/67/CEE de la Commission, du 28 juin 1967, portant modalités
+    de fixation de la moyenne des prix C.A.F. pour les produits transformés à base
+    de céréales, y compris les aliments composés pour animaux, pour le mois de
+    juillet 1967
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 226/67/EWG der Kommission vom 28. Juni 1967 mit Einzelheiten
+    für die Festsetzung des durchschnittlichen cif-Preises für Getreideverarbeitungserzeugnisse
+    einschlieDlich Mischfuttermittel, für den Monat Juli 1967
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 226/67/CEE della Commissione, del 28 giugno 1967, che reca
+    per il mese di luglio 1967 le modalità per la fissazione della media dei prezzi
+    cif per i prodotti trasformati a base di cereali, ivi compresi gli alimenti composti
+    per animali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 226/67/EEG van de Commissie van 28 juni 1967 houdende bepalingen
+    voor de vaststelling van het gemiddelde van de c.i.f.-prijzen voor op basis van
+    granen en rijst verwerkte produkten met inbegrip van mengvoeders, voor de maand
+    juli 1967
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0226
+docidentifier:
+- content: EU Regulation 226/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0226
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/226/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

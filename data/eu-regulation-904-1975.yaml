@@ -1,0 +1,93 @@
+---
+id: EURegulation9041975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 904/75 of the Commission of 3 April 1975 amending Regulation
+    (EEC) No 1980/74 as regards the production refund per 100 kg of potatoes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 904/75 de la Commission, du 3 avril 1975, modifiant
+    le règlement (CEE) n° 1980/74 en ce qui concerne la restitution à la production
+    par 100 kilogrammes de pommes de terre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 904/75 der Kommission vom 3. April 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1980/74 hinsichtlich der Erstattung bei der Erzeugung
+    für 100 kg Kartoffeln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 904/75 af 3. april 1975 om ændring
+    af forordning (EØF) nr. 1980/74 for så vidt angår produktionsrestitutionen
+    pr. 100 kg kartofler
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 904/75 della Commissione, del 3 aprile 1975, che modifica
+    il regolamento (CEE) n. 1980/74 per quanto riguarda la restituzione alla produzione
+    per 100 kg di patate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 904/75 van de Commissie van 3 april 1975 tot wijziging
+    van Verordening (EEG) nr. 1980/74 ten aanzien van de restitutie bij de produktie
+    per 100 kg aardappelen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0904
+docidentifier:
+- content: EU Regulation 904/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0904
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/904/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-03'
+- type: implemented
+  at: '1975-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1980
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,100 @@
+---
+id: EURegulation32071975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3207/75 of the Commission of 8 December 1975 amending
+    for the first time Regulation (EEC) No 2044/75 as regards the destinations of
+    skimmed-milk powder for which the period of validity of export certificates may
+    be extended
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3207/75 de la Commission, du 8 décembre 1975, portant
+    première modification du règlement (CEE) n° 2044/75 en ce qui concerne les
+    destinations du lait écrémé en poudre pour lequel la durée de validité du
+    certificat d' exportation peut être prolongée
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3207/75 der Kommission vom 8. Dezember 1975 zur ersten
+    Änderung der Verordnung (EWG) Nr. 2044/75 hinsichtlich der Bestimmungsländer
+    für Magermilchpulver, für das die Gültigkeitsdauer der Ausfuhrlizenz verlängert
+    werden kann
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3207/75 af 8. december 1975 om første
+    ændring af forordning (EØF) nr. 2044/75 for så vidt angår bestemmelsesstederne
+    for det skummetmælkspulver, for hvilket eksportlicensens gyldighedsperiode kan
+    forlænges
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3207/75 della Commissione, dell' 8 dicembre 1975,
+    recante prima modifica del regolamento (CEE) n. 2044/75, per quanto concerne le
+    destinazioni del latte scremato in polvere per il quale può essere prolungata
+    la validità del relativo titolo d' esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3207/75 van de Commissie van 8 december 1975 houdende
+    eerste wijziging van Verordening (EEG) nr. 2044/75 met betrekking tot de bestemmingen
+    van het magere-melkpoeder waarvoor de geldigheidsduur van het uitvoercertificaat
+    kan worden verlengd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3207
+docidentifier:
+- content: EU Regulation 3207/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3207
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3207/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-12-08'
+- type: implemented
+  at: '1975-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R2044
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

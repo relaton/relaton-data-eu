@@ -1,0 +1,74 @@
+---
+id: EURegulation14321970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1432/70 du Conseil, du 20 juillet 1970, relatif à
+    l'adaptation des prix d'intervention ou d'achat à payer par la France, diminués
+    à la suite de la dévaluation du franc français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1432/70 des Rates vom 20. Juli 1970 über die Anpassung
+    der von Frankreich zu zahlenden, infolge der Abwertung des französischen Franken
+    herabgesetzten Interventions- oder Ankaufspreise
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1432/70 del Consiglio, del 20 luglio 1970, relativo
+    all'adeguamento dei prezzi d'intervento o di acquisto che la Francia deve pagare,
+    diminuiti in seguito alla svalutazione del franco francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1432/70 van de Raad van 20 juli 1970 betreffende
+    de aanpassing van de door Frankrijk te betalen interventie- of aankoopprijzen
+    welke ingevolge de devaluatie van de Franse frank zijn verlaagd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1432
+docidentifier:
+- content: EU Regulation 1432/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1432
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1432/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-07-20'
+- type: implemented
+  at: '1970-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

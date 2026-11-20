@@ -1,0 +1,71 @@
+---
+id: EURegulation1131962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 113 du Conseil relatif à la valeur de l'unité de compte
+    et aux taux de change à appliquer dans le cadre de la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 113 des Rats über den Wert der Rechnungseinheit und die
+    Umrechnungskurse, die im Rahmen der gemeinsamen Agrarpolitik gelten sollen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 113 del Consiglio relativo al valore dell'unità di conto
+    e ai tassi di cambio da applicare nel quadro della politica agricola comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 113 van de Raad, inzake de waarde van de rekeneenheid en
+    de wisselkoersen die in het kader van het gemeenschappelijk landbouwbeleid toegepast
+    moeten worden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0113
+docidentifier:
+- content: EU Regulation 113/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0113
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-24'
+- type: implemented
+  at: '1962-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

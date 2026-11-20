@@ -1,0 +1,65 @@
+---
+id: EURegulation1491968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 149/68 de la Commission, du 6 février 1968, modifiant
+    le montant supplémentaire pour les pintades abattues
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 149/68 der Kommission vom 6. Februar 1968 zur Änderung
+    des Zusatzbetrags für geschlachtete Perlhühner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 149/68 della Commissione, del 6 febbraio 1968, che
+    modifica l'importo supplementare per le faraone macellate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 149/68 van de Commissie van 6 februari 1968 houdende
+    vaststelling van het extra bedrag voor geslachte parelhoenders
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0149
+docidentifier:
+- content: EU Regulation 149/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0149
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/149/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

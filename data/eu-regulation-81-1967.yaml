@@ -1,0 +1,78 @@
+---
+id: EURegulation811967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 81/67/CEE du Conseil, du 18 avril 1967, portant assimilation
+    de certains produits agricoles utilisés pour la fabrication de marchandises auxquelles
+    s'applique le règlement n° 160/66/CEE du Conseil à des produits de base ou
+    à des produits issus de leur transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 81/67/EWG des Rates vom 18. April 1967 über die Gleichstellung
+    bestimmter landwirtschaftlicher Erzeugnisse, die zur Herstellung von unter die
+    Verordnung Nr. 160/66/EWG des Rates fallenden Waren verwendet werden, mit Grunderzeugnissen
+    oder deren Verarbeitungserzeugnissen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 81/67/CEE del Consiglio, del 18 aprile 1967, che assimila
+    taluni prodotti agricoli utilizzati nella fabbricazione di merci cui si applica
+    il regolamento n. 160/66/CEE del Consiglio a prodotti di base o a prodotti derivati
+    dalla loro trasformazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 81/67/EEG van de Raad van 18 april 1967 houdende gelijkstelling
+    van sommige landbouwprodukten, die worden gebruikt voor de vervaardiging van goederen
+    waarop Verordening Nr. 160/66/EEG van de Raad van toepassing is, met basisprodukten
+    of door verwerking daarvan verkregen produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0081
+docidentifier:
+- content: EU Regulation 81/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0081
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/81/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-04-18'
+- type: implemented
+  at: '1967-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,84 @@
+---
+id: EURegulation18831970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1883/70 de la Commission, du 17 septembre 1970, complétant
+    le règlement (CEE) n° 772/70 concernant une adjudication permanente pour la
+    vente de sucre blanc destiné à l'exportation et détenu par l'organisme d'intervention
+    français
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1883/70 der Kommission vom 17. September 1970 zur
+    Ergänzung der Verordnung (EWG) Nr. 772/70 über eine Dauerausschreibung zum Verkauf
+    von Weißzucker, der zur Ausfuhr bestimmt ist und sich im Besitz der französischen
+    Interventionsstelle befindet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1883/70 della Commissione, del 17 settembre 1970,
+    che completa il regolamento (CEE) n. 772/70 relativo ad una gara permanente per
+    la vendita di zucchero bianco destinato all'esportazione e detenuto dall'organismo
+    d'intervento francese
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1883/70 van de Commissie van 17 september 1970 tot
+    aanvulling van Verordening (EEG) nr. 772/70 betreffende een permanente openbare
+    inschrijving voor de verkoop van witte suiker bestemd voor de uitvoer en in het
+    bezit van het Franse interventiebureau
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1883
+docidentifier:
+- content: EU Regulation 1883/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1883
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1883/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-09-17'
+- type: implemented
+  at: '1970-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0772
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

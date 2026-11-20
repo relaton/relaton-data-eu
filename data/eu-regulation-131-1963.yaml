@@ -1,0 +1,69 @@
+---
+id: EURegulation1311963
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 131/63/CEE de la Commission, du 19 décembre 1963, modifiant
+    le règlement n 91 de la Commission relatif aux restitutions applicables aux exportations
+    de certaines catégories de farines, gruaux et semoules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 131/63/EWG der Kommission vom 19. Dezember 1963 zur Änderung
+    der Verordnung Nr. 91 der Kommission im Hinblick auf die bei Ausfuhren von bestimmten
+    Arten von Mehl, Grob- und Feingrieß angewandten Bestimmungen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 131/63/CEE della Commissione del 19 dicembre 1963 che modifica
+    il regolamento n. 91 della Commissione relativo alle restituzioni applicabili
+    alle esportazioni di alcuni tipi di farine, semole e semolini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 131/63/EEG van de Commissie van 19 december 1963 tot wijziging
+    van Verordening no. 91 van de Commissie betreffende de restituties van toepassing
+    op de uitvoer van bepaalde soorten meel, grutten, gries en griesmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963R0131
+docidentifier:
+- content: EU Regulation 131/1963
+  type: EU
+  primary: true
+- content: CELEX 31963R0131
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1963/131/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

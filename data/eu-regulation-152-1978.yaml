@@ -1,0 +1,122 @@
+---
+id: EURegulation1521978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 152/78 of 23 January 1978 amending Regulations
+    (EEC) No 1059/69, (EEC) No 1060/69 and (EEC) No 2682/72 on the trade arrangements
+    for processed agricultural products not covered by Annex II to the Treaty
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 152/78 du Conseil, du 23 janvier 1978, modifiant les
+    règlements (CEE) n° 1059/69, (CEE) n° 1060/69 et (CEE) n° 2682/72 relatifs
+    au régime d' échanges applicable à certaines marchandises résultant de la
+    transformation de produits agricoles et ne relevant pas de l' annexe II du traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 152/78 des Rates vom 23. Januar 1978 zur Änderung
+    der Verordnungen (EWG) Nrn. 1059/69, 1060/69 und 2682/72 über die Handelsregelung
+    für bestimmte aus landwirtschaftlichen Erzeugnissen hergestellte Waren, die nicht
+    unter Anhang II des Vertrages fallen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 152/78 af 23. januar 1978 om ændring af
+    forordning (EØF) nr. 1059/69, (EØF) nr. 1060/69 og (EØF) nr. 2682/72 vedrørende
+    ordningen for handelen med varer fremstillet af landbrugsprodukter, som ikke omfattes
+    af traktatens bilag II
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 152/78 τού Συμβουλίου
+    τής 23ης Ιανουαρίου 1978 περί τροποποιήσεως τών
+    κανονισμών (ΕΟΚ) αριθ. 1059/69, (ΕΟΚ) αριθ. 1060/69 καί
+    (ΕΟΚ) αριθ. 2682/72 «περί τού καθεστώτος συναλλαγών
+    πού εφαρμόζεται σέ ορισμένα εμπορεύματα προερχόμενα
+    από τή μεταποίηση γεωργικών προϊόντων καί
+    μή υπαγόμενα στό παράρτημα ΙΙ τής συνθήκης»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 152/78 del Consiglio, del 23 gennaio 1978, che modifica
+    i regolamenti (CEE) n. 1059/69, (CEE) n. 1060/69 e (CEE) n. 2682/72 sul regime
+    di scambi applicabile a talune merci risultanti dalla trasformazione di prodotti
+    agricoli non compresi nell' allegato II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 152/78 van de Raad van 23 januari 1978 tot wijziging
+    van de Verordeningen (EEG) nr. 1059/69, nr. 1060/69 en nr. 2682/72 met betrekking
+    tot de handelsregeling die van toepassing is op bepaalde goederen, verkregen door
+    verwerking van landbouwprodukten en die niet onder bijlage II van het Verdrag
+    vallen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0152
+docidentifier:
+- content: EU Regulation 152/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0152
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/152/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-01-23'
+- type: implemented
+  at: '1978-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1059
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1060
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2682
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

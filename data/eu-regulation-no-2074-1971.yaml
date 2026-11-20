@@ -1,0 +1,83 @@
+---
+id: EURegulationNo20741971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2074/71 de la Commission, du 28 septembre 1971, modifiant
+    le règlement (CEE) n° 1084/68 en ce qui concerne le taux de suspension du prélèvement
+    applicable à l'importation des viandes bovines congelées destinées à la transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2074/71 der Kommission vom 28. September 1971 zur
+    Änderung der Verordnung (EWG) Nr. 1084/68 betreffend den Aussetzungssatz, der
+    auf die Einfuhren von zur Verarbeitung bestimmtem gefrorenem Rindfleisch anzuwenden
+    ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2074/71 della Commissione, del 28 settembre 1971,
+    che modifica il regolamento (CEE) n. 1084/68 per quanto riguarda il tasso di sospensione
+    del prelievo applicabile all'importazione delle carni bovine congelate atte alla
+    trasformazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2074/71 van de Commissie van 28 september 1971 houdende
+    wijziging van Verordening (EEG) nr. 1084/68 met betrekking tot het percentage
+    waarmee de heffing bij de invoer van bevroren, voor de verwerking bestemd, rundvlees
+    wordt geschorst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2074
+docidentifier:
+- content: EU Regulation No 2074/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R2074
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/2074/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-09-28'
+- type: implemented
+  at: '1971-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1084
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

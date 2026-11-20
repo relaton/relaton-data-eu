@@ -1,0 +1,74 @@
+---
+id: EURegulation15961972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1596/72 de la Commission, du 26 juillet 1972, fixant
+    les prix de référence des pommes pour la période allant du 1er janvier 1972
+    au 31 janvier 1973
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1596/72 der Kommission vom 26. Juli 1972 zur Festsetzung
+    der Referenzpreise für Äpfel für den Zeitraum vom 1. Juli 1972 bis zum 31.
+    Januar 1973
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1596/72 della Commissione, del 26 luglio 1972, che
+    fissa i prezzi di riferimento per le mele per il periodo che va dal 1 luglio 1972
+    al 31 gennaio 1973
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1596/72 van de Commissie van 26 juli 1972 houdende
+    vaststelling van de referentieprijzen voor appelen voor de periode van 1 juli
+    1972 tot en met 31 januari 1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1596
+docidentifier:
+- content: EU Regulation 1596/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1596
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1596/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-26'
+- type: implemented
+  at: '1972-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

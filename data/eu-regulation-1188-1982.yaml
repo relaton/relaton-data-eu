@@ -1,0 +1,104 @@
+---
+id: EURegulation11881982
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1188/82 of 18 May 1982 amending Regulation
+    (EEC) No 1080/77 on the supply of milk and certain milk products at reduced prices
+    to schoolchildrenf
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1188/82 du Conseil, du 18 mai 1982, modifiant le règlement
+    (CEE) n° 1080/77 relatif à la cession à prix réduit de lait et de certains
+    produits laitiers aux élèves des établissements scolaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1188/82 des Rates vom 18. Mai 1982 zur Änderung der
+    Verordnung (EWG) Nr. 1080/77 über die verbilligte Abgabe von Milch und bestimmten
+    Milcherzeugnissen an Schüler in Schulen
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1188/82 af 18. maj 1982 om ændring af forordning
+    (EØF) nr. 1080/77 om uddeling af mælk og visse mejeriprodukter til nedsat pris
+    til elever i skolerm
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 1188/82 τού Συμβουλίου
+    τής 18ης Μαΐου 1982 περί τροποποιήσεως τού κανονισμού
+    (EOK) αριθ. 1080/77 περί διαθέσεως σέ μειωμένη τιμή
+    γάλακτος καί ορισμένων γαλακτοκομικών προϊόντων
+    σέ μαθητές σχολικών ιδρυμάτων
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1188/82 del Consiglio, del 18 maggio 1982, che modifica
+    il regolamento (CEE) n. 1080/77 relativo alla cessione a prezzo ridotto di latte
+    e di taluni prodotti lattieri agli allievi degli istituti scolastici
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1188/82 van de Raad van 18 mei 1982 tot wijziging
+    van Verordening (EEG) nr. 1080/77 betreffende de verstrekking van melk en bepaalde
+    zuivelprodukten tegen verlaagde prijs aan leerlingen van onderwijsinstellingenr
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982R1188
+docidentifier:
+- content: EU Regulation 1188/1982
+  type: EU
+  primary: true
+- content: CELEX 31982R1188
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1982/1188/oj
+  type: ELI
+date:
+- type: issued
+  at: '1982-05-18'
+- type: implemented
+  at: '1982-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R1080
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

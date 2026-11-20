@@ -1,0 +1,94 @@
+---
+id: EURegulation31191973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3119/73 of the Commission of 16 November 1973 amending
+    Regulation (EEC) No 1896/73 on detailed rules for the application of intervention
+    measures on the market in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3119/73 de la Commission, du 16 novembre 1973, modifiant
+    le règlement (CEE) n° 1896/73 relatif aux modalités d' application des mesures
+    d' intervention dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3119/73 der Kommission vom 16. November 1973 zur Änderung
+    der Verordnung (EWG) Nr. 1896/73 über die Durchführungsbestimmungen bei Interventionsmaßnahmen
+    auf dem Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 3119/73 af 16. november 1973 om ændring
+    af forordning (EØF) nr. 1896/73 om de nærmere regler for anvendelsen af interventionsforanstaltninger
+    inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3119/73 della Commissione, del 16 novembre 1973, che
+    modifica il regolamento (CEE) n. 1896/73, relativo alle modalità di applicazione
+    delle misure d' intervento nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3119/73 van de Commissie van 16 november 1973 houdende
+    wijziging van Verordening (EEG) nr. 1896/73 betreffende de wijze van toepassing
+    van de interventiemaatregelen in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R3119
+docidentifier:
+- content: EU Regulation 3119/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R3119
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/3119/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-11-16'
+- type: implemented
+  at: '1973-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

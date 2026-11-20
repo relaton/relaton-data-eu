@@ -1,0 +1,69 @@
+---
+id: EURegulation5201968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 520/68 de la Commission, du 29 avril 1968, fixant la
+    restitution à la production pour les huiles d'olive utilisée pour la fabrication
+    de conserves de poissons et de légumes
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 520/68 der Kommission vom 29. April 1968 zur Festsetzung
+    der Erstattung bei der Erzeugung für Olivenöl zur Herstellung von Fisch- und
+    Gemüsekonserven
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 520/68 della Commissione, del 29 aprile 1968, che
+    fissa la restituzione alla produzione per gli oli d'oliva impiegati nella fabbricazione
+    di conserve di pesci, di legumi e di ortaggi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 520/68 van de Commissie van 29 april 1968 houdende
+    vaststelling van de restitutie bij de produktie voor olijfolie die gebruikt wordt
+    voor de vervaardiging van vis- en groenteconserven
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0520
+docidentifier:
+- content: EU Regulation 520/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0520
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/520/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

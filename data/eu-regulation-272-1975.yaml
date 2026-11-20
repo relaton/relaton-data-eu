@@ -1,0 +1,101 @@
+---
+id: EURegulation2721975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 272/75 of the Commission of 3 February 1975 amending
+    Regulation (EEC) No 1983/74 fixing, for the 1974/75 marketing year, in respect
+    of trade within the Community the components designed to protect the rice and
+    cereals processing industries
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 272/75 de la Commission, du 3 février 1975, modifiant
+    le règlement (CEE) n° 1983/74 fixant, en ce qui concerne les échanges intracommunautaires
+    pour la campagne de commercialisation 1974/1975, les éléments destinés à assurer,
+    dans le secteur des céréales et du riz, la protection de l'industrie de transformation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 272/75 der Kommission vom 3. Februar 1975 zur Änderung
+    der Verordnung (EWG) Nr. 1983/74 zur Festsetzung des Bestandteils zum Schutz der
+    Verarbeitungsindustrie auf dem Getreide- und Reissektor im Hinblick auf den innergemeinschaftlichen
+    Handel für das Wirtschaftsjahr 1974/1975
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 272/75 af 3. februar 1975 om ændring
+    af forordning (EØF) nr. 1983/74 om fastsættelse for høståret 1974/1975 - for
+    handelen inden for Fællesskabet - af de elementer, der for korn og ris har til
+    formål at sikre beskyttelsen af forarbejdningsindustrien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 272/75 della Commissione, del 3 febbraio 1975, che
+    modifica il regolamento (CEE) n. 1983/74 che fissa, per quanto riguarda gli scambi
+    intracomunitari nella campagna di commercializzazione 1974/1975, gli elementi
+    destinati ad assicurare la protezione dell'industria di trasformazione nel settore
+    dei cereali e del riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 272/75 van de Commissie van 3 februari 1975 tot wijziging
+    van Verordening (EEG) nr. 1983/74 tot vaststelling van de elementen die dienen
+    om in het verkoopseizoen 1974/1975 in het intra-communautaire handelsverkeer in
+    de sector granen en rijst de bescherming van de verwerkende industrie te verzekeren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0272
+docidentifier:
+- content: EU Regulation 272/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0272
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/272/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-02-03'
+- type: implemented
+  at: '1974-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1983
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

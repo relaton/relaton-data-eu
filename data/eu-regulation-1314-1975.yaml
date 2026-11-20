@@ -1,0 +1,95 @@
+---
+id: EURegulation13141975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1314/75 of the Commission of 23 May 1975 amending Annex
+    I to Regulation (EEC) No 1896/73 concerning the coefficients for the calculation
+    of the buying-in prices for intervention on the market in beef and veal
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1314/75 de la Commission, du 23 mai 1975, modifiant
+    l' annexe I du règlement (CEE) n° 1896/73 concernant les coefficients pour le
+    calcul des prix d' achat pour les interventions dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1314/75 der Kommission vom 23. Mai 1975 zur Änderung
+    von Anhang I der Verordnung (EWG) Nr. 1896/73 betreffend die Koeffizienten für
+    die Berechnung des Kaufpreises für die Interventionen im Rindfleischsektor
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1314/75 af 23. maj 1975 om ændring
+    af bilag I til forordning (EØF) nr. 1896/73 om koefficienterne for beregning
+    af oksekødspriserne ved intervention inden for oksekødsektoren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1314/75 della Commissione, del 23 maggio 1975, che
+    modifica l' allegato I del regolamento (CEE) n. 1896/73 relativo ai coefficienti
+    per il calcolo dei prezzi d' acquisto all' intervento nel settore delle carni
+    bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1314/75 van de Commissie van 23 mei 1975 tot wijziging
+    van bijlage I bij Verordening (EEG) nr. 1896/73 met betrekking tot de coëfficiënten
+    voor de berekening van de aankoopprijzen voor de interventies in de sector rundvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R1314
+docidentifier:
+- content: EU Regulation 1314/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R1314
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/1314/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-05-23'
+- type: implemented
+  at: '1975-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R1896
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

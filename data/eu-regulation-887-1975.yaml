@@ -1,0 +1,94 @@
+---
+id: EURegulation8871975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 887/75 of the Commission of 4 April 1975 altering the
+    standard values fixed in Regulation (EEC) No 3325/74 for certain fishery products
+    withdrawn from the market
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 887/75 de la Commission, du 4 avril 1975, modifiant
+    le montant de la valeur forfaitaire de certains produits de la pêche retirés
+    du marché fixé par le règlement (CEE) n° 3325/74
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 887/75 der Kommission vom 4. April 1975 zur Änderung
+    der Höhe des in der Verordnung (EWG) Nr. 3325/74 festgesetzten Pauschalwerts
+    für einige aus dem Handel genommene Fischereierzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 887/75 af 4. april 1975 om ændring
+    af den fikserede værdi, som er fastsat i forordning (EØF) nr. 3325/74 for visse
+    fiskerivarer, der er taget ud af handelen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 887/75 della Commissione, del 4 aprile 1975, che modifica
+    l'importo del valore forfettario di alcuni prodotti della pesca ritirati dal mercato
+    fissato dal regolamento (CEE) n. 3325/74
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 887/75 van de Commissie van 4 april 1975 tot wijziging
+    van het bij Verordening (EEG) nr. 3325/74 vastgestelde bedrag van de forfaitaire
+    waarde van bepaalde uit de markt genomen visserijprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0887
+docidentifier:
+- content: EU Regulation 887/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0887
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/887/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-04-04'
+- type: implemented
+  at: '1975-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3325
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

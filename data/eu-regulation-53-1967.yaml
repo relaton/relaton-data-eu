@@ -1,0 +1,84 @@
+---
+id: EURegulation531967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 53/67/CEE du Conseil, du 21 mars 1967, prorogeant le règlement
+    n° 111/66/CEE autorisant la République française, le Royaume de Belgique et
+    la République fédérale d'Allemagne à prendre des mesures spéciales d'intervention
+    dans le secteur de la viande bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 53/67/EWG des Rates vom 21. März 1967 zur Verlängerung
+    der Verordnung Nr. 111/66/EWG zur Ermächtigung der Französischen Republik, des
+    Königreichs Belgien und der Bundesrepublik Deutschland, besondere Interventionsmaßnahmen
+    bei Rindfleisch zu ergreifen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 53/67/CEE del Consiglio, del 21 marzo 1967, che proroga
+    il regolamento n. 111/66/CEE che autorizza la Repubblica francese, il Regno del
+    Belgio e la Repubblica federale di Germania ad adottare misure speciali d'intervento
+    nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 53/67/EEG van de Raad van 21 maart 1967 houdende verlenging
+    van Verordening Nr. 111/66/EEG waarbij de Franse Republiek, het Koninkrijk België
+    en de Bondsrepubliek Duitsland worden gemachtigd in de sector rundvlees speciale
+    interventiemaatregelen te nemen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0053
+docidentifier:
+- content: EU Regulation 53/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0053
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/53/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-21'
+- type: implemented
+  at: '1967-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0111
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

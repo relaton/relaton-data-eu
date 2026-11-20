@@ -1,0 +1,88 @@
+---
+id: EURegulation21651970
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2165/70 of the Council of 27 October 1970 on imports
+    of olive oil from Tunisia
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2165/70 du Conseil, du 27 octobre 1970, relatif aux
+    importations des huiles d' olive de Tunisie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2165/70 des Rates vom 27. Oktober 1970 über die Einfuhr
+    von Olivenöl aus Tunesien
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 2165/70 af 27. oktober 1970 om importen af
+    olivenolie fra Tunesien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2165/70 del Consiglio, del 27 ottobre 1970, relativo
+    alle importazioni dalla Tunisia di oli d' oliva
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2165/70 van de Raad van 27 oktober 1970 betreffende
+    de invoer van olijfolie uit Tunesië
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R2165
+docidentifier:
+- content: EU Regulation 2165/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R2165
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/2165/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-10-27'
+- type: implemented
+  at: '1970-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1471
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

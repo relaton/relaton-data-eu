@@ -1,0 +1,95 @@
+---
+id: EUDecision198030
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: '80/30/EEC: Council Decision of 20 December 1979 extending Decision 76/402/EEC
+    on the level of the interest rate subsidy, provided for in Directive 72/159/EEC
+    on the modernization of farms, to be applied in Italy'
+  type: main
+- language: fr
+  script: Latn
+  content: '80/30/CEE: Décision du Conseil, du 20 décembre 1979, prorogeant la décision
+    76/402/CEE relative au niveau de bonification du taux d'' intérêt prévu par
+    la directive 72/159/CEE concernant la modernisation des exploitations agricoles,
+    à appliquer en Italie'
+  type: main
+- language: de
+  script: Latn
+  content: '80/30/EWG: Entscheidung des Rates vom 20. Dezember 1979 zur Verlängerung
+    der Entscheidung 76/402/EWG betreffend die Höhe der in der Richtlinie 72/159/EWG
+    über die Modernisierung der landwirtschaftlichen Betriebe vorgesehenen Zinsvergütung
+    in Italien'
+  type: main
+- language: da
+  script: Latn
+  content: '80/30/EØF: Rådets afgørelse af 20. december 1979 om forlængelse af
+    beslutning 76/402/EØF om størrelsen af den i direktiv 72/159/EØF om modernisering
+    af landbrugsbedrifter fastsatte rentegodtgørelse, som skal anvendes i Italien'
+  type: main
+- language: it
+  script: Latn
+  content: '80/30/CEE: Decisione del Consiglio, del 20 dicembre 1979, che proroga
+    la decisione 76/402/CEE concernente il livello da applicare in Italia per l''
+    abbuono d'' interessi previsto dalla direttiva 72/159/CEE relativa all'' ammodernamento
+    delle aziende agricole'
+  type: main
+- language: nl
+  script: Latn
+  content: '80/30/EEG: Beschikking van de Raad van 20 december 1979 houdende verlenging
+    van Beschikking 76/402/EEG inzake het in Italië toe te passen peil van de rentesubsidie
+    als bedoeld in Richtlijn 72/159/EEG betreffende de modernisering van landbouwbedrijven'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980D0030
+docidentifier:
+- content: EU Decision 1980/30
+  type: EU
+  primary: true
+- content: CELEX 31980D0030
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1980/30/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976D0402
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

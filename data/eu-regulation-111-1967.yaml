@@ -1,0 +1,74 @@
+---
+id: EURegulation1111967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 111/67/CEE du Conseil, du 24 mai 1967, dérogeant, à titre
+    temporaire et pour certaines marchandises, aux dispositions du règlement n°
+    160/66/CEE relatives au mode de calcul des éléments mobiles
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 111/67/EWG des Rates vom 24. Mai 1967 zur vorübergehenden
+    Abweichung bei bestimmten Waren von den Bestimmungen der Verordnung Nr. 160/66/EWG
+    in bezug auf das Verfahren zur Berechnung der beweglichen Teilbeträge
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 111/67/CEE del Consiglio, del 24 maggio 1967, che deroga
+    a titolo temporaneo e per talune merci alle disposizioni del regolamento n. 160/66/CEE
+    relative al metodo di calcolo degli elementi mobili
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 111/67/EEG van de Raad van 24 mei 1967 houdende tijdelijke
+    afwijking, voor sommige produkten, van de bepalingen van Verordening Nr. 160/66/EEG
+    betreffende de wijze van berekening van de variabele elementen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0111
+docidentifier:
+- content: EU Regulation 111/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0111
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/111/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-05-24'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

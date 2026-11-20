@@ -1,0 +1,69 @@
+---
+id: EURegulation3771969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 377/69 de la Commission, du 27 février 1969, fixant
+    les restitutions pour les céréales et le riz décortiqué exportés sous forme
+    de marchandises ne relevant pas de l'annexe II du traité
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 377/69 der Kommission vom 27. Februar 1969 zur Festsetzung
+    der Erstattungen bei der Ausfuhr von Getreide oder geschältem Reis in Form von
+    nicht unter Anhang II des Vertrages fallenden Waren
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 377/69 della Commissione, del 27 febbraio 1969, che
+    fissa le restituzioni applicabili ai cereali ed al riso semigreggio esportati
+    sotto forma di merci non comprese nell'allegato II del trattato
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 377/69 van de Commissie van 27 februari 1969 houdende
+    vaststelling van de restituties bij uitvoer van granen en van gedopte rijst in
+    de vorm van niet in bijlage II van het Verdrag vermelde goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R0377
+docidentifier:
+- content: EU Regulation 377/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R0377
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/377/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

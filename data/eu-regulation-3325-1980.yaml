@@ -1,0 +1,100 @@
+---
+id: EURegulation33251980
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3325/80 of 16 December 1980 amending Regulation
+    (EEC) No 724/75 establishing a European Regional Development Fund
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3325/80 du Conseil, du 16 décembre 1980, modifiant
+    le règlement (CEE) n° 724/75 portant création d' un Fonds européen de développement
+    régional
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3325/80 des Rates vom 16. Dezember 1980 zur Änderung
+    der Verordnung (EWG) Nr. 724/75 über die Errichtung eines Europäischen Fonds
+    für regionale Entwicklung
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 3325/80 af 16. december 1980 om ændring
+    af forordning (EØF) nr. 724/75 om oprettelse af en europæisk fond for regionaludvikling
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 3325/80 τού Συμβουλίου
+    τής 16ης Δεκεμβρίου 1980 περί τροποποιήσεως τού
+    κανονισμού (EOK) αριθ. 724/75 «περί δημιουργίας
+    Ευρωπαϊκού Ταμείου Περιφερειακής Αναπτύξεως»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3325/80 del Consiglio, del 16 dicembre 1980, che modifica
+    il regolamento (CEE) n. 724/75 che istituisce un Fondo europeo di sviluppo regionale
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3325/80 van de Raad van 16 december 1980 tot wijziging
+    van Verordening (EEG) nr. 724/75 houdende oprichting van een Europees Fonds voor
+    Regionale Ontwikkeling
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980R3325
+docidentifier:
+- content: EU Regulation 3325/1980
+  type: EU
+  primary: true
+- content: CELEX 31980R3325
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1980/3325/oj
+  type: ELI
+date:
+- type: issued
+  at: '1980-12-16'
+- type: implemented
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0724
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

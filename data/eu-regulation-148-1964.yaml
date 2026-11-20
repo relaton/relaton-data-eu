@@ -1,0 +1,67 @@
+---
+id: EURegulation1481964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 148/64/CEE de la Commission, du 26 octobre 1964, instituant
+    une taxe compensatoire à l'importation de raisins de table en provenance des
+    pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 148/64/EWG der Kommission vom 26. Oktober 1964 zur Einführung
+    einer Ausgleichsabgabe auf die Einfuhr von Tafeltrauben aus dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 148/64/CEE della Commissione, del 26 ottobre 1964, che istituisce
+    una tassa di compensazione all'importazione di uve da tavola dai paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 148/64/EEG van de Commissie van 26 oktober 1964 houdende
+    instelling van een compenserende heffing bij invoer van tafeldruiven uit derde
+    landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0148
+docidentifier:
+- content: EU Regulation 148/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0148
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/148/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

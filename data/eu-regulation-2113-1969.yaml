@@ -1,0 +1,78 @@
+---
+id: EURegulation21131969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2113/69 du Conseil, du 28 octobre 1969, relatif au
+    financement des dépenses effectuées par la République italienne pour l'indemnisation
+    de la perte de valeur de l'huile d'olive en stock au moment de la mise en application
+    du règlement n° 136/66/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2113/69 des Rates vom 28. Oktober 1969 über die Finanzierung
+    der Ausgaben der Italienischen Republik zur Entschädigung für die Wertminderung
+    bei Olivenöl, das bei Beginn der Anwendung der Verordnung Nr. 136/ 66/EWG eingelagert
+    war
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2113/69 del Consiglio, del 28 ottobre 1969, relativo
+    al finanziamento delle spese effettuate dalla Repubblica italiana per l'indennizzo
+    della perdita di valore dell'olio di oliva che si trovava in giacenza al momento
+    dell'applicazione del regolamento n. 136/66/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2113/69 van de Raad van 28 oktober 1969 met betrekking
+    tot de financiering van de door de Italiaanse Republiek gedane uitgaven inzake
+    vergoeding van de waardevermindering van olijfolie die opgeslagen was op het tijdstip
+    waarop Verordening nr. 136/66/EEG van toepassing werd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2113
+docidentifier:
+- content: EU Regulation 2113/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2113
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2113/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-28'
+- type: implemented
+  at: '1969-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

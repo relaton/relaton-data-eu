@@ -1,0 +1,79 @@
+---
+id: EURegulation5481971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 548/71 du Conseil, du 15 mai 1971, modifiant le règlement
+    (CEE) n° 1543/69 relatif aux importations des agrumes originaires de Turquie
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 548/71 des Rates vom 15. März 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1543/69 über die Einfuhr von Zitrusfrüchten mit Ursprung
+    in der Türkei
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 548/71 del Consiglio, del 15 marzo 1971, che modifica
+    il regolamento (CEE) n. 1543/69 relativo alle importazioni degli agrumi originari
+    della Turchia
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 548/71 van de Raad van 15 maart 1971 tot wijziging
+    van Verordening (EEG) nr. 1543/69 betreffende de invoer van citrusvruchten van
+    oorsprong uit Turkije
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0548
+docidentifier:
+- content: EU Regulation 548/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0548
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/548/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-15'
+- type: implemented
+  at: '1971-03-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1543
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

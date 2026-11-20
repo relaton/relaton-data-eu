@@ -1,0 +1,75 @@
+---
+id: EURegulation1111966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 111/66/CEE du Conseil, du 28 juillet 1966, autorisant la
+    République française, le Royaume de Belgique et la République fédérale d'Allemagne
+    à prendre des mesures spéciales d'intervention dans le secteur de la viande
+    bovine
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 111/66/EWG des Rates vom 28. Juli 1966 zur Ermächtigung
+    der Französischen Republik, des Königreichs Belgien und der Bundesrepublik Deutschland,
+    besondere Interventionsmaßnahmen bei Rindfleisch zu ergreifen
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 111/66/CEE del Consiglio, del 28 luglio 1966, che autorizza
+    la Repubblica francese, il Regno del Belgio e la Repubblica federale di Germania
+    ad adottare misure d'intervento speciali nel settore delle carni bovine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 111/66/EEG van de Raad van 28 juli 1966 waarbij de Franse
+    Republiek, het Koninkrijk België en de Bondsrepubliek Duitsland worden gemachtigd
+    in de sector rundvlees speciale interventiemaatregelen te nemen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0111
+docidentifier:
+- content: EU Regulation 111/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0111
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/111/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-07-28'
+- type: implemented
+  at: '1966-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,99 @@
+---
+id: EURegulation15131979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1513/79 of 19 July 1979 amending, in respect
+    of the approval of distilleries, Regulation (EEC) No 1945/78 laying down, for
+    the wine growing year 1978/79, detailed rules for the distillation of the by-products
+    of wine-making
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1513/79 de la Commission, du 19 juillet 1979, modifiant,
+    en ce qui concerne l' agrément des distilleries, le règlement (CEE) n° 1945/78
+    relatif aux modalités d' application de la distillation des sous-produits de
+    la vinification pour la campagne 1978/1979
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1513/79 der Kommission vom 19. Juli 1979 zur Änderung
+    der Verordnung (EWG) Nr. 1945/78 über die Durchführungsbestimmungen für die
+    Destillation der Nebenerzeugnisse der Weinbereitung für das Wirtschaftsjahr 1978/79
+    bezüglich der Zulassung der Brennereien
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1513/79 af 19. juli 1979 om ændring,
+    for så vidt angår destillerier, af forordning (EØF) nr. 1945/78 om gennemførelsesbestemmelser
+    for destillering af biprodukter fra vinfremstilling af vinproduktionsåret 1978/79
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1513/79 della Commissione, del 19 luglio 1979, che
+    modifica, per quanto concerne il riconoscimento delle distillerie, il regolamento
+    (CEE) n. 1945/78, relativo alle modalità di applicazione della distillazione
+    dei sottoprodotti della vinificazione per la campagna 1978/1979
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1513/79 van de Commissie van 19 juli 1979 tot wijziging
+    van Verordening (EEG) nr. 1945/78 betreffende de uitvoeringsbepalingen voor de
+    distillatie van de bijprodukten van de wijnbereiding voor het wijnoogstjaar 1978/1979,
+    ten aanzien van de erkenning van de distilleerderijen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R1513
+docidentifier:
+- content: EU Regulation 1513/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R1513
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/1513/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-07-19'
+- type: implemented
+  at: '1978-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31978R1945
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

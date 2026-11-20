@@ -1,0 +1,65 @@
+---
+id: EURegulation25601972
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2560/72 de la Commission, du 6 décembre 1972, fixant
+    le prélèvement à l'importation pour la mélasse
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2560/72 der Kommission vom 6. Dezember 1972 über
+    die Festsetzung der Abschöpfung bei der Einfuhr von Melasse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2560/72 della Commissione, del 6 dicembre 1972, che
+    fissa il prelievo all'importazione per il melasso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2560/72 van de Commissie van 6 december 1972 houdende
+    vaststelling van de heffingen bij invoer voor melasse
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2560
+docidentifier:
+- content: EU Regulation 2560/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2560
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2560/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

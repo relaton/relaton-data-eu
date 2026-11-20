@@ -1,0 +1,94 @@
+---
+id: EURegulation7201975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 720/75 of the Commission of 19 March 1975 amending
+    Regulation (EEC) No 2073/74 as regards the selling prices of certain beef and
+    veal held by the intervention agencies
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 720/75 de la Commission, du 19 mars 1975, modifiant
+    le règlement (CEE) n° 2073/74 en ce qui concerne les prix de vente de certaines
+    viandes bovines détenues par les organismes d' intervention
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 720/75 der Kommission vom 19. März 1975 zur Änderung
+    der Verordnung (EWG) Nr. 2073/74 betreffend die Verkaufspreise für gewisses Rindfleisch
+    im Besitz der Interventionsstellen
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 720/75 af 19. marts 1975 om ændring
+    af forordning (EØF) nr. 2073/74 for så vidt angår salgspriserne for visse former
+    for oksekød, som interventionsorganerne ligger inde med
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 720/75 della Commissione, del 19 marzo 1975, che modifica
+    il regolamento (CEE) n. 2073/74, per quanto concerne i prezzi di vendita di talune
+    carni bovine detenute dagli organismi d' intervento
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 720/75 van de Commissie van 19 maart 1975 tot wijziging
+    van Verordening (EEG) nr. 2073/74 inzake de verkoopprijzen van bepaalde soorten
+    rundvlees uit interventievoorraden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R0720
+docidentifier:
+- content: EU Regulation 720/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R0720
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/720/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-03-19'
+- type: implemented
+  at: '1975-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R2073
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

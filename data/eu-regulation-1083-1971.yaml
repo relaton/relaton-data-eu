@@ -1,0 +1,77 @@
+---
+id: EURegulation10831971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1083/71 du Conseil, du 25 mai 1971, prorogeant jusqu'au
+    14 juillet 1971 le délai pour les opérations de distillation des vins de table
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1083/71 des Rates vom 25. Mai 1971 zur Verlängerung
+    des Zeitraums für die Destillation von Tafelwein bis zum 14. Juli 1971
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1083/71 del Consiglio, del 25 maggio 1971, che proroga
+    fino al 14 luglio 1971 il termine per le operazioni di distillazione dei vini
+    da pasto
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1083/71 van de Raad van 25 mei 1971 houdende verlenging
+    tot en met 14 juli 1971 van de termijn voor de distillatie van tafelwijn
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1083
+docidentifier:
+- content: EU Regulation 1083/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1083
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1083/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-25'
+- type: implemented
+  at: '1971-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0776
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

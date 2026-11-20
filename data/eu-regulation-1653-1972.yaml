@@ -1,0 +1,98 @@
+---
+id: EURegulation16531972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1653/72 of the Council of 31 July 1972 amending the
+    guide prices for calves and adult bovine animals operative for the 1972/73 marketing
+    year
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1653/72 du Conseil, du 31 juillet 1972, modifiant
+    les prix d' orientation des veaux et des gros bovins valables pour la campagne
+    de commercialisation 1972-1973
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1653/72 des Rates vom 31. Juli 1972 zur Änderung
+    der Orientierungspreise für Kälber und ausgewachsene Rinder für das Wirtschaftsjahr
+    1972/1973
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1653/72 af 31. juli 1972 om ændring af orienteringspriserne
+    for kalve og voksent kvæg for produktionsåret 1972/1973
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1653/72 del Consiglio, del 31 luglio 1972, che modifica
+    i prezzi di orientamento per i vitelli e per i bovini adulti validi per la campagna
+    di commercializzazione 1972/1973
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1653/72 van de Raad van 31 juli 1972 tot wijziging
+    van de oriëntatieprijzen voor kalveren en voor volwassen runderen voor het verkoopseizoen
+    1972/1973
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R1653
+docidentifier:
+- content: EU Regulation 1653/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R1653
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/1653/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-07-31'
+- type: implemented
+  at: '1972-08-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0672
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R0651
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

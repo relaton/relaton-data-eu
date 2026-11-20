@@ -1,0 +1,70 @@
+---
+id: EURegulation22631969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2263/69 du Conseil, du 10 novembre 1969, modifiant
+    les droits du tarif douanier commun pour certains produits de jute
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2263/69 des Rates vom 10. November 1969 zur Änderung
+    der Sätze des Gemeinsamen Zolltarifs für bestimmte Juteerzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2263/69 del Consiglio, del 10 novembre 1969, che modifica
+    i dazi della tariffa doganale comune per alcuni prodotti di juta
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2263/69 van de Raad van 10 november 1969 tot wijziging
+    van de rechten van het gemeenschappelijk douanetarief voor sommige juteprodukten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2263
+docidentifier:
+- content: EU Regulation 2263/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2263
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2263/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-10'
+- type: implemented
+  at: '1969-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

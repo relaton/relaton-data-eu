@@ -1,0 +1,74 @@
+---
+id: EUDecision1966606
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/606/CEE de la Commission, du 4 octobre 1966, autorisant la
+    République fédérale d'Allemagne à suspendre partiellement la perception du
+    droit sur les tomates
+  type: main
+- language: de
+  script: Latn
+  content: '66/606/EWG: Entscheidung der Kommission vom 4. Oktober 1966, mit der die
+    Bundesrepublik Deutschland ermächtigt wird, die Erhebung des Zollsatzes für
+    Tomaten teilweise auszusetzen'
+  type: main
+- language: it
+  script: Latn
+  content: '66/606/CEE: Decisione della Commissione, del 4 ottobre 1966, che autorizza
+    la Repubblica federale di Germania a sospendere parzialmente la riscossione del
+    dazio doganale sui pomodori'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/606/EEG: Beschikking van de Commissie van 4 oktober 1966 waarbij de
+    Bondsrepubliek Duitsland wordt gemachtigd de heffing van het recht op tomaten
+    gedeeltelijk te schorsen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0606
+docidentifier:
+- content: EU Decision 1966/606
+  type: EU
+  primary: true
+- content: CELEX 31966D0606
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/606/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-10-04'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

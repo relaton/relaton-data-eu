@@ -1,0 +1,97 @@
+---
+id: EURegulation6421977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 642/77 of 29 March 1977 amending Regulation
+    (EEC) No 2964/76 fixing the free-at-frontier reference prices applicable to wine
+    imports from 16 December 1976
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 642/77 de la Commission, du 29 mars 1977, portant
+    modification du règlement (CEE) n° 2964/76 fixant les prix franco frontière
+    de référence applicables lors de l' importation des vins à partir du 16 décembre
+    1976
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 642/77 der Kommission vom 29. März 1977 zur Änderung
+    der Verordnung (EWG) Nr. 2964/76 zur Festsetzung der ab 16. Dezember 1976 bei
+    der Einfuhr von Wein anzuwendenden Referenzpreise frei Grenze
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 642/77 af 29. marts 1977 om ændring
+    af forordning (EØF) nr. 2964/76 om fastsættelse af referenceprisen franko grænse
+    ved indførsel af vin fra den 16. december 1976
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 642/77 della Commissione, del 29 marzo 1977, recante
+    modifica del regolamento (CEE) n. 2964/76, che fissa i prezzi franco frontiera
+    di riferimento applicabili all' importazione dei vini a decorrere dal 16 dicembre
+    1976
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 642/77 van de Commissie van 29 maart 1977 houdende
+    wijziging van Verordening (EEG) nr. 2964/76 tot vaststelling van de met ingang
+    van 16 december 1976 bij invoer van wijn toe te passen referentieprijzen franco
+    grens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R0642
+docidentifier:
+- content: EU Regulation 642/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R0642
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/642/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-03-29'
+- type: implemented
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2964
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

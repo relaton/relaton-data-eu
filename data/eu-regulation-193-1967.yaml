@@ -1,0 +1,80 @@
+---
+id: EURegulation1931967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 193/67/CEE du Conseil, du 27 juin 1967, modifiant le règlement
+    n° 16/64/CEE en ce qui concerne les restitutions à accorder au riz contenu dans
+    des produits transformés exportés vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 193/67/EWG des Rates vom 27. Juni 1967 zur Änderung der
+    Verordnung Nr. 16/64/EWG bezüglich der Erstattungen für Reis, der in nach dritten
+    Ländern ausgeführten Verarbeitungserzeugnissen enthalten ist
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 193/67/CEE del Consiglio. del 27 giugno 1967, che modifica
+    il regolamento n. 16/64/CEE per quanto concerne le restituzioni da accordare al
+    riso contenuto in prodotti trasformati esportati verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 193/67/EEG van de Raad van 27 juni 1967 houdende wijziging
+    van Verordening Nr. 16/64/EEG voor wat betreft de restituties voor rijst, verwerkt
+    in produkten die naar derde landen worden uitgevoerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0193
+docidentifier:
+- content: EU Regulation 193/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0193
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/193/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-27'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964R0016
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

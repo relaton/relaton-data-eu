@@ -1,0 +1,84 @@
+---
+id: EUDecision1964258
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 64/258/CEE de la Commission, du 2 avril 1964, portant modification
+    de sa décision du 19 décembre 1963, autorisant la perception de taxes compensatoires
+    à l'importation, en République fédérale d'Allemagne, de dextrines et d'amidons
+    et fécules solubles ou torréfiés en provenance des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '64/258/EWG: Entscheidung der Kommission vom 2. April 1964 zur Änderung
+    ihrer Entscheidung vom 19. Dezember 1963 über die Erhebung von Ausgleichsabgaben
+    auf Einfuhren von Dextrin, löslicher und gerösteter Stärke, aus verschiedenen
+    Mitgliedstaaten in die Bundesrepublik Deutschland'
+  type: main
+- language: it
+  script: Latn
+  content: '64/258/CEE: Decisione della Commissione, del 2 aprile 1964, recante modifica
+    alla decisione del 19 dicembre 1963 che autorizza la riscossione di tasse di compensazione
+    all''importazione nella Repubblica federale di Germania di destrine, amidi e fecole
+    solubili o torrefatti provenienti dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '64/258/EEG: Beschikking van de Commissie van 2 april 1964 tot wijziging
+    van haar beschikking van 19 december 1963 houdende machtiging tot het leggen van
+    een compenserende heffing op de invoer in de Bondsrepubliek Duitsland van dextrine
+    en oplosbaar of geroost zetmeel uit de andere Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964D0258
+docidentifier:
+- content: EU Decision 1964/258
+  type: EU
+  primary: true
+- content: CELEX 31964D0258
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1964/258/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-04-02'
+- type: implemented
+  at: '1964-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0017
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

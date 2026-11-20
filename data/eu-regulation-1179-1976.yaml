@@ -1,0 +1,96 @@
+---
+id: EURegulation11791976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1179/76 of 18 May 1976 amending the arrangements
+    for imports of beef and veal originating in certain African, Caribbean and Pacific
+    States provided for in Regulation (EEC) No 3328/75
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1179/76 du Conseil, du 18 mai 1976, modifiant le régime
+    d'importation de viande bovine originaire de certains États d'Afrique, des Caraïbes
+    et du Pacifique prévu par le règlement (CEE) n° 3328/75
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1179/76 des Rates vom 18. Mai 1976 zur Änderung der
+    in der Verordnung (EWG) Nr. 3328/75 vorgesehenen Einfuhrregelung für Rindfleisch
+    mit Ursprung in bestimmten Staaten in Afrika, im karibischen Raum und im Pazifischen
+    Ozean
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1179/76 af 18. maj 1976 om ændring af den
+    i forordning (EØF) nr. 3328/75 fastsatte importordning for oksekød med oprindelse
+    i visse stater i Afrika, Vestindien og Stillehavet
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1179/76 del Consiglio, del 18 maggio 1976, che modifica
+    il regime d'importazione per le carni bovine originarie di taluni Stati africani,
+    dei Caraibi e del Pacifico previsto dal regolamento (CEE) n. 3328/75
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1179/76 van de Raad van 18 mei 1976 tot wijziging
+    van de bij Verordening (EEG) nr. 3328/75 vastgestelde invoerregeling voor rundvlees
+    van oorsprong uit bepaalde Staten in Afrika, het Caribische gebied en de Stille
+    Oceaan
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1179
+docidentifier:
+- content: EU Regulation 1179/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1179
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1179/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-05-18'
+- type: implemented
+  at: '1976-05-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3328
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

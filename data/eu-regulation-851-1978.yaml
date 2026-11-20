@@ -1,0 +1,98 @@
+---
+id: EURegulation8511978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 851/78 of 24 April 1978 amending Regulation
+    (EEC) No 2114/71 on the subsidy for oil seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 851/78 du Conseil, du 24 avril 1978, modifiant le
+    règlement (CEE) n° 2114/71 relatif à l' aide pour les graines oléagineuses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 851/78 des Rates vom 24. April 1978 zur Änderung
+    der Verordnung (EWG) Nr. 2114/71 über die Beihilfe für Ölsaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 851/78 af 24. april 1978 om ændring af forordning
+    (EØF) nr. 2114/71 om støtten til olieholdige frø
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 851/78 του Συμβουλίου
+    της 24ης Απριλίου 1978 περί τροποποιήσεως του
+    κανονισμού (ΕΟΚ) αριθ. 2114/71 «περί της ενισχύσεως
+    για τους ελαιούχους σπόρους»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 851/78 del Consiglio, del 24 aprile 1978, che modifica
+    il regolamento (CEE) n. 2114/71 relativo all' integrazione concessa per i semi
+    oleosi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 851/78 van de Raad van 24 april 1978 tot wijziging
+    van Verordening (EEG) nr. 2114/71 betreffende de steun voor oliehoudende zaden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0851
+docidentifier:
+- content: EU Regulation 851/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0851
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/851/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-04-24'
+- type: implemented
+  at: '1978-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R2114
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

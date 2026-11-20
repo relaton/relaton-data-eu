@@ -1,0 +1,99 @@
+---
+id: EURegulation1351976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 135/76 of 22 January 1976 opening a second
+    invitation to tender and amending Regulation (EEC) No 3354/75 on the sale of skimmed-milk
+    powder for processing into compound feedingstuffs for pigs or poultry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 135/76 de la Commission, du 22 janvier 1976, portant
+    deuxième adjudication et modifiant le règlement (CEE) n° 3354/75 concernant
+    la vente de lait écrémé en poudre destiné à la transformation en aliments
+    composés pour des porcs ou de la volaille
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 135/76 der Kommission vom 22. Januar 1976 über die
+    zweite Ausschreibung und zur Änderung der Verordnung (EWG) Nr. 3354/75 über
+    den Verkauf von Magermilchpulver zur Verarbeitung zu Mischfutter für Schweine
+    und Geflügel
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 135/76 af 22. januar 1976 om anden
+    licitation og ændring af forordning (EØF) nr. 3354/75 om salg ved licitation
+    af skummetmælkspulver til nedsat pris, der er bestemt til forarbejdning til foderblandinger
+    til svin og fjerkræ
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 135/76 della Commissione, del 22 gennaio 1976, relativo
+    ad una seconda gara e recante modifica al regolamento (CEE) n. 3354/75 relativo
+    alla vendita di latte scremato in polvere destinato alla trasformazione in alimenti
+    composti per suini o pollame
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 135/76 van de Commissie van 22 januari 1976 houdende
+    een tweede openbare inschrijving en tot wijziging van Verordening (EEG) nr. 3354/
+    75 met betrekking tot de verkoop van magere-melkpoeder bestemd voor verwerking
+    tot mengvoeder voor varkens of pluimvee
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0135
+docidentifier:
+- content: EU Regulation 135/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0135
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/135/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-01-22'
+- type: implemented
+  at: '1976-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R3354
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

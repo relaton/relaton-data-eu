@@ -1,0 +1,94 @@
+---
+id: EURegulation4561979
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 456/79 of 7 March 1979 correcting Regulation
+    (EEC) No 386/79 amending Regulation (EEC) No 68/79 fixing countervailing charges
+    on seeds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 456/79 de la Commission, du 7 mars 1979, rectifiant
+    le règlement (CEE) n° 386/79 modifiant le règlement (CEE) n° 68/79 fixant
+    les taxes compensatoires dans le secteur des semences
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 456/79 der Kommission vom 7. März 1979 zur Berichtigung
+    der Verordnung (EWG) Nr. 386/79 zur Änderung der Verordnung (EWG) Nr. 68/79 zur
+    Festsetzung der Ausgleichsabgaben für Saatgut
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 456/79 af 7. marts 1979 om berigtigelse
+    til forordning (EØF) nr. 386/79 om ændring af forordning (EØF) nr. 68/79 om
+    fastsættelse af udligningsafgifter for frø
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 456/79 della Commissione, del 7 marzo 1979, che rettifica
+    il regolamento (CEE) n. 386/79, che modifica il regolamento (CEE) n. 68/79, che
+    fissa le tasse di compensazione nel settore delle sementi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 456/79 van de Commissie van 7 maart 1979 tot rectificatie
+    van Verordening (EEG) nr. 386/79 houdende wijziging van Verordening (EEG) nr.
+    68/79 tot vaststelling van de compenserende heffingen in de sector zaaizaad
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979R0456
+docidentifier:
+- content: EU Regulation 456/1979
+  type: EU
+  primary: true
+- content: CELEX 31979R0456
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1979/456/oj
+  type: ELI
+date:
+- type: issued
+  at: '1979-03-07'
+- type: implemented
+  at: '1979-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31979R0386
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,93 @@
+---
+id: EURegulation7451976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 745/76 of 31 March 1976 amending Regulation
+    (EEC) No 756/70 on granting aid for skimmed milk processed into casein and caseinates
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 745/76 de la Commission, du 31 mars 1976, modifiant
+    le règlement (CEE) n° 756/70 relatif à l' octroi des aides au lait écrémé
+    transformé en vue de la fabrication de caséine et de caséinates
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 745/76 der Kommission vom 31. März 1976 zur Änderung
+    der Verordnung (EWG) Nr. 756/70 über die Gewährung von Beihilfen für Magermilch,
+    die zu Kasein und Kaseinaten verarbeitet worden ist
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 745/76 af 31. marts 1976 om ændring
+    af forordning (EØF) nr. 756/70 om ydelse af støtte til skummetmælk, som er
+    blevet forarbejdet til kasein og kaseinater
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 745/76 della Commissione, del 31 marzo 1976, che modifica
+    il regolamento (CEE) n. 756/70 relativo alla concessione di aiuti per il latte
+    scremato trasformato per la fabbricazione di caseina e di caseinati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 745/76 van de Commissie van 31 maart 1976 houdende
+    wijziging van Verordening (EEG) nr. 756/70 betreffende de steunverlening voor
+    ondermelk, die tot caseïne en caseïnaten is verwerkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0745
+docidentifier:
+- content: EU Regulation 745/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0745
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/745/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-03-31'
+- type: implemented
+  at: '1976-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R0756
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

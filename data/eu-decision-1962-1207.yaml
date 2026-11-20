@@ -1,0 +1,72 @@
+---
+id: EUDecision19621207
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision du Conseil du 18 décembre 1962 portant suspension temporaire,
+    au titre de l'article 28 du Traité, de certains droits du Tarif douanier commun
+  type: main
+- language: de
+  script: Latn
+  content: Entscheidung des Rats vom 18. Dezember 1962 über die zeitweilige Aussetzung
+    - gemäß Artikel 28 des Vertrages - bestimmter Zollsätze des Gemeinsamen Zolltarifs
+  type: main
+- language: it
+  script: Latn
+  content: Decisione del Consiglio del 18 dicembre 1962 relativa alla sospensione
+    temporanea, ai sensi dell'articolo 28 del Trattato, di taluni dazi della tariffa
+    doganale comune
+  type: main
+- language: nl
+  script: Latn
+  content: Beschikking van de Raad van 18 december 1962 houdende tijdelijke schorsing,
+    op grond van artikel 28 van het Verdrag, van bepaalde rechten van het gemeenschappelijk
+    douanetarief
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962D1207P2953
+docidentifier:
+- content: EU Decision 1962/1207
+  type: EU
+  primary: true
+- content: CELEX 31962D1207P2953
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1962/1207/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-12-18'
+- type: implemented
+  at: '1963-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: decision
+  flavor: eu

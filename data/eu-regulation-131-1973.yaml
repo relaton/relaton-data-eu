@@ -1,0 +1,95 @@
+---
+id: EURegulation1311973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 131/73 of the Commission of 4 January 1973 applying
+    to raw tobacco Regulation No 1041/67/EEC on the detailed rules for the application
+    of export refunds
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 131/73 de la Commission, du 4 janvier 1973, rendant
+    applicable, dans le secteur du tabac brut, le règlement n° 1041/67/CEE portant
+    modalités d'application des restitutions à l'exportation
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 131/73 der Kommission vom 4. Januar 1973 für die
+    Anwendung der Verordnung (EWG) Nr. 1041/67/EWG über die Anwendungsmöglichkeiten
+    für Erstattungen bei der Ausfuhr innerhalb des Sektors für Rohtabak
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 131/73 af 4. januar 1973 om anvendelse
+    på råtobak af forordning nr. 1041/67/EØF om de nærmere regler for anvendelse
+    af eksportrestitutioner
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 131/73 della Commissione, del 4 gennaio 1973, recante
+    applicazione nel settore del tabacco greggio del regolamento n. 1041/67/CEE che
+    fissa le modalità di applicazione delle restituzioni all'esportazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 131/73 van de Commissie van 4 januari 1973 waarbij
+    Verordening nr. 1041/67/EEG houdende uitvoeringsbepalingen inzake de verlening
+    van restituties bij de uitvoer van toepassing wordt verklaard in de sector ruwe
+    tabak
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0131
+docidentifier:
+- content: EU Regulation 131/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0131
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/131/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-01-04'
+- type: implemented
+  at: '1973-01-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R1041
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

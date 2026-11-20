@@ -1,0 +1,93 @@
+---
+id: EURegulation1091976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 109/76 of 19 January 1976 laying down general
+    rules for granting compensation to producers of tunny for the canning industry
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 109/76 du Conseil, du 19 janvier 1976, établissant
+    les règles générales relatives à l'octroi de l'indemnité compensatoire aux
+    producteurs de thons destinés à l'industrie de la conserve
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 109/76 des Rates vom 19. Januar 1976 über die Grundregeln
+    für die Gewährung der Ausgleichsentschädigung an die Erzeuger von Thunfischen
+    für die Konservenindustrie
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 109/76 af 19. januar 1976 om fastsættelse
+    af de almindelige regler om ydelse af udligningsgodtgørelse til producenterne
+    af tunfisk, bestemt til konservesindustrien
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 109/76 del Consiglio, del 19 gennaio 1976, che stabilisce
+    norme generali relative alla concessione dell'indennità compensativa ai produttori
+    di tonni destinati all'industria conserviera
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 109/76 van de Raad van 19 januari 1976 houdende vaststelling
+    van de algemene voorschriften voor de toekenning van een compenserende vergoeding
+    aan de producenten van tonijn, bestemd voor de conservenindustrie
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R0109
+docidentifier:
+- content: EU Regulation 109/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R0109
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/109/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-01-19'
+- type: implemented
+  at: '1976-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0172
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

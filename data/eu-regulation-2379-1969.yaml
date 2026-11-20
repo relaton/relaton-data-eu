@@ -1,0 +1,80 @@
+---
+id: EURegulation23791969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2379/69 de la Commission, du 28 novembre 1969, relatif
+    à la diminution du montant compensatoire, applicable à certaines exportations
+    françaises de produits de l'aviculture vers les pays tiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2379/69 der Kommission vom 28. November 1969 über
+    die Verringerung des Ausgleichsbetrags bei bestimmten französischen Ausfuhren
+    von Erzeugnissen der Geflügelwirtschaft nach dritten Ländern
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2379/69 della Commissione, del 28 novembre 1969, relativo
+    alla diminuzione dell'importo di compensazione applicabile ed alcune esportazioni
+    francesi di prodotti dell'avicoltura verso i paesi terzi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2379/69 van de Commissie van 28 november 1969 betreffende
+    de verlaging van het compenserende bedrag dat geldt voor bepaalde Franse uitvoeren
+    van produkten van de pluimveehouderij naar derde landen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2379
+docidentifier:
+- content: EU Regulation 2379/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2379
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2379/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-11-28'
+- type: implemented
+  at: '1969-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1662
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

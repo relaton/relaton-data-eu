@@ -1,0 +1,116 @@
+---
+id: EURegulation28141972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2814/72 of the Commission of 22 December 1972 amending
+    Regulations (EEC) Nos 1769/72 and 1022/70 relating to the movement of products
+    in the wine sector and repealing Regulations (EEC) Nos 1699/70 and 1700/70 on
+    the control of certain products in that sector
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2814/72 de la Commission, du 22 décembre 1972, modifiant
+    les règlements (CEE) n°s 1769/72 et 1022/70 relatifs à la circulation des produits
+    du secteur viti-vinicole et abrogeant les règlements (CEE) n°s 1699/70 et 1700/70
+    relatifs au contrôle de certains produits de ce secteur
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2814/72 der Kommission vom 22. Dezember 1972 zur Änderung
+    der Verordnungen (EWG) Nrn. 1769/72 und 1022/70 über den Verkehr mit Erzeugnissen
+    des Weinbaus und zur Außerkraftsetzung der Verordnungen (EWG) Nrn. 1699/70 und
+    1700/70 hinsichtlich der Kontrolle bestimmter Erzeugnisse dieses Sektors
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2814/72 af 22. december 1972 om ændring
+    af forordningerne (EØF) nr. 1769/72 og 1022/70 vedrørende omsætning af produkter
+    fra vinsektoren og om ophævelse af forordningerne (EØF) nr. 1699/70 og 1700/70
+    om kontrol med visse produkter inden for denne sektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2814/72 della Commissione, del 22 dicembre 1972, che
+    modifica i regolamenti (CEE) n. 1769/72 e 1022/70 relativi alla circolazione dei
+    prodotti del settore vitivinicolo e che abroga i regolamenti (CEE) nn. 1699/70
+    e 1700/70 relativi al controllo di alcuni prodotti dello stesso settore
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2814/72 van de Commissie van 22 december 1972 tot
+    wijziging van de Verordeningen (EEG) nrs. 1769/72 en 1022/70 betreffende het verkeer
+    van produkten van de wijnbouwsector en tot opheffing van de Verordeningen (EEG)
+    nrs. 1699/70 en 1700/70 betreffende de controle op bepaalde produkten uit deze
+    sector
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R2814
+docidentifier:
+- content: EU Regulation 2814/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R2814
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/2814/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-12-22'
+- type: implemented
+  at: '1973-01-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1699
+      type: CELEX
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1700
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R1022
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R1769
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,105 @@
+---
+id: EURegulation25431973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2543/73 of the Council of 19 September 1973 amending
+    Regulation No 129 on the value of the unit of account and the exchange rates to
+    be applied for the purposes of the common agricultural policy
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2543/73 du Conseil, du 19 septembre 1973, modifiant
+    le règlement n° 129 relatif à la valeur de l' unité de compte et aux taux
+    de change à appliquer dans le cadre de la politique agricole commune
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2543/73 des Rates vom 19. September 1973 zur Änderung
+    der Verordnung Nr. 129 über den Wert der Rechnungseinheit und die im Rahmen der
+    gemeinsamen Agrarpolitik anzuwendenden Umrechnungskurse
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 2543/73 af 19. september 1973 om ændring
+    af forordning nr. 129 om regningsenhedens værdi og de vekselkurser, der skal
+    anvendes inden for den fælles landbrugspolitiks rammer
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (EOK) αριθ. 2543/73 τού Συμβουλίου
+    τής 19ης Σεπτεμβρίου 1973 περί τροποποιήσεως
+    τού κανονισμού αριθ. 129 «περί τής αξίας τής
+    λογιστικής μονάδος καί τών τιμών συναλλάγματος
+    πού πρέπει νά εφαρμόζονται στό πλαίσιο τής
+    κοινής γεωργικής πολιτικής»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2543/73 del Consiglio, del 19 settembre 1973, che
+    modifica il regolamento n. 129 relativo al valore dell' unità di conto e ai tassi
+    di cambio da applicare nel quadro della politica agricola comune
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2543/73 van de Raad van 19 september 1973 houdende
+    wijziging van Verordening nr. 129 inzake de waarde van de rekeneenheid en de wisselkoersen
+    die in het kader van het gemeenschappelijk landbouwbeleid moeten worden toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R2543
+docidentifier:
+- content: EU Regulation 2543/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R2543
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/2543/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-09-19'
+- type: implemented
+  at: '1973-09-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31962R0129
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

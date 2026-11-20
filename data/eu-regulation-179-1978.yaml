@@ -1,0 +1,104 @@
+---
+id: EURegulation1791978
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 179/78 of 31 January 1978 amending Regulation
+    (EEC) No 878/77 as regards the exchange rate for the pound sterling to be applied
+    in agriculture
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 179/78 du Conseil, du 31 janvier 1978, modifiant le
+    règlement (CEE) n° 878/77 en ce qui concerne le taux de change à appliquer
+    pour la livre anglaise dans le secteur agricole
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 179/78 des Rates vom 31. Januar 1978 zur Änderung
+    der Verordnung (EWG) Nr. 878/77 in bezug auf den Umrechnungskurs für das englische
+    Pfund in der Landwirtschaft
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 179/78 af 31. januar 1978 om ændring af
+    forordning (EØF) nr. 878/77 for så vidt angår den vekselkurs, der inden for
+    landbrugssektoren skal anvendes for det engelske pund
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 179/78 τού Συμβουλίου
+    τής 31ης Ιανουαρίου 1978 περί τροποποιήσεως τού
+    κανονισμού (ΕΟΚ) αριθ. 878/77 «περί τής τιμής συναλλάγματος
+    γιά τήν αγγλική λίρα πού πρέπει νά εφαρμόζεται
+    στό γεωργικό τομέα»
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 179/78 del Consiglio, del 31 gennaio 1978, che modifica
+    il regolamento (CEE) n. 878/77, per quanto concerne il tasso di cambio da applicare
+    alla sterlina britannica nel settore agricolo
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 179/78 van de Raad van 31 januari 1978 tot wijziging
+    van Verordening (EEG) nr. 878/77 ten aanzien van de in de landbouwsector voor
+    het Engelse pond toe te passen wisselkoers
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978R0179
+docidentifier:
+- content: EU Regulation 179/1978
+  type: EU
+  primary: true
+- content: CELEX 31978R0179
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1978/179/oj
+  type: ELI
+date:
+- type: issued
+  at: '1978-01-31'
+- type: implemented
+  at: '1978-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0878
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,87 @@
+---
+id: EUDecision1966158
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/158/CEE de la Commission, du 14 février 1966, portant nouvelle
+    modification de sa décision du 10 novembre 1964, autorisant la perception de
+    taxes compensatoires à l'importation, en République fédérale d'Allemagne,
+    de dextrines fabriquées à partir de fécule de pommes de terre ainsi que de
+    fécules de pommes de terre solubles ou torréfiées, en provenance de certains
+    États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/158/EWG: Entscheidung der Kommission vom 14. Februar 1966 zur erneuten
+    Änderung ihrer Entscheidung vom 10. November 1964 über die Erhebung von Ausgleichsabgaben
+    auf Einfuhren von Dextrin auf der Grundlage von Kartoffelstärke sowie von löslicher
+    oder gerösteter Kartoffelstärke aus verschiedenen Mitgliedstaaten in die Bundesrepublik
+    Deutschland'
+  type: main
+- language: it
+  script: Latn
+  content: '66/158/CEE: Decisione della Commissione, del 14 febbraio 1966, che modifica
+    nuovamente la decisione del 10 novembre 1964 con cui si autorizza la riscossione
+    di tasse di compensazione sull''importazione nella Repubblica federale di Germania,
+    di destrine a base di fecola di patate, nonché di fecole di patate solubili o
+    torrefatte provenienti da taluni Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/158/EEG: Beschikking van de Commissie van 14 februari 1966 tot nieuwe
+    wijziging van haar beschikking van 10 november 1964 houdende machtiging tot het
+    leggen van compenserende heffingen op de invoer in de Bondsrepubliek Duitsland
+    van dextrine vervaardigd uit aardappelzetmeel, oplosbaar of geroost aardappelzetmeel,
+    uit bepaalde Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0158
+docidentifier:
+- content: EU Decision 1966/158
+  type: EU
+  primary: true
+- content: CELEX 31966D0158
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/158/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31964D0676
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

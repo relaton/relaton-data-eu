@@ -1,0 +1,97 @@
+---
+id: EURegulation6641974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 664/74 of the Council of 28 March 1974 amending Regulation
+    (EEC) No 823/68 with regard to the conditions of admission for certain kinds of
+    cheeses
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 664/74 du Conseil, du 28 mars 1974, modifiant le règlement
+    (CEE) n° 823/68 en ce qui concerne les conditions d' admission de certains fromages
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 664/74 des Rates vom 28. März 1974 zur Änderung
+    der Verordnung (EWG) Nr. 823/68 hinsichtlich der Zulassungsbedingungen für bestimmte
+    Käsesorten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 664/74 af 28. marts 1974 om ændring af forordning
+    (EØF) nr. 823/68, for så vidt angår betingelserne for indførsel af visse ostesorter
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 664/74 del Consiglio, del 28 marzo 1974, che modifica
+    il regolamento (CEE) n. 823/68 per quanto riguarda le condizioni di ammissione
+    di taluni formaggi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 664/74 van de Raad van 28 maart 1974 tot wijziging
+    van Verordening (EEG) nr. 823/68 met betrekking tot de toelatingsvoorwaarden voor
+    bepaalde kaassoorten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R0664
+docidentifier:
+- content: EU Regulation 664/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R0664
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/664/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-03-28'
+- type: implemented
+  at: '1974-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R0823
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R0001
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

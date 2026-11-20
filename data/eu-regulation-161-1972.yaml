@@ -1,0 +1,99 @@
+---
+id: EURegulation1611972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 161/72 of the Commission of 25 January 1972 amending
+    Regulations (EEC) Nos 2637/70 and 2683/70 as regards the advance fixing of the
+    refund on butter
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 161/72 de la Commission, du 25 janvier 1972, modifiant
+    les règlements (CEE) n°s 2637/70 et 2683/70 en ce qui concerne la fixation à
+    l' avance de la restitution pour le beurre
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 161/72 der Kommission vom 25. Januar 1972 zur Änderung
+    der Verordnungen (EWG) Nrn. 2637/70 und 2683/70 hinsichtlich der Vorausfestsetzung
+    der Erstattung für Butter
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 161/72 af 25. januar 1972 om ændring
+    af forordningerne (EØF) nr. 2637/70 og 2683/70 med hensyn til forudfastsættelse
+    af restitutionen for smør
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 161/72 della Commissione, del 25 gennaio 1972, che
+    modifica i regolamenti (CEE) nn. 2637/70 e 2683/70 per quanto riguarda la fissazione
+    in anticipo della restituzione per il burro
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 161/72 van de Commissie van 25 januari 1972 houdende
+    wijziging van de Verordeningen (EEG) nrs. 2637/70 en 2683/70 met betrekking tot
+    het vooraf vaststellen van de restitutie voor boter
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0161
+docidentifier:
+- content: EU Regulation 161/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0161
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/161/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-01-25'
+- type: implemented
+  at: '1972-01-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2637
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31970R2683
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

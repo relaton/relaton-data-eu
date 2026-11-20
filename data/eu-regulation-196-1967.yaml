@@ -1,0 +1,70 @@
+---
+id: EURegulation1961967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 196/67/CEE de la Commission du 28 juin 1967 relatif à la
+    préfixation de la restitution à l'exportation des céréales
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 196/67/EWG der Kommission vom 28. Juni 1967 über die Vorausfestsetzung
+    der Erstattung bei der Ausfuhr von Getreide
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 196/67/CEE della Commissione, del 28 giugno 1967, relativo
+    alla determinazione in anticipo della restituzione all'esportazione dei cereali
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 196/67/EEG van de Commissie van 28 juni 1967 betreffende
+    het tevoren vaststellen van de restitutie bij uitvoer van granen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0196
+docidentifier:
+- content: EU Regulation 196/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0196
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/196/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-06-28'
+- type: implemented
+  at: '1967-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

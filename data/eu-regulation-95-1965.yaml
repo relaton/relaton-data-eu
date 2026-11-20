@@ -1,0 +1,69 @@
+---
+id: EURegulation951965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 95/65/CEE de la Commission, du 29 juin 1965, adaptant et fixant
+    les prix d'écluse pour les porcs et les produits à base de viande de porc pour
+    les importations effectuées durant le troisième trimestre 1965
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 95/65/EWG der Kommission vom 29. Juni 1965 zur Anpassung
+    und Festsetzung der Einschleusungspreise für Schweine und Schweinefleischerzeugnisse
+    für Einfuhren im 3. Vierteljahr 1965
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 95/65/CEE della Commissione, del 29 giugno 1965, che adalta
+    e fissa i prezzi limite per i suini e i prodotti a base di carni suine per le
+    importazioni effettuate nel terzo trimestre 1965
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 95/65/EEG van de Commissie van 29 juni 1965 houdende aanpassing
+    en vaststelling van de sluisprijzen voor varkens en varkensvleesprodukten, met
+    betrekking tot de invoer in het derde kwartaal van 1965
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0095
+docidentifier:
+- content: EU Regulation 95/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0095
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/95/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

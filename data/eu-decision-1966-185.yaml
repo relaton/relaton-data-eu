@@ -1,0 +1,82 @@
+---
+id: EUDecision1966185
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision 66/185/CEE de la Commission, du 2 mars 1966, portant modification
+    de sa décision du 7 février 1966, autorisant la perception de taxes compensatoires
+    sur les importations, en République fédérale d'Allemagne, de biscuits et gaufres
+    en provenance des autres États membres
+  type: main
+- language: de
+  script: Latn
+  content: '66/185/EWG: Entscheidung der Kommission vom 2. März 1966 über die Änderung
+    ihrer Entscheidung vom 7. Februar 1966 über die Erhebung von Ausgleichsabgaben
+    auf Einfuhren von Waffeln und Keksen aus den anderen, Mitgliedstaaten in die Bundesrepublik
+    Deutschland'
+  type: main
+- language: it
+  script: Latn
+  content: '66/185/CEE: Decisione della Commissione del 2 marzo 1966 che modifica
+    la decisione del 7 febbraio 1966 che autorizza la riscossione di tasse di compensazione
+    sulle importazioni, nella Repubblica federale di Germania, di biscotti e cialde
+    in provenienza dagli altri Stati membri'
+  type: main
+- language: nl
+  script: Latn
+  content: '66/185/EEG: Beschikking van de Commissie van 2 maart 1966 tot wijziging
+    van haar beschikking van 7 februari 1966 houdende machtiging tot het leggen van
+    compenserende heffingen op de invoer in de Bondsrepubliek Duitsland van biscuits
+    en wafels uit de overige Lid-Staten'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966D0185
+docidentifier:
+- content: EU Decision 1966/185
+  type: EU
+  primary: true
+- content: CELEX 31966D0185
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1966/185/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966D0151
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

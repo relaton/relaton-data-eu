@@ -1,0 +1,96 @@
+---
+id: EURegulation7051971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 705/71 of the Commission of 31 March 1971 amending
+    Regulation (EEC) No 1027/68 on the determination of prices of calves and adult
+    bovine animals on representative Community markets
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 705/71 de la Commission, du 31 mars 1971, modifiant
+    le règlement (CEE) n° 1027/68 relatif à la détermination des prix des veaux
+    et des gros bovins constatés sur les marchés représentatifs de la Communauté
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 705/71 der Kommission vom 31. März 1971 zur Änderung
+    der Verordnung (EWG) Nr. 1027/68 über die Bestimmung der auf den repräsentativen
+    Märkten der Gemeinschaft festgestellten Preise für Kälber und ausgewachsene
+    Rinder
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 705/71 af 31. marts 1971 om ændring
+    af forordning (EØF) nr. 1027/68 om bestemmelsen af de på Fællesskabets repræsentative
+    markeder konstaterede priser for kalve og voksent kvæg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 705/71 della Commissione, del 31 marzo 1971, che modifica
+    il regolamento (CEE) n. 1027/68 relativo alla determinazione dei prezzi dei vitelli
+    e dei bovini constatati sui mercati rappresentativi della Comunità
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 705/71 van de Commissie van 31 maart 1971 houdende
+    wijziging van Verordening (EEG) nr. 1027/68 betreffende de bepaling van de op
+    de representatieve markten van de Gemeenschap geconstateerde prijs voor kalveren
+    en voor volwassen runderen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0705
+docidentifier:
+- content: EU Regulation 705/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0705
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/705/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-03-31'
+- type: implemented
+  at: '1971-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31968R1027
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

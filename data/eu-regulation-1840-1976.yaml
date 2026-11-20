@@ -1,0 +1,94 @@
+---
+id: EURegulation18401976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1840/76 of 29 July 1976 amending Regulation
+    (EEC) No 1667/76 laying down protective measures applicable to exports of fodder
+    products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1840/76 de la Commission, du 29 juillet 1976, modifiant
+    le règlement (CEE) n° 1667/76 arrêtant les mesures de sauvegarde applicables
+    à l' exportation de produits fourragers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1840/76 der Kommission von 29. Juli 1976 zur Änderung
+    der Verordnung (EWG) Nr. 1667/76 zum Erlaß von Schutzmaßnahmen bei der Ausfuhr
+    von Futtermitteln
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 1840/76 af 29. juli 1976 om ændring
+    af forordning (EØF) nr. 1667/76 om fastsættelse af beskyttelsesforanstaltninger
+    gældende ved udførsel af foderstoffer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1840/76 della Commissione, del 29 luglio 1976, recante
+    modifica del regolamento (CEE) n. 1667/76, che stabilisce misure di salvaguardia
+    applicabili all' esportazione di prodotti foraggeri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1840/76 van de Commissie van 29 juli 1976 tot wijziging
+    van Verordening (EEG) nr. 1667/76 houdende vrijwaringsmaatregelen bij de uitvoer
+    van voedergewassen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R1840
+docidentifier:
+- content: EU Regulation 1840/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R1840
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/1840/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-07-29'
+- type: implemented
+  at: '1976-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R1667
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

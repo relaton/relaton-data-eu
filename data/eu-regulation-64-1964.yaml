@@ -1,0 +1,69 @@
+---
+id: EURegulation641964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 64/64/CEE du Conseil, du 10 juin 1964, concernant certaines
+    mesures à appliquer dans le domaine des prix des céréales pour la campagne
+    1964/1965
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 64/64/EWG des Rates vom 10. Juni 1964 betreffend gewisse
+    MaDnahmen, die für das Wirtschaftsjahr 1964/1965 auf dem Gebiet der Getreidepreise
+    anzuwenden sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 64/64/CEE del Consiglio, del 10 giugno 1964, relativo a
+    talune misure da applicare nel settore dei prezzi dei cereali per la campagna
+    1964/1965
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 64/64/EEG van de Raad van 10 juni 1964 betreffende bepaalde
+    maatregelen die moeten worden toegepast op het gebied van de graanprijzen voor
+    het verkoopseizoen 1964/1965
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0064
+docidentifier:
+- content: EU Regulation 64/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0064
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/64/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

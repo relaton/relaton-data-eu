@@ -1,0 +1,142 @@
+---
+id: EURegulation15791991
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1579/91 of 11 June 1991 amending Regulations
+    (EEC) No 3540/85 and (EEC) No 1561/90 as regards certain transitional measures
+    relating to peas, field beans and sweet lupins
+  type: main
+- language: fr
+  script: Latn
+  content: 'RÈGLEMENT (CEE) No 1579/91 DE LA COMMISSION du 11 juin 1991 modifiant
+    les règlements (CEE) no 3540/85 et (CEE) no 1561/90 en ce qui concerne certaines
+    mesures transitoires dans le secteur des pois, fèves, féveroles et lupins doux
+    #'
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 1579/91 DER KOMMISSION vom 11. Juni 1991 zur Änderung
+    der Verordnungen (EWG) Nr. 3540/85 und (EWG) Nr. 1561/90 hinsichtlich einiger
+    Übergangsmaßnahmen im Sektor Erbsen, Puffbohnen, Ackerbohnen und Süßlupinen
+    #'
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1579/91 af 11. juni 1991 om ændring
+    af forordning (EØF) nr. 3540/85 og (EØF) nr. 1561/90 for så vidt angår overgangsforanstaltninger
+    for ærter, bønner, hestebønner og sødlupiner
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1579/91 της Επιτροπής
+    της 11ης Ιουνίου 1991 που τροποποιεί τους κανονισμούς
+    (ΕΟΚ) αριθ. 3540/85 και (ΕΟΚ) αριθ. 1561/90 όσον αφορά
+    ορισμένα μεταβατικά μέτρα για τα πίσα, τα κουκιά,
+    τα φούλια και τα γλυκά λούπινα
+  type: main
+- language: fi
+  script: Latn
+  content: KOMISSION ASETUS (ETY) N:o 1579/91, annettu 11 päivänä kesäkuuta 1991,
+    asetusten (ETY) N:o 3540/85 ja (ETY) N:o 1561/90 muuttamisesta tiettyjen herneiden,
+    härkäpapujen ja makeiden lupiinien alaa koskevien siirtymätoimenpiteiden osalta
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 1579/91 DELLA COMMISSIONE dell'' 11 giugno 1991 che
+    modifica i regolamenti (CEE) n. 3540/85 e n. 1561/90 in ordine a talune misure
+    transitorie nel settore dei piselli, fave, favette e lupini dolci #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 1579/91 VAN DE COMMISSIE van 11 juni 1991 tot wijziging
+    van de Verordeningen (EEG) nr. 3540/85 en (EEG) nr. 1561/90 met betrekking tot
+    bepaalde overgangsmaatregelen in de sector erwten, tuin- en veldbonen en niet-bittere
+    lupinen #'
+  type: main
+- language: pt
+  script: Latn
+  content: REGULAMENTO ( CEE ) NO 1579/91 DA COMISSAO, DE 11 DE JUNHO DE 1991, QUE
+    ALTERA OS REGULAMENTOS ( CEE ) NO 3540/85 E ( CEE ) NO 1561/90 NO QUE DIZ RESPEITO
+    A CERTAS MEDIDAS TRANSITORIAS NO SECTOR DAS ERVILHAS, FAVAS, FAVAROLAS E TREMOCOS
+    DOCES
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 1579/91 DE LA COMISIÓN de 11 de junio de 1991 por
+    el que se modifican los Reglamentos (CEE) nos 3540/85 y 1561/90 en lo referente
+    a determinadas medidas transitorias en el sector de los guisantes, las habas,
+    los haboncillos y los altramuces dulces #'
+  type: main
+- language: sv
+  script: Latn
+  content: KOMMISSIONENS FÖRORDNING (EEG) nr 1579/91 av den 11 juni 1991 om ändring
+    av förordningarna (EEG) nr 3540/85 och (EEG) nr 1561/90 vad avser vissa övergångsbestämmelser
+    om ärter, åkerbönor och sötlupiner
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991R1579
+docidentifier:
+- content: EU Regulation 1579/1991
+  type: EU
+  primary: true
+- content: CELEX 31991R1579
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1991/1579/oj
+  type: ELI
+date:
+- type: issued
+  at: '1991-06-11'
+- type: implemented
+  at: '1991-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- fi
+- it
+- nl
+- pt
+- es
+- sv
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31985R3540
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31990R1561
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

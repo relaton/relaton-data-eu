@@ -1,0 +1,100 @@
+---
+id: EURegulation33301975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3330/75 of the Council of 18 December 1975 amending
+    Regulation (EEC) No 3255/74 extending and amending Regulation (EEC) No 1174/68
+    on the introduction of a system of bracket tariffs for the carriage of goods by
+    road between Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3330/75 du Conseil, du 18 décembre 1975, modifiant
+    le règlement (CEE) n° 3255/74 prorogeant et modifiant le règlement (CEE) n°
+    1174/68 relatif à l'instauration d'un système de tarifs à fourchettes applicables
+    aux transports de marchandises par route entre les États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3330/75 des Rates vom 18. Dezember 1975 zur Änderung
+    der Verordnung (EWG) Nr. 3255/74 zur Verlängerung und Änderung der Verordnung
+    (EWG) Nr. 1174/68 über die Einführung eines Margentarifsystems im Güterkraftverkehr
+    zwischen den Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3329/75 af 18. december 1975 om ændring
+    af forordning (EØF) nr. 3255/74 om forlængelse af gyldigheden af og ændring
+    af forordning (EØF) nr. 1174/68 om indførelse af et gaffeltarifsystem for godstransport
+    ad landevej mellem medlemsstaterne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3330/75 del Consiglio, del 18 dicembre 1975, che modifica
+    il regolamento (CEE) n. 3255/74 che proroga e modifica il regolamento (CEE) n.
+    1174/68 relativo all'instaurazione di un sistema di tariffe a forcella applicabili
+    ai trasporti di merci su strada fra gli Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3330/75 van de Raad van 18 december 1975 tot wijziging
+    van Verordening (EEG) nr. 3255/74 houdende verlenging van de geldigheidsduur en
+    wijziging van Verordening (EEG) nr. 1174/68 betreffende de invoering van een stelsel
+    van margetarieven voor het goederenvervoer over de weg tussen de Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3330
+docidentifier:
+- content: EU Regulation 3330/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3330
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3330/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-12-18'
+- type: implemented
+  at: '1976-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R3255
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

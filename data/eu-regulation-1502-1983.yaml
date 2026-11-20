@@ -1,0 +1,106 @@
+---
+id: EURegulation15021983
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 1502/83 of 9 June 1983 repealing Regulation
+    (EEC) No 670/83 on transitional measures concerning the application of certain
+    monetary compensatory amounts in the trade of certain Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1502/83 de la Commission du 9 juin 1983 abrogeant le
+    règlement (CEE) no 670/83 relatif à des mesures transitoires concernant l' application
+    de certains montants compensatoires monétaires dans les échanges de certains
+    États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1502/83 der Kommission vom 9. Juni 1983 zur Aufhebung
+    der Verordnung (EWG) Nr. 670/83 mit Übergangsmaßnahmen für die Anwendung von
+    Währungsausgleichsbeträgen im Handel zwischen einigen Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1502/83 af 9. juni 1983 om ophævelse
+    af forordning (EØF) nr. 670/83 om overgangsforanstaltninger i forbindelse med
+    anvendelsen af visse monetære udligningsbeløb i samhandelen mellem visse medlemsstater
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1502/83 της Επιτροπής
+    της 9ης Ιουνίου 1983 που καταργεί τον κανονισμό
+    (ΕΟΚ) αριθ. 670/83 για τα προσωρινά μέτρα σχετικά
+    με την εφαρμογή ορισμένων νομισματικών αντισταθμιστικών
+    ποσών στις συναλλαγές με ορισμένα Κράτη μέλη
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1502/83 della Commissione del 9 giugno 1983 che abroga
+    il regolamento (CEE) n. 670/83 relativo a misure transitorie concernenti l' applicazione
+    di taluni importi compensativi monetari negli scambi tra alcuni Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1502/83 van de Commissie van 9 juni 1983 tot intrekking
+    van Verordening (EEG) nr. 670/83 houdende overgangsmaatregelen inzake de toepassing
+    van bepaalde monetaire compenserende bedragen in het handelsverkeer van sommige
+    Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983R1502
+docidentifier:
+- content: EU Regulation 1502/1983
+  type: EU
+  primary: true
+- content: CELEX 31983R1502
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1983/1502/oj
+  type: ELI
+date:
+- type: issued
+  at: '1983-06-09'
+- type: implemented
+  at: '1983-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31983R0670
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

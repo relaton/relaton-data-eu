@@ -1,0 +1,81 @@
+---
+id: EURegulation611967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 61/67/CEE du Conseil, du 21 mars 1967, modifiant le règlement
+    n° 160/66/CEE par le report de la date de mise en application du régime d'échanges
+    et par l'abrogation de l'article 2 du règlement n° 167/64/CEE
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 61/67/EWG des Rates vom 21. März 1967 zur Änderung der
+    Verordnung Nr. 160/66/EWG in bezug auf den Beginn der Anwendung der Handelsregelung
+    und über die Aufhebung von Artikel 2 der Verordnung Nr. 167/64/EWG
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 61/67/CEE del Consiglio, del 21 marzo 1967, che modifica
+    il regolamento n. 160/66/CEE per quanto riguarda la data di applicazione del regime
+    di scambi e abroga l'articolo 2 del regolamento n. 167/64/CEE
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 61/67/EEG van de Raad van 21 maart 1.967 houdende wijziging
+    van Verordening Nr. 160/66/EEG met betrekking tot de verschuiving van de datum
+    van de daadwerkelijke toepassing van de handelsregeling en het vervallen van artikel
+    2 van Verordening Nr. 167/64/EEG
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0061
+docidentifier:
+- content: EU Regulation 61/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0061
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/61/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-03-21'
+- type: implemented
+  at: '1967-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31966R0160
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,85 @@
+---
+id: EURegulation21831969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2183/69 de la Commission, du 31 octobre 1969, modifiant
+    les règlements (CEE) n° 1489/69 et 1659/69 relatif à la vente pour la transformation
+    de beurre de stock public
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2183/69 der Kommission vom 31. Oktober 1969 zur Änderung
+    der Verordnungen (EWG) Nr. 1489/69 und Nr. 1659/69 über den Verkauf von Butter
+    aus öffentlicher Lagerhaltung an die Verarbeitungsindustrie
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2183/69 della Commissione, del 31 ottobre 1969, che
+    modifica i regolamenti (CEE) n. 1489/69 e n. 1659/69 relativi alla vendita di
+    burro d'ammasso pubblico destinato alla trasformazione
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2183/69 van de Commissie van 31 oktober 1969 houdende
+    wijziging van de Verordeningen (EEG) nr. 1489/69 en nr. 1659/69 betreffende de
+    verkoop van boter uit overheidsopslag voor verwerkingsdoeleinden
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2183
+docidentifier:
+- content: EU Regulation 2183/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2183
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2183/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-10-31'
+- type: implemented
+  at: '1969-11-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1489
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R1659
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

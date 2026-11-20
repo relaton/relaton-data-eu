@@ -1,0 +1,113 @@
+---
+id: EURegulation16041992
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1604/92 of 15 June 1992 amending Regulation
+    (EEC) No 2504/88 on free zones and free warehouses
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1604/92 du Conseil du 15 juin 1992 modifiant le règlement
+    (CEE) n° 2504/88 relatif aux zones franches et entrepôts francs
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 1604/92 DES RATES vom 15. Juni 1992 zur Änderung
+    der Verordnung (EWG) Nr. 2504/88 über Freizonen und Freilager #'
+  type: main
+- language: da
+  script: Latn
+  content: 'RÅDETS FORORDNING (EØF) Nr. 1604/92 af 15. juni 1992 om ændring af
+    forordning (EØF) nr. 2504/88 om frizoner og frilagre #'
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1604/92 του Συμβουλίου
+    της 15ης Ιουνίου 1992 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 2504/88 για τις ελεύθερες
+    ζώνες και τις ελεύθερες αποθήκες
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) No 1604/92 DEL CONSIGLIO del 15 giugno 1992 che modifica
+    il regolamento (CEE) n. 2504/88 relativo alle zone franche e ai depositi franchi
+    #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) NR. 1604/92 VAN DE RAAD van 15 juni 1992 houdende wijziging
+    van Verordening (EEG) nr. 2504/88 betreffende de vrije zones en de vrije entrepots
+    #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) No 1604/92 DO CONSELHO de 15 de Junho de 1992 que altera
+    o Regulamento (CEE) no 2504/88, relativo às zonas francas e aos entrepostos francos
+    #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 1604/92 DEL CONSEJO de 15 de junio de 1992 por el
+    que se modifica el Reglamento (CEE) no 2504/88 relativo a las zonas francas y
+    depósitos francos #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992R1604
+docidentifier:
+- content: EU Regulation 1604/1992
+  type: EU
+  primary: true
+- content: CELEX 31992R1604
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1992/1604/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-06-15'
+- type: implemented
+  at: '1992-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R2504
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

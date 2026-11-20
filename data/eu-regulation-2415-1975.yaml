@@ -1,0 +1,94 @@
+---
+id: EURegulation24151975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2415/75 of the Commission of 22 September 1975 amending
+    Regulation (EEC) No 1921/75 laying down certain transitional measures in respect
+    of starches
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2415/75 de la Commission, du 22 septembre 1975, modifiant
+    le règlement (CEE) n° 1921/75 portant certaines mesures transitoires pour les
+    produits amylacés
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2415/75 der Kommission vom 22. September 1975 zur
+    Änderung der Verordnung (EWG) Nr. 1921/75 betreffend Übergangsmaßnahmen für
+    stärkehaltige Erzeugnisse
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2415/75 af 22. september 1975 om ændring
+    af forordning (EØF) nr. 1921/75 om visse midlertidige foranstaltninger for stivelsesholdige
+    varer
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2415/75 della Commissione, del 22 settembre 1975,
+    che modifica il regolamento (CEE) n. 1921/75 relativo ad alcune misure transitorie
+    per i prodotti amidacei
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2415/75 van de Commissie van 22 september 1975 tot
+    wijziging van Verordening (EEG) nr. 1921/75 houdende overgangsmaatregelen voor
+    zetmeelhoudende produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R2415
+docidentifier:
+- content: EU Regulation 2415/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R2415
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/2415/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-09-22'
+- type: implemented
+  at: '1975-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R1921
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

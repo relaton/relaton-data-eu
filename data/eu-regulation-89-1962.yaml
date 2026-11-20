@@ -1,0 +1,66 @@
+---
+id: EURegulation891962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 89 de la Commission fixant les critères servant à la détermination
+    des prix franco-frontière pour les céréales, farines, gruaux et semoules
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 89 der Kommission über die Kriterien für die Bestimmung
+    der Frei-Grenze-Preise für Getreide, Mehl, Grob- und FeingrieD
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 89 della Commissione che stabilisce i criteri per la determinazione
+    dei prezzi franco-frontiera per i cereali, le farine, le semole ed i semolini
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 89 van de Commissie houdende vaststelling van de criteria
+    voor de bepaling van de prijzen franco grens voor granen, meel, grutten, gries
+    en griesmeel
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0089
+docidentifier:
+- content: EU Regulation 89/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0089
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/89/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,69 @@
+---
+id: EURegulation9921971
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 992/71 de la Commission, du 13 mai 1971, fixant les
+    prélèvements à l'importation de veaux et de gros bovins, ainsi que de viandes
+    bovines autres que les viandes congelées
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 992/71 der Kommission vom 13. Mai 1971 zur Festsetzung
+    der Abschöpfungen bei der Einfuhr von Kälbern und ausgewachsenen Rindern sowie
+    von Rindfleisch, ausgenommen gefrorenes Rindfleisch
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 992/71 della Commissione, del 13 maggio 1971, che
+    fissa i prelievi all'importazione di vitelli e di bovini adulti nonché di carni
+    bovine diverse da quelle congelate
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 992/71 van de Commissie van 13 mei 1971 houdende
+    vaststelling van de heffingen bij de invoer van kalveren en volwassen runderen
+    en van ander dan bevroren vlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R0992
+docidentifier:
+- content: EU Regulation 992/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R0992
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/992/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

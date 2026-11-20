@@ -1,0 +1,94 @@
+---
+id: EURegulation17161974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1716/74 of the Council of 27 June 1974 amending Regulation
+    No 145/67/EEC laying down rules for calculating the levy and the sluice-gate price
+    for eggs
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1716/74 du Conseil, du 27 juin 1974, modifiant le
+    règlement n° 145/67/CEE déterminant les règles pour le calcul du prélèvement
+    et du prix d'écluse applicables dans le secteur des oeufs
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1716/74 des Rates vom 27. Juni 1974 zur Änderung
+    der Verordnung Nr. 145/67/EWG zur Festsetzung der Vorschriften für die Berechnung
+    der Abschöpfung und des Einschleusungspreises für Eier
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 1716/74 af 27. juni 1974 om ændring af forordning
+    nr. 145/67/EØF om fastsættelse af reglerne for beregning af importafgift og
+    slusepris for æg
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1716/74 del Consiglio, del 27 giugno 1974, recante
+    modifica del regolamento n. 145/67/CEE, che determina le norme per il calcolo
+    del prelievo e del prezzo limite applicabili nel settore delle uova
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1716/74 van de Raad van 27 juni 1974 tot wijziging
+    van Verordening nr. 145/67/EEG houdende vaststelling van de voorschriften voor
+    de berekening van de heffing en de sluisprijs voor eieren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R1716
+docidentifier:
+- content: EU Regulation 1716/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R1716
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/1716/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-06-27'
+- type: implemented
+  at: '1974-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31967R0145
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,83 @@
+---
+id: EURegulation3791970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 379/70 de la Commission, du 27 février 1970, modifiant
+    le règlement (CEE) n° 789/69 relatif à la vente de beurre à prix réduit à
+    certaines entreprises de transformation exportatrices fabriquant des mélanges
+    de graisses
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 379/70 der Kommission vom 27. Februar 1970 zur Änderung
+    der Verordnung (EWG) Nr. 789/69 über den Absatz von Butter zu herabgesetzten
+    Preisen an bestimmte ausführende Verarbeitungsbetriebe in der Gemeinschaft
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 379/70 della Commissione, del 27 febbraio 1970, che
+    modifica il regolamento (CEE) n. 789/69 relativo alla vendita di burro a prezzo
+    ridotto ad alcune imprese di trasformazione esportatrici che fabbricano miscele
+    di grassi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 379/70 van de Commissie van 27 februari 1970 houdende
+    wijziging van Verordening (EEG) nr. 789/69 betreffende de verkoop van boter tegen
+    verlaagde prijs aan bepaalde ondernemingen, welke deze met het oog op de uitvoer
+    verwerken tot mengsels van vetten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R0379
+docidentifier:
+- content: EU Regulation 379/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R0379
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/379/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-02-27'
+- type: implemented
+  at: '1970-03-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0789
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

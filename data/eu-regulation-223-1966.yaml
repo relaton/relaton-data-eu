@@ -1,0 +1,74 @@
+---
+id: EURegulation2231966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement 223/66/CEE du Conseil, du 22 décembre 1966, portant prorogation
+    de la période d'attribution de l'indemnité forfaitaire temporaire visée à
+    l'article 4 bis de l'annexe VII du statut des fonctionnaires
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 16/66/Euratom, 223/66/EWG der Räte vom 22. Dezember 1966
+    zur Verlängerung des Zeitraums der Gewährung der in Anhang VII Artikel 4 a des
+    Statuts der Beamten vorgesehenen vorübergehenden Pauschalzulage
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 16/66/Euratom, 223/66/CEE dei Consigli, del 22 dicembre
+    1966, recante proroga della durata dell'indennità forfetaria temporanea di cui
+    all'articolo 4 bis dell'allegato VII dello statuto dei funzionari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 16/66/Euratom, 223/66/EEG van de Raden van 22 december
+    1966 houdende verlenging van het tijdvak van toekenning van de tijdelijke vaste
+    vergoeding bedoeld in artikel 4 bis van bijlage VII van het Statuut van de ambtenaren
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0223
+docidentifier:
+- content: EU Regulation 223/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0223
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/223/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-12-22'
+- type: implemented
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

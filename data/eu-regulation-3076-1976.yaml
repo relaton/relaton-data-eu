@@ -1,0 +1,97 @@
+---
+id: EURegulation30761976
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 3076/76 of 13 December 1976 amending Regulation
+    (EEC) No 2632/76 on the opening, allocation and administration of a Community
+    tariff quota for certain hand-made products
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3076/76 du Conseil, du 13 décembre 1976, modifiant
+    le règlement (CEE) n° 2632/76 portant ouverture, répartition et mode de gestion
+    d'un contingent tarifaire communautaire concernant certains produits faits à
+    la main
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3076/76 des Rates vom 13. Dezember 1976 zur Änderung
+    der Verordnung (EWG) Nr. 2632/76 über die Eröffnung, Aufteilung und Verwaltung
+    eines Gemeinschaftszollkontingents für bestimmte handgearbeitete Waren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3076/76 af 13. december 1976 om ændring
+    af forordning (EØF) nr. 2632/76 om åbning, fordeling og forvaltning af et fællesskabstoldkontingent
+    for visse varer fremstillet i hånden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3076/76 del Consiglio, del 13 dicembre 1976, che modifica
+    il regolamento (CEE) n. 2632/76, recante apertura, ripartizione e modalità di
+    gestione di un contingente tariffario comunitario per alcuni prodotti fatti a
+    mano
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3076/76 van de Raad van 13 december 1976 tot wijziging
+    van Verordening (EEG) nr. 2632/76 betreffende de opening, de verdeling en de wijze
+    van beheer van een communautair tariefcontingent voor bepaalde met de hand vervaardigde
+    produkten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976R3076
+docidentifier:
+- content: EU Regulation 3076/1976
+  type: EU
+  primary: true
+- content: CELEX 31976R3076
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1976/3076/oj
+  type: ELI
+date:
+- type: issued
+  at: '1976-12-13'
+- type: implemented
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R2632
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,114 @@
+---
+id: EURegulationNo20501992
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 2050/92 of 30 June 1992 amending Regulation
+    (EEC) No 3698/88 laying down special measures for hemp seed
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2050/92 du Conseil du 30 juin 1992 modifiant le règlement
+    (CEE) n° 3698/88 prévoyant des mesures spéciales pour les graines de chanvre
+  type: main
+- language: de
+  script: Latn
+  content: 'VERORDNUNG (EWG) Nr. 2050/92 DES RATES vom 30. Juni 1992 zur Änderung
+    der Verordnung (EWG) Nr. 3698/88 über Sondermaßnahmen für Hanfsaaten #'
+  type: main
+- language: da
+  script: Latn
+  content: 'RÅDETS FORORDNING (EØF) Nr. 2050/92 af 30. juni 1992 om ændring af
+    forordning (EØF) nr. 3698/88 om fastsættelse af særforanstaltninger for hampefrø
+    #'
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 2050/92 του Συμβουλίου
+    της 30ής Ιουνίου 1992 για την τροποποίηση του
+    κανονισμού (ΕΟΚ) αριθ. 3698/88 περί ειδικών μέτρων
+    για τους σπόρους καννάβεως
+  type: main
+- language: it
+  script: Latn
+  content: 'REGOLAMENTO (CEE) N. 2050/92 DEL CONSIGLIO del 30 giugno 1992 recante
+    modifica del regolamento (CEE) n. 3698/88 che prevede misure speciali per i semi
+    di canapa #'
+  type: main
+- language: nl
+  script: Latn
+  content: 'VERORDENING (EEG) Nr. 2050/92 VAN DE RAAD van 30 juni 1992 tot wijziging
+    van Verordening (EEG) nr. 3698/88 tot vaststelling van bijzondere maatregelen
+    voor hennepzaad #'
+  type: main
+- language: pt
+  script: Latn
+  content: 'REGULAMENTO (CEE) No. 2050/92 DO CONSELHO de 30 de Junho de 1992 que altera
+    o Regulamento (CEE) no. 3698/88, que prevê medidas especiais para as sementes
+    de cânhamo #'
+  type: main
+- language: es
+  script: Latn
+  content: 'REGLAMENTO (CEE) No 2050/92 DEL CONSEJO de 30 de junio de 1992 que modifica
+    el Reglamento (CEE) no 3698/88 por el que se establecen medidas especiales para
+    las semillas de cáñamo #'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992R2050
+docidentifier:
+- content: EU Regulation No 2050/1992
+  type: EU
+  primary: true
+- content: CELEX 31992R2050
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1992/2050/oj
+  type: ELI
+date:
+- type: issued
+  at: '1992-06-30'
+- type: implemented
+  at: '1992-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31988R3698
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

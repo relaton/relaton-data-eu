@@ -1,0 +1,69 @@
+---
+id: EURegulation3801967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 380/67/CEE de la Commission, du 29 juillet 1967, portant modification
+    des annexes du règlement n 157/64/CEE en ce qui concerne les produits du groupe
+    n 8 et le Cheddar
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 380/67/EWG der Kommission vom 29. Juli 1967 zur Änderung
+    des Anhangs der Verordnung Nr. 157/64/EWG für die Erzeugnisse der Gruppe Nr.
+    8 und Cheddar
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 380/67/CEE della Commissione, del 29 luglio 1967, che modifica
+    gli allegati del regolamento n. 157/64/CEE per quanto concerne i prodotti del
+    gruppo n. 8 ed il Cheddar
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 380/67/EEG van de Commissie van 29 juli 1967 houdende wijziging
+    van de bijlagen van Verordening no. 157/64/EEG ten aanzien van de produkten van
+    groep no. 8 en Cheddar
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0380
+docidentifier:
+- content: EU Regulation 380/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0380
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/380/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

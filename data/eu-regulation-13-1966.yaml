@@ -1,0 +1,73 @@
+---
+id: EURegulation131966
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 13/66/CEE du Conseil, du 16 février 1966, relatif aux mesures
+    particulières concernant la vente, après transformation en beurre fondu, de
+    beurre de stock privé
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 13/66/EWG des Rates vom 16. Februar 1966 über besondere
+    Maßnahmen zum Absatz von zu Butterschmalz verarbeiteter Butter aus privater Lagerhaltung
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 13/66/CEE del Consiglio, del 16 febbraio 1966, relativo
+    alle misure particolari concernenti la vendita, previa trasformazione in burro
+    fuso, del burro giacente negli ammassi privati
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 13/66/EEG van de Raad van 16 februari 1966 betreffende
+    de bijzondere maatregelen ten aanzien van de verkoop van boter uit particuliere
+    voorraad die vooraf tot gesmolten boter is verwerkt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31966R0013
+docidentifier:
+- content: EU Regulation 13/1966
+  type: EU
+  primary: true
+- content: CELEX 31966R0013
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1966/13/oj
+  type: ELI
+date:
+- type: issued
+  at: '1966-02-16'
+- type: implemented
+  at: '1966-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

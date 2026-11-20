@@ -1,0 +1,74 @@
+---
+id: EURegulation12251970
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1225/70 du Conseil, du 29 juin 1970, relatif aux règles
+    générales prévues pour compenser les montants correctifs appliqués aux prix
+    d'intervention de certains produits laitiers
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1225/70 des Rates vom 29. Juni 1970 über die Grundregeln
+    zum Ausgleich der Auswirkungen der Berichtigungsbeträge, die auf die Interventionspreise
+    gewisser Milcherzeugnisse angewandt werden
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1225/70 del Consiglio, del 29 giugno 1970, relativo
+    alle norme generali previste per perequare l'incidenza degli importi correttivi
+    applicati ai prezzi d'intervento di determinati prodotti lattiero- caseari
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1225/70 van de Raad van 29 juni 1970 met betrekking
+    tot de algemene voorschriften ter compensatie van het effect van de correctiebedragen
+    die op de interventieprijzen voor bepaalde zuivelprodukten worden toegepast
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31970R1225
+docidentifier:
+- content: EU Regulation 1225/1970
+  type: EU
+  primary: true
+- content: CELEX 31970R1225
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1970/1225/oj
+  type: ELI
+date:
+- type: issued
+  at: '1970-06-29'
+- type: implemented
+  at: '1970-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

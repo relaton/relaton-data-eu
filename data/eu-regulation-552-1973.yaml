@@ -1,0 +1,97 @@
+---
+id: EURegulation5521973
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 552/73 of the Commission of 21 February 1973 amending
+    Regulation (EEC) No 473/73 authorizing the United Kingdom to grant aid as a transitional
+    measure for sugar to be consumed in its territory
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 552/73 de la Commission, du 21 février 1973, modifiant
+    le règlement (CEE) n° 473/73 autorisant le Royaume-Uni à accorder à titre
+    transitoire une aide pour le sucre destiné à la consommation sur son territoire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 552/73 der Kommission vom 21. Februar 1973 zur Ergänzung
+    der Verordnung (EWG) Nr. 473/73 zur Ermächtigung des Vereinigten Königreichs,
+    für Zucker, der zum Verbrauch auf seinem Hoheitsgebiet bestimmt ist, vorübergehend
+    eine Beihilfe zu gewähren
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 552/73 af 21. februar 1973 om ændring
+    af forordning (EØF) nr. 473/73 om bemyndigelse for Det forenede Kongerige til
+    midlertidigt at yde støtte til sukker, som er bestemt til forbrug på dette område
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 552/73 della Commissione, del 21 febbraio 1973, che
+    modifica il regolamento (CEE) n. 473/73 che autorizza il Regno Unito ad accordare
+    a titolo transitorio un aiuto per lo zucchero destinato al consumo nel proprio
+    territorio
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 552/73 van de Commissie van 21 februari 1973 tot
+    wijziging van Verordening (EEG) nr. 473/73 waarbij het Verenigd Koninkrijk gemachtigd
+    wordt tijdelijk steun te verlenen voor suiker bestemd om op zijn grondgebied te
+    worden verbruikt
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31973R0552
+docidentifier:
+- content: EU Regulation 552/1973
+  type: EU
+  primary: true
+- content: CELEX 31973R0552
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1973/552/oj
+  type: ELI
+date:
+- type: issued
+  at: '1973-02-21'
+- type: implemented
+  at: '1973-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31973R0473
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

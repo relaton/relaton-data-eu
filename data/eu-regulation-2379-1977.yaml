@@ -1,0 +1,104 @@
+---
+id: EURegulation23791977
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Commission Regulation (EEC) No 2379/77 of 28 October 1977 amending Regulation
+    (EEC) No 232/75 as regards the sale of butter at reduced prices for use in the
+    manufacture of ice-cream and repealing Regulation (EEC) No 777/76
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2379/77 de la Commission, du 28 octobre 1977, modifiant
+    le règlement (CEE) n° 232/75 en ce qui concerne la vente à prix réduit de
+    beurre destiné à la fabrication de glaces alimentaires et abrogeant le règlement
+    (CEE) n° 777/76
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2379/77 der Kommission vom 28. Oktober 1977 zur Änderung
+    der Verordnung (EWG) Nr. 232/75 hinsichtlich des Verkaufs von Butter zu herabgesetzten
+    Preisen für die Herstellung von Speiseeis und zur Aufhebung der Verordnung (EWG)
+    Nr. 777/76
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 2379/77 af 28. oktober 1977 om ændring
+    af forordning (EØF) nr. 232/75 for så vidt angår salg til nedsat pris af smør
+    beregnet til fremstilling af konsumis og om ophævelse af forordning (EØF) nr.
+    777/76
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2379/77 della Commissione, del 28 ottobre 1977, che
+    modifica il regolamento (CEE) n. 232/75 per quanto riguarda la vendita a prezzo
+    ridotto di burro destinato alla fabbricazione di gelati ed abroga il regolamento
+    (CEE) n. 777/76
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2379/77 van de Commissie van 28 oktober 1977 houdende
+    wijziging van Verordening (EEG) nr. 232/75 met betrekking tot de verkoop tegen
+    verlaagde prijs van boter bestemd voor de vervaardiging van consumptie-ijs en
+    tot intrekking van Verordening (EEG) nr. 777/76
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31977R2379
+docidentifier:
+- content: EU Regulation 2379/1977
+  type: EU
+  primary: true
+- content: CELEX 31977R2379
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1977/2379/oj
+  type: ELI
+date:
+- type: issued
+  at: '1977-10-28'
+- type: implemented
+  at: '1977-10-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: obsoletes
+  bibitem:
+    docidentifier:
+    - content: CELEX 31976R0777
+      type: CELEX
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31975R0232
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

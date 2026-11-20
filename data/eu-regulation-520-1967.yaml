@@ -1,0 +1,66 @@
+---
+id: EURegulation5201967
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n 520/67/CEE de la Commission, du 31 août 1967, fixant la restitution
+    applicable à l'exportation pour le riz et les brisures
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 520/67/EWG der Kommission vom 31. August 1967 zur Festsetzung
+    der Erstattungen bei der Ausfuhr von Reis und Bruchreis
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 520/67/CEE della Commissione, del 31 agosto 1967, relativo
+    alla fissazione delle restituzioni all'esportazione per il riso e le rotture di
+    riso
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening no. 520/67/EEG van de Commissie van 31 augustus 1967 tot vaststelling
+    van de restituties bij uitvoer van rijst en breukrijst
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31967R0520
+docidentifier:
+- content: EU Regulation 520/1967
+  type: EU
+  primary: true
+- content: CELEX 31967R0520
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1967/520/oj
+  type: ELI
+date:
+- type: issued
+  at: '1967-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

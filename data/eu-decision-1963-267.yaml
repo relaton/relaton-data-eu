@@ -1,0 +1,80 @@
+---
+id: EUDecision1963267
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Décision de la Commission, du 28 mars 1963, relative à la mise à jour
+    de la liste des organismes de droit public, prévue à l'article 18 du règlement
+    n° 9 du Conseil concernant le Fonds social européen
+  type: main
+- language: de
+  script: Latn
+  content: '63/267/EWG: Entscheidung der Kommission vom 28. März 1963 zur Ergänzung
+    der in Artikel 18 der Verordnung Nr. 9 des Rats über den Europäischen Sozialfonds
+    vorgesehenen Liste der Körperschaften des öffentlichen Rechts'
+  type: main
+- language: it
+  script: Latn
+  content: '63/267/CEE: Decisione della Commissione del 28 marzo 1963 relativa all''aggiornamento
+    dell''elenco degli enti di diritto pubblico previsto all''articolo 18 del regolamento
+    n. 9 del Consiglio concernente il Fondo sociale europeo'
+  type: main
+- language: nl
+  script: Latn
+  content: '63/267/EEG: Beschikking van de Commissie van 28 maart 1963 houdende aanvulling
+    van de in artikel 18 van Verordening Nr. 9 van de Raad betreffende het Europees
+    Sociaal Fonds bedoelde lijst van publiekrechtelijke lichamen'
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31963D0267
+docidentifier:
+- content: EU Decision 1963/267
+  type: EU
+  primary: true
+- content: CELEX 31963D0267
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1963/267/oj
+  type: ELI
+date:
+- type: issued
+  at: '1963-03-28'
+- type: implemented
+  at: '1963-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31961D1203P0144
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

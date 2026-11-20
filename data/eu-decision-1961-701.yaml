@@ -1,0 +1,93 @@
+---
+id: EUDecision1961701
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: "/* Decision on the replacement of a member of the Advisory Committee of the Euratom Supply Agency */"
+  type: main
+- language: fr
+  script: Latn
+  content: Décision portant remplacement d'un membre du Comité consultatif de l'Agence
+    d'approvisionnement d'Euratom
+  type: main
+- language: de
+  script: Latn
+  content: Beschluß über die Ersetzung eines Mitglieds des Beirats der Euratom-Versorgungsagentur
+  type: main
+- language: da
+  script: Latn
+  content: "/* Euratom Rådet: Afgørelse om udnævnelse af en efterfølger for et medlem af Det rådgivende Udvalg for Euratoms Forsyningsagentur */"
+  type: main
+- language: el
+  script: Grek
+  content: Απόφαση περί αντικαταστάσεως ενός μέλους
+    τής Συμβουλευτικής Επιτροπής τού Οργανισμού
+    Εφοδιασμού τής Ευρατόμ
+  type: main
+- language: it
+  script: Latn
+  content: Decisione relativa alla sostituzione di un membro del Comitato Consultivo
+    dell'Agenzia di approvvigionamento dell'Euratom
+  type: main
+- language: nl
+  script: Latn
+  content: Besluit houdende vervanging van een lid van het Raadgevend Comité van
+    het Voorzieningsagentschap van Euratom
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31961D0701P1064
+docidentifier:
+- content: EU Decision 1961/701
+  type: EU
+  primary: true
+- content: CELEX 31961D0701P1064
+  type: CELEX
+- content: http://data.europa.eu/eli/dec/1961/701/oj
+  type: ELI
+date:
+- type: issued
+  at: '1961-05-02'
+- type: implemented
+  at: '1961-05-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 11957AN05
+      type: CELEX
+ext:
+  doctype:
+    content: decision
+  flavor: eu

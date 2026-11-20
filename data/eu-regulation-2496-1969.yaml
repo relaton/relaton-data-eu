@@ -1,0 +1,66 @@
+---
+id: EURegulation24961969
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n 2496/69 de la Commission, du 12 décembre 1969, relatif
+    à la suspension partielle de certains prélèvements fixés dans le secteur de
+    la viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2496/69 der Kommission vom 12. Dezember 1969 zur teilweisen
+    Aussetzung bestimmter Abschöpfungen auf dem Schweinefleischsektor
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2496/69 della Commissione, del 12 dicembre 1969, relativo
+    alla sospensione parziale di alcuni prelievi fissati nel settore delle carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2496/69 van de Commissie van 12 december 1969 betreffende
+    de gedeeltelijke schorsing van bepaalde heffingen in de sector varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31969R2496
+docidentifier:
+- content: EU Regulation 2496/1969
+  type: EU
+  primary: true
+- content: CELEX 31969R2496
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1969/2496/oj
+  type: ELI
+date:
+- type: issued
+  at: '1969-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

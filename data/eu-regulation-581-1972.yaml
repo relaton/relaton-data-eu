@@ -1,0 +1,91 @@
+---
+id: EURegulation5811972
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 581/72 of the Commission of 22 March 1972 amending
+    Commission Regulation (EEC) No 375/69 of 27 February 1969 on the declaration of
+    particulars relating to the value of goods for customs purposes
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 581/72 de la Commission, du 22 mars 1972, modifiant
+    le règlement (CEE) n° 375/69 de la Commission, du 27 février 1969, concernant
+    la déclaration des éléments relatifs à la valeur en douane des marchandises
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 581/72 der Kommission vom 22. März 1972 zur Änderung
+    der Verordnung (EWG) Nr. 375/69 der Kommission vom 27. Februar 1969 über die
+    Anmeldung der Angaben über den Zollwert der Waren
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 581/72 af 22. marts 1972 om ændring
+    af Kommissionens forordning (EØF) nr. 375/69 af 27. februar 1969 om angivelse
+    af oplysninger vedrørende varens toldværdi
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 581/72 della Commissione, del 22 marzo 1972, che modifica
+    il regolamento (CEE) n. 375/69 della Commissione, del 27 febbraio 1969, concernente
+    la dichiarazione degli elementi relativi al valore in dogana delle merci
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 581/72 van de Commissie van 22 maart 1972 tot wijziging
+    van Verordening (EEG) nr. 375/69 van de Commissie van 27 februari 1969, betreffende
+    de aangifte van gegevens inzake de douanewaarde van de goederen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31972R0581
+docidentifier:
+- content: EU Regulation 581/1972
+  type: EU
+  primary: true
+- content: CELEX 31972R0581
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1972/581/oj
+  type: ELI
+date:
+- type: issued
+  at: '1972-03-22'
+- type: implemented
+  at: '1972-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31969R0375
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

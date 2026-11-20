@@ -1,0 +1,99 @@
+---
+id: EURegulation11071971
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 1107/71 of the Commission of 28 May 1971 amending the
+    Annex to Regulation (EEC) No 698/71 fixing standard values for fishery products
+    withdrawn from the market and used in calculating financial compensation
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 1107/71 de la Commission, du 28 mai 1971, portant
+    modification de l' annexe du règlement (CEE)" n° 698/71 relatif à la fixation
+    de la valeur forfaitaire des produits de la pêche retirés du marché et intervenant
+    dans le calcul de la compensation financière
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1107/71 der Kommission vom 28. Mai 1971 zur Änderung
+    des Anhangs zur Verordnung (EWG) Nr. 698/71 der Kommission zur Festsetzung des
+    Pauschalwerts der aus dem Handel genommenen Fischereierzeugnisse, der zur Berechnung
+    des finanziellen Ausgleichs herangezogen wird
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens forordning (EØF) nr. 1107/71 af 28. maj 1971 om ændring
+    af bilaget til forordning (EØF) nr. 698/71 om fastsættelse af den fikserede
+    værdi for fiskerivarer, der er trukket ud af handelen som benyttes til beregning
+    af den finansielle udligning
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1107/71 della Commissione, del 28 maggio 1971, recante
+    modifica all' allegato del regolamento (CEE) n. 698/71 che fissa il valore forfettario
+    dei prodotti della pesca ritirati dal mercato, figurante nel calcolo della compensazione
+    finanziaria
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1107/71 van de Commissie van 28 mei 1971 houdende
+    wijziging van de bijlage bij Verordening (EEG) nr. 698/71 betreffende de vaststelling
+    van de forfaitaire waarde van de uit de markt genomen visserijprodukten voor de
+    berekening van de financiële vergoeding
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1107
+docidentifier:
+- content: EU Regulation 1107/1971
+  type: EU
+  primary: true
+- content: CELEX 31971R1107
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1971/1107/oj
+  type: ELI
+date:
+- type: issued
+  at: '1971-05-28'
+- type: implemented
+  at: '1971-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31971R0698
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

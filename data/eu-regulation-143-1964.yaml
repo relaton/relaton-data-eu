@@ -1,0 +1,74 @@
+---
+id: EURegulation1431964
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 143/64/CEE du Conseil du 21 octobre 1964 portant modification
+    du prix de référence fixé pour la République fédérale d'Allemagne pour le
+    produit pilote du groupe "lactose et sirop de lactose"
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 143/64/EWG des Rates vom 21. Oktober 1964 zur Änderung
+    des für die Bundesrepublik Deutschland festgesetzten Referenzpreises für das
+    Leiterzeugnis der Gruppe "Laktose und Laktosesirup"
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 143/64/CEE del Consiglio, del 21 ottobre 1964, che modifica
+    il prezzo di riferimento fissato per la Repubblica federale di Germania, per il
+    prodotto pilota del gruppo «lattosio e sciroppo di lattosio»
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 143/64/EEG van de Raad van 21 oktober 1964 houdende wijziging
+    van de voor de Bondsrepubliek Duitsland vastgestelde referentieprijs voor het
+    hoofdprodukt van de groep "melksuiker en melksuikerstroop"
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31964R0143
+docidentifier:
+- content: EU Regulation 143/1964
+  type: EU
+  primary: true
+- content: CELEX 31964R0143
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1964/143/oj
+  type: ELI
+date:
+- type: issued
+  at: '1964-10-21'
+- type: implemented
+  at: '1964-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,94 @@
+---
+id: EURegulation33311975
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 3331/75 of the Council of 18 December 1975 extending
+    the term of validity of Regulation (EEC) No 2829/72 on the Community quota for
+    the carriage of goods by road between Member States
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 3331/75 du Conseil, du 18 décembre 1975, prorogeant
+    le règlement (CEE) n° 2829/72 relatif au contingent communautaire pour les transports
+    de marchandises par route effectués entre États membres
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 3331/75 des Rates vom 18. Dezember 1975 zur Verlängerung
+    der Verordnung (EWG) Nr. 2829/72 über das Gemeinschaftskontingent für den Güterkraftverkehr
+    zwischen den Mitgliedstaaten
+  type: main
+- language: da
+  script: Latn
+  content: Rådets Forordning (EØF) nr. 3331/75 af 18. december 1975 om forlængelse
+    af gyldigheden af forordning (EØF) nr. 2829/72 om fællesskabskontingentet for
+    godstransport ad landevej mellem medlemsstaterne
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 3331/75 del Consiglio, del 18 dicembre 1975, che proroga
+    il regolamento (CEE) n. 2829/72 relativo al contingente comunitario per i trasporti
+    di merci su strada effettuati tra Stati membri
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 3331/75 van de Raad van 18 december 1975 houdende
+    verlenging van de geldigheidsduur van Verordening (EEG) nr. 2829/72 betreffende
+    het communautair contingent voor het goederenvervoer over de weg tussen de Lid-Staten
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975R3331
+docidentifier:
+- content: EU Regulation 3331/1975
+  type: EU
+  primary: true
+- content: CELEX 31975R3331
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1975/3331/oj
+  type: ELI
+date:
+- type: issued
+  at: '1975-12-18'
+- type: implemented
+  at: '1976-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31972R2829
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

@@ -1,0 +1,102 @@
+---
+id: EURegulation21781974
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Regulation (EEC) No 2178/74 of the Commission of 20 August 1974 amending
+    Regulation (EEC) No 1143/74 as regards the documents to be produced in order to
+    obtain the subsidies for Community wine products similar to the wine product exported
+    under the label of 'Cyprus Sherry'
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 2178/74 de la Commission, du 20 août 1974, modifiant
+    le règlement (CEE) n° 1143/74 en ce qui concerne les documents à présenter
+    pour l'octroi de l'aide prévue pour des produits vinicoles communautaires similaires
+    au produit exporté sous la mention "cyprus sherry"
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 2178/74 der Kommission vom 20. August 1974 zur Änderung
+    der Verordnung (EWG) Nr. 1143/74 in bezug auf die Dokumente, die für die Gewährung
+    der für Gemeinschaftsweinbauerzeugnisse, die dem unter der Bezeichnung "Cyprus
+    sherry" ausgeführten Weinbauerzeugnis gleichartig sind, vorgesehenen Beihilfen
+    vorzulegen sind
+  type: main
+- language: da
+  script: Latn
+  content: Kommissionens Forordning (EØF) nr. 2178/74 af 20. august 1974 om ændring
+    af forordning (EØF) nr. 1143/74 med hensyn til de dokumenter, der skal fremlægges
+    for at opnå støtte til vinprodukter, som svarer til vinprodukter, der udføres
+    under betegnelsen »Cyprus sherry«
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 2178/74 della Commissione, del 20 agosto 1974, che
+    modifica il regolamento (CEE) n. 1143/74, per quanto concerne i documenti da presentare
+    al fine di ottenere l'aiuto previsto per i prodotti vinicoli comunitari simili
+    al prodotto vinicolo esportato con la menzione «Cyprus Sherry»
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 2178/74 van de Commissie van 20 augustus 1974 tot
+    wijziging van Verordening (EEG) nr. 1143/74 ten aanzien van de documenten die
+    moeten worden overgelegd om in aanmerking te komen voor de steun welke is ingesteld
+    voor communautaire wijnbouwprodukten van dezelfde aard als het wijnbouwprodukt
+    dat onder de naam "Cyprus sherry" wordt uitgevoerd
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31974R2178
+docidentifier:
+- content: EU Regulation 2178/1974
+  type: EU
+  primary: true
+- content: CELEX 31974R2178
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1974/2178/oj
+  type: ELI
+date:
+- type: issued
+  at: '1974-08-20'
+- type: implemented
+  at: '1974-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: European Commission
+    abbreviation:
+      content: COM
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31974R1143
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

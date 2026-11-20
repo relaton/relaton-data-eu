@@ -1,0 +1,74 @@
+---
+id: EURegulation7691968
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement (CEE) n° 769/68 du Conseil, du 18 juin 1968, arrêtant les
+    mesures nécessaires pour compenser la différence entre les prix nationaux du
+    sucre et les prix valables à partir du 1er juillet 1968
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 769/68 des Rates vom 18. Juni 1968 über die Maßnahmen,
+    die zum Ausgleich des Unterschieds zwischen den innerstaatlichen Zuckerpreisen
+    und den ab 1. Juli 1968 geltenden Preisen erforderlich sind
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 769/68 del Consiglio, del 18 giugno 1968, che stabilisce
+    le misure necessarie per coprire la differenza tra i prezzi nazionali dello zucchero
+    ed i prezzi valevoli dal 1 luglio 1968
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 769/68 van de Raad van 18 juni 1968 houdende vaststelling
+    van de maatregelen ter overbrugging van het verschil tussen de nationale suikerprijzen
+    en de met ingang van 1 juli 1968 geldende prijzen
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31968R0769
+docidentifier:
+- content: EU Regulation 769/1968
+  type: EU
+  primary: true
+- content: CELEX 31968R0769
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1968/769/oj
+  type: ELI
+date:
+- type: issued
+  at: '1968-06-18'
+- type: implemented
+  at: '1968-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

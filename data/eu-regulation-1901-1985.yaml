@@ -1,0 +1,108 @@
+---
+id: EURegulation19011985
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Council Regulation (EEC) No 1901/85 of 8 July 1985 amending Regulation
+    (EEC) No 222/77 on Community transit
+  type: main
+- language: fr
+  script: Latn
+  content: Règlement (CEE) no 1901/85 du Conseil du 8 juillet 1985 modifiant le règlement
+    (CEE) no 222/77 relatif au transit communautaire
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung (EWG) Nr. 1901/85 des Rates vom 8. Juli 1985 zur Änderung der
+    Verordnung (EWG) Nr. 222/77 über das gemeinschaftliche Versandverfahren
+  type: main
+- language: da
+  script: Latn
+  content: Rådets forordning (EØF) nr. 1901/85 af 8. juli 1985 om ændring af forordning
+    (EØF) nr. 222/77 om fællesskabsforsendelse
+  type: main
+- language: el
+  script: Grek
+  content: Κανονισμός (ΕΟΚ) αριθ. 1901/85 του Συμβουλίου
+    της 8ης Ιουλίου 1985 για τροποποίηση του κανονισμού
+    (ΕΟΚ) αριθ. 222/77 περί της κοινοτικής διαμετακόμισης
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento (CEE) n. 1901/85 del Consiglio dell' 8 luglio 1985 che modifica
+    il regolamento (CEE) n. 222/77 relativo al transito comunitario
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening (EEG) nr. 1901/85 van de Raad van 8 juli 1985 tot wijziging
+    van Verordening (EEG) nr. 222/77 betreffende communautair douanevervoer
+  type: main
+- language: pt
+  script: Latn
+  content: Regulamento (CEE) n.° 1901/85 do Conselho, de 8 de Julho de 1985, que
+    altera o Regulamento (CEE) n.° 222/77 relativo ao trânsito comunitário
+  type: main
+- language: es
+  script: Latn
+  content: Reglamento (CEE) n° 1901/85 del Consejo, de 8 de julio de 1985, por el
+    que se modifica el Reglamento (CEE) n° 222/77 relativo al tránsito comunitario
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985R1901
+docidentifier:
+- content: EU Regulation 1901/1985
+  type: EU
+  primary: true
+- content: CELEX 31985R1901
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1985/1901/oj
+  type: ELI
+date:
+- type: issued
+  at: '1985-07-08'
+- type: implemented
+  at: '1985-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- en
+- fr
+- de
+- da
+- el
+- it
+- nl
+- pt
+- es
+script:
+- Latn
+- Grek
+status:
+  stage:
+    content: not-in-force
+relation:
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: CELEX 31977R0222
+      type: CELEX
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

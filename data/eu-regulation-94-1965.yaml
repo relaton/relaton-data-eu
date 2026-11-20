@@ -1,0 +1,74 @@
+---
+id: EURegulation941965
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 94/65/CEE du Conseil, du 29 juin 1965, portant fixation
+    du montant des prélèvements envers les pays tiers pour le porc, la viande de
+    porc et les produits à base de viande de porc
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 94/65/EWG des Rates vom 29. Juni 1965 über die Festsetzung
+    der Abschöpfungsbeträge gegenüber dritten Ländern für Schweine, Schweinefleisch
+    und Schweinefleisch enthaltende Erzeugnisse
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 94/65/CEE del Consiglio, del 29 giugno 1965, relativo alla
+    fissazione dell'ammontare dei prelievi nei confronti dei paesi terzi applicabili
+    ai suini, alle carni suine e ai prodotti a base di carni suine
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 94/65/EEG van de Raad van 29 juni 1965 houdende vaststelling
+    van de heffingen ten opzichte van derde landen voor varkens, varkensvlees en produkten
+    op basis van varkensvlees
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31965R0094
+docidentifier:
+- content: EU Regulation 94/1965
+  type: EU
+  primary: true
+- content: CELEX 31965R0094
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1965/94/oj
+  type: ELI
+date:
+- type: issued
+  at: '1965-06-29'
+- type: implemented
+  at: '1965-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu

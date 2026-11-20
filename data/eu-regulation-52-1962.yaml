@@ -1,0 +1,70 @@
+---
+id: EURegulation521962
+schema_version: v1.5.6
+type: standard
+title:
+- language: fr
+  script: Latn
+  content: Règlement n° 52 du Conseil portant fixation du montant des prélèvements
+    intracommunautaires pour le porc vivant
+  type: main
+- language: de
+  script: Latn
+  content: Verordnung Nr. 52 des Rats über die Festsetzung der innergemeinschaftlichen
+    Abschöpfungsbeträge für lebende Schweine
+  type: main
+- language: it
+  script: Latn
+  content: Regolamento n. 52 del Consiglio relativo alla determinazione dell'ammontare
+    dei prelievi intracomunitari applicabili ai suini vivi
+  type: main
+- language: nl
+  script: Latn
+  content: Verordening Nr. 52 van de Raad, houdende vaststelling van het bedrag van
+    de intracommunautaire heffingen voor levende varkens
+  type: main
+source:
+- type: src
+  content: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31962R0052
+docidentifier:
+- content: EU Regulation 52/1962
+  type: EU
+  primary: true
+- content: CELEX 31962R0052
+  type: CELEX
+- content: http://data.europa.eu/eli/reg/1962/52/oj
+  type: ELI
+date:
+- type: issued
+  at: '1962-06-29'
+- type: implemented
+  at: '1962-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Council of the European Union
+    abbreviation:
+      content: CONSIL
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Publications Office of the European Union
+    abbreviation:
+      content: OP
+language:
+- fr
+- de
+- it
+- nl
+script:
+- Latn
+status:
+  stage:
+    content: not-in-force
+ext:
+  doctype:
+    content: regulation
+  flavor: eu
