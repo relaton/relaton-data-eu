@@ -1,5 +1,16 @@
 name: Crawler
 
+# relaton-data-eu only. This is gh-actions/data/crawler.yml plus a `full`
+# checkbox on "Run workflow": relaton-data-eu's crawler.rb takes `full` (full
+# crawl with prune) or `updates`, and picks the run itself with no argument.
+# The other data repos' crawler.rb files do not take `full`, so the shared
+# template cannot carry it. Keep everything else in step with the shared
+# template: spec/data_eu_crawler_template_spec.rb fails on any other difference.
+#
+# On a scheduled run `inputs.full` is empty, so `args` is '' and crawler.rb
+# picks the run: a full crawl on UTC day 1 or with no cellar-since.txt, else an
+# update run.
+
 # Scheduled or by hand, and nothing else. A crawl is expensive — the largest
 # flavors hold tens to hundreds of thousands of documents (relaton-data-3gpp
 # 88k, relaton-data-ids 166,658) — so it should start only when there is reason
@@ -19,9 +30,17 @@ name: Crawler
 # and pushes the crawled corpus to whatever branch it runs on.
 on:
   schedule:
-  - cron: '0 14 * * *'
+  # Off-minute: GitHub load-sheds whole-minute-0 crons by hours (relaton
+  # contract.yml#173, relaton corpus.yml#566) — the crawls were firing
+  # well past 14:00 UTC fleet-wide.
+  - cron: '37 14 * * *'
   workflow_dispatch:
     inputs:
+      full:
+        description: Full crawl of the corpus, with prune (not an update run); overrides args
+        type: boolean
+        required: false
+        default: false
       args:
         description: Extra args to pass to crawler.rb script
         required: false
@@ -43,4 +62,4 @@ jobs:
       contents: write
     uses: relaton/support/.github/workflows/crawler.yml@main
     with:
-      args: ${{ github.event.inputs.args }}
+      args: ${{ inputs.full && 'full' || github.event.inputs.args }}

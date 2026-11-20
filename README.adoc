@@ -74,8 +74,16 @@ the next run reads the same changes again.
 crawler workflow commits only `data/` and the index files.
 
 The daily `Crawler` workflow runs `crawler.rb` and commits the result. `Deploy`
-then publishes the Pages index. To start a run of one type, dispatch `Crawler`
-with the argument `full` or `updates`.
+then publishes the Pages index. To start a full crawl by hand, run `Crawler`
+with the box `full` checked:
+
+[source,sh]
+----
+gh workflow run crawler.yml -R relaton/relaton-data-eu -f full=true
+----
+
+The box overrides `args`. To force an update run, leave the box empty and set
+`args` to `updates`.
 
 == Gem source
 
@@ -87,4 +95,6 @@ when relaton releases the flavor.
 
 The files in `.github/workflows/` are managed by
 https://github.com/relaton/support[relaton/support] (Cimas). Do not edit them
-here: change the templates in `support/cimas-config/gh-actions/`.
+here: change the templates in `support/cimas-config/gh-actions/`. `crawler.yml`
+comes from `data-eu/crawler.yml`, a copy of the shared crawler template with the
+`full` box.

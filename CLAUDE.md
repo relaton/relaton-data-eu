@@ -28,6 +28,10 @@ Data repo for `Relaton::Eu` (EU regulations, directives, decisions). See README.
 - A data file carries no `fetched`; `Bibliography#fetch_doc` sets it on read.
 - `.github/workflows/*.yml` are byte copies of relaton/support Cimas templates;
   `spec/workflows_spec.rb` pins that (skips when `../support` is absent).
+  `crawler.yml` is `gh-actions/data-eu/crawler.yml` (support#101): the shared
+  template plus a boolean `full` dispatch input that passes `full` as args.
+  support's cimas.yml maps only check_data, crawler and keep-alive for now;
+  deploy.yml and check-index.yml wait for relaton#589 on relaton main.
 - `spec/fixtures/data/eu-regulation-1227-2011.yaml` is a copy of the relaton
   fixture `spec/eu/fixtures/data/` (DataFetcher output, relaton 3df82dcdd,
   titles in 24 languages). Do not edit it by hand.

@@ -9,7 +9,7 @@ RSpec.describe "Cimas-managed workflows" do
   map = {
     "check-index.yml" => "data/check-index.yml",
     "check_data.yml" => "data/check_data.yml",
-    "crawler.yml" => "data/crawler.yml",
+    "crawler.yml" => "data-eu/crawler.yml",
     "deploy.yml" => "data/deploy.yml",
     "keep-alive.yml" => "master/keep-alive.yml",
   }
