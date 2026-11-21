@@ -2,11 +2,12 @@
 
 source "https://rubygems.org"
 
-# The EU flavor lives in the combined `relaton` gem. `Relaton::Eu` is not
-# released yet: it is on the relaton branch `docs/eu-flavor-design`
-# (relaton/relaton#44). When relaton releases it, change this line to the
-# released version, for example `gem "relaton", "~> 3.2"`.
-gem "relaton", github: "relaton/relaton", branch: "docs/eu-flavor-design"
+# The EU flavor lives in the combined `relaton` gem. `Relaton::Eu` is on
+# relaton `main` (relaton/relaton#589), not released yet. Take it from `main`,
+# never from a feature branch: GitHub deletes the branch at the merge, and
+# `bundle install` then fails. When relaton releases the flavor, change this
+# line to the released version, for example `gem "relaton", "~> 3.2"`.
+gem "relaton", github: "relaton/relaton", branch: "main"
 
 # Pin pubid here too. 2.0.44 is the first release with `Pubid::Eu`
 # (pubid#752), which keys index-v2; 2.0.46 reads the ELI subtypes

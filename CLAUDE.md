@@ -2,14 +2,15 @@
 
 Data repo for `Relaton::Eu` (EU regulations, directives, decisions). See README.adoc.
 
-- `Gemfile` takes relaton from the git branch `docs/eu-flavor-design`
-  (relaton/relaton#44): the flavor is not released. Change it to the released
-  version at the release. The update source (`eu-cellar-updates`) is in
-  relaton commit d4bf0d543; run `bundle update relaton` after it is pushed.
-  pubid must be >= 2.0.46 (`Pubid::Eu` with ELI subtypes).
-- Check index and Deploy build relaton from `relaton/relaton@main`, so they
-  fail until relaton#44 is merged there. They also need a relaton/support
-  `data-index/configs.yml` row and a `cimas.yml` entry (both handed off).
+- `Gemfile` takes relaton from the git branch `main` (relaton#589 merged
+  there; the flavor is not released). Never point it at a feature branch:
+  GitHub deletes it at the merge and `bundle install` fails. Change it to the
+  released version at the release. `Gemfile.lock` is not in git, so CI
+  resolves the Gemfile again on each run; `spec/gemfile_spec.rb` pins the
+  source. pubid must be >= 2.0.46 (`Pubid::Eu` with ELI subtypes).
+- Check index and Deploy build relaton from `relaton/relaton@main`. They also
+  need a relaton/support `data-index/configs.yml` row and a `cimas.yml` entry
+  (both handed off).
 - `crawler.rb [full|updates]`: no argument means full when
   `cellar-since.txt` is missing or on UTC day 1, else updates. So the
   standard daily cron gives a monthly full crawl and daily updates.
@@ -31,7 +32,7 @@ Data repo for `Relaton::Eu` (EU regulations, directives, decisions). See README.
   `crawler.yml` is `gh-actions/data-eu/crawler.yml` (support#101): the shared
   template plus a boolean `full` dispatch input that passes `full` as args.
   support's cimas.yml maps only check_data, crawler and keep-alive for now;
-  deploy.yml and check-index.yml wait for relaton#589 on relaton main.
+  deploy.yml and check-index.yml wait for the support mapping.
 - `spec/fixtures/data/eu-regulation-1227-2011.yaml` is a copy of the relaton
   fixture `spec/eu/fixtures/data/` (DataFetcher output, relaton 3df82dcdd,
   titles in 24 languages). Do not edit it by hand.
